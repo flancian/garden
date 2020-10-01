@@ -1,0 +1,3 @@
+- https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/ by [[acesounderglass]], recommended to me by [[victor hugo]].
+- A response to [[Weekly Reviews]]. Good idea, but hard to keep up; [[PredictionBook]] gets you many of the promised benefits with less willpower. 
+- 

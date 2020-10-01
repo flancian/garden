@@ -1,0 +1,2 @@
+- Met [[techpractical]] on Twitter.
+    - [ ] Join freenode#voxpub

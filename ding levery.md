@@ -1,0 +1,5 @@
+- Weird I didn't node him until today, 2020-09-16.
+- A [[person]] on [[twitter]].
+- I like them.
+- A friend of [[AbstractFairy]]. A techie. Into federation. Runs their own [[zulip]] instance.
+- [[meditates]] but just casually.

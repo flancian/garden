@@ -1,0 +1,1 @@
+- Seems nice and smart.

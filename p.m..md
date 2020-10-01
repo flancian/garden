@@ -1,0 +1,2 @@
+- Writer of [[bolo'bolo]].
+- A [[person]].

@@ -1,0 +1,1 @@
+- First day trying out Roam Research. Excited! Let's see how it goes.

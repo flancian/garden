@@ -1,0 +1,4 @@
+- Michael W. Taft's podcast with Leigh Brasington on [[jhanas]] is proving very interesting.
+- [[nts]]: new york minimalism vol 1
+- [[dyokomizo]] is interested in coordination problems and governance
+- 

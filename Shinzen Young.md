@@ -1,0 +1,5 @@
+- http://homepracticeprogram.com/
+- https://www.shinzen.org/
+- https://en.wikipedia.org/wiki/Shinzen_Young 
+- https://twitter.com/flancian/status/1308880015866687491
+- 

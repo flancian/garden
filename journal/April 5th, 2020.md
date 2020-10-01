@@ -1,0 +1,2 @@
+- Hoy hablé con mi Hermano.
+- Sacar la basura

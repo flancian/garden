@@ -1,0 +1,7 @@
+- [x] Do 'hello world' in [[Typescript]]
+- [x] Do codelab
+- [x] Run manually built internal extension
+- [x] Run manually built external extension
+- [x] Make trivial change in internal extension
+- [x] Read code
+- [x] Read https://code.visualstudio.com/docs/getstarted/tips-and-tricks

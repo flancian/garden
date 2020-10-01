@@ -1,0 +1,2 @@
+- This is a note I will use to track implementation ideas for the v1 of the [[Agora]].
+- The v1 is [[Twitter]] plus [[Anagora]]

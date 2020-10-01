@@ -1,0 +1,5 @@
+- Tendremos café!
+- [[Zettelkasten]]
+- [[Kanban]]
+- Found https://twitter.com/iamtrask, works on DeepMind? Seems to think interesting thoughts.
+- [[edmodo]]

@@ -1,0 +1,3 @@
+- Luciana told me about https://en.wikipedia.org/wiki/Inverted_World and [[Christopher Priest]].
+- 
+- 

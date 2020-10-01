@@ -1,0 +1,2 @@
+- Go links are complementary; search is suplementary.
+- 

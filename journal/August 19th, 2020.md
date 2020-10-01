@@ -1,0 +1,2 @@
+- [[iron absorption]] is inhibited by polyphenols in tea/coffee, not caffeine it seems? 
+- 

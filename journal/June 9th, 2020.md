@@ -1,0 +1,4 @@
+- Livetweeting my reading holiday. Unsure if good or bad idea. It is a form of note taking, though. https://twitter.com/flancian/status/1270290784118542338
+- Chrome extension idea: [[Meritocracy]]
+- 
+- 
