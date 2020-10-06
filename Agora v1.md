@@ -1,2 +1,9 @@
+- See also: https://flancia.org/go/agora-v1 [[doc]].
 - This is a note I will use to track implementation ideas for the v1 of the [[Agora]].
-- The v1 is [[Twitter]] plus [[Anagora]]
+- ~~~The v1 is [[Twitter]] plus [[Anagora]]~~~
+- Scratch that :) the v1 is:
+  - Foam/Obsidian based notes forming a personal digital garden.
+  - Hosted in a public or private repository, by default git.
+  - Federated/interlinked using a conventional scheme, plus a set of ancillary tools (scripts).
+  - Integrated with go links/URL redirectors.
+- From conversation with [[dyokomizo]]: would be interesting to track characteristics/traits of conversations as they evolve. Does non-escalation lead to better discourse? Does escalation really lead more often/quickly to violence?
