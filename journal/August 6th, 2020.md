@@ -1,3 +1,4 @@
+# August 6th, 2020
 - [[Quick Capture]]
     - Perhaps I should model my [[Daily]] routine.
     - Herta Hammerbacher - Wikipedia

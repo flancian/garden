@@ -1,3 +1,4 @@
+# Joscha Bach
 - A [[person]] on [[twitter]]: @plinz.
 - Seems like an all-around nice guy. I agree with most (everything?) I've heard him say, so far.
 - Conversation with [[Lex Fridman]]

@@ -1,3 +1,4 @@
+# September 4th, 2020
 - [[M. B.]] told me about [[Douglas Adams]]'s Pink Glasses: https://en.wikipedia.org/wiki/Somebody_else%27s_problem
 - [ ] Yesterday I met [[whomademecrispy]], a [[person]] on [[twitter]]. I should read this: https://twitter.com/whomademecrispy/status/1301301690235117568
 - Liked this: https://twitter.com/jolielizabeth21/status/1301315843783929856

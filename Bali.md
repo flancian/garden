@@ -1,3 +1,4 @@
+# Bali
 - Gili islands
     - They’re three small islands next to each other
     - 10 mins between them

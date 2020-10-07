@@ -1,3 +1,4 @@
+# August 10th, 2020
 - [[Ross Perot]]
 - [[Cheeses of Europe]]
 - [ ] Meta: execute on my [[TODO]]

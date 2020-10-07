@@ -1,3 +1,4 @@
+# The Great Tab Purge of 2020
 - [[EAGxVirtual 2020]] notes doc: https://docs.google.com/document/d/16I-46tLL1Q--ZeKsxma9mK7sCgC1_G2KGARu6V5j0NM/edit?pli=1#
 - [[EAGxVirtual 2020]]slack: https://app.slack.com/client/T014JA0VD60/C013ZFNDCKZ/user_profile/U015919TZN1
     - never got in touch with Olga Babeeva after our nice meeting -- should probably reach out to her in some other medium

@@ -1,3 +1,4 @@
+# social.coop
 - social.coop looks like an Agora: https://twitter.com/flancian/status/1292401355118845952
 - Applied. Got accepted!
 - [[Loomio]]: https://www.loomio.org/socialcoop/

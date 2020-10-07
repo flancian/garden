@@ -1,3 +1,4 @@
+# Some Possible Paths to Flancia
 - [[Agora]]
     - The Agora as a tool for constructive magical thinking
     - Three example Agoras

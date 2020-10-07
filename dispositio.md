@@ -1,3 +1,4 @@
+# Dispositio
 - the introduction, or __exordium__ The term __[exordium](https://en.wiktionary.org/wiki/exordium#Latin)__ is Latin for "the beginning". In the exordium, the speaker gives their main argument, and all the relevant information.
 - the statement of the case, or __narratio__. Quintilian explained that in the narratio "we shall for instance represent a person accused of theft as covetous, accused of adultery as lustful, accused of homicide as rash, or attribute the opposite qualities to these persons if we are defending them; further we must do the same with place, time and the like".
 - the outline of the major points in the argument, or __divisio__ (sometimes known as __partitio__). It has two functions: to name the issues in dispute and to list the arguments to be used in the order they will appear.

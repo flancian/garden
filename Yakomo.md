@@ -1,3 +1,4 @@
+# Yakomo
 - Also know them as Y. A [[person]].
 - Met them on [[twitter]].
 - Signed up again into Matrix after their recommendation. Set up a [[Matrix Agora]].

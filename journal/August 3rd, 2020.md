@@ -1,3 +1,4 @@
+# August 3rd, 2020
 - Learnt about [[spoudaiogeloion]].
 - [[Quick Capture]]
     - [ ] order sencha 

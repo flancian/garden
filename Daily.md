@@ -1,3 +1,4 @@
+# Daily
 - (Self: https://flancia.org/go/daily)
 - Meditate for at least one minute now.
 - Find and allocate time to continue my meditation practice. 

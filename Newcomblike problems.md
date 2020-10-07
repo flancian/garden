@@ -1,3 +1,4 @@
+# Newcomblike Problems
 - http://mindingourway.com/intro-to-newcomblike-problems/. also: https://en.wikipedia.org/wiki/Newcomb%27s_paradox
     - "Today it is a much debated problem in the philosophical branch of [decision theory](https://en.wikipedia.org/wiki/Decision_theory).[[3]](https://en.wikipedia.org/wiki/Newcomb%27s_paradox#cite_note-3)"
 - Named after William Newcomb

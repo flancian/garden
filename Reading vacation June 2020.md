@@ -1,3 +1,4 @@
+# Reading Vacation June 2020
 - For the purpose of preparing for [[EAGxVirtual 2020]], but also just because I need/want one.
 - Draft reading list follows.
 - [[Anarchy in Action]] by [[Colin Ward]]

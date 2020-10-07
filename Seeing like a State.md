@@ -1,3 +1,4 @@
+# Seeing Like a State
 - __**Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed**__ is a book by [James C. Scott](https://en.wikipedia.org/wiki/James_C._Scott) critical of a system of beliefs he calls [high modernism](https://en.wikipedia.org/wiki/High_modernism), that centers around confidence in the ability to design and operate society in accordance with [scientific laws](https://en.wikipedia.org/wiki/Scientific_laws).[[1]](https://en.wikipedia.org/wiki/Seeing_Like_a_State#cite_note-1)[[2]](https://en.wikipedia.org/wiki/Seeing_Like_a_State#cite_note-nyt-review-2)
 - https://twitter.com/flancian/status/1279479233316827136
 - Introduction

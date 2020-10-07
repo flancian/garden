@@ -1,3 +1,4 @@
+# September 27th, 2020
 - Play https://twitter.com/sn_fk_n/status/1309942837748871170 recommended by [[snufkin]]
 - Nice thread about [[fonts]] in [[hn]]: https://news.ycombinator.com/item?id=24588225
 - White [[onboarding to the Agora]] / [[using the Agora]] / [[building an Agora]]: https://twitter.com/TitusHora/status/1310253591991586819 [[titushora]]

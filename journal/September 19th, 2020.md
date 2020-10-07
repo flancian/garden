@@ -1,3 +1,4 @@
+# September 19th, 2020
 - [x] Donate
 - [x] Sacar turno
 - [[goblinodds]] spoke about [[Voltairine de Cleyre ]]

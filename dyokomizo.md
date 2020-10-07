@@ -1,3 +1,4 @@
+# Dyokomizo
 - A [[person]] on [[twitter]]. Zen practitioner. Programmer/tech worker. Brazilian.
     - Highly overlapping profiles?
 - Chat SoT: https://flancia.org/go/dyokomizo-flancian

@@ -1,3 +1,4 @@
+# September 12th, 2020
 - Learnt a bit about [[Epicureanism]]
 - 
 - [[Quick Capture]]

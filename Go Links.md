@@ -1,3 +1,4 @@
+# Go Links
 - Funnily enough, I didn't have this page until now.
 - [[trotto]] seems like the most promising open source implementation. The creator is also friendly.
 - https://medium.com/@golinks/the-full-history-of-go-links-and-the-golink-system-cbc6d2c8bb3 

@@ -1,3 +1,4 @@
+# September 6th, 2020
 - [[goals]]: build [[Flancia]]
     - [[goals]]: [[Agora]] with [[Flancians]]
         - [[goals]]: [[Go Links]] with [[Flancians]]

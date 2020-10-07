@@ -1,3 +1,4 @@
+# September 24th, 2020
 - Had a great DM conversation with [[seconds_0]].
 - Did 1 like = 1 thought about the Agora and it did well: https://twitter.com/flancian/status/1309088913194188801
 - Started reading https://www.rationality.org/resources/updates/2016/double-crux as per the above [[rationality]] [[double crux]] [[dyokomizo]]

@@ -1,3 +1,4 @@
+# August 9th, 2020
 - [[NamePresumably]] seems interesting.
 - Interacted with [[metametrician]], [[unknownquant]]
 - [[spiderfoods]] told me about [[Jevons paradox]]: https://twitter.com/spiderfoods/status/1292495585065435144 -- also is into [[Ross Perot]], which I found surprising but interesting.

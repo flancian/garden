@@ -1,3 +1,4 @@
+# September 14th, 2020
 - [[tyler alterman]] wants to buy a castle (?): https://twitter.com/TylerAlterman/status/1303492867311230976
 - Opened [[daily]]
 - Chatted with [[harveykrishna]] on Twitter DMs. Weird I didn't have a node on him/her already!

@@ -1,3 +1,4 @@
+# September 17th, 2020
 - [ ] [[September 19th, 2020]]: ordenar papeles en lixhult y kallax
 - [ ] [[September 19th, 2020]]: mover lámpara del dormitorio al guest room
 - [ ] [[September 19th, 2020]]: armar lámpara del dormitorio

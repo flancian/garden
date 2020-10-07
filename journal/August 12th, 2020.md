@@ -1,3 +1,4 @@
+# August 12th, 2020
 - Tidied up around the house, went to the supermarket, etc.
 - Talked to my family.
 - [[TODO]]

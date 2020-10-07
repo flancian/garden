@@ -1,3 +1,4 @@
+# September 22nd, 2020
 - Slept really badly -- for no obvious reason.
 - Lots of work today. Oh well. It'll pass :)
 - [[Offline Twitter]]

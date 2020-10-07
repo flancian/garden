@@ -1,3 +1,4 @@
+# September 9th, 2020
 - [[Quick Capture]]
     - Ruark Audio MR-1 MK2 (1 pair, 20W, Rich Walnut) - digitec
 

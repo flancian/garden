@@ -1,3 +1,4 @@
+# July 4th, 2020
 - Thought of the [[Arcades Project]]
 - In [[Flancia]] there are [[Arcades]].
 - Should I read something by [[Taleb]]?

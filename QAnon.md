@@ -1,3 +1,4 @@
+# QAnon
 - https://en.wikipedia.org/wiki/QAnon
 - In July 2020, Twitter banned thousands of QAnon-affiliated accounts and changed its algorithms to reduce the theory's spread.
 - The conspiracy theory, disseminated mainly by supporters of Trump as **The Storm** and **The Great Awakening**—QAnon's precepts and vocabulary are closely related to the religious concepts of [millenarianism](https://en.wikipedia.org/wiki/Millenarianism) and [apocalypticism](https://en.wikipedia.org/wiki/Apocalypticism),[](https://en.wikipedia.org/wiki/QAnon#cite_note-salon0819-31) leading it to be sometimes construed as an emerging religious movement

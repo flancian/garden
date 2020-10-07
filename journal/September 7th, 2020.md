@@ -1,3 +1,4 @@
+# September 7th, 2020
 - Consider watching Starship Troopers: https://twitter.com/AmishNDAhaus/status/1302773063453376512
 - [[Quick Capture]]
     - https://twitter.com/m_ashcroft/status/1302736123026907141?s=09

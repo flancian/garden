@@ -1,3 +1,4 @@
+# August 24th, 2020
 - Renewed anagora.org for two years. By impulse went up to two years, then checked what I had done for flancia.org back in July -- two years as well. I forget but I am sometimes consistent.
 - Vi parte de https://www.youtube.com/watch?v=qyRaDJwP1u4 con Lu, sobre [[Macedonio Fernandez]]
 - Anoté idea de regalo para [[G.]]

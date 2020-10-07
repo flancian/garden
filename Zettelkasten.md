@@ -1,3 +1,4 @@
+# Zettelkasten
 - https://www.youtube.com/watch?v=rOSZOCoqOo8 by [[Shu Omi]].
 - In [[Roam]]: https://www.youtube.com/watch?v=ljyo_WAJevQ
 - [ ] https://blog.viktomas.com/posts/slip-box/ 

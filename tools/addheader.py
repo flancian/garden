@@ -5,7 +5,6 @@ import titlecase
 
 for filename in pathlib.Path('.').glob('**/*.md'):
     f = open(filename, 'r')
-    f_rw = open(filename, 'w')
     print('file: %s' % filename)
     lines = f.readlines()
     if lines:
@@ -19,6 +18,6 @@ for filename in pathlib.Path('.').glob('**/*.md'):
             header = '# ' + titlecase.titlecase(sanitized_filename) + '\n'
             print('adding header:', header)
             lines.insert(0, header)
-            # uncomment when this actually works.
-            # f_rw.writelines(lines)
+            with open(filename, 'w') as f_rw:
+                f_rw.writelines(lines)
             print('---')

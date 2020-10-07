@@ -1,3 +1,4 @@
+# September 3rd, 2020
 - Likely interesting post about Roam: https://www.nateliason.com/blog/roam
 - [ ] Check out [[conaw]]'s pinned thread: https://twitter.com/adam_keesling/status/1196864424725774336
 - Should read my [[TODO]]

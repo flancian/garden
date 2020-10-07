@@ -1,3 +1,4 @@
+# August 13th, 2020
 - Talked to [[0x0c7a]] about P2P
 - Talked to [[AbstractFairy]]
 - Talked to [[Jonathan the Utopian]]

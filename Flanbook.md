@@ -1,3 +1,4 @@
+# Flanbook
 - A post I should write. Probably relates to this: https://twitter.com/flancian/status/1298712522501926912
 - Algorithm (the [[Agora]] is an open repository for social algorithms) [[tweet]]
     - Define central coordination entity, a.k.a. Agora.

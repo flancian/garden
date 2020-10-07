@@ -1,3 +1,4 @@
+# September 13th, 2020
 - 11AM: 
     - created https://flancia.org/go/2020-09-13 (https://docs.google.com/document/d/1k1Dr7eJVGhd7n_4jnEdZUThOUrRPHZTDCvGMxADHJRI/edit) 
     - opened [[Daily]].

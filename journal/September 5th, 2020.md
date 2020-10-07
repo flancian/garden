@@ -1,3 +1,4 @@
+# September 5th, 2020
 - One of the best days ever. Had get conversations with my family and [[L.]].
 - [[doqxascott]] is interested in building Agoras: https://twitter.com/DoqxaScott/status/1302194929414754304
 - [[Fogg Behavior Model]] is relevant for [[procrastination]]

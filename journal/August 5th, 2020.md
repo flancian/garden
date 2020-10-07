@@ -1,3 +1,4 @@
+# August 5th, 2020
 - I intend to write [[Caramel City]] today.
 - I intend to assemble one piece of Ikea furniture.
 - I intend to properly fix the bathroom light fixture.

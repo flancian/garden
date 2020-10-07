@@ -1,3 +1,4 @@
+# August 2nd, 2020
 - Perhaps I should write something about "bastones largos".
 - Zeno wrote a [[utopia]]: https://twitter.com/flancian/status/1289886062114791426
 - 

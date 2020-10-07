@@ -1,3 +1,4 @@
+# Utopia for Realists
 - Started reading this before discovering Roam Research, and I didn't take off-book notes (of course).
 - [[Basic Income]] takes up a fair chunk of it. Good reference/index to many Basic Income studies; after a while it got a bit repetitive, though.
 - p168: transaction tax to disincentivize high frequency trading.

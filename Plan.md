@@ -1,3 +1,4 @@
+# Plan
 - This plan has two facets: one internal to my employer, that I can only cover here fuzzily, and one public.
 - The internal plan is to build a [[Stoa]]. I intend to dedicate 20% of my working time to this. This is the full extent to which I will cover the internal plan publicly.
 - The external plan is to get to [[Flancia]]. Flancia is a place built through the cooperative application of rational, positive thinking. I intend to dedicate most of my free time to building it.

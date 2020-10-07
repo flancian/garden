@@ -1,3 +1,4 @@
+# September 21st, 2020
 - https://twitter.com/flancian/status/1307944473960370177?s=09 [[tsunduku]]
 - [[Ikko Tanaka]]
 - [ ] I need to find that email from the [[SP]] party member and get back to them, they were kind.

@@ -1,3 +1,4 @@
+# Fogg Behavior Model
 - Introduced to me by [[M. B.]], who shared https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 - **Behaviour = Motivation + Ability + Trigger.** Missing any of the three can cause [[procrastination]]; a failure to reach a planned behaviour.
 - **Motivation**

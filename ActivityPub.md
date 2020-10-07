@@ -1,3 +1,4 @@
+# ActivityPub
 - [ ] Look into ActivityPub
 - A standard for open social networks
 - I discussed this on Twitter; should link those conversations here, they were great

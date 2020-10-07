@@ -1,3 +1,4 @@
+# Interintellect
 - Founded by [[Anna Gat]]
 - Centered around [[Salons]] -- relatively exclusive events you have to pay a low fee to attend.
 - I dislike the name, a lot. I dislike the whole 'niche', 'intellectual' aspect of it.

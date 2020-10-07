@@ -1,3 +1,4 @@
+# Neuroyogacara
 - https://twitter.com/NeuroYogacara/status/1257403642161790983/photo/2
 - Introduced me to Shantideva, Asanga.
 - Also to Ward! https://libcom.org/files/Ward_-_Anarchy_in_Action_3.pdf

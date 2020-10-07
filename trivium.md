@@ -1,2 +1,3 @@
+# Trivium
 - [[grammar]], [[logic]], [[rhetoric]]
 - 

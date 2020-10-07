@@ -1,3 +1,4 @@
+# August 14th, 2020
 - [[doikayt]] does not believe in companies: https://twitter.com/doikayt/status/1294299633443721217
 - [ ] Need to check out [[exuo]] for [[0x0c7a]]
 - [[evaricweicksel]] pointed out [[Scatland]]

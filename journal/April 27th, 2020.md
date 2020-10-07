@@ -1,3 +1,4 @@
+# April 27th, 2020
 - Marcus told me about [[Commander]] and recommended it to me.
 - Amadeo me preguntó sobre recursos para aprender a programar. Recopilar.
 - [ ] Write post about recommended resources to learn programming.

@@ -1,3 +1,4 @@
+# September 8th, 2020
 - [[Quick Capture]]
     - Diving Deep into the Jhanas, with guest Leigh Brasington | Deconstructing Yourself
 
