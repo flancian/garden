@@ -1,5 +1,6 @@
 # QAnon
 - https://en.wikipedia.org/wiki/QAnon
+- See also: https://flancia.org/t/qanon
 - In July 2020, Twitter banned thousands of QAnon-affiliated accounts and changed its algorithms to reduce the theory's spread.
 - The conspiracy theory, disseminated mainly by supporters of Trump as **The Storm** and **The Great Awakening**—QAnon's precepts and vocabulary are closely related to the religious concepts of [millenarianism](https://en.wikipedia.org/wiki/Millenarianism) and [apocalypticism](https://en.wikipedia.org/wiki/Apocalypticism),[](https://en.wikipedia.org/wiki/QAnon#cite_note-salon0819-31) leading it to be sometimes construed as an emerging religious movement
 - Followers of QAnon also believe that there is an imminent event known as "The Storm", in which thousands of people, members of the cabal, will be arrested, possibly sent to [Guantanamo Bay prison](https://en.wikipedia.org/wiki/Guantanamo_Bay_Naval_Base) or to face military tribunals, and the U.S. military will brutally take over the country.[](https://en.wikipedia.org/wiki/QAnon#cite_note-salon0819-31) The result of The Storm will be salvation and utopia on earth.

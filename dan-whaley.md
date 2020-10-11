@@ -1,5 +1,4 @@
 # Dan Whaley
-
  -  Drove from California to Argentina. 2003.
  -  canaryinacoalmine.org. One year!
 
@@ -33,9 +32,9 @@
   - What if in the future you can't just run a server in your closet?
   - W3C
     - Hypothes.is is part of it
-    - Tim Berners Lee holds it together. If he goes, the W3C might go.
+    - [[Tim Berners Lee]] holds it together.
     - Community group -> working group
-    - Ivan Herman
+    - [[Ivan Herman]]
       - Senior staff at W3C
     - Community group is outside the W3C, but blessed. Build a community, clear plan. Then you're invited to a working group.
   - Browser vendors consortium (name?)
@@ -50,7 +49,6 @@
       - Vocabulary
         - What are the concepts in this space.
 
-
 # One idea
  - A discrete component.
  - Glorified markdown editors.
@@ -61,9 +59,6 @@
  # Social Networks
  - Dan agrees that most of the activity is socially beneficial.
  - People still think of these networks as being apart from themselves. But the network is the organism.
-
-# Roam
- - What
 
 # Topics
  - Tagging.
