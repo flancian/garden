@@ -2,7 +2,7 @@
 - (Self: https://flancia.org/go/todo)
 - [ ] Meta: fix go links that pointed to Roam. They should point to published github or something? Or perhaps to somewhere in flancia.org, like flancia.org/agora/garden, mmm.
 - [ ] Figure out [[Foam]] rendering to [[github pages]]
-- [ ] Agora -- here is where block references would come in handy :)
+- [ ] [[Agora v0.5]] -- here is where block references would come in handy :)
     - [ ] Write about Agora notes sync plan
 - [ ] Get back to Riccardo on Foam discord
 - [x] Back up dorcas!
