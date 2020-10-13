@@ -11,10 +11,10 @@
 
  - [x] Craft 'agora' repo (base repo):
    - places/
-    - gardens/
-     - flancian -> flancian.github.com/garden
-    - stoas/
-     - flancian -> flancian.github.com/stoa
+     - gardens/
+       - flancian -> flancian.github.com/garden
+     - stoas/
+       - flancian -> flancian.github.com/stoa
     - done but changed my mind on the structure: [[places]] are top level items. [[users]] contribute [[fragments]].
    - [x] users/
    - [x] CONTRACT.md
