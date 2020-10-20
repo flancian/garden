@@ -1,2 +1,3 @@
 # Ken Wilber
+ - [[integral theory]]
 
