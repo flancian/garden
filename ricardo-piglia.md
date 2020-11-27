@@ -16,6 +16,8 @@ Tema: cómo Piglia representa la tecnología en sus novelas.
  
 # Clases en Youtube
 
+- [[Borges por Piglia]].
+ 
 ## Escenas de la novela argentina: 2012-09-01
 
 - https://www.youtube.com/watch?v=mK0ENCrDB0Q
@@ -172,7 +174,7 @@ El Moreira de Favio tiene que ver con las lecturas del Martín Fierro de los her
 
 ## Escenas de la novela argentina - 15-09-12 (3 de 3)
  
-https://www.youtube.com/watch?v=fpTjlSG4Pso 
+### https://www.youtube.com/watch?v=fpTjlSG4Pso 
 
 Piglia: 1931, el final de Los Lanzallamas de [[Roberto Arlt]]; el final de una de las más grandes novelas argentinas. En una redacción de un diario se informa sobre el suicidio de Erdosain y se ilustra la manipulación periodística. El lector, que acompañó al personaje por toda su historia, se enfrenta con la simplificación del titular.
 
@@ -188,7 +190,7 @@ Tensión entre Arlt y Walsh. Aguafuertes Porteñas: el secretario de redacción 
 
 La relación de Walsh con la prensa fue tumultuosa. [[Operación Masacre]] no fue publicada por ningún diario. Trabajó para prensa menor, para el diario de la CGT, para el diario de [[Montoneros]]. Eventualmente montó una agencia clandestina de noticias: [[Ancla]].
   
-https://www.youtube.com/watch?v=F1tC4NhGqg8 
+### https://www.youtube.com/watch?v=F1tC4NhGqg8 
 
 (La adaptación al teatro de Arlt.)
 
@@ -202,11 +204,11 @@ Piglia: la novela viene en tercera persona, pero aparecen notas al pie que sopor
 
 Piglia: el jopo de Arlt fue una contingencia al sacarse la foto.
    
-https://www.youtube.com/watch?v=Lu1IgF8xFik&list=PLM2azdA0sTU-7-1oYgcyWM-SSE8cSdRrH&index=6 
+### https://www.youtube.com/watch?v=Lu1IgF8xFik&list=PLM2azdA0sTU-7-1oYgcyWM-SSE8cSdRrH&index=6 
    
 ## Escenas de la novela argentina - 22-09-12 (1 de 3)
 
-https://www.youtube.com/watch?v=7OYB-SovNgg
+### https://www.youtube.com/watch?v=7OYB-SovNgg
 
 Sobre [[Teoría de la novela]] de [[Macedonio Fernández]].
 
@@ -234,6 +236,52 @@ La novela es una enciclopedia de saberes y de ficciones.
 La pérdida de la mujer: tema recurrente del tango y de algunas de estas novelas. El desengaño del tanguero le da la mirada melancólica y la percepción filosófica.
 
 "Cambalache es el Aleph de los pobres."
+
+### https://www.youtube.com/watch?v=TptO0_1qWSs
+
+Con [[Horacio González]]: El deseo de ser comprendido es fundamental al escritor. La obra de [[Macedonio Fernández]] lo alejaba de la comprensión.
+
+[[Piglia]]: el hermetismo puede ser parte de una poética. Me cuesta verlo como una imposibilidad, parece algo que no puede ser de ese modo con él.
+
+[[Horacio González]]: el ser y la nada. Hay aparatos rotos en la obra de Macedonio; son todas innovaciones técnicas, novedades de la época, que en sus fallas remiten a la nada. El ser es el zapallo que se hizo cosmos (?). Hacer reír está también como objectivo. El zapallo devora toda la materia: es la construcción del ser.
+
+La falla interna: al convertirse en el todo, la pregunta es si vivimos dentro o fuera del zapallo; si el zapallo es todo, es nada? Etc.
+
+El [[Aleph]] tiene una resonancia del zapallo.
+
+[[Borges]] se lo saca de encima; lo considera un autor de emanaciones orales.
+
+[[Ricardo Piglia]] Borges ayudó a construir a Macedonio.
+
+González: Borges dice en la biografía "Sin embargo, había que comenzar a escribir." Como que él toma esa tarea.
+
+Piglia: hay algo de tomar todo ese universo. Pero al mismo tiempo Macedonio escribió *mucho más* que Borges; produjo más texto. Entonces parece contradictorio considerarlo un escritor oral.
+
+Piglia: tiene un plan que es casi anarquista: conseguir un millón de lotes, producidos de tierras fiscales. Son lotes para la gente; para que todos tengan casa y tierra.
+
+### https://www.youtube.com/watch?v=bnY06FoVMP0
+
+La novela es un aparato de contar historias de masas. Empezó autocontenida: el Quijote es una novela sobre un lector de novelas.
+
+Eventualmente el cine sustituye a la novela como narración de masas.
+
+Como Joyce y Faulkner no tenían que escribir para las masas pudieron escribir sus obras; las novelas quedaron libres con el desplazo del cine.
+
+Al cine le pasa lo mismo cuando aparece la televisión; se estetiza, recupera a los productores como artistas; aparece el cine de autor. Cuando el cine era tres funciones por fin de semana funcionaba como un relato de masas.
+
+Cuando la televisión empezó a ser sustituida por internet, empezó nuestro interés por las series; ahora, por ejemplo, hay tesis sobre series.
+
+Esta dinámica permite entender la historia de la novela, y el surgimiento de obras que buscan expandir el medio.
+
+La novela es el primer género narrativo posterior a la imprenta.
+
+Pregunta: sobre el humor en la tradición literaria argentina.
+
+Piglia: habría que hacer una serie de los chistes, como Schlowski (sp). En el Quijote, el narrador mira las ilusiones del héroe con ironía.
+
+Pregunta: cómo sigue la tradición?
+
+Piglia: Ayra. [[Héctor Libertella]]. "Veo la presencia de Macedonio en aquellos escritores que tienen una voluntad experimental." Quienes quieren escribir cosas distintas; esa voluntad me parece mejor que la de repetir las fórmulas.
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [person]: person "Person"
