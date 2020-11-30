@@ -10,15 +10,14 @@ As you might know by now, an Agora is a beast with multiple legs:
 This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
 
 ## Latest
+- On [[2020-11-29]] I integrated the first community contribution ever.
+- On [[2020-11-27]] I fixed some bugs, like wikilinks with periods on their names not working.
 - On [[2020-11-22]] implemented count of subnodes in user pages.
   - [x] Added *some amount* of go links support: anagora.org/go/go now works :), points to the URL with [[go]] in anagora.org/node/go.
 - On [[2020-11-17]] implemented [[latest]].
 - On [[2020-11-16]] I implemented [[agora fuzzy matching]] and full text search, adopted a div based layout, improved the CSS, improved user pages.
 - On [[2020-11-15]] I implemented dark mode (press on 'theme' on the top right corner to switch dark <-> light).
 - On [[2020-11-14]] I released [[agora 0.5.1]].
-- Previously:
-  - dev environment is now available (when up) at http://dev.anagora.org.
-  - Moved dev/prod to separate '<https://flancia.org/go/agora>' and '<https://flancia.org/go/agora-server>' repos.
 
 ### Signups
  - [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
@@ -36,6 +35,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora vscode]]
 
 ## Next
+- [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
+- [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
 - [ ] Add better backlinks, showing some context.
 - [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
 - [x] Implement [[agora fuzzy matching]].
@@ -101,6 +102,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora]: agora "Agora"
 [anagora]: anagora "Anagora"
 [agora-server]: agora-server "Agora Server"
+[2020-11-29]: journal/2020-11-29 "2020-11-29"
+[2020-11-27]: journal/2020-11-27 "2020-11-27"
 [2020-11-22]: journal/2020-11-22 "2020-11-22"
 [go]: go "Go"
 [2020-11-17]: journal/2020-11-17 "2020-11-17"
@@ -111,8 +114,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [2020-11-14]: journal/2020-11-14 "2020-11-14"
 [pen-coded]: pen-coded "Pen Coded"
 [luciana]: luciana "Luciana"
-[enkiv2]: enkiv2 "Enkiv2"
 [arghzero]: arghzero "Arghzero"
+[enkiv2]: enkiv2 "Enkiv2"
 [solomon-naim]: solomon-naim "Solomon Naim"
 [second-brain]: second-brain "Second Brain"
 [agora-go-links-integration]: agora-go-links-integration "Agora Go Links Integration"
@@ -120,6 +123,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
+[deceased]: deceased "Deceased"
+[do]: do "Do"
 [dark-mode]: dark-mode "Dark Mode"
 [flancian]: flancian "Flancian"
 [s5bug]: s5bug "S5bug"

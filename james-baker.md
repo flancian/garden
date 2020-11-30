@@ -19,10 +19,14 @@
 ## Collaboration opportunities
 
 - Group building + stoas
-- Index of related projects and interested people
-  - [[michael ocean]] [[check]]
-  - [[loomio]]
-  - Others go here
+- Shared index of potentially related projects and interested people
+  - [[michael ocean]] [[ask]]
+  - [[richdecibels]]
+    - [[loomio]]
+    - [[enspiral]]
+  - [[democracy-earth]]
+  - [[social coop]] (I'm a member)
+  - [[reasonable movement]]s
 ## [[2020-11-27]]
 
 - Flancia is evocative of an Italian place :)
@@ -100,7 +104,11 @@
 [twitter]: twitter "Twitter"
 [go]: go "Go"
 [michael-ocean]: michael-ocean "Michael Ocean"
+[ask]: ask "Ask"
+[richdecibels]: richdecibels "Richdecibels"
 [loomio]: loomio "Loomio"
+[democracy-earth]: democracy-earth "Democracy Earth"
+[reasonable-movement]: reasonable-movement "Reasonable Movement"
 [2020-11-27]: journal/2020-11-27 "2020-11-27"
 [place]: place "Place"
 [james-baker]: james-baker "James Baker"
