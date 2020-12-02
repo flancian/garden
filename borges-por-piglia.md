@@ -118,4 +118,35 @@ Piglia recomienda el poema "Insomnio". Remite a Funes; el sueño remite al olvid
 
 Piglia: Daneri "es un escritor realista. No le pone orden al mundo."
 
-[[Lacan]] dice que lo ético es el aceptar y seguir el propio deseo.
+[[Lacan]] dice que lo ético es aceptar y seguir el propio deseo.
+
+### https://www.youtube.com/watch?v=iFF2KBhyuUY
+
+Charla con [[Germán Maggiori]] y [[Marcos Herrera]].
+
+### https://www.youtube.com/watch?v=M5MMoNeUwy0
+
+Preguntas.
+
+Piglia: [[Mikhail Bakhtin]] dice que la literatura muestra la ideología en [[status ascendi]]. Tiende a mostrar lo que viene. Lo trabaja con Dostoievsky.
+
+Piglia: Borges traduce y reescribe. En Las Palmeras Salvajes usa frases de Las Ruinas Circulares. Cuanto traduce La Carta Robada corta la mitad del cuento.
+
+## Clase 3
+
+### https://www.youtube.com/watch?v=SA2o7QEx7Lk
+
+Hay dos tipos de lectores: como Borges y como Kafka. Kafka decía que le costaba escribir; su sueño era vivir en un sótano con un pasillo largodonde le dejaban comida. Pensaba que de esa forma podría leer y, quizás, escribir. Kafka tenía problemas para escribir; lo mismo Borges, que no fue prolífico.
+
+Kafka es el lector de un solo libro: un lector intensivo. Viene de una tradición hermenéutica judía. Es un extraordinario lector de Dickens.
+
+Borges es un lector de biblioteca. El libro siempre remite a la sensación de que hay otro libro que no se leyó. La web es como la biblioteca de Borges: ni siquiera tiene borde.
+
+Benjamin hablaba del "arte de citar sin comillas". Borges tiene mucho de eso; muchas de sus frases más célebres son de otros, pero las hizo suyas.
+
+Piglia fue a ver a Borges para que lo ayudara a escribir una antología de Conrad, empezaron hablando de El Duelo y se fue la tarde en una secuencia de duelos que Borges le contó. Era como un generador de secuencias y relaciones.
+
+Deutsche Requiem. Borges tenía un talento: veía las identidades, las cosas en común de todas las cosas. Pero eso lo lleva a no ver las diferencias. Lo que funciona en Los Teólogos se rompe en Deutsche Requiem; el filósofo nazi y el judío no son lo mismo.
+
+### https://www.youtube.com/watch?v=_BxOE3bO6SM
+
