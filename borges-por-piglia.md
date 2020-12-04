@@ -169,3 +169,57 @@ Kafka creó una condición para leer de otra manera; Bartleby es Kafkiano aunque
 Borges ve a la filosofía como una parte de la literatura fantástica. No está en lo cierto, pero es una lectura productiva: da en Tlön. La postdata de Tlön es del futuro; 1947 para un texto de 1940.
 
 El [[hrönir]]: un objeto perdido y encontrado, a veces por más de una persona o por la misma persona más de una vez.
+
+### https://www.youtube.com/watch?v=O33CReaqGlQ
+
+Cómo llegan los escritores a [[Borges]]?
+
+[[Mario Ortiz]] Borges es como Homero: la fuente de todos. Borges tiene un accionar político. Toma a Hernández, a Chesterton: hace lecturas que representan su ideología.
+
+Piglia: la tendencia anti-liberal de la literatura. El nacimiento de la [[vanguardia]] en [[Viena]]. Leer no es un hecho neutral.
+
+[[Luis Sagasti]] la lectura es siempre política. Pero volviendo a cómo uno llega a Borges: en el secundario. La tríada: [[Borges]], [[Cortázar]], [[Sábato]]. Fascinación por las construcciones metafísicas, aún sin entenderlas.
+
+Piglia: y nosotros nos preguntamos qué es entender un relato; pero qué es eso? Entender conceptos? El narrador rioplatense no es un repositorio de seguridad; su narración es la de la duda. No es omnisciente, es dubitativo.
+
+[[Luis Sagasti]]: los complots existen, pero muchos no funcionan. La web es una escritura colectiva; quizás Facebook sea el mundo en el futuro.
+
+Piglia: o digamos Tlön.
+
+Piglia: el complot está en la lotería en babilonia; el mismo estado toma parte. En la república de Platón. Ponerse de acuerdo en imponer un orden.
+
+### https://www.youtube.com/watch?v=pYUiDjMXe28
+
+Conversación con la audiencia.
+
+Piglia: "El primer encuentro con [[Borges]]. La anécdota de [[Conrad]] fue la segunda vez. En la primera vez, el centro de estudiantes invitó a Borges a La Plata. Lo fui a ver."
+
+Borges lo recibió, era muy cordial y tenía un sistema: hablaba con el visitante sobre él o su origen. Habló de La Plata enseguida.
+
+Querían pagarle 2000 pesos, pero sólo quiso cobrarles 1000.
+
+Le dijo "Sabe Borges, que hay un cuento suyo que no está bien terminado." La Forma de la Espada. Le dijo que debería haber terminado el cuento con la mención de la cicatriz; hacer la revelación menos explícita.
+
+"Ah, Ud. también escribe cuentos?"
+
+Doble sentido. Pero Borges era un escritor de cuentos clásicos; producía finales claros.
+
+## Clase 4 - [[28-09-13]]
+
+### https://www.youtube.com/watch?v=5svf4mzbeTc
+
+Borges y la política. Borges es el último intelectual de derecha.
+
+Borges hablaba de lo que él quería; cuando lo invitaron a una recepción en la embajada Rusa como homenaje a [[Dostoievsky]] habló de Dante porque [[Dostoievsky]] no le gustaba. Llevaba sus temas. Respondía preguntas de forma tangencial sin tapujos.
+
+Borges pensaba que la argentina había entrado en decadencia con la [[ley saenz peña]].
+
+Borges había defendido a Yrigoyen, y atacado vehemente al golpe del 1930.
+
+En 1951 Borges ya sabe que se va a quedar ciego. En dos años escribe muchísimo y bien; se apura.
+
+Se vuelve conferencista porque el peronismo lo deja sin trabajo ("inspector de aves" -- aunque el chiste parece que quizás lo hizo Borges). Era un conferencista excelente y exitoso. Dio las [[conferencias norton]]. Cómo llegó a eso?
+
+Borges se enamora de una chica que trabaja para [[Sur]] y es comunista. Le recomienda que se psicoanalice y Borges lo hace. No se solucionan sus problemas, pero se le pasa la timidez.
+
+Conferencia de [[1951]] en la [[escuela de altos estudios]]: sobre la tradición literaria judía (sin tierra), la irlandesa (dominada por el imperio), la argentina. La literatura argentina no es sobre un contenido: es una forma de leer. Porque siempre leemos fuera de lugar: lo que nos llega de otros lados se lee fuerza de contexto.
