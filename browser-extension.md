@@ -1,6 +1,6 @@
 # Browser Extension
 
-- [[go]]> https://anagora.org/wiki/Web_Extensions
+- [[go]] https://anagora.org/wiki/Web_Extensions
 - A promising ecosystem.
 - I'd like to keep track of interesting ideas for these.
 
