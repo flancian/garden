@@ -38,6 +38,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora-youtube-integration]]
 - [[roam2agora]]
 - [[agora vscode]]
+- [[wikilinks everywhere]]
 
 ## Next
 - Improve the [[index]].
@@ -131,6 +132,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
+[wikilinks-everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [index]: index "index"
 [deceased]: deceased "Deceased"
 [do]: do "Do"
