@@ -14,6 +14,9 @@ As you might know by now, an Agora is a beast with multiple legs:
 This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
 
 ## Latest
+- On [[2020-12-04]] I released [[agora 0.5.4]], with some improvements:
+  - New data model (digital gardens are not subtree'd in the main [[agora repository]] anymore, stay wholly independent)
+  - Index page is now just another node, subnodes can be contributed by users.
 - On [[2020-11-29]] I integrated the first community contribution ever.
 - On [[2020-11-27]] I fixed some bugs, like wikilinks with periods on their names not working.
 - On [[2020-11-22]] implemented count of subnodes in user pages.
@@ -24,13 +27,14 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - On [[2020-11-14]] I released [[agora 0.5.1]].
 
 ### Signups
- - [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
- - [x] [[luciana]]: https://github.com/malfattti/garden
- - [x] [[arghzero]]
- - [ ] [[dr_kvj]]: https://github.com/drkvj/agora
- - [ ] [[enkiv2]]: http://lord-enki.net/medium-backup/
- - [ ] likely [[solomon naim]]
- - [ ] what about all of the ones licensed appropriately listed in [[kasper zutterman]]'s [[second brain]] list? https://github.com/KasperZutterman/Second-Brain
+- [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
+- [x] [[luciana]]: https://github.com/malfattti/garden
+- [x] [[arghzero]]
+- [x] [[dr_kvj]]: https://github.com/drkvj/agora
+- [x] [[jonathan-the-utopian]]
+- [ ] [[enkiv2]]: http://lord-enki.net/medium-backup/
+- [ ] what about all of the ones licensed appropriately listed in [[kasper zutterman]]'s [[second brain]] list? https://github.com/KasperZutterman/Second-Brain
+  - Discussing with [[armengolaltayo]]
 
 ## Integrations
 - [[agora-go-links-integration]]
@@ -109,6 +113,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora]: agora "Agora"
 [anagora]: anagora "Anagora"
 [agora-server]: agora-server "Agora Server"
+[2020-12-04]: journal/2020-12-04 "2020-12-04"
 [2020-11-29]: journal/2020-11-29 "2020-11-29"
 [2020-11-27]: journal/2020-11-27 "2020-11-27"
 [2020-11-22]: journal/2020-11-22 "2020-11-22"
@@ -122,14 +127,16 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [pen-coded]: pen-coded "Pen Coded"
 [luciana]: luciana "Luciana"
 [arghzero]: arghzero "Arghzero"
+[jonathan-the-utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [enkiv2]: enkiv2 "Enkiv2"
-[solomon-naim]: solomon-naim "Solomon Naim"
 [second-brain]: second-brain "Second Brain"
+[armengolaltayo]: armengolaltayo "Armengolaltayo"
 [agora-go-links-integration]: agora-go-links-integration "Agora Go Links Integration"
 [agora-twitter-integration]: agora-twitter-integration "Agora Twitter Integration"
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
+[index]: index "index"
 [deceased]: deceased "Deceased"
 [do]: do "Do"
 [dark-mode]: dark-mode "Dark Mode"
