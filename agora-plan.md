@@ -22,7 +22,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - On [[2020-11-15]] I implemented dark mode (press on 'theme' on the top right corner to switch dark <-> light).
 - On [[2020-11-14]] I released [[agora 0.5.1]].
 
-### Signups
+## Signups
 - [x] [[pen-coded]]: https://github.com/KGBicheno/KGB_Agora
 - [x] [[luciana]]: https://github.com/malfattti/garden
 - [x] [[arghzero]]
