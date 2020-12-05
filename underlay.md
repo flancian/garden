@@ -1,7 +1,9 @@
 # Underlay
 
 - A [[project]] by the [[knowledge futures group]].
-- [[go]] https://notes.knowledgefutures.org/pub/si1okbw9/release/9
+- [[go]] https://www.underlay.org/
+  - "The Underlay's purpose is to make knowledge accessible, connectable, and inspectable in service of the public good. Like the web, it is an emergent system and concept. It is built on a set of open source protocols and tools for structuring, storing, and aggregating distributed graph data."
+- https://notes.knowledgefutures.org/pub/si1okbw9/release/9
   - "The Knowledge Futures Group is hiring a software developer to help us build the Underlay, a [[distributed public knowledge graph]]."
 
 
