@@ -2,6 +2,7 @@
 
 - Ping me anytime on any of the supported platforms: [[flancian]].
 - [[go]] twitter.com/flancian
+  - DMs are open.
 - This is feedback I've gotten.
   - [[flancia]]
     - Improve the slogans. "In Flancia there is no poverty" sounds a bit "save the world", generic, a platitude; but the idea behind Flancia *is* to write a plan together to at least try to "[[change the world]]"; it could communicate that. I should in general make it clearer that it's an action-based rational, creative movement.
