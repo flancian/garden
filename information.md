@@ -1,0 +1,4 @@
+# Information
+
+- Related to [[entropy]].
+
