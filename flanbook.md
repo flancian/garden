@@ -1,7 +1,7 @@
 # Flanbook
 
 - [[Social algorithm]] (the [[Agora]] is an open repository for social algorithms) [[tweet]]:
-  - Define central coordination entity, a.k.a. Agora.
+  - Define central coordination entity, by default an Agora.
   - For each useful internet platform:
      - It should be open.
      - If it's not, write down a plan to replicate it.
