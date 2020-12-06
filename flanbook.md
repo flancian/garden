@@ -9,6 +9,7 @@
      - Open it up.
   - People can contribute direct work or money. The Agora assigns both transparently. 
   - Net income goes to [[effective altruism]] or other altruistic efforts.
+    - [[tweet]] https://twitter.com/flancian/status/1335550881933234176
 - [[go]] https://flancia.org/mine/flanbook
 - See also: https://twitter.com/flancian/status/1298712522501926912, https://twitter.com/flancian/status/1332042059801370631.
 
