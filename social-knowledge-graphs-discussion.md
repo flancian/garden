@@ -1,6 +1,7 @@
 # Social Knowledge Graphs Discussion
 
 - Set up by [[dan whaley]] and [[jennifer rygh]].
+- About [[social knowledge graph]]s.
 - Agenda: search for 'social knowledge graphs discussion' in Drive (not linking for now).
   - [[same as]] question -- I've been struggling with this myself for some time now.
     - Perhaps my answer is that we should favour simplicity in the data structure/interface and try to solve it using the social aspect of distributed knowledge graphs; ranking/disambiguation information volunteered by users post facto.
