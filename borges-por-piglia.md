@@ -223,3 +223,17 @@ Se vuelve conferencista porque el peronismo lo deja sin trabajo ("inspector de a
 Borges se enamora de una chica que trabaja para [[Sur]] y es comunista. Le recomienda que se psicoanalice y Borges lo hace. No se solucionan sus problemas, pero se le pasa la timidez.
 
 Conferencia de [[1951]] en la [[escuela de altos estudios]]: sobre la tradición literaria judía (sin tierra), la irlandesa (dominada por el imperio), la argentina. La literatura argentina no es sobre un contenido: es una forma de leer. Porque siempre leemos fuera de lugar: lo que nos llega de otros lados se lee fuerza de contexto.
+
+### https://www.youtube.com/watch?v=MUXFMRM7Jx0
+
+Qué tenemos en común con la tradición judía? Estamos alejados de todo; no tenemos tradición colonial; no tenemos tradición prehispánica (literaria). Borges no era un escritor del canon; se alineaba (y alineaba a la literatura argentina) con los oprimidos, los excéntricos. 
+
+Chesterton (católico), Kipling (en el borde del imperio).
+
+Meses antes de morir, contrató a un profesor de árabe. Consideraba a las mil y una noches una obra máxime.
+
+Borges cree que en la periferia se puede conocer el mundo. El Aleph es eso: en una casa del sur está el universo.
+
+Un nacionalista critica a Borges porque dejó atrás a la poesía de barrio y adoptó temas cosmopolitas; Borges le contesta porque el crítico es un existencialista que sigue a Sartre. 
+
+Borges sobre [[La muerte y la brújula]]: una pesadilla en la que figuran elementos de Buenos Aires con elementos de esa pesadilla. Lo pone como ejemplo de un éxito en contraste con su poesía anterior.
