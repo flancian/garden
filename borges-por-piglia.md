@@ -237,3 +237,30 @@ Borges cree que en la periferia se puede conocer el mundo. El Aleph es eso: en u
 Un nacionalista critica a Borges porque dejó atrás a la poesía de barrio y adoptó temas cosmopolitas; Borges le contesta porque el crítico es un existencialista que sigue a Sartre. 
 
 Borges sobre [[La muerte y la brújula]]: una pesadilla en la que figuran elementos de Buenos Aires con elementos de esa pesadilla. Lo pone como ejemplo de un éxito en contraste con su poesía anterior.
+
+### https://www.youtube.com/watch?v=O0CsvnDaK_o
+
+Piglia: Qué quiere decir leer mal, y qué productividad tiene? Como cuando Borges lee a la filosofía como literatura fantástica; eso es lo que produce Tlön.
+
+[[Horacio González]]: lo más importante no está narrado a menudo, y se avisa que no está narrado. Falta el proceso de la investigación.
+
+[[Javier Trímboli]]: si en la argentina hay una década notable es la del 30; tiene nombre, es la década infame. [[La historia universal de la infamia]] es del 45, de la misma época en la que (alguien) le pone ese nombre a la década. El peronismo, para Borges, es una trama entre dos historias: una criminal y escénica. Remite a [[La muerte y la brújula]].
+
+Piglia: en el '40 dice que lo único que queda es leer ciencia ficción -- porque la realidad (el nazismo) es infame.
+
+[[Horacio González]]: contrasta con Benjamin; los he comparado, pero Benjamin dice en un momento "voy a intentar encontrar conceptos que no puedan ser generados por el nazismo". Borges, en cambio, escribe Deutsche Requiem.
+
+[[Horacio González]] Foucault contiene a Borges -- lo cita. [[Piglia]] pero Borges aspira a la totalidad; busca en la totalidad un sentido.
+
+(Sobre Borges y Jauretche).
+
+(Borges fue invitado a Forja tan tarde como 1943).
+
+### https://www.youtube.com/watch?v=GNs7-ujTDbs
+
+[[Piglia]]: recomiendo que lean:
+
+- [[El arte narrativo y la magia]]
+- [[La postulación de la realidad]]
+- [[La supersticiosa ética del lector]]
+
