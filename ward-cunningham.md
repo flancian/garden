@@ -2,7 +2,7 @@
 
 - A [[person]].
 - [[twitter]] https://twitter.com/wardcunningham
-- The [[OG]].
+- The [[OG]]. The inventor of the [[wiki]].
 - Founder of [[c2]].
 
 ## About creating wiki
