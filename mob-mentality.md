@@ -1,0 +1,4 @@
+# Mob Mentality
+
+- A [[problem]].
+
