@@ -1,8 +1,9 @@
 # hypothes.is
 
-- [[go]] hypothes.is
+- [[go]] https://web.hypothes.is/about/
 - [[project]] by [[Dan Whaley]]
 - A [[non profit]].
+- An [[annotation]] [[platform]].
 - Really nice browser extension ([[Browser extensions]]), plus apparently a nice organization with worthy goals.
   - I should use the extension more often though.
 
