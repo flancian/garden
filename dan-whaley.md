@@ -90,8 +90,10 @@
   -  Standards compliant wiki service
 
  ### Social Networks
+
 - Dan agrees that most of the activity is socially beneficial.
 - People still think of these networks as being apart from themselves. But the network is the organism.
+
 
 ### Topics
 - Tagging.
