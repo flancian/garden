@@ -7,7 +7,7 @@
 - [[open source]] [[project]] by [[Dan Whaley]]
 - A [[non profit]], [[501c]].
 - An [[annotation]] [[platform]]. 
-- They develop a really nice [[browser extension]].
+- They develop a really nice [[browser extension]] and associated tools.
   - I should use the extension more often :)
 
 
