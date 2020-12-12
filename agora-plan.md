@@ -42,7 +42,14 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[wikilinks everywhere]]
 
 ## Next
-- Improve the [[index]].
+- Implement [[come]].
+- [ ] Make more links default to node instead of subnode.
+  - For example those in latest, those in user pages.
+  - Might require 'upranking'.
+- [ ] Implement /node/foo/selector as more resilient/uniform alternative to /subnode.
+- [ ] Implement user upranking/pinning.
+  - Perhaps nodes visited from a user scope uprank subnodes by that user?
+- [x] Improve the [[index]].
 - [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
 - [ ] https://twitter.com/s5bug/status/1334686375275163652?s=09
 - [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
@@ -135,6 +142,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
 [wikilinks-everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
+[come]: come "Come"
 [index]: index "index"
 [deceased]: deceased "Deceased"
 [do]: do "Do"
