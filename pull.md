@@ -1,6 +1,5 @@
 # Pull
 
-
 - An [[action]].
 - The inverse of [[go]].
   - '[[pull]] [[agora action]]' makes sense both in [[action]] and here in pull. It means that agora action should perhaps redirect to one of us.
