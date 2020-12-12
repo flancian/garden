@@ -3,8 +3,9 @@
 
 - An [[action]].
 - The inverse of [[go]].
-  - [[pull]] [[agora action]] makes sense both in [[action]] and here in pull.
+  - '[[pull]] [[agora action]]' makes sense both in [[action]] and here in pull. It means that agora action should perhaps redirect to one of us.
   - It 'pulls attention' from the node referenced to the current node.
+- Note 'go', 'pull' can be thought of as "active" forward links and backlinks.
 - Can be used to implement broadcast, synonims, canonical terms, interest signaling.
   - Node [[united states]] may [[pull]] USA.
 - Can provide benefits on both sides; those of the node pulling and those of the node being pulled.
