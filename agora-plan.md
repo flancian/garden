@@ -36,6 +36,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora-go-links-integration]]
 - [[agora twitter integration]]
 - [[agora-youtube-integration]]
+- [[agora hypothesis integration]]
 - [[roam2agora]]
 - [[agora vscode]]
 - [[wikilinks everywhere]]
@@ -130,6 +131,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora-go-links-integration]: agora-go-links-integration "Agora Go Links Integration"
 [agora-twitter-integration]: agora-twitter-integration "Agora Twitter Integration"
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
+[agora-hypothesis-integration]: agora-hypothesis-integration "Agora Hypothesis Integration"
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
 [wikilinks-everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
