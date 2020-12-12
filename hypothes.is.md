@@ -2,9 +2,10 @@
 
 - [[go]] https://web.hypothes.is/about/
   - They seem like a nice organization with worthy [[goals]].
-  - [[also]] https://web.hypothes.is/team/
+  - [[see also]] https://web.hypothes.is/team/
+  - [[see also]] [[hypothesis intro]]
 - [[wiki]] https://en.wikipedia.org/wiki/Hypothes.is
-- [[open source]] [[project]] by [[Dan Whaley]]
+- [[open source]] [[project]] by [[Dan Whaley]].
 - A [[non profit]], [[501c]].
 - An [[annotation]] [[platform]]. 
 - They develop a really nice [[browser extension]] and associated tools.
