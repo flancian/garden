@@ -1,7 +1,7 @@
 # Moloch
 
 - [[go]] https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
-- An [[enemy]] of [[good]] embodied in [[coordination problems]].
+- An [[enemy]] of [[good]], often takin the form of [[coordination problems]].
 - [[tweet]] flancia.org/t/moloch
 
 
