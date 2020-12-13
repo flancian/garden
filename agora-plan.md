@@ -89,7 +89,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - Could also work as an action: [[go]] target URL.
 
 ## Feature requests
-- [ ] [[titushora]] [[FR]]: make the [[Agora]] look like this: https://twitter.com/TitusHora/status/1325147589197484036
+
+- [[pull]] [[feature requests]]
 
 ## History
 - [x] Clean up stale journal pages which don't follow [[iso 8601]].
@@ -161,7 +162,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [tweet]: tweet "Tweet"
 [go-links]: go-links "Go Links"
 [foo]: foo "Foo"
-[titushora]: titushora "Titushora"
+[feature-requests]: feature-requests "Feature Requests"
 [iso-8601]: iso-8601 "Iso 8601"
 [dark-mode]: dark-mode "Dark Mode"
 [index]: index "index"
