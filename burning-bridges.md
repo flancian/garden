@@ -1,0 +1,1 @@
+- [[go]] https://www.youtube.com/watch?v=PnnXc3T_pK8
