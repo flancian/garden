@@ -36,40 +36,32 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[agora-go-links-integration]]
 - [[agora twitter integration]]
 - [[agora-youtube-integration]]
+- [[agora hypothesis integration]]
 - [[roam2agora]]
 - [[agora vscode]]
 - [[wikilinks everywhere]]
 
 ## Next
-- Improve the [[index]].
+- [ ] Implement [[pull]].
+- [ ] Make more links default to node instead of subnode.
+  - For example those in latest, those in user pages.
+  - Might require 'upranking'.
+- [ ] Implement /node/foo/selector as more resilient/uniform alternative to /subnode.
+- [ ] Implement user upranking/pinning.
+  - Perhaps nodes visited from a user scope uprank subnodes by that user?
 - [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
 - [ ] https://twitter.com/s5bug/status/1334686375275163652?s=09
 - [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
 - [ ] Add better backlinks, showing some context.
 - [ ] Make the site header be marked as an actual header (div with a class, etc.); Google seems to think it's part of the site text (it's showing up in results).
-- [x] Implement [[agora fuzzy matching]].
-  - Done
-  - [ ] but backlinks don't work in some cases, like <http://dev.anagora.org/node/abstract%20fairy>.
-  - Probably not worth fixing that right now as it only triggers for nodes that are not canonical, perhaps better to just redirect to a canonical node.
-  - [ ] could help with disambiguation and acronym expansion
 - [ ] Fix markdown list formatting issue with different tab widths.
 - [ ] add footer.
-- [x] add some search support -- a simple textbox + GET?
-  - Probably want to use [[flask-wtf]] for this: https://hackersandslackers.com/flask-wtforms-forms/
 - Implement preview-on-hover?
 - Implement "around the Agora".
-- [ ] better css
-  - [x] Add '[[dark mode]]' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
-  - [x] added switching by button
-  - Make subnodes/notes look like notes instead of using clunky ```<hr />``` everywhere. Move to divs, etc.
 - [ ] add /latest or some other chronological view
 - [ ] User profiles: perhaps just note [[flancian]] as written by user [[flancian]]? Unsure.
   - [[s5bug]] suggested using [[README]] in gardens for this. Makes sense.
 - [ ] Make the index be just another note [[ding-levery]].
-- [x] Add 'link to this note'.
-  - Now called subnode.
-  - Subnode rendering is ready, just need to add links.
-  - Perhaps I need to fix subnode paths; right now they are the actual filename. It'd be better if there was at least possible to specify the filename base (no extension) and have the right file be resolve, a la nodes.
 - [ ] Improve backlinks: show snippets as well as just the link.
 - [ ] Improve pull loop to also support arbitrary hooks, like that needed to implement [[agora go links integration]].
 - [ ] Multi user improvements:
@@ -84,13 +76,6 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - It would conflict with a node named 'assets' though, so perhaps it's not ideal.
   - Perhaps it'd be better to just serve images/media as subnodes?
 - [ ] Add monitoring/alerting.
-- [x] Clean up stale journal pages which don't follow [[iso 8601]].
-- [x] Add config.py file with things such as paths.
-- [x] Add user handler: /u
-  - /u/flancian -> all nodes by flancian
-  - /node/flancia/u/flancian -> flancia by flancian
-  - Also added @flancian. Shorter is better, and it's a common convention.
-  - perhaps /g/ for groups later? or /s/ for stoa.
 
 ## Some day:
 - When you update a node on a [[person]], said person gets a notification (they can opt out).
@@ -104,7 +89,34 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - Could also work as an action: [[go]] target URL.
 
 ## Feature requests
-- [ ] [[titushora]] [[FR]]: make the [[Agora]] look like this: https://twitter.com/TitusHora/status/1325147589197484036
+
+- [[pull]] [[feature requests]]
+
+## History
+- [x] Clean up stale journal pages which don't follow [[iso 8601]].
+- [x] Add config.py file with things such as paths.
+- [x] Add user handler: /u
+  - /u/flancian -> all nodes by flancian
+  - /node/flancia/u/flancian -> flancia by flancian
+  - Also added @flancian. Shorter is better, and it's a common convention.
+  - perhaps /g/ for groups later? or /s/ for stoa.
+- [x] Add 'link to this note'.
+  - Now called subnode.
+  - Subnode rendering is ready, just need to add links.
+  - Perhaps I need to fix subnode paths; right now they are the actual filename. It'd be better if there was at least possible to specify the filename base (no extension) and have the right file be resolve, a la nodes.
+- [x] add some search support -- a simple textbox + GET?
+  - Probably want to use [[flask-wtf]] for this: https://hackersandslackers.com/flask-wtforms-forms/
+- [x] better css
+  - [x] Add '[[dark mode]]' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
+  - [x] added switching by button
+  - Make subnodes/notes look like notes instead of using clunky ```<hr />``` everywhere. Move to divs, etc.
+- [x] Improve the [[index]].
+- [x] Implement [[agora fuzzy matching]].
+  - Done
+  - [ ] but backlinks don't work in some cases, like <http://dev.anagora.org/node/abstract%20fairy>.
+  - Probably not worth fixing that right now as it only triggers for nodes that are not canonical, perhaps better to just redirect to a canonical node.
+  - [ ] could help with disambiguation and acronym expansion
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [agora]: agora "Agora"
@@ -130,19 +142,18 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora-go-links-integration]: agora-go-links-integration "Agora Go Links Integration"
 [agora-twitter-integration]: agora-twitter-integration "Agora Twitter Integration"
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
+[agora-hypothesis-integration]: agora-hypothesis-integration "Agora Hypothesis Integration"
 [roam2agora]: roam2agora "Roam2agora"
 [agora-vscode]: agora-vscode "Agora Vscode"
 [wikilinks-everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
-[index]: index "index"
+[pull]: pull "Pull"
 [deceased]: deceased "Deceased"
 [do]: do "Do"
-[dark-mode]: dark-mode "Dark Mode"
 [flancian]: flancian "Flancian"
 [s5bug]: s5bug "S5bug"
 [readme]: README "Flancian's digital garden"
 [ding-levery]: ding-levery "Ding Levery"
 [ocell]: ocell "Ocell"
-[iso-8601]: iso-8601 "Iso 8601"
 [person]: person "Person"
 [roam]: roam "Roam"
 [athens]: athens "Athens"
@@ -151,5 +162,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [tweet]: tweet "Tweet"
 [go-links]: go-links "Go Links"
 [foo]: foo "Foo"
-[titushora]: titushora "Titushora"
+[feature-requests]: feature-requests "Feature Requests"
+[iso-8601]: iso-8601 "Iso 8601"
+[dark-mode]: dark-mode "Dark Mode"
+[index]: index "index"
 [//end]: # "Autogenerated link references"

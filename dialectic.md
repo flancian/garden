@@ -1,0 +1,4 @@
+# Dialectic
+
+- See [[dialectical method]].
+
