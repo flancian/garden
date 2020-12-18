@@ -14,6 +14,10 @@
 
 ### [[2020-12-18]]
 - Jonathan thinks [[utopoi]] is not persistent; it will live for a while and then die, like an organism. But this applies mostly to the physical part; the digital part might endure.
+- Knowing it has an end date actually feels nice.
+- [[wittgenstein]]
+  - likes that he critized his own work -- I agree.
+  - part of his later work is about [[deconstructing]] his earlier work.
 ### [[2020-12-12]]
 - "philosophy is the art of making questions enjoyable"
 - pros/cons
@@ -32,6 +36,7 @@
 [Smart Agora]: smart-agora "Smart Agora"
 [utopoi]: utopoi "Utopoi"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
+[wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"
 [2020-12-11]: journal/2020-12-11 "2020-12-11"
 [book]: book "Book"
