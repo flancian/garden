@@ -15,11 +15,12 @@
 ## Agora
 - [[agora hypothesis integration]]
   - https://web.hypothes.is/for-publishers/#embedding
-  
+
 ## Open questions
 - What is their longer term vision?
   - "We’re a on a mission to bring an open conversation over the whole web. Use Hypothesis right now to hold discussions, read socially, organize your research, and take personal notes."
   - [[see also]] [[the revolution will be annotated]]
+  - [[see also]] [[annotation standard]]
 - What is their method of governance?
 - What is their stack like?
 - How stable is their funding?
