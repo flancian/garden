@@ -5,6 +5,7 @@
 - [[aka]] [[nito]] [[11-12]] [[m.]] [[e. c. s.]]
 - Buena en matemáticas, mala en lengua.
 - Se ponía a varnizar de noche.
+- Dejar de fumar le costó 20 años y después fue un [[click]].
 - [[parent]] [[e. c. b.]]
 - [[parent]] [[f. s. b.]]
 
