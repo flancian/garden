@@ -4,6 +4,7 @@
 - [[sibling]] [[e. c. s.]]
 - [[aka]] [[nito]] [[11-12]] [[m.]] [[e. c. s.]]
 - Buena en matemáticas, mala en lengua.
+- Se ponía a pintar de noche.
 - [[parent]] [[e. c. b.]]
 - [[parent]] [[f. s. b.]]
 
