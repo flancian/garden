@@ -4,6 +4,7 @@
 - [[writer]] [[poet]] [[novelist]].
 - [[go]] https://en.wikipedia.org/wiki/Rainer_Maria_Rilke
   - Several critics have described Rilke's work as "mystical". His writings include one novel, several collections of poetry and several volumes of correspondence in which he invokes images that focus on the difficulty of communion with the ineffable in an age of disbelief, solitude and anxiety. These themes position him as a transitional figure between traditional and modernist writers. 
+- My [[grandfather]] had a few of his books; need to try to remember which. I don't have them now, it seems; might be back in Argentina.
 - Lived in [[switzerland]].
 - [[prinssi-taivaanlintu]] recommended [[the dark interval]]: https://twitter.com/PrinceVogel/status/1340091785545191425/photo/1.
 
