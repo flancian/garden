@@ -2,7 +2,7 @@
 
 - A [[person]].
 - [[sibling]] [[e. c. s.]]
-- [[aka]] [[nito]] [[11-12]] [[m.]]
+- [[aka]] [[nito]] [[11-12]] [[m.]] [[e. c. s.]]
 - Buena en matemáticas, mala en lengua.
 - [[parent]] [[e. c. b.]]
 - [[parent]] [[f. s. b.]]
