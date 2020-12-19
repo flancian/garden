@@ -2,6 +2,7 @@
 
 - A [[person]] on [[twitter]].
 - [[twitter]] twitter.com/exgenesis
+  - "Friendly [[shamanpunk]]".
 - Interested in [[Browser extensions]]
 - [[project]] [[threadhelper]]
 - [[thesis]] [[recommendation systems]]
