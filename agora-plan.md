@@ -35,6 +35,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [ ] what about all of the ones licensed appropriately listed in [[kasper zutterman]]'s [[second brain]] list? https://github.com/KasperZutterman/Second-Brain
   - Discussing with [[armengolaltayo]]
 - [ ] See also [[digital gardeners]]
+- [ ] [[iplumb3r]]
 
 ## Integrations
 - [[agora-go-links-integration]]
@@ -57,7 +58,6 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [ ] Implement /node/foo/selector as more resilient/uniform alternative to /subnode.
 - [ ] Implement user upranking/pinning.
   - Perhaps nodes visited from a user scope uprank subnodes by that user?
-- [ ] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
 - [ ] https://twitter.com/s5bug/status/1334686375275163652?s=09
 - [ ] Provide a link (GET) for the search for '\[ \]', useful for [[do]].
 - [ ] Add better backlinks, showing some context.
@@ -101,6 +101,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[pull]] [[feature requests]]
 
 ## History
+- [x] fix bug: backlinks should be shown even in yet non-existent nodes, such as [[deceased]].
 - [x] Clean up stale journal pages which don't follow [[iso 8601]].
 - [x] Add config.py file with things such as paths.
 - [x] Add user handler: /u
