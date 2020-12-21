@@ -2,6 +2,7 @@
 
 - I'm a fan of yoga.
 - You can think of yoga as one of the arts of healthy movement.
+- Yoga has been great for my [[lower back pain]].
 - I like [[yoga with adriene]]. You can try it out:
   - [[go]] https://www.youtube.com/watch?v=KWBfQjuwp4E&list=PLui6Eyny-UzzFFfpiil94CUrWKVMaqmkm
 
