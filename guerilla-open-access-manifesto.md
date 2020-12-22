@@ -1,7 +1,7 @@
 # Guerilla Open Access Manifesto
 
-- [[manifesto]]
-- By [[aaron-swartz]] 
+- A [[manifesto]].
+- By [[aaron-swartz]].
   - And presumably a number of other non-signing people -- at least according to [[the story of aaron swartz]].
 
 > "Information is power. But like all power, there are those who want to keep it for themselves. The world's entire scientific and cultural heritage, published over centuries in books and journals, is increasingly being digitized and locked up by a handful of private corporations. Want to read the papers featuring the most famous results of the sciences? You'll need to send enormous amounts to publishers like Reed Elsevier.
