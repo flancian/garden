@@ -1,7 +1,7 @@
 # Agora Client
 
 - Any client that runs on any platform that interacts with the [[Agora]] in some way.
-- As of [[2020-12-24]]
+- As of [[2020-12-24]]:
   - [[foam]]
   - [[obsidian]]
   - [[roam2agora]]
