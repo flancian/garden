@@ -7,6 +7,8 @@
 	- Also mentioned the [[SPARQL]] query language: https://twitter.com/ZornGerhard/status/1310645329587560448
 - I should ask [[s.-s.]] about it.
 - See also: [[turtle]], [[semantic triples]].
+- [[hypothesis]] RDF is enough to maintain a [[distributed knowledge graph]] collaboratively over the internet.
+- [[hypothesis]] RDF is a base for the [[agora protocol]].
 
 ## [[2020-12-26]]
 
@@ -69,6 +71,9 @@
 [SPARQL]: sparql "SPARQL"
 [s.-s.]: s.-s. "S  S"
 [turtle]: turtle "Turtle"
+[hypothesis]: hypothesis "Hypothesis"
+[distributed knowledge graph]: distributed-knowledge-graph "Distributed Knowledge Graph"
+[agora protocol]: agora-protocol "Agora Protocol"
 [2020-12-26]: journal/2020-12-26 "2020-12-26"
 [pomodoro]: pomodoro "Pomodoro"
 [procrastination]: procrastination "Procrastination"
