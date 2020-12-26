@@ -1,5 +1,4 @@
-
-  {:journal-basis "daily" 
+{:journal-basis "journal" 
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
