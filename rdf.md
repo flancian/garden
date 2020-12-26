@@ -11,7 +11,7 @@
 
 ## [[2020-12-26]]
 
-- I started a pomodoro of this but [[procrastination]] came up, interesting -- it's not like I'm not interested in this, but it just tends to happen I don't *get* to it because I'm busy with work and other things, so I ended up associating it with a frustrated feeling? Unsure. It could also be I have a fear of it being *precisely* the Agora, what that would mean. I should be elated if that happened, but on some level perhaps.
+- I started a [[pomodoro]] of this but [[procrastination]] came up, interesting -- it's not like I'm not interested in this, but it just tends to happen I don't *get* to it because I'm busy with work and other things, so I ended up associating it with a frustrated feeling? Unsure. It could also be I have a fear of it being *precisely* the Agora, what that would mean. I should be elated if that happened, but on some level perhaps.
   - [[the agora is a social network built by the people for the people]] feels like something that I wanted to write, so no regrets.
 - [[Reading]] https://www.w3.org/RDF/
   - "RDF is a standard model for data interchange on the Web. RDF has features that facilitate data merging even if the underlying schemas differ, and it specifically supports the evolution of schemas over time without requiring all the data consumers to be changed." 
