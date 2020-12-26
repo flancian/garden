@@ -2,13 +2,13 @@
 
 - [[go]] https://www.w3.org/RDF/
 - [[wikipedia]] https://en.wikipedia.org/wiki/Resource_Description_Framework
-- Likely [[relevant]] for [[go links]], [[agora]].
+- [[relevant]] for [[go links]], [[agora]].
 - [[ZornGerhard]] knows about it.
 	- Also mentioned the [[SPARQL]] query language: https://twitter.com/ZornGerhard/status/1310645329587560448
 - I should ask [[s.-s.]] about it.
-- See also: [[turtle]], [[semantic triples]].
+- [[see also]] [[turtle]], [[semantic triples]].
 - [[hypothesis]] RDF is enough to maintain a [[distributed knowledge graph]] collaboratively over the internet.
-- [[hypothesis]] RDF is a base for the [[agora protocol]].
+- [[hypothesis]] RDF is a good base for the [[agora protocol]].
 
 ## [[2020-12-26]]
 
