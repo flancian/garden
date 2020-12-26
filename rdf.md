@@ -8,7 +8,8 @@
 - I should ask [[s.-s.]] about it.
 - [[see also]] [[turtle]], [[semantic triples]].
 - [[hypothesis]] RDF is enough to maintain a [[distributed knowledge graph]] collaboratively over the internet.
-- [[hypothesis]] RDF is a good base for the [[agora protocol]].
+	- [[hypothesis]] RDF is a good base for the [[agora protocol]].
+- [[tweet]] https://twitter.com/flancian/status/1342895193071230977
 
 ## [[2020-12-26]]
 
@@ -74,6 +75,7 @@
 [hypothesis]: hypothesis "Hypothesis"
 [distributed knowledge graph]: distributed-knowledge-graph "Distributed Knowledge Graph"
 [agora protocol]: agora-protocol "Agora Protocol"
+[tweet]: tweet "Tweet"
 [2020-12-26]: journal/2020-12-26 "2020-12-26"
 [pomodoro]: pomodoro "Pomodoro"
 [procrastination]: procrastination "Procrastination"
