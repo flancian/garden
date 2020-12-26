@@ -1,6 +1,13 @@
 # RDF
 
 - [[go]] https://www.w3.org/RDF/
+  - [[RDF 1.1]] documents: 
+    - [[RDF 1.1 Primer]]
+    - [[RDF 1.1 Concepts and Abstract Syntax]]
+    - [[RDF 1.1 XML Syntax]]
+    - [[RDF 1.1 Semantics]]
+    - [[RDF Schema 1.1]]
+    - [[RDF 1.1 Test Cases]]
 - [[wikipedia]] https://en.wikipedia.org/wiki/Resource_Description_Framework
 - [[relevant]] for [[go links]], [[agora]].
 - [[ZornGerhard]] knows about it.
