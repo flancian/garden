@@ -4,7 +4,7 @@
   - Useful conventions are made explicit in an Agora's [[CONTRACT]].
 - An Agora is built around a [[distributed knowledge graph]] maintained by its users. By [[you]].
   - 
-- The Agora tries to be a good pro-social [[internet citizen]].
+- The Agora as an organism tries to be a good pro-social [[internet citizen]].
 - If this is your first time using an Agora, please refer to [[agora help]].
 - [[go]] github.com/flancian/agora
 - See also: [[agora plan]], [[agora protocol]].
