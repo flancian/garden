@@ -2,9 +2,10 @@
 
 - [[go]] https://www.youtube.com/watch?v=Nc88BXMuTyA&feature=youtu.be
   - Es una [[huerta orgánica modelo]].
-  - Busca brindar conocimientos de cuidado ambiental, fomentar cambios de hábitos en los actuales modelos de consumo y producción.
+  - Busca brindar conocimientos de cuidado ambiental a estudiantes y la comunidad, fomentar cambios de hábitos en los actuales modelos de consumo y producción.
   - Técnicas orgánicas, separación de residuos, captación de agua de lluvia.
   - De la [[universidad austral]].
+  - Relacionado con [[casa común]].
 - A [[project]].
 
 
