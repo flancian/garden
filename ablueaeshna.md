@@ -3,6 +3,10 @@
 - Likes [[conservatories]] and [[greenhouses]].
 - In [[Germany]].
 - Likes to [[travel]]: https://twitter.com/ablueaeshna/status/1323439678771613697. Appreciates suggestions.
+- Likes [[tea]]: https://twitter.com/ablueaeshna/status/1342987373391585280
+  - [[green tea]]: [[biluochun]] [[gunpowder]]
+  - [[oolong tea]]: [[tieguanyin]] [[lishan]]
+  - [[black tea]]: [[keemun]]
 - We agree in many things, I think.
   - Cities are better than isolated environments for communities, or fare better at least.
   - Good platforms feel like [[place]]s.
