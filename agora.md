@@ -5,7 +5,7 @@
 - An Agora is built around a [[distributed knowledge graph]] maintained by its users. By [[you]].
   - 
 - The Agora as an organism tries to be a good pro-social [[internet citizen]].
-- If this is your first time using an Agora, please refer to [[agora help]].
+- If you'd like to participate, please refer to [[agora help]] or reach out to [[me]].
 - [[go]] github.com/flancian/agora
 - See also: [[agora plan]], [[agora protocol]].
 - In [[Flancia]] there is an [[agora]]: https://flancia.org/agora.
