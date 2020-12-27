@@ -5,6 +5,11 @@
   - Busca brindar conocimientos de cuidado ambiental a estudiantes y la comunidad, fomentar cambios de hábitos en los actuales modelos de consumo y producción.
   - Técnicas orgánicas, separación de residuos, captación de agua de lluvia.
   - De la [[universidad austral]].
+  - Bases:
+    - [[empleo sostenible]]
+    - [[educación]]
+    - [[compromiso social]]
+    - [[igualdad de género]]
 - A [[project]].
   - Related to [[casa común]].
   - [[2030]] [[un objectives]]
