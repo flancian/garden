@@ -1,9 +1,10 @@
 # Agora
 
 - An Agora is, in its most basic form, a set of conventions. Users that follow the convention associated with an Agora are said to be *in* the Agora.
-- Useful conventions are made explicit in an Agora's [[CONTRACT]].
+  - Useful conventions are made explicit in an Agora's [[CONTRACT]].
 - An Agora is built around a [[distributed knowledge graph]] maintained by its users. By [[you]].
-- The Agora tries to be a good [[internet citizen]].
+  - 
+- The Agora tries to be a good pro-social [[internet citizen]].
 - If this is your first time using an Agora, please refer to [[agora help]].
 - [[go]] github.com/flancian/agora
 - See also: [[agora plan]], [[agora protocol]].
