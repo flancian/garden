@@ -13,7 +13,7 @@
 - [[ZornGerhard]] knows about it.
 	- Also mentioned the [[SPARQL]] query language: https://twitter.com/ZornGerhard/status/1310645329587560448
 - I should ask [[s.-s.]] about it.
-- [[see also]] [[turtle]], [[semantic triples]].
+- [[see also]] [[turtle]], [[semantic triples]], [[solid]].
 - [[hypothesis]] RDF is enough to maintain a [[distributed knowledge graph]] collaboratively over the internet.
 	- [[hypothesis]] RDF is a good base for the [[agora protocol]].
 - [[twitter]] https://twitter.com/flancian/status/1342895193071230977
