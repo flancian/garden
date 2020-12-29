@@ -2,6 +2,7 @@
 
 - A [[person]].
 - [[author]] [[pull]] [[roko's basilisk]]
+- [[pull]] [[roko mijic]] [[rokomijikuk]]
 - [[twitter]] twitter.com/rokomijikuk
 - Strong opions, I often disagree with him but find him [[interesting]].
 
