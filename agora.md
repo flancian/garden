@@ -4,6 +4,7 @@
   - Useful conventions are made explicit in an Agora's [[CONTRACT]].
 - An Agora is built around a [[distributed knowledge graph]] maintained by its users. By [[you]].
   - If you want to participate, please check out [[agora editor]].
+  - [[pull]] [[maximally inclusive]]
 - The Agora as an organism tries to be a good pro-social [[internet citizen]].
 - If you'd like to participate, please refer to [[agora help]] or reach out to [[me]].
 - [[go]] github.com/flancian/agora
@@ -15,6 +16,8 @@
 [distributed knowledge graph]: distributed-knowledge-graph "Distributed Knowledge Graph"
 [you]: you "You"
 [agora editor]: agora-editor "Agora Editor"
+[pull]: pull "Pull"
+[maximally inclusive]: maximally-inclusive "Maximally Inclusive"
 [internet citizen]: internet-citizen "Internet Citizen"
 [agora help]: agora-help "Agora Help"
 [me]: me "Me"
