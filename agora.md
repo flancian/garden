@@ -4,7 +4,7 @@
   - If you know your way around [[git]], [[markdown]] on git is the default format. 
   - In any case then you need to let an Agora [[maintainer]] know where your content is, so it can be pulled and [[integrated]].
   - If you want to participate and need further instructions please check out [[agora editor]] or contact the [[maintainer]].
-  - The Agora wants to be [[maximally inclusive]], but itss in its infancy. If you want to participant and can't, please reach out to the [[maintainer]].
+  - The Agora wants to be [[maximally inclusive]], but it's in its infancy. If you want to participant and can't, please reach out to the [[maintainer]].
 - An Agora is, in its most basic form, a set of useful conventions.
   - Useful conventions are made explicit in an Agora's [[CONTRACT]] and in the writing of its users.
 - An Agora is built around a [[distributed knowledge graph]] maintained by its users. By [[you]].
