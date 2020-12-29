@@ -1,10 +1,11 @@
 # Agora Editor
 
-- As of [[2020-12-29]], [[foam]].
+- As of [[2020-12-29]], the recommended Agora editor is [[foam]].
   - [[foam]] is a [[vscode]] [[extension]].
   - If those worlds make sense to you, congratulations :) You can use the [[Agora]].
   - If they don't, please reach out. I want to make the [[Agora]] all [[inclusive]].
-- You can also use [[obsidian]] and manage backup to [[git]] on your own.
+  - You can also use [[obsidian]] and manage backups to [[git]] on your own.
+- In essence, all you really need to use the [[Agora]] is the capability to make Markdown (or just text, really) files publicly available somewhere. I use [[git]].
 - Or you can reach out :) Send email (I know, how quaint!) to 0@flancia.org.
 
 
