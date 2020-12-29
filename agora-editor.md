@@ -6,6 +6,7 @@
   - If they don't, please reach out. I want to make the [[Agora]] all [[inclusive]].
   - You can also use [[obsidian]] and manage backups to [[git]] on your own.
 - In essence, all you really need to use the [[Agora]] is the capability to make Markdown (or just text, really) files publicly available somewhere. I use [[git]].
+- [[the agora is a markdown convention]]
 - Or you can reach out :) Send email (I know, how quaint!) to 0@flancia.org.
 
 
