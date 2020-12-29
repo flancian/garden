@@ -1,4 +1,4 @@
-# Cli
+# CLI
 
 - [[pull]] [[command line interface]]
 
