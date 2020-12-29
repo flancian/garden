@@ -8,7 +8,7 @@
 - An Agora is, in its most basic form, a set of useful conventions.
   - Useful conventions are made explicit through an Agora's [[CONTRACT]] and the writing of its users.
   - The Agora is built around the notion of the [[wikilink]]: see [[wikilinks fanout]] and [[wikilinks everywhere]]. You can think of the Agora as a distributed [[wiki]] or an experiment in [[semantic web]] [[applications]] if you are so inclined.
-  - An Agora, in some sense is a [[distributed knowledge graph]] maintained by its users through an experimental [[social network]].
+  - An Agoraa is a [[distributed knowledge graph]] maintained by the users of an experimental [[social network]].
     - Check out [[agora plan]] if you are interested in more nerdy stuff.
     - By [[you]] and [[me]].
 - This Agora tries to be a good pro-social [[internet citizen]].
