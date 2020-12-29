@@ -9,8 +9,8 @@
   - Useful conventions are made explicit through an Agora's [[CONTRACT]] and the writing of its users.
   - The Agora is built around the notion of the [[wikilink]]: see [[wikilinks fanout]] and [[wikilinks everywhere]]. You can think of the Agora as a distributed [[wiki]] or an experiment in [[semantic web]] [[applications]] if you are so inclined.
   - An Agoraa is a [[distributed knowledge graph]] maintained by the users of an experimental [[social network]].
-    - Check out [[agora plan]] if you are interested in more nerdy stuff.
     - By [[you]] and [[me]].
+    - Check out [[agora plan]] if you are interested in more nerdy stuff.
 - This Agora tries to be a good pro-social [[internet citizen]].
   - [[see also]] [[agora protocol]], [[wikilinks everywhere]], [[agora twitter integration]], [[flancia]].
 - [[go]] github.com/flancian/agora
@@ -26,9 +26,9 @@
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [wiki]: wiki "Wiki"
 [distributed knowledge graph]: distributed-knowledge-graph "Distributed Knowledge Graph"
-[agora plan]: agora-plan "Agora Plan"
 [you]: you "You"
 [me]: me "Me"
+[agora plan]: agora-plan "Agora Plan"
 [internet citizen]: internet-citizen "Internet Citizen"
 [agora protocol]: agora-protocol "Agora Protocol"
 [flancia]: flancia "Flancia"
