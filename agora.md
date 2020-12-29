@@ -1,5 +1,6 @@
 # Agora
 
+- To participate in the Agora, you need a way to publish files online; and to let the Agora maintainer know, so they can pull them.
 - An Agora is, in its most basic form, a set of conventions. Users that follow the convention associated with an Agora are said to be *in* the Agora.
   - Useful conventions are made explicit in an Agora's [[CONTRACT]].
 - An Agora is built around a [[distributed knowledge graph]] maintained by its users. By [[you]].
