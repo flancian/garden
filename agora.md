@@ -1,6 +1,6 @@
 # Agora
 
-- To participate in the Agora, right now you need some way to publish files online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users. 
+- To participate in the Agora, you just need some way to publish content elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users. 
   - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]], you're almost there.
   - If you don't: you need to let an Agora [[maintainer]] know where your content is, so it can be pulled and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org.
   - The Agora wants to be [[maximally inclusive]], but it's in its infancy; a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org.
