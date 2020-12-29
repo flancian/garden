@@ -6,12 +6,12 @@
 - [[tweet]] https://twitter.com/flancian/status/1279479233316827136
 - Introduction
   - p1 This book grew out of an intellectual detour that became so gripping that I decided to abandon my original itinerary altogether.
- - Originally set out to "understand why the state has always seemed to be the enemy of "people who move around", to put it crudely.
- - Gypsies, berbers, bedouins, vagrants, homeless, serfs "have always been a thorn in the side of states".
- - Efforts to permanently settle these mobile people are perennial and seldom succeed.
- - p2 on many of these schemes: "the state's attempt to make a society legible, to arrange the population in ways that simplified the classic state functions of taxation, conscription and prevention of rebellion". Creation of grids.
- - Beekeeping as an analogy. Industrial hives are made regular, segregated.
- - p3 [[Chandigarth]]
+  - Originally set out to "understand why the state has always seemed to be the enemy of "people who move around", to put it crudely.
+  - Gypsies, berbers, bedouins, vagrants, homeless, serfs "have always been a thorn in the side of states".
+  - Efforts to permanently settle these mobile people are perennial and seldom succeed.
+  - p2 on many of these schemes: "the state's attempt to make a society legible, to arrange the population in ways that simplified the classic state functions of taxation, conscription and prevention of rebellion". Creation of grids.
+  - Beekeeping as an analogy. Industrial hives are made regular, segregated.
+  - p3 [[Chandigarth]]
 - Chapter one
  - On forestry as a model for the analysis of schemes that it proposes.
 
