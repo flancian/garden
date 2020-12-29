@@ -13,6 +13,7 @@
     - Check out [[agora plan]] if you are interested in more nerdy stuff.
 - This Agora tries to be a good pro-social [[internet citizen]].
   - [[see also]] [[agora protocol]], [[wikilinks everywhere]], [[agora twitter integration]], [[flancia]].
+  - [[agora actions]] try to give direct utility to users of the agora.
 - [[go]] github.com/flancian/agora
 - [[pull]] [[agora editor]]
 
@@ -32,6 +33,7 @@
 [internet citizen]: internet-citizen "Internet Citizen"
 [agora protocol]: agora-protocol "Agora Protocol"
 [flancia]: flancia "Flancia"
+[agora actions]: agora-actions "Agora Actions"
 [go]: go "Go"
 [pull]: pull "Pull"
 [agora editor]: agora-editor "Agora Editor"
