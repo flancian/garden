@@ -1,4 +1,5 @@
 # Dead
 
-- What is dead may never die.
+- "What is dead may never die."
+- What was once alive and no longer is.
 
