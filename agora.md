@@ -9,7 +9,7 @@
     - Have related content be surfaced to *you* as you work on your [[personal knowledge graph]].
     - Make use of [[agora actions]].
   - Note anyone can run an Agora of their own if they so desire. The Agora is [[open source]].
-  - If you want to learn more about the [[experimental]] nature of the Agora, please refer to <https://flancia.org/agora>.
+  - If you want to learn more about the [[experimental]] nature of the Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016).
 - To sign up for the Agora, first you need to publish your [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks it.
   - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]] or you have a notes database, you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
   - Whatever participation mechanism you choose, you need to let an Agora [[maintainer]] know where your content is, so it can be pulled and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org with:
