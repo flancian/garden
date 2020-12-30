@@ -1,6 +1,6 @@
 # Athens
 
-- A [[place]].
+- A [[place]]. Constantly inhabited for at least [[5000]] [[years]].
 - A [[project]]: [[athens research]].
   - [[go]] https://github.com/athensresearch/athens/
   - A [[roam like]] by [[jeff tang]].
