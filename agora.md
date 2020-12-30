@@ -8,8 +8,8 @@
     - Have your content be surfaced to readers at relevant times (when they are visiting a [[node]] for which your content is considered relevant by the community).
     - Have relevant content be surfaced to you as you traverse your [[personal knowledge graph]].
     - Make use of [[agora actions]].
-  - Anyone can run an Agora of their own if they so desire. The Agora is [[open source]].
-- To [[sign up]] for the Agora, first you need to publish your [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks it with that of other users.
+  - Anyone can run an Agora of their own if they so desire. This Agora is [[open source]].
+- To [[sign up]] for the Agora, first you need to publish your [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
   - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]] or you have a notes database, you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
   - Whatever participation mechanism you choose, you can either send a [[pull request]] or let an Agora [[maintainer]] know where your content is, so it can be pulled by the Agora and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org with:
     - The URL for your content.
