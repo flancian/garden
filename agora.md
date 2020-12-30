@@ -25,10 +25,8 @@
   - An Agora is a [[distributed knowledge graph]] maintained by the users of an experimental [[social network]].
     - By [[you]] and [[me]]. Anyone can participate if they are willing.
     - Check out [[agora howto]] (users) or [[agora plan]] (developers) if you want to jump in.
-- This Agora tries to be a good [[internet citizen]].
-  - [[agora protocol]]
-    - [[wikilinks everywhere]]
-  - [[agora twitter integration]]
+- This Agora tries to be a good [[internet citizen]]. The [[agora protocol]] is openly developed and can be implemented by anyone.
+    - [[wikilinks everywhere]] is currently its most focused application.
 - [[go]] github.com/flancian/agora
 - [[pull]] [[agora editor]]
 - There are [[other agoras]].
