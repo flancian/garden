@@ -25,9 +25,9 @@
     - By [[you]] and [[me]]. Anyone can participate if they are willing.
     - Check out [[agora howto]] (users) or [[agora plan]] (developers) if you want to jump in.
     - Being a [[graph]], the Agora is built around the concepts of [[nodes]] and [[edges]].
-    - See also [[wikilinks fanout]] and [[wikilinks everywhere]]. 
-- This Agora tries to be a good [[internet citizen]]. The [[agora protocol]] is openly developed and can be implemented by anyone.
-    - [[wikilinks everywhere]] is currently its most focused application.
+- This Agora tries to be a good [[internet citizen]]. 
+  - The [[agora protocol]] is openly developed and can be implemented by anyone.
+  - See also: [[wikilinks everywhere]]. 
 - [[go]] github.com/flancian/agora
 - [[pull]] [[agora editor]]
 - There are [[other agoras]].
@@ -63,9 +63,9 @@
 [agora plan]: agora-plan "Agora Plan"
 [graph]: graph "Graph"
 [edges]: edges "Edges"
-[wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [internet citizen]: internet-citizen "Internet Citizen"
 [agora protocol]: agora-protocol "Agora Protocol"
+[wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [go]: go "Go"
 [pull]: pull "Pull"
 [agora editor]: agora-editor "Agora Editor"
