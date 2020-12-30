@@ -24,7 +24,6 @@
   - An Agora is a [[distributed knowledge graph]] maintained by the users of an experimental [[social network]].
     - By [[you]] and [[me]]. Anyone can participate if they are willing.
     - Check out [[agora howto]] (users) or [[agora plan]] (developers) if you want to jump in.
-    - Being a [[graph]], the Agora is built around the concepts of [[nodes]] and [[edges]].
 - This Agora tries to be a good [[internet citizen]]. 
   - The [[agora protocol]] is openly developed and can be implemented by anyone.
   - See also: [[wikilinks everywhere]]. 
@@ -61,8 +60,6 @@
 [me]: me "Me"
 [agora howto]: agora-howto "Agora Howto"
 [agora plan]: agora-plan "Agora Plan"
-[graph]: graph "Graph"
-[edges]: edges "Edges"
 [internet citizen]: internet-citizen "Internet Citizen"
 [agora protocol]: agora-protocol "Agora Protocol"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
