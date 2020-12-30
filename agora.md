@@ -1,10 +1,10 @@
 # Agora
 
 - [The Agora is a distributed knowledge graph and experimental social network](https://anagora.org/).
-  - As an Agora *reader* you can:
+  - As an Agora *guest* you can:
     - Navigate the Agora, which is composed of nodes which aggregate content from many users on the same topic or entity.
     - See [[backlinks]] and [[pulled nodes]].
-  - As an Agora *writer* you can:
+  - As an Agora *user* you can:
     - Have your content be surfaced to users at relevant times (when they are visiting a node on a relevant topic or entity).
     - Make use of [[agora actions]].
   - Note anyone can run an Agora of their own if they so desire. The Agora is [[open source]].
