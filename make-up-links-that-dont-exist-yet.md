@@ -1,6 +1,6 @@
 # Make up Links That Dont Exist Yet
 
-- The [[internet]] lets you make up links that don't exist yet. If you craft them right, you can just create them later.
+- The [[internet]] lets you make up and write down (post) links that don't exist yet. If you craft them right, you can just create them later.
   - This is an [[optimist]] use of the internet.
   - I believe it has [[potential]].
 - The [[agora]] is, first of all, a convention we can use while we exercise the craft of [[utopian]] [[thinking]] or any other that interests us and represents us.
