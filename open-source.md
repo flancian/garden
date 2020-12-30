@@ -2,8 +2,8 @@
 
 - [[go]] github.com/flancian
 - The [[Agora]] is open source ([[Apache license]]).
-  - [[agora server]]: https://github.com/flancian/agora-server
-  - [[root]]: https://github.com/flancian/agora
+  - The [[agora server]]: https://github.com/flancian/agora-server
+  - A [[root]] for the [[distributed knowledge graph]]: https://github.com/flancian/agora
 - [[Flancia]] is open source ([[creative-commons-attribution-sharealike-4-0-international]]).
   - [[flancia.org]]: https://github.com/flancian/flancia
 - I also practice [[open ethics]].
@@ -13,6 +13,7 @@
 [go]: go "Go"
 [Agora]: agora "Agora"
 [agora server]: agora-server "Agora Server"
+[distributed knowledge graph]: distributed-knowledge-graph "Distributed Knowledge Graph"
 [Flancia]: flancia "Flancia"
 [creative-commons-attribution-sharealike-4-0-international]: creative-commons-attribution-sharealike-4-0-international "Creative Commons Attribution Sharealike 4.0 International"
 [open ethics]: open-ethics "Open Ethics"
