@@ -5,7 +5,7 @@
     - Navigate the Agora, which is composed of [[nodes]] which aggregate content from many users about the same topic or entity.
     - Make use of [[backlinks]] and [[pulled nodes]] to discover relevant content.
   - As an Agora *user* you can:
-    - Have your content be surfaced to users at relevant times (when they are visiting a [[node]] on a relevant topic or entity).
+    - Have your content be surfaced to readers at relevant times (when they are visiting a [[node]] for which your content is considered relevant by the community).
     - Have relevant content be surfaced to *you* as you work on your [[personal knowledge graph]].
     - Make use of [[agora actions]].
   - Anyone can run an Agora of their own if they so desire. The Agora is [[open source]].
