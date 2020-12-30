@@ -1,6 +1,7 @@
 # Node
 
 - You are currently visiting a node called 'node'.
+- A node is like a crowdsourced [[sequential wiki]] page on a [[topic]] or [[entity]].
 - Nodes and edges are the heart of the [[agora]], which is in essence a [[distributed knowledge graph]].
   - A node maps to a [[wikilink]].
   - You can think of it as a [[sequential wiki]] page on a [[topic]] or [[entity]].
