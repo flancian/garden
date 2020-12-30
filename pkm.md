@@ -1,4 +1,4 @@
 # Pkm
 
-- [[push]] [[personal knowledge management]].
+- [[pull]] [[personal knowledge management]].
 
