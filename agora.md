@@ -11,7 +11,9 @@
   - Note anyone can run an Agora of their own if they so desire. The Agora is [[open source]].
 - To sign up for the Agora, first you need to publish your [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks it.
   - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]] or you have a notes database, you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
-  - Whatever participation mechanism you choose, you need to let an Agora [[maintainer]] know where your content is, so it can be pulled and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org with your content location and desired username.
+  - Whatever participation mechanism you choose, you need to let an Agora [[maintainer]] know where your content is, so it can be pulled and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org with:
+    - The URL for your content.
+    - Your desired username.
   - The Agora wants to be [[maximally inclusive]], but it's in its infancy; a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org.
   - Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account.
 - An Agora is, in its most basic form, a set of useful conventions.
