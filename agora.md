@@ -9,7 +9,7 @@
     - Have related content be surfaced to *you* as you work on your [[personal knowledge graph]].
     - Make use of [[agora actions]].
   - Note anyone can run an Agora of their own if they so desire. The Agora is [[open source]].
-- To sign up for the Agora, first you need to publish your content elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users.
+- To sign up for the Agora, first you need to publish your [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users.
   - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]], you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
   - Whatever participation mechanism you choose, you need to let an Agora [[maintainer]] know where your content is, so it can be pulled and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org with your content location and desired username.
   - The Agora wants to be [[maximally inclusive]], but it's in its infancy; a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org.
@@ -34,6 +34,7 @@
 [personal knowledge graph]: personal-knowledge-graph "Personal Knowledge Graph"
 [agora actions]: agora-actions "Agora Actions"
 [open source]: open-source "Open Source"
+[digital garden]: digital-garden "Digital Garden"
 [markdown]: markdown "Markdown"
 [roam]: roam "Roam"
 [roam like]: roam-like "Roam Like"
