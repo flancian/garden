@@ -2,8 +2,8 @@
 
 - [The Agora is a distributed knowledge graph and experimental social network](https://anagora.org/).
 - To participate in the Agora, you need some way to publish content elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users. 
-  - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]], you're almost there. Please review [[agora howto]] or <https://anagora.org/go/agora-howto> for detailed instructions or reach out!.
-  - Whatever participation mechanism you choose, you need to let an Agora [[maintainer]] know where your content is, so it can be pulled and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org.
+  - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]], you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
+  - Whatever participation mechanism you choose, you need to let an Agora [[maintainer]] know where your content is, so it can be pulled and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org with your content location and desired username.
   - The Agora wants to be [[maximally inclusive]], but it's in its infancy; a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org.
   - Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account.
 - An Agora is, in its most basic form, a set of useful conventions.
@@ -11,7 +11,7 @@
   - The Agora is built around the notion of the [[wikilink]]: see [[wikilinks fanout]] and [[wikilinks everywhere]]. You can think of the Agora as a distributed [[wiki]] or an experiment in [[semantic web]] [[applications]] if you are so inclined.
   - An Agora is a [[distributed knowledge graph]] maintained by the users of an experimental [[social network]].
     - By [[you]] and [[me]]. Anyone can participate if they are willing.
-    - Check out [[agora plan]] if you are interested in the the working implementation plan.
+    - Check out [[agora plan]] if you are interested in the working implementation plan.
 - This Agora tries to be a good pro-social [[internet citizen]].
   - [[see also]] [[agora protocol]], [[wikilinks everywhere]], [[agora twitter integration]], [[flancia]].
   - [[agora actions]] try to give direct utility to users of the agora.
@@ -22,7 +22,6 @@
 [markdown]: markdown "Markdown"
 [roam]: roam "Roam"
 [roam like]: roam-like "Roam Like"
-[agora howto]: agora-howto "Agora Howto"
 [maintainer]: maintainer "Maintainer"
 [maximally inclusive]: maximally-inclusive "Maximally Inclusive"
 [agora twitter integration]: agora-twitter-integration "Agora Twitter Integration"
