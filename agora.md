@@ -9,8 +9,6 @@
     - Have relevant content be surfaced to you as you traverse your [[personal knowledge graph]].
     - Make use of [[agora actions]].
   - Anyone can run an Agora of their own if they so desire. The Agora is [[open source]].
-  - If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016).
-  - If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
 - To [[sign up]] for the Agora, first you need to publish your [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks it with that of other users.
   - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]] or you have a notes database, you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
   - Whatever participation mechanism you choose, you can either send a [[pull request]] or let an Agora [[maintainer]] know where your content is, so it can be pulled by the Agora and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org with:
@@ -18,6 +16,8 @@
     - Your desired username.
   - The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know.
     - Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account.
+  - If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016).
+  - If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
 - An Agora is, in its most basic form, a set of useful conventions.
   - Useful conventions are made explicit through an Agora's [[CONTRACT]] and the writing of its users.
   - You can think of the Agora as a distributed [[sequential wiki]]; an experiment in [[semantic web]] [[applications]].
@@ -39,8 +39,6 @@
 [personal knowledge graph]: personal-knowledge-graph "Personal Knowledge Graph"
 [agora actions]: agora-actions "Agora Actions"
 [open source]: open-source "Open Source"
-[experimental]: experimental "Experimental"
-[flancian]: flancian "Flancian"
 [sign up]: sign-up "Sign Up"
 [digital garden]: digital-garden "Digital Garden"
 [content]: content "Content"
@@ -52,6 +50,8 @@
 [maximally inclusive]: maximally-inclusive "Maximally Inclusive"
 [work in progress]: work-in-progress "Work in Progress"
 [agora twitter integration]: agora-twitter-integration "Agora Twitter Integration"
+[experimental]: experimental "Experimental"
+[flancian]: flancian "Flancian"
 [CONTRACT]: contract "CONTRACT"
 [sequential wiki]: sequential-wiki "Sequential Wiki"
 [distributed knowledge graph]: distributed-knowledge-graph "Distributed Knowledge Graph"
