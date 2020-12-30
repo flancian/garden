@@ -17,7 +17,7 @@
     - The URL for your content.
     - Your desired username.
   - The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know.
-  - Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account.
+    - Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account.
 - An Agora is, in its most basic form, a set of useful conventions.
   - Useful conventions are made explicit through an Agora's [[CONTRACT]] and the writing of its users.
   - You can think of the Agora as a distributed [[sequential wiki]]; an experiment in [[semantic web]] [[applications]].
