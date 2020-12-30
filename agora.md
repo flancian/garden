@@ -6,7 +6,7 @@
     - Make use of [[backlinks]] and [[pulled nodes]] to discover relevant content.
   - As an Agora *user* you can:
     - Have your content be surfaced to readers at relevant times (when they are visiting a [[node]] for which your content is considered relevant by the community).
-    - Have relevant content be surfaced to *you* as you work on your [[personal knowledge graph]].
+    - Have relevant content be surfaced to you as you traverse your [[personal knowledge graph]].
     - Make use of [[agora actions]].
   - Anyone can run an Agora of their own if they so desire. The Agora is [[open source]].
   - If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016).
