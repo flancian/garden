@@ -21,13 +21,11 @@
 - An Agora is, in its most basic form, a set of useful conventions.
   - Useful conventions are made explicit through an Agora's [[CONTRACT]] and the writing of its users.
   - You can think of the Agora as a distributed [[sequential wiki]]; an experiment in [[semantic web]] [[applications]].
-  - Being a [[graph]], the Agora is built around the concepts of [[nodes]] and [[edges]].
-    - [[nodes]] map to [[wikilinks]]. If you click
-    - [[edges]] map to [[wikilinks]] in said nodes.
-  - See also [[wikilinks fanout]] and [[wikilinks everywhere]]. 
   - An Agora is a [[distributed knowledge graph]] maintained by the users of an experimental [[social network]].
     - By [[you]] and [[me]]. Anyone can participate if they are willing.
     - Check out [[agora howto]] (users) or [[agora plan]] (developers) if you want to jump in.
+    - Being a [[graph]], the Agora is built around the concepts of [[nodes]] and [[edges]].
+    - See also [[wikilinks fanout]] and [[wikilinks everywhere]]. 
 - This Agora tries to be a good [[internet citizen]]. The [[agora protocol]] is openly developed and can be implemented by anyone.
     - [[wikilinks everywhere]] is currently its most focused application.
 - [[go]] github.com/flancian/agora
@@ -57,16 +55,15 @@
 [agora twitter integration]: agora-twitter-integration "Agora Twitter Integration"
 [CONTRACT]: contract "CONTRACT"
 [sequential wiki]: sequential-wiki "Sequential Wiki"
-[graph]: graph "Graph"
-[edges]: edges "Edges"
-[wikilinks]: wikilinks "Wikilinks"
-[wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [distributed knowledge graph]: distributed-knowledge-graph "Distributed Knowledge Graph"
 [social network]: social-network "Social Network"
 [you]: you "You"
 [me]: me "Me"
 [agora howto]: agora-howto "Agora Howto"
 [agora plan]: agora-plan "Agora Plan"
+[graph]: graph "Graph"
+[edges]: edges "Edges"
+[wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [internet citizen]: internet-citizen "Internet Citizen"
 [agora protocol]: agora-protocol "Agora Protocol"
 [go]: go "Go"
