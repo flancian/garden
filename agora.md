@@ -2,7 +2,7 @@
 
 - [The Agora is a distributed knowledge graph and experimental social network](https://anagora.org/).
   - As an Agora *guest* you can currently:
-    - Navigate the Agora, which is composed of [[nodes]] which aggregate content from many users on the same topic or entity.
+    - Navigate the Agora, which is composed of [[nodes]] which aggregate content from many users about the same topic or entity.
     - Make use of [[backlinks]] and [[pulled nodes]] to discover relevant content.
   - As an Agora *user* you can:
     - Have your content be surfaced to users at relevant times (when they are visiting a [[node]] on a relevant topic or entity).
