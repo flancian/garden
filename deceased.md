@@ -1,2 +1,4 @@
 # Deceased
 
+- [[pull]] [[dead]]
+
