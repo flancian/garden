@@ -14,8 +14,8 @@
     - The Agora, at its most basic and general, is a protocol: [[Agora Protocol]].
       - I believe [[wikilinks everywhere]], an [[MVP]] or application of the protocol, might have some potential to improve the health of the internet.
     - This plan used to include developing [[palimpsest]], perhaps a generally interesting feature that might in time help bootstrap the Agora; but I know believe [[hypothes.is]] or [[memex]] are essentially the same thing, and the Agora should interop with them and complement them if at all possible.
-  - My plan also includes by default every social action which makes aspects of my [[identity]] which I consider moral and constructive available to others for either judgment or cooperation. In other words, I try to be fully open :)
-    - My current attitude towards the world is to do the best that I can possibly muster in my public life; being open about my plan is a core part of my identity, as I believe openness as a social attitude results in interactions conducive to optimal understanding and cooperation.
+  - My plan also includes by default every pro-social action which makes aspects of my [[identity]] which I consider ethically sound and constructive available to others for judgment, cooperation or communication. In other words, I try to be fully open :)
+    - My current attitude towards the world is to try to do the best that I can regardless of my personal limitations in [[skill]] and [[knowledge]]; being open about both my plan and my limitations is an important part of my identity, as I believe openness as a social attitude results in interactions conducive to optimal mutual understanding and cooperation.
     - I practice [[open ethics]] and [[open source]].
     - See also: [[contract]].
   - Have I ever told you that in [[Flancia]] there is an [[Agora]]?
@@ -41,6 +41,7 @@
 [palimpsest]: palimpsest "Palimpsest"
 [memex]: memex "Memex"
 [identity]: identity "Identity"
+[knowledge]: knowledge "Knowledge"
 [open ethics]: open-ethics "Open Ethics"
 [open source]: open-source "Open Source"
 [contract]: contract "CONTRACT"
