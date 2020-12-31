@@ -5,9 +5,9 @@
 - I have a plan. I call it [[Flancia]] for short.
   - I intend to dedicate most of my [[free time]] to it.
   - The plan, in a nutshell and if you'll allow me a literary flourish, is to write a roadmap to [[Flancia]] with [[you]]. 
-  - Flancia is a kind of [[eutopia]]; in particular a [[protopia]]. It is a place that doesn't exist, yet has both contact points with the [[real world]] and some [[good]] qualities. The working [[hypothesis]] is that it presumably could be built through the iterative application of [[cooperative]], [[rational]], [[optimistic]], [[compassionate]] thinking. 
+  - Flancia is a kind of [[eutopia]]; in particular a [[protopia]]. It is a place that doesn't exist, yet has both contact points with the [[real world]] and some [[good]] qualities. The working [[hypothesis]] is that it could actually be built through the iterative application of [[cooperative]], [[rational]], [[optimistic]], [[compassionate]] thinking. 
   - My current thinking along the aforementioned lines leads me to want to focus my free time in two ways:
-    - Engaging in philanthropy within my means 
+    - Engaging in [[philanthropy]] within my means.
     - Promoting and building [[tools]] for the advancement of knowledge and cooperation.
   - Because of the above I'm building an [[Agora]]: a goal-oriented [[experimenta]] [[social network]] specialized in [[problem solving]].
       - You are probably reading this in some version of it right now.
