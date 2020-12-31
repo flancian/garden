@@ -2,7 +2,7 @@
 
 - [[go]] https://flancia.org
 - A [[place]].
-  - An amateur [[utopia]]. You could very well think of it as a place in my mind. 
+  - An amateur [[utopia]]; in particular a [[protopia]]. You could very well think of it as a place in my mind. 
 - The land of the [[Flancians]].
 - See also: [[Flancia narrative]].
 - Flancia could be a [[polis]].

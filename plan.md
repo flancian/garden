@@ -2,10 +2,9 @@
 
 - An [[action]].
   - See also: [[do]].
-- I have a plan. I call it [[Flancia]].
-  - I intend to dedicate most of my free time to it.
-  - This plan has two facets: one internal to my employer, that I can not cover here fully, and one public.
-  - The plan, in a nutshell and if you'll allow me a flourish, is a roadmap to [[Flancia]]. Flancia is a place that doesn't exist, but could presumably be built through the cooperative application of rational, optimistic thinking. 
+- I have a plan. I call it [[Flancia]] for short.
+  - I intend to dedicate most of my [[free time]] to it.
+  - The plan, in a nutshell and if you'll allow me a literary flourish, is a roadmap to [[Flancia]]. Flancia is a [[utopia]], in particular a [[protopia]]: a place that doesn't exist, has good qualities, and could presumably be built through the iterative application of cooperative, rational, optimistic thinking. 
   - My current best-effort rational optimistic thinking leads me to want to focus on engaging in philanthropy within my means while promoting or building [[tools]] for the advancement of knowledge and cooperation.
     - Because of this I'm building an [[Agora]]: a goal-oriented [[social network]] specialized in [[problem solving]].
       - You are probably reading this in some version of it right now.
@@ -20,6 +19,8 @@
 [action]: action "Action"
 [do]: do "Do"
 [Flancia]: flancia "Flancia"
+[utopia]: utopia "Utopia"
+[protopia]: protopia "Protopia"
 [tools]: tools "Tools"
 [Agora]: agora "Agora"
 [social network]: social-network "Social Network"
