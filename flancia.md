@@ -3,7 +3,7 @@
 - [[go]] https://flancia.org
 - A [[place]].
   - An amateur [[utopia]]. You could very well think of it as a [[place]] in my mind. 
-  - In particular a [[protopia]]. 
+  - In particular a [[eutopia]] and [[protopia]]. 
 - The land of the [[Flancians]].
 - See also: [[Flancia narrative]].
 - Flancia could be a [[polis]].
@@ -22,6 +22,8 @@
 [go]: go "Go"
 [place]: place "Place"
 [utopia]: utopia "Utopia"
+[eutopia]: eutopia "Eutopia"
+[protopia]: protopia "Protopia"
 [Flancians]: flancians "Flancians"
 [Flancia narrative]: flancia-narrative "Flancia Narrative"
 [polis]: polis "Polis"
