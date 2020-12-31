@@ -41,7 +41,10 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - This seems to be in [[topincs]] format, investigate.
 - [x] [[houshuang]]
 - [ ] [[joelchan86]]
+- [x] [[tilda]]
+- [x] [[binnyva]]
 - [ ] [[jakeisnt]]
+  - [[blocked]] on [[org mode]]
 
 
 ## Integrations
