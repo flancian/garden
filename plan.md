@@ -12,7 +12,7 @@
   - Because of the above I'm building an [[Agora]]: a goal-oriented [[experimenta]] [[social network]] specialized in [[problem solving]].
     - You are probably reading this in some version of it right now.
     - The Agora, at its most basic and general, is a protocol: [[Agora Protocol]].
-      - I believe [[wikilinks everywhere]], an MVP for the application of the protocol, might have some potential to improve the health of the internet.
+      - I believe [[wikilinks everywhere]], an [[MVP]] or application of the protocol, might have some potential to improve the health of the internet.
     - This plan used to include developing [[palimpsest]], perhaps a generally interesting feature that might in time help bootstrap the [[Agora]]; but I know believe [[hypothes.is]] or [[memex]] are essentially it, and the Agora should interop with them and complement them if at all possible.
   - My plan also includes by default every social action which makes aspects of my [[identity]] which I consider moral and constructive available to others for either judgment or cooperation. In other words, I try to be fully open :)
     - My current attitude towards the world is to do the best that I can possibly muster in my public life; being open about my plan is a core part of my identity, as I believe openness as a social attitude results in interactions conducive to optimal understanding and cooperation.
@@ -37,6 +37,7 @@
 [problem solving]: problem-solving "Problem Solving"
 [Agora Protocol]: agora-protocol "Agora Protocol"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
+[MVP]: mvp "MVP"
 [palimpsest]: palimpsest "Palimpsest"
 [memex]: memex "Memex"
 [identity]: identity "Identity"
