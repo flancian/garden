@@ -39,6 +39,10 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [ ] See also [[digital gardeners]]
 - [ ] [[iplumb3r]]
   - This seems to be in [[topincs]] format, investigate.
+- [x] [[houshuang]]
+- [ ] [[joelchan86]]
+- [ ] [[jakeisnt]]
+
 
 ## Integrations
 - [[agora-go-links-integration]]
@@ -50,6 +54,9 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[wikilinks everywhere]]
 
 ## Next
+- [ ] add support for org mode gardens
+  - [ ] signup by [[jakeisnt]] is blocked on this
+  - [ ] this might be enough to unlock basic [[logseq]] support?
 - [ ] I should make node [[0.5.6]] work
 - [ ] graph the whole Agora -- sounds fun!
 - [ ] Implement [[pull]] and [[push]].
@@ -162,6 +169,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [digital gardeners]: digital-gardeners "Digital Gardeners"
 [iplumb3r]: iplumb3r "Iplumb3r"
+[houshuang]: houshuang "Houshuang"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [agora twitter integration]: agora-twitter-integration "Agora Twitter Integration"
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
@@ -169,6 +177,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [roam2agora]: roam2agora "Roam2agora"
 [agora vscode]: agora-vscode "Agora Vscode"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
+[logseq]: logseq "Logseq"
 [do]: do "Do"
 [flancian]: flancian "Flancian"
 [s5bug]: s5bug "S5bug"
