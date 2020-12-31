@@ -2,9 +2,8 @@
 
 - An [[action]].
 - If you use this action, it will pull the target nodes to the current context. Like so:
-  - [[pull]] [[pulled links]]
   - [[pull]] [[pulled nodes]]
-- Pulling means that the target nodes show up after the node you are visiting; and said nodes show in the [[pulled links]] section.
+- Pulling means that the target nodes show up after the node you are visiting; and said nodes show in the [[pulled]] [[links]] section.
 - [[push]] doesn't exist yet, but might soon. It'll be close to its inverse.
   - Pull and push might be seen as simple versions of [[transclusion]] and [[broadcast]] respectively.
 - Note that in the context of a social network like the [[Agora]] "pull requests" to a node might be related to [[ranking]].
