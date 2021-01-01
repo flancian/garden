@@ -1,8 +1,7 @@
 # Utopoi
 
 - [[go]] https://lorand.earth/utopoi/about/
-- [[project]]
-  - [[owner]] @jonathan
+- [[project]] [[owner]] anagora.org/@jonathan
 - Utopoi is a space for [[applied utopia]] and [[constructive imagination]].
 - Utopoi has a [[personality]]. 
 - [[music]] [[playlist]]: https://open.spotify.com/playlist/0Xz99QSXva1yPgrHcz38Tz
