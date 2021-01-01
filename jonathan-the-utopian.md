@@ -24,6 +24,12 @@
       - Main applicational framework: [[complex systems]] + [[modeling]], [[design]], [[optimization]].
 - [[world models]]
 - [[utopoi]]
+- [[projections]]
+- [[agora]]
+  - [[users]]
+  - [[groups]]
+    - node [[bourbaki]]
+  - [[stoas]]
 
 ## Telegram
 ### [[2020-12-18]]
@@ -55,6 +61,8 @@
 [flancian]: flancian "Flancian"
 [category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
 [category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
+[agora]: agora "Agora"
+[users]: users "Users"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"
