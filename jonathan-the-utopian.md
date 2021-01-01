@@ -20,8 +20,10 @@
     - yep. Experimenting with new mediums for [[online teaching]].
     - [[category theory for engineers]]
       - [[flancian]] related to [[category theory for programmers]]?
-      - different target audience: these are engineers in the sense of mechanical engineering, aerospace. less direct mappings here. 
-      - Main applicational framework: [[complex systems]] + [[modeling]], [[design]], [[optimization]]
+      - Different target audience: these are engineers in the sense of mechanical engineering, aerospace. Less direct mappings here.
+      - Main applicational framework: [[complex systems]] + [[modeling]], [[design]], [[optimization]].
+- [[world models]]
+- [[utopoi]]
 
 ## Telegram
 ### [[2020-12-18]]
