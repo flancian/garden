@@ -40,7 +40,15 @@
 - [[agora]] for [[utopia]]
   - [[missing devices]] 
   - [[utopoi]]
-    - set of [[m prime]]
+    - [[flancian]] set of [[m prime]]
+      - [[jonathan]] mathematical + computational approach to the world
+        - on the one hand it seems it will always miss something, as life is so rich
+        - on the other hand it seems it could be valuable
+        - at the beginning it seems it could be unpractical, but looking around similar approaches are around
+        - it is very costly to input lots of information, and it requires a lot of time
+      - [[flancian]] note that the value/cost function is undefined; this is a procedure to find paths/tunnels
+  - [[utopoi]]
+    - [[jonathan]] a project that wants to build channels with related projects, one of this is this repository; but it is not exactly the same.
 - [[focus]]
 ## Telegram
 ### [[2020-12-18]]
