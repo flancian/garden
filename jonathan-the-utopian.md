@@ -30,7 +30,11 @@
   - [[groups]]
     - node [[bourbaki]]
   - [[stoas]]
-
+- [[pivoting]]
+  - [[braiding]]
+    - something is [[symmetric]] if [[braiding twice is identity]]
+    - [[braid]] [[hofstadter]] 
+  - [[twist]]
 ## Telegram
 ### [[2020-12-18]]
 - Jonathan thinks [[utopoi]] is not persistent; it will live for a while and then die, like an organism. But this applies mostly to the physical part; the digital part might endure.
@@ -63,6 +67,7 @@
 [category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
 [agora]: agora "Agora"
 [users]: users "Users"
+[hofstadter]: hofstadter "Hofstadter"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"
