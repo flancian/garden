@@ -9,9 +9,21 @@
 - [[project]] [[utopoi]]: http://lorand.earth/utopoi/about/
 - [[project]] https://applied-compositional-thinking.engineering/
 
+## Meet
+
+### [[2021-01-01]]
+- Super cool that you have a blackboard in your room! 
+- VC is very inclusive and we can always have this, no matter where we live.
+- What have you been working on?
+  - [[jonathan]] working a lot on the online course at [[eth]]. Sort of managing the project almost.
+    - [[flancian]] do you feel like you are learning at the day job?
+    - yep. Experimenting with new mediums for [[online teaching]].
+    - [[category theory for engineers]]
+      - [[flancian]] related to [[category theory for programmers]]?
+      - different target audience: these are engineers in the sense of mechanical engineering, aerospace. less direct mappings here. 
+      - Main applicational framework: [[complex systems]] + [[modeling]], [[design]], [[optimization]]
 
 ## Telegram
-
 ### [[2020-12-18]]
 - Jonathan thinks [[utopoi]] is not persistent; it will live for a while and then die, like an organism. But this applies mostly to the physical part; the digital part might endure.
 - Knowing it has an end date actually feels nice.
@@ -34,7 +46,13 @@
 [go]: go "Go"
 [twitter]: twitter "Twitter"
 [Smart Agora]: smart-agora "Smart Agora"
+[project]: project "Project"
 [utopoi]: utopoi "Utopoi"
+[2021-01-01]: journal/2021-01-01 "2021-01-01"
+[jonathan]: jonathan "Jonathan"
+[flancian]: flancian "Flancian"
+[category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
+[category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"
