@@ -31,7 +31,7 @@
     - node [[bourbaki]]
   - [[stoas]]
 - [[pivoting]]
-  - [[braiding]]
+  - [[push]] [[braiding]]
     - something is [[symmetric]] if [[braiding twice is identity]]
     - [[braid]] [[hofstadter]] 
   - [[twist]]
@@ -67,6 +67,7 @@
 [category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
 [agora]: agora "Agora"
 [users]: users "Users"
+[push]: push "Push"
 [hofstadter]: hofstadter "Hofstadter"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
