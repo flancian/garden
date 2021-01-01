@@ -55,6 +55,9 @@
 - [[focus]]
 - [[robin krom]]
   - [[jonathan]] thinks [[robin krom]] could be interested; related to [[category theory]], [[smart contracts]], [[financial markets]], [[liquid democracy]].
+- [[reading group]]
+- [[bug report]] [[agora plan]] https://anagora.org/node/reading-goup---christopher-alexander renders badly
+
 ## Telegram
 ### [[2020-12-18]]
 - Jonathan thinks [[utopoi]] is not persistent; it will live for a while and then die, like an organism. But this applies mostly to the physical part; the digital part might endure.
@@ -93,6 +96,7 @@
 [missing devices]: missing-devices "Missing Devices"
 [noded]: noded "Noded"
 [liquid democracy]: liquid-democracy "Liquid Democracy"
+[agora plan]: agora-plan "Agora Plan"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"
