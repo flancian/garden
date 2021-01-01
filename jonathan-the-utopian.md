@@ -37,7 +37,11 @@
     - something is [[symmetric]] if [[braiding twice is identity]]
     - [[braid]] [[hofstadter]] 
   - [[twist]]
-  - 
+- [[agora]] for [[utopia]]
+  - [[missing devices]] 
+  - [[utopoi]]
+    - set of [[m prime]]
+- [[focus]]
 ## Telegram
 ### [[2020-12-18]]
 - Jonathan thinks [[utopoi]] is not persistent; it will live for a while and then die, like an organism. But this applies mostly to the physical part; the digital part might endure.
@@ -72,6 +76,8 @@
 [users]: users "Users"
 [push]: push "Push"
 [hofstadter]: hofstadter "Hofstadter"
+[utopia]: utopia "Utopia"
+[missing devices]: missing-devices "Missing Devices"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"
