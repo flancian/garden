@@ -49,7 +49,12 @@
       - [[flancian]] note that the value/cost function is undefined; this is a procedure to find paths/tunnels
   - [[utopoi]]
     - [[jonathan]] a project that wants to build channels with related projects, one of this is this repository; but it is not exactly the same.
+    - [[repository]] sounds static, whereas the m-m prime approach sounds more like a [[machine]].
+    - [[jonathan]] [[noded]] [[utopia studies]]
+    - [[flancian]] I liked [[topiary]]
 - [[focus]]
+- [[robin krom]]
+  - [[jonathan]] thinks [[robin krom]] could be interested; related to [[category theory]], [[smart contracts]], [[financial markets]], [[liquid democracy]].
 ## Telegram
 ### [[2020-12-18]]
 - Jonathan thinks [[utopoi]] is not persistent; it will live for a while and then die, like an organism. But this applies mostly to the physical part; the digital part might endure.
@@ -86,6 +91,8 @@
 [hofstadter]: hofstadter "Hofstadter"
 [utopia]: utopia "Utopia"
 [missing devices]: missing-devices "Missing Devices"
+[noded]: noded "Noded"
+[liquid democracy]: liquid-democracy "Liquid Democracy"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"
