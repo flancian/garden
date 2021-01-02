@@ -1,5 +1,6 @@
 # Matrix
 
+- Chat network.
 - Successor to [[xmpp]].
 - I'm in Matrix: [[flancian]].
 - [[element]] is the default client.
