@@ -3,6 +3,7 @@
 - Federated chat network.
 - Successor to [[xmpp]].
 - I'm in Matrix: [[flancian]].
+  - @flancian@matrix.org
 - [[element]] is the default client.
   - [[go]] element.io
 
