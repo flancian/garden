@@ -2,9 +2,11 @@
 *or: [[Slaying Moloch]]*
 
 I sometimes feels as if I'm struck by lightning;
+
 I sometimes catch fire.
 
 Do you know what I mean?
+
 I can't tell you what to feel.
 
 On these days I feel like slaying [[Moloch]].
