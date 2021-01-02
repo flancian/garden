@@ -1,6 +1,8 @@
 # Jump
 
 - An [[Agora action]].
+- Jump is very simple: it encodes a query as a node id (using [[unicode-slugify]], if you're interested) and sends you to the matching node.
+  - It's like search, but the results page is a [[node]] -- so it can be [[crowdsourced]].
 - [[agora plan]] I'll implement the action and a 'jump'/ dialog always available in the Agora, perhaps replacing search in the [[toolbar]].
   - Done! [[2021-01-02]]
   - Q: is 'go to' better than jump? I don't think so, and it could be confusing due to go links. But unsure.
