@@ -11,9 +11,8 @@
     - The [[first stoa]] focuses on building and running an [[agora]].
       - See [[agora plan]], [[agora protocol]], [[wikilinks everywhere]], [[browser extensions]], [[agora twitter integration]] if you'd like to build an [[agora]] with [[me]].
       - See [[agora howto]] if you'd like to contribute to the [[agora]] as a [[user]].
-    - The [[second stoa]] is focused on freeing and otherwise improving the [[internet. It likely interacts quite heavily with the first one.
-      - [[flanbook]]
-      - [[wikilinks everywhere]]
+    - The [[second stoa]] is focused on freeing and otherwise improving the [[internet]].
+      - See [[flanbook]], [[wikilinks everywhere]].
     - The [[third stoa]] is focused on world improvement: it seeks to build a dependency graph of important problems to work on and then tries to solve it given available resources.
       - [[world improvement]]
 
