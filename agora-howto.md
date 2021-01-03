@@ -10,7 +10,7 @@
     - Your desired username.
   - The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know.
   - Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account.
-- Please refer to [[agora install]] for detailed setup instructions and [[agora editor]] for client alternatives.
+- Please refer to [[agora install]] for detailed setup instructions and [[agora editor]] for alternative clients.
   - [[pull]] [[agora editor]] [[agora install]]
 - [[go]] https://github.com/flancian/agora/blob/master/docs/howto.md
 
@@ -20,6 +20,7 @@
 [read]: read "Read"
 [web browser]: web-browser "Web Browser"
 [Agora]: agora "Agora"
+[search engine]: search-engine "Search Engine"
 [digital garden]: digital-garden "Digital Garden"
 [content]: content "Content"
 [markdown]: markdown "Markdown"
