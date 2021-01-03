@@ -8,10 +8,10 @@
     - In particular, well-working stoas are likely to be integrated by people with [[aligned]] or [[complementary]] [[goals]] and [[values]].
   - I would like to propose a number of Stoas. Each one depends in some way on the output of the formers.
     - The [[first stoa]] focuses on building and running an [[agora]].
-      - See [[agora plan]], [[agora protocol]], [[wikilinks everywhere]], [[browser extensions]], [[agora twitter integration]] if you'd like to build an [[agora]] with [[me]].
+      - See [[agora plan]], [[wikilinks everywhere]], [[browser extensions]], [[agora twitter integration]] if you'd like to build an [[agora]] with [[me]].
       - See [[agora howto]] if you'd like to contribute to the [[agora]] as a [[user]].
     - The [[second stoa]] focuses on freeing, opening up and otherwise improving the [[internet]] using [[open source]] and [[open ethics]].
-      - See [[wikilinks everywhere]], [[agora protocol]], [[flanbook]], if you'd like to participate.
+      - See [[agora protocol]], [[flanbook]], if you'd like to participate.
     - The [[third stoa]] focuses on [[world improvement]]. It uses [[state of the art]] [[knowledge tools]] to model the world and its problems and execute on incremental improvements.
       - See [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
 - [[pull]] [[stoas]] [[agora]]
@@ -30,7 +30,6 @@
 [goals]: goals "Goals"
 [first stoa]: first-stoa "First Stoa"
 [agora plan]: agora-plan "Agora Plan"
-[agora protocol]: agora-protocol "Agora Protocol"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [browser extensions]: browser-extensions "Browser Extensions"
 [agora twitter integration]: agora-twitter-integration "Agora Twitter Integration"
@@ -39,6 +38,7 @@
 [second stoa]: second-stoa "Second Stoa"
 [open source]: open-source "Open Source"
 [open ethics]: open-ethics "Open Ethics"
+[agora protocol]: agora-protocol "Agora Protocol"
 [flanbook]: flanbook "Flanbook"
 [third stoa]: third-stoa "Third Stoa"
 [world improvement]: world-improvement "World Improvement"
