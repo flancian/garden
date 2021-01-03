@@ -2,7 +2,7 @@
 
 - Set up a [[personal knowledge management]] system for note taking and upload your notes in [[Markdown]] format to a git repository of your choice.
   - Get a [[github]] account if you don't have a git host already: <https://github.com>.
-    - Install [[git]]: <https://git-scm.com/download>.
+    - Install [[git]] if needed: <https://git-scm.com/download>.
   - If you don't have a personal knowledge management system of choice, we recommend [[foam]]: <https://foambubble.github.io/foam/>.
     - To use foam, fork its template repository: <https://github.com/foambubble/foam-template/>. You can use any name you desire for your repository.
     - Install [[vscode]]: <https://code.visualstudio.com/download>.
