@@ -5,17 +5,16 @@
     - Install [[git]] if needed: <https://git-scm.com/download>.
   - If you don't have a personal knowledge management system of choice, we recommend [[foam]]: <https://foambubble.github.io/foam/>.
     - To use foam, fork its template repository: <https://github.com/foambubble/foam-template/>. You can use any name you desire for your repository.
-    - Install [[vscode]]: <https://code.visualstudio.com/download>.
-    - Launch [[vscode]].
-    - Select 'clone repository' -- if you're using [[github]], log in with [[github]]. Authorize [[vscode]] to make changes to your account. It sometimes requires you to retry.
+    - Install and launch [[vscode]]: <https://code.visualstudio.com/download>.
+    - Select 'clone repository' -- if you're using [[github]], log in with [[github]]. Authorize [[vscode]] to make changes to your account. It sometimes requires you to retry once for some reason.
     - [[vscode]] should offer to install recommended extensions. Say yes.
     - You can now use [[foam]]:
       - Press alt-d to start a new daily note (your journal). 
       - Write [[wikilinks]] to link to other pages. 
       - Control-click them to visit existing linked notes or create them if needed.
-    - When in doubt, you can:
-      - ctrl-shift-p to bring up the [[vscode]] command palete; you can search for any command and see keyboard shortcuts.
       - ctrl-p to open an existing note.
+      - ctrl-shift-p to bring up the [[vscode]] command palete; you can search for any command and see keyboard shortcuts.
+      - Whenever you want to commit to your repository (and the Agora), save all files and use the "branch-like" icon on the left toolbar to review changes and write a commit message.
 - Send email to signup@anagora.org or a Twitter DM to [[flancian]] with:
   - The URL of your repo.
   - Your desired username (can be distinct from that of your git host).
