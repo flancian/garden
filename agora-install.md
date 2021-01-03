@@ -13,6 +13,9 @@
       - Press alt-d to start a new daily note (your journal). 
       - Write [[wikilinks]] to link to other pages. 
       - Control-click them to visit existing linked notes or create them if needed.
+    - When in doubt, you can:
+      - ctrl-shift-p to bring up the [[vscode]] command palete; you can search for any command and see keyboard shortcuts.
+      - ctrl-p to open an existing note.
 - Send email to signup@anagora.org or a Twitter DM to [[flancian]] with:
   - The URL of your repo.
   - Your desired username (can be distinct from that of your git host).
