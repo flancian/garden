@@ -15,6 +15,7 @@
 [2020-12-29]: journal/2020-12-29 "2020-12-29"
 [foam]: foam "Foam"
 [vscode]: vscode "Vscode"
+[extension]: extension "Extension"
 [Agora]: agora "Agora"
 [maximally inclusive]: maximally-inclusive "Maximally Inclusive"
 [obsidian]: obsidian "Obsidian"
