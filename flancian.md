@@ -33,6 +33,7 @@
 [secular buddhist]: secular-buddhist "Secular Buddhist"
 [contract]: contract "CONTRACT"
 [Flancians]: flancians "Flancians"
+[protopia]: protopia "Protopia"
 [Flancia]: flancia "Flancia"
 [manifesto]: manifesto "Manifesto"
 [social.coop]: social.coop "social.coop"
