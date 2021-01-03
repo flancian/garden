@@ -9,9 +9,56 @@
 - [[project]] [[utopoi]]: http://lorand.earth/utopoi/about/
 - [[project]] https://applied-compositional-thinking.engineering/
 
+## Meet
+
+### [[2021-01-01]]
+- Super cool that you have a blackboard in your room! 
+- VC is very inclusive and we can always have this, no matter where we live.
+- What have you been working on?
+  - [[jonathan]] working a lot on the online course at [[eth]]. Sort of managing the project almost.
+    - [[flancian]] do you feel like you are learning at the day job?
+    - yep. Experimenting with new mediums for [[online teaching]].
+    - [[category theory for engineers]]
+      - [[flancian]] related to [[category theory for programmers]]?
+      - Different target audience: these are engineers in the sense of mechanical engineering, aerospace. Less direct mappings here.
+      - Main applicational framework: [[complex systems]] + [[modeling]], [[design]], [[optimization]].
+- [[world models]]
+- [[utopoi]]
+- [[projections]]
+  - [[flancian]] does the word make sense?
+  - [[jonathan]] yes. but [[filtering]] may be less confusing.
+- [[agora]]
+  - [[users]]
+  - [[groups]]
+    - node [[bourbaki]]
+  - [[stoas]]
+- [[pivoting]]
+  - [[push]] [[braiding]]
+    - something is [[symmetric]] if [[braiding twice is identity]]
+    - [[braid]] [[hofstadter]] 
+  - [[twist]]
+- [[agora]] for [[utopia]]
+  - [[missing devices]] 
+  - [[utopoi]]
+    - [[flancian]] set of [[m prime]]
+      - [[jonathan]] mathematical + computational approach to the world
+        - on the one hand it seems it will always miss something, as life is so rich
+        - on the other hand it seems it could be valuable
+        - at the beginning it seems it could be unpractical, but looking around similar approaches are around
+        - it is very costly to input lots of information, and it requires a lot of time
+      - [[flancian]] note that the value/cost function is undefined; this is a procedure to find paths/tunnels
+  - [[utopoi]]
+    - [[jonathan]] a project that wants to build channels with related projects, one of this is this repository; but it is not exactly the same.
+    - [[repository]] sounds static, whereas the m-m prime approach sounds more like a [[machine]].
+    - [[jonathan]] [[noded]] [[utopia studies]]
+    - [[flancian]] I liked [[topiary]]
+- [[focus]]
+- [[robin krom]]
+  - [[jonathan]] thinks [[robin krom]] could be interested; related to [[category theory]], [[smart contracts]], [[financial markets]], [[liquid democracy]].
+- [[reading group]]
+- [[bug report]] [[agora plan]] https://anagora.org/node/reading-goup---christopher-alexander renders badly
 
 ## Telegram
-
 ### [[2020-12-18]]
 - Jonathan thinks [[utopoi]] is not persistent; it will live for a while and then die, like an organism. But this applies mostly to the physical part; the digital part might endure.
 - Knowing it has an end date actually feels nice.
@@ -34,7 +81,22 @@
 [go]: go "Go"
 [twitter]: twitter "Twitter"
 [Smart Agora]: smart-agora "Smart Agora"
+[project]: project "Project"
 [utopoi]: utopoi "Utopoi"
+[2021-01-01]: journal/2021-01-01 "2021-01-01"
+[jonathan]: jonathan "Jonathan"
+[flancian]: flancian "Flancian"
+[category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
+[category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
+[agora]: agora "Agora"
+[users]: users "Users"
+[push]: push "Push"
+[hofstadter]: hofstadter "Hofstadter"
+[utopia]: utopia "Utopia"
+[missing devices]: missing-devices "Missing Devices"
+[noded]: noded "Noded"
+[liquid democracy]: liquid-democracy "Liquid Democracy"
+[agora plan]: agora-plan "Agora Plan"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"

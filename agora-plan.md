@@ -10,6 +10,14 @@ As you might know by now, an Agora is a beast with multiple legs:
 This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
 
 ## Latest
+
+- On [[2020-01-02]] I implemented [[jump]]
+  - I said: "I'll implement the action and a 'jump'/ dialog always available in the Agora, perhaps replacing search in the [[toolbar]]."
+  - Done!
+  - Q: is 'go to' better than jump? I don't think so, and it could be confusing due to go links. But unsure.
+- On [[2020-01-01]] I fixed node titles.
+- On [[2020-12-29]] I pushed a quick patch that upranks all my subnodes, as some top subnodes in relatively popular nodes had formatting issues / were distracting. I intend this to be temporary; better ranking and formatting fixes are coming.
+- On [[2020-12-27]] I released [[agora 0.5.6]] with [[pull]] support, better db code, caching... quite a bit :)
 - On [[2020-12-20]] I worked [[agora 0.5.5]], which adds simple [[hypothes.is]] integration.
   - Fixed the fact that [[back]] [[links]] didn't work in non-existent nodes (even when there are backlinks, that is).
   - Prepared CSS/html for [[pull]], [[push]], [[forward]] links.
@@ -37,6 +45,13 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [ ] See also [[digital gardeners]]
 - [ ] [[iplumb3r]]
   - This seems to be in [[topincs]] format, investigate.
+- [x] [[houshuang]]
+- [ ] [[joelchan86]]
+- [x] [[tilda]]
+- [x] [[binnyva]]
+- [ ] [[jakeisnt]]
+  - [[blocked]] on [[org mode]]
+
 
 ## Integrations
 - [[agora-go-links-integration]]
@@ -48,6 +63,11 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [[wikilinks everywhere]]
 
 ## Next
+- [ ] add support for org mode gardens
+  - [ ] signup by [[jakeisnt]] is blocked on this
+  - [ ] this might be enough to unlock basic [[logseq]] support?
+- [ ] I should make node [[0.5.6]] work
+- [ ] graph the whole Agora -- sounds fun!
 - [ ] Implement [[pull]] and [[push]].
   - [x] Define divs for 'pulled' and 'pushed' sections
   - Write functions that return [[pull]] and [[push]] entities in each subnode
@@ -132,10 +152,14 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora]: agora "Agora"
 [Agora]: agora "Agora"
 [Agora Server]: agora-server "Agora Server"
-[2020-12-20]: journal/2020-12-20 "2020-12-20"
-[hypothes.is]: hypothes.is "hypothes.is"
-[links]: links "Links"
+[jump]: jump "Jump"
+[toolbar]: toolbar "Toolbar"
+[2020-12-29]: journal/2020-12-29 "2020-12-29"
+[2020-12-27]: journal/2020-12-27 "2020-12-27"
 [pull]: pull "Pull"
+[2020-12-20]: journal/2020-12-20 "2020-12-20"
+[hypothes.is]: hypothesis "Hypothesis"
+[links]: links "Links"
 [push]: push "Push"
 [2020-12-04]: journal/2020-12-04 "2020-12-04"
 [2020-11-29]: journal/2020-11-29 "2020-11-29"
@@ -157,6 +181,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [digital gardeners]: digital-gardeners "Digital Gardeners"
 [iplumb3r]: iplumb3r "Iplumb3r"
+[houshuang]: houshuang "Houshuang"
+[org mode]: org-mode "Org Mode"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [agora twitter integration]: agora-twitter-integration "Agora Twitter Integration"
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
@@ -164,6 +190,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [roam2agora]: roam2agora "Roam2agora"
 [agora vscode]: agora-vscode "Agora Vscode"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
+[logseq]: logseq "Logseq"
 [do]: do "Do"
 [flancian]: flancian "Flancian"
 [s5bug]: s5bug "S5bug"
