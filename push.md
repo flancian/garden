@@ -1,7 +1,7 @@
 # Push
 
 - An [[action]].
-- It 'means' that the current context is relevant for the target node and should perhaps be included in it ([[transclusion]]):
+- It 'means' that a certain context is relevant for the target node and should perhaps be included in it ([[transclusion]]):
   - [[push]] [[transclusion]]
 - See also: [[pull]].
 
