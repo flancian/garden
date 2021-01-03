@@ -4,9 +4,10 @@
   - I was introduced to this concept by [[peter limberg]].
   - [[pull]] [[meditations]]
 - My [[meditations]] are scattered through the [[Agora]].
-  - They are also here. You can think of this page as a timeline.
+  - Some of them are explicitly linked here. You can think of this page as a high level timeline or an [[index]].
 
 ## 2020
+
 - This is my [[manifesto]].
   - [[pull]] [[manifesto]]
 - In [[Flancia]] there is an [[Agora]].
@@ -23,6 +24,7 @@
 [pull]: pull "Pull"
 [meditations]: meditations "Meditations"
 [Agora]: agora "Agora"
+[index]: index "index"
 [manifesto]: manifesto "Manifesto"
 [Flancia]: flancia "Flancia"
 [plan]: plan "Plan"
