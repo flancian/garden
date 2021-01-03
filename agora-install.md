@@ -15,7 +15,7 @@
       - ctrl-p to open an existing note.
       - ctrl-shift-p to bring up the [[vscode]] command palete; you can search for any command and see keyboard shortcuts.
       - Whenever you want to commit to your repository (and the Agora), save all files and use the "branch-like" icon on the left toolbar to review changes and write a commit message.
-      - You may need to set a user.name and user.email in git. To do this, open the terminal and type:
+      - You may need to set a user.name and user.email in git. To do this, open the terminal in [[vscode]] and type:
         - git config --global user.name "Your Name"
         - git config --global user.email "yourname@example.com"
 - Send email to signup@anagora.org or a Twitter DM to [[flancian]] with:
