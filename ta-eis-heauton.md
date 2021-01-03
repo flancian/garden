@@ -9,11 +9,8 @@
 ## 2020
 
 - This is my [[manifesto]].
-  - [[pull]] [[manifesto]]
 - In [[Flancia]] there is an [[Agora]].
-  - [[pull]] [[agora]] 
 - I have a [[plan]].
-  - [[pull]] [[plan]]
 ## 2021
 
 - I'm building an [[Agora]].
