@@ -11,7 +11,10 @@
 - Greetings!
 - [[bluetooth codecs]]
 - [[hypothes.is]] and [[memex]]
-- [[memex search]]
+  - [[dan whaley]]
+- [[crowdsourced search]]
+  - [[memex search]]
+  - [[agora search]]
 - [[interop]] for [[roam likes]] and other [[tools]] in the [[pkm]] [[market]]
   - [[oliver]] how do we figure this out at least on the level of addressing each other's blocks?
   - [[flancian]] idea:
@@ -61,6 +64,9 @@
 [ikigai]: ikigai "Ikigai"
 [2021-01-04]: journal/2021-01-04 "2021-01-04"
 [hypothes.is]: hypothesis "Hypothesis"
+[dan whaley]: dan-whaley "Dan Whaley"
+[crowdsourced search]: crowdsourced-search "Crowdsourced Search"
+[agora search]: agora-search "Agora Search"
 [interop]: interop "Interop"
 [roam likes]: roam-likes "Roam Likes"
 [tools]: tools "Tools"
