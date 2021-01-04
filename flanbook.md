@@ -10,7 +10,7 @@
      - Replicate it.
      - Open it up.
   - People can contribute direct work or money. The Agora assigns both transparently. 
-  - Net profit (after expenses related to running the platform) goes to:
+  - Net income (after expenses related to running the platform) goes to:
     - [[effective altruism]], [[give directly]] and other altruistic and social reform efforts.
       - [[thought experiment]] https://twitter.com/flancian/status/1335550881933234176
     - [[users]] ([[profit sharing]])
