@@ -22,6 +22,9 @@
       - [[oliver]] syntax wise they are great -- all tools support them.
       - [[oliver]] the problem with the syntax is that it's not web 2.0 compatible. It requires a shared knowledge about each other's infra.
         - [[agora protocol]] could be a [[library]].
+      - [[oliver]] advantage of [[agora]] ([[hub]]) approach: cheaper integrations.
+      - [[oliver]] ongoing maintenance cost 
+      - [[flancian]] another downside: [[SPOF]]
     - [[actions]]
 - [[cloud infrastructure]] is the focus now
   - After this is done, we'll focus on [[apis]] and [[integrations]]
