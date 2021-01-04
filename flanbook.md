@@ -11,7 +11,7 @@
      - Open it up.
   - People can contribute direct work or money. The Agora assigns both transparently. 
   - Net profit goes to:
-    - [[effective altruism]] or other altruistic efforts.
+    - [[effective altruism]], [[give directly]] and other altruistic and social reform efforts.
     - Funding the platform as a non-profit.
     - [[profit sharing]] with [[users]].
     - [[tweet]] https://twitter.com/flancian/status/1335550881933234176
@@ -25,6 +25,7 @@
 [Flancia]: flancia "Flancia"
 [Agora]: agora "Agora"
 [effective altruism]: effective-altruism "Effective Altruism"
+[give directly]: give-directly "Give Directly"
 [users]: users "Users"
 [tweet]: tweet "Tweet"
 [worldbrain]: worldbrain "Worldbrain"
