@@ -10,7 +10,10 @@
      - Replicate it.
      - Open it up.
   - People can contribute direct work or money. The Agora assigns both transparently. 
-  - Net income goes to [[effective altruism]] or other altruistic efforts.
+  - Net profit goes to:
+    - [[effective altruism]] or other altruistic efforts.
+    - Funding the platform as a non-profit.
+    - [[profit sharing]] with [[users]].
     - [[tweet]] https://twitter.com/flancian/status/1335550881933234176
 - [[see also]] https://twitter.com/flancian/status/1298712522501926912, https://twitter.com/flancian/status/1332042059801370631.
 - [[worldbrain]] https://medium.com/@WorldBrain/you-are-worth-250-dollars-for-facebook-each-year-if-you-owned-your-data-youd-get-way-more-out-81032046411b
@@ -22,6 +25,7 @@
 [Flancia]: flancia "Flancia"
 [Agora]: agora "Agora"
 [effective altruism]: effective-altruism "Effective Altruism"
+[users]: users "Users"
 [tweet]: tweet "Tweet"
 [worldbrain]: worldbrain "Worldbrain"
 [facebook]: facebook "Facebook"
