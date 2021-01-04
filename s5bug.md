@@ -3,7 +3,7 @@
 - A [[person]].
 - [[pull]] [[aly]]
 - [[twitter]] twitter.com/s5bug.
-- [[alignment]] [[chaotic good]] or [[chaotic neutral]]
+- [[alignment]]: [[chaotic good]] or [[chaotic neutral]].
 - Second [[agora]] user ever, volunteered their garden: https://gitdab.com/s/garden.git. I am [[thankful]].
 - Into [[scala]], [[emulation]], [[disassembly]].
 - [[minecraft]] [[legend of zelda]].
