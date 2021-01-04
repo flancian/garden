@@ -19,6 +19,8 @@
   - [[oliver]] standardization is tricky from the perspective that you need to get everybody onboard -- including the organizations producing these tools.
   - [[flancian]] two pronged approach in the [[agora]]:
     - [[wikilinks everywhere]]
+      - [[oliver]] syntax wise they are great -- all tools support them.
+      - [[oliver]] the problem with the syntax is that it's not web 2.0 compatible. It requires a shared knowledge about each other's infra.
     - [[actions]]
 - [[cloud infrastructure]] is the focus now
   - After this is done, we'll focus on [[apis]] and [[integrations]]
@@ -27,6 +29,7 @@
 - What are the [[memex]] [[user journeys]]? Perhaps in particular in comparison with [[hypothes.is]].
   - [[oliver]]:
     - [[hypothes.is]] excels in academic research and academic annotations.
+    - [[memex]] and [[hypothes.is]] will eventually [[interop]].
     - [[memex]] tries to bridge the gap between [[discovery]] and [[curation]]/[[organization]].
     - If you think of [[twitter]], the only way you can organize content is to use [[bookmarks]].
     - [[memex]] lets you curate collections of content, annotate them individually or collectively, and integrate them into [[synthesis workflows]] like those in [[roam]].
