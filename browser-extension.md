@@ -3,6 +3,7 @@
 - [[go]] https://anagora.org/wiki/Web_Extensions
 - A promising ecosystem.
 - I'd like to keep track of interesting ideas for these.
+- [[wikilinks everywhere]] currently implies an [[extension]].
 
 
 
