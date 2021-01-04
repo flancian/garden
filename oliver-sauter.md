@@ -56,7 +56,8 @@
   - Like a [[rss]] feed.
 - [[oliver]] would suggest that the [[agora]] is a [[library]] first, then a [[protocol]].
 - [[next action]]
-  - [[one page proposal]]
+  - Let's pull [[dan whaley]]
+  - [[one pager]]
     - [[library]] that queries [[wikilinks]]
     - [[browser extension]] that resolves [[wikilinks]]
 
