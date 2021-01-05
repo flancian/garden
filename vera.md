@@ -4,7 +4,7 @@
 - [[programmer]] [[anarchist]]
 - [[pull]] [[notverapetrova]]
 - [[twitter]] twitter.com/notverapetrova
-- [[agora]] anagora.org
+- [[agora]] anagora.org/@vera
 - [[project]] [[agora ext]]
 
 
