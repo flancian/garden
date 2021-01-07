@@ -2,6 +2,9 @@
 
 - [[push]] [[agora-plan]]
 
+## [[vaughn tan]]
+
+- It would be nice to have a way to export rendered gardens as static html, with data such as calculated backlinks baked in.
 ## [[metasj]]
 
 - Meta FR: look at special pages from [[wikipedia]]: https://twitter.com/metasj/status/1346180724861394944
