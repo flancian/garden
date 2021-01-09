@@ -39,7 +39,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 - [x] [[arghzero]]
 - [x] [[dr_kvj]]: https://github.com/drkvj/agora
 - [x] [[jonathan-the-utopian]]
-- [ ] [[enkiv2]]: http://lord-enki.net/medium-backup/
+- [ ] [[enkiv2]]: http://www.lord-enki.net/medium-backup/
 - [ ] what about all of the ones licensed appropriately listed in [[kasper zutterman]]'s [[second brain]] list? https://github.com/KasperZutterman/Second-Brain
   - Discussing with [[armengolaltayo]]
 - [ ] See also [[digital gardeners]]
@@ -66,6 +66,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 
 ## Next
 - [ ] all http mentions should be auto linked, not only some: https://twitter.com/notverapetrova/status/1346258737204400128
+  - Worked around this, but I should probably send an upstream PR to [[bleach]]
+- [ ] try rendering notes with [[marko]], see if it's a bit more forgiving with list indentation and other kinks that seem common.
 - [ ] add support for org mode gardens
   - [ ] signup by [[jakeisnt]] is blocked on this
   - [ ] this might be enough to unlock basic [[logseq]] support?
@@ -191,6 +193,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [roam2agora]: roam2agora "Roam2agora"
 [agora vscode]: agora-vscode "Agora Vscode"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
+[marko]: marko "Marko"
 [logseq]: logseq "Logseq"
 [push]: push "Push"
 [do]: do "Do"
