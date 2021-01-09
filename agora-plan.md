@@ -69,8 +69,10 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - Worked around this, but I should probably send an upstream PR to [[bleach]]
 - [ ] try rendering notes with [[marko]], see if it's a bit more forgiving with list indentation and other kinks that seem common.
 - [ ] add support for org mode gardens
-  - [ ] signup by [[jakeisnt]] is blocked on this
-  - [ ] this might be enough to unlock basic [[logseq]] support?
+  - signup by [[jakeisnt]] is blocked on this
+  - signup by [[karlicoss]] is blocked on this
+  - this might be enough to unlock basic [[logseq]] support?
+  - [[orgparse]] might be useful
 - [ ] I should make node [[0.5.6]] work
 - [ ] graph the whole Agora -- sounds fun!
 - [ ] Implement pull and push.
