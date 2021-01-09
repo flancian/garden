@@ -69,10 +69,11 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - Worked around this, but I should probably send an upstream PR to [[bleach]]
 - [ ] try rendering notes with [[marko]], see if it's a bit more forgiving with list indentation and other kinks that seem common.
 - [ ] add support for org mode gardens
-  - signup by [[jakeisnt]] is blocked on this
-  - signup by [[karlicoss]] is blocked on this
+  - signup by [[jakeisnt]] is blocked on this:  https://github.com/jakeisnt/wiki
+  - signup by [[karlicoss]] is blocked on this: https://github.com/karlicoss/exobrain.git
   - this might be enough to unlock basic [[logseq]] support?
   - [[orgparse]] might be useful
+  - [[pandoc]] supports org
 - [ ] I should make node [[0.5.6]] work
 - [ ] graph the whole Agora -- sounds fun!
 - [ ] Implement pull and push.
@@ -187,6 +188,7 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [digital gardeners]: digital-gardeners "Digital Gardeners"
 [iplumb3r]: iplumb3r "Iplumb3r"
 [houshuang]: houshuang "Houshuang"
+[jakeisnt]: jakeisnt "Jakeisnt"
 [org mode]: org-mode "Org Mode"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [agora twitter integration]: agora-twitter-integration "Agora Twitter Integration"
@@ -196,7 +198,9 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [agora vscode]: agora-vscode "Agora Vscode"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [marko]: marko "Marko"
+[karlicoss]: karlicoss "Karlicoss"
 [logseq]: logseq "Logseq"
+[orgparse]: orgparse "Orgparse"
 [push]: push "Push"
 [do]: do "Do"
 [flancian]: flancian "Flancian"
