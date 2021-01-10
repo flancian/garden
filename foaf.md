@@ -8,6 +8,7 @@
 - https://twitter.com/flancian/status/1348256343837310976
 - https://twitter.com/ZornGerhard/status/1348260858946871298
   - [[gerhard-zorn]] says: use foaf:mbox_sha1sum instead of foam:mbox, keep the contact email private.
+  - http://xmlns.com/foaf/spec/20070114.html#term_mbox_sha1sum
 
 
 
