@@ -2,7 +2,9 @@
 
 - [[go]] https://flancia.org/mine/flanbook
   - A rough [[essay]] in [[Flancia]].
-- An [[open source]] [[alternative]] to [[facebook]].
+- An [[open source]] [[alternative]] to [[facebook]]. See also:
+  - [[flannit]], for [[reddit]].
+  - [[flanner]], for [[twitter]].
 - [[procedure]]:
   - Define central coordination entity, by default an [[Agora]].
   - For each useful [[internet]] [[platform]]:
@@ -27,6 +29,10 @@
 [Flancia]: flancia "Flancia"
 [open source]: open-source "Open Source"
 [facebook]: facebook "Facebook"
+[flannit]: flannit "Flannit"
+[reddit]: reddit "Reddit"
+[flanner]: flanner "Flanner"
+[twitter]: twitter "Twitter"
 [procedure]: procedure "Procedure"
 [Agora]: agora "Agora"
 [plan]: plan "Plan"
