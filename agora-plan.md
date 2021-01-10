@@ -53,6 +53,8 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
   - [[blocked]] on [[org mode]]
 - [ ] TomCassidy
   - [ ] It's a public roam graph: https://roamresearch.com/#/app/Learn2020zettelkasten
+- [ ] [[metasj]] https://meta.wikimedia.org/wiki/User:Sj/!
+  - First user actually using a wiki!
 
 
 ## Integrations
@@ -188,8 +190,10 @@ This page is about both, although it's probably going to be [[Agora Server]] hea
 [digital gardeners]: digital-gardeners "Digital Gardeners"
 [iplumb3r]: iplumb3r "Iplumb3r"
 [houshuang]: houshuang "Houshuang"
+[tilda]: tilda "Tilda"
 [jakeisnt]: jakeisnt "Jakeisnt"
 [org mode]: org-mode "Org Mode"
+[metasj]: metasj "Metasj"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [agora twitter integration]: agora-twitter-integration "Agora Twitter Integration"
 [agora-youtube-integration]: agora-youtube-integration "Agora Youtube Integration"
