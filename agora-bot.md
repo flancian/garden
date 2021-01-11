@@ -8,6 +8,7 @@
 - Set up private repo.
 
 ## [[doing]]
+
 - Go through open source approval process.
 ## [[do]]
 
