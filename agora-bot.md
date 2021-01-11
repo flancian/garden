@@ -5,7 +5,10 @@
 
 ## [[done]]
 
-- Set up private repo, go through open source approval process.
+- Set up private repo.
+
+## [[doing]]
+- Go through open source approval process.
 ## [[do]]
 
 - Create Twitter account for testing.
