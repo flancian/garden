@@ -9,9 +9,11 @@
   - The [[agora]] is an [[experimental]] [[social network]] in which I try to express my full identity.
 - I practice [[open source]] and [[open ethics]] as much as I can.
   - I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
-- I consider myself an [[amateur utopian]]. I call my [[protopia]] [[Flancia]], but the name isn't important.
-  - I am a Flancian and this is my [[manifesto]].
-  - There are other [[Flancians]].
+- In my [[free time]] I practice [[utopian thinking]]; I am an [[amateur utopian]]. 
+  - [[Utopias]] are also a genre of [[literature]].
+  - I call my [[protopia]] [[Flancia]], but the name isn't important.
+    - I am a Flancian and this is my [[manifesto]].
+    - There are other [[Flancians]].
 - Contact information follows.
   - [[website]] [[go]] https://flancia.org
   - [[email]] 0 (that's a zero) on email in my personal domain as listed above
@@ -35,7 +37,9 @@
 [open source]: open-source "Open Source"
 [open ethics]: open-ethics "Open Ethics"
 [contract]: contract "CONTRACT"
+[free time]: free-time "Free Time"
 [amateur utopian]: amateur-utopian "Amateur Utopian"
+[literature]: literature "Literature"
 [protopia]: protopia "Protopia"
 [Flancia]: flancia "Flancia"
 [manifesto]: manifesto "Manifesto"
