@@ -3,9 +3,11 @@
 - A [[person]].
   - My [[self]] :).
   - I found an [[agora]]: https://twitter.com/flancian/status/1349070105402105856
-- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]].
-  - I prefer to deconstruct these and other cluster identities whenever it is feasible, though.
-  - I try to follow an explicit personal social [[contract]] that extends and complements that of the [[Agora]].
+- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]]. 
+  - I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
+  - The [[agora]] is an [[experimental]] [[social network]] in which I try to express my full identity.
+- I practice [[open source]] and [[open ethics]] as much as I can.
+- I try to follow an explicit personal social [[contract]] that extends and complements that of the [[Agora]].
 - I consider myself an [[amateur utopian]]. I call my [[protopia]] [[Flancia]], but the name isn't important.
   - I am a Flancian and this is my [[manifesto]].
   - There are other [[Flancians]].
@@ -27,8 +29,11 @@
 [self]: self "Self"
 [agora]: agora "Agora"
 [secular buddhist]: secular-buddhist "Secular Buddhist"
+[experimental]: experimental "Experimental"
+[social network]: social-network "Social Network"
+[open source]: open-source "Open Source"
+[open ethics]: open-ethics "Open Ethics"
 [contract]: contract "CONTRACT"
-[Agora]: agora "Agora"
 [amateur utopian]: amateur-utopian "Amateur Utopian"
 [protopia]: protopia "Protopia"
 [Flancia]: flancia "Flancia"
