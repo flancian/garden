@@ -1,0 +1,4 @@
+# Thinking
+
+- [[pull]] [[thought]]
+

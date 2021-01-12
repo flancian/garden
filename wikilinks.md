@@ -1,6 +1,6 @@
 # Wikilinks
 
-- [[see also]] [[wikilink]]
+- [[pull]] [[wikilink]]
 - I'm excited about [[wikilinks everywhere]].
 
 

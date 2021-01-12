@@ -1,0 +1,4 @@
+# Richard Feynman
+
+- [[feynman lectures]]
+

@@ -3,6 +3,7 @@
 - A [[person]].
 - [[twitter]] twitter.com/metasj
 - [[go]] http://blogs.harvard.edu/sj
+- [[go]] https://meta.wikimedia.org/wiki/User:Sj
 - [[project]] [[underlay]]
 - Another fan of the [[cyberiad]].
 - Shared node: [[metasj-flancian]]
@@ -12,6 +13,7 @@
 [person]: person "Person"
 [twitter]: twitter "Twitter"
 [go]: go "Go"
+[project]: project "Project"
 [underlay]: underlay "Underlay"
 [cyberiad]: cyberiad "Cyberiad"
 [metasj-flancian]: metasj-flancian "Metasj Flancian"
