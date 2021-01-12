@@ -10,6 +10,9 @@
 - I practice [[open source]] and [[open ethics]] as much as I can.
   - This [[agora]] is, and will always be, [[free]] and [[open source]].
   - I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
+  - I work for [[Google]] as an [[sre]]
+  - I live in [[Switzerland]].
+  - I am a member of [[effective altruism]].
   - I am a member of [[social.coop]].
 - In my [[free time]] I practice [[utopian thinking]]; I am an [[amateur utopian]]. 
   - [[Utopias]] are also a genre of [[literature]].
@@ -38,6 +41,9 @@
 [open source]: open-source "Open Source"
 [open ethics]: open-ethics "Open Ethics"
 [contract]: contract "CONTRACT"
+[Google]: google "Google"
+[sre]: sre "SRE"
+[effective altruism]: effective-altruism "Effective Altruism"
 [social.coop]: social.coop "social.coop"
 [free time]: free-time "Free Time"
 [amateur utopian]: amateur-utopian "Amateur Utopian"
