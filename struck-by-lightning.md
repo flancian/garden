@@ -1,7 +1,7 @@
 # Struck by Lightning
 *or: [[Slaying Moloch]]*
 
-I sometimes feels as if I'm struck by lightning;
+I sometimes feel as if I'm struck by lightning;
 
 I sometimes catch fire.
 
