@@ -1,6 +1,7 @@
 # Hypnagogic
 
-- [[go]] https://liberapay.com/hypnagogic
+- [[go]] jmoore.me
+- [[pay]] https://liberapay.com/hypnagogic
 - [[project]] [[moa.party]]
 - [[mastodon]] https://pdx.social/@foozmeat
 
