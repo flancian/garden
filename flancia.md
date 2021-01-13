@@ -4,6 +4,7 @@
 - A [[place]].
   - An amateur [[utopia]]. You could very well think of it as a [[place]] in my mind. 
   - In particular a [[eutopia]] and [[protopia]]. 
+  - [[Flancia]] is a world much like ours in many ways, but in which everybody gets to [[thrive]]: https://twitter.com/flancian/status/1348973943324106753
 - The land of the [[Flancians]].
 - See also: [[Flancia narrative]].
 - Flancia could be a [[polis]].
@@ -24,6 +25,8 @@
 [utopia]: utopia "Utopia"
 [eutopia]: eutopia "Eutopia"
 [protopia]: protopia "Protopia"
+[Flancia]: flancia "Flancia"
+[thrive]: thrive "Thrive"
 [Flancians]: flancians "Flancians"
 [Flancia narrative]: flancia-narrative "Flancia Narrative"
 [polis]: polis "Polis"
@@ -33,7 +36,6 @@
 [change the world]: change-the-world "Change the World"
 [being open]: being-open "Being Open"
 [Flancian]: flancian "Flancian"
-[Flancia]: flancia "Flancia"
 [poverty]: poverty "Poverty"
 [privilege]: privilege "Privilege"
 [meet]: meet "Meet"
