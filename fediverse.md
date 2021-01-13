@@ -2,7 +2,7 @@
 
 - [[go]] https://en.wikipedia.org/wiki/Fediverse
   - [[quote]] The Fediverse (a portmanteau of "[[federation]]" and "[[universe]]") is an ensemble of [[federated]] (i.e. interconnected) servers that are used for web publishing (i.e. [[social networking]], [[microblogging]], [[blogging]], or [[websites]]) and file hosting, but which, while independently hosted, can communicate with each other. On different servers (instances), users can create so-called [[identities]]. These identities are able to communicate over the boundaries of the instances because the software running on the servers supports one or more [[communication protocols]] which follow an open standard.
-- [[networks]]
+- [[platforms]]
   - [[pull]] [[mastodon]] [[friendica]] [[diaspora]] [[peertube]]
 - [[protocols]]
   - [[pull]] [[activitypub]] [[diaspora]]
