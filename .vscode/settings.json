@@ -37,6 +37,7 @@
     ],
     "vim.handleKeys": {
       "[": false,
+      "]": false,
     },
     "foam.openDailyNote.directory": "journal",
     "editor.minimap.enabled": true,
