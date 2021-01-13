@@ -37,5 +37,25 @@
     ],
     "vim.handleKeys": {
       "[": false,
+    },
+    "foam.openDailyNote.directory": "journal",
+    "editor.minimap.enabled": true,
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "markdown-links.autoStart": false,
+    "markdown-links.graphType": "obsidian",
+    "vscodeMarkdownNotes.newNoteDirectory": "WORKSPACE_ROOT",
+    "markdown.extension.print.theme": "dark",
+    "markdown.preview.scrollEditorWithPreview": false,
+    "window.autoDetectColorScheme": true,
+    "[markdown]": {
+        "editor.tabSize": 2
+    },
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
     }
 }
