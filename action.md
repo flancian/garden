@@ -6,7 +6,7 @@
   - [[pull]]
 - See also: [[do]], for actions most often performed by humans.
 - [[pull]] [[agora action]] [[actions]]
-- [[2020-01-12]]
+- [[pushed]] by [[2020-01-12]]
   - [[push]] is the action that links [[2020-01-12]] and [[day]]: because 2020-01-12 includes a block with [[push]] [[day]], [[day]] gets the children of that block as content.
   - [[action]] accordingly gets these blocks as a result of the push above.
 
