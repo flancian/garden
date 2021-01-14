@@ -13,7 +13,7 @@
 - I have a [[plan]].
 ## 2021
 
-- I'm building an [[Agora]].
+- I'm building an [[agora]].
 - With it I'd like for us to build many [[stoas]].
 
 
@@ -26,7 +26,7 @@
 [do]: do "Do"
 [2021-01-04]: journal/2021-01-04 "2021-01-04"
 [meditations]: meditations "Meditations"
-[Agora]: agora "Agora"
+[agora]: agora "Agora"
 [index]: index "index"
 [thinking]: thinking "Thinking"
 [push]: push "Push"
