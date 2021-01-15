@@ -1,9 +1,11 @@
 # The World at War
 
 - A [[documentary]] [[series]].
+  - [[1973]].
+  - 9.2 on IMDB.
+- About [[world war II]].
 - [[go]] https://www.imdb.com/title/tt0071075/
-  - 9.2 on IMDB
-  - Narrated by [[laurence olivier]]
+  - Narrated by [[laurence olivier]].
 - [[watching]] it as of [[2021-01-15]].
   - Both interesting and entertaining.
   - Currently on episode 9.
