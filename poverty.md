@@ -5,6 +5,7 @@
   - Causes people not to [[thrive]].
   - Causes [[unhappiness]].
   - Causes [[violence]].
+  - Causes [[pain]].
 - [[go]] http://encyclopedia.uia.org/en/problems?combine=poverty
 - [[push]] [[in Flancia there is no poverty]] flancia.org/poverty
 
