@@ -1,9 +1,10 @@
 # Agora Bridge
 
-- [[pull]] [[agora bot]]
-- [[bot]], [[bridge]], [[siphon]] that allows the [[agora]] to interact with other [[social networks]] and the [[fediverse]].
+- A [[project]].
+- [[github]] github.com/flancian/agora-bridge
+  - Eventually a collection of [[bots]], [[bridges]], [[siphons]] that allows the [[agora]] to interact with other [[social networks]] and the [[fediverse]].
 - [[contains]]
-  - [[agora bot]] -- bot implementations for [[twitter]] and [[mastodon]].
+  - [[pull]] [[agora bot]] -- bot implementations for [[twitter]] and [[mastodon]].
   - Code to enable users to directly interact with social networks of choice (in the directions social network -> agora and agora -> social network).
 
 ## [[done]]
