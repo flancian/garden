@@ -1,6 +1,8 @@
 # Pull and Push
 
-- [[pull]] and [[push]] are two [[actions]] in the [[agora]].
+- [[pull]] 
+- [[push]] 
+- Two [[actions]] in the [[agora]].
 - [[2021-01-17]]
   - https://twitter.com/flancian/status/1350824766631010305
   - https://twitter.com/flancian/status/1350825696373989381
