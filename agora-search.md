@@ -6,6 +6,8 @@
   - Perhaps [[agora search]] tries to find a good match for your query locally and redirects to other agoras in the network or to duckduckgo/google if a good result isn't available. - If it volunteers something, it also offers to continue your query in the search authority of your choice.
   - [[push]] and [[pull]] could be used to offer hints for how to route queries to relevant results.
 - ***Agora Search is [[crowdsourced search]] for the [[open]] [[internet]]***.
+- [[user story]]
+  - https://twitter.com/flancian/status/1350835941603221504
 - [[pull]] [[crowdsourced search]]
 
 
