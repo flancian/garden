@@ -1,4 +1,5 @@
 # AbstractFairy
+
 - A [[person]] on [[twitter]]: https://twitter.com/AbstractFairy.
 - A [[friend]].
 - [[hypothes.is]]: https://hypothes.is/groups/nxaLPD9r/abstractfairy
@@ -21,6 +22,7 @@
 [person]: person "Person"
 [twitter]: twitter "Twitter"
 [friend]: friend "Friend"
+[hypothes.is]: hypothesis "Hypothesis"
 [Thomas Szasz]: thomas-szasz "Thomas Szasz"
 [ribbonfarm]: ribbonfarm "Ribbonfarm"
 [fascism]: fascism "Fascism"
