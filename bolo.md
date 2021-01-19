@@ -1,6 +1,6 @@
 # Bolo
 
-- An autonomous [[community]].
+- A [[group]] forming an autonomous [[community]].
 - [[pull]] [[bolo bolo]].
 - I once said I'd start a bolo when I got to 1000 [[twitter]] followers: https://twitter.com/flancian/status/1300500464539238403
 
