@@ -31,6 +31,8 @@
     - En oposición con [[dendron]], [[foam]] o cualquier wiki no estructurado se basa en punteros en cualquier dirección y a cualquier nivel.
     - [[heterarchy]]
 - [[startupy]]
+- [[wefindx]]
+  - [[0oo.li]]
 ## [[2020-12-05]]
 
 - Por [[telegram]].
