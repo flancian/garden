@@ -39,9 +39,11 @@
   - comunidades pequeñas y grandes
   - [[fomo]]
   - [[resets]]
+    - interesante porque esto es como una sincronicidad diferida, yo sentí exactamente lo mismo.
   - [[topic]] [[systems to manage information overload]] and [[onboard]] or [[offboard]] from conversations
     - [[summaries]]
     - [[conversation trees]]
+    - [[platonic dialogue]]
 
 ## [[2020-12-05]]
 
