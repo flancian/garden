@@ -34,6 +34,12 @@
 - [[startupy]]
 - [[wefindx]]
   - [[0oo.li]]
+- Relaciones con la información
+  - sincronicidad y asincronicidad
+  - comunidades pequeñas y grandes
+  - [[fomo]]
+  - [[resets]]
+
 ## [[2020-12-05]]
 
 - Por [[telegram]].
