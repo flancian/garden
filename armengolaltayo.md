@@ -25,6 +25,7 @@
       - Daniel no está de acuerdo.
       - Es una decisión impuesta; es una perspectiva válida pero elimina muchas posibilidades.
       - Yo estoy de acuerdo con Daniel a priori (no lo usé)
+        - Interesante sin embargo por [[the hyperlink delusion]]
     - paralelo: [[metáfora del escritorio]] en computadoras personales
       - útil en su momento
       - pero limita el tipo de organización posible. ejemplo: un archivo es un objeto físico dentro de la metáfora, por lo que sólo puede estar en un solo lugar a la vez.
@@ -136,6 +137,8 @@
 [dendron]: dendron "Dendron"
 [foam]: foam "Foam"
 [heterarchy]: heterarchy "Heterarchy"
+[startupy]: startupy "Startupy"
+[wefindx]: wefindx "Wefindx"
 [2020-12-05]: journal/2020-12-05 "2020-12-05"
 [ethan-plante]: ethan-plante "Ethan Plante"
 [gtoolkit]: gtoolkit "Gtoolkit"
