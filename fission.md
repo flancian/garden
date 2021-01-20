@@ -7,6 +7,7 @@
   - "Publish any front end app in 5 minutes -- free SSL and subdomain included"
   - "Built in user accounts with storage included -- like an open source iCloud"
   - "We're here to help you make your app awesome & we take care of protecting your users' data"
+- [[github]] https://github.com/fission-suite
 - [[twitter]] twitter.com/fissioncodes
 - [[discord]] fission.codes/discord
 - [[discourse]] talk.fission.codes
