@@ -50,6 +50,7 @@
 - [[agora protocol]] for [[social discovery]]
   - [[chicken fingers vs tentacles]]
 - the [[agora]] is a [[tool for building shared context]]
+  - [[mind merge]]
 - [[stoa]] is a [[shared context]] with explicit [[goals]], [[values]] and [[biases]].
   - a [[data structure]] plus a [[social graph]] that is geared towards [[solving problem]].
   - a [[squad]] is a collection of [[people]] with a set of [[skills]] coming together to work on a [[task]] or accomplish a [[goal]].
