@@ -8,6 +8,8 @@
   - [[dell]]
   - [[rolled dice]]
 - [[math]] [[game theory]]
+
+## [[2021-01-20]]
 - [[project]] [[rome.works]]
   - exploring market fit
   - high level [[goal]]: build a knowledge economy
@@ -42,6 +44,7 @@
 [person]: person "Person"
 [twitter]: twitter "Twitter"
 [go]: go "Go"
+[2021-01-20]: journal/2021-01-20 "2021-01-20"
 [project]: project "Project"
 [book]: book "Book"
 [the expanding circle]: the-expanding-circle "The Expanding Circle"
