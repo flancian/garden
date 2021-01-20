@@ -73,7 +73,7 @@ Por [[Telegram]].
   - Q: figura de Sócrates.
   - Q: Jonathan.
 - Branch: governancia
-  - [[xavivives]] trabaja en un proyecto: [[vocdoni.io]] (sp?). Un sistema de votación decentralizada.
+  - [[xavivives]] trabaja en un proyecto: [[vocdoni]]. Un sistema de votación decentralizada.
   - Q: [[exuo]]
 - [[Agora]]
   - [[vewpoint]]: [[mind map]] + [[world model]].
