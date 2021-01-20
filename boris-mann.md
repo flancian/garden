@@ -5,9 +5,11 @@
 - [[social.coop]] https://bmannconsulting.com/blog/2020/10/09/joining-social-coop/ 
 - [[mastodon]] @bmann@social.coop
 - [[fediverse]] @bmann@social.coop
+- [[project]] [[fission]]
 
 ## [[2021-01-20]]
 
+- Greetings!
 - Q: which software are you running in bmannconsulting.com?
 
 
