@@ -13,6 +13,7 @@
 ## [[2020-01-20]]
 
 - Terrible [[hiato]]. Mi responsabilidad.
+- Por [[telegram]].
 - Colaboración -- de lo [[colectivo]] a lo [[individual]].
   - [[bots]] de integración entre chat/redes sociales y el [[agora]]
   - [[push]] [[stoa]]
@@ -29,15 +30,15 @@
       - pero limita el tipo de organización posible. ejemplo: un archivo es un objeto físico dentro de la metáfora, por lo que sólo puede estar en un solo lugar a la vez.
     - En oposición con [[dendron]], [[foam]] o cualquier wiki no estructurado se basa en punteros en cualquier dirección y a cualquier nivel.
     - [[heterarchy]]
+- [[startupy]]
 ## [[2020-12-05]]
 
-Por [[Telegram]].
-
+- Por [[telegram]].
 - Traducción de nodos. Operaciones entre nodos; reminiscente de entornos para programación visual.
   - -> [[ethan-plante]] -> [[gtoolkit]]
 - Enfoque que prioriza el uso individual. 
   - Daniel también piensa que conviene apostar por propuestas que construyen socialmente sobre una base individual que ya aporta utilidad.
-- Markdown como formato
+- [[Markdown]] como formato
   - Block references
   - Daniel piensa en un archivo de Markdown por *bloque*
   - Transclusiones permiten consolidar en textos más largos
@@ -125,6 +126,7 @@ Por [[Telegram]].
 [Agora]: agora "Agora"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [the-hyperlink-delusion]: the-hyperlink-delusion "The Hyperlink Delusion"
+[telegram]: telegram "Telegram"
 [bots]: bots "Bots"
 [push]: push "Push"
 [stoa]: stoa "Stoa"
@@ -133,13 +135,14 @@ Por [[Telegram]].
 [foam]: foam "Foam"
 [heterarchy]: heterarchy "Heterarchy"
 [2020-12-05]: journal/2020-12-05 "2020-12-05"
-[telegram]: telegram "Telegram"
 [ethan-plante]: ethan-plante "Ethan Plante"
 [gtoolkit]: gtoolkit "Gtoolkit"
+[Markdown]: markdown "Markdown"
 [roam2agora]: roam2agora "Roam2agora"
 [agora protocol]: agora-protocol "Agora Protocol"
 [2020-11-28]: journal/2020-11-28 "2020-11-28"
 [xavivives]: xavivives "Xavivives"
+[vocdoni]: vocdoni "Vocdoni"
 [exuo]: exuo "Exuo"
 [hypothes.is]: hypothesis "Hypothesis"
 [digital garden]: digital-garden "Digital Garden"
