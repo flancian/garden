@@ -4,6 +4,7 @@
 - "Turil Cronburg": 
 - [[twitter]] https://twitter.com/thewiseturtle
 - [[go]] https://turil.org
+- Against [[money]].
 - [[quote]] [[colin turner]] https://twitter.com/thewiseturtle/status/1352696760024625153
 - [[the architecture]] [[quote]] https://twitter.com/thewiseturtle/status/1352703519741063168/photo/1
 - [[personality]] [[model]] for [[personality types]]: https://twitter.com/thewiseturtle/status/1305137672135077888
