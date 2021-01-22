@@ -3,6 +3,7 @@
 - [[pull]] 
 - [[push]] 
 - Two [[actions]] in the [[agora]].
+  - I believe these two transclusion-like operations signal sufficient information (in use) to implement useful ranking, disambiguation, categorization functions. 
 - [[2021-01-17]]
   - https://twitter.com/flancian/status/1350824766631010305
   - https://twitter.com/flancian/status/1350825696373989381
