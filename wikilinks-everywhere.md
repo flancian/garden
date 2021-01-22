@@ -10,7 +10,7 @@
   - [[prototype]] [[agora ext]]
 - It has a [[social network]] component.
   - People could start using [[wikilinks]] on any platform that supports user generated [[content]] online, social networks being likely the most popular interfaces.
-  - For the purpose of connecting to such interfaces we'd like to develop an [[agora bridge]].
+  - For the purpose of connecting to such platforms we'd like to develop an [[agora bridge]].
 - [[go]] https://docs.google.com/document/d/1h2kSuh7TntPj_XZ7BnLPDwtwshq7skzF3BIYwLgVquA/edit#
 - [[tweet]] https://twitter.com/flancian/status/1337835415215202308
 
