@@ -5,7 +5,6 @@
 - [[pull]] [[denny vrandecic]] [[denny vrandečić]]
 - [[go]] https://de.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87
 - [[twitter]] twitter.com/vrandezo
-- Recommended by [[s. s.]]
 - [[quote]] [[optional conventions]] are [[templates]]
   - https://twitter.com/vrandezo/status/1352704684012654593
 - [[project]] [[abstract wikipedia]]
@@ -22,7 +21,6 @@
 [denny vrandečić]: denny-vrandečić "Denny Vrandečić"
 [go]: go "Go"
 [twitter]: twitter "Twitter"
-[s. s.]: s.-s. "S  S"
 [quote]: quote "Quote"
 [project]: project "Project"
 [google]: google "Google"
