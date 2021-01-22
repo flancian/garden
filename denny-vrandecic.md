@@ -1,8 +1,8 @@
 # Denny Vrandecic
 
 - [[push]] [[vrandezo]]
-- [[ex]] [[google]] 
-  - recommended by [[s. s.]]
+  - [[ex]] [[google]] 
+    - recommended by [[s. s.]]
 
 
 

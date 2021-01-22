@@ -4,8 +4,8 @@
 - [[pull]] [[turil cronburg]]
 - [[twitter]] https://twitter.com/thewiseturtle
 - [[go]] https://turil.org
-- Against [[money]].
 - For [[cooperation]].
+  - For [[money]], although initially I thought she was [[against]]: https://twitter.com/thewiseturtle/status/1352704643038666752
 - [[the architecture]] [[quote]] https://twitter.com/thewiseturtle/status/1352703519741063168/photo/1
 - [[personality]] [[model]] for [[personality types]]: https://twitter.com/thewiseturtle/status/1305137672135077888
 - [[quote]] [[colin turner]] https://twitter.com/thewiseturtle/status/1352696760024625153
