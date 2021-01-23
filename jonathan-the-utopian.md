@@ -18,7 +18,11 @@
 - Working hard on setting up the curriculum for the course at [[ETH]]
   - [[chestertons fence]]
 - [[jonathan]] want to start building a website: [[protopoi space]]
-  - [[ideas]] 
+  - [[ideas]]
+    - [[jonathan]] [[platform]], [[place]] where one can link to different projects. [[root node]] for [[art school]] [[project]].
+      - Building [[spaces]].
+      - [[pattern languaguages]].
+    - [[flancian]] a [[root node]] for all [[protopias]] everywhere :)
 - [[introductions]]
   - [[anirudh badri]]
     - in [[india]]
@@ -35,6 +39,7 @@
   - [[the timeless way of building]]
   - [[a pattern language]]
   - [[notes on the synthesis of form]]
+- [[feedback]] on [[priorities]] with [[agora feature request]] and [[agora plan]]
 
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
@@ -111,6 +116,8 @@
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
 [jonathan]: jonathan "Jonathan"
+[place]: place "Place"
+[flancian]: flancian "Flancian"
 [anirudh badri]: anirudh-badri "Anirudh Badri"
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
@@ -119,8 +126,9 @@
 [christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [quote]: quote "Quote"
 [a pattern language]: a-pattern-language "A Pattern Language"
+[feedback]: feedback "Feedback"
+[agora plan]: agora-plan "Agora Plan"
 [2021-01-01]: journal/2021-01-01 "2021-01-01"
-[flancian]: flancian "Flancian"
 [category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
 [category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
 [agora]: agora "Agora"
@@ -132,7 +140,6 @@
 [noded]: noded "Noded"
 [focus]: focus "Focus"
 [liquid democracy]: liquid-democracy "Liquid Democracy"
-[agora plan]: agora-plan "Agora Plan"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
 [wittgenstein]: wittgenstein "Wittgenstein"
 [2020-12-12]: journal/2020-12-12 "2020-12-12"
