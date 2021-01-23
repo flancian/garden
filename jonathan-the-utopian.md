@@ -116,7 +116,7 @@
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [bmann]: bmann "Bmann"
 [push]: push "Push"
-[christopher alexander]: christopher-alexander "Christopher Alexander"
+[christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [quote]: quote "Quote"
 [a pattern language]: a-pattern-language "A Pattern Language"
 [2021-01-01]: journal/2021-01-01 "2021-01-01"
