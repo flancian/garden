@@ -11,6 +11,12 @@
 
 ## Meet
 
+### [[2021-01-23]]
+
+- Greetings!
+- Working hard on setting up the curriculum for the course at [[ETH]]
+- [[chestertons fence]]
+
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
 - VC is very inclusive and we can always have this, no matter where we live.
@@ -83,6 +89,7 @@
 [Smart Agora]: smart-agora "Smart Agora"
 [project]: project "Project"
 [utopoi]: utopoi "Utopoi"
+[2021-01-23]: journal/2021-01-23 "2021-01-23"
 [2021-01-01]: journal/2021-01-01 "2021-01-01"
 [jonathan]: jonathan "Jonathan"
 [flancian]: flancian "Flancian"
@@ -90,11 +97,13 @@
 [category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
 [agora]: agora "Agora"
 [users]: users "Users"
+[stoas]: stoas "Stoas"
 [push]: push "Push"
 [hofstadter]: hofstadter "Hofstadter"
 [utopia]: utopia "Utopia"
 [missing devices]: missing-devices "Missing Devices"
 [noded]: noded "Noded"
+[focus]: focus "Focus"
 [liquid democracy]: liquid-democracy "Liquid Democracy"
 [agora plan]: agora-plan "Agora Plan"
 [2020-12-18]: journal/2020-12-18 "2020-12-18"
