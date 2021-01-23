@@ -26,7 +26,7 @@
     - what is [[protopoi]]?
       - [[flancian]] the [[space]] of all [[protopias]]?
       - [[jonathan]] a [[vision]] of how the [[world]] could be?
-        - a [[space]] in the sense of a [[container]] and [[home]] for events, experiments which test certain kinds of [[processes]] that are about questioning the [[status quo]] and exploring how to change it incrementally and constructively
+        - a [[space]] in the sense of a [[container]] and [[home]] for [[events]] and [[experiments]] which test certain kinds of [[processes]] that are about questioning the [[status quo]] and exploring how to change it incrementally and constructively
     - [[jonathan]] the [[project]] is focused on a [[process]] for imagining and exploring [[protopoi]]
 - [[introductions]]
   - [[anirudh badri]]
