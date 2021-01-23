@@ -28,7 +28,7 @@
     - affinity: [[art]]
   - [[bmann]]
     - in [[canada]]
-- [[push]] [[book club]] [[christopher alexander]]
+- [[push]] [[christopher alexander reading group]]
   - [[quote]] We will read from some works of the architect and design theorist Christopher Alexander, with the aim of getting to know the ideas and philosophy associated with the influential book "A pattern language". The term "pattern language" describes an approach to (architectural) design which identifies and abstracts elementary yet ubiquitous design problems, along with solutions for them, and assembles them into a sort of alphabet to be used as a toolbox. 
   - [[quote]] This methodology is embedded in a design philosophy which attempts to put humans' needs, desires, and "aliveness" at the center of the design process. Although coming from architecture and urban design, Christopher Alexander's work has aspects which are of a very general, conceptual nature. It has been an influence in other fields, such as software design and music, and perhaps this module can be an opportunity to explore possible inspirations within one's own disciplinary context.
   - [[quote]] Proposed readings: excerpts from the following books by Christopher Alexander: "Notes on the Synthesis of Form"; "The Timeless Way of Building"; "A Pattern Language". Possibly also additional materials.
