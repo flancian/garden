@@ -17,6 +17,8 @@
   - Helping a friend move today.
 - Working hard on setting up the curriculum for the course at [[ETH]]
   - [[chestertons fence]]
+- [[jonathan]] want to start building a website: [[protopoi space]]
+  - [[ideas]] 
 
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
@@ -92,8 +94,8 @@
 [utopoi]: utopoi "Utopoi"
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
-[2021-01-01]: journal/2021-01-01 "2021-01-01"
 [jonathan]: jonathan "Jonathan"
+[2021-01-01]: journal/2021-01-01 "2021-01-01"
 [flancian]: flancian "Flancian"
 [category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
 [category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
