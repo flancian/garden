@@ -23,6 +23,8 @@
       - Building [[spaces]].
       - [[pattern languaguages]].
     - [[flancian]] a [[root node]] for all [[protopias]] everywhere :)
+    - what is [[protopoi]]?
+      - [[flancian]] the [[space]] of all [[protopias]]?
 - [[introductions]]
   - [[anirudh badri]]
     - in [[india]]
@@ -118,6 +120,7 @@
 [jonathan]: jonathan "Jonathan"
 [place]: place "Place"
 [flancian]: flancian "Flancian"
+[protopoi]: protopoi "Protopoi"
 [anirudh badri]: anirudh-badri "Anirudh Badri"
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
