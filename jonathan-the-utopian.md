@@ -28,7 +28,9 @@
     - affinity: [[art]]
   - [[bmann]]
     - in [[canada]]
-- [[christopher alexander]] [[book club]]
+- [[push]] [[book club]] [[christopher alexander]]
+  - [[the timeless way of building]]
+  - [[a pattern language]]
 
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
@@ -109,7 +111,9 @@
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [bmann]: bmann "Bmann"
+[push]: push "Push"
 [christopher alexander]: christopher-alexander "Christopher Alexander"
+[a pattern language]: a-pattern-language "A Pattern Language"
 [2021-01-01]: journal/2021-01-01 "2021-01-01"
 [flancian]: flancian "Flancian"
 [category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
@@ -117,7 +121,6 @@
 [agora]: agora "Agora"
 [users]: users "Users"
 [stoas]: stoas "Stoas"
-[push]: push "Push"
 [hofstadter]: hofstadter "Hofstadter"
 [utopia]: utopia "Utopia"
 [missing devices]: missing-devices "Missing Devices"
