@@ -30,6 +30,7 @@
         - a [[space]] in the sense of a [[container]] and [[home]] for [[events]] and [[experiments]] which test certain kinds of [[processes]] that are about questioning the [[status quo]] and exploring how to change it incrementally and constructively
           - questioning the status quo can be an [[introspective]], [[meditative]] activity
     - [[jonathan]] the [[project]] is focused on a [[process]] for imagining and exploring [[protopoi]]
+    - a [[repository]] of [[projects]] following a theme or vision.
 - [[borges]] 
 - [[introductions]]
   - [[anirudh badri]]
@@ -48,6 +49,7 @@
   - [[a pattern language]]
   - [[notes on the synthesis of form]]
 - [[feedback]] on [[priorities]] with [[agora feature request]] and [[agora plan]]
+  - [[chat]] per [[node]] plus [[multiple fanout]]
 
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
@@ -140,6 +142,7 @@
 [a pattern language]: a-pattern-language "A Pattern Language"
 [feedback]: feedback "Feedback"
 [agora plan]: agora-plan "Agora Plan"
+[node]: node "Node"
 [2021-01-01]: journal/2021-01-01 "2021-01-01"
 [category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
 [category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
