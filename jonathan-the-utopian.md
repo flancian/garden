@@ -25,10 +25,12 @@
     - [[flancian]] a [[root node]] for all [[protopias]] everywhere :)
     - what is [[protopoi]]?
       - [[flancian]] the [[space]] of all [[protopias]]?
+        - an [[index]]
       - [[jonathan]] a [[vision]] of how the [[world]] could be?
         - a [[space]] in the sense of a [[container]] and [[home]] for [[events]] and [[experiments]] which test certain kinds of [[processes]] that are about questioning the [[status quo]] and exploring how to change it incrementally and constructively
           - questioning the status quo can be an [[introspective]], [[meditative]] activity
     - [[jonathan]] the [[project]] is focused on a [[process]] for imagining and exploring [[protopoi]]
+- [[borges]] 
 - [[introductions]]
   - [[anirudh badri]]
     - in [[india]]
@@ -125,7 +127,9 @@
 [place]: place "Place"
 [flancian]: flancian "Flancian"
 [protopoi]: protopoi "Protopoi"
+[index]: index "index"
 [world]: world "World"
+[borges]: borges "Borges"
 [anirudh badri]: anirudh-badri "Anirudh Badri"
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
