@@ -18,19 +18,23 @@
 - Working hard on setting up the curriculum for the course at [[ETH]]
   - [[chestertons fence]]
 - [[jonathan]] want to start building a website: [[protopoi space]]
-  - [[ideas]]
-    - [[jonathan]] [[platform]], [[place]] where one can link to different projects. [[root node]] for [[art school]] [[project]].
-      - Building [[spaces]].
-      - [[pattern languaguages]].
-    - [[flancian]] a [[root node]] for all [[protopias]] everywhere :)
-    - what is [[protopoi]]?
-      - [[flancian]] the [[space]] of all [[protopias]]?
-        - an [[index]]
-      - [[jonathan]] a [[vision]] of how the [[world]] could be?
-        - a [[space]] in the sense of a [[container]] and [[home]] for [[events]] and [[experiments]] which test certain kinds of [[processes]] that are about questioning the [[status quo]] and exploring how to change it incrementally and constructively
-          - questioning the status quo can be an [[introspective]], [[meditative]] activity
-    - [[jonathan]] the [[project]] is focused on a [[process]] for imagining and exploring [[protopoi]]
-    - a [[repository]] of [[projects]] following a theme or vision.
+  - [[requirements]] 
+  - [[domain]]
+    - [[jonathan]] [[protopoi.space]]
+    - [[flancian]] [[protopoi.org]] [[protopoi.com]] perhaps [[protopoi.coop]]
+- [[ideas]]
+  - [[jonathan]] [[platform]], [[place]] where one can link to different projects. [[root node]] for [[art school]] [[project]].
+    - Building [[spaces]].
+    - [[pattern languaguages]].
+  - [[flancian]] a [[root node]] for all [[protopias]] everywhere :)
+  - what is [[protopoi]]?
+    - [[flancian]] the [[space]] of all [[protopias]]?
+      - an [[index]]
+    - [[jonathan]] a [[vision]] of how the [[world]] could be?
+      - a [[space]] in the sense of a [[container]] and [[home]] for [[events]] and [[experiments]] which test certain kinds of [[processes]] that are about questioning the [[status quo]] and exploring how to change it incrementally and constructively
+        - questioning the status quo can be an [[introspective]], [[meditative]] activity
+  - [[jonathan]] the [[project]] is focused on a [[process]] for imagining and exploring [[protopoi]]
+  - a [[repository]] of [[projects]] following a theme or vision.
 - [[borges]] 
 - [[introductions]]
   - [[anirudh badri]]
@@ -50,6 +54,7 @@
   - [[notes on the synthesis of form]]
 - [[feedback]] on [[priorities]] with [[agora feature request]] and [[agora plan]]
   - [[chat]] per [[node]] plus [[multiple fanout]]
+  - [[flancian]] I should get a blackboard
 
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
@@ -126,8 +131,8 @@
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
 [jonathan]: jonathan "Jonathan"
-[place]: place "Place"
 [flancian]: flancian "Flancian"
+[place]: place "Place"
 [protopoi]: protopoi "Protopoi"
 [index]: index "index"
 [world]: world "World"
