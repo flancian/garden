@@ -25,6 +25,8 @@
     - [[flancian]] a [[root node]] for all [[protopias]] everywhere :)
     - what is [[protopoi]]?
       - [[flancian]] the [[space]] of all [[protopias]]?
+      - [[jonathan]] a [[vision]] of how the [[world]] could be?
+    - [[jonathan]] the [[project]] is focused on a [[process]] for imagining and exploring [[protopoi]]
 - [[introductions]]
   - [[anirudh badri]]
     - in [[india]]
@@ -121,6 +123,7 @@
 [place]: place "Place"
 [flancian]: flancian "Flancian"
 [protopoi]: protopoi "Protopoi"
+[world]: world "World"
 [anirudh badri]: anirudh-badri "Anirudh Badri"
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
