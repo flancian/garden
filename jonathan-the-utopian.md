@@ -94,7 +94,7 @@
       - [[flancian]] note that the value/cost function is undefined; this is a procedure to find paths/tunnels
   - [[utopoi]]
     - [[jonathan]] a project that wants to build channels with related projects, one of this is this repository; but it is not exactly the same.
-    - [[repository]] sounds static, whereas the m-m prime approach sounds more like a [[machine]].
+    - [[repository]] sounds static, whereas the [[m prime]] approach sounds more like a [[machine]].
     - [[jonathan]] [[noded]] [[utopia studies]]
     - [[flancian]] I liked [[topiary]]
 - [[focus]]
