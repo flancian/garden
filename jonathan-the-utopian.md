@@ -22,8 +22,10 @@
 - [[introductions]]
   - [[anirudh badri]]
     - in [[india]]
+    - affinity: [[book club]]
   - [[armengolaltayo]]
     - in [[spain]]
+    - affinity: [[art]]
 
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
@@ -101,6 +103,7 @@
 [chestertons fence]: chestertons-fence "Chestertons Fence"
 [jonathan]: jonathan "Jonathan"
 [anirudh badri]: anirudh-badri "Anirudh Badri"
+[book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [2021-01-01]: journal/2021-01-01 "2021-01-01"
 [flancian]: flancian "Flancian"
