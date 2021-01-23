@@ -26,6 +26,7 @@
   - [[armengolaltayo]]
     - in [[spain]]
     - affinity: [[art]]
+  - [[bmann]]
 
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
@@ -105,6 +106,7 @@
 [anirudh badri]: anirudh-badri "Anirudh Badri"
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
+[bmann]: bmann "Bmann"
 [2021-01-01]: journal/2021-01-01 "2021-01-01"
 [flancian]: flancian "Flancian"
 [category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
