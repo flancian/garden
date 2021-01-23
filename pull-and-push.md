@@ -1,5 +1,6 @@
 # Pull and Push
 
+- [[pull]] [[push and pull]]
 - Two [[actions]] in the [[agora]].
 - [[pull]] 
   - If two nodes pull from each other, they are like each other.
