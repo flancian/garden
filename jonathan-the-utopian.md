@@ -19,6 +19,11 @@
   - [[chestertons fence]]
 - [[jonathan]] want to start building a website: [[protopoi space]]
   - [[ideas]] 
+- [[introductions]]
+  - [[anirudh badri]]
+    - in [[india]]
+  - [[armengolaltayo]]
+    - in [[spain]]
 
 ### [[2021-01-01]]
 - Super cool that you have a blackboard in your room! 
@@ -95,6 +100,8 @@
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
 [jonathan]: jonathan "Jonathan"
+[anirudh badri]: anirudh-badri "Anirudh Badri"
+[armengolaltayo]: armengolaltayo "Armengolaltayo"
 [2021-01-01]: journal/2021-01-01 "2021-01-01"
 [flancian]: flancian "Flancian"
 [category theory for engineers]: category-theory-for-engineers "Category Theory for Engineers"
