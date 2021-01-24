@@ -13,6 +13,8 @@
 - Renamed high level effort to [[agora bridge]].
 - Started open source approval process.
 - Experimented with [[toot cli]].
+- Create [[Mastodon]] account for prod.
+  - [[mastodon]] @agora@botsin.space
 
 ## [[doing]]
 
@@ -23,7 +25,6 @@
 - [[push]] [[agora bot]]
   - Create [[Twitter]] account for testing.
   - Create [[Mastodon]] account for testing.
-  - Create [[Mastodon]] account for prod.
 
 
 
