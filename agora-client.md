@@ -1,6 +1,7 @@
 # Agora Client
 
 - Any client that runs on any platform that interacts with the [[Agora]] in some way.
+  - https://twitter.com/flancian/status/1353384521211768835
 - As of [[2020-12-24]]:
   - [[foam]]
   - [[obsidian]]
