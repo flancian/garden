@@ -6,11 +6,14 @@
   - [[foam]]
   - [[obsidian]]
   - [[roam2agora]]
-  - [[git]] [[markdown]]
+  - Any tool that lets you produce [[markdown]] files, and [[git]] to host them.
 - Planned:
-  - [[twitter]]
+  - [[agora bridge]]
+    - [[twitter]]
+    - [[mastodon]]
+    - [[fediverse]]
   - [[hypothes.is]]
-  - [[web browsers]] -- via [[wikilinks everywhere]] 
+  - [[web browsers]], via [[wikilinks everywhere]] 
 - [[pull]] [[agora editor]]
 
 
@@ -21,7 +24,10 @@
 [obsidian]: obsidian "Obsidian"
 [roam2agora]: roam2agora "Roam2agora"
 [markdown]: markdown "Markdown"
+[agora bridge]: agora-bridge "Agora Bridge"
 [twitter]: twitter "Twitter"
+[mastodon]: mastodon "Mastodon"
+[fediverse]: fediverse "Fediverse"
 [hypothes.is]: hypothesis "Hypothesis"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [pull]: pull "Pull"
