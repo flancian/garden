@@ -1,7 +1,8 @@
 # Flaneur
 
-- [[walter benjamin]]
-- [[go]] 
+- A [[concept]].
+- I was introduced to it by [[walter benjamin]].
+- [[go]] https://en.wikipedia.org/wiki/Fl%C3%A2neur
   - [[quote]] Flâneur is a French noun referring to a person, literally meaning 'stroller', 'lounger', 'saunterer', or 'loafer', but with some nuanced additional meanings. Flânerie is the act of strolling, with all of its accompanying associations.
 - I sometimes write about [[flaneur]], a [[web browser]].
 
