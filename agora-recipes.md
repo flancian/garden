@@ -20,7 +20,7 @@
     - Already possible using [[go links]].
   - Both in-platform and off-platform recipes should be ranked and reviewed by the community.
   - Users should be able to post [[adaptations]] or [[evolutions]] of recipes and mark them as such.
-    - This could be done via [[push and pull]].
+    - This could be done via [[push and pull]] plus [[user links]].
 - [[push]] existing [[recipes]]
   - [[challah]]
   - [[pumpkin soup]]
