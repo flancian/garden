@@ -73,6 +73,8 @@
 - other interesting references
   - [[protocols.io]]
   - [[shader toy]]
+  - [[shader park]]
+  - [[repl.it]]
 
 
 ## [[2021-01-27]]
