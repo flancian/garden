@@ -6,7 +6,7 @@
   - [[meta]] <https://anagora.org/go/iap21> redirects to the above URL due to the presence of this 'go' block.
 - [[slides]] https://docs.google.com/presentation/d/1EFCzr6Wrur_QgRjB6ibCuJXHauYMGl_2oLrF0nEVEyM/edit#slide=id.p
   - [[meta]] <https://anagora.org/go/iap21/slides> and <https://anagora.org/go/slides/iap21> both redirect to the above URL due to the presence of this 'slides' block in a note called 'iap21'.
-- [[notes]]
+- [[agenda]] https://knowledgestructure.pubpub.org/pub/agenda-21
 
 ## [[2021-01-25]]
 
@@ -19,6 +19,9 @@
   - [[agnes cameron]] work with [[metasj]], part of knowledge collaboration innovation data. In [[uk]].
   - [[samir ghosh]] runs a [[maker space]]. Does [[vr]].
   - [[sarah s]] [[neuroscience]] and [[machine learning]]. [[crowdsourcing]] to probe [[human perception]].
+  - [[amr kayid]] [[munich]] [[research engineer]] at [[open mind]]. [[reinforcement learning]].
+  - [[thomas renkert]] [[religious studies]] [[knowledge representation]].
+  - [[kevin]] 
 
 
 ## [[2021-01-27]]
@@ -31,7 +34,6 @@
 [underlay]: underlay "Underlay"
 [go]: go "Go"
 [meta]: meta "Meta"
-[notes]: notes "Notes"
 [2021-01-25]: journal/2021-01-25 "2021-01-25"
 [quote]: quote "Quote"
 [metasj]: metasj "Metasj"
