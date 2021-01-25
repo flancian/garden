@@ -1,5 +1,6 @@
 # Agora Recipes
 
+- A platform for crowdsourcing [[recipes]].
 - [[push]] [[aip21]]
   - An [[experiment]] or [[mvp]] for both [[agora search]] and [[m prime]].
     - [[m prime]] is a [[problem solving]] [[framework]].
