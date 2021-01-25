@@ -53,6 +53,11 @@
   - [[examples]] from the group
     - [[flancian]] on the [[agora]]
     - [[thomas renkert]] in some countries, people are assembling lists of people that died due to [[coronavirus]] 
+      - [[[nytimes]] did a story on the first 10k people that died.
+    - [[sarah s]] on [[imagenet]]
+      - [[collective]] in more than one way:
+        - [[human annotation]]
+        - also building off several existing parallel efforts  
 
 
 ## [[2021-01-27]]
