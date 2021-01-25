@@ -77,7 +77,8 @@
   - [[repl.it]]
   - [[cyberfeminist index]]
   - [[quotebacks]]
-
+  - [[how to make almost anything]]
+  - [[free universal construction kit]]
 
 ## [[2021-01-27]]
 
