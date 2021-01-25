@@ -81,6 +81,9 @@
   - [[how to make almost anything]]
   - [[free universal construction kit]]
   - [[movebank]]
+  - [[wikidata subsetting]]
+  - [[corpse2corpse]]
+  - [[place subreddit]]
 
 ## [[2021-01-27]]
 
