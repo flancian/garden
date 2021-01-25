@@ -2,7 +2,7 @@
 
 - A repository of [[recipes]] built on top of the [[agora]] or an [[agora like]] platform.
   - Recipes are procedures to transform [[ingredients]] and [[time]] into tasty and nutritious [[food]].
-- [[push]] [[aip21]]
+- [[push]] [[iap21]]
   - An [[experiment]] or [[mvp]] for both [[agora search]] and [[m prime]].
     - [[m prime]] is a [[problem solving]] [[framework]].
       - A [[recipe]] is a possible [[solution]] to a [[problem]] (you don't have cake yet you want cake; here's how to produce cake).
@@ -29,6 +29,7 @@
 [agora like]: agora-like "Agora Like"
 [time]: time "Time"
 [push]: push "Push"
+[iap21]: iap21 "Iap21"
 [experiment]: experiment "Experiment"
 [mvp]: mvp "MVP"
 [agora search]: agora-search "Agora Search"
