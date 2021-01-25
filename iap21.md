@@ -31,10 +31,21 @@
 - [[metasj]] presents slides (see above).
   - [[knowledge futures group]]
     - [[pubpub]]
-  -  [[goal]]
-     - choose a problem that is bigger than what you could solve yourself :)
-     - we can take inspiration from [[biology]]; organisms offer lots of patterns that are useful in aggregate
-     - [[city construction]]
+  - [[goal]]
+    - choose a problem that is bigger than what you could solve yourself :)
+    - we can take inspiration from [[biology]]; organisms offer lots of patterns that are useful in aggregate
+    - [[city construction]]
+  - [[classes of models]]
+    - you're probably within ~10km of a weather sensor part of a global network, all maintained by [[volunteers]].
+    - [[alignment]] vs [[standardization]]
+    - [[access]] vs [[catalysis]]
+    - [[private service]] vs [[common good]]
+      - [[ancestry.com]] vs [[iceland]] (?)
+    - [[feedback loops]]
+    - [[incentives]] vs [[shared vision]]
+  - [[examples]] from [[biology]] and [[earth]] science
+    - [[inaturalist]] (!)
+    - [[geograph]]
 
 
 ## [[2021-01-27]]
