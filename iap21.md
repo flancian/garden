@@ -49,6 +49,7 @@
       - had to come up with a local map projection not to change base assumptions they made early on :)
     - [[open street map]]
     - [[ebird]]
+      - [[agnes cameron]] is a fan. Comments section is great :)
 
 
 ## [[2021-01-27]]
