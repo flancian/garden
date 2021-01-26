@@ -1,7 +1,7 @@
 # Twitter Could Be an Agora
 
-- An [[agora]] is any platform that enables users to assemble a [[social distributed knowledge graph]].
-- An [[agora]] is any platform that promotes openness and social good.
+- Any platform that promotes openness and social good is an [[agora]].
+- Any platform that enables users to assemble a [[social distributed knowledge graph]] is like an [[agora]].
 - [[pull]] [[agora bridge]]
   - https://twitter.com/flancian/status/1291709300252053505
   - https://twitter.com/flancian/status/1354159783591424003
