@@ -68,6 +68,7 @@
   - [[stoas]]
     - [[groups]] focused on a [[goal]]
     - [[dialogue]] system
+    - [[taking turns]] as a [[protocol]]
 - [[hashtags]]
   - [[flancian]] have not gotten them as distinct entities from links, in particular once you get typed/annotated links?
   - [[thiago forte]]
