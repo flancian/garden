@@ -24,7 +24,6 @@
   - Users should be able to suggest [[experiments]].
     - An [[experiment]] is a [[mutation]] of a [[recipe]] that a user thinks could be tried.
       - e.g. replacing [[butter]] with [[vegetable oil]] in a recipe.
-        - 
 - [[pull]]
   - [[challah]]
   - [[pumpkin soup]]
