@@ -39,7 +39,9 @@
       - [[quote]] [[algorithms for thought]]
       - a bit [[disappointed]]
       - missing the programmability aspect
-        - had a bucket of things: things in software that hsould
+        - had a bucket of things: things in software that [[should not be this way]]
+          - [[quote]] [[stupid issues in software today]]
+            - [[do]] link
   - [[goals]]
 - [[m prime]]
 - [[agora]]
@@ -61,6 +63,7 @@
 [tools]: tools "Tools"
 [roam]: roam "Roam"
 [quote]: quote "Quote"
+[do]: do "Do"
 [goals]: goals "Goals"
 [m prime]: m-prime "M Prime"
 [agora]: agora "Agora"
