@@ -47,7 +47,7 @@
         - [[push]] [[agora feature requests]]
           - can you query a [[link path]] between two nodes
             - perhaps traversing n people's graph
-        - [[flancian]] they endorsed [[ansible]] publicly, that is worrying to me
+        - [[flancian]] they endorsed [[palantir]] publicly, that is worrying to me
   - [[goals]]
 - [[m prime]]
 - [[agora]]
