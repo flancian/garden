@@ -38,19 +38,24 @@
     - [[roam]]
       - [[quote]] [[algorithms for thought]]
       - a bit [[disappointed]]
-      - missing the programmability aspect
-        - had a bucket of things: things in software that [[should not be this way]]
-          - [[quote]] [[stupid issues in software today]]
-            - [[do]] link
-        - wanted to write a twitter thread about these things, but rearranging/editing some things.
-        - couldn't do it
+        - missing the programmability aspect
+          - had a bucket of things: things in software that [[should not be this way]]
+            - [[quote]] [[stupid issues in software today]]
+              - [[do]] link
+          - wanted to write a twitter thread about these things, but rearranging/editing some things.
+          - couldn't do it
+        - [[push]] [[agora feature requests]]
+          - can you query a [[link path]] between two nodes
+            - perhaps traversing n people's graph
   - [[goals]]
 - [[m prime]]
 - [[agora]]
   - [[agora protocol]]
 - [[hashtags]]
+  - [[flancian]] have not gotten them as distinct entities from links, in particular once you get typed/annotated links?
   - [[thiago forte]]
     - [[quote]] bordering on [[insight porn]]
+
 
 
 
@@ -69,6 +74,7 @@
 [roam]: roam "Roam"
 [quote]: quote "Quote"
 [do]: do "Do"
+[push]: push "Push"
 [goals]: goals "Goals"
 [m prime]: m-prime "M Prime"
 [agora]: agora "Agora"
