@@ -1,0 +1,4 @@
+# Cybernetician
+
+- A [[cybernetics]] [[expert]].
+
