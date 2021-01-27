@@ -42,6 +42,8 @@
         - had a bucket of things: things in software that [[should not be this way]]
           - [[quote]] [[stupid issues in software today]]
             - [[do]] link
+        - wanted to write a twitter thread about these things, but rearranging/editing some things.
+        - couldn't do it
   - [[goals]]
 - [[m prime]]
 - [[agora]]
