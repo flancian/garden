@@ -60,7 +60,7 @@
       - [[inkdrop]] 
         - [[flancian]] for mobile: [[gitjournal]] exists
       - [[notion]] for tracking blogposts
-      - [[schuldenzucker.com]]
+      - started a [[blog]]!
   - [[goals]]
 - [[m prime]]
 - [[agora]]
