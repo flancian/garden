@@ -35,6 +35,9 @@
     - [[flancian]] [[category theory for programmers]]
 - [[note taking]]
   - [[tools]]
+    - [[roam]]
+      - [[quote]] [[algorithms for thought]]
+      - a bit [[disappointed]]
   - [[goals]]
 - [[m prime]]
 - [[agora]]
@@ -54,6 +57,8 @@
 [flancian]: flancian "Flancian"
 [category theory for programmers]: category-theory-for-programmers "Category Theory for Programmers"
 [tools]: tools "Tools"
+[roam]: roam "Roam"
+[quote]: quote "Quote"
 [goals]: goals "Goals"
 [m prime]: m-prime "M Prime"
 [agora]: agora "Agora"
