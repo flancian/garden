@@ -54,7 +54,7 @@
       - still using [[evernote]]
         - they rewrote it with good intentions and (surprise) it didn't work
       - [[inkdrop]] 
-        - [[gitjournal]]
+        - [[flancian]] for mobile: [[gitjournal]] exists
   - [[goals]]
 - [[m prime]]
 - [[agora]]
