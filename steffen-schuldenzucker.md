@@ -49,6 +49,11 @@
             - perhaps traversing n people's graph
         - [[flancian]] they endorsed [[palantir]] publicly, that is worrying to me
           - but mostly it's just the issue they're [[for profit]] and [[closed source]]
+    - [[q]] which tool are you using right now?
+      - tried [[roam]] first as per the above
+      - still using [[evernote]]
+        - they rewrote it with good intentions and (surprise) it didn't work
+      - [[inkdrop]] 
   - [[goals]]
 - [[m prime]]
 - [[agora]]
@@ -77,6 +82,7 @@
 [quote]: quote "Quote"
 [do]: do "Do"
 [push]: push "Push"
+[q]: q "Q"
 [goals]: goals "Goals"
 [m prime]: m-prime "M Prime"
 [agora]: agora "Agora"
