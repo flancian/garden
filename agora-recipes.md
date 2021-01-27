@@ -19,9 +19,13 @@
   - You can jump to an off-platform recipe for [[cake]].
     - Already possible using [[go links]].
   - Both in-platform and off-platform recipes should be ranked and reviewed by the community.
-  - Users should be able to post [[adaptations]] or [[evolutions]] of recipes and mark them as such.
+  - Users should be able to post [[adaptations]] or [[mutations]] of recipes and mark them as such.
     - This could be done via [[push and pull]] plus [[user links]].
-- [[push]] existing [[recipes]]
+  - Users should be able to suggest [[experiments]].
+    - An [[experiment]] is a [[mutation]] of a [[recipe]] that a user thinks could be tried.
+      - e.g. replacing [[butter]] with [[vegetable oil]] in a recipe.
+        - 
+- [[pull]]
   - [[challah]]
   - [[pumpkin soup]]
   - [[cake]]
@@ -48,6 +52,8 @@
 [procedure]: procedure "Procedure"
 [search engine]: search-engine "Search Engine"
 [push and pull]: push-and-pull "Push and Pull"
+[user links]: user-links "User Links"
+[pull]: pull "Pull"
 [challah]: challah "Challah"
 [pumpkin soup]: pumpkin-soup "Pumpkin Soup"
 [masa de tarta]: masa-de-tarta "Masa De Tarta"
