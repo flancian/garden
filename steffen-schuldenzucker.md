@@ -38,6 +38,8 @@
     - [[roam]]
       - [[quote]] [[algorithms for thought]]
       - a bit [[disappointed]]
+      - missing the programmability aspect
+        - had a bucket of things: things in software that hsould
   - [[goals]]
 - [[m prime]]
 - [[agora]]
