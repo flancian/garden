@@ -48,6 +48,7 @@
           - can you query a [[link path]] between two nodes
             - perhaps traversing n people's graph
         - [[flancian]] they endorsed [[palantir]] publicly, that is worrying to me
+          - but mostly it's just the issue they're [[for profit]] and [[closed source]]
   - [[goals]]
 - [[m prime]]
 - [[agora]]
