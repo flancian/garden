@@ -5,6 +5,7 @@
   - "[[interlace]] is the connective tissue between [[sources]] and [[understandings]]"
   - "the [[interlace]] is an aggreative articulation of possibility, abstracting [[what is]] and [[what is wanted]] and [[what could be]] in [[iterative]] waves"
     - -> [[protopoi]]
+- [[chat]] https://interlace.zulipchat.com
 - [[2021 storming of the united states capitol]]
 
 
