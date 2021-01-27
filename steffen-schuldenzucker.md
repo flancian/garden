@@ -54,6 +54,7 @@
       - still using [[evernote]]
         - they rewrote it with good intentions and (surprise) it didn't work
       - [[inkdrop]] 
+        - [[gitjournal]]
   - [[goals]]
 - [[m prime]]
 - [[agora]]
@@ -85,6 +86,7 @@
 [q]: q "Q"
 [a]: a "A"
 [inkdrop]: inkdrop "Inkdrop"
+[gitjournal]: gitjournal "Gitjournal"
 [goals]: goals "Goals"
 [m prime]: m-prime "M Prime"
 [agora]: agora "Agora"
