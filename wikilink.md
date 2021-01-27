@@ -1,6 +1,7 @@
 # Wikilink
 
 - A wikilink looks like this: [[wikilink]]. They are text surrounded by two square brackets.
+  - Not to be confused with ECMAScript internal properties :) https://262.ecma-international.org/5.1/#sec-8.6.2
 - Wikilinks are the heart of the [[Agora]].
 - Wikilinks come, wait for it, from [[wiki]]s :) But they need not be limited only to things we usually think of as wikis. 
   - You could use [[wikilinks everywhere]].
