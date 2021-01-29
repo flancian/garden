@@ -1,6 +1,6 @@
 # Manifesto
 
-- I am a [[Flancian]] and this is my manifesto:
+- I am [[Flancian]] and this is my manifesto:
   - In Flancia there is no [[poverty]].
   - In Flancia there is no [[privilege]].
   - In Flancia we will one day [[meet]].
