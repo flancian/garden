@@ -3,16 +3,16 @@
 - [[go]] https://flancia.org
 - A [[place]]
   - [[Flancia]] is the land of the [[Flancians]].
+  - [[Flancia]] is a world much like ours in many ways, but in which everybody gets to [[thrive]]: https://twitter.com/flancian/status/1348973943324106753
   - [[Flancia]] is an amateur [[utopia]]. You could very well think of it as a [[place]] in my mind. 
     - In particular a [[eutopia]] and [[protopia]]. 
-  - [[Flancia]] is a world much like ours in many ways, but in which everybody gets to [[thrive]]: https://twitter.com/flancian/status/1348973943324106753
-  - Flancia could be a [[polis]].
-  - Flancia could be a digital [[bolo]].
+  - In Flancia there are many [[polis]].
+  - In Flancia there are many bolos [[bolo]].
 - I am a [[Flancian]] and this is my manifesto:
   - In [[Flancia]] there is no [[poverty]].
   - In [[Flancia]] there is no [[privilege]].
   - In [[Flancia]] we will one day [[meet]].
- Flancia is a world in which everybody tries to act rationally, honestly, charitably, compassively.
+- Flancia is a world in which everybody tries to act rationally, honestly, charitably, compassively.
   - You can help others by volunteering [[time]] and [[resources]] as you can. By being [[solidary]].
   - You can help others by trying to [[change the world]].
   - You can help others by [[being open]].
@@ -24,10 +24,10 @@
 [place]: place "Place"
 [Flancia]: flancia "Flancia"
 [Flancians]: flancians "Flancians"
+[thrive]: thrive "Thrive"
 [utopia]: utopia "Utopia"
 [eutopia]: eutopia "Eutopia"
 [protopia]: protopia "Protopia"
-[thrive]: thrive "Thrive"
 [polis]: polis "Polis"
 [bolo]: bolo "Bolo"
 [Flancian]: flancian "Flancian"
