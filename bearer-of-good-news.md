@@ -3,7 +3,7 @@
 - According to the [[buddhists]], [[buddha]].
 - According to the [[christians]], [[jesus]].
 - According to the [[marxists]], [[marx]].
-- According to the [[muslims]], [[muhammad]].
+- According to the [[muslims]], [[muhammad ﷺ]].
 - How long is this list? I don't know. If you think it has mistakes or ommissions in it, please let me know!
 
 
