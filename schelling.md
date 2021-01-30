@@ -1,6 +1,7 @@
 # Schelling
 
 - [[go]] shelling.pt
+ - [[quote]] a [[schelling point]] for those who seek one
 - Part of [[mastodon]].
 - [[admin]] https://schelling.pt/@locus
 - [[push]] [[pee-zombie]] 
