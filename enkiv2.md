@@ -2,6 +2,7 @@
 
 - A [[person]].
 - [[pull]] [[lord enki]]
+- [[pull]] [[enki]]
 - [[go]] http://www.lord-enki.net/
 - [[twitter]] twitter.com/enkiv2
 - Recommended [[bolo'bolo]] to me, and [[Seeing like a State]]
