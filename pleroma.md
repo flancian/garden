@@ -4,6 +4,7 @@
   - Uses [[activitypub]] like [[mastodon]].
   - Considered [[lightweight]] in comparison to [[mastodon]].
 - [[github]] https://github.com/Hostdon/pleroma
+- [[git]] https://git.pleroma.social/pleroma/pleroma
 - Written in [[elixir]].
 
 
