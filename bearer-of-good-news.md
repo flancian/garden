@@ -2,8 +2,9 @@
 
 - According to the [[buddhists]], [[buddha]].
 - According to the [[christians]], [[jesus]].
-- According to the [[marxists]], [[marx]].
+- According to the [[marxists]], [[marxist thinkers]].
 - According to the [[muslims]], [[muhammad ﷺ]].
+- According to the [[philosophers]], [[philosophers]].
 - How long is this list? I don't know. If you think it has mistakes or ommissions in it, please let me know!
 
 
