@@ -12,6 +12,7 @@
 - [[relevant]] for [[go links]], [[agora]].
 - [[ZornGerhard]] knows about it.
 	- Also mentioned the [[SPARQL]] query language: https://twitter.com/ZornGerhard/status/1310645329587560448
+	- [[open world assumption]] https://twitter.com/ZornGerhard/status/1355583399520587779
 - I should ask [[s.-s.]] about it.
 - [[see also]] [[turtle]], [[semantic triples]], [[solid]].
 - [[hypothesis]] RDF is enough to maintain a [[distributed knowledge graph]] collaboratively over the internet.
@@ -79,6 +80,7 @@
 [SPARQL]: sparql "SPARQL"
 [s.-s.]: s.-s. "S  S"
 [turtle]: turtle "Turtle"
+[solid]: solid "Solid"
 [hypothesis]: hypothesis "Hypothesis"
 [distributed knowledge graph]: distributed-knowledge-graph "Distributed Knowledge Graph"
 [agora protocol]: agora-protocol "Agora Protocol"
@@ -89,6 +91,7 @@
 [the agora is a social network built by the people for the people]: the-agora-is-a-social-network-built-by-the-people-for-the-people "The Agora Is a Social Network Built by the People for the People"
 [action]: action "Action"
 [graph]: graph "Graph"
+[hypergraph]: hypergraph "Hypergraph"
 [tools]: tools "Tools"
 [rdf serialization formats]: rdf-serialization-formats "Rdf Serialization Formats"
 [knowledge management applications]: knowledge-management-applications "Knowledge Management Applications"
