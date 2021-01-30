@@ -1,7 +1,8 @@
 # Free
 
 - A [[concept]].
-  - [[available]] to [[all]]; [[unencumbered]].
+  - [[available]] to [[all]]
+  - [[unencumbered]]
 - [[pull]] [[open source]]
 - [[pull]] [[open ethics]]
 - [[pull]] [[solved]]
