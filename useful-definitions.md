@@ -1,5 +1,5 @@
 # Useful Definitions
 
 - A [[list]].
-- https://twitter.com/prerationalist/status/1355562141932281859
+- https://twitter.com/flancian/status/1355562246211039232
 
