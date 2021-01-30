@@ -6,7 +6,7 @@
 - According to the [[buddhists]], [[buddha]].
 - According to the [[christians]], [[jesus]].
 - According to the [[marxists]], [[marxist thinkers]].
-- According to the [[muslims]], [[muhammad ﷺ]].
+- According to the [[muslims]], [[muhammad]] ﷺ.
 - According to the [[philosophers]], [[philosophers]].
 
 
