@@ -3,7 +3,8 @@
 - [[person]]
 - [[go]] https://diegodlh.conversodromo.com.ar
 - [[twitter]] twitter.com/diegodlh
-- [[mastodon]] @diegodlh@mastodon.social
+- [[mastodon]] https://mastodon.social/@diegodlh
+- [[fediverse]] @diegodlh@mastodon.social
 - [[push]] [[agora-hypothesis-integration]]
   - [[hypothes.is]] user
 
@@ -13,6 +14,7 @@
 [go]: go "Go"
 [twitter]: twitter "Twitter"
 [mastodon]: mastodon "Mastodon"
+[fediverse]: fediverse "Fediverse"
 [push]: push "Push"
 [agora-hypothesis-integration]: agora-hypothesis-integration "Agora Hypothesis Integration"
 [hypothes.is]: hypothesis "Hypothesis"
