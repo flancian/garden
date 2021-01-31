@@ -2,7 +2,6 @@
 
 - [[push]] [[agora-plan]]
 
-
 ## [[dan whaley]]
 
 - Subnodes should show date created, date last updated.
