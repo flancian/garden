@@ -1,6 +1,7 @@
 # Agora
 
 - [The Agora is a distributed knowledge graph and experimental social network](https://anagora.org/).
+  - https://twitter.com/flancian/status/1356691340508221456
   - As an Agora *guest* you can currently:
     - Navigate the Agora, which is composed of [[nodes]] which aggregate content from many users about the same topic or entity.
     - Make use of [[backlinks]] and [[pulled nodes]] to discover relevant content.
