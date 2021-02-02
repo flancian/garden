@@ -1,7 +1,7 @@
 # Agora Cli
 
 - The [[agora]] [[command line interface]].
-- Currently very simple :) Example usage follow.
+- Currently very simple :) Example commands follow.
   - ```foo```
     - goes to node [[foo]]. Note that this is equivalent to search (in the [[agora]], non-existent nodes are search nodes).
   - ```go foo```
