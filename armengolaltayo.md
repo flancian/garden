@@ -32,6 +32,13 @@
     - en un [[colectivo]]
     - con [[uno mismo]]
       - [[do]] [[share]] [[chat bot]]
+- [[diseño de interfaz]]
+  - una interfaz que se adapta al usuario
+  - [[lista]] -> [[árbol]] -> [[grafo]]
+- the [[hyperlink delusion]]
+  - la forma en la que se plantea el link actualmente no es la forma en la que se concibió inicialmente
+  - al hyperlink actual le falta simetría
+- [[true colours]]
 
 
 
@@ -174,6 +181,7 @@
 [heterarchy]: heterarchy "Heterarchy"
 [q]: q "Q"
 [do]: do "Do"
+[true colours]: true-colours "True Colours"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
 [push]: push "Push"
