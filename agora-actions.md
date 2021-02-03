@@ -3,7 +3,8 @@
 - The agora can trigger actions in the context of a node when said node includes a block with a [[wikilink]] to a known [[action]]. 
 - Currently supported actions are:
   - *go*, which makes anagora.org/go/<node> redirect to the url appearing after the action.
-    - Example that works in this page: [[go]] https://twitter.com/flancian/status/1329890862499770368
+    - [[go]] https://twitter.com/flancian/status/1329890862499770368
+    - <https://anagora.org/go/agora-actions> now redirects to the tweet above.
   - *pull*, which transcludes a target node into the current context (good for synonyms and related content).
     - [[pull]] [[action]]
     - [[pull]] [[agora action]]
