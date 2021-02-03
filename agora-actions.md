@@ -5,6 +5,7 @@
   - *go*, which makes anagora.org/go/<node> redirect to the url appearing after the action.
     - [[go]] https://twitter.com/flancian/status/1329890862499770368
     - <https://anagora.org/go/agora-actions> now redirects to the tweet above.
+    - See also [[composite-go-links]].
   - *pull*, which transcludes a target node into the current context (good for synonyms and related content).
     - [[pull]] [[agora action]]
     - (see below for effect)
@@ -20,6 +21,7 @@
 [wikilink]: wikilink "Wikilink"
 [action]: action "Action"
 [go]: go "Go"
+[composite-go-links]: composite-go-links "Composite Go Links"
 [pull]: pull "Pull"
 [agora action]: agora-action "Agora Action"
 [push]: push "Push"
