@@ -40,6 +40,9 @@
   - al hyperlink actual le falta simetría
 - [[true colours]]
 - [[bmann]]
+  - [[indieweb]]
+    - [[web mentions]]
+- [[jonathan the utopian]]
 
 
 
@@ -184,6 +187,8 @@
 [do]: do "Do"
 [true colours]: true-colours "True Colours"
 [bmann]: bmann "Bmann"
+[indieweb]: indieweb "Indieweb"
+[jonathan the utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
 [push]: push "Push"
