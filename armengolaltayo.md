@@ -38,7 +38,11 @@
 - the [[hyperlink delusion]]
   - la forma en la que se plantea el link actualmente no es la forma en la que se concibió inicialmente
   - al hyperlink actual le falta simetría
-- [[true colours]]
+- [[marx]]
+  - [[true colours]]
+  - [[comunismo digital]]
+  - [[materialidad]] y su influencia en la historia
+    - [[computación]]
 - [[bmann]]
   - [[indieweb]]
     - [[web mentions]]
