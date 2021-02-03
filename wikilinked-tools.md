@@ -1,15 +1,7 @@
 # Wikilinked Tools
 
-- a [[list]]
-  - [[pull]] [[roam like]]
-  - [[pull]] [[foam]]
-  - [[pull]] [[obsidian]]
-  - [[pull]] [[logseq]]
-  - [[pull]] [[dendron]]
-  - [[pull]] [[athens research]]
-  - [[pull]] [[remnote]]
-  - [[pull]] [[org mode]]
-  - [[pull]] [[tiddlyroam]]
+- [[pull]] [[wikilinking tools]]
+ - [[pull]] [[tiddlyroam]]
 
 
 
