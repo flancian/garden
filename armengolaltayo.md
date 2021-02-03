@@ -66,6 +66,7 @@
   - una [[entidad]]
   - un [[contexto]]
   - [[armengolaltayo]] pero hay notas cuyo contenido es dinámico, por lo que no es natural que tengan un wikilink estático
+  - [[pull]] es transclusión
 
 
 
