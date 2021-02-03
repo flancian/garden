@@ -17,7 +17,7 @@
   - [[estrategia]] de [[experimentación]]
   - Fue evolucionando. El sitio actual es una representación de [[intenciones personales]].
   - [[reificación]] de [[links]]
-    - un link, entendido como un eje en un grafo, se puede convertir en una entidad.
+    - un link, entendido como un eje en un grafo, se puede convertir en un nodo.
   - [[agora]]
     - [[idea]] diferentes artistas contribuyendo piezas con un mismo título
 - [[hierarchy]] vs [[heterarchy]]
@@ -70,6 +70,8 @@
   - [[armengolaltayo]] pero hay notas cuyo contenido es dinámico, por lo que no es natural que tengan un wikilink estático
   - [[pull]] es transclusión
 - [[xavivives]]
+- [[agora actions]]
+  - son como extensiones de [[vscode]]
  
 
 
@@ -232,6 +234,8 @@
 [naranja]: naranja "Naranja"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [xavivives]: xavivives "Xavivives"
+[agora actions]: agora-actions "Agora Actions"
+[vscode]: vscode "Vscode"
 [2021-01-20]: journal/2021-01-20 "2021-01-20"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
