@@ -60,8 +60,10 @@
     - la categorización como requerimiento
     - la toma de notas personales es un punto medio
 - un [[wikilink]] es un [[nombre]]
+  - [[naranja]]
   - una [[entidad]]
   - un [[contexto]]
+  - [[armengolaltayo]] pero hay notas cuyo contenido es dinámico, por lo que no es natural que tengan un wikilink estático
 
 
 
@@ -215,6 +217,7 @@
 [fedwiki]: fed.wiki "Fed Wiki"
 [armengol]: armengol "Armengol"
 [wikilink]: wikilink "Wikilink"
+[armengolaltayo]: armengolaltayo "Armengolaltayo"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
 [push]: push "Push"
