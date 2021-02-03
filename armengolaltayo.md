@@ -11,6 +11,7 @@
   "As cybernetics would say, it is time to steer the ship [1][2], because “if you do not change direction, you may end up where you are heading” [3]. It is time to iterate the Web [4], and therefore, our relationship with it."
 
 ## [[2020-02-03]]
+- [[pull]] [[armengol]]
 - [[miércoles libres]]
 - [[vewpoint]]
   - [[estrategia]] de [[experimentación]]
@@ -51,6 +52,7 @@
       - [[web mentions]]
   - [[jonathan the utopian]]
   - [[karlicoss]]
+  - [[metasj]]
 - [[fediverse]]
   - [[activitypub]]
 - [[semantic web]]
@@ -201,6 +203,8 @@
 [Agora]: agora "Agora"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [the hyperlink delusion]: the-hyperlink-delusion "The Hyperlink Delusion"
+[pull]: pull "Pull"
+[armengol]: armengol "Armengol"
 [idea]: idea "Idea"
 [hierarchy]: hierarchy "Hierarchy"
 [heterarchy]: heterarchy "Heterarchy"
@@ -211,12 +215,14 @@
 [indieweb]: indieweb "Indieweb"
 [jonathan the utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [karlicoss]: karlicoss "Karlicoss"
+[metasj]: metasj "Metasj"
 [fediverse]: fediverse "Fediverse"
 [activitypub]: activitypub "ActivityPub"
 [rdf]: rdf "RDF"
 [fedwiki]: fed.wiki "Fed Wiki"
-[armengol]: armengol "Armengol"
+[jerárquico]: jerárquico "Jerárquico"
 [wikilink]: wikilink "Wikilink"
+[naranja]: naranja "Naranja"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
