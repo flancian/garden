@@ -17,7 +17,7 @@
   - [[estrategia]] de [[experimentación]]
   - Fue evolucionando. El sitio actual es una representación de [[intenciones personales]].
   - [[gestor]] de [[relaciones en internet]] entre piezas de [[información]]
-    - [[generar una capa for encima]] -> [[metasj]] [[overlay]]
+    - [[generar una capa for encima]] -> [[metasj]] [[overlay]], [[underlay]], [[interlay]]
     - [[bookmarks]] -> [[karlicoss]] [[promnesia]], [[go links]], [[agora search]]
   - [[autoría]]
     - una propiedad que hay que contemplar en este espacio
@@ -64,6 +64,7 @@
   - [[metasj]]
   - [[xavivives]]
   - [[codex]]
+  - [[dyokomizo]]
 - [[fediverse]]
   - [[activitypub]]
 - [[semantic web]]
@@ -229,6 +230,8 @@
 [pull]: pull "Pull"
 [armengol]: armengol "Armengol"
 [metasj]: metasj "Metasj"
+[underlay]: underlay "Underlay"
+[interlay]: interlay "Interlay"
 [karlicoss]: karlicoss "Karlicoss"
 [promnesia]: promnesia "Promnesia"
 [agora search]: agora-search "Agora Search"
@@ -245,6 +248,7 @@
 [jonathan the utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [xavivives]: xavivives "Xavivives"
 [codex]: codex "Codex"
+[dyokomizo]: dyokomizo "Dyokomizo"
 [fediverse]: fediverse "Fediverse"
 [activitypub]: activitypub "ActivityPub"
 [rdf]: rdf "RDF"
