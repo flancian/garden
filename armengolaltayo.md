@@ -72,6 +72,9 @@
 - [[xavivives]]
 - [[agora actions]]
   - son como extensiones de [[vscode]]
+  - [[marketplace]]
+  - [[cheap]]
+  - [[planetary mind]] y [[agora protocol]]
  
 
 
@@ -236,6 +239,7 @@
 [xavivives]: xavivives "Xavivives"
 [agora actions]: agora-actions "Agora Actions"
 [vscode]: vscode "Vscode"
+[agora protocol]: agora-protocol "Agora Protocol"
 [2021-01-20]: journal/2021-01-20 "2021-01-20"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
@@ -253,7 +257,6 @@
 [gtoolkit]: gtoolkit "Gtoolkit"
 [Markdown]: markdown "Markdown"
 [roam2agora]: roam2agora "Roam2agora"
-[agora protocol]: agora-protocol "Agora Protocol"
 [2020-11-28]: journal/2020-11-28 "2020-11-28"
 [vocdoni]: vocdoni "Vocdoni"
 [exuo]: exuo "Exuo"
