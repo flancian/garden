@@ -29,6 +29,7 @@
   - The [[agora protocol]] is openly developed and can be implemented by anyone.
   - See also: [[wikilinks everywhere]]. 
 - [[go]] github.com/flancian/agora
+- [[git]] github.com/flancian/agora
 - [[pull]] [[agora editor]]
 - There are [[other agoras]].
 
