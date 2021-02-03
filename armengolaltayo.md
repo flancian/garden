@@ -16,10 +16,12 @@
 - [[vewpoint]]
   - [[estrategia]] de [[experimentación]]
   - Fue evolucionando. El sitio actual es una representación de [[intenciones personales]].
+  - [[gestor]] de [[relaciones en internet]]
   - [[reificación]] de [[links]]
     - un link, entendido como un eje en un grafo, se puede convertir en un nodo.
   - [[agora]]
     - [[idea]] diferentes artistas contribuyendo piezas con un mismo título
+      - [[I want to inspire others the same way that others inspire me]]
 - [[hierarchy]] vs [[heterarchy]]
   - la estrategia correcta es de [[no imposición]]
   - relacionado con [[árboles de conversación]]
@@ -80,7 +82,6 @@
       - Intención: sumar dos inputs y crear una nota con el resultado.
       - Parece un [[marketplace]] de nuevo.
       - [[waterparties]]
-- [[I want to inspire others the same way that others inspire me]]
 
 
 
@@ -223,6 +224,7 @@
 [armengol]: armengol "Armengol"
 [links]: links "Links"
 [idea]: idea "Idea"
+[I want to inspire others the same way that others inspire me]: i-want-to-inspire-others-the-same-way-that-others-inspire-me "I Want to Inspire Others the Same Way That Others Inspire Me"
 [hierarchy]: hierarchy "Hierarchy"
 [heterarchy]: heterarchy "Heterarchy"
 [q]: q "Q"
