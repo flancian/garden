@@ -19,6 +19,8 @@
   - [[gestor]] de [[relaciones en internet]] entre piezas de [[información]]
     - [[generar una capa for encima]] -> [[metasj]] [[overlay]]
     - [[bookmarks]] -> [[karlicoss]] [[promnesia]], [[go links]], [[agora search]]
+  - [[autoría]]
+    - una propiedad que hay que contemplar en este espacio
   - [[reificación]] de [[links]]
     - un link, entendido como un eje en un grafo, se puede convertir en un nodo.
   - [[agora]]
@@ -60,6 +62,7 @@
   - [[karlicoss]]
   - [[metasj]]
   - [[xavivives]]
+  - [[codex]]
 - [[fediverse]]
   - [[activitypub]]
 - [[semantic web]]
@@ -240,6 +243,7 @@
 [indieweb]: indieweb "Indieweb"
 [jonathan the utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [xavivives]: xavivives "Xavivives"
+[codex]: codex "Codex"
 [fediverse]: fediverse "Fediverse"
 [activitypub]: activitypub "ActivityPub"
 [rdf]: rdf "RDF"
