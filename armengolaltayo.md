@@ -16,7 +16,7 @@
   - [[estrategia]] de [[experimentación]]
   - Fue evolucionando. El sitio actual es una representación de [[intenciones personales]].
   - [[agora]]
-    - idea: diferentes artistas contribuyendo piezas con un título
+    - [[idea]] diferentes artistas contribuyendo piezas con un mismo título
 - [[hierarchy]] vs [[heterarchy]]
   - la estrategia correcta es de [[no imposición]]
   - relacionado con [[árboles de conversación]]
@@ -26,9 +26,11 @@
     - [[proposiciones lógicas]]
   - una jerarquía es un orden, quizás necesario para codificar algo en el tiempo
     - [[secuencialidad]] vs [[sincronía]]
-- cómo generar conversaciones:
-  - en un [[colectivo]]
-  - con [[uno mismo]]
+- beneficios de la [[conversación]]
+  - [[q]] [[rubber ducking]]
+  - cómo [[generar conversaciones]]:
+    - en un [[colectivo]]
+    - con [[uno mismo]]
 
 
 
@@ -166,8 +168,10 @@
 [Agora]: agora "Agora"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [the hyperlink delusion]: the-hyperlink-delusion "The Hyperlink Delusion"
+[idea]: idea "Idea"
 [hierarchy]: hierarchy "Hierarchy"
 [heterarchy]: heterarchy "Heterarchy"
+[q]: q "Q"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
 [push]: push "Push"
