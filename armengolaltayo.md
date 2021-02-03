@@ -55,6 +55,7 @@
   - [[jonathan the utopian]]
   - [[karlicoss]]
   - [[metasj]]
+  - [[xavivives]]
 - [[fediverse]]
   - [[activitypub]]
 - [[semantic web]]
@@ -69,7 +70,6 @@
   - un [[contexto]]
   - [[armengolaltayo]] pero hay notas cuyo contenido es dinámico, por lo que no es natural que tengan un wikilink estático
   - [[pull]] es transclusión
-- [[xavivives]]
 - [[agora actions]]
   - son como extensiones de [[vscode]]
   - [[marketplace]]
@@ -79,6 +79,7 @@
     - [[programación visual]]
       - Intención: sumar dos inputs y crear una nota con el resultado.
       - Parece un [[marketplace]] de nuevo.
+      - [[waterparties]]
 
 
 
@@ -231,6 +232,7 @@
 [jonathan the utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [karlicoss]: karlicoss "Karlicoss"
 [metasj]: metasj "Metasj"
+[xavivives]: xavivives "Xavivives"
 [fediverse]: fediverse "Fediverse"
 [activitypub]: activitypub "ActivityPub"
 [rdf]: rdf "RDF"
@@ -239,7 +241,6 @@
 [wikilink]: wikilink "Wikilink"
 [naranja]: naranja "Naranja"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
-[xavivives]: xavivives "Xavivives"
 [agora actions]: agora-actions "Agora Actions"
 [vscode]: vscode "Vscode"
 [agora protocol]: agora-protocol "Agora Protocol"
