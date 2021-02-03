@@ -54,6 +54,7 @@
 - [[semantic web]]
   - [[rdf]]
   - [[fedwiki]]
+  - [[armengol]] punto de vista: es un enfoque [[jerárquico]]? definir estándares primero y después imponerlos.
 
 
 
@@ -204,6 +205,7 @@
 [activitypub]: activitypub "ActivityPub"
 [rdf]: rdf "RDF"
 [fedwiki]: fed.wiki "Fed Wiki"
+[armengol]: armengol "Armengol"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
 [push]: push "Push"
