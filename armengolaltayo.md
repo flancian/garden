@@ -18,13 +18,18 @@
   - [[agora]]
     - idea: diferentes artistas contribuyendo piezas con un título
 - [[hierarchy]] vs [[heterarchy]]
-  - la estrategia es de [[no imposición]]
+  - la estrategia correcta es de [[no imposición]]
   - relacionado con [[árboles de conversación]]
+    - ver [[secuencialidad]]
   - [[subgrafos]]
     - [[árboles sintácticos]]
     - [[proposiciones lógicas]]
   - una jerarquía es un orden, quizás necesario para codificar algo en el tiempo
     - [[secuencialidad]] vs [[sincronía]]
+- cómo generar conversaciones:
+  - en un [[colectivo]]
+  - con [[uno mismo]]
+
 
 
 ## [[2020-01-20]]
