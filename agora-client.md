@@ -6,7 +6,7 @@
   - [[foam]]
   - [[obsidian]]
   - [[roam2agora]]
-  - Any tool that lets you produce [[markdown]] files, and [[git]] to host them.
+  - Any tool that lets you produce [[markdown]] files, and [[git]] to host them. Most [[wikilinking-tools]] work in one way or another.
 - Planned:
   - [[agora bridge]]
     - [[twitter]]
@@ -24,6 +24,7 @@
 [obsidian]: obsidian "Obsidian"
 [roam2agora]: roam2agora "Roam2agora"
 [markdown]: markdown "Markdown"
+[wikilinking-tools]: wikilinking-tools "Wikilinking Tools"
 [agora bridge]: agora-bridge "Agora Bridge"
 [twitter]: twitter "Twitter"
 [mastodon]: mastodon "Mastodon"
