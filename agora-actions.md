@@ -6,7 +6,6 @@
     - [[go]] https://twitter.com/flancian/status/1329890862499770368
     - <https://anagora.org/go/agora-actions> now redirects to the tweet above.
   - *pull*, which transcludes a target node into the current context (good for synonyms and related content).
-    - [[pull]] [[action]]
     - [[pull]] [[agora action]]
     - (see below for effect)
   - *push*, which transcludes the current *block* and any children to the target node. 
