@@ -17,6 +17,8 @@
   - [[estrategia]] de [[experimentación]]
   - Fue evolucionando. El sitio actual es una representación de [[intenciones personales]].
   - [[gestor]] de [[relaciones en internet]] entre piezas de [[información]]
+    - [[generar una capa for encima]] -> [[metasj]] [[overlay]]
+    - [[bookmarks]] -> [[karlicoss]] [[promnesia]]
   - [[reificación]] de [[links]]
     - un link, entendido como un eje en un grafo, se puede convertir en un nodo.
   - [[agora]]
@@ -222,6 +224,9 @@
 [2021-02-03]: journal/2021-02-03 "2021-02-03"
 [pull]: pull "Pull"
 [armengol]: armengol "Armengol"
+[metasj]: metasj "Metasj"
+[karlicoss]: karlicoss "Karlicoss"
+[promnesia]: promnesia "Promnesia"
 [links]: links "Links"
 [idea]: idea "Idea"
 [I want to inspire others the same way that others inspire me]: i-want-to-inspire-others-the-same-way-that-others-inspire-me "I Want to Inspire Others the Same Way That Others Inspire Me"
@@ -233,8 +238,6 @@
 [bmann]: bmann "Bmann"
 [indieweb]: indieweb "Indieweb"
 [jonathan the utopian]: jonathan-the-utopian "Jonathan the Utopian"
-[karlicoss]: karlicoss "Karlicoss"
-[metasj]: metasj "Metasj"
 [xavivives]: xavivives "Xavivives"
 [fediverse]: fediverse "Fediverse"
 [activitypub]: activitypub "ActivityPub"
