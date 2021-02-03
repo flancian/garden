@@ -50,8 +50,10 @@
     - [[web mentions]]
 - [[jonathan the utopian]]
 - [[fediverse]]
-- [[rdf]]
-- [[fedwiki]]
+  - [[activitypub]]
+- [[semantic web]]
+  - [[rdf]]
+  - [[fedwiki]]
 
 
 
@@ -199,6 +201,7 @@
 [indieweb]: indieweb "Indieweb"
 [jonathan the utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [fediverse]: fediverse "Fediverse"
+[activitypub]: activitypub "ActivityPub"
 [rdf]: rdf "RDF"
 [fedwiki]: fed.wiki "Fed Wiki"
 [telegram]: telegram "Telegram"
