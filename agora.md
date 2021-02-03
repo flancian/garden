@@ -30,6 +30,7 @@
   - See also: [[wikilinks everywhere]]. 
 - [[go]] flancia.org/agora
 - [[git]] github.com/flancian/agora
+- [[server]] github.com/flancian/agora-server
 - [[pull]] [[agora editor]] [[agora client]]
 - There are [[other agoras]].
 
