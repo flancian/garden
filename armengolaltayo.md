@@ -18,7 +18,7 @@
   - Fue evolucionando. El sitio actual es una representación de [[intenciones personales]].
   - [[gestor]] de [[relaciones en internet]] entre piezas de [[información]]
     - [[generar una capa for encima]] -> [[metasj]] [[overlay]]
-    - [[bookmarks]] -> [[karlicoss]] [[promnesia]]
+    - [[bookmarks]] -> [[karlicoss]] [[promnesia]], [[go links]], [[agora search]]
   - [[reificación]] de [[links]]
     - un link, entendido como un eje en un grafo, se puede convertir en un nodo.
   - [[agora]]
@@ -227,6 +227,7 @@
 [metasj]: metasj "Metasj"
 [karlicoss]: karlicoss "Karlicoss"
 [promnesia]: promnesia "Promnesia"
+[agora search]: agora-search "Agora Search"
 [links]: links "Links"
 [idea]: idea "Idea"
 [I want to inspire others the same way that others inspire me]: i-want-to-inspire-others-the-same-way-that-others-inspire-me "I Want to Inspire Others the Same Way That Others Inspire Me"
