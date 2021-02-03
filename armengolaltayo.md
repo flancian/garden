@@ -10,12 +10,13 @@
 - Interested in the [[meta problem]]: https://github.com/vewpoint/meeting-point
   - "How do we collect and organize the information about how we collect and organize information when we do not have the tools we need to collect and organize information?"
 - Likely interested in [[agora]], [[agora go links integration]]: https://danielarmengolaltayo.github.io/hyperlink/capsules/unidirectionality-of-links.html, see also [[the hyperlink delusion]].
-  "As cybernetics would say, it is time to steer the ship [1][2], because “if you do not change direction, you may end up where you are heading” [3]. It is time to iterate the Web [4], and therefore, our relationship with it."
+  "As cybernetics would say, it is time to steer the ship, because “if you do not change direction, you may end up where you are heading”. It is time to iterate the Web, and therefore, our relationship with it."
 
 ## [[next]]
 
-- [[armengol]] [[propuesta artística]]
-  - [[pointless]]
+- [[push]] [[pointless]]
+  - [[armengol]] [[propuesta artística]]
+
 ## [[2021-02-03]]
 - [[miércoles libres]]
 - [[vewpoint]]
@@ -233,6 +234,7 @@
 [Agora]: agora "Agora"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [the-hyperlink-delusion]: the-hyperlink-delusion "The Hyperlink Delusion"
+[push]: push "Push"
 [2021-02-03]: journal/2021-02-03 "2021-02-03"
 [metasj]: metasj "Metasj"
 [underlay]: underlay "Underlay"
@@ -268,7 +270,6 @@
 [2021-01-20]: journal/2021-01-20 "2021-01-20"
 [telegram]: telegram "Telegram"
 [bots]: bots "Bots"
-[push]: push "Push"
 [stoa]: stoa "Stoa"
 [hackmd]: hackmd "Hackmd"
 [dendron]: dendron "Dendron"
