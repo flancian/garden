@@ -9,7 +9,8 @@
     - [[pull]] [[agora action]]
     - (see below for effect)
   - *push*, which transcludes the current *block* and any children to the target node. 
-    - [[push]] [[2021-01-25]] I documented push in [[agora actions]] today.
+    - [[push]] [[2021-01-25]] 
+      - I documented push in [[agora actions]] on that day.
       - See [[2021-01-25]] for effect.
 - See also:
   - [[push and pull]] for interactions between those two actions.
