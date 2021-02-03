@@ -28,7 +28,8 @@
 - This Agora tries to be a good [[internet citizen]]. 
   - The [[agora protocol]] is openly developed and can be implemented by anyone.
   - See also: [[wikilinks everywhere]]. 
-- [[go]] github.com/flancian/agora
+- [[go]] flancia.org/agora
+- [[git]] github.com/flancian/agora
 - [[pull]] [[agora editor]] [[agora client]]
 - There are [[other agoras]].
 
