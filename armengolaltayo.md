@@ -75,8 +75,8 @@
   - [[marketplace]]
   - [[cheap]]
   - [[planetary mind]] y [[agora protocol]]
- 
-
+- [[programación visual]]
+  - Intención: sumar dos inputs y crear una nota con el resultado.
 
 
 ## [[2021-01-20]]
