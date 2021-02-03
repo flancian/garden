@@ -43,6 +43,8 @@
   - [[comunismo digital]]
   - [[materialidad]] y su influencia en la historia
     - [[computación]]
+      - [[optimización]]: es muy importante en ciertos momentos y para ciertos formatos (cuando uno está cerca del límite de lo disponible), no tanto en otros.
+      - Ejemplo: ahora podemos llevar todo nuestro footprint digital encima, varias copias.
 - [[bmann]]
   - [[indieweb]]
     - [[web mentions]]
