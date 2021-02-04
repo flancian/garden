@@ -9,7 +9,10 @@
 - [[project]] [[utopoi]]: http://lorand.earth/utopoi/about/
 - [[project]] https://applied-compositional-thinking.engineering/
 
-## Meet
+## [[meet]]
+### [[2021-02-06]]
+
+- [[graphical calculus]] / [[string diagrams]] in [[category theory]]
 
 ### [[2021-01-23]]
 
@@ -128,6 +131,7 @@
 [Smart Agora]: smart-agora "Smart Agora"
 [project]: project "Project"
 [utopoi]: utopoi "Utopoi"
+[meet]: meet "Meet"
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
 [jonathan]: jonathan "Jonathan"
@@ -157,6 +161,7 @@
 [hofstadter]: hofstadter "Hofstadter"
 [utopia]: utopia "Utopia"
 [missing devices]: missing-devices "Missing Devices"
+[m prime]: m-prime "M Prime"
 [noded]: noded "Noded"
 [focus]: focus "Focus"
 [liquid democracy]: liquid-democracy "Liquid Democracy"
