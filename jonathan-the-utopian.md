@@ -25,8 +25,13 @@
   - [[metasj]]
     - [[knowledge futures project]]
   - [[eugenia cheng]]
+  - [[bmann]]
+  - [[karlicoss]]
+- [[protopoi]]
+  - [[next steps]]
 - [[stoa]]
   - [[stoa nodes]]
+- [[group activities]]
 
 ### [[2021-01-23]]
 
@@ -150,20 +155,21 @@
 [2021-02-06]: journal/2021-02-06 "2021-02-06"
 [people]: people "People"
 [metasj]: metasj "Metasj"
+[bmann]: bmann "Bmann"
+[karlicoss]: karlicoss "Karlicoss"
+[protopoi]: protopoi "Protopoi"
 [stoa]: stoa "Stoa"
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
 [jonathan]: jonathan "Jonathan"
 [flancian]: flancian "Flancian"
 [place]: place "Place"
-[protopoi]: protopoi "Protopoi"
 [index]: index "index"
 [world]: world "World"
 [borges]: borges "Borges"
 [anirudh badri]: anirudh-badri "Anirudh Badri"
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
-[bmann]: bmann "Bmann"
 [push]: push "Push"
 [christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [quote]: quote "Quote"
