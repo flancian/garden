@@ -21,6 +21,8 @@
 - [[graphical calculus]] / [[string diagrams]] in [[category theory]]
 - [[people]]
   - [[metasj]]
+    - [[knowledge futures project]]
+  - [[eugenia cheng]]
 
 ### [[2021-01-23]]
 
