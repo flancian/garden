@@ -18,7 +18,8 @@
     - it was a [[pilot]]
     - made a [[feedback form]]
   - [[two weeks off]]!
-    - 
+    - [[protopoi space]]
+    - [[christopher alexander reading group]]
   - [[internalized capitalism]] 
     - how many days really-off per week?
     - taking one full day off a week seems
@@ -157,6 +158,7 @@
 [utopoi]: utopoi "Utopoi"
 [meet]: meet "Meet"
 [2021-02-06]: journal/2021-02-06 "2021-02-06"
+[christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [people]: people "People"
 [metasj]: metasj "Metasj"
 [bmann]: bmann "Bmann"
@@ -175,7 +177,6 @@
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [push]: push "Push"
-[christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [quote]: quote "Quote"
 [a pattern language]: a-pattern-language "A Pattern Language"
 [feedback]: feedback "Feedback"
