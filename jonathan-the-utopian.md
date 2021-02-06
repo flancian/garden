@@ -20,6 +20,7 @@
   - [[two weeks off]]!
     - [[protopoi space]]
     - [[christopher alexander reading group]]
+    - [[writing assignment]]
   - [[internalized capitalism]] 
     - how many days really-off per week?
     - taking one full day off a week seems
