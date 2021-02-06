@@ -12,11 +12,13 @@
 ## [[meet]]
 ### [[2021-02-06]]
 
+- [[beautiful light]] today, perhaps because of the [[sand storm]]
 - [[day job]] is looking better -- [[course]] sessions over!
   - [[goal]] was to show what [[category theory]] could do for [[engineering]]
     - it was a [[pilot]]
     - made a [[feedback form]]
   - [[two weeks off]]!
+    - 
   - [[internalized capitalism]] 
     - how many days really-off per week?
     - taking one full day off a week seems
@@ -31,6 +33,8 @@
   - [[next steps]]
 - [[stoa]]
   - [[stoa nodes]]
+  - [[two ways to collaborate]]
+    - do they [[converge]]?
 - [[group activities]]
 
 ### [[2021-01-23]]
