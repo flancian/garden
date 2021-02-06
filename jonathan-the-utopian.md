@@ -10,6 +10,12 @@
 - [[project]] https://applied-compositional-thinking.engineering/
 
 ## [[meet]]
+
+
+### [[next]]
+
+- how to organize [[todo]].
+
 ### [[2021-02-06]]
 
 - [[beautiful light]] today, perhaps because of the [[sand storm]]
@@ -40,6 +46,10 @@
 - [[group activities]]
 - [[protopoi org]]
   - could be [[graph first]], more [[visual]], hopefully [[beautiful]]
+  - https://ninaemge.branching.ch
+  - https://kasparkoenig.com/
+  - https://branching.ch/
+
 
 ### [[2021-01-23]]
 
@@ -160,6 +170,7 @@
 [project]: project "Project"
 [utopoi]: utopoi "Utopoi"
 [meet]: meet "Meet"
+[todo]: todo "Todo"
 [2021-02-06]: journal/2021-02-06 "2021-02-06"
 [protopoi space]: protopoi-space "Protopoi Space"
 [christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
@@ -169,6 +180,7 @@
 [karlicoss]: karlicoss "Karlicoss"
 [protopoi]: protopoi "Protopoi"
 [stoa]: stoa "Stoa"
+[protopoi org]: protopoi-org "Protopoi Org"
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
 [jonathan]: jonathan "Jonathan"
