@@ -38,6 +38,8 @@
   - [[two ways to collaborate]]
     - do they [[converge]]?
 - [[group activities]]
+- [[protopoi org]]
+  - could be [[graph first]], more [[visual]], hopefully [[beautiful]]
 
 ### [[2021-01-23]]
 
@@ -159,6 +161,7 @@
 [utopoi]: utopoi "Utopoi"
 [meet]: meet "Meet"
 [2021-02-06]: journal/2021-02-06 "2021-02-06"
+[protopoi space]: protopoi-space "Protopoi Space"
 [christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [people]: people "People"
 [metasj]: metasj "Metasj"
