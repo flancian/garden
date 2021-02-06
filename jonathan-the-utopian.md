@@ -12,7 +12,15 @@
 ## [[meet]]
 ### [[2021-02-06]]
 
+- [[day job]] is looking better -- [[course]] sessions over!
+  - [[goal]] was to show what [[category theory]] could do for [[engineering]]
+    - it was a [[pilot]]
+    - made a [[feedback form]]
+  - [[two weeks off]]!
+  - [[internalized capitalism]] 
 - [[graphical calculus]] / [[string diagrams]] in [[category theory]]
+- [[people]]
+  - [[metasj]]
 
 ### [[2021-01-23]]
 
@@ -132,6 +140,9 @@
 [project]: project "Project"
 [utopoi]: utopoi "Utopoi"
 [meet]: meet "Meet"
+[2021-02-06]: journal/2021-02-06 "2021-02-06"
+[people]: people "People"
+[metasj]: metasj "Metasj"
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
 [jonathan]: jonathan "Jonathan"
