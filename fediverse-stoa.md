@@ -3,7 +3,7 @@
 - The [[second]] [[stoa]].
 - [[go]] https://gitlab.com/fediverse-stoa/
 - [[projects]]
-  - [[moa party]]
+  - [[moa party]] https://gitlab.com/fediverse-stoa/moa/-/issues
   - [[agora]]
 
 
