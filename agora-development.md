@@ -1,13 +1,12 @@
 # Agora Development
 
 - A [[group]].
-- Part of the [[fedstoa]].
+- A [[stoa]].
+  - Heavily interacts with [[fedstoa]].
   - [[project]] [[agora]]
     - [[project]] [[agora bridge]]
     - [[project]] [[agora protocol]]
       - [[project]] [[wikilinks everywhere]]
-  - [[project]] [[moa party]]
-  - [[project]] [[map of the open internet]]
 - A [[matrix]] channel.
   - [[go]] https://app.element.io/?pk_vid=2aa9ef53afdcaeaf1609608427b036f4#/room/!LrSlpgPruzcRvucsiG:matrix.org
 
