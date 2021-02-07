@@ -16,7 +16,8 @@
     - The [[second stoa]] focuses on freeing, opening up and otherwise improving the [[internet]] using [[open source]] and [[open ethics]].
       - See [[fedstoa]] if you'd like to participate.
     - The [[third stoa]] focuses on general [[world improvement]]. It uses [[state of the art]] [[knowledge tools]] to model the world and its problems as seen and evaluated by [[all]] [[people]] and then tries to execute incremental improvements.
-      - See [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
+      - See [[protopoi]], [[m prime]].
+        - [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
 - Elsewhere:
   - [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
@@ -50,6 +51,8 @@
 [fedstoa]: fedstoa "Fedstoa"
 [third stoa]: third-stoa "Third Stoa"
 [world improvement]: world-improvement "World Improvement"
+[protopoi]: protopoi "Protopoi"
+[m prime]: m-prime "M Prime"
 [protopia]: protopia "Protopia"
 [eutopia]: eutopia "Eutopia"
 [flancia]: flancia "Flancia"
