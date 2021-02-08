@@ -9,6 +9,7 @@
     - The one in [[viral]], I guess, is mine; currently my most popular post on social media. I *may* be remembered for it.h
     - I'd rather be remembered for a better thing.
     - What is your best [[meme]]? Tell me and I'll listen gladly.
+  - I want to start or join a [[gentle revolution]].
 
 
 
