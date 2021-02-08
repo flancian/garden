@@ -2,8 +2,8 @@
 
 - a [[browser]]
 - [[go]] qutebrowser.org
-- written in [[python]]
-- [[keyboard focused]]
+  - written in [[python]]
+  - [[keyboard focused]]
 
 
 
