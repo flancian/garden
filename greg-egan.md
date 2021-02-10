@@ -3,6 +3,7 @@
 - [[person]]
   - [[sci fi]] [[writer]]
   - [[australian]]
+- [[twitter]] twitter.com/gregegansf
 - Loved [[permutation city]], [[diaspora]].
 - Introduced me to many things, actually.
   - [[Dust theory]]
@@ -12,6 +13,7 @@
 [person]: person "Person"
 [sci fi]: sci-fi "Sci-fi"
 [writer]: writer "Writer"
+[twitter]: twitter "Twitter"
 [diaspora]: diaspora "Diaspora"
 [Dust theory]: dust-theory "Dust Theory"
 [Emmy Noether]: emmy-noether "Emmy Noether"
