@@ -1,6 +1,7 @@
 # CONTRACT
 
 - I endorse the base [[contract]] of this Agora.
+  - https://twitter.com/flancian/status/1360327797034651650
 - I [[intend]] to dedicate a [[significant fraction]] of my [[free time]] and [[money]] to improve the world.
 - I am a [[Flancian]] and I have a [[manifesto]].
   - In [[Flancia]] there is no [[poverty]].
@@ -21,9 +22,11 @@
 [manifesto]: manifesto "Manifesto"
 [Flancia]: flancia "Flancia"
 [poverty]: poverty "Poverty"
-[agora]: agora "Agora"
+[unfair privilege]: unfair-privilege "Unfair Privilege"
+[Agora]: agora "Agora"
 [meet]: meet "Meet"
 [feedback]: feedback "Feedback"
+[agora]: agora "Agora"
 [open nation]: open-nation "Open Nation"
 [human rights]: human-rights "Human Rights"
 [universal basic income]: universal-basic-income "Universal Basic Income"
