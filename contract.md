@@ -4,7 +4,7 @@
 - I [[intend]] to dedicate a [[significant fraction]] of my [[free time]] and [[money]] to improve the world.
 - I am a [[Flancian]] and I have a [[manifesto]].
   - In [[Flancia]] there is no [[poverty]].
-  - In [[Flancia]] there is no [[privilege]].
+  - In [[Flancia]] there is no [[unfair privilege]].
   - In [[Flancia]] there is an [[Agora]].
   - In [[Flancia]] we will one day, if you so want it, [[meet]].
 - Because I am unskillful, I need your help. I am open to any [[feedback]] anytime.
@@ -21,11 +21,9 @@
 [manifesto]: manifesto "Manifesto"
 [Flancia]: flancia "Flancia"
 [poverty]: poverty "Poverty"
-[privilege]: privilege "Privilege"
-[Agora]: agora "Agora"
+[agora]: agora "Agora"
 [meet]: meet "Meet"
 [feedback]: feedback "Feedback"
-[agora]: agora "Agora"
 [open nation]: open-nation "Open Nation"
 [human rights]: human-rights "Human Rights"
 [universal basic income]: universal-basic-income "Universal Basic Income"
