@@ -31,6 +31,7 @@
 [protopia]: protopia "Protopia"
 [good]: good "Good"
 [hypothes.is]: hypothesis "Hypothesis"
+[cooperative]: cooperative "Cooperative"
 [philanthropy]: philanthropy "Philanthropy"
 [tools]: tools "Tools"
 [Agora]: agora "Agora"
