@@ -1,7 +1,7 @@
 # Christopher Alexander
 - [[person]]
   - [[writer]] [[architect]]
-- [[a pattern language]]
+- [[wrote]] [[a pattern language]]
   - [[interested]] [[bmock]] [[EduneV]] [[seconds_0]] [[jonathan-the-utopian]]
 - [[pull]] [[reading alexander]]
 
