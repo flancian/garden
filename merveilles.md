@@ -4,6 +4,7 @@
 - A [[federation]] [[instance]].
   - [[fediverse]] [[mastodon]]
   - [[contract]] https://github.com/merveilles/The-Town#instance-rules
+  - [[trello]] https://trello.com/b/kGZUUev9/the-town
   - Was accepted into it on [[2021-02-12]] by [[devine-lu-linvega]].
     - @flaneur@merveilles.town == https://merveilles.town/web/accounts/113872
 
