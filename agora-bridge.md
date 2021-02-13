@@ -15,13 +15,11 @@
 - Experimented with [[toot cli]].
 - Create [[Mastodon]] account for prod.
   - [[mastodon]] @agora@botsin.space
+- [[api]] setup for @an_agora on [[twitter]].
 
 ## [[doing]]
 
-- Going through [[api]] setup for @an_agora on [[twitter]].
-
 ## [[do]]
-
 - [[push]] [[agora bot]]
   - Create [[Twitter]] account for testing.
   - Create [[Mastodon]] account for testing.
