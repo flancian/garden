@@ -1,10 +1,10 @@
 # Servers
 
-- [[dorcas]]
+- [[dorcas]] dorcas.anagora.org
   - runs flancia.org
-- [[thecla]]
+- [[thecla]] thecla.anagora.org
   - runs anagora.org ([[agora server]])
-- [[patera]]
+- [[patera]] patera.anagora.org
   - runs moa.anagora.org ([[moa]], [[agora bridge]])
 
 
