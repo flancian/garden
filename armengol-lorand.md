@@ -55,7 +55,7 @@
     - [[branch]] [[merveilles]] looks like a good fit
     - [[multitouch tablet]] experiment led to [[5 years]] doing [[interactive installations]]
     - became more interested in how people behaved than in the actual content of the screens/the technology 
-    - moved to [[art]], stopped doing commercial work
+    - moved to [[art]], stopped doing commercial work, [[moved to the woods]]
       - "i want to inspire others in the same way these people are inspiring me"
     - [[branch]] [[feedback club]]
 
