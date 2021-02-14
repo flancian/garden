@@ -93,6 +93,7 @@
   - [[basic tools]] to share information in a better way
   - something close to a [[wiki]]
   - [[branch]] [[stoa]]
+  - let's write [[user journeys]] and compare?
 - [[interactive fiction]]
   - [[conversation trees]]
 
