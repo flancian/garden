@@ -115,6 +115,7 @@
 - [[goals]]
   - [[decisions]]
     - [[root node]]
+      - it is in [[protopoi]]
     - [[chat room]]
   - a [[place to write notes]]
 
