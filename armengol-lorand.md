@@ -53,7 +53,8 @@
   - [[daniel-armengol-altayo]] 
     - [[computers]] + [[design]] -> [[multimedia engineering]]
     - [[branch]] [[merveilles]] looks like a good fit
-    - [[multitouch tablet]] experiment
+    - [[multitouch tablet]] experiment led to [[5 years]] doing [[interactive installations]]
+    - became more interested in how people behaved than in the actual content of the screens/the technology 
     - [[branch]] [[feedback club]]
 
 
