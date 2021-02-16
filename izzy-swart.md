@@ -4,6 +4,7 @@
   - [[pull]] [[syntacticsugarglider]]
 - [[merveilles]] https://merveilles.town/web/accounts/18164
 - [[go]] syntacticsugarglider.com
+- Had a significant chat on [[2021-02-15]]. They are
 
 
 
