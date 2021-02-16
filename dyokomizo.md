@@ -1,6 +1,7 @@
 # Dyokomizo
 
-- A [[person]]. 
+- A [[person]], mostly.
+  - Self describes as "human being, most of the time"
 - [[twitter]]. Zen practitioner. Programmer/tech worker. Brazilian.
     - Good overlap.
 - [[doc]] https://flancia.org/go/dyokomizo-flancian
