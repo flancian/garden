@@ -16,6 +16,7 @@
 
 - how to organize [[todo]].
 - test [[annotation failover]]
+- decide file/note hosting
 
 ### [[2021-02-17]]
 
@@ -24,6 +25,11 @@
 - [[coordination]]
   - [[upload]] new files
     - done!
+  - fill [[doodle]]
+    - done!
+  - solve file/note hosting
+    - check with [[bmann]]
+    - discuss again on sat
 - [[personal life]]
 
 ### [[2021-02-06]]
@@ -183,13 +189,13 @@
 [todo]: todo "Todo"
 [2021-02-17]: journal/2021-02-17 "2021-02-17"
 [universal basic income]: universal-basic-income "Universal Basic Income"
+[bmann]: bmann "Bmann"
 [2021-02-06]: journal/2021-02-06 "2021-02-06"
 [day job]: day-job "Day Job"
 [protopoi space]: protopoi-space "Protopoi Space"
 [christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [people]: people "People"
 [metasj]: metasj "Metasj"
-[bmann]: bmann "Bmann"
 [karlicoss]: karlicoss "Karlicoss"
 [protopoi]: protopoi "Protopoi"
 [stoa]: stoa "Stoa"
