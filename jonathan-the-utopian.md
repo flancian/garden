@@ -15,13 +15,15 @@
 ### [[next]]
 
 - how to organize [[todo]].
+- test [[annotation failover]]
 
 ### [[2021-02-17]]
 
 - Enjoying the week off!
 - [[universal basic income]]
 - [[coordination]]
-  - [[upload]] files
+  - [[upload]] new files
+    - done!
 - [[personal life]]
 
 ### [[2021-02-06]]
