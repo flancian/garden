@@ -16,6 +16,9 @@
 
 - how to organize [[todo]].
 
+### [[2021-02-17]]
+- Enjoying the week off!
+
 ### [[2021-02-06]]
 
 - [[beautiful light]] today, perhaps because of the [[sand storm]]
@@ -171,7 +174,9 @@
 [utopoi]: utopoi "Utopoi"
 [meet]: meet "Meet"
 [todo]: todo "Todo"
+[2021-02-17]: journal/2021-02-17 "2021-02-17"
 [2021-02-06]: journal/2021-02-06 "2021-02-06"
+[day job]: day-job "Day Job"
 [protopoi space]: protopoi-space "Protopoi Space"
 [christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [people]: people "People"
@@ -194,7 +199,9 @@
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [push]: push "Push"
 [quote]: quote "Quote"
+[the timeless way of building]: the-timeless-way-of-building "The Timeless Way of Building"
 [a pattern language]: a-pattern-language "A Pattern Language"
+[notes on the synthesis of form]: notes-on-the-synthesis-of-form "Notes on the Synthesis of Form"
 [feedback]: feedback "Feedback"
 [agora plan]: agora-plan "Agora Plan"
 [node]: node "Node"
