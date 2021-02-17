@@ -17,7 +17,12 @@
 - how to organize [[todo]].
 
 ### [[2021-02-17]]
+
 - Enjoying the week off!
+- [[universal basic income]]
+- [[coordination]]
+  - [[upload]] files
+- [[personal life]]
 
 ### [[2021-02-06]]
 
@@ -175,6 +180,7 @@
 [meet]: meet "Meet"
 [todo]: todo "Todo"
 [2021-02-17]: journal/2021-02-17 "2021-02-17"
+[universal basic income]: universal-basic-income "Universal Basic Income"
 [2021-02-06]: journal/2021-02-06 "2021-02-06"
 [day job]: day-job "Day Job"
 [protopoi space]: protopoi-space "Protopoi Space"
