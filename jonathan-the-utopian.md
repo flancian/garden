@@ -31,6 +31,7 @@
     - check with [[bmann]]
     - discuss again on sat
 - [[personal life]]
+- [[arcades project]]
 
 ### [[2021-02-06]]
 
@@ -190,6 +191,7 @@
 [2021-02-17]: journal/2021-02-17 "2021-02-17"
 [universal basic income]: universal-basic-income "Universal Basic Income"
 [bmann]: bmann "Bmann"
+[arcades project]: arcades-project "Arcades Project"
 [2021-02-06]: journal/2021-02-06 "2021-02-06"
 [day job]: day-job "Day Job"
 [protopoi space]: protopoi-space "Protopoi Space"
