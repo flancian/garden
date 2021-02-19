@@ -13,6 +13,9 @@
   - transform how we make decisions as a society
   - our tools to source information are bad, polarize us
   - we can all be experts within a certain scope
+  - increase quality of information, increase quality of decision
+  - first we need to get to a situation in which companies in this space stop focusing on infinite growth
+- might move from [[mit]] to [[gpl]]
 - [[liquid digital distributed democracy]]
 
 ## [[2021-01-04]]
