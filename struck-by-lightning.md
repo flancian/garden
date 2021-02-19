@@ -5,9 +5,7 @@ I sometimes feel as if I'm struck by lightning;
 
 I sometimes catch fire.
 
-Do you know what I mean?
-
-I can't tell you what to feel.
+I hope you know what I mean, I probably don't know how to tell you what to feel.
 
 On these days I feel like slaying [[Moloch]].
 
