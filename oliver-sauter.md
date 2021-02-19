@@ -21,6 +21,7 @@
   - [[wikilinks everywhere]] could be used by [[promnesia]], [[agora]], [[hypothes.is]], [[memex]], ...
     - they resolve to a backend of choice to the user: roam, remnote, agora server
   - [[oliver sauter]] talked to [[karlicoss]]
+- [[flancian]]'s [[agora search]] == [[oliver sauter]]'s [[vertical search]]
 
 ## [[2021-01-04]]
 
@@ -95,15 +96,15 @@
 [hypothes.is]: hypothesis "Hypothesis"
 [oliver sauter]: oliver-sauter "Oliver Sauter"
 [karlicoss]: karlicoss "Karlicoss"
+[flancian]: flancian "Flancian"
+[agora search]: agora-search "Agora Search"
 [2021-01-04]: journal/2021-01-04 "2021-01-04"
 [dan whaley]: dan-whaley "Dan Whaley"
 [crowdsourced search]: crowdsourced-search "Crowdsourced Search"
-[agora search]: agora-search "Agora Search"
 [interop]: interop "Interop"
 [roam likes]: roam-likes "Roam Likes"
 [tools]: tools "Tools"
 [pkm]: pkm "Pkm"
-[flancian]: flancian "Flancian"
 [agora protocol]: agora-protocol "Agora Protocol"
 [roam]: roam "Roam"
 [are.na]: arena "Arena"
