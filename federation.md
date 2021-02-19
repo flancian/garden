@@ -1,5 +1,7 @@
 # Federation
 
+- a [[subset]] of the [[internet]]; the part that is willing to [[federate]]
+  - the set of all [[open platforms]]
 - [[pull]] [[fediverse]]
 
 
