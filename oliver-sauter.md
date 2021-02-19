@@ -17,6 +17,10 @@
   - first we need to get to a situation in which companies in this space stop focusing on infinite growth
 - might move from [[mit]] to [[gpl]]
 - [[liquid digital distributed democracy]]
+- [[agora]]
+  - [[wikilinks everywhere]] could be used by [[promnesia]], [[agora]], [[hypothes.is]], [[memex]], ...
+    - they resolve to a backend of choice to the user: roam, remnote, agora server
+  - [[oliver sauter]] talked to [[karlicoss]]
 
 ## [[2021-01-04]]
 
@@ -85,8 +89,13 @@
 [ikigai]: ikigai "Ikigai"
 [2021-02-19]: journal/2021-02-19 "2021-02-19"
 [monday]: monday "Monday"
-[2021-01-04]: journal/2021-01-04 "2021-01-04"
+[agora]: agora "Agora"
+[wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
+[promnesia]: promnesia "Promnesia"
 [hypothes.is]: hypothesis "Hypothesis"
+[oliver sauter]: oliver-sauter "Oliver Sauter"
+[karlicoss]: karlicoss "Karlicoss"
+[2021-01-04]: journal/2021-01-04 "2021-01-04"
 [dan whaley]: dan-whaley "Dan Whaley"
 [crowdsourced search]: crowdsourced-search "Crowdsourced Search"
 [agora search]: agora-search "Agora Search"
@@ -95,8 +104,6 @@
 [tools]: tools "Tools"
 [pkm]: pkm "Pkm"
 [flancian]: flancian "Flancian"
-[agora]: agora "Agora"
-[wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [agora protocol]: agora-protocol "Agora Protocol"
 [roam]: roam "Roam"
 [are.na]: arena "Arena"
