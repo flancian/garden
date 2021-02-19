@@ -6,6 +6,15 @@
 - [[project]] [[memex]] [[worldbrain]]
 - [[ikigai]]
 
+## [[2021-02-19]]
+- Launching [[collections]] this next [[monday]].
+  - cool!
+- [[25y goal]] for [[memex]]
+  - transform how we make decisions as a society
+  - our tools to source information are bad, polarize us
+  - we can all be experts within a certain scope
+- [[liquid digital distributed democracy]]
+
 ## [[2021-01-04]]
 
 - Greetings!
@@ -71,6 +80,8 @@
 [memex]: memex "Memex"
 [worldbrain]: worldbrain "Worldbrain"
 [ikigai]: ikigai "Ikigai"
+[2021-02-19]: journal/2021-02-19 "2021-02-19"
+[monday]: monday "Monday"
 [2021-01-04]: journal/2021-01-04 "2021-01-04"
 [hypothes.is]: hypothesis "Hypothesis"
 [dan whaley]: dan-whaley "Dan Whaley"
@@ -85,9 +96,11 @@
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [agora protocol]: agora-protocol "Agora Protocol"
 [roam]: roam "Roam"
+[are.na]: arena "Arena"
 [notion]: notion "Notion"
 [wikilink]: wikilink "Wikilink"
 [conaw]: conaw "Conaw"
+[rss]: rss "Rss"
 [next action]: next-action "Next Action"
 [wikilinks]: wikilinks "Wikilinks"
 [browser extension]: browser-extension "Browser Extension"
