@@ -30,7 +30,7 @@
   - [[merveilles]] https://merveilles.town/@flaneur
 - [[garden]] https://github.com/flancian/garden
 - [[github]] https://github.com/flancian
-- [[matrix]] @flancian@matrix.org
+- [[matrix]] @flancian:matrix.org
 - [[telegram]] @Flancian
 - [[anar.chi.st]] https://anar.chi.st/Flancian
 - [[chess]] https://chess.com/member/flancian
