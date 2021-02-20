@@ -12,6 +12,8 @@
 ## [[meet]]
 
 ### [[next]]
+- [[a pattern language for protopian processes]] 
+- languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
 ### [[2021-02-20]]
 
@@ -26,6 +28,7 @@
   - [[q]] do you have an umbrella term when you think about it?
     - is it "my master's project"
 - [[a pattern language for protopian processes]] 
+  - comment from a friend: it might be wrong metodologically to 'fix' the tool to be a *pattern* language at this stage, there are many kinds of language
 - how to organize [[todo]].
 - test [[annotation failover]]
 - decide file/note hosting
@@ -199,6 +202,8 @@
 [project]: project "Project"
 [utopoi]: utopoi "Utopoi"
 [meet]: meet "Meet"
+[bridges]: bridges "Bridges"
+[people]: people "People"
 [2021-02-20]: journal/2021-02-20 "2021-02-20"
 [flancian]: flancian "Flancian"
 [graphs]: graphs "Graphs"
@@ -213,7 +218,6 @@
 [day job]: day-job "Day Job"
 [protopoi space]: protopoi-space "Protopoi Space"
 [christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
-[people]: people "People"
 [metasj]: metasj "Metasj"
 [karlicoss]: karlicoss "Karlicoss"
 [protopoi]: protopoi "Protopoi"
@@ -221,6 +225,10 @@
 [protopoi org]: protopoi-org "Protopoi Org"
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
+[protopoi.space]: protopoi "Protopoi"
+[protopoi.org]: protopoi "Protopoi"
+[protopoi.com]: protopoi "Protopoi"
+[protopoi.coop]: protopoi "Protopoi"
 [place]: place "Place"
 [index]: index "index"
 [world]: world "World"
