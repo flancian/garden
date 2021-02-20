@@ -23,6 +23,7 @@
   - I intend to bring facets of [[Flancia]] into the real world, only as far as they also benefit others, without unilaterally imposing my will.
 - [[website]] [[go]] https://flancia.org
 - [[email]] 0 (that's a zero) on email in my personal domain as listed above
+- [[calendly]] calendly.com/flancian
 - [[twitter]] https://twitter.com/flancian
 - [[fediverse]] == [[federation]] == [[mastodon]]
   - [[social.coop]] https://social.coop/@flancian
