@@ -3,7 +3,7 @@
 - This is just an [[agora]]; there are many like it, and there could be many more.
 - [[pull]] [[agora like]]
 - [[3np]] in [[hn]] pointed out other projects also named [[agora]]:
-  - https://www.agora.vote/
+  - [[agora vote]] https://www.agora.vote/
   - https://eprint.iacr.org/2020/865.pdf
   - https://www.idni.org/agoras/
 - [[roaman agora]] https://twitter.com/RoamFm/status/1363197417785499648
