@@ -25,6 +25,7 @@
   - [[jonathan]] usually say a couple of key concepts: applied utopia, protopia, protopoi
   - [[q]] do you have an umbrella term when you think about it?
     - is it "my master's project"
+- [[a pattern language for protopian processes]] 
 - how to organize [[todo]].
 - test [[annotation failover]]
 - decide file/note hosting
