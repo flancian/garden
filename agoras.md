@@ -1,6 +1,6 @@
 # Agoras
 
-- This [[agora]] is just literally *an* [[Agora]]. There are, or could be, infinitely many.
+- This [[agora]] is just literally *an* [[Agora]]. There are others, and many more possible.
   - [[pull]] [[an agora]]
   - [[pull]] [[other agoras]]
 
