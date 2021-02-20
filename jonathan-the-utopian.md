@@ -11,9 +11,20 @@
 
 ## [[meet]]
 
-
 ### [[next]]
 
+### [[2021-02-20]]
+
+- [[jitsi meet]]
+- [[map of the fediverse]]
+- [[security through obscurity]]
+- which modeling problems you get excited about?
+  - [[flancian]] anything [[graphs]] perhaps :)
+  - [[jonathan]] technical problem solving mode is just one mode, but tend to gravitate to higher levels of abstraction
+- how do you [[pitch]] your project to people?
+  - [[jonathan]] usually say a couple of key concepts: applied utopia, protopia, protopoi
+  - [[q]] do you have an umbrella term when you think about it?
+    - is it "my master's project"
 - how to organize [[todo]].
 - test [[annotation failover]]
 - decide file/note hosting
@@ -187,6 +198,11 @@
 [project]: project "Project"
 [utopoi]: utopoi "Utopoi"
 [meet]: meet "Meet"
+[2021-02-20]: journal/2021-02-20 "2021-02-20"
+[flancian]: flancian "Flancian"
+[graphs]: graphs "Graphs"
+[jonathan]: jonathan "Jonathan"
+[q]: q "Q"
 [todo]: todo "Todo"
 [2021-02-17]: journal/2021-02-17 "2021-02-17"
 [universal basic income]: universal-basic-income "Universal Basic Income"
@@ -204,8 +220,6 @@
 [protopoi org]: protopoi-org "Protopoi Org"
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
 [chestertons fence]: chestertons-fence "Chestertons Fence"
-[jonathan]: jonathan "Jonathan"
-[flancian]: flancian "Flancian"
 [place]: place "Place"
 [index]: index "index"
 [world]: world "World"
