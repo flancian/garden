@@ -1,7 +1,7 @@
 # Protopoi
 
 - The [[space]] of all possible [[protopias]].
-  - [[protopoi]] is just the plural of [[protopia]].
+  - [[protopoi]] is just the plural of [[protopia]] in [[greek]].
 - A [[project]] started with [[jonathan the utopian]] but [[open]] to all contributors.
   - I want us to explore [[m prime]] within the [[agora]] and with any other tools well suited for [[modelling]] [[incremental improvements]].
 - [[project]] [[protopoi reading club]]
