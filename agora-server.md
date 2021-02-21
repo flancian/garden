@@ -1,6 +1,8 @@
 # Agora Server
 
 - [[go]] https://github.com/flancian/agora-server
+- [[git]] https://github.com/flancian/agora-server
+- [[history]]  https://github.com/flancian/agora-server/commits/main
 - An implementation of the [[Agora Protocol]]; includes a web frontend and a simple backend. If you're reading this on anagora.org right now, you're using it.
 - Python3 based, uses Flask. Quite simple really.
 - It currently renders a collection of [[digital garden]]s as lazily assembled into a [[distributed knowledge graph]]. The graph is plug-and-play and is hosted in a different repository; that repository is the actual [[Agora]]. For the reference repository (which, again, you're likely viewing right now if you're on anagora.org), see https://flancia.org/go/agora.
