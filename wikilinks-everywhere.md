@@ -12,7 +12,7 @@
   - People could start using [[wikilinks]] on any platform that supports user generated [[content]] online, social networks being likely the most popular interfaces.
   - For the purpose of connecting to such platforms we'd like to develop an [[agora bridge]].
 - [[go]] https://docs.google.com/document/d/1h2kSuh7TntPj_XZ7BnLPDwtwshq7skzF3BIYwLgVquA/edit#
-- [[chat]] https://app.element.io/?pk_vid=2aa9ef53afdcaeaf1609608427b036f4#/room/#wikilinks:matrix.org
+- [[chat]] https://app.element.io/#/room/#wikilinks:matrix.org
 - [[tweet]] https://twitter.com/flancian/status/1337835415215202308
 
 
