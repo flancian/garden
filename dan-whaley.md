@@ -9,6 +9,7 @@
 - [[fedstoa]]
   - [[moa]]
     - [[bmann]], [[vera]]
+    - down with walled gardens :)
 - [[agora]]
   - [[wikilinks everywhere]]
     - library approach
