@@ -10,6 +10,8 @@
   - [[moa]]
     - [[bmann]], [[vera]]
     - down with walled gardens :)
+    - [[dan]] [[readwise]] is very interesting, talk to them. they are a small shop.
+    - [[siphons]]
 - [[agora]]
   - [[wikilinks everywhere]]
     - library approach
@@ -134,6 +136,7 @@
 [moa]: moa "Moa"
 [bmann]: bmann "Bmann"
 [vera]: vera "Vera"
+[siphons]: siphons "Siphons"
 [agora]: agora "Agora"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [memex]: memex "Memex"
