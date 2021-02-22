@@ -16,6 +16,7 @@
   - [[wikilinks everywhere]]
     - library approach
     - opportunity for [[hypothes.is]], [[memex]], [[promnesia]], [[agora]] collaboration likely
+    - [[karlicoss]]
 - [[roaman agora]]
 ## [[2020-12-23]]
 - [[readwise]] [[notion]] [[roam]] 
@@ -141,6 +142,7 @@
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [memex]: memex "Memex"
 [promnesia]: promnesia "Promnesia"
+[karlicoss]: karlicoss "Karlicoss"
 [2020-12-23]: journal/2020-12-23 "2020-12-23"
 [notion]: notion "Notion"
 [roam]: roam "Roam"
