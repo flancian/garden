@@ -8,8 +8,10 @@
 - Greetings!
 - [[fedstoa]]
   - [[moa]]
+    - [[bmann]], [[vera]]
 - [[agora]]
   - [[wikilinks everywhere]]
+    - library approach
     - opportunity for [[hypothes.is]], [[memex]], [[promnesia]], [[agora]] collaboration likely
 - [[roaman agora]]
 ## [[2020-12-23]]
@@ -129,6 +131,8 @@
 [2021-02-22]: journal/2021-02-22 "2021-02-22"
 [fedstoa]: fedstoa "Fedstoa"
 [moa]: moa "Moa"
+[bmann]: bmann "Bmann"
+[vera]: vera "Vera"
 [agora]: agora "Agora"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [memex]: memex "Memex"
