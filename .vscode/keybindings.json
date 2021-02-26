@@ -1,5 +1,26 @@
-{
-  "key": "ctrl+alt+s",
-  "command": "extension.multiCommand.execute",
-  "args": { "command": "multiCommand.syncAllFiles" },
-}
+[
+     {
+         "key": "ctrl+shift+b",
+         "command": "vscodeMarkdownNotesBacklinks.focus"
+     },
+     {
+         "key": "ctrl+alt+[",
+         "command": "workbench.action.navigateBack"
+     },
+     {
+         "key": "ctrl+alt+]",
+         "command": "workbench.action.navigateForward"
+     },
+     {
+         "key": "ctrl+shift+a",
+         "command": "git.commitAll"
+     },
+     {
+         "key": "ctrl+alt+v",
+         "command": "toggleVim"
+     },
+     {
+         "key": "ctrl+shift+s",
+         "command": "workbench.action.files.saveFiles"
+     }
+]
