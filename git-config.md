@@ -1,6 +1,8 @@
 # Git Config
 
-- git config --local commit.template .config/commit-template.txt
+```
+git config --local commit.template ~/.commit-template.txt
+```
 - [[pull]] [[git alias]]
 
 
