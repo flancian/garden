@@ -1,6 +1,7 @@
 # Open Home
 
 - [[go]] [[git]]
+- https://twitter.com/flancian/status/1365385997874323457
 - Viewable to members of the [[fedstoa]] only for now as it undergoes a security review.
   - [[git]] gitlab.com/flancian/open-home
 
