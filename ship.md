@@ -1,6 +1,6 @@
 # Ship
 
-- ```cat bin/ship```
+- A small [[script]]. I have it in bin/ship (~/bin is in my $PATH).
 ```
 #!/bin/sh -x
 git add -A
