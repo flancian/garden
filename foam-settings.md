@@ -4,6 +4,7 @@
   - Some changes to [[settings.json]] in your digital garden's ```.vscode``` directory.
   - Some changes to [[keybindings.json]] in your global (user scope) ```.config/Code/user/``` directory.
   - Optional additional [[git config]] to make submitting to your garden (and the [[agora]]) easier/less work.
+    - In particular, a [[commit template]] so that you don't need to write a change description when you want to save to the [[agora]].
 - [[push]] [[settings.json]]:
 ```
 "foam.openDailyNote.directory": "journal",
