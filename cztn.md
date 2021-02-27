@@ -1,5 +1,6 @@
 # Cztn
 
+- [[push]] [[ctzn]]
 - an [[agora]].
 - [[go]] [[git]]
 - [[git]] https://github.com/pfrazee/ctzn
