@@ -8,7 +8,7 @@
 - [[Every day]], I try to check for pending [[work]]:
   - Here.
   - in [[todo]] (deprecated)
-  - in [[next action]]
+  - [[pull]] in [[next action]]
 - [[sometimes]], check other common actions and push some part of them to [[do]] or [[next action]]:
   - [[read]]
   - [[write]]
@@ -29,6 +29,7 @@
 [daily]: daily "Daily"
 [work]: work "Work"
 [todo]: todo "Todo"
+[pull]: pull "Pull"
 [next action]: next-action "Next Action"
 [do]: do "Do"
 [read]: read "Read"
