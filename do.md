@@ -9,7 +9,7 @@
   - Here.
   - in [[todo]] (deprecated)
   - in [[next action]]
-- [[sometimes]]]], check other common actions and push some part of them to [[do]] or [[next action]]:
+- [[sometimes]], check other common actions and push some part of them to [[do]] or [[next action]]:
   - [[read]]
   - [[write]]
   - [[answer]]
