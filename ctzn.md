@@ -1,5 +1,10 @@
 # Ctzn
 
+- an [[agora]].
+- [[go]] [[git]]
+- [[git]] https://github.com/pfrazee/ctzn
+  - a [[distributed social network]] and [[science experiment]].
+  - by [[pfrazee]]
 - [[pull]] [[cztn]] [[a typo]]
 - [[pull]] [[citizen]]
 
