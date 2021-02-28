@@ -15,6 +15,12 @@
 - [[a pattern language for protopian processes]] 
 - languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
+### [[2021-02-28]]
+- [[presentation]] [[mtr master konzept v2021 02 21]]
+  - Want feedback on their impressions. Which images, thoughts they receive when the presentation takes place.
+  - Any red flags/warnings/concerns we should think about?
+  - Suggestions, materials, ideas that could help.
+
 ### [[2021-02-20]]
 
 - [[jitsi meet]]
@@ -204,6 +210,7 @@
 [meet]: meet "Meet"
 [bridges]: bridges "Bridges"
 [people]: people "People"
+[2021-02-28]: journal/2021-02-28 "2021-02-28"
 [2021-02-20]: journal/2021-02-20 "2021-02-20"
 [flancian]: flancian "Flancian"
 [graphs]: graphs "Graphs"

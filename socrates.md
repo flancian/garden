@@ -5,6 +5,7 @@
   - A [[role model]].
   - [[never wrote]].
 - A [[javascript library]].
+  - A universal query endpoint.
   - Lets you integrate any browser extension or website with any [[agora]].
 
 
