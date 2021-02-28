@@ -20,6 +20,26 @@
   - Want feedback on their impressions. Which images, thoughts they receive when the presentation takes place.
   - Any red flags/warnings/concerns we should think about?
   - Suggestions, materials, ideas that could help.
+- [[run 0]]
+  - project is called [[protopoi]]; a working title.
+  - "it feels different to discuss" -- perhaps discuss should have a direct object? it takes only indirect objects/qualifiers here.
+  - [[protopian questions]]
+    - what are visions of what I want or wish for?
+    - what are possibilities that I can imagine, for the near future or the present?
+    - what factors condition and inform my relationship to these questions?
+    - what are processes by which I can shape my interaction with these questions?
+    - in which ways can contrsuctive and collaborative first steps grow out of such processes?
+  - [[what I want to do]]
+    - this slide went over a bit fast?
+    - [[workshop formats]]
+    - [[pattern language]]
+  - [[wishes and interests]]
+    - perhaps start with 'with' and then do 'without'?
+      - without
+        - 'being overwhelmed' -> 'overwhelming'? it should match disengaging/disengaged
+        - limits of our knowledge
+        - 'bothers me' -> can bother people?
+      - with 
 
 ### [[2021-02-20]]
 
@@ -211,6 +231,7 @@
 [bridges]: bridges "Bridges"
 [people]: people "People"
 [2021-02-28]: journal/2021-02-28 "2021-02-28"
+[protopoi]: protopoi "Protopoi"
 [2021-02-20]: journal/2021-02-20 "2021-02-20"
 [flancian]: flancian "Flancian"
 [graphs]: graphs "Graphs"
@@ -227,7 +248,6 @@
 [christopher alexander reading group]: christopher-alexander-reading-group "Christopher Alexander Reading Group"
 [metasj]: metasj "Metasj"
 [karlicoss]: karlicoss "Karlicoss"
-[protopoi]: protopoi "Protopoi"
 [stoa]: stoa "Stoa"
 [protopoi org]: protopoi-org "Protopoi Org"
 [2021-01-23]: journal/2021-01-23 "2021-01-23"
