@@ -55,6 +55,16 @@
       - [[aside]] do you know [[keith johnstone]] / [[impro]]?
     - [[forms and shapes for social processes]]
       - [[shapes are formed by social agreements and structural constraints]] could be at the top?
+    - [[push]] [[bohmian dialogue]] framework
+      - distinction between [[discussion]] and [[dialogue]]
+      - [[be brief]]
+      - [[speak from the heart]]
+      - [[listen as you'd like to be listened to]]
+    - [[push]] [[pattern languages]]
+      - a design methodology which identifies and abstracts elementary design problems, along with possible solutions for them, and assembles them into a sort of alphabet to be used as a toolbook
+      - example: [[group works]]
+- overall
+  - there could have been a bit more meta: go over the structure of the presentation in 30s-60s at the beginning, so the audience knows what to expect.
 
 ### [[2021-02-20]]
 
@@ -248,6 +258,7 @@
 [2021-02-28]: journal/2021-02-28 "2021-02-28"
 [protopoi]: protopoi "Protopoi"
 [impro]: impro "Impro"
+[push]: push "Push"
 [2021-02-20]: journal/2021-02-20 "2021-02-20"
 [flancian]: flancian "Flancian"
 [graphs]: graphs "Graphs"
@@ -279,7 +290,6 @@
 [anirudh badri]: anirudh-badri "Anirudh Badri"
 [book club]: book-club "Book Club"
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
-[push]: push "Push"
 [quote]: quote "Quote"
 [the timeless way of building]: the-timeless-way-of-building "The Timeless Way of Building"
 [a pattern language]: a-pattern-language "A Pattern Language"
