@@ -63,6 +63,26 @@
     - [[push]] [[pattern languages]]
       - a design methodology which identifies and abstracts elementary design problems, along with possible solutions for them, and assembles them into a sort of alphabet to be used as a toolbook
       - example: [[group works]]
+        - for [[facilitators]] and other participants
+        - is this [[free]]?
+      - example: [[a pattern language]]
+    - [[loose pieces]] 
+      - thoughts and open questions
+      - [[poetics]] [[spoken word]]
+      - [[theater]]
+      - [[role playing]]
+      - [[tools]] [[wiki]]
+      - other [[projects]]
+        - locally [[ifkd]] [[dezentrum]] [[park platz]] [[urban equipe]]
+        - online [[protopoi network]]
+      - [[aside]] this is another slide that could benefit from a bit more structure.
+    - [[push]] [[protopoi]]
+      - [[questions]]
+        - how does success look like?
+        - how can we measure it or evaluate it?
+        - how to distinguish between something that effects positive change vs something that reinforces problems?
+        - what are ways that protopian processes could translate into actions / changes? 
+        - what are the tools we can use?
 - overall
   - there could have been a bit more meta: go over the structure of the presentation in 30s-60s at the beginning, so the audience knows what to expect.
 
@@ -259,6 +279,10 @@
 [protopoi]: protopoi "Protopoi"
 [impro]: impro "Impro"
 [push]: push "Push"
+[free]: free "Free"
+[a pattern language]: a-pattern-language "A Pattern Language"
+[tools]: tools "Tools"
+[wiki]: wiki "Wiki"
 [2021-02-20]: journal/2021-02-20 "2021-02-20"
 [flancian]: flancian "Flancian"
 [graphs]: graphs "Graphs"
@@ -292,7 +316,6 @@
 [armengolaltayo]: armengolaltayo "Armengolaltayo"
 [quote]: quote "Quote"
 [the timeless way of building]: the-timeless-way-of-building "The Timeless Way of Building"
-[a pattern language]: a-pattern-language "A Pattern Language"
 [notes on the synthesis of form]: notes-on-the-synthesis-of-form "Notes on the Synthesis of Form"
 [feedback]: feedback "Feedback"
 [agora plan]: agora-plan "Agora Plan"
