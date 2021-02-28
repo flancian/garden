@@ -1,5 +1,6 @@
 # Reading Alexander
 
+- [[git]] https://github.com/JonathanLoard/patterning
 - [[pull]] [[christopher-alexander-reading-group]]
 - [[pull]] [[a pattern language]] 
   - [[apl]]
@@ -7,12 +8,11 @@
   - [[notsof]]
 - [[pull]] [[the timeless way of building]]
   - [[ttwob]]
-- [[git]] https://github.com/JonathanLoard/patterning
 - [[dynamics]]
   - [[go]] https://lorand.earth/patterning/
     - [[initial meeting]] in late [[february 2020]]
     - [[personal]] and [[group]] note taking
-      - [[etherpad]] or [[wiki]]: unclear
+      - [[etherpad]] or [[wiki]] unclear
 - [[dropbox]] https://www.dropbox.com/sh/5rf0aq0hky456nz/AAAZi2LtJBWxHr7t-pFmuk-Pa?dl=0
 - [[2021-02-28]]
   - [[participants]]
