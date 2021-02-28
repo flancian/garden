@@ -30,7 +30,7 @@
     - [[architecture]]!
     - [[netherlands]]
   - [[ekin]]
-    - [[mtr]]
+    - [[mtr]] [[design]] [[visual arts]]
     - interested in [[mapping]]!
   - [[daniel]]
     - [[graphic design]], [[artistic practice]]
