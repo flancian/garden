@@ -53,6 +53,8 @@
     - [[beyond a discursive approach]]
       - too many slides titled "wishes and interests". "beyond a discursive approach" could be the title of this one?
       - [[aside]] do you know [[keith johnstone]] / [[impro]]?
+    - [[forms and shapes for social processes]]
+      - [[shapes are formed by social agreements and structural constraints]] could be at the top?
 
 ### [[2021-02-20]]
 
