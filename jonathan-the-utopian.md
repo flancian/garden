@@ -40,6 +40,19 @@
         - limits of our knowledge
         - 'bothers me' -> can bother people?
       - with 
+        - it would be interesting to insert "flash forwards" here: say which of these topics you'll expound on later in the presentation, which ones you intend to cover within your project later
+        - systemic organization: nice.
+    - [[complex topics]]
+      - nice
+      - went a bit fast as a slide
+      - how to generate a list of this type?
+    - pluralistic conception of protopia
+      - this slide seems a bit "flat"; it could be more tree-shaped perhaps?
+      - why is pluralistic separated from the rest by whitespace? unclear
+      - [[meaningful]] seems like it's important and could be more stressed
+    - [[beyond a discursive approach]]
+      - too many slides titled "wishes and interests". "beyond a discursive approach" could be the title of this one?
+      - [[aside]] do you know [[keith johnstone]] / [[impro]]?
 
 ### [[2021-02-20]]
 
@@ -232,6 +245,7 @@
 [people]: people "People"
 [2021-02-28]: journal/2021-02-28 "2021-02-28"
 [protopoi]: protopoi "Protopoi"
+[impro]: impro "Impro"
 [2021-02-20]: journal/2021-02-20 "2021-02-20"
 [flancian]: flancian "Flancian"
 [graphs]: graphs "Graphs"
