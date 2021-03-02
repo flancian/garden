@@ -1,6 +1,9 @@
 # Other Agoras
 
 - This is just an [[agora]]; there are many like it, and there could be many more.
+  - [[ctzn]]
+  - [[yubnub]]
+  - [[open syllabus]]
 - [[pull]] [[agora like]]
 - [[3np]] in [[hn]] pointed out other projects also named [[agora]]:
   - [[agora vote]] https://www.agora.vote/
