@@ -1,6 +1,6 @@
 # Distributed Knowledge Graph
 
-- A [[graph]] where [[nodes]] are [[entities]] and [[edges]] are [[logical relationships]].
+- A [[graph]] where [[nodes]] are [[entities]] and [[edges]] are [[social]], [[semantic]], [[logical]] [[relationships]].
 - [[go]] https://notes.knowledgefutures.org/pub/belji1gd/release/2
   - By [[underlay]].
 - The [[agora]] is built around one. 
