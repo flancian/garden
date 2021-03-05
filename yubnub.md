@@ -1,6 +1,7 @@
 # Yubnub
 
 - a [[project]]
+  - a [[social]] [[command line]] for the [[web]]
   - [[by]] [[jonathan aquino]]
 - an [[agora]].
   - [[agora search]] will try to cooperate with it.
