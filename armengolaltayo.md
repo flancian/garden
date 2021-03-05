@@ -3,6 +3,7 @@
 - A [[person]] 
 - [[twitter]] https://twitter.com/armengolaltayo
 - [[github]] https://github.com/danielarmengolaltayo
+  - [[git]] [[github]]
 - [[go]] https://armengol-altayo.com/
 - [[pull]] [[armengol]]
 - Founder of [[vewpoint]].
@@ -232,7 +233,7 @@
 [armengol]: armengol "Armengol"
 [vewpoint]: vewpoint "Vewpoint"
 [interplanetary mind map]: interplanetary-mind-map "Interplanetary Mind Map"
-[Agora]: agora "Agora"
+[agora]: agora "Agora"
 [agora go links integration]: agora-go-links-integration "Agora Go Links Integration"
 [the hyperlink delusion]: the-hyperlink-delusion "The Hyperlink Delusion"
 [push]: push "Push"
@@ -261,7 +262,6 @@
 [fediverse]: fediverse "Fediverse"
 [activitypub]: activitypub "ActivityPub"
 [rdf]: rdf "RDF"
-[fedwiki]: fed.wiki "Fed Wiki"
 [jerárquico]: jerárquico "Jerárquico"
 [wikilink]: wikilink "Wikilink"
 [naranja]: naranja "Naranja"
@@ -288,6 +288,7 @@
 [2020-11-28]: journal/2020-11-28 "2020-11-28"
 [vocdoni]: vocdoni "Vocdoni"
 [exuo]: exuo "Exuo"
+[Agora]: agora "Agora"
 [hypothes.is]: hypothesis "Hypothesis"
 [digital garden]: digital-garden "Digital Garden"
 [origin story]: origin-story "Origin Story"
