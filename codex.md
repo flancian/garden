@@ -3,6 +3,8 @@
 - A [[tool]] in the [[knowledge space]].
   - In closed [[beta]] as of [[2021-01-17]].
   - [[pull]] [[codexeditor]].
+  - [[patreon]] https://www.patreon.com/codexeditor
+  - [[go]] [[patreon]]
 - A [[person]] named Iian (with two Is) 
   - [[twitter]] https://twitter.com/codexeditor
   - A [[friend]].
@@ -16,6 +18,7 @@
 [2021-01-17]: journal/2021-01-17 "2021-01-17"
 [pull]: pull "Pull"
 [codexeditor]: codexeditor "Codexeditor"
+[go]: go "Go"
 [person]: person "Person"
 [twitter]: twitter "Twitter"
 [friend]: friend "Friend"
