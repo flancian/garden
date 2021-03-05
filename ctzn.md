@@ -7,6 +7,7 @@
   - an [[agora]].
 - [[pull]] [[cztn]] [[a typo]]
 - [[pull]] [[citizen]]
+- [[agora]] ctznry.com/agora@ctzn.one
 - [[ctznry]] ctznry.com
   - A particular implementation, a [[prototype]], of the [[protocol]].
   - <https://anagora.org/go/flancian/ctzn> for my profile.
