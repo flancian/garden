@@ -6,6 +6,7 @@
 - [[go]] pinafore.social
 - [[git]] [[github]]
   - [[github]] https://github.com/nolanlawson/pinafore
+  - [[js]] [[yarn]]
 - [[shortcuts]] https://pinafore.social/statuses/105601294254332553
 - [[bmann]] https://talk.fission.codes/t/pinafore-a-svelte-pwa-client-for-mastodon/1417
 
