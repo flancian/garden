@@ -4,6 +4,7 @@
   - [[ctzn]], found by [[sull]]
   - [[yubnub]], found by [[sull]]
   - [[open syllabus]], found by [[karlicoss]]
+  - [[satellite earth]], found by [[karlicoss]]
 - [[pull]] [[agora like]]
 - [[3np]] in [[hn]] pointed out other projects also named [[agora]]:
   - [[agora vote]] https://www.agora.vote/
