@@ -3,7 +3,7 @@
 - A [[person]] 
 - [[twitter]] https://twitter.com/armengolaltayo
 - [[github]] https://github.com/danielarmengolaltayo
-  - [[git]] [[to]] [[github]]
+  - [[git]] [[github]]
 - [[go]] https://armengol-altayo.com/
 - [[pull]] [[armengol]]
 - Founder of [[vewpoint]].
