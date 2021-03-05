@@ -1,7 +1,7 @@
 # Matrix
 
 - Federated chat network.
-- Successor to [[xmpp]] -- or that is the pitch.
+  - Successor to [[xmpp]] -- or that is the pitch.
 - I'm in Matrix: [[flancian]].
   - @flancian@matrix.org
 - [[element]] is the default client.
