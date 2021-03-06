@@ -46,9 +46,12 @@
   - [[flancian]] defaults to sharing all :)
     - [[armengol]] tries to understand *why* he wants to say something, what's behind it; to process, filter, etc.
   - example problem: where should we meet after this? been thinking about [[coordination problems]]; how we relate to [[digital information]].
-  - [[rules]] and [[principles]]
+  - thought about [[rules]] and [[principles]]
     - [[aside]] [[contract]], [[devine-lu-linvega]]'s [[a cheatsheet on discourse]]
     - [[identity principle]] -- in a digital context you are your information as shared in the [[digital ecosystem]]
+    - [[fashion]]
+      - [[barthes]]
+  - if we are planning on sharing a [[space]], imposing [[rules]] is a form of [[violence]]
 
 
 
