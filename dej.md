@@ -38,6 +38,10 @@
   - two [[threads]]:
     - what is stimulating from this vision
     - reflecting on the dangers
+- how did the presentation for the masters go?!
+  - a lot of the discussion that happened with the jury, in particular a philosopher, was centered around 
+  - "this project seems like it's situated in [[social design]] and it's important to read works in this space, concerning in particular to risks"
+  - western / colonial gestures / white savior
 
 
 
