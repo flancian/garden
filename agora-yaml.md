@@ -1,6 +1,7 @@
 # Agora Yaml
 
 - [[bmann]] suggested adding [[yaml]] support to the [[agora]].
+  - [[go]] https://github.com/bmann/bmcgarden/blob/master/agora.yaml
 - [[p0]]
   - It will [[unblock]] many things.
   - It is a valuable [[design contribution]] from [[bmann]].
@@ -13,6 +14,7 @@
 [bmann]: bmann "Bmann"
 [yaml]: yaml "Yaml"
 [agora]: agora "Agora"
+[go]: go "Go"
 [digital garden]: digital-garden "Digital Garden"
 [push]: push "Push"
 [idea]: idea "Idea"
