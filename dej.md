@@ -43,7 +43,10 @@
   - "this project seems like it's situated in [[social design]] and it's important to read works in this space, concerning in particular to risks"
   - western / colonial gestures / white saviour complex
 - [[armengol]] the problem of getting things into [[shareable]] state
-  - share all :)
+  - [[flancian]] defaults to sharing all :)
+    - [[armengol]] tries to understand *why* he wants to say something, what's behind it; to process, filter, etc.
+  - example problem: where should we meet after this? been thinking about [[coordination problems]]; how we relate to [[digital information]].
+  - [[rules]]
 
 
 
