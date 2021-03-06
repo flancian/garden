@@ -62,14 +62,22 @@
         - relevant principles:
           - there is no absolute truth
           - reality can be described from many valid subjective perspectives
-- [[push]] [[armengol principles]]
+- [[push]] [[armengol principles]] based on our relationship with information in a digital context
   - [[identity]]
     - [[you are your information as manifested]]
   - [[individuality]]
     - [[each individual has different needs]]
   - [[linkage]] (connectivity?)
     - [[we are a network]]
-  - 
+  - [[contract]] (spatiality?)
+    - communication is only possible when you share common spaces
+  - [[origin]] (synchronicity?)
+    - every piece of information has been created at a moment in time
+  - [[accumulation]] (historicity?)
+    - you can not change the past -- append only
+  - [[meaning]] (diachronicity?)
+    - you can only connect the dots looking backwards
+
 
 
 
