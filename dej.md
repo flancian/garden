@@ -67,6 +67,8 @@
     - [[you are your information as manifested]]
   - [[individuality]]
     - [[each individual has different needs]]
+  - [[linkage]] (connectivity?)
+    - [[we are a network]]
   - 
 
 
