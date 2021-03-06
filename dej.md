@@ -56,6 +56,12 @@
   - [[principles]] are a common understanding of something. they can be used in subsets with a purpose.
     - principles could be in [[contract]]
     - when people interact, they try to follow all [[contracts]]
+  - [[a cheatsheet on discourse]]
+    - three gates
+      - [[is it true]]
+        - relevant principles:
+          - there is no absolute truth
+          - reality can be described from many valid subjective perspectives
 
 
 
