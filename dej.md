@@ -51,7 +51,7 @@
     - [[identity principle]] -- in a digital context you are your information as shared in the [[digital ecosystem]]
     - [[fashion]]
       - [[barthes]]
-  - if we are planning on sharing a [[space]], imposing [[rules]] is a form of [[violence]]
+  - if we are planning on sharing a [[space]], imposing [[rules]] can be a form of [[violence]]; you are limiting and bending other people's identities
 
 
 
