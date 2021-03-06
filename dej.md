@@ -52,6 +52,10 @@
     - [[fashion]]
       - [[barthes]]
   - if we are planning on sharing a [[space]], imposing [[rules]] can be a form of [[violence]]; you are limiting and bending other people's identities
+    - rules for the self converges to [[free will]]
+  - [[principles]] are a common understanding of something. they can be used in subsets with a purpose.
+    - principles could be in [[contract]]
+    - when people interact, they try to follow all [[contracts]]
 
 
 
