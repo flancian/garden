@@ -1,7 +1,7 @@
 # An Agora
 
 - This is just one particular agora. There are many like it.
-- This one just happens to try to list all of them.
+- This one just happens to try to [[list]] all of them.
 - [[pull]] [[agoras]] [[other agoras]]
 
 
