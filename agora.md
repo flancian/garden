@@ -1,6 +1,6 @@
 # Agora
 
-- The Agora is a distributed knowledge graph and experimental social network.
+- **The Agora is a distributed knowledge graph and experimental social network.**
   - As an Agora *guest* you can currently:
     - Navigate the Agora, which is composed of [[nodes]] which aggregate content from many users about the same topic or entity.
     - Make use of [[backlinks]] and [[pulled nodes]] to discover relevant content.
