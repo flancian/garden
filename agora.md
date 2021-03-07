@@ -30,6 +30,8 @@
   - See also: [[wikilinks everywhere]]. 
 - [[go]] flancia.org/agora
 - [[git]] github.com/flancian/agora
+- [[bugs]] https://github.com/flancian/agora/issues
+- [[bug]] https://github.com/flancian/agora/issues/new
 - [[server]] github.com/flancian/agora-server
 - [[pull]] [[agora editor]] [[agora client]]
 - There are [[other agoras]].
@@ -67,6 +69,7 @@
 [agora protocol]: agora-protocol "Agora Protocol"
 [wikilinks everywhere]: wikilinks-everywhere "Wikilinks Everywhere"
 [go]: go "Go"
+[bugs]: bugs "Bugs"
 [pull]: pull "Pull"
 [agora editor]: agora-editor "Agora Editor"
 [agora client]: agora-client "Agora Client"

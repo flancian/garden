@@ -2,7 +2,7 @@
 
 - [[go]] https://github.com/flancian/agora-server
 - [[git]] https://github.com/flancian/agora-server
-- [[bugs]] https://github.com/flancian/agora-server/issue
+- [[bugs]] https://github.com/flancian/agora-server/issues
 - [[bug]] https://github.com/flancian/agora-server/issues/new
 - [[history]]  https://github.com/flancian/agora-server/commits/main
 - An implementation of the [[Agora Protocol]]; includes a web frontend and a simple backend. If you're reading this on anagora.org right now, you're using it.
