@@ -1,7 +1,7 @@
 # neauoire
 
 - [[pull]] [[devine-lu-linvega]]
-- [[go]] wiki.xxiivv.com
+- [[go]] https://merveilles.town/@neauoire
 - [[faq]] https://wiki.xxiivv.com/site/faqs.html
 
 
