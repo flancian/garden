@@ -6,8 +6,8 @@
     - The part that is willing to [[federate]]. 
     - The part that works for its [[users]].
     - The set of all [[open platforms]]
-- [[push]] [[fediverse.party]]
-    - [[go]] https://fediverse.party/en/portal/servers
+- [[pull]] [[fediverse.party]]
+  - [[go]] https://fediverse.party/en/portal/servers
 - The [[agora]] is part of the [[federation]].
 
 
@@ -16,6 +16,7 @@
 [push]: push "Push"
 [fediverse]: fediverse "Fediverse"
 [users]: users "Users"
+[pull]: pull "Pull"
 [fediverse.party]: fediverse "Fediverse"
 [go]: go "Go"
 [agora]: agora "Agora"
