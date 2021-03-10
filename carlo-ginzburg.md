@@ -3,7 +3,7 @@
 - a [[person]]
   - [[italian]] [[historian]]
 - [[luciana]] me contó de él.
-  - [[el queso y los gusanos]] == [[es]]
+  - [[it]] [[il formgagio e i vermi]] == [[es]] [[el queso y los gusanos]]
     - [[el cosmos según un molinero del siglo xvi]]
 
 
