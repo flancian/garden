@@ -1,5 +1,7 @@
 # Protopoi Space
 
+- A [[space]].
+  - Dense with [[protopias]].
 - [[go]] protopoi.space
 
 
