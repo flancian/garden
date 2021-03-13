@@ -4,13 +4,15 @@
   - A [[bag of holding]].
   - [[equivalent]] to the knowledge and beauty contained therein.
 
-I'm writing a book. I call it [[Flancia]]. I try to have lofty ideals but it is only a [[draft]].
+I'm writing a book. I call it [[Flancia]]. I have lofty aspirations but it is only a [[draft]].
 
 It is currently just this: this note you're reading, and the links you follow in this platform, which I've partly put together as a gift for [[you]].
 
+- [[Building bridges]].
 - [[In Flancia there is an Agora]].
 - [[In Flancia there is no violence]].
-- [[Caramel city]].
+- [[In Flancia they practice open ethics]].
+- [[Towards caramel city]].
 - [[Against gag orders]].
 - [[Protopoi space]].
 - [[On the pedagogy of revolution]].
