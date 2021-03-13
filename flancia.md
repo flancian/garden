@@ -1,6 +1,7 @@
 # Flancia
 
 - [[go]] https://flancia.org
+- A [[book]].
 - A [[place]].
   - The land of the [[Flancians]].
   - It is a world much like ours in many ways, but in which everybody [[thrives]].
