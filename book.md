@@ -12,7 +12,7 @@ It is currently just this: this note you're reading, and the links you follow in
 - [[In Flancia there is no violence]].
 - [[Caramel city]].
 - [[Against gag orders]].
-- [[Protopoi]].
+- [[Protopoi space]].
 - [[On the pedagogy of revolution]].
 
 
