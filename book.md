@@ -4,10 +4,9 @@
   - A [[bag of holding]].
   - [[equivalent]] to the knowledge and beauty contained therein.
 
-I'm writing a book. I call it [[Flancia]].
+I'm writing a book. I call it [[Flancia]]. I try to have lofty ideals but it is only a [[draft]].
 
 It is only this: this note you're reading, and the links you follow in this platform, which I've partly put together as a gift for [[you]].
-
 
 - [[In Flancia there is an Agora]].
 - [[In Flancia there is no violence]].
