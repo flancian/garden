@@ -8,7 +8,7 @@ I'm writing a book. I call it [[Flancia]]. I have lofty aspirations, as usual, b
 
 In lieu of a book, please consider this: this note you're reading, and the links you may choose to follow as embedded in this sometimes awkward medium, which I've put together as a gift for [[you]]. 
 
-These are the chapters of Flancia:
+These are the chapters:
 
 - [[Manifesto]].
 - [[On building bridges]].
