@@ -6,9 +6,9 @@
 
 I'm writing a book. I call it [[Flancia]]. I have lofty aspirations, as per usual, but it is really only a rough [[draft]].
 
-In lieu of a book, perhaps accept this: this note you're reading, and the links you may choose to follow as embedded in this sometimes awkward medium, which I've put together as a gift for [[you]]. 
+In lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you'll find them embedded in this sometimes awkward medium, which I've put together as a gift for [[you]]. 
 
-These are the chapters:
+These are the chapters of [[Flancia]]:
 
 - [[Manifesto]].
 - [[On building bridges]].
