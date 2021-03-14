@@ -1,7 +1,7 @@
 # Thrive
 
 - [[pull]] [[thriving]]
-- A [[right]] of all [[conscious]] [[entities]].
+- In [[Flancia]], the inalienable [[right]] of all [[conscious]] [[entities]].
   - A [[human right]].
 
 
