@@ -21,7 +21,7 @@ These are the chapters of Flancia:
 - [[In Protopoi Space]].
 - [[On the pedagogy of the revolution]].
 
-This is an offering for the [[people]]. 
+Consider this an offering for the [[people]]. 
 
 Have a nice day, and may you ever [[thrive]]!
 
