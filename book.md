@@ -2,7 +2,7 @@
 
 - A [[thing]].
   - A [[bag of holding]].
-  - [[equivalent]] or [[convergent]] to all the knowledge, art and beauty potentially contained therein or transitively derived.
+  - [[equivalent]] to or [[convergent]] with all the knowledge, art and beauty potentially contained therein or transitively derived.
 
 I'm writing a book. I call it [[Flancia]]. I have lofty aspirations, as per usual, but it is really only a rough [[draft]].
 
