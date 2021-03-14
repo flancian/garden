@@ -8,6 +8,8 @@ I'm writing a book. I call it [[Flancia]]. I have lofty aspirations but it is on
 
 It is currently just this: this note you're reading, and the links you follow in this platform, which I've partly put together as a gift for [[you]].
 
+These are the chapters of Flancia:
+
 - [[Building bridges]].
 - [[In Flancia there is an Agora]].
 - [[In Flancia there is no violence]].

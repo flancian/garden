@@ -9,7 +9,7 @@
   - The world of the [[Flancians]].
     - It is a world similar to ours but unlike. In [[Flancia]] everybody [[thrives]].
   - In Flancia there are many [[polis]].
-  - In Flancia there are many bolos [[bolo]].
+  - In Flancia there are some [[bolos]].
 - I am a [[Flancian]] and this is my manifesto:
   - In [[Flancia]] there is no [[poverty]].
   - In [[Flancia]] there is no [[privilege]].
@@ -30,7 +30,7 @@ Have I ever told you that in Flancia there is an [[Agora]]? I tell people often,
 [place]: place "Place"
 [thrives]: thrives "Thrives"
 [polis]: polis "Polis"
-[bolo]: bolo "Bolo"
+[bolos]: bolos "Bolos"
 [Flancian]: flancian "Flancian"
 [poverty]: poverty "Poverty"
 [privilege]: privilege "Privilege"
