@@ -21,7 +21,7 @@ These are the chapters:
 - [[Protopoi Space]].
 - [[On the pedagogy of the revolution]].
 
-Consider this an eternal offering for the [[people]]. 
+Consider this an offering to the [[people]]. 
 
 Have a nice day, and may you ever [[thrive]]!
 
