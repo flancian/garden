@@ -6,7 +6,7 @@
 
 I'm writing a book. I call it [[Flancia]]. I have lofty aspirations, as usual, but it is currently only a rough [[draft]].
 
-In lieu of a book, please consider this: this note you're reading, and the links you may choose to follow as embedded in this sometimes awkward medium, which I've put together as a gift for [[you]]. 
+In lieu of a book, perhaps accept this: this note you're reading, and the links you may choose to follow as embedded in this sometimes awkward medium, which I've put together as a gift for [[you]]. 
 
 These are the chapters:
 
@@ -18,10 +18,10 @@ These are the chapters:
 - [[Towards Caramel City]].
 - [[Against gag orders]].
 - [[Open Ethics]].
-- [[In Protopoi Space]].
+- [[Protopoi Space]].
 - [[On the pedagogy of the revolution]].
 
-Consider this an offering for the [[people]]. 
+Consider this an eternal offering for the [[people]]. 
 
 Have a nice day, and may you ever [[thrive]]!
 
