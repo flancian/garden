@@ -10,7 +10,6 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 
 These are the chapters of [[Flancia]]:
 
-- [[Manifesto]].
 - [[On building bridges]].
 - [[In Flancia there is an Agora]].
 - [[In Flancia there is no violence]].
@@ -20,6 +19,7 @@ These are the chapters of [[Flancia]]:
 - [[Open Ethics]].
 - [[Protopoi Space]].
 - [[On the pedagogy of the revolution]].
+- [[Manifesto]].
 
 Please consider this an offering to the [[people]].
 
