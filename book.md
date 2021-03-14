@@ -4,7 +4,7 @@
   - A [[bag of holding]].
   - [[equivalent]] to all the knowledge, art and beauty potentially contained or derived transitively therein.
 
-I'm writing a book. I call it [[Flancia]]. I have lofty aspirations, as usual, but it is currently only a rough [[draft]].
+I'm writing a book. I call it [[Flancia]]. I have lofty aspirations, as per usual, but it is really only a rough [[draft]].
 
 In lieu of a book, perhaps accept this: this note you're reading, and the links you may choose to follow as embedded in this sometimes awkward medium, which I've put together as a gift for [[you]]. 
 
