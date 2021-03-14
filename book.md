@@ -14,10 +14,11 @@ These are the chapters of Flancia:
 - [[On building bridges]].
 - [[In Flancia there is an Agora]].
 - [[In Flancia there is no violence]].
-- [[In Flancia there is no ruler but open ethics]].
-- [[Towards caramel city]].
+- [[In Flancia there are no rulers]].
+- [[Towards Caramel City]].
 - [[Against gag orders]].
-- [[In protopoi space]].
+- [[Open Ethics]].
+- [[In Protopoi Space]].
 - [[On the pedagogy of the revolution]].
 
 
