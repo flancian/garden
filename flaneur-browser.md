@@ -7,6 +7,9 @@
 - It ships with two [[assistants]]:
   - [[socrates]]
   - [[robofriend]]
+- It comes with power user features, like good support for web [[CLI]]s and [[scripting]].
+  - Users can share programmable [[actions]] in a [[market]]. [[macros]].
+  - Think 'join every website with spam auto-disabled for you'.
 - [[pull]] [[flaneur]]
 
 
