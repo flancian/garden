@@ -2,6 +2,7 @@
 
 - [[state]] as required or produced by a [[procedure]].
 - [[agora search]] runs queries within a context; that described by each [[node]].
+  - [[wikidata integration]]
 - [[idea]] [[browser extension]].
   - https://twitter.com/flancian/status/1232226838111498240
   - [[thread helper]]
