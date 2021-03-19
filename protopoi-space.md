@@ -1,6 +1,7 @@
 # Protopoi Space
 
 - A [[space]] dense with [[protopias]].
+  - an [[open source]] collection of ways to improve the world
 - [[go]] protopoi.space
   - should happen
   - let you view interesting embeddings
