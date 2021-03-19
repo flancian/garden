@@ -1,6 +1,7 @@
 # Wikilinks Everywhere
 
 - A [[project]]. [[open source]].
+  - [[pull]] [[we]]
 - The [[goal]] is to make [[wikilinks]] work everywhere on the internet.
   - A [[wikilink]] is any entity or phrase surrounded by two square brackets.
   - [[wikilinks]] can be [[lazily resolved]] in a user chosen [[context]].
