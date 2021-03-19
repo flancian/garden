@@ -1,7 +1,7 @@
 # Transclusion
 
 - A [[concept]]
-  - By good [[ted nelson]]
+  - by good [[ted nelson]]
   - [[go]] [[wp]]
   - [[wp]] https://en.wikipedia.org/wiki/Transclusion
 - A method for [[embedding]].
