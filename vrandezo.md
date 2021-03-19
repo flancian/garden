@@ -1,8 +1,10 @@
 # Vrandezo
 
 - A [[person]].
-- [[ontologist]]
-- [[pull]] [[denny vrandečić]]
+  - [[ontologist]]
+  - [[pull]] [[denny vrandečić]]
+  - One of the [[wikidata]] founders.
+  - [[wikimedia foundation]].
 - [[go]] https://de.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87
 - [[twitter]] twitter.com/vrandezo
 - [[quote]] [[optional conventions]] are [[templates]]
@@ -16,6 +18,7 @@
 [person]: person "Person"
 [pull]: pull "Pull"
 [denny vrandečić]: denny-vrandečić "Denny Vrandečić"
+[wikidata]: wikidata "Wikidata"
 [go]: go "Go"
 [twitter]: twitter "Twitter"
 [quote]: quote "Quote"
