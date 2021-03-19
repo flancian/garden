@@ -4,7 +4,7 @@
   - [[pull]] [[taylor rogalski]]
 - [[twitter]] twitter.com/tayroga
   - [[minimum viable opus]]
-  - https://wiki.c2.com/?PersonalDynamicMedia
+  - [[personal dynamic media]]
 - [[go]] archive.house
 
 
