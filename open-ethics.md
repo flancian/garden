@@ -1,5 +1,6 @@
 # Open Ethics
 
+- [[open source]] for [[humans]].
 - Applying the spirit of [[open source]] to our lives.
   - Being fully explicit within our capabilities.
 - To [[do]] what you [[say]].
