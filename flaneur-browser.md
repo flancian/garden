@@ -8,8 +8,9 @@
   - [[socrates]]
   - [[robofriend]]
 - It comes with power user features, like good support for web [[CLI]]s and [[scripting]].
-  - Users can share programmable [[actions]] in a [[market]]. [[macros]].
-  - Think 'join every website with spam auto-disabled for you'.
+  - Users can share programmable [[actions]] in a [[market]]. [[macros]]. Think:
+  - Think [[join a website with spam auto-disabled for you]]
+  - Think [[auto cancel subscriptions]]
 - [[pull]] [[flaneur]]
 
 
