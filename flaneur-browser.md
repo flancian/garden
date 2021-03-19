@@ -1,7 +1,7 @@
 # Flaneur Browser
 
 - A [[web]] [[browser]] that doesn't exist, but could.
-  - It may be a [[future project]]; or it might just be that it its principles are [[embodied]] by an existing browser, like [[firefox]].
+  - It might be a [[future project]]; or it might just be that it its principles are [[embodied]] by an existing browser, like [[firefox]].
 - It is a proper [[user agent]]. It has the interests of [[users]] first and foremost.
   - It is developed by a group who believes users, those being actual human individuals, should take back control of the internet from problematic corporations.
 - It ships with two [[assistants]]:
