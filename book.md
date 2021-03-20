@@ -14,6 +14,7 @@ These are the chapters of [[Flancia]]:
 - [[In Flancia there is an Agora]].
 - [[In Flancia there is no violence]].
 - [[In Flancia there are no rulers]].
+- [[In an Agora there are many Stoas]].
 - [[Towards Caramel City]].
 - [[Against gag orders]].
 - [[Open Ethics]].
