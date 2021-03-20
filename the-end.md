@@ -1,7 +1,7 @@
 # the end
 
 - a [[track]]
-  - [[by]] [[schlomo]]
+  - [[by]] [[shlohmo]]
   - [[spotify]] https://open.spotify.com/album/4vjDYT5nXgLn12luv3mGjZ?autoplay=true
   - [[yt]] https://www.youtube.com/watch?v=qfezuimoLZk
 - a [[song]]
