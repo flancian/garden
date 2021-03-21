@@ -20,6 +20,9 @@
   - [[search]]
   - [[research]]
     - [[ipfs]]
+    - [[ipld]]
+    - [[fission]]
+    - [[hypercore-proto]]
     - [[launchlet]]
     - [[urbit]]
   - [[send]]
@@ -49,6 +52,9 @@
 [search]: search "Search"
 [research]: research "Research"
 [ipfs]: ipfs "Ipfs"
+[ipld]: ipld "Ipld"
+[fission]: fission "Fission"
+[hypercore-proto]: hypercore-proto "Hypercore Proto"
 [launchlet]: launchlet "launchlet"
 [urbit]: urbit "urbit"
 [implement]: implement "implement"
