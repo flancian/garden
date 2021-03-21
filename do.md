@@ -21,6 +21,7 @@
   - [[research]]
     - [[ipfs]]
     - [[launchlet]]
+    - [[urbit]]
   - [[send]]
     - [[money]] to [[effective altruism]]
   - [[implement]]
@@ -49,6 +50,8 @@
 [research]: research "Research"
 [ipfs]: ipfs "Ipfs"
 [launchlet]: launchlet "launchlet"
+[urbit]: urbit "urbit"
+[implement]: implement "implement"
 [buy]: buy "Buy"
 [plan]: plan "Plan"
 [pull]: pull "Pull"
