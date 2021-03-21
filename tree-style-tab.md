@@ -4,8 +4,6 @@
   - [[go]] https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
   - by [[pyro]]
   
-## Agora
-
 I bound alt-w to show/hide
 ctrl-shift-a to jump to "manage extension shortcuts" in firefox
 
