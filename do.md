@@ -10,7 +10,7 @@
   - in [[todo]] (deprecated)
     - clean up items, move elsewhere
   - in [[next action]]
-    - [[next action]]: pick task from https://twitter.com/flancian/status/1372986224495968266
+    - [[next action]]: pick task from https://twitter.com/flancian/status/1372972668547432450
 - [[weekly]], check other common actions and push some part of them to [[do]] or [[next action]]:
   - [[read]]
   - [[write]]
