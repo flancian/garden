@@ -23,7 +23,7 @@
 - In [[agora server]], `/search` / `/exec` does the following:
   - It takes a query string in argument 'q' (sort of standard).
   - It optionally tokenizes the query string (unsure if this is the right stage for tokenizing, or tokenization should be done ad-hoc by search providers to allow for domain-specific tweaks).
-  - It offers the query string or the tokens to [[search providers]], essentially hooks that volunteer [[actions]] or [[results]] -- perhaps as bidss in a distributed system modelled as a market (later).
+  - It offers the query string or the tokens to [[search providers]], essentially hooks that volunteer [[actions]] or [[results]] -- perhaps as bids in a distributed system modelled as a market (later).
   - It scores the alternatives and either chooses one for the user (based on programmable rules) or presents them as alternatives.
   - The default action is 'redirect to the agora node matching/encoding the query'.
   - Also supported currently: 
