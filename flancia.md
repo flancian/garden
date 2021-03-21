@@ -15,7 +15,10 @@
   - In [[Flancia]] there is no [[privilege]].
   - In [[Flancia]] we will one day [[meet]].
 - A [[playlist]]: https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
-- Flancia is a world in which everybody tries to act rationally, honestly, charitably, compassively.
+- A [[world]]
+  - In which people try to act honestly, charitably, compassively, ethically, rationally.
+  - In which everybody [[thrives]].
+  - In which everybody [[flourishes]].
   - You can help others by volunteering [[time]] and [[resources]] as you can. By being [[solidary]].
   - You can help others by trying to [[change the world]].
   - You can help others by [[being open]].
@@ -36,6 +39,7 @@ Have I ever told you that in Flancia there is an [[Agora]]? I tell people often,
 [poverty]: poverty "Poverty"
 [privilege]: privilege "Privilege"
 [meet]: meet "Meet"
+[world]: world "World"
 [time]: time "Time"
 [solidary]: solidary "Solidary"
 [change the world]: change-the-world "Change the World"
