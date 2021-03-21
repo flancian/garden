@@ -5,6 +5,7 @@
 - [[p0]]
   - It will [[unblock]] many things.
   - It is a valuable [[design contribution]] from [[bmann]].
+  - https://github.com/flancian/agora/issues/2
 - If you add an ```agora.yaml``` to your [[digital garden]] repository you can use it to configure how the [[agora]] integrates it.
 - [[push]] [[agora feature requests]]
   - [[idea]] take [[blog posts]] like https://github.com/bmann/bmcgarden/blob/master/_posts/blog/2011-10-11-turning-the-corner-on-ebook-buying.md and integrate them into the date-stripped node, plus perhaps a link from within the date ([[2011-10-11]] in this example).
