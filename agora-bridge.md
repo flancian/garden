@@ -12,8 +12,8 @@
       - The default [[output]] bridge is to a filesystem as per [[git pull]].
     - A per user [[agora yaml]] can be volunteered -- as part of a [[digital garden]] if the user participates in an [[agora]] community). This file serves to configure an agora for the user. [[agora actions]] may then take place, including on demand rendering through [[agora server]] and running of [[agora actions]].
       - Signing up to an [[agora]] involves pointing an [[agora bridge]], run by you or by a community, to your configuration file as published somewhere on the internet.
-  - Please join us in our [matrix room](anagora.org/go/agora/chat) if you have any questions.
-  - For developers, feel free to send a PR adding your garden! Or reach out in our [development room](anagora.org/go/agora-development/chat).
+    - Please join us in our [matrix room](anagora.org/go/agora/chat) if you have any questions.
+    - For developers, feel free to send a PR adding your garden! Or reach out in our [development room](anagora.org/go/agora-development/chat).
 - [[contains]]
   - [[agora]]
     - [[agora bot]]
