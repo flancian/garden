@@ -7,7 +7,7 @@
 - A [[place]].
   - You could very well think of it as a [[place]] in my mind. 
   - The world of the [[Flancians]].
-    - It is a world similar to ours but unlike. In [[Flancia]] everybody [[thrives]].
+  - It is a world similar to ours but also much unlike.
   - In Flancia there are many [[polis]].
   - In Flancia there are some [[bolos]].
     - I am a [[Flancian]] and this is my manifesto:
@@ -40,7 +40,6 @@ https://twitter.com/flancian/status/1373677818312278016
 [Flancia]: flancia "Flancia"
 [protopia]: protopia "Protopia"
 [place]: place "Place"
-[thrives]: thrives "Thrives"
 [polis]: polis "Polis"
 [bolos]: bolos "Bolos"
 [Flancian]: flancian "Flancian"
@@ -48,6 +47,7 @@ https://twitter.com/flancian/status/1373677818312278016
 [privilege]: privilege "Privilege"
 [meet]: meet "Meet"
 [world]: world "World"
+[thrives]: thrives "Thrives"
 [time]: time "Time"
 [solidary]: solidary "Solidary"
 [being open]: being-open "Being Open"
