@@ -26,7 +26,7 @@
     - They help others by [[being open]].
     - They help others by [[forgiving]] them.
     - They help others by never giving up on trying to [[change the world]] for [[good]].
-    - In [[Flancia]] you and me start a [[revolution]].
+    - In [[Flancia]] you and me join a [[revolution]].
     - https://twitter.com/flancian/status/1355193365046898689
 - Have I ever told you that in Flancia there is an [[Agora]]?
 
