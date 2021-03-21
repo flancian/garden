@@ -17,8 +17,13 @@
 
 ### [[2021-03-21]]
 - [[motivation]]
-  - unstability -> not feeling at home, not identifying with work or study completely
+  - unstability -> not feeling at home, not identifying with work
 - [[getting old]]
+- [[happy birthday]]
+- https://en.wikipedia.org/wiki/Shibboleth
+- https://tel.search.ch/zuerich/uraniastrasse-11/urs-federspiel-2
+- urs federspiel
+- https://www.berlinerfestspiele.de/en/berliner-festspiele/programm/bfs-gesamtprogramm/programmdetail_338325.html
 
 ### [[2021-02-28]]
 - [[presentation]] [[mtr master konzept v2021 02 21]]
