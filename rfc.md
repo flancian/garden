@@ -1,7 +1,7 @@
 # rfc
 
-- [[pull]] [[request for comments]]
-- [[pull]] [[rfcs]]
+- [[pull]] https://en.wikipedia.org/wiki/List_of_RFCs
+- [[pull]] [[request for comments]] [[rfcs]]
 - [[agora protocol]] https://social.coop/@flancian/105928877148027199
 - [[qr]] https://twitter.com/flancian/status/1373696110372478980
 
