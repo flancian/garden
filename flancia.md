@@ -14,7 +14,6 @@
   - In [[Flancia]] there is no [[poverty]].
   - In [[Flancia]] there is no [[privilege]].
   - In [[Flancia]] we will one day [[meet]].
-- A [[playlist]]: https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 - A [[world]]
   - In which people try to act [[honestly]], [[charitably]], [[compassively]], [[ethically]], [[pro-socially]],[[ cooperatively]], [[rationally]].
   - In which everybody [[thrives]].
@@ -30,6 +29,7 @@
 - Have I ever told you that in Flancia there is an [[Agora]]?
 
 ## The Agora
+[[playlist]]: https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 https://twitter.com/flancian/status/1355193365046898689
 https://twitter.com/flancian/status/1373677818312278016
 
