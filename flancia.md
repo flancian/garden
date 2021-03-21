@@ -14,6 +14,7 @@
   - In [[Flancia]] there is no [[poverty]].
   - In [[Flancia]] there is no [[privilege]].
   - In [[Flancia]] we will one day [[meet]].
+- A [[playlist]]: https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 - Flancia is a world in which everybody tries to act rationally, honestly, charitably, compassively.
   - You can help others by volunteering [[time]] and [[resources]] as you can. By being [[solidary]].
   - You can help others by trying to [[change the world]].
