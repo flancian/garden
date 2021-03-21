@@ -15,6 +15,11 @@
 - [[a pattern language for protopian processes]] 
 - languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
+### [[2021-03-21]]
+- [[motivation]]
+  - unstability -> not feeling at home, not identifying with work or study completely
+- [[getting old]]
+
 ### [[2021-02-28]]
 - [[presentation]] [[mtr master konzept v2021 02 21]]
   - Want feedback on their impressions. Which images, thoughts they receive when the presentation takes place.
@@ -275,6 +280,7 @@
 [meet]: meet "Meet"
 [bridges]: bridges "Bridges"
 [people]: people "People"
+[2021-03-21]: 2021-03-21 "2021-03-21"
 [2021-02-28]: journal/2021-02-28 "2021-02-28"
 [protopoi]: protopoi "Protopoi"
 [impro]: impro "Impro"
@@ -308,6 +314,7 @@
 [protopoi.com]: protopoi "Protopoi"
 [protopoi.coop]: protopoi "Protopoi"
 [place]: place "Place"
+[protopias]: protopias "protopias"
 [index]: index "index"
 [world]: world "World"
 [borges]: borges "Borges"
