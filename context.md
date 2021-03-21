@@ -5,10 +5,10 @@
   - [[wikidata integration]]
 - [[idea]] 
   - a [[protocol]].
-    - for the efficient and constructive transmission of context over the internet.
     - [[agora protocol]]
-    - [[the agora is a twitter app]]
-  - a [[platform]] and [[browser extension]].
+    - for the efficient and constructive transmission of context over the internet.
+  - a [[platform]] 
+    - and matching [[web extension]].
     - implementing [[wikilinks everywhere]] and [[agora protocol]].
     - https://twitter.com/flancian/status/1232226838111498240
     - seeks pro-social integration with the [[federation]].
@@ -18,7 +18,6 @@
 [procedure]: procedure "Procedure"
 [node]: node "Node"
 [idea]: idea "Idea"
-[the agora is a twitter app]: the-agora-is-a-twitter-app "The Agora Is a Twitter App"
 [browser extension]: browser-extension "Browser Extension"
 [federation]: federation "Federation"
 [thread helper]: thread-helper "Thread Helper"
