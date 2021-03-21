@@ -10,10 +10,10 @@
   - It is a world similar to ours but also much unlike.
   - In Flancia there are many [[polis]].
   - In Flancia there are some [[bolos]].
-    - I am a [[Flancian]] and this is my manifesto:
-      - In [[Flancia]] there is no [[poverty]].
-      - In [[Flancia]] there is no [[privilege]].
-      - In [[Flancia]] we will one day [[meet]].
+  - I am a [[Flancian]] and this is my manifesto:
+    - In [[Flancia]] there is no [[poverty]].
+    - In [[Flancia]] there is no [[privilege]].
+    - In [[Flancia]] we will one day [[meet]].
 - A [[world]]
   - In which people try to act [[honestly]], [[charitably]], [[compassively]], [[ethically]], [[pro-socially]],[[ cooperatively]], [[rationally]].
   - In which everybody [[thrives]].
