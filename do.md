@@ -6,8 +6,10 @@
 - [[next action]]: pick task from https://twitter.com/flancian/status/1372986224495968266
 - [[every day]], I try to check for pending [[work]]:
   - here
+    - clean up old pushes
   - in [[daily]]
   - in [[todo]] (deprecated)
+    - clean up items, move elsewhere
   - in [[next action]]
 - [[weekly]], check other common actions and push some part of them to [[do]] or [[next action]]:
   - [[read]]
