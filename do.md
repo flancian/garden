@@ -7,10 +7,8 @@
   - [[answer email]] 
   - [[agora yaml]]
 - [[daily]], try to check for pending [[work]]:
-  - here
-    - clean up old pushes
-  - in [[todo]] (deprecated)
-    - clean up items, move elsewhere
+  - in [[todo]]
+    - clean up items there and pushes, try move closer to a [[context]].
 - [[weekly]], check the context in more specific actions and push relevant items here or to [[next action]]:
   - [[read]]
   - [[write]]
