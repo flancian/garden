@@ -5,7 +5,7 @@
   - [[philosopher]] [[role model]].
   - [[never wrote]].
 - A [[javascript library]].
-  - A universal query endpoint.
+  - A universal query endpoint manager.
   - Lets you integrate any browser extension or website with the [[knowledge bases]] of your choice.
 
 
