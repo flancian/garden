@@ -4,5 +4,6 @@
   - [[white noise]]
   - [[gray noise]]
   - [[pink noise]]
-  - [[brown nose]]
+  - [[brown noise]]
+- What's your favorite color?
 
