@@ -1,7 +1,7 @@
 # Write
 
 - An [[action]].
-- See [[do]].
+  - See [[do]].
 - [[write]] to [[will walker]]
 - [[write]] to [[jeff tang]]
 - [[write]] to [[hawns widmer]]
