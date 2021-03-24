@@ -7,7 +7,7 @@
   - What is the most urgent thing I need to solve? Is there anything I would want to have done later today? Check my calendar now.
   - Have I reviewed my [[daily]] routine?
   - Am I concentrated? Am I unable to focus?
-- [[push]] [[do]]
+- [[push]] [[todo]]
   - Build an [[agora]]
     - Assemble a [[distributed knowledge graph]].
       - A [[wikipedia]] of [[everyone]].

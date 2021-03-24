@@ -29,7 +29,8 @@
 - Have I ever told you that in Flancia there is an [[Agora]]?
 
 ## The Agora
-[[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+
 https://twitter.com/flancian/status/1355193365046898689
 https://twitter.com/flancian/status/1373677818312278016
 
@@ -47,6 +48,7 @@ https://twitter.com/flancian/status/1373677818312278016
 [privilege]: privilege "Privilege"
 [meet]: meet "Meet"
 [world]: world "World"
+[charitably]: charitably "charitably"
 [thrives]: thrives "Thrives"
 [time]: time "Time"
 [solidary]: solidary "Solidary"
