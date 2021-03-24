@@ -48,6 +48,7 @@ https://twitter.com/flancian/status/1373677818312278016
 [privilege]: privilege "Privilege"
 [meet]: meet "Meet"
 [world]: world "World"
+[charitably]: charitably "charitably"
 [thrives]: thrives "Thrives"
 [time]: time "Time"
 [solidary]: solidary "Solidary"
