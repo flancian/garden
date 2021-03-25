@@ -9,7 +9,7 @@
 - What's your [[favorite color]]?
   - I wonder what [[black]] and [[red]] noise sound like.
     - [[true colours]]
-  - My favourite are probably [[white noise]] and [[brown noise]]. They both sound a bit like waterfalls, the second sounding lower pitched like a booming low frequency resonance.
+  - My favourites are probably [[grey noise]] and [[brown noise]]. They both sound a bit like waterfalls, the second sounding lower pitched / "booming".
   - It turns out that [[red]] is usually a synonym of [[brown]], which in turn actually means [[brownian]].
 
 
