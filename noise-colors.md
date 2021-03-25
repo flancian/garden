@@ -2,8 +2,11 @@
 
 - a [[list]]
   - [[white noise]]
+    - uniform frequency
   - [[gray noise]]
+    - the above but adjusted to our psychoacoustic model so it *sounds* uniform
   - [[brown noise]]
+    - generated with a model that approximates [[brownian motion]]
   - [[pink noise]]
   - [[pull]] [[colors of noise]]
 - What's your [[favorite color]]?
