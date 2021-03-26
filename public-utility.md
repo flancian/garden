@@ -2,7 +2,7 @@
 
 - This [[agora]] tries to run projects of [[public utility]].
   - Contribute to the well being of the [[open source]] [[federation]] through the [[fedstoa]].
-    - Implement [[siphons]], like [[moa]], which give users back control over their own data or otherwise serve a desirable constructive [[intent]], meant to be of public utility.
+    - Implement [[bridges]], like [[moa]], which give users back control over their own data or otherwise try to fulfill a constructive [[intent]] of public utility.
     - Implement [[wikilinks everywhere]] and [[agora protocol]].
   - Do [[altruism]].
     - Contribute to projects for the [[common good]].
@@ -17,7 +17,7 @@
 [agora]: agora "Agora"
 [federation]: federation "Federation"
 [fedstoa]: fedstoa "Fedstoa"
-[siphons]: siphons "Siphons"
+[bridges]: bridges "Bridges"
 [moa]: moa "Moa"
 [intent]: intent "Intent"
 [revolution]: revolution "Revolution"
