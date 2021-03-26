@@ -2,7 +2,7 @@
 
 - This [[agora]] tries to run projects of [[public utility]].
   - Contribute to the well being of the [[open source]] [[federation]] through the [[fedstoa]].
-    - Implement [[bridges]], embeddable in [[moa]], which give users back control over their own data or otherwise try to fulfill a constructive [[intent]] of public utility.
+    - Implement [[bridges]], embeddable in [[moa]], which give users back control over their own data or otherwise try to fulfill a constructive [[intent]].
     - Implement [[wikilinks everywhere]] and [[agora protocol]].
   - Contribute to [[effective altruism]] and other projects for the [[greater good]].
     - Implement [[universal basic income]] experiments.
