@@ -1,0 +1,4 @@
+# auto push
+
+- [[pull]] [[autopush]]
+
