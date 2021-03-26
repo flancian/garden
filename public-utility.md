@@ -7,8 +7,9 @@
   - Contribute to [[effective altruism]] and other projects for the [[greater good]].
     - Implement [[universal basic income]] experiments.
     - Explore [[world improvement]]. Choose a way:
-      - As its members and cooperating [[society]] will it, with the voice of the majority being given the most weight.
-        - [[reform]]
+      - As its members and cooperative [[society]] will it, with the voice of the majority being given the most weight.
+        - [[democracy]]
+          - [[reform]]
       - As its members and cooperating [[society]] will it, with the voice of the most opressed being given the most weight.
         - [[revolution]]
       - As its members and cooperating [[society]] will it, with the voice of all rationally considered through [[liquid democracy]].
