@@ -5,9 +5,10 @@
     - Implement [[bridges]], embeddable in [[moa]], which give users back control over their own data or otherwise try to fulfill a constructive [[intent]] of public utility.
     - Implement [[wikilinks everywhere]] and [[agora protocol]].
   - Contribute to [[effective altruism]] and other projects for the [[greater good]].
-    - Explore projects in the general space of [[world improvement]].
+    - Explore [[world improvement]].
+      - As its members and cooperating [[society]] will it, with the voice of the most oppressed being heard. 
+        - [[revolution]]
       - [[reform]]
-      - [[revolution]]
       - [[protopoi]]
     - In particular support [[universal basic income]]. 
 
