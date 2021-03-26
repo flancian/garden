@@ -2,8 +2,9 @@
 
 - This [[agora]] tries to run projects of [[public utility]].
   - Contribute to the well being of the [[open source]] [[federation]] through the [[fedstoa]].
-    - Implement [[siphons]], like [[moa]].
-    - Implement [[wikilinks everywhere]] and other parts of the [[agora protocol]].
+    - Implement [[siphons]], like [[moa]], which give users back control over their own data.
+    - Implement the [[agora protocol]].
+       - [[wikilinks everywhere]]
   - Do [[altruism]].
     - Contribute to projects for the [[common good]].
     - Explore projects in the general space of [[world improvement]].
