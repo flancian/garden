@@ -1,10 +1,5 @@
 # Agora
 
-- The [[agora]] is a [[search engine]].
-  - You can use [[open search]] to add it to your browser while you're visiting it.
-  - You can have it as default search engine, like I sometimes do, or you can associate it with a prefix. I use 'a' and 'an'. Like in 'an entity'. 
-  - An [[algorithm]].
-  - [[an agora]].
 - **The Agora is a distributed knowledge graph and experimental social network.**
   - As an Agora *guest* you can currently:
     - Navigate the Agora, which is composed of [[nodes]] which aggregate content from many users about the same topic or entity.
@@ -14,6 +9,9 @@
     - Have relevant content be surfaced to you as you traverse your [[personal knowledge graph]].
     - Make use of [[agora actions]].
   - Anyone can run an Agora of their own if they so desire. This Agora is [[open source]].
+- The [[agora]] is a [[search engine]].
+  - You can use [[open search]] to add it to your browser while you're visiting it.
+  - You can have it as default search engine, like I sometimes do, or you can associate it with a prefix. I use 'a' and 'an'. Like in 'an entity'. 
 - *The [[agora]] is in the [[federation]]! Add it now: @agora@botsin.space.*
 - To [[sign up]] for the Agora, first you need to publish your [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
   - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]] or you have a notes database, you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
@@ -33,11 +31,13 @@
 - This Agora tries to be a good [[internet citizen]]. 
   - The [[agora protocol]] is openly developed and can be implemented by anyone.
   - See also: [[wikilinks everywhere]]. 
-- [[go]] flancia.org/agora
-- [[git]] github.com/flancian/agora
+- [[flancia]] https://flancia.org/agora
+- [[go]] [[git]]
+- [[git]] https://github.com/flancian/agora
+- [[server]] https://github.com/flancian/agora-server
+- [[bridge]] https://github.com/flancian/agora-server
 - [[bugs]] https://github.com/flancian/agora/issues
 - [[bug]] https://github.com/flancian/agora/issues/new
-- [[server]] github.com/flancian/agora-server
 - [[pull]] [[agora editor]] [[agora client]]
   - https://twitter.com/flancian/status/1356691340508221456
 - There are [[other agoras]].
