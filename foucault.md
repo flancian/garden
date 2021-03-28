@@ -1,0 +1,4 @@
+# foucault
+
+- c.f. [[derrida]]
+
