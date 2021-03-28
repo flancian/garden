@@ -6,6 +6,10 @@
   - Causes [[unhappiness]].
   - Causes [[violence]].
   - Causes [[pain]].
+- [[our world in data]]: https://ourworldindata.org/extreme-poverty
+  - 85% of the world live on less than $30 per day.
+  - 66% of the world live on less than $10 per day.
+  - 10% of people lives on less than $1.90 per day.
 - [[go]] http://encyclopedia.uia.org/en/problem/137378
   - [[Structural poverty]]
   - [[Rural poverty]]
