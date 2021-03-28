@@ -2,6 +2,8 @@
 
 - a [[list]]
   - [[pull]] [[digital garden]]
+  - https://github.com/logseq/awesome-logseq#community-knowledge-gardens
+  - [[pull]] [[digital gardeners]]
   
 https://twitter.com/logseq/status/1375845119056773126
 
