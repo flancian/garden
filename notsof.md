@@ -1,6 +1,7 @@
 # Notsof
 
 - [[pull]] [[notes-on-the-synthesis-of-form]]
+- [[old]] https://via.hypothes.is/stoa.anagora.org/notsof.pdf
 - [[go]] https://via.hypothes.is/stoa.anagora.org/notsof.pdf
 - [[systems]], [[models]]
 
