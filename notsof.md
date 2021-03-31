@@ -2,7 +2,7 @@
 
 - [[pull]] [[notes-on-the-synthesis-of-form]]
 - [[old]] https://via.hypothes.is/stoa.anagora.org/notsof.pdf
-- [[go]] <https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis>
+- [[go]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
 - [[systems]], [[models]]
 
 ## Introduction
