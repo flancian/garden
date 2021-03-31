@@ -6,9 +6,9 @@
 - Perhaps a good fit for an [[agora reading club]].
   - [[bmock]], [[EduneV]], [[seconds_0]], [[jonathan-the-utopian]], [[ablueaeshna]], [[naim]] are all interested.
   - See [[reading alexander]].
-- [[ipfs]] QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
+- [[ipfs]] ipfs://QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
 - [[old]] via.hypothes.is/ipfs.io/ipfs/QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
-- [[hypothesis]] via.hypothes.is/ipfs.io/ipfs/QmcWQb2wb2JQ74yyuiKth9UUe911pvjHW1ZghbF74dh6vg
+- [[hypothesis]] https://via.hypothes.is/https://stoa.anagora.org/ipfs/QmcWQb2wb2JQ74yyuiKth9UUe911pvjHW1ZghbF74dh6vg
 
 ## Patterns
 - [[45]] [[necklace of community projects]]
