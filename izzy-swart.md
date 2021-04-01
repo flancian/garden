@@ -8,6 +8,7 @@
   - [[github]] https://github.com/syntacticsugarglider
     - [[pull]] [[noocene]]
     - [[pull]] [[vessels]]
+    - [[pull]] [[welkin]]
   - [[go]] syntacticsugarglider.com
   - Had several significant chats with them.
     - https://social.coop/web/statuses/105991393093982600
