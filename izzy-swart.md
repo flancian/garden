@@ -4,6 +4,7 @@
   - [[pull]] [[syntacticsugarglider]]
   - a [[friend]]
   - [[coder]] with strong [[mathematical]] background
+  - [[language]] [[designer]]
   - [[merveilles]] https://merveilles.town/web/accounts/18164
   - [[github]] https://github.com/syntacticsugarglider
     - [[pull]] [[noocene]]
