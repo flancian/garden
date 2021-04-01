@@ -3,13 +3,15 @@
 - [[person]]
   - [[pull]] [[syntacticsugarglider]]
   - a [[friend]]
+  - [[coder]] with strong [[mathematical]] background
   - [[merveilles]] https://merveilles.town/web/accounts/18164
   - [[github]] https://github.com/syntacticsugarglider
     - [[pull]] [[noocene]]
     - [[pull]] [[vessels]]
   - [[go]] syntacticsugarglider.com
   - Had several significant chats with them.
-  - [[coder]] with strong [[mathematical]] background
+    - https://social.coop/web/statuses/105991393093982600
+
 
 
 
