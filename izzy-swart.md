@@ -9,7 +9,7 @@
     - [[pull]] [[vessels]]
   - [[go]] syntacticsugarglider.com
   - Had several significant chats with them.
-  - [[coder]] [[mathematician]]
+  - [[coder]] with strong [[mathematical]] background
 
 
 
