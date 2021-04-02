@@ -1,9 +1,10 @@
 # Digital Gardens
 
 - a [[list]]
-  - [[pull]] [[digital garden]]
-  - https://github.com/logseq/awesome-logseq#community-knowledge-gardens
+  - [[pull]] [[digital garden]] 
   - [[pull]] [[digital gardeners]]
+  - [[logseq]] https://github.com/logseq/awesome-logseq#community-knowledge-gardens
+  - [[obsidian]] 
   
 https://twitter.com/logseq/status/1375845119056773126
 
