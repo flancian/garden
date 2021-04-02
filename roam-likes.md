@@ -2,14 +2,19 @@
 
 - a [[list]]
   - [[pull]] [[roam like]]
-  - [[pull]] [[foam]]
-  - [[pull]] [[obsidian]]
-  - [[pull]] [[logseq]]
-  - [[pull]] [[dendron]]
-  - [[pull]] [[athens research]]
-  - [[pull]] [[remnote]]
-  - [[pull]] [[org mode]]
-  - [[pull]] [[tiddlyroam]]
+  - [[foam]]
+  - [[obsidian]]
+  - [[logseq]]
+  - [[dendron]]
+  - [[athens research]]
+  - [[remnote]]
+  - [[org mode]]
+  - [[tiddlyroam]]
+  - [[workflowy]]
+  - [[transno]]]]
+  - [[dynalist]]
+  - [[mubu]]
+  - [[lark]]
 - a [[blog post]] on flancia.org. 
   - [[go]] flancia.org/mine/roam-likes
 
