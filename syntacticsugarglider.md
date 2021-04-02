@@ -16,6 +16,7 @@
     - Had several significant chats with them.
       - https://social.coop/web/statuses/105991393093982600
   - [[mastodon]] https://merveilles.town/@syntacticsugarglider
+  - [[tz]] [[pt]]
 
 
 
