@@ -1,41 +1,40 @@
 # Do
 
-- A [[verb]].
-  - An [[action]] in the [[agora]].
+- An [[action]] in the [[agora]].
   - The root of my [[getting things done]] graph.
-- [[next action]] 
-  - [[answer email]] 
-  - [[agora yaml]]
-- [[daily]], try to check for pending [[work]]:
-  - in [[todo]]
-    - clean up items there and pushes, try move closer to a [[context]].
-- [[weekly]], check the context in more specific actions and push relevant items here or to [[next action]]:
-  - [[read]]
-  - [[write]]
-    - to [[a. p.]] asking for a recommendation
-  - [[answer]]
-    - [[will walker]]
-  - [[link]]
-  - [[search]]
-  - [[research]]
-    - [[ipfs]]
-    - [[ipld]]
-    - [[fission]]
-    - [[hypercore-proto]]
-    - [[launchlet]]
-    - [[urbit]]
-  - [[send]]
-    - [[money]] to [[effective altruism]]
-  - [[implement]]
-  - [[code]] 
-    - [[agora server]]
-    - [[wikilinks everywhere]]
-  - [[buy]]
-    - a [[laptop]] for my niece
-- On top of this idiosyncratic system I'm trying to execute a [[plan]].
-  - [[priorities]]
-- Please tell me what you think I should do next below. All feedback is welcome!
-
+  - [[next action]] 
+    - [[answer email]] 
+    - [[agora yaml]]
+  - [[daily]], try to check for pending [[work]]:
+    - in [[todo]]
+      - clean up items there and pushes, try move closer to a [[context]].
+  - [[weekly]], check the context in more specific actions and push relevant items here or to [[next action]]:
+    - [[read]]
+    - [[write]]
+      - to [[a. p.]] asking for a recommendation
+    - [[answer]]
+      - [[will walker]]
+    - [[link]]
+    - [[search]]
+    - [[research]]
+      - [[ipfs]]
+      - [[ipld]]
+      - [[fission]]
+      - [[hypercore-proto]]
+      - [[launchlet]]
+      - [[urbit]]
+    - [[send]]
+      - [[money]] to [[effective altruism]]
+    - [[implement]]
+    - [[code]] 
+      - [[agora server]]
+      - [[wikilinks everywhere]]
+    - [[buy]]
+      - a [[laptop]] for my niece
+  - On top of this idiosyncratic system I'm trying to execute a [[plan]].
+    - [[priorities]]
+  - Please tell me what you think I should do next below. All feedback is welcome!
+  
 https://twitter.com/flancian/status/1374462566395617286
 
 
