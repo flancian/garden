@@ -15,7 +15,7 @@
   - [[dynalist]]
   - [[mubu]]
   - [[lark]]
-- a [[blog post]] on flancia.org. 
+- a [[blog post]]
   - [[go]] flancia.org/mine/roam-likes
 
 https://twitter.com/theodorestrauss/status/1259981421382455297
