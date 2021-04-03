@@ -7,6 +7,7 @@
       - implementing provider model
       - support [[yubnub]] like particles
     - write [[on cringe]] / [[agora polls]]
+      - about explicit rational (mathematical) modelling of group dynamics through social media discourse
     - node [[paradox of tolerance]]
     - [[wikilinks everywhere]]
 - An [[action]] in the [[agora]].
