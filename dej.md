@@ -25,6 +25,14 @@
 - encoding information in [[dna]]
 - [[agora]]
 - [[jekyll]]
+- [[jonathan-the-utopian]] thesis update
+  - formats for groups processes
+  - have been participating in workshops
+  - doing reading
+    - [[roland barthes]]
+    - [[hannah arendt]]
+    - [[christopher alexander]]
+    - [[non violent communication]]
 
 ## [[2021-03-06]]
 - <https://anagora.org/go/meet>
