@@ -23,6 +23,9 @@
     - [[todoist]]
     - journaling in [[obsidian]]
 - encoding information in [[dna]]
+- [[agora]]
+- [[jekyll]]
+
 ## [[2021-03-06]]
 - <https://anagora.org/go/meet>
   - [[virtual spaces]], [[meeting points]], [[schelling point]]
@@ -118,6 +121,7 @@
 [armengol]: armengol "Armengol"
 [context]: context "Context"
 [obsidian]: obsidian "Obsidian"
+[agora]: agora "Agora"
 [2021-03-06]: journal/2021-03-06 "2021-03-06"
 [discord]: discord "Discord"
 [clubhouse]: clubhouse "Clubhouse"
@@ -130,7 +134,6 @@
 [governance]: governance "Governance"
 [athens]: athens "Athens"
 [ctzn]: ctzn "Ctzn"
-[agora]: agora "Agora"
 [jonathan]: jonathan "Jonathan"
 [contract]: contract "CONTRACT"
 [devine-lu-linvega]: devine-lu-linvega "Devine Lu Linvega"
