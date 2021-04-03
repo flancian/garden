@@ -5,6 +5,9 @@
 - [[pull]] [[jonathan-the-utopian]]
 - [[pull]] [[armengol-lorand]]
 
+## [[2021-04-03]]
+- Vacaciones vs trabajo en modo freelance
+- [[pointless]] two weeks ago
 ## [[2021-03-06]]
 - <https://anagora.org/go/meet>
   - [[virtual spaces]], [[meeting points]], [[schelling point]]
@@ -95,6 +98,7 @@
 [flancian]: flancian "Flancian"
 [jonathan-the-utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [armengol-lorand]: armengol-lorand "Armengol Lorand"
+[2021-04-03]: journal/2021-04-03 "2021-04-03"
 [2021-03-06]: journal/2021-03-06 "2021-03-06"
 [discord]: discord "Discord"
 [clubhouse]: clubhouse "Clubhouse"
