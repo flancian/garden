@@ -2,7 +2,13 @@
 
 - I'm trying to use [[pomodoro]] more. It signals an [[intent]].
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
-  - My current context intent: [[agora search]]
+  - My current running contexts or intent (they expand into a graph):
+    - [[agora search]]
+      - implementing provider model
+      - support [[yubnub]] like particles
+    - write [[on cringe]] / [[agora polls]]
+    - node [[paradox of tolerance]]
+    - [[wikilinks everywhere]]
 - An [[action]] in the [[agora]].
   - The root of my [[getting things done]] graph.
   - [[next action]] 
@@ -46,6 +52,7 @@ https://twitter.com/flancian/status/1374462566395617286
 [pomodoro]: pomodoro "Pomodoro"
 [intent]: intent "Intent"
 [later]: later "later"
+[yubnub]: yubnub "Yubnub"
 [action]: action "Action"
 [agora]: agora "Agora"
 [next action]: next-action "Next Action"
