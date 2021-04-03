@@ -4,7 +4,7 @@
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
   - My current running contexts or intent (they expand into a graph):
     - [[agora search]]
-      - implementing provider model
+      - implementing 
       - support [[yubnub]] like particles
     - write [[on cringe]] / [[agora polls]]
       - about explicit rational (mathematical) modelling of group dynamics through social media discourse
