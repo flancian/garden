@@ -7,7 +7,11 @@
 
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
-- [[pointless]] two weeks ago
+- [[push]] [[pointless]] 
+  - two weeks ago
+  - video on twitch
+  - edited version is coming
+- [[bitcoin]] -> altcoins -> ethereum -> [[ico]] -> [[nft]]?
 ## [[2021-03-06]]
 - <https://anagora.org/go/meet>
   - [[virtual spaces]], [[meeting points]], [[schelling point]]
@@ -99,6 +103,7 @@
 [jonathan-the-utopian]: jonathan-the-utopian "Jonathan the Utopian"
 [armengol-lorand]: armengol-lorand "Armengol Lorand"
 [2021-04-03]: journal/2021-04-03 "2021-04-03"
+[push]: push "Push"
 [2021-03-06]: journal/2021-03-06 "2021-03-06"
 [discord]: discord "Discord"
 [clubhouse]: clubhouse "Clubhouse"
@@ -116,7 +121,6 @@
 [armengol]: armengol "Armengol"
 [contract]: contract "CONTRACT"
 [devine-lu-linvega]: devine-lu-linvega "Devine Lu Linvega"
-[push]: push "Push"
 [identity]: identity "Identity"
 [communication]: communication "Communication"
 [do]: do "Do"
