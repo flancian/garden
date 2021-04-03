@@ -16,6 +16,10 @@
   - [[the work of art in the age of mechanical reproduction]]
 - [[hannah arendt]]
 - how to store [[context]] to recover mind states in the relatively distant future?
+- how do you handle todos/projects?
+  - [[jonathan-the-utopian]]
+    - [[todoist]]
+    - journaling in [[obsidian]]
 ## [[2021-03-06]]
 - <https://anagora.org/go/meet>
   - [[virtual spaces]], [[meeting points]], [[schelling point]]
@@ -109,6 +113,7 @@
 [2021-04-03]: journal/2021-04-03 "2021-04-03"
 [push]: push "Push"
 [context]: context "Context"
+[obsidian]: obsidian "Obsidian"
 [2021-03-06]: journal/2021-03-06 "2021-03-06"
 [discord]: discord "Discord"
 [clubhouse]: clubhouse "Clubhouse"
