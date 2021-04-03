@@ -3,54 +3,31 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Monokai",
   "[markdown]": {
     "editor.quickSuggestions": true
   },
-  "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync",
+  "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true
   },
   "files.watcherExclude": {
     "**/node_modules": true
   },
+  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.titleFormat": "fullDate",
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "markdown.preview.breaks": true,
+  "pasteImage.path": "${projectRoot}/attachments",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  "prettier.singleQuote": false,
+  "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "multiCommand.commands": [
-    {
-        "command": "multiCommand.syncAllFiles",
-        "sequence": [
-            "workbench.action.files.saveAll",
-            {
-                "command": "workbench.action.terminal.sendSequence",
-                "args": {
-                    "text": "git add . && git commit -a -m 'automatic update on save.' && git push\u000D"
-                }
-            }
-        ]
-    }
-    ],
-    "spellright.language": [],
-    "spellright.documentTypes": [
-      "latex",
-      "plaintext"
-    ],
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
     "vim.handleKeys": {
       "[": false,
       "]": false,
-    },
-    "foam.openDailyNote.directory": "journal",
-    "editor.minimap.enabled": true,
-    "window.menuBarVisibility": "toggle",
-    "workbench.activityBar.visible": true,
-    "git.confirmSync": false,
-    "git.autofetch": true,
-    "markdown-links.autoStart": false,
-    "markdown-links.graphType": "obsidian",
-    "vscodeMarkdownNotes.newNoteDirectory": "WORKSPACE_ROOT",
-    "markdown.extension.print.theme": "dark",
-    "markdown.preview.scrollEditorWithPreview": false,
-    "window.autoDetectColorScheme": true,
     "[markdown]": {
         "editor.tabSize": 2
     },
