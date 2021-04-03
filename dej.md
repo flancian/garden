@@ -38,7 +38,7 @@
     - [[non violent communication]]
     - [[victor papanek]]
   - structuralism and vulnerability
-    - [[structure]], [[understanding]], [[interface]]
+    - [[structure]], [[understanding]], [[interface]]?
 
 ## [[2021-03-06]]
 - <https://anagora.org/go/meet>

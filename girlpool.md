@@ -1,6 +1,7 @@
 # Girlpool
 
 - A [[band]]
-- [[songs]]
+- [[songs]] I like
   - [[chemical freeze]]
+  - [[hire]]
 
