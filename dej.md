@@ -23,6 +23,9 @@
     - [[todoist]]
     - journaling in [[obsidian]]
 - encoding information in [[dna]]
+- [[recording app]]
+  - Why Would A Recording App Win “Best App of the Year”?: https://www.youtube.com/watch?v=TtfdWl10lN4
+- [[now]]: https://sive.rs/nowff
 - [[agora]]
 - [[jekyll]]
 - [[jonathan-the-utopian]] thesis update
