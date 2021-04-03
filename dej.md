@@ -11,7 +11,9 @@
   - two weeks ago
   - video on twitch
   - edited version is coming
-- [[bitcoin]] -> altcoins -> ethereum -> [[ico]] -> [[nft]]?
+- [[bitcoin]] -> altcoins -> ethereum -> [[icos]]
+  - [[nfts]]
+    - [[armengol]] gran potencial económico para muchos artistas
 - [[walter benjamin]]
   - [[the work of art in the age of mechanical reproduction]]
 - [[hannah arendt]]
@@ -20,6 +22,7 @@
   - [[jonathan-the-utopian]]
     - [[todoist]]
     - journaling in [[obsidian]]
+- encoding information in [[dna]]
 ## [[2021-03-06]]
 - <https://anagora.org/go/meet>
   - [[virtual spaces]], [[meeting points]], [[schelling point]]
@@ -112,6 +115,7 @@
 [armengol-lorand]: armengol-lorand "Armengol Lorand"
 [2021-04-03]: journal/2021-04-03 "2021-04-03"
 [push]: push "Push"
+[armengol]: armengol "Armengol"
 [context]: context "Context"
 [obsidian]: obsidian "Obsidian"
 [2021-03-06]: journal/2021-03-06 "2021-03-06"
@@ -128,7 +132,6 @@
 [ctzn]: ctzn "Ctzn"
 [agora]: agora "Agora"
 [jonathan]: jonathan "Jonathan"
-[armengol]: armengol "Armengol"
 [contract]: contract "CONTRACT"
 [devine-lu-linvega]: devine-lu-linvega "Devine Lu Linvega"
 [identity]: identity "Identity"
