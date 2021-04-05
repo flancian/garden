@@ -9,6 +9,7 @@
       - [[branch]] agora-server/branch
     - write [[on cringe]] / [[agora polls]]
       - about explicit rational (mathematical) modelling of group dynamics through social media discourse
+      - is [[hack the planet]] cringe? should it be?
     - node [[paradox of tolerance]]
     - [[wikilinks everywhere]]
 - An [[action]] in the [[agora]].
