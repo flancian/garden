@@ -1,7 +1,7 @@
 # later
 
 - [[push]] [[do]]
-  - Thoughts that came up while I was doing [[pomodoro]].
+  - Thoughts that come up while I was doing [[pomodoro]].
     - Write a post about my virtual desktop setup.
     - [[pull]] means [[uprank]]
     - check out [[gtoolkit]]
