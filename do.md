@@ -15,13 +15,10 @@
       - about explicit rational (mathematical) modelling of group dynamics through social media discourse
       - is [[hack the planet]] cringe? should it be?
     - node [[paradox of tolerance]]
-    - 
+    - run [[weekly review]]
 - An [[action]] in the [[agora]].
-  - The root of my [[getting things done]] graph.
-  - [[next action]] 
-    - [[answer email]] 
-    - [[agora yaml]]
-  - [[daily]], try to check for pending [[work]]:
+  - This is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
+  - [[daily]], I try to check for pending [[work]]:
     - in [[todo]]
       - clean up items there and pushes, try move closer to a [[context]].
   - [[weekly]], check the context in more specific actions and push relevant items here or to [[next action]]:
@@ -48,9 +45,12 @@
       - [[wikilinks everywhere]]
         - clone mvp
         - would it be crazy to use [[d3]] instead of [[jquery]]? it would make it easy to also include a graph tool directly in the library. it's 200kb though.
-  - On top of this idiosyncratic system I'm trying to execute a [[plan]].
-    - [[priorities]]
+  - On top of this idiosyncratic system I'm trying to execute a [[plan]]. If you're interested please also review [[priorities]], [[public utility]]
   - Please tell me what you think I should do next below. All feedback is welcome!
+- [[push]] [[done]]
+  - [[agora yaml]]
+  - [[agora plan]]
+
   
 https://twitter.com/flancian/status/1374462566395617286
 
