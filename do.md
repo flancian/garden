@@ -2,16 +2,20 @@
 
 - I'm trying to use [[pomodoro]] more. It signals an [[intent]].
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
-  - My current running contexts or intent (they expand into a graph):
+  - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
     - [[agora search]]
       - implementing a provider 
       - support [[yubnub]] like particles
       - [[branch]] agora-server/branch
+    - [[wikilinks everywhere]]
+      - decide on what the v0 really *is*. which scope, which repo?
+        - option 1: [[etherpad wikilinks]]
+        - option 2: [[agora ext]]? perhaps replace jquery with d3?
     - write [[on cringe]] / [[agora polls]]
       - about explicit rational (mathematical) modelling of group dynamics through social media discourse
       - is [[hack the planet]] cringe? should it be?
     - node [[paradox of tolerance]]
-    - [[wikilinks everywhere]]
+    - 
 - An [[action]] in the [[agora]].
   - The root of my [[getting things done]] graph.
   - [[next action]] 
