@@ -7,5 +7,6 @@
   - [[jonny lee miller]] also appeared in [[trainspotting]]
   - I did a thread on [[twitter]]: https://twitter.com/flancian/status/1343318338970202118
   - [[pull]] [[puter]] [[everybody on wheels all the time]] [[hack the planet]]
+  - Probably influenced [[matrix]]? Although [[cyberpunk]] like [[johnny mnemonic]] of course did so more.
 
 
