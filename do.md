@@ -18,7 +18,7 @@
     - run [[weekly review]]
     - see [[notebook]]
       - configure [[monitoring]]
-      - try [[hometown]Do]
+      - try [[hometown]]
 - An [[action]] in the [[agora]].
   - This is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
   - [[daily]], I try to check for pending [[work]]:
