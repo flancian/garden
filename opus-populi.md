@@ -1,4 +1,6 @@
 # opus populi
 
 - a [[coop]] run version of [[spotify]].
-    - [[opus populi]]
+    - [[opus]]
+
+https://twitter.com/flancian/status/1379042756601995266
