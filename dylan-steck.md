@@ -19,5 +19,7 @@
 - smaller tractable goals vs huge vision
   - the tool itself as a way to manage this complexity
   - [[cooperation]] as a way to manage complexity
+- limitations of extension approach
+  - browser packs?
 
 
