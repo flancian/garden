@@ -9,4 +9,6 @@
   - [[dan whaley]]
   - [[samuel klein]]
   - [[flancian]] founder
+- In [[flancia]] we share clear goals:
+  - [[goals]] flancia.org/goals
 
