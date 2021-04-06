@@ -5,5 +5,5 @@
   - [[bmann]] introduced me to him.
   - [[go]] gordonbrander.com
   - [[push]] [[do]]
-    - review website
+    - review go
 
