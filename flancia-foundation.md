@@ -6,5 +6,7 @@
   - [[vera]], ceo
   - [[bmann]], cto
   - [[karlicoss]]
+  - [[dan whaley]]
+  - [[metasj]]
   - [[flancian]] founder
 
