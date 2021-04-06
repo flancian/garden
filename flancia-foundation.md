@@ -6,5 +6,5 @@
   - [[vera]], ceo
   - [[bmann]], cto
   - [[karlicoss]]
-  - [[flancian]] ceo
+  - [[flancian]] founder
 
