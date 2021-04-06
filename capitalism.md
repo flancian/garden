@@ -1,6 +1,8 @@
 # capitalism
 
-- A [[system]]
+- An [[economic system]]
+  - [[go]] [[wp]]
+  - [[wp]] https://en.wikipedia.org/wiki/Capitalism
 - Which would you rather do?
   - [[crush capitalism]]
   - [[deprecate capitalism]]
