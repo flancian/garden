@@ -2,8 +2,8 @@
 
 - [[luciana]], president
 - [[g. i.]]
-- [[vera]]
-- [[bmann]]
+- [[vera]], director
+- [[bmann]], [[fedstoa]]
 - [[karlicoss]]
 - [[flancian]]
 
