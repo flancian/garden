@@ -10,5 +10,6 @@
   - [[karlicoss]]
   - [[dan whaley]]
   - [[samuel klein]]
+  - [[codex]]
   - [[flancian]] (founder)
 
