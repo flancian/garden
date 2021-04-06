@@ -11,5 +11,6 @@
   - [[dan whaley]]
   - [[samuel klein]]
   - [[codex]]
+  - [[jonathan the utopian]]
   - [[flancian]] (founder)
 
