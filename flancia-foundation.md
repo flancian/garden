@@ -1,9 +1,10 @@
 # flancia foundation
 
-- [[luciana]], president
-- [[g. i.]]
-- [[vera]], vp
-- [[bmann]], cto
-- [[karlicoss]]
-- [[flancian]] ceo
+- In [[flancia]] we don't believe in hierarchies. We prefer [[heterarchy]] and [[liquid democracy]]. Alas, a legal foundation probably needs to declare a hierarchy.
+  - [[luciana]], president
+  - [[g. i.]]
+  - [[vera]], ceo
+  - [[bmann]], cto
+  - [[karlicoss]]
+  - [[flancian]] ceo
 
