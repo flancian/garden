@@ -28,6 +28,7 @@
     "vim.handleKeys": {
       "[": false,
       "]": false,
+    }
     "[markdown]": {
         "editor.tabSize": 2
     },
