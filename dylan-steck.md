@@ -14,6 +14,10 @@
 - potential overlap/collaboration areas/areas of shared interested
 - [[actions]]
 - [[bulletpoint trees]] as sufficient to encode logic
+- efficient transfer of [[context]]
 - [[trails]] == [[tours]]
+- smaller tractable goals vs huge vision
+  - the tool itself as a way to manage this complexity
+  - [[cooperation]] as a way to manage complexity
 
 
