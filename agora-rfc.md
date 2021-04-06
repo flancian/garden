@@ -1,5 +1,8 @@
 # agora rfc
 
-- [[0]] [[agora protocol]] https://social.coop/@flancian/105928877148027199
-- [[1]] [[qr]] https://twitter.com/flancian/status/1373696110372478980
-- [[2]] [[boris]] https://gitlab.com/fedstoa/agora/-/issues/2
+- [[0]] https://social.coop/@flancian/105928877148027199
+  - [[agora protocol]]
+- [[1]] https://twitter.com/flancian/status/1373696110372478980
+  - [[qr]]
+- [[2]] https://gitlab.com/fedstoa/agora/-/issues/2
+  - [[boris]]
