@@ -25,8 +25,8 @@
 - [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 - Have I ever told you that in Flancia there is an [[Agora]]?
 
-https://twitter.com/flancian/status/1298708974364024832
 https://twitter.com/flancian/status/1298701482997538822
+https://twitter.com/flancian/status/1298708974364024832
 https://twitter.com/flancian/status/1355193365046898689
 https://twitter.com/flancian/status/1373677818312278016
 
