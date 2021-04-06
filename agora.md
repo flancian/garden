@@ -15,6 +15,8 @@
   - You can use [[open search]] to add it to your browser while you're visiting it.
   - You can have it as default search engine, like I sometimes do, or you can associate it with a prefix. I use 'a' and 'an'. Like in 'an entity'. 
 - *The [[agora]] is in the [[federation]]! Add it now: @agora@botsin.space.*
+- To [[run]] an Agora, please refer to <https://anagora.org/go/run>.
+  - [[run]] [[git]]
 - To [[sign up]] for the Agora, first you need to publish your [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
   - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]] or you have a notes database, you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
   - Whatever participation mechanism you choose, you can either send a [[pull request]] adding yourself to the repository or let an Agora [[maintainer]] know where your [[digital garden]] or [[content]] is, so it can be pulled by the Agora and [[integrated]]. We strive to continuously support new sources and formats. Please send email to signup@anagora.org or [tweet at me](https://twitter.com/flancian) with:
