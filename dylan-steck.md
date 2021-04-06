@@ -22,5 +22,11 @@
   - [[cooperation]] as a way to manage complexity
 - limitations of extension approach
   - browser packs?
-
+- people you should likely talk to (you probably know them already)
+  - [[codex]]
+  - [[metasj]]
+- general [[feedback]]
+  - [[open source]] seems like it would offer many 
+  - share (e.g. the cortex whitepaper) for comments; this could be having it be in a public URL and requesting comments through hypothes.is, for example.
+  - it is unclear
 
