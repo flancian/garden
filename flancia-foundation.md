@@ -2,8 +2,8 @@
 
 - [[luciana]], president
 - [[g. i.]]
-- [[vera]], director
+- [[vera]], vp
 - [[bmann]], cto
 - [[karlicoss]]
-- [[flancian]]
+- [[flancian]] ceo
 
