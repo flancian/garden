@@ -24,8 +24,6 @@
     - An URL for your content.
     - Your desired username.
     - Confirmation that you are currently in agreement with <https://anagora.org/contract>. If you are ever considered in disagreement by you or others, please feel free to use the [[agora]] as a mechanism to resolve disputes.
-
-The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know. Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account.
-If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016).
-If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
-
+- The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know. Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account. If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016). If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
+- [[git]] https://github.com/flancian/agora
+  - [[go]] [[git]]
