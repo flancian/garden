@@ -15,6 +15,7 @@
 - [[actions]]
 - [[bulletpoint trees]] as sufficient to encode logic
 - efficient transfer of [[context]]
+  - [[context]] == [[node]] in the agora, the core abstraction
 - [[trails]] == [[tours]]
 - smaller tractable goals vs huge vision
   - the tool itself as a way to manage this complexity
