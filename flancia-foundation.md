@@ -7,6 +7,6 @@
   - [[bmann]], cto
   - [[karlicoss]]
   - [[dan whaley]]
-  - [[metasj]]
+  - [[samuel klein]]
   - [[flancian]] founder
 
