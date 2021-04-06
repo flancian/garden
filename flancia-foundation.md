@@ -1,7 +1,8 @@
 # flancia foundation
 
-- [[luciana]]
+- [[luciana]], president
 - [[g. i.]]
 - [[vera]]
 - [[bmann]]
+- [[karlicoss]]
 
