@@ -15,7 +15,7 @@
   },
   "foam.edit.linkReferenceDefinitions": "off",
   "foam.openDailyNote.directory": "journal",
-  "foam.openDailyNote.titleFormat": "fullDate",
+  "foam.openDailyNote.titleFormat": "yyyy-mm-dd",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
