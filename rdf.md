@@ -9,6 +9,7 @@
     - [[RDF Schema 1.1]]
     - [[RDF 1.1 Test Cases]]
 - [[wikipedia]] https://en.wikipedia.org/wiki/Resource_Description_Framework
+- [[turtle]] seems simplest, but [[vera]] recommends [[quads]] / [[datalog]].
 - [[relevant]] for [[go links]], [[agora]].
 - [[ZornGerhard]] knows about it.
 	- Also mentioned the [[SPARQL]] query language: https://twitter.com/ZornGerhard/status/1310645329587560448
