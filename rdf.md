@@ -23,6 +23,8 @@
   - [[agora]] https://social.coop/web/statuses/105991450845454412
 	- [[syntacticsugarglider]]
 
+https://twitter.com/flancian/status/1379895535340040198
+
 ## [[2020-12-26]]
 
 - I started a [[pomodoro]] of this but [[procrastination]] came up, interesting -- it's not like I'm not interested in this, but it just tends to happen I don't *get* to it because I'm busy with work and other things, so I ended up associating it with a frustrated feeling? Unsure. It could also be I have a fear of it being *precisely* the Agora, what that would mean. I should be elated if that happened, but on some level perhaps.
