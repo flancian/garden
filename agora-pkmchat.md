@@ -3,7 +3,7 @@
 - a [[meeting]]
   - an instance of [[pkmchat]]
   - [[2021-04-08]] at 1PM CET
-  - I'll be covering <https://anagora.org/go/agora/slides> (in maintenance)
+  - I'll be covering <https://anagora.org/go/agora/slides> (draft)
 
 ```
 Bruno Winck is inviting you to a scheduled Zoom meeting.
