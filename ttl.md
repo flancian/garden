@@ -8,3 +8,4 @@
     - Plan
       - use [[rdflib]]
 
+https://twitter.com/flancian/status/1379895535340040198
