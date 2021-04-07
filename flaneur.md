@@ -7,7 +7,6 @@
   - [[pull]] You can spell it [[flâneur]] if you're feeling fancy :)
 - I sometimes write about [[flaneur]], a [[web browser]].
   - https://twitter.com/flancian/status/1353369766854086656
-  - 
 
 
 
