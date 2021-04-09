@@ -14,6 +14,8 @@
     - [[spinners]] are another thing that, when explained with words, just doesn't make sense
       - [[philippine wine dance]]
       - [[joe rogan]] makes the right question at 18:20
+    - [[klein gordon]] equation
+      - [[paul dirac]] came up with a square equation that produced a spinner; one of the three most important equations in physics
 
 https://twitter.com/O__C___D__/status/1380590675536797697
 
