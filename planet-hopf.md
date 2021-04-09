@@ -13,6 +13,7 @@
     - the limits of linguistic thinking: there's something about [[gauge theory]] that makes it so that it's much easier/at all possible to understand via visual thinking
     - [[spinners]] are another thing that, when explained with words, just doesn't make sense
       - [[philippine wine dance]]
+      - [[joe rogan]] makes the right question at 18:20
 
 https://twitter.com/O__C___D__/status/1380590675536797697
 
