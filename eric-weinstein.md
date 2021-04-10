@@ -1,7 +1,7 @@
 # Eric Weinstein
 
 - A [[person]].
-  - [[physicist]]
+  - [[mathematician]] ([[physicist]]?)
     - [[gauge theory]]
     - [[geometric unity]]
   - Friend of [[sam harris]].
