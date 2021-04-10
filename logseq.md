@@ -1,7 +1,7 @@
 # Logseq
 
- - A [[tool]] 
-  - [[pkm]]
+ - A [[project]] 
+  - [[pkm]], [[roam like]] (but didn't set out to be a clone)
   - [[twitter]]: twitter.com/logseq
  - [[go]] logseq.com.
  - could be a better default agora client than [[foam]]
@@ -11,5 +11,7 @@
   - [[git]] based
     - can create a repository for you 
     - uses [[isomorphic git]]
+
+https://twitter.com/FISSIONcodes/status/1380313842622717953
 
 
