@@ -1,4 +1,3 @@
 # prediction framework
 
-- [[pull]] [[predictions-as-a-substitute-for-reviews]]
-
+- [[pull]] [[predictions-as-a-substitute-for-reviews]] 
