@@ -8,6 +8,7 @@
   - [[go]] https://moa.party
   - [[pull]] [[moa party]] [[fedstoa]]
 
+https://twitter.com/flancian/status/1382050818241785856
 https://twitter.com/flancian/status/1372986224495968266
 
 
