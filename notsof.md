@@ -87,6 +87,9 @@
 ### Definitions
 - performance standards are based on scales that estimate fit/misfit in certain domains. quantifiable; miss the [[qualitative]].
 - we model problems with fit/misfit as booleans; although they might actually represent quantitative continuous variables plus a threshold, or qualitative opinions by people explicitly expressed
+  - fit = 0
+  - misfit = 1
+  - "Let us  remind ourselves of  the fundamental principle. Any state of aff airs in the ensemble which derives from the interaction between form and context, and causes stress in the ensemble, is  a misfit."
 
 
 
