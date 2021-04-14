@@ -18,7 +18,8 @@
 
 ## [[2021-04-14]]
 
-The plan is to get in at least two pomodoros in this to advance it somehow in the direction of a prototype. Will develop it within the agora.
+The plan is to get in at least two pomodoros in this to advance it somehow in the direction of a prototype. Will try to build on [[agora ext]].
+
 
 
 
