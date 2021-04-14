@@ -113,3 +113,4 @@
 - "It is the culmination of the designer's task to make every diagram both a pattern and a unit. As a unit it will fit into the hierarchy of larger components that fall above it; as a [[pattern]] it will specify the hierarchy of  smaller com­ponents which it itself is made of."
 
 ### Epilogue
+- "My main task has been to show that there is a deep and important underlying structural correspondence between the [[pattern]] of a problem and the process of designing a  physical [[form]] which answers that problem."
