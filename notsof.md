@@ -97,6 +97,6 @@
   - [[pearson correlation coefficient]] 
   - some correlations between probabilities are intrinsic, some are circumstantial
   - we call correlations [[causal]] when we understand the [rules](rules) that account for it; like e.g. thermodynamics as they affect materials
-- [[correlation matrix]]
-  - helps us define L
+- p111 [[correlation matrix]]
+  - helps us define L and thus settle on the G(M, L)
    
