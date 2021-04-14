@@ -110,4 +110,4 @@
 - the tension between form-making (integration) and analysis (fragmentation) is resolved by "finding knots": problems are not homogeneous, they actually have some structure, so there are right ways to tackle them.
   - reminds me of [[computational complexity]]
 - p124 well decomposed sets will tend to be densely connected internally but have few or no links (the latter usually being not achievable) between sets
-- "It is the culmination of  the designer's task to make every diagram both a pattern and a unit."
+- "It is the culmination of  the designer's task to make every diagram both a pattern and a unit. As a unit it will fit into the hierarchy of larger components that fall above it; as a [[pattern]] it will specify the hierarchy of  smaller com­ponents which it itself is made of."
