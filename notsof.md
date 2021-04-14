@@ -89,7 +89,10 @@
 - we model problems with fit/misfit as booleans; although they might actually represent quantitative continuous variables plus a threshold, or qualitative opinions by people explicitly expressed
   - fit = 0
   - misfit = 1
-  - "Let us  remind ourselves of  the fundamental principle. Any state of aff airs in the ensemble which derives from the interaction between form and context, and causes stress in the ensemble, is  a misfit."
+  - "Let us remind ourselves of the fundamental principle. Any state of affairs in the ensemble which derives from the interaction between form and context, and causes stress in the ensemble, is  a misfit."
+- [[misfit]] is left as a primitive notion (undefined)
+- [[domain]] is the totaility of possible forms within the cognitive reach of the designer
+- [[probabilities]] enter the stage! Finally. They seem to make sense in this context.
 
 
 
