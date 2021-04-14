@@ -73,7 +73,11 @@
   - in general they:
     - summarize  aspects of physical structure: a [[form diagram]]
     - summarize functional properties or constraints: a [[requirement diagram]]
-    - just one or just the other isn't very useful; a good diagram has elements of both
+    - just one or just the other isn't very useful; a good ("constructive") diagram has elements of both.
+- two ways to describe [[form]]:
+  - [[formal]], what it "is"
+  - [[functional]], what it "does"
+  - a unified description is the abstract equivalent of a constructive diagram
 
 
 
