@@ -60,3 +60,20 @@
     - M = set of misfits, nodes
     - L = set of interactions, links, edges
 
+### The Realization of the Program
+- Two phases:
+  - analysis, where the right design [[program]] is found
+    - a tree of sets of requirements / the previous graph
+  - synthesis, where the right [[form]] is derived from the program
+    - a tree of [[diagrams]]
+- examples of [[diagrams]]
+  - [[le corbusier]]'s [[ville radieuse]] is a diagram stemming from two requirements: high density and equal/max access to sunlight and air
+  - a [[sphere]], for the requirement to enclose a maximum volume within a surface
+  - engineer sketches, [[kekulé]]'s representation of benzene
+  - in general they:
+    - summarize  aspects of physical structure: a [[form diagram]]
+    - summarize functional properties or constraints: a [[requirement diagram]]
+    - just one or just the other isn't very useful; a good diagram has elements of both
+
+
+
