@@ -95,5 +95,8 @@
 - [[probabilities]] enter the stage! Finally. They seem to make sense in this context.
   - as usual, when probabilities are independent all's nice and well.
   - [[pearson correlation coefficient]] 
-  - some correlations are intrinsic, some are circumstantial
+  - some correlations between probabilities are intrinsic, some are circumstantial
+  - we call correlations [[causal]] when we understand the [rules](rules) that account for it; like e.g. thermodynamics as they affect materials
+- [[correlation matrix]]
+  - helps us define L
    
