@@ -82,7 +82,11 @@
   - [[aside]]
     - [[visual cortex]], [[eric weinstein]]
 - "the program is a hierarchy of the most significant subsets of M"
-  -  this is looking more and more like a [[partitioning]] problem
+  - this is looking more and more like a [[graph partitioning]] problem
+
+### Definitions
+- performance standards are based on scales that estimate fit/misfit in certain domains. quantifiable; miss the [[qualitative]].
+- we model problems with fit/misfit as booleans; although they might actually represent quantitative continuous variables plus a threshold, or qualitative opinions by people explicitly expressed
 
 
 
