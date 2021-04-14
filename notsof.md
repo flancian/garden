@@ -94,6 +94,5 @@
 - [[domain]] is the totaility of possible forms within the cognitive reach of the designer
 - [[probabilities]] enter the stage! Finally. They seem to make sense in this context.
   - as usual, when probabilities are independent all's nice and well.
-  - correlation coefficient: 
+  - [[pearson correlation coefficient]] 
    
-![](assets/2021-04-14-13-11-35.png)
