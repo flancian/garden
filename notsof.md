@@ -101,6 +101,11 @@
   - helps us define L and thus settle on the G(M, L)
 - three formal properties of G(M, L)
   - L describes all the interactions between variables there is. Because L is the set of two-variable correlations, M must be chosen so it's free from n-variable correlations with n > 2.
+    - superordinate concepts like "economics" and "acoustics" tend to be problematic here, and they should be seen as intermediate steps -- must be broken down
   - the two-variable correlations must be small for any pair.
   - p(xi = 0) should be the same for all i (?)
+    - but in the next sentence Alexander moves to "roughly the same in significance", which is both distinct than the previous and more reasonable IMHO.
    
+## Solution
+- the tension between form-making (integration) and analysis (fragmentation) is resolved by "finding knots": problems are not homogeneous, they actually have some structure, so there are right ways to tackle them.
+  - reminds me of [[computational complexity]]
