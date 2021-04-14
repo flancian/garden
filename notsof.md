@@ -81,6 +81,8 @@
   - a constructive diagram can often *precede* the knowledge which explains its shape
   - [[aside]]
     - [[visual cortex]], [[eric weinstein]]
+- "the program is a hierarchy of the most significant subsets of M"
+  -  this is looking more and more like a [[partitioning]] problem
 
 
 
