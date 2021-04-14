@@ -99,4 +99,8 @@
   - we call correlations [[causal]] when we understand the [rules](rules) that account for it; like e.g. thermodynamics as they affect materials
 - p111 [[correlation matrix]]
   - helps us define L and thus settle on the G(M, L)
+- three formal properties of G(M, L)
+  - L describes all the interactions between variables there is. Because L is the set of two-variable correlations, M must be chosen so it's free from n-variable correlations with n > 2.
+  - the two-variable correlations must be small for any pair.
+  - p(xi = 0) should be the same for all i (?)
    
