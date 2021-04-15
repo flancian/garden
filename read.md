@@ -18,4 +18,4 @@
 - [[in buddha's words]]
 - [[62 modelo para armar]]
 
-And the pulled nodes below, as per the [[agora convention]].
+And the [[pushed]] and [[pulled]] nodes below, as per the [[agora convention]].
