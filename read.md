@@ -1,11 +1,11 @@
 # Read
 
 - A [[list]].
-  - I used to read a lot. Now I don't. I'd like to read more.
+  - I used to read a lot. Now I don't. I'd like to read more, so I'm assembling a list that is maximally interesting to me.
   - [[pull]] [[reading protopoi]]
   - [[pull]] [[reading alexander]]
 - A [[graph]].
-  - I like to think of this as my reading [[graph]].
+  - I like to think of this also as my reading [[graph]].
   - I'm trying to use the [[agora]] to read more. See [[do]].
 
 https://twitter.com/flancian/status/1382742134802018304
