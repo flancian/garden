@@ -1,8 +1,9 @@
 # Notsof
 
-- [[read]] [[notes-on-the-synthesis-of-form]]
-  - [[go]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
-  - [[old]] https://via.hypothes.is/stoa.anagora.org/notsof.pdf
+- [[push]] [[reading]] 
+  - [[notes-on-the-synthesis-of-form]]
+  - [[go]] [[hypothesis]]
+  - [[hypothesis]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
 - [[systems]], [[models]]
 
 ## Introduction
