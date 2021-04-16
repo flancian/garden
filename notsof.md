@@ -1,12 +1,14 @@
 # Notsof
 
-- [[read]] [[notes-on-the-synthesis-of-form]]
-  - [[go]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
-  - [[old]] https://via.hypothes.is/stoa.anagora.org/notsof.pdf
+- [[push]] [[reading]] 
+  - [[pull]] [[notes-on-the-synthesis-of-form]]
+  - [[hypothesis]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
+    - [[go]] [[hypothesis]]
 - [[systems]], [[models]]
 
+See annotations/highlights in [[hypothesis]] above for inline commentary.
+
 ## Introduction
-- See annotations/highlights for now
 ## Part One
 ### Goodness of Fit
 
