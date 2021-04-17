@@ -10,9 +10,12 @@
     - [[flancian]] https://docs.google.com/document/d/1qS2bqK7289BLwtKcwOGJ2H0dqidA_isDz7aXZy49gPk/edit
 
 ## [[2021-04-17]]
-- building [[codex]]
+- building [[cortex]]
 - [[open source]]
 - [[boris]] and [[brooke]] (sp?)
+- companies in this space
+  - [[atomic search]]
+  - [[the browser company]]
 ## [[2021-04-06]]
 
 - potential overlap/collaboration areas/areas of shared interested
