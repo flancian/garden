@@ -8,5 +8,3 @@
   - [[go]] https://github.com/ibahunek/toot
 
 ![](assets/toot.png)
-
-https://anagora.org/toot
