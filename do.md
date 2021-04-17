@@ -11,6 +11,7 @@
       - do one pomodoro on trying to 
     - do [[moa]]
       - integrate vera's code
+      - review [[go moa bugs]]
     - write [[on cringe]] / [[agora polls]]
       - about explicit rational (mathematical) modelling of group dynamics through social media discourse
       - is [[hack the planet]] cringe? should it be?
