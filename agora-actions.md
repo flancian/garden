@@ -2,6 +2,7 @@
 
 - a [[project]]
   - The Agora can trigger actions in the context of a node when said node includes a block with a [[wikilink]] representing an [[intention]] to execute an [[intent]]. Those intents include [[actions]]. 
+  - If you tell an [[agora]] where your data is, and what you want to do with it, it'll will do it for you if it can. If it can't, it'll keep a record of the request and fulfill it once it's tractable.
   - Currently supported actions are:
     - *go*, which makes [[go node]] (anagora.org/go/<node>) redirect to the url appearing after the action. Example follows.
       - [[go]] https://twitter.com/flancian/status/1329890862499770368
