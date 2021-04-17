@@ -1,4 +1,4 @@
 # fifth precept
 
-https://twitter.com/flancian/status/1383486859355906050
+https://twitter.com/kyosaku_jon/status/1383486458007146505
 
