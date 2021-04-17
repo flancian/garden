@@ -6,7 +6,7 @@
   - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
     - do [[moa]]
       - integrate vera's code
-      - review [[go moa bugs]]
+      - review [[go/moa/bugs]]
     - [[wikilinks everywhere]]
       - decided on what the v0 really *is*. which scope, which repo?
         - option 1: [[etherpad wikilinks]]
