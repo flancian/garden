@@ -1,7 +1,7 @@
 # Do
 
 - [[pomodoro]]
-  - I'm trying to use [[pomodoro]] plus [[getting things done]] more. It signals an [[intent]].
+  - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
   - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
     - do [[moa]]
