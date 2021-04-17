@@ -3,22 +3,26 @@
 - I'm trying to use [[pomodoro]] more. It signals an [[intent]].
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
   - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
+    - do [[moa]]
+      - integrate vera's code
+      - review [[go moa bugs]]
     - [[wikilinks everywhere]]
       - decided on what the v0 really *is*. which scope, which repo?
         - option 1: [[etherpad wikilinks]]
         - option 2: [[agora ext]]? perhaps replace jquery with d3?
         - [[agora ext]] it is
-      - do one pomodoro on trying to 
-    - do [[moa]]
-      - integrate vera's code
-      - review [[go moa bugs]]
+        - do one pomodoro on it
     - write [[on cringe]] / [[agora polls]]
       - about explicit rational (mathematical) modelling of group dynamics through social media discourse
       - is [[hack the planet]] cringe? should it be?
     - node [[paradox of tolerance]]
+    - finish reading what [[will walker]] told me about
     - run [[weekly review]]
     - see [[notebook]]
       - configure [[monitoring]]
+        - one pomodoro for moa, most users
+        - one pomodoro for anagora
+    - [[push]] [[later]]
       - try [[hometown]]
 - An [[action]] in the [[agora]].
   - This is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
