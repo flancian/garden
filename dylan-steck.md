@@ -17,6 +17,9 @@
 - companies in this space
   - [[atomic search]]
   - [[the browser company]]
+- [[cortex]] is two projects
+  - the browser
+  - the backend / [[nexus]]
 ## [[2021-04-06]]
 
 - potential overlap/collaboration areas/areas of shared interested
