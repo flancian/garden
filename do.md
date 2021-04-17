@@ -3,9 +3,6 @@
 - I'm trying to use [[pomodoro]] more. It signals an [[intent]].
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
   - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
-    - [[rdf]]
-      - [[graphs]]
-        - [[force graph]]
     - [[agora search]]
       - implementing a provider 
       - support [[yubnub]] like particles
@@ -56,6 +53,9 @@
 - [[push]] [[done]]
   - [[agora yaml]]
   - [[agora plan]]
+  - [[rdf]]
+  - [[graphs]]
+
 
   
 https://twitter.com/flancian/status/1374462566395617286
