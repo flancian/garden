@@ -3,13 +3,18 @@
 - an [[agora action]].
 - a [[list]].
   - [[bridges]]
-  - [[siphons]]
-  - [[ctzn]]
-  - [[graphs]]
+    - [[siphons]]
+  - [[semantic web]]
+  - [[social networks]]
+    - [[ctzn]]
+    - [[social web protocols]]
+    - [[indie web]]
+    - [[indiekit]]
+    - [[micro pub]]
+  - [[ampl]]
   - [[category theory]]
   - [[public utility]]
   - [[protopoi]]
-  - [[social web protocols]]
   - [[infinity-project]]
   - [[unnamed-culture-project]]
 - [[pull]] [[read]].
