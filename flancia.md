@@ -25,7 +25,7 @@
     - They help others by [[being open]].
     - They help others by [[forgiving]] them.
     - They help others by never giving up on trying to [[change the world]] for [[good]].
-  - In [[Flancia]] you and me join a [[revolution]].
+  - In [[Flancia]] you consider joining a [[revolution]].
  - a [[list]].
   - Of people and things contained therein.
 - [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
