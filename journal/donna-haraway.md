@@ -2,6 +2,7 @@
 
 - a [[person]]
   - [[philosopher]]
+  - [[cyborg manifesto]]
 
 ```
 Pensar con una mentalidad amplia quiere decir que se entrena la propia imaginación para "ir de visita" -Hannah Arendt, Conferencias sobre la filosofía(...) "Entrenar la mente y la imaginación para ir de visita, para aventurarse fuera de los senderos trillados para encontrar parientes inesperados, no natales, y entablar conversaciones, proponer y responder preguntas interesantes, proponer en conjunto algo  imprevisto, asumir las obligaciones no pedidas por haberse encontrado.
