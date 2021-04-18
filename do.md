@@ -12,6 +12,7 @@
       - integrate vera's code
       - review [[go/moa/bugs]]
     - if I advance all three of the previous, I get candy: fix [[agora graphs]]
+    - read [[bell hooks]]
     - [[wikilinks everywhere]]
       - decided on what the v0 really *is*. which scope, which repo?
         - option 1: [[etherpad wikilinks]]
