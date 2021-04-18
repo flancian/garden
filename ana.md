@@ -1,0 +1,4 @@
+# ana
+
+- una [[persona]].
+  - [[amiga]].
