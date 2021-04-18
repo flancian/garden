@@ -1,0 +1,3 @@
+# estructura
+
+- [[pull]] [[structure]] [[es]]
