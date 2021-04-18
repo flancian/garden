@@ -1,9 +1,11 @@
 # Flancia
 
 - A [[book]] I'm trying to write.
-  - [[go]] https://flancia.org
-  - [[Flancia]] is a [[protopia]].
   - [[pull]] [[book]].
+  - [[flancia]] is meant to be a [[protopia]].
+- My [[blog]].
+  - [[go]] https://flancia.org
+  - Where it all started. Flancia existed before the Agora did.
 - A [[place]] in my mind.
   - The world of the [[Flancians]]. A world similar to ours but also much unlike.
   - In Flancia there are many [[polis]].
