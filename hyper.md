@@ -1,5 +1,5 @@
 # hyper
 
-- [[pull]] [[hypercore-proto]] 
+- [[pull]] [[hypercore protocol]] 
 - [[dat]]
 
