@@ -1,4 +1,5 @@
 # flancia coop
 
-- [[go]] https://opencollective.com/flancia
+- an [[open collective]]
+  - [[go]] https://opencollective.com/flancia
 
