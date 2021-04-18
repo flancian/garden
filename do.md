@@ -4,9 +4,14 @@
   - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
   - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
+    - see [[notebook]]
+      - configure [[monitoring]]
+        - one pomodoro for moa, most users
+        - one pomodoro for anagora
     - do [[moa]]
       - integrate vera's code
       - review [[go/moa/bugs]]
+    - if I advance all three of the previous, I get candy: fix [[agora graphs]]
     - [[wikilinks everywhere]]
       - decided on what the v0 really *is*. which scope, which repo?
         - option 1: [[etherpad wikilinks]]
@@ -19,10 +24,6 @@
     - node [[paradox of tolerance]]
     - finish reading what [[will walker]] told me about
     - run [[weekly review]]
-    - see [[notebook]]
-      - configure [[monitoring]]
-        - one pomodoro for moa, most users
-        - one pomodoro for anagora
     - [[push]] [[later]]
       - try [[hometown]]
 - An [[action]] in the [[agora]].
