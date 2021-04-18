@@ -2,7 +2,7 @@
 
 - A [[thing]].
   - I have a plan. I call it [[flancia]].
-    - Flancia is an [[open collective]] that tries to execute this open plan.
+    - Flancia is an [[open collective]] that tries to execute an open plan: to support cooperative projects of [[public utility]] and [[improve the world]] for others.
     - I intend to dedicate most of my [[free time]] and [[surplus resources]] to it.
     - The plan includes a crucial step, which is to write a roadmap to [[Flancia]] with [[you]]. 
     - Flancia is a kind of [[eutopia]]; in particular a [[protopia]]. It is a place that doesn't exist, yet has both contact points with the [[real world]] and some [[good]] qualities. The working [[hypothesis]] is that it could actually be built through the iterative application of [[cooperative]], [[rational]], [[optimistic]], [[compassionate]] thinking. 
@@ -18,7 +18,7 @@
       - My current attitude towards the world is to try to do the best that I can regardless of my personal limitations in [[skill]] and [[knowledge]]; being open about both my plan and my limitations is an important part of my identity, as I believe openness as a social attitude results in interactions conducive to optimal mutual understanding and cooperation.
       - I practice [[open ethics]] and [[open source]].
       - See also: [[contract]].
-  - I keep a [[ta eis heauton]].
   - I practice [[open ethics]].
-  - With your help I'd like to build many [[stoas]].
+    - I keep a log of my [[meditations]]. It is this [[agora]].
+    - With your help I'd like to build many [[stoas]].
 
