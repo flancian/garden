@@ -2,5 +2,6 @@
 
 - una [[persona]]
   - [[escritora]]
-  - [[go]] https://escritoshereticos.blogspot.com/
+  - [[escritos heréticos]]
+    - [[go]] https://escritoshereticos.blogspot.com/
 
