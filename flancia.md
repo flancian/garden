@@ -8,8 +8,6 @@
   - Where it all started. Flancia existed before the Agora did.
 - A [[collective]].
   - [[flancia coop]]
-- A [[list]].
-  - Of people and things contained therein.
 - A [[place]] in my mind.
   - The world of the [[Flancians]]. A world similar to ours but also much unlike.
   - In Flancia there are many [[polis]].
@@ -27,7 +25,9 @@
     - They help others by [[being open]].
     - They help others by [[forgiving]] them.
     - They help others by never giving up on trying to [[change the world]] for [[good]].
-    - In [[Flancia]] you and me join a [[revolution]].
+  - In [[Flancia]] you and me join a [[revolution]].
+ - a [[list]].
+  - Of people and things contained therein.
 - [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 - Have I ever told you that in Flancia there is an [[Agora]]?
 
