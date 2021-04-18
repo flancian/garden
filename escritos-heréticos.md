@@ -1,4 +1,6 @@
 # escritos heréticos
 
-- [[go]] https://escritoshereticos.blogspot.com/
+- a [[blog]]
+  - [[pull]] [[escritos herèticos]]
+  - [[go]] https://escritoshereticos.blogspot.com/
 
