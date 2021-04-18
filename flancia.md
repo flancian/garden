@@ -8,6 +8,8 @@
   - Where it all started. Flancia existed before the Agora did.
 - A [[collective]].
   - [[flancia coop]]
+- A [[list]].
+  - Of people and things contained therein.
 - A [[place]] in my mind.
   - The world of the [[Flancians]]. A world similar to ours but also much unlike.
   - In Flancia there are many [[polis]].
