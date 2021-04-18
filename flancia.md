@@ -6,6 +6,8 @@
 - My [[blog]].
   - [[go]] https://flancia.org
   - Where it all started. Flancia existed before the Agora did.
+- A [[cooperative]].
+  - [[flancia coop]]
 - A [[place]] in my mind.
   - The world of the [[Flancians]]. A world similar to ours but also much unlike.
   - In Flancia there are many [[polis]].
