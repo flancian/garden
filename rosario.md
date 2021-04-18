@@ -1,0 +1,3 @@
+# rosario
+
+- una [[ciudad]].
