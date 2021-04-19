@@ -6,7 +6,7 @@
     - [[fission]]
   - [[go]] bmannconsulting.com
   - [[garden]] https://github.com/bmann/bmcgarden
-  - [[social.coop]] https://bmannconsulting.com/blog/2020/10/09/joining-social-coop/ 
+  - [[social coop]] https://bmannconsulting.com/blog/2020/10/09/joining-social-coop/ 
   - [[mastodon]] https://social.coop/@bmann
   - [[fediverse]] @bmann@social.coop
 
