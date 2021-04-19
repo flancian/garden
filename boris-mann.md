@@ -2,8 +2,8 @@
 
 - a [[person]].
   - a [[friend]].
-  - [[coder]] [[founder]]
-  - [[project]] [[fission]]
+  - [[coder]] [[founder]] [[cooperativist]]
+    - [[fission]]
   - [[go]] bmannconsulting.com
   - [[garden]] https://github.com/bmann/bmcgarden
   - [[social.coop]] https://bmannconsulting.com/blog/2020/10/09/joining-social-coop/ 
