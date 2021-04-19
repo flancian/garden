@@ -1,7 +1,7 @@
 # Boris Mann
 
 - a [[person]].
-  - a [[friend]].
+  - [[friend]].
   - [[coder]] [[founder]] [[cooperativist]]
     - [[fission]]
   - [[go]] bmannconsulting.com
