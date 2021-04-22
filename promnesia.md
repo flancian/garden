@@ -6,6 +6,7 @@
   - [[go]] https://addons.mozilla.org/en-US/firefox/addon/promnesia/
   - [[open source]]
     - [[git]] https://github.com/karlicoss/promnesia
+    `pip3 install --user promnesia bs4 lxml mistletoe logzero`
   - [[beepb00p]] https://beepb00p.xyz/promnesia.html#what_i_want
     - nice [[exobrain]].
 

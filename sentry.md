@@ -2,7 +2,7 @@
 
 - a [[project]].
   - [[open source]].
-  - [[application monitoring]Sentry]
+  - [[application monitoring]]
   - [[go]] https://sentry.io
 - a [[service]].
 
