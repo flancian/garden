@@ -2,5 +2,5 @@
 
 - a [[short story]].
   - by [[jorge luis borges]]
-  - one of my [[favourites]]
+    - one of my [[favorites]]
 
