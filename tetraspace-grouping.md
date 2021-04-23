@@ -1,5 +1,5 @@
 # tetraspace grouping
 
 - a [[person]]
-  - [[schelling]]
+  - [[schelling]] @tetraspacegrouping@schelling.pt
 
