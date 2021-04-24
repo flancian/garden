@@ -10,6 +10,8 @@
   - now in the gallery scene ;)
 - [[armengol]] also busy, probably need a break
   - [[workaholic mode]]
+  - sometimes feels like he's "lost the ability to have fun"
+  - [[2h30m]] away from [[barcelona]]
 
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
