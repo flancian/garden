@@ -20,7 +20,8 @@
     - by [[being open]].
     - by practicing [[empathy]] and [[forgiveness]].
     - by trying to explore [[protopoi]].
-  - In [[Flancia]] states converge to rational government models like [[distributed]] [[heterarchy]] through [[liquid democracy]].
+  - In [[Flancia]] cooperative groups thrive through [[federation]] and rational government.
+    - [[distributed]] [[heterarchy]] through [[liquid democracy]].
  - a [[list]].
   - Of [[people]] and [[things]] contained therein.
 - My [[blog]].
