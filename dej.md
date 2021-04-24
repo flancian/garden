@@ -7,8 +7,9 @@
 
 ## [[2021-04-24]]
 - [[jonathan]] busy, lots to read for the masters
-  - in the gallery scene ;)
-- [[armengol]]
+  - now in the gallery scene ;)
+- [[armengol]] also busy, probably need a break
+  - [[workaholic mode]]
 
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
