@@ -2,16 +2,11 @@
 
 - A [[book]] I'm trying to write.
   - [[pull]] [[book]].
-  - [[flancia]] is meant to be a [[protopia]].
-- My [[blog]].
-  - [[go]] https://flancia.org
-  - Where it all started. Flancia existed before the Agora did.
-- A [[collective]].
-  - [[flancia coop]]
 - A [[place]] in my mind.
+  - A [[protopia]].
   - The world of the [[Flancians]]. A world similar to ours but also much unlike.
-  - In Flancia there are many [[polis]].
-  - In Flancia there are some [[bolos]].
+  - In Flancia there are many [[bolos]].
+  - In Flancia there is an [[agora]].
   - I am a [[Flancian]] and this is my manifesto:
     - In [[Flancia]] there is no [[poverty]].
     - In [[Flancia]] there is no [[privilege]].
@@ -27,8 +22,14 @@
     - They help others by never giving up on trying to [[change the world]] for [[good]].
   - In [[Flancia]] you consider joining a [[revolution]].
  - a [[list]].
-  - Of people and things contained therein.
+  - Of [[people]] and [[things]] contained therein.
+- My [[blog]].
+  - [[go]] https://flancia.org
+  - Flancia existed before the Agora did.
 - [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+
+- A [[collective]].
+  - [[flancia coop]]
 - Have I ever told you that in Flancia there is an [[Agora]]?
 
 https://twitter.com/flancian/status/1298701482997538822

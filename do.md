@@ -1,5 +1,7 @@
 # Do
 
+https://twitter.com/flancian/status/1386048603496529925
+
 - [[pomodoro]]
   - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
@@ -71,8 +73,6 @@
     - added support for [[yubnub]] like particles
     - [[branch]] agora-server/branch
 
-
-  
 https://twitter.com/flancian/status/1374462566395617286
 
 
