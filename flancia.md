@@ -25,7 +25,7 @@
   - Of [[people]] and [[things]] contained therein.
 - My [[blog]].
   - [[go]] https://flancia.org
-  - Flancia existed before the Agora did.
+  - Flancia existed before the [[agora]].
 - [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 
 - A [[collective]].
