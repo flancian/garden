@@ -22,11 +22,11 @@
     - by trying to explore [[protopoi]].
   - In [[Flancia]] cooperative groups thrive through [[federation]] and rational government.
     - [[distributed]] [[heterarchy]] through [[liquid democracy]].
- - a [[list]].
-  - Of [[people]] and [[things]] contained therein.
-- My [[blog]].
+- a [[blog]].
   - [[go]] https://flancia.org
   - Flancia existed before the [[agora]] but is defined by it.
+- a [[list]].
+  - Of [[people]] and [[things]] contained therein.
 - [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 
 - A [[collective]].
