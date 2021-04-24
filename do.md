@@ -1,16 +1,17 @@
 # Do
 
 - [[pomodoro]]
-  - [ ] fix user page, sort by date
   - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
   - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
     - see [[notebook]]
+    - [x] fix user page, sort by date
       - configure [[monitoring]]
         - one pomodoro for moa, most users
         - one pomodoro for anagora
     - do [[moa]]
       - integrate vera's code
+        - although vera into [[ctzn]]; perhaps prioritize a [[agora ctzn]]
       - review [[go/moa/bugs]]
     - if I advance all three of the previous, I get candy: fix [[agora graphs]]
     - read [[bell hooks]]
