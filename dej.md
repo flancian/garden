@@ -29,6 +29,11 @@
   - ui / ux experiments
   - [[roadmap]]
     - [[goals]] plus [[timeframes]]
+    - see notebook
+  - [[push]] [[do]]
+    - incorporate reading alexander into the agora
+  - [[armengol]] how did you manage taking notes for [[reading alexander]]?
+
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
 - [[push]] [[pointless]] 
