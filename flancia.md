@@ -14,18 +14,18 @@
   - In Flancia people try to act [[honestly]], [[charitably]], [[compassively]], [[ethically]], [[pro-socially]],[[ cooperatively]], [[rationally]].
   - In Flancia everybody [[thrives]].
   - In Flancia, people dedicate a fraction of their free time and resources to help others.
-    - They help others by volunteering [[time]] and [[resources]] as they can. 
-    - They help others by being [[solidary]].
-    - They help others by being [[charitable]].
-    - They help others by [[being open]].
-    - They help others by [[forgiving]] them.
-    - They help others by never giving up on trying to [[change the world]] for [[good]].
-  - In [[Flancia]] you consider joining a [[revolution]].
+    - by volunteering [[time]] and [[resources]] as they can. 
+    - by being [[solidary]].
+    - by being [[charitable]].
+    - by [[being open]].
+    - by practicing [[empathy]] and [[forgiveness]].
+    - by trying to explore [[protopoi]].
+  - In [[Flancia]] power is [[decentralized]], [[distributed]] and delegated through [[liquid democracy]].
  - a [[list]].
   - Of [[people]] and [[things]] contained therein.
 - My [[blog]].
   - [[go]] https://flancia.org
-  - Flancia existed before the [[agora]].
+  - Flancia existed before the [[agora]] but is defined by it.
 - [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 
 - A [[collective]].
