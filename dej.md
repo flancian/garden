@@ -33,6 +33,7 @@
   - [[push]] [[do]]
     - incorporate reading alexander into the agora
   - [[armengol]] how did you manage taking notes for [[reading alexander]]?
+    - [[jonathan]] mostly on paper; tried transferring later but couldn't make the time
 
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
