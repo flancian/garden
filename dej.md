@@ -18,7 +18,7 @@
   - exploratory mode?
 - [[topics]]
   - [[jonathan]] is there a simple way to get a git repository of markdown notes?
-    - [[kaleido]]
+    - [[flancian]] [[kaleido]] is looking nice!
 
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
