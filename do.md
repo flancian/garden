@@ -13,14 +13,14 @@
       - integrate vera's code
         - although vera into [[ctzn]]; perhaps prioritize a [[agora ctzn]]
       - review [[go/moa/bugs]]
-    - if I advance all three of the previous, I get candy: fix [[agora graphs]]
-    - read [[bell hooks]]
+    - fix [[agora graphs]]
     - [[wikilinks everywhere]]
       - decided on what the v0 really *is*. which scope, which repo?
         - option 1: [[etherpad wikilinks]]
         - option 2: [[agora ext]]? perhaps replace jquery with d3?
         - [[agora ext]] it is
         - do one pomodoro on it
+    - read [[bell hooks]]
     - write [[on cringe]] / [[agora polls]]
       - about explicit rational (mathematical) modelling of group dynamics through social media discourse
       - is [[hack the planet]] cringe? should it be?
@@ -29,6 +29,7 @@
     - run [[weekly review]]
     - [[push]] [[later]]
       - try [[hometown]]
+        - hmm, [[ctzn]] looks more interesting
 - An [[action]] in the [[agora]].
   - This is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
   - [[daily]], I try to check for pending [[work]]:
