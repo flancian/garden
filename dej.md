@@ -12,6 +12,13 @@
   - [[workaholic mode]]
   - sometimes feels like he's "lost the ability to have fun"
   - [[2h30m]] away from [[barcelona]]
+  - when he goes he ends up meetings lots of people in a cluster/sequence
+  - (reminded me of my visits to buenos aires)
+  - when you're working too much, it's easy to become less efficience/diverge
+  - exploratory mode?
+- [[topics]]
+  - [[jonathan]] is there a simple way to get a git repository of markdown notes?
+    - [[kaleido]]
 
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
