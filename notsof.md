@@ -1,10 +1,11 @@
 # Notsof
 
-- [[push]] [[reading]] 
-  - [[pull]] [[notes-on-the-synthesis-of-form]]
-  - [[hypothesis]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
+- a [[book]]
+  - [[push]] [[reading]] 
+    - [[pull]] [[notes-on-the-synthesis-of-form]]
+    - [[hypothesis]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
     - [[go]] [[hypothesis]]
-- [[systems]], [[models]]
+  - [[systems]], [[models]]
 
 See annotations/highlights in [[hypothesis]] above for inline commentary.
 
