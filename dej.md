@@ -26,9 +26,9 @@
           - shared document mode
             - [[priority]]
       - nice thing about [[etherpad]] in an activity yesterday is that it can be ephemeral; it can be unstructured; it can have structure
-  - 
- - ui / ux experiments
-
+  - ui / ux experiments
+  - [[roadmap]]
+    - [[goals]] plus [[timeframes]]
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
 - [[push]] [[pointless]] 
