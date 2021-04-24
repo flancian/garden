@@ -2,6 +2,6 @@
 
 - A [[project]]
   - [[twitter client]]
-  - [[go]] birdbear.app
+  - [[go]] https://birdbear.app
 
 
