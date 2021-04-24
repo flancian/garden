@@ -19,6 +19,15 @@
 - [[topics]]
   - [[jonathan]] is there a simple way to get a git repository of markdown notes?
     - [[flancian]] [[kaleido]] is looking nice!
+    - [[reading alexander]] repository could be an experiment
+      - [[two modes]] at least:
+        - conversation mode
+        - [[do]]
+          - shared document mode
+            - [[priority]]
+      - nice thing about [[etherpad]] in an activity yesterday is that it can be ephemeral; it can be unstructured; it can have structure
+  - 
+ - ui / ux experiments
 
 ## [[2021-04-03]]
 - Vacaciones vs trabajo en modo freelance
