@@ -1,22 +1,7 @@
 # Reading Alexander
 
 - a [[book club]]
-  - [[git]] https://github.com/JonathanLorand/patterning
-    - [[pull]] [[christopher-alexander-reading-group]]
-    - [[pull]] [[patterning]]
-  - [[pull]] [[notes on the synthesis of form]]
-    - also [[notsof]]
-  - [[pull]] [[a pattern language]] 
-    - also [[apl]]
-  - [[pull]] [[the timeless way of building]]
-    - also [[ttwob]]
-  - [[dynamics]]
-    - [[go]] https://lorand.earth/patterning/
-      - [[initial meeting]] in late [[february 2020]]
-      - [[personal]] and [[group]] note taking
-        - [[etherpad]] or [[wiki]] unclear
-  - [[dropbox]] https://www.dropbox.com/sh/5rf0aq0hky456nz/AAAZi2LtJBWxHr7t-pFmuk-Pa?dl=0
-
+  - [[pull]] [[patterning]]
 ## [[2021-03-17]]
 - Next instance. 
 
