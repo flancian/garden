@@ -1,5 +1,6 @@
 # Donate
 
+- [[go]] https://funds.effectivealtruism.org/donate/allocation
 - A [[donation]] is an expression of:
   - [[solidarity]]
   - [[charity]]
