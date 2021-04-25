@@ -1,0 +1,4 @@
+# aim
+
+- [[pull]] [[goals]] [[tagline]]
+
