@@ -6,4 +6,6 @@
     - [[the timeless way of building]]
     - [[a pattern language]]
     - [[the oregon project]]
+  - [[book club]] 
+    - [[patterning]]
 
