@@ -8,11 +8,10 @@ set runtimepath^=~/.vim runtimepath+=~/.vim/after
 let &packpath=&runtimepath
 source ~/.vimrc
 ```
-
-- to install a new enough version for [[vscode]] [[neo vim]] extension
+- the [[vscode]] [[neo vim]] extension for some reason requires a development version that is annoying to install in new systems, so for now I've ditched it in favour of vim emulation in vscode
 
 ```
 sudo add-apt-repository ppa:neovim-ppa/stable
-sudo apt-get update
-sudo apt-get install neovim
+sudo apt-get upmdate
+sudo apt-get install neovi
 ```
