@@ -6,5 +6,6 @@
   - "life can't be produced from a drawing -- it can only be produced through a process"
   - the tokyo school was designed with "full participation from teachers and students". the person who drove the project found him through [[the oregon experiment]].
   - [[homeless shelter]]
+    - [[san jose]]
     - [[housing for independent people]]
   - [[wholeness]] is the name of the quality here -- is it the same as the [[nameless quality]] in [[the timeless way of building]]?
