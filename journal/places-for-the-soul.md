@@ -7,3 +7,4 @@
   - the tokyo school was designed with "full participation from teachers and students". the person who drove the project found him through [[the oregon experiment]].
   - [[homeless shelter]]
     - [[housing for independent people]]
+  - [[wholeness]] is the name of the quality here -- is it the same as the [[nameless quality]] in [[the timeless way of building]]?
