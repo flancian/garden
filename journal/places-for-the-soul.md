@@ -17,3 +17,6 @@
   - [[aside]]
     - I wonder if alexander liked the voiceover, it sounds a bit robotic to me
     - I would totally go on a walking tour with [[christopher alexander]]
+  - [[trusses]] were a contentious point
+    - very complex
+    - introduced delays, which resulted in the shelter not being ready for winter
