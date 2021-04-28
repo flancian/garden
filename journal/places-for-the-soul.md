@@ -4,7 +4,7 @@
   - about [[christopher alexander]]
   - [[go]] https://vimeo.com/ondemand/placesforthesoul
   - "life can't be produced from a drawing -- it can only be produced through a process"
-  - the tokyo school was designed with "full participation from teachers and students". the person who drove the project (high school principal) found him through [[the oregon experiment]].
+  - the [[tokyo school]] was designed with "full participation from teachers and students". the person who drove the project (high school principal) found him through [[the oregon experiment]].
   - [[homeless shelter]]
     - [[san jose]]
     - [[housing for independent people]]
