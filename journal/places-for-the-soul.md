@@ -13,3 +13,4 @@
   - [[dead zones]]
     - "people over there look like they're in [[alphaville]]"
     - "absolute intent to destroy emotion"
+  - [[meta]] I wonder if alexander liked the voiceover, it sounds a bit robotic to me
