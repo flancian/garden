@@ -10,6 +10,7 @@
     - [[housing for independent people]]
     - small windows
   - [[wholeness]] is the name of the quality here -- is it the same as the [[nameless quality]] in [[the timeless way of building]]?
+    - (some people aren't driven by) "an all consuming desire to produce wholeness"  
   - [[dead zones]]
     - "people over there look like they're in [[alphaville]]"
     - "absolute intent to destroy emotion"
