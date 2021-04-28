@@ -8,7 +8,10 @@
   - [[homeless shelter]]
     - [[san jose]]
     - [[housing for independent people]]
-    - small windows
+    - small windows 
+    - [[trusses]] were a contentious point
+      - very complex
+      - introduced delays, which resulted in the shelter not being ready for winter
   - [[wholeness]] is the name of the quality here -- is it the same as the [[nameless quality]] in [[the timeless way of building]]?
     - (some people aren't driven by) "an all consuming desire to produce wholeness"  
   - [[dead zones]]
@@ -17,6 +20,3 @@
   - [[aside]]
     - I wonder if alexander liked the voiceover, it sounds a bit robotic to me
     - I would totally go on a walking tour with [[christopher alexander]]
-  - [[trusses]] were a contentious point
-    - very complex
-    - introduced delays, which resulted in the shelter not being ready for winter
