@@ -9,3 +9,5 @@
     - [[san jose]]
     - [[housing for independent people]]
   - [[wholeness]] is the name of the quality here -- is it the same as the [[nameless quality]] in [[the timeless way of building]]?
+  - [[dead zones]]
+    - "people over there look like they're in [[alphaville]]"
