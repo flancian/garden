@@ -77,4 +77,5 @@
  ;; input "{{{poem(red,blue)}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}}
+ :macros {}
+ :date-formatter "yyyy-MM-dd"}
