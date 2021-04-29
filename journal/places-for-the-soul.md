@@ -3,3 +3,20 @@
 - a [[documentary]]
   - about [[christopher alexander]]
   - [[go]] https://vimeo.com/ondemand/placesforthesoul
+  - "life can't be produced from a drawing -- it can only be produced through a process"
+  - the [[tokyo school]] was designed with "full participation from teachers and students". the person who drove the project (high school principal) found him through [[the oregon experiment]].
+  - [[homeless shelter]]
+    - [[san jose]]
+    - [[housing for independent people]]
+    - small windows 
+    - [[trusses]] were a contentious point
+      - very complex
+      - introduced delays, which resulted in the shelter not being ready for winter
+  - [[wholeness]] is the name of the quality here -- is it the same as the [[nameless quality]] in [[the timeless way of building]]?
+    - (some people aren't driven by) "an all consuming desire to produce wholeness"  
+  - [[dead zones]]
+    - "people over there look like they're in [[alphaville]]"
+    - "absolute intent to destroy emotion"
+  - [[aside]]
+    - I wonder if alexander liked the voiceover, it sounds a bit robotic to me
+    - I would totally go on a walking tour with [[christopher alexander]]
