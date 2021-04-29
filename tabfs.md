@@ -1,10 +1,12 @@
 # Tabfs
 
-- a [[project]]
-  - [[fuse]] [[filesystem]]
+- a [[tool]]
+  - a [[fuse]] [[filesystem]]
   - Lets you mount your browser tabs (!).
   - [[by]] [[omar rizwan]]
-  - [[go]] https://omar.website/tabfs/
+  - [[site]] https://omar.website/tabfs/
+    - [[go]] [[site]]
   - [[git]] https://github.com/osnr/TabFS
+    - [[bugs]] https://github.com/osnr/TabFS/issues
 
 
