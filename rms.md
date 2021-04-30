@@ -1,4 +1,5 @@
 # rms
 
-- [[pull]] [[richard stallman]]
+- a [[hacker]]
+  - [[pull]] [[richard stallman]]
 
