@@ -1,6 +1,7 @@
 # Goals
 
 - These are my [[goals]]. What are yours?
+  - [[pull]] [[public utility]]
   - To build an [[Agora]].
       - The Agora is an [[experimental]] [[social network]].
       - If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016).
@@ -11,4 +12,3 @@
   - To drive and support projects of [[public utility]].
 - A [[list]].
   - [[pull]] [[aim]]
-
