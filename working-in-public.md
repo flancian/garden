@@ -26,6 +26,7 @@
 - GNU and the [[free software]] movement are mentioned relatively in passing.
 - But overall this chapter read as a dismissal of past movements; I have to admit I ended up with the feeling she was selling them short.
   - "[[Hackers]] are characterized by bravado, showmanship, misechievousness, and a deep mistrust of authority. Hacker culture still lives on today, in the way that beatniks, hippies, and Marxists still exist, but hackers don't capture the software cultural zeitgeist in the same way they used to."
+- She follows [[steven levy]].
 
 #### 2. The structure of an open source project
 #### 3. Roles, incentives, and relationships
