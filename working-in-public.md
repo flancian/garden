@@ -11,14 +11,14 @@
 
 ### Introduction
 
-### Part 1: how people make
+### Part 1: How people make
 
 #### 1. Github as a platform
 
 #### 2. The structure of an open source project
 #### 3. Roles, incentives, and relationships
 
-### Part 2: how people maintain
+### Part 2: How people maintain
 
 #### 4. The work required by software
 
