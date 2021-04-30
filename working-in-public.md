@@ -1,9 +1,9 @@
 # Working in Public
 
 - a [[book]]
-  - [[subtitle]] the making and maintenance of [[open source]] software
   - by [[nayafia]]
     - https://twitter.com/nayafia/status/1273304859387719680
+  - [[subtitle]] "the making and maintenance of [[open source]] software"
   - [[go]] https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862
   - [[club]] https://lu.ma/t2rcivwh
 
