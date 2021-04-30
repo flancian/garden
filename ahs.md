@@ -15,4 +15,4 @@
     - [[web annotations]] could 
 - pending names :)
   - one for the [[mechanism]] for summarization -- [[distil]]?
-  - I can't believe it's not (...)
+  - I can't believe it's not (...) -- [[synthesize]]?
