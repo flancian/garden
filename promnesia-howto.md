@@ -8,7 +8,7 @@ From [[go/promnesia/git]]:
 
 "[[Promnesia]] is a [[browser extension]] for Chrome and Firefox which serves as a web surfing copilot, enhancing your browsing history and web exploration experience"
 
-I would myself qualify this a bit and say that Promnesia is a tool with several legs, one of which is the browser extension (. To provide full benefits, you also need to install a local process in your machine (a "backend"). In any case, let's begin:
+I would myself qualify this a bit and say that Promnesia is a tool with several legs, one of which is the browser extension; to get the full benefits, you also need to install a local process in your machine (a "backend"). In any case, let's begin:
 
 1. Install the browser extension component.
   1. Currently supported are [Firefox](https://addons.mozilla.org/en-US/firefox/addon/promnesia/ and [Chrome](https://chrome.google.com/webstore/detail/promnesia/kdmegllpofldcpaclldkopnnjjljoiio). Choose one :) I use Firefox.
