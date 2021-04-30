@@ -6,6 +6,8 @@
     - [[the timeless way of building]]
     - [[a pattern language]]
     - [[the oregon project]]
-  - [[book club]] 
+  - [[push]] [[book club]] 
     - [[patterning]]
-
+  - [[starred]]
+    - [[places for the soul]]
+- [[pull]] [[patterns]]
