@@ -10,9 +10,9 @@ From [[go/promnesia/git]], which I will be following in this procedure:
 
 I would myself qualify this a bit and say that Promnesia is a tool with several legs, one of which is the browser extension; to get the full benefits, you also need to install a local process in your machine (a "backend"). In any case, let's begin:
 
-- Install the browser extension component.
+- Install the *browser extension* component.
   - Currently supported are [Firefox](https://addons.mozilla.org/en-US/firefox/addon/promnesia/) and [Chrome](https://chrome.google.com/webstore/detail/promnesia/kdmegllpofldcpaclldkopnnjjljoiio). Choose one :) I use Firefox.
-- Install the local process.
+- Install the *local process*.
   - On Linux, type in your terminal: ```pip3 install --user promnesia bs4 lxml mistletoe logzero```. If pip3 is not found, please refer to [[pip]] to install it.
   - On OSX: should be the same.
   - On Windows: unsure. I have a Windows install so I might give it a try soon and report back; [[let me know]] if you are interested and I'll prioritize this.
@@ -21,15 +21,15 @@ I would myself qualify this a bit and say that Promnesia is a tool with several 
   - Edit to your liking. I started from [[promnesia config]].
 - Start the local process.
   - `promnesia serve`
-- Make the local process sticky.
-  - `promnesia install`
+- Make the local process sticky across reboots.
+  - `promnesia install-server`
 - Configure the periodic indexer.
   - Add a [[cronjob]] that runs `promnesia index`. I run mine every X minutes.
 - Enjoy!
 
 ## Thoughts / asides:
 
-- *love* the pip3 based install. *love* `promnesia install` to set up systemctl
+- *love* the pip3 based install. *love* `promnesia install-server` to set up systemctl!
 - It might be good to just make optional dependencies default, so that `pip3 install --user promnesia` suffices?
 - I got this exception when trying to run promnesia after updating my config:
   - `AssertionError: /home/flancian/.local/share/promnesia/promnesia.sqlite`
