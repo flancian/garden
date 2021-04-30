@@ -5,5 +5,10 @@
   - by [[nayafia]]: https://twitter.com/nayafia/status/1273304859387719680
   - [[club]] https://lu.ma/t2rcivwh
 
+## Notes
+
+- [[chapter 1]]
+- [[chapter 2]]
+
 
 
