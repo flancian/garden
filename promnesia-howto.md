@@ -2,5 +2,6 @@
 
 - a [[howto]] for [[promnesia]]j.
 
-I've been toying with the idea of writing more long form here in the agora, so 
+From [[go/promnesia/git]]:
 
+"[[Promnesia]] is a [[browser extension]] for Chrome and Firefox which serves as a web surfing copilot, enhancing your browsing history and web exploration experience"
