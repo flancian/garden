@@ -1,7 +1,9 @@
 # flancia collective
 
-- a [[stoa]].
-  - an [[open collective]].
-    - [[go]] https://opencollective.com/flancia
-    - [[flancian]] [[vera]] 
+- [[flancia]] is a [[collective]]
+  - an [[open collective]]
+    - [[open source]]
+    - [[open ethics]]
+  - [[go]] https://opencollective.com/flancia
+  - [[members]] [[flancian]] [[vera]] 
 
