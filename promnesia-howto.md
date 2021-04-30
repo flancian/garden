@@ -18,14 +18,14 @@ I would myself qualify this a bit and say that Promnesia is a tool with several 
   - On Windows: unsure. I have a Windows install so I might give it a try soon and report back; [[let me know]] if you are interested and I'll prioritize this.
 - Configure the local process.
   - `promnesia config` to seed a config in `.config/promnesia/config.py`
-  - Edit to your liking. I started from [[promnesia config]].
+  - Edit to your liking. Refer to [[promnesia config]] for examples.
 - Start the local process.
   - `promnesia serve`
 - Make the local process sticky across reboots.
   - `promnesia install-server`
 - Configure the periodic indexer. This means adding a [[cronjob]] that runs `promnesia index`. I run mine every 10 minutes.
-  - `crontab -e`
-  - add `*/10 * * * * promnesia index >/tmp/promnesia-index-stdout.log 2>/tmp/promnesia-index-stderr.log` and save
+  - `crontab -e` and add the following
+  - `*/10 * * * * promnesia index >/tmp/promnesia-index-stdout.log 2>/tmp/promnesia-index-stderr.log`
 - Enjoy!
 
 ## Thoughts / asides:
