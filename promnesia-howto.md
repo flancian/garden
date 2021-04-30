@@ -23,8 +23,9 @@ I would myself qualify this a bit and say that Promnesia is a tool with several 
   - `promnesia serve`
 - Make the local process sticky across reboots.
   - `promnesia install-server`
-- Configure the periodic indexer.
-  - Add a [[cronjob]] that runs `promnesia index`. I run mine every X minutes.
+- Configure the periodic indexer. This means adding a [[cronjob]] that runs `promnesia index`. I run mine every 10 minutes.
+  - `crontab -e`
+  - add `*/10 * * * * promnesia index >/tmp/promnesia-index-stdout.log 2>/tmp/promnesia-index-stderr.log` and save
 - Enjoy!
 
 ## Thoughts / asides:
