@@ -1,2 +1,4 @@
 # nft
 
+- [[pull]] [[nfts]]
+
