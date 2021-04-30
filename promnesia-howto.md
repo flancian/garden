@@ -19,7 +19,7 @@ I would myself qualify this a bit and say that Promnesia is a tool with several 
 - Configure the local process.
   - `promnesia config` to seed a config in `.config/promnesia/config.py`
   - Edit to your liking. Refer to [[promnesia config]] for examples.
-  - You can install additional sources by referring to https://github.com/karlicoss/promnesia/blob/master/doc/SOURCES.org.
+  - You can install additional sources by referring to [[promnesia sources]].
 - Configure the periodic indexer. This means adding a [[cronjob]] that runs `promnesia index`. I run mine every 10 minutes.
   - `crontab -e` and add the following
   - `*/10 * * * * ~/.local/bin/promnesia index >/tmp/promnesia-index-stdout.log 2>/tmp/promnesia-index-stderr.log`
