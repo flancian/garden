@@ -15,4 +15,6 @@
     - [[vscode]]
     - [[agora server]] 
     - [[agora bridge]] 
+    - [[moa]]
+    - [[flancia collective]]
 

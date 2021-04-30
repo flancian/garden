@@ -1,6 +1,7 @@
 # flancia collective
 
-- a [[stoa]]
-  - [[go]] https://opencollective.com/flancia
-  - [[flancian]] [[vera]] 
+- a [[stoa]].
+  - an [[open collective]].
+    - [[go]] https://opencollective.com/flancia
+    - [[flancian]] [[vera]] 
 
