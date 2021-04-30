@@ -1,4 +1,4 @@
 # let me know
 
-- [[pull]] [[flancian]]
+- For my contact information, please refer to [[flancian]].
 
