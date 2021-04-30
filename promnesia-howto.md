@@ -18,7 +18,7 @@ I would myself qualify this a bit and say that Promnesia is a tool with several 
   - On Windows: unsure. I have a Windows install so I might give it a try soon and report back; [[let me know]] if you are interested and I'll prioritize this.
 - Configure the local process.
   - `promnesia config` to seed a config in `.config/promnesia/config.py`
-  - Edit to your liking. I started from [[promnesia example config]].
+  - Edit to your liking. I started from [[promnesia config]].
 - Start the local process.
   - `promnesia serve`
 - Configure the periodic indexer.
