@@ -4,7 +4,7 @@
 
 In this howto I'll try to document my experience getting Promnesia from zero to fully up and running and integrated with my [[personal knowledge management]] system and the [[agora]].
 
-From [[go/promnesia/git]]:
+From [[go/promnesia/git]], which I will be following in this procedure:
 
 "[[Promnesia]] is a [[browser extension]] for Chrome and Firefox which serves as a web surfing copilot, enhancing your browsing history and web exploration experience"
 
@@ -21,15 +21,32 @@ I would myself qualify this a bit and say that Promnesia is a tool with several 
   - Edit to your liking. I started from [[promnesia config]].
 - Start the local process.
   - `promnesia serve`
+- Make the local process sticky.
+  - `promnesia install`
 - Configure the periodic indexer.
   - Add a [[cronjob]] that runs `promnesia index`. I run mine every X minutes.
 - Enjoy!
 
 ## Thoughts / asides:
 
+- *love* the pip3 based install. *love* `promnesia install` to set up systemctl
 - It might be good to just make optional dependencies default, so that `pip3 install --user promnesia` suffices?
 - I got this exception when trying to run promnesia after updating my config:
   - `AssertionError: /home/flancian/.local/share/promnesia/promnesia.sqlite`
-  - It was because I had forgotten to run the indexer :)
-- Merging auto and guess in the config does sound like a good idea (as per the comment in the [[promnesia example config]]h.
+  - It was because I had forgotten to run the indexer :) The documentation does say to bring up the indexer first though, my bad.
+- Merging `auto` and `guess` in the config does sound like a good idea (as per the comment in the [[promnesia config]]).
+- `promnesia index` mostly works, yields 8601 visits but 7 errors:
+
+```[ERROR   2021-04-30 14:14:26 promnesia __main__.py:99] 7 errors, printing them out:
+[ERROR   2021-04-30 14:14:26 promnesia __main__.py:101]     'RuntimeError' object has no attribute 'norm_url'
+[ERROR   2021-04-30 14:14:26 promnesia __main__.py:101]     'RuntimeError' object has no attribute 'norm_url'
+[ERROR   2021-04-30 14:14:26 promnesia __main__.py:101]     'RuntimeError' object has no attribute 'norm_url'
+[ERROR   2021-04-30 14:14:26 promnesia __main__.py:101]     'RuntimeError' object has no attribute 'norm_url'
+[ERROR   2021-04-30 14:14:26 promnesia __main__.py:101]     'RuntimeError' object has no attribute 'norm_url'
+[ERROR   2021-04-30 14:14:26 promnesia __main__.py:101]     'RuntimeError' object has no attribute 'norm_url'
+[ERROR   2021-04-30 14:14:26 promnesia __main__.py:101]     'RuntimeError' object has no attribute 'norm_url'
+[ERROR   2021-04-30 14:14:26 promnesia __main__.py:102] 7 errors, exit code 1
+```
+
+Unsure how to debug further except going in and adding more logging in `__main__.py`.
 
