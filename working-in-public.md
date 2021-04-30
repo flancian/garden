@@ -27,6 +27,8 @@
 - But overall this chapter read as a dismissal of past movements; I have to admit I ended up with the feeling she was selling them short.
   - "[[Hackers]] are characterized by bravado, showmanship, misechievousness, and a deep mistrust of authority. Hacker culture still lives on today, in the way that beatniks, hippies, and Marxists still exist, but hackers don't capture the software cultural zeitgeist in the same way they used to."
 - She follows [[steven levy]].
+- She lists [[rms]], [[esr]], [[linux torvalds]] in the same paragraph. She dedicates two paragraphs to expanding on each.
+  - Personally I don't think [[esr]] is on the same level as the other two, although I respect him. I think he probably would agree?
 
 #### 2. The structure of an open source project
 #### 3. Roles, incentives, and relationships
