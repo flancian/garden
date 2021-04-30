@@ -7,11 +7,12 @@
     - [[bmock]], [[EduneV]], [[seconds_0]], [[jonathan-the-utopian]], [[ablueaeshna]], [[naim]] are all interested.
     - Update: I am very glad about [[patterning]], organized by [[lorand]].
       - [[reading alexander]].
-  - [[go]] [[wp]]
   - [[wp]] https://en.wikipedia.org/wiki/A_Pattern_Language
-  - [[ipfs]] ipfs://QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
-  - [[old]] via.hypothes.is/ipfs.io/ipfs/QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
+    - [[go]] [[wp]]
   - [[hypothesis]] https://via.hypothes.is/https://stoa.anagora.org/ipfs/QmcWQb2wb2JQ74yyuiKth9UUe911pvjHW1ZghbF74dh6vg
+    - [[ipfs]] ipfs://QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
+    - Book is from [[1977]], please apply your own [[copyright law]] and ignore this link as you wish. 
+    - [[other]] via.hypothes.is/ipfs.io/ipfs/QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
 
 ## Patterns
 - [[45]] [[necklace of community projects]]
