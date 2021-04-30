@@ -29,6 +29,7 @@
 - She follows [[steven levy]].
 - She lists [[rms]], [[esr]], [[linux torvalds]] in the same paragraph. She dedicates two paragraphs to expanding on each.
   - Personally I don't think [[esr]] is on the same level as the other two, although I respect him. I think he probably would agree?
+  - She mentions [[sex tips for geeks]], which I think just painted a blurred picture.
 
 #### 2. The structure of an open source project
 #### 3. Roles, incentives, and relationships
