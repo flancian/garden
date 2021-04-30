@@ -1,0 +1,4 @@
+# rms
+
+- [[pull]] [[richard stallman]]
+
