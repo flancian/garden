@@ -5,4 +5,6 @@
   - plan [[week 18]]
   - test [[wikilinks everywhere]] extension by [[vera]]
   - move [[moa dev]] to [[vera]]'s branch with git dumping
+  - monitoring for [[moa]]
+  - monitoring for [[an agora]]
 
