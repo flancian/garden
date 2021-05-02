@@ -1,5 +1,5 @@
 # firefox qa
 
-- [[discourse]] https://quality.mozilla.org/get-involved/
+- [[discourse]] https://discourse.mozilla.org/c/quality-assurance/96
   - [[go]] [[discourse]]
 
