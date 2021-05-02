@@ -1,6 +1,7 @@
 # kepta
 
 - a [[person]].
+  - [[friend]].
   - [[coder]]
     - [[bangle]]
   - [[twitter]] https://twitter.com/kushan2020
