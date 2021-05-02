@@ -7,8 +7,12 @@
     - we [[work in public]]
       - [[open source]]
       - [[open ethics]]
+      - [[matrix]] https://matrix.to/#/#flancia:matrix.org?via=matrix.org
+      - [[telegram]] 
+      - [[telegram]]
   - [[members]] (in order of joining)
     - [[flancian]] 
     - [[vera]] 
     - [[karlicoss]]
+    - reach out to a member of the collective if you are interested in joining!
 
