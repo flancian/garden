@@ -1,7 +1,9 @@
 # bangle
 
-- [[go]] https://bangle.io
-  - [[issues]] https://github.com/bangle-io/bangle-io-issues
-  - [[git]] https://github.com/bangle-io/bangle.dev
-  - [[go]] [[git]]
+- an [[agora editor]]
+  - [[go]] https://bangle.io
+    - [[git]] https://github.com/bangle-io/bangle.dev
+      - [[go]] [[git]]
+    - [[issues]] https://github.com/bangle-io/bangle-io-issues
+    - [[docs]] https://bangle.dev/
 
