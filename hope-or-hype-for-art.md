@@ -21,3 +21,4 @@
   - [[ipfs]] allows you to refer to a fingerprint that will remain constant
   - [[nft storage]] offers a simple API for storing NFTs
     - uses [[ipfs]] and [[filecoin]] under the hood
+- [[sarah friend]]
