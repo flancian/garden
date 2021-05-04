@@ -66,3 +66,7 @@
   - [[molly mackinlay]] we have to perhaps do a better job at communicating that [[nfts]] are not the artwork, they are more like a receipt.
 - [[wendy hanamura]] question on the chat; people think perhaps the panel is too one-sided (positive) and were expecting pros/cons
   - [[ruth catlow]] the environmental impact question steamrolled over the fact that many artists in this field are very much socially aware; the moral panic prevented us from having a more interesting conversation
+- [[wendy hanamura]] question from chat: why do we need to introduce scarcity? why isn't patreon good enough?
+  - [[ruth catlow]] patreon works well for some things
+  - [[sarah friend]] one of the things patreon is critized for is (...)
+- (dropping out due to conflict, check notes in [[@vera/2021-05-04]] for more)
