@@ -33,3 +33,5 @@
     - "nfts change the copyright status of items"
       - nope, they don't interact with copyright. even if you buy an NFT, the copyright stays with the artist.
       - note this is true also of physical artworks.
+- [[ruth catlow]]
+  - 
