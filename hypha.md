@@ -1,4 +1,5 @@
 # hypha
 
-- [[go]] https://hypha.coop
+- a [[coop]]
+  - [[go]] https://hypha.coop
 
