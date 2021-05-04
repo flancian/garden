@@ -57,3 +57,10 @@
     - (who made more money with one nft that during five years of producing digital content previously)
   - [[sarah friend]]
     - in february this year an artist made a website called [[cryptoart wtf]], you could type the name of any artist and see their [[carbon footprint]]
+    - never thought she would spend so much time fact checking this kind of thing
+- [[wendy hanamura]] perhaps the reason that people are anti-nft is environmental mostly?
+  - [[jin]] the ethereum community is solving this with proof of stake. layer2 is also rolling out.
+  - [[sarah friend]] true that PoW is expensive
+  - [[wendy]] is it true you haven't built on PoW for a while?
+  - [[sarah friend]] yes, haven't worked on a [[pow]] blockchain since 2017. have found it not even difficult to avoid [[pow]].
+  - [[molly mackinlay]] we have to perhaps do a better job at communicating that [[nfts]] are not the artwork, they are more like a receipt.
