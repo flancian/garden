@@ -7,6 +7,6 @@
   - To contribute to [[effective altruism]] and other projects and movements in the space of incremental [[world improvement]], in particular as enabled by digital tools and platforms.
     - To support [[universal basic income]] experiments.
     - To promote [[liquid democracy]].
-  - To explore [[protopoi]] with others.
+    - To explore [[protopoi]].
 
 
