@@ -35,3 +35,6 @@
       - note this is true also of physical artworks.
 - [[ruth catlow]]
   - we are seeing the art world and crypto economics colliding
+  - the art world faces awkward problems: 
+    - reconciling the value of a work of art within a social context vs its economic value
+    - funding -- many sources
