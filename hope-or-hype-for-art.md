@@ -29,4 +29,7 @@
       - 2014-2015
     - "nfts are ethereum specific"
       - they can run on any blockchain that supports contracts
-    - "
+    - nfts only make up 2-3% of ethereum contracts approx.
+    - "nfts change the copyright status of items"
+      - nope, they don't interact with copyright. even if you buy an NFT, the copyright stays with the artist.
+      - note this is true also of physical artworks.
