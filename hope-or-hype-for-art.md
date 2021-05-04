@@ -64,3 +64,5 @@
   - [[wendy]] is it true you haven't built on PoW for a while?
   - [[sarah friend]] yes, haven't worked on a [[pow]] blockchain since 2017. have found it not even difficult to avoid [[pow]].
   - [[molly mackinlay]] we have to perhaps do a better job at communicating that [[nfts]] are not the artwork, they are more like a receipt.
+- [[wendy hanamura]] question on the chat; people think perhaps the panel is too one-sided (positive) and were expecting pros/cons
+  - [[ruth catlow]] the environmental impact question steamrolled over the fact that many artists in this field are very much socially aware; the moral panic prevented us from having a more interesting conversation
