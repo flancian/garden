@@ -7,5 +7,10 @@
 
 ## Notes
 
+- got here late
 - [[zoom]] really has very very poor screencast quality it seems? I can't even read the text on the screen.
-- [[webaverse]]
+- [[jin]] presenting
+  - https://webaverse.com/accounts/0x31e4ca4c07aeb731183334532e80e273d34c47af
+  - [[webaverse]]
+  - [[cryptovoxels]]
+  - 
