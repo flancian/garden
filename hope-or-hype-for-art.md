@@ -37,4 +37,8 @@
   - we are seeing the art world and crypto economics colliding
   - the art world faces awkward problems: 
     - reconciling the value of a work of art within a social context vs its economic value
-    - funding -- many sources
+    - funding -- many sources, but not enough to fund every artist to a reasonable lifestyle
+    - art being a vehicle for speculation and money laundering
+  - the crypto world has many problems of its own:
+    - diversity problems -- the more prominent proponents are rich men
+    - exclusionary
