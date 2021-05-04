@@ -22,3 +22,4 @@
   - [[nft storage]] offers a simple API for storing NFTs
     - uses [[ipfs]] and [[filecoin]] under the hood
 - [[sarah friend]]
+  - dispelling NFT myths
