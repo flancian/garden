@@ -42,3 +42,7 @@
   - the crypto world has many problems of its own:
     - diversity problems -- the more prominent proponents are rich men
     - exclusionary
+  - what can NFTs do for us?
+    - create new funding models
+    - redefine ownership
+    - define new relationships between artists, patrons and ecosystems
