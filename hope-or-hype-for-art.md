@@ -71,3 +71,4 @@
   - [[ruth catlow]] patreon works well for some things
   - [[sarah friend]] one of the things patreon is critized for is (...)
 - (dropping out due to conflict, check notes in [[@vera/2021-05-04]] for more)
+- how do [[nfts]] rank for [[dweb principles]]?
