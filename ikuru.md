@@ -1,0 +1,4 @@
+# ikuru
+
+- [[mondegreen]] of [[ikiru]]
+

@@ -4,6 +4,7 @@
 - The running [[context]] of a procedure is the [[state]] on which it depends.
   - Some, potentially [[all]], of the state can be shared.
   - Our [[culture]] is [[shared state]].
+- [[flancia procedure]]
 
 
 
