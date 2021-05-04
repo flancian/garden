@@ -13,4 +13,7 @@
   - https://webaverse.com/accounts/0x31e4ca4c07aeb731183334532e80e273d34c47af
   - [[webaverse]]
   - [[cryptovoxels]]
-  - 
+- [[molly mackinlay]] from [[protocol labs]]
+  - an [[nft]] is just a contract in a blockchain.
+  - it doesn't solve the problem of hosting the content you are acquiring with the contract.
+  - [[ipfs]]
