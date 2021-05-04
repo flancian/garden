@@ -46,3 +46,14 @@
     - create new funding models
     - redefine ownership
     - define new relationships between artists, patrons and ecosystems
+  - common mistakes
+    - artists as producers of items of high value
+      - causes confusion and tension
+      - many artists bring high value to the nft ecosystem 
+  - [[async art]], [[hen]] were mentioned
+- [[wendy hanamura]] is the moderator
+- Q: what's been happening inside the nft world? 
+  - [[jin]]
+    - (who made more money with one nft that during five years of producing digital content previously)
+  - [[sarah friend]]
+    - in february this year an artist made a website called [[cryptoart wtf]], you could type the name of any artist and see their [[carbon footprint]]
