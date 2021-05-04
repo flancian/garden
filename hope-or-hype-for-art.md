@@ -18,3 +18,4 @@
   - it doesn't solve the problem of hosting the content you are acquiring with the contract.
   - sometimes people sell NFTs that just refer to a centralized URL that breaks/can be made to serve other content
   - [[ipfs]] allows you to refer to a fingerprint that will remain constant
+  - [[nft storage]] offers a simple API for storing NFTs
