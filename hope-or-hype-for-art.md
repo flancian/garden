@@ -23,3 +23,10 @@
     - uses [[ipfs]] and [[filecoin]] under the hood
 - [[sarah friend]]
   - dispelling NFT myths
+    - "nfts represent art"
+      - they can represent game assets, non fungible things off blockchain (real estate for example)
+    - "nfts are new"
+      - 2014-2015
+    - "nfts are ethereum specific"
+      - they can run on any blockchain that supports contracts
+    - "
