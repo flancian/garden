@@ -1,4 +1,4 @@
 # flancia goals
 
-- [[pull]] [[goals]] [[plan]] [[public utility]]
+- [[pull]] [[public utility]]
 
