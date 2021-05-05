@@ -1,6 +1,6 @@
 # Liquid Democracy
 
-- In Flancia they tried liquid democracy.
+- In [[Flancia]] they tried liquid democracy.
   - [[go]] https://en.wikipedia.org/wiki/Liquid_democracy
 - In liquid democracy you can choose a [[delegate]]. A delegate is a [[person]] who votes in your place on the ocassions in which you are unable or uninterested to do so.
   - [[experts]] are reasonable delegates.
