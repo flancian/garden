@@ -8,8 +8,7 @@
       - [[open source]]
       - [[open ethics]]
       - [[matrix]] https://matrix.to/#/#flancia:matrix.org?via=matrix.org
-      - [[telegram]] 
-      - [[telegram]]
+      - [[telegram]] https://web.telegram.org/#/im?p=g421619990
   - [[members]] (in order of joining)
     - [[flancian]] 
     - [[vera]] 
