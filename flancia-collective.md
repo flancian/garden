@@ -13,5 +13,6 @@
     - [[flancian]] 
     - [[vera]] 
     - [[karlicoss]]
+    - [[metasj]]
     - reach out to a member of the collective if you are interested in joining!
 
