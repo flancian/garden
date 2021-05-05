@@ -7,7 +7,7 @@
 - an [[intent]] for [[cooperation]]
 - [[codex]]
 - a node for every [[doi]]
-- https://gen.studio
+- [[gen studio]]
 - a canonical entity plus a conversation
 
 ## [[2021-04-30]]
