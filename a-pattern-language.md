@@ -17,4 +17,3 @@
 ## Patterns
 - [[45]] [[necklace of community projects]]
 - [[38]] [[carnival]]
-
