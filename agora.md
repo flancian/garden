@@ -4,15 +4,17 @@
   - [[push]] [[schelling points]]
 - **The Agora is a distributed knowledge graph and experimental social network.**
   - The [[aim]] of this [[agora]] is to pro-socially maintain a [[distributed knowledge graph]] tailored specifically to the general goal of solving problems: those of its [[users]] and [[society]] at large..
-  - As an Agora *guest* you can currently:
+  - As an Agora *guest user* or [[reader]] you can currently:
     - Navigate the Agora, which is composed of [[nodes]] which aggregate content from many users about the same topic or entity.
     - Make use of [[backlinks]] and [[pulled nodes]] to discover relevant content.
-  - As an Agora *user* you can:
+  - As an Agora *full user* or [[writer]] you can:
     - Have your content be surfaced to readers at relevant times (when they are visiting a [[node]] for which your content is considered relevant by the community).
     - Have relevant content be surfaced to you as you traverse your [[personal knowledge graph]].
     - Make use of [[agora actions]].
+	- See [[agora ]]
+	To be
   - Anyone can run an Agora of their own if they so desire. This Agora is [[open source]].
-- The [[agora]] has a [[search engine]].
+- This [[agora]] includes a [[search engine]].
   - It tries to search all [[agoras]], and also the internet as it manifests an [[intent to cooperate]].
     - See [[stoa]].
   - You can use [[open search]] to add it to your browser while you're visiting it.
