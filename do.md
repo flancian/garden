@@ -8,13 +8,16 @@ https://twitter.com/flancian/status/1386048603496529925
   - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
     - see [[notebook]]
       - configure [[monitoring]]. 
-      - [[estimates]]:
+      - [[estimate]]:
         - [ ] one pomodoro for moa
         - [ ] one pomodoro for anagora
     - do [[moa]]
+      - [[estimate]]
+        - [ ] one pomodoro
       - integrate vera's code
-        - although vera into [[ctzn]]; perhaps prioritize a [[agora ctzn]]
+        - find it
       - review [[go/moa/bugs]]
+    - [[ctzn]]; perhaps prioritize a [[agora ctzn]]
     - fix [[agora graphs]]
     - [[wikilinks everywhere]]
       - decided on what the v0 really *is*. which scope, which repo?
