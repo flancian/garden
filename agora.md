@@ -17,14 +17,12 @@
 	- This [[agora]] includes [[agora search]].
 	- To run an Agora, please refer to <https://anagora.org/go/agora>.
 - To [[sign up]] for the Agora, which means volunteering your writing and media to it, please consult [[agora editor]].
-  - In a nutshell: you need to put your content, which can be plain text or [[markdown]] if you're into that sort of thing, somewhere online. https://github.com and https://gitlab.com both work fine for this. This amounts to publishing a [[blog]] or [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
-    - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]] or you have a notes database, you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
-  - Second, you need to signal an [[intent to cooperate]] with the [[agora]]. This means telling the world that your content can be pulled by the Agora and [[integrated]] into a social graph. To do this, you can send a PR for [[gardens yaml]] or send email to signup@anagora.org. Alternatively you can also [tweet at this agora's maintainer](https://twitter.com/flancian). In any case, please include:
-    - An URL for your content.
-    - Your desired username.
-    - Confirmation that you are currently in agreement with <https://anagora.org/contract>. If you are ever considered in disagreement by you or others, please feel free to use the [[agora]] as a mechanism to resolve disputes.
-- The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know. Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account. If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016). If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
-- [[git]] https://github.com/flancian/agora
+  - In a nutshell: you need to put your content, which can be plain text or [[markdown]] if you're into that sort of thing, somewhere online. https://github.com and https://gitlab.com both work fine for this. This amounts to publishing a [[blog]] or [[digital garden]] online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
+  - The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know. Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account. If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016). If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
+ 
+The following section works as an example of the [[agora protocol]].
+- an [[agora]].
+	- [[git]] https://github.com/flancian/agora
   - [[go]] [[git]]
   - [[server]] https://github.com/flancian/agora-server
   - [[bridge]] https://github.com/flancian/agora-bridge
