@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "dfd308004f3fc7b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7c319d327c6624",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-05-07.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2faba265b9292c7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f510565592a031af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961d680309b2af56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c9c5d93a7ed714f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8af6596dc98ffa6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afe2921ea1b550bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "769f8c6855cce1d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e969c9166f9896",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-05-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a62fc60423ac06f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-05-07.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d7c319d327c6624",
+  "lastOpenFiles": [
+    "2021-05-07.md"
+  ]
+}
