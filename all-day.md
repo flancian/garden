@@ -1,0 +1,4 @@
+# All Day
+
+- [[all]] [[day]]
+

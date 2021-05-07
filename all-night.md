@@ -1,0 +1,4 @@
+# All Night
+
+- [[all]] [[night]]
+
