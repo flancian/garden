@@ -1,6 +1,9 @@
 # Agora
 
+- This [[agora]] tries to be a [[schelling point]].
+  - [[push]] [[schelling points]]
 - **The Agora is a distributed knowledge graph and experimental social network.**
+  - The [[aim]] of this [[agora]] is to pro-socially maintain a [[distributed knowledge graph]] tailored specifically to the general goal of solving problems: those of its [[users]] and [[society]] at large..
   - As an Agora *guest* you can currently:
     - Navigate the Agora, which is composed of [[nodes]] which aggregate content from many users about the same topic or entity.
     - Make use of [[backlinks]] and [[pulled nodes]] to discover relevant content.
