@@ -30,28 +30,6 @@
             }
           },
           {
-            "id": "24209ccf9a449b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-07.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ebd5d3487f60bed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schelling points.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "b30348f6c7f39a22",
             "type": "leaf",
             "state": {
@@ -84,17 +62,6 @@
                   "type": "markdown",
                   "state": {
                     "file": "obsidian.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "ee621ade20931201",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-05-07.md",
                     "mode": "source"
                   }
                 }
@@ -220,9 +187,9 @@
   "active": "b6198febdc5e622a",
   "lastOpenFiles": [
     "agora.md",
+    "2021-05-07.md",
     "schelling point.md",
     "schelling points.md",
-    "2021-05-07.md",
     "vault.md",
     "agora editor.md",
     "meet.md",
