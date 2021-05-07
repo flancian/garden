@@ -4,15 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "3d7c319d327c6624",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-05-07.md",
-            "mode": "source"
+        "id": "b0a62e0bd6f30307",
+        "type": "split",
+        "children": [
+          {
+            "id": "489c6b27597a606b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-07.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2639e028cd5027a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora editor.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "fb3c8e1b92924159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora install.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "83dbdff9b57aff3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "foam.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f65a57b20dd6667b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "895ae0e3312eece0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flancia collective.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -76,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-07.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-07.md"
+                "file": "obsidian.md"
               }
             }
           }
@@ -104,8 +166,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d7c319d327c6624",
+  "active": "f65a57b20dd6667b",
   "lastOpenFiles": [
-    "2021-05-07.md"
+    "obsidian.md",
+    "foam.md",
+    "agora install.md",
+    "agora editor.md",
+    "2021-05-07.md",
+    "flancia collective.md",
+    "ditched slugs.md",
+    "slugify.md"
   ]
 }
