@@ -8,7 +8,7 @@
         "type": "split",
         "children": [
           {
-            "id": "489c6b27597a606b",
+            "id": "2639e028cd5027a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,7 @@
             }
           },
           {
-            "id": "2639e028cd5027a6",
+            "id": "24209ccf9a449b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,10 +148,10 @@
   "lastOpenFiles": [
     "obsidian.md",
     "agora editor.md",
+    "2021-05-07.md",
     "the agora is a markdown convention.md",
     "foam.md",
     "agora install.md",
-    "2021-05-07.md",
     "flancia collective.md",
     "ditched slugs.md",
     "slugify.md"
