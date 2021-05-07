@@ -20,7 +20,9 @@ https://twitter.com/flancian/status/1386048603496529925
   - [[agora]]
     - [[auto push]]
     - [[auto pull]]
-  - fix [[agora graphs]]
+    - stop [[stoa]] from stealing focus
+    - fix [[agora graphs]]
+      - different colors for pull/push/link/backlink
   - [[wikilinks everywhere]]
     - [[vera]] is on this
     - move her code to [[agora ext]]?
@@ -33,9 +35,7 @@ https://twitter.com/flancian/status/1386048603496529925
   - node [[paradox of tolerance]]
   - finish reading what [[will walker]] told me about
   - run [[weekly review]]
-  - [[push]] [[later]]
-    - try [[hometown]]
-      - hmm, [[ctzn]] looks more interesting
+  - [[pull]] [[later]]
 - An [[action]] in the [[agora]].
   - This is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
   - [[daily]], I try to check for pending [[work]]:
