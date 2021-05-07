@@ -35,7 +35,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian.md",
+                "file": "2021-05-07.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ee621ade20931201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian git.md",
                 "mode": "source"
               }
             }
@@ -116,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "obsidian git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "obsidian git.md"
               }
             }
           }
@@ -144,11 +155,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f65a57b20dd6667b",
+  "active": "ee621ade20931201",
   "lastOpenFiles": [
+    "obsidian git.md",
+    "2021-05-07.md",
     "obsidian.md",
     "agora editor.md",
-    "2021-05-07.md",
     "the agora is a markdown convention.md",
     "foam.md",
     "agora install.md",
