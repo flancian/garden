@@ -14,5 +14,12 @@
     - [[vera]] 
     - [[karlicoss]]
     - [[metasj]]
+    - [[abstract fairy]]
     - reach out to a member of the collective if you are interested in joining!
+  - [[projects]]
+    - [[agora]]
+    - [[promnesia]]
+    - [[wikilinks everywhere]]
+    - [[moa]]
+    - [[effective altruism]]
 
