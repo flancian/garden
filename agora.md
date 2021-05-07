@@ -13,12 +13,11 @@
     - Make use of [[agora actions]].
 	- See [[agora editor]] to join!
 - Anyone can run an Agora of their own if they so desire. This Agora is [[open source]]: [[go/agora]].
-	- This [[agora]] includes a [[agora search]].
-	- The [[agora]] is in the [[federation]]! Add it now: @agora@botsin.space, https://twitter.com/an_agora.
-- To run an Agora, please refer to <https://anagora.org/go/agora>.
-- To [[sign up]] for the Agora, which means volunteering writing and media to it:
-  - First, you need to put your content, which can be plain text or [[markdown]] if you're into that sort of thing, somewhere online. https://github.com and https://gitlab.com both work fine for this.
-    - This amounts to publishing a [[blog]] or [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
+	- The [[agora]] is in the [[federation]]! Add it now: @agora@botsin.space, <https://twitter.com/an_agora>.
+	- This [[agora]] includes [[agora search]].
+	- To run an Agora, please refer to <https://anagora.org/go/agora>.
+- To [[sign up]] for the Agora, which means volunteering your writing and media to it, please consult [[agora editor]].
+  - In a nutshell: you need to put your content, which can be plain text or [[markdown]] if you're into that sort of thing, somewhere online. https://github.com and https://gitlab.com both work fine for this. This amounts to publishing a [[blog]] or [[digital garden]] or [[content]] elsewhere online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
     - If you know your way around [[git]], [[markdown]] on git is the default format. If you use [[roam]] or a [[roam like]] or you have a notes database, you're almost there. Please refer to [agora howto](https://anagora.org/go/agora-howto) for detailed instructions.
   - Second, you need to signal an [[intent to cooperate]] with the [[agora]]. This means telling the world that your content can be pulled by the Agora and [[integrated]] into a social graph. To do this, you can send a PR for [[gardens yaml]] or send email to signup@anagora.org. Alternatively you can also [tweet at this agora's maintainer](https://twitter.com/flancian). In any case, please include:
     - An URL for your content.
