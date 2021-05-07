@@ -33,8 +33,11 @@
             "id": "b30348f6c7f39a22",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "fediverse.md",
+                "mode": "source"
+              }
             }
           },
           {
@@ -122,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,6 +177,7 @@
   "active": "895ae0e3312eece0",
   "lastOpenFiles": [
     "flancia collective.md",
+    "fediverse.md",
     "conflict-files-obsidian-git.md",
     "agora.md",
     "schelling point.md",
@@ -180,7 +185,6 @@
     "2021-05-07.md",
     "schelling points.md",
     "vault.md",
-    "agora editor.md",
-    "meet.md"
+    "agora editor.md"
   ]
 }
