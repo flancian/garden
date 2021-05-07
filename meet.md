@@ -8,4 +8,6 @@
     - [[doodle]] https://doodle.com/poll/tbk6222z3h7g3h27
 	- calendly currently defaults to [[google meet]] but we can also meet in [[go/meet]], supported by [[meet coop]].
 	- That's the [[go link]] <https://anagora.org/go/meet>.
+	
+	![[Pasted image 20210507225851.png]]
 
