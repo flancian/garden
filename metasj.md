@@ -2,6 +2,14 @@
 
 - [[pull]] [[samuel klein]]
 
+## [[2021-05-05]]
+
+- an [[intent]] for [[cooperation]]
+- [[codex]]
+- a node for every [[doi]]
+- [[gen studio]]
+- a canonical entity plus a conversation
+
 ## [[2021-04-30]]
 
 - [[importance]] 
