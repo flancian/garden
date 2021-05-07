@@ -1,10 +1,11 @@
 # social coop
 
 - a [[cooperative]].
+  - Applied. Got accepted! https://social.coop/web/accounts/220555
   - [[go]] https://social.coop 
-    - Applied. Got accepted! https://social.coop/web/accounts/220555
   - [[loomio]] https://www.loomio.org/socialcoop/
   - [[mastodon]] https://social.coop/web/
+  - [[wiki]] https://wiki.social.coop
   - [[welcome]]
     - [[quote]]
     - Thanks for your interest in joining [social.coop](http://social.coop); your application for membership has been approved!
