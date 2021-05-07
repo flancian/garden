@@ -52,6 +52,17 @@
             }
           },
           {
+            "id": "42b0cec6b946038e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vinzent.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "895ae0e3312eece0",
             "type": "leaf",
             "state": {
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian git.md",
+                "file": "vinzent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian git.md"
+                "file": "vinzent.md"
               }
             }
           }
@@ -155,8 +166,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee621ade20931201",
+  "active": "42b0cec6b946038e",
   "lastOpenFiles": [
+    "vinzent.md",
     "obsidian git.md",
     "2021-05-07.md",
     "obsidian.md",
@@ -165,7 +177,6 @@
     "foam.md",
     "agora install.md",
     "flancia collective.md",
-    "ditched slugs.md",
-    "slugify.md"
+    "ditched slugs.md"
   ]
 }
