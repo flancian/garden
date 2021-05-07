@@ -1,2 +1,0 @@
-# Art Blakey
-

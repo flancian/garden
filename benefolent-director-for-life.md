@@ -1,4 +1,0 @@
-# benefolent director for life
-
-
-

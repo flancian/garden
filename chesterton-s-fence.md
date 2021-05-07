@@ -1,2 +1,0 @@
-# Chesterton's Fence
-

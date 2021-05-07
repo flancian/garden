@@ -1,3 +1,0 @@
-# Chess hypothesis
-
-- [[pull]] [[chess]]

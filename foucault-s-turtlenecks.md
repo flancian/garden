@@ -1,2 +1,0 @@
-# Foucault's Turtlenecks
-

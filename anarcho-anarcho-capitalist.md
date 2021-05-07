@@ -1,2 +1,0 @@
-# Anarcho Anarcho Capitalist
-

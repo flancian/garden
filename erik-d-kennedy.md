@@ -1,2 +1,0 @@
-# Erik D. Kennedy
-

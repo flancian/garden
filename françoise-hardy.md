@@ -1,2 +1,0 @@
-# françoise hardy
-

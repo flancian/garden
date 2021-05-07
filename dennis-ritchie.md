@@ -1,2 +1,0 @@
-# Dennis Ritchie
-

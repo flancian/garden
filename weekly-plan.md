@@ -1,4 +1,0 @@
-# Weekly Plan
-
-- [[pull]] [[weekly]]
-

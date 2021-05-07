@@ -1,2 +1,0 @@
-# Controversy in Philosophy
-

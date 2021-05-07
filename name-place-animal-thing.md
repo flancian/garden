@@ -1,2 +1,0 @@
-# Name, Place, Animal, Thing
-

@@ -1,4 +1,0 @@
-# Mycroft Ai
-
-- [[pull]] [[mycroft]]
-

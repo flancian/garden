@@ -1,4 +1,0 @@
-# Muhammad ﷺ
-
-- [[pull]] [[muhammad]]
-

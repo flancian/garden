@@ -1,4 +1,2 @@
 # sarah schwettmann
 
-- [[pull]] [[cogconfluence]]
-

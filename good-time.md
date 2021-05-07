@@ -1,4 +1,0 @@
-# good time
-
-- [[pull]] [[goodtime]]
-

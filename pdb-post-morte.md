@@ -1,2 +1,0 @@
-# pdb post_morte
-

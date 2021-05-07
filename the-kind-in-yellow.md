@@ -1,2 +1,0 @@
-# the kind in yellow
-

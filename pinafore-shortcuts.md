@@ -1,4 +1,0 @@
-# Pinafore Shortcuts
-
-- [[pull]] [[pinafore]]
-

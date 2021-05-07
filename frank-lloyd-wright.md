@@ -1,2 +1,0 @@
-# Frank Lloyd Wright
-
