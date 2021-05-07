@@ -24,7 +24,7 @@
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "vscodeMarkdownNotes.slugifyMethod": "NONE",
     "vim.handleKeys": {
       "[": false,
       "]": false,
