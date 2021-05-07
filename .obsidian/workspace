@@ -52,6 +52,28 @@
             }
           },
           {
+            "id": "b30348f6c7f39a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "schelling point.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b6198febdc5e622a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "d8cea4f32927b488",
             "type": "split",
             "children": [
@@ -167,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schelling points.md",
+                "file": "agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schelling points.md"
+                "file": "agora.md"
               }
             }
           }
@@ -195,8 +217,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ebd5d3487f60bed7",
+  "active": "b6198febdc5e622a",
   "lastOpenFiles": [
+    "agora.md",
+    "schelling point.md",
     "schelling points.md",
     "2021-05-07.md",
     "vault.md",
@@ -204,8 +228,6 @@
     "meet.md",
     "obsidian git.md",
     "obsidian.md",
-    "vinzent.md",
-    "the agora is a markdown convention.md",
-    "foam.md"
+    "vinzent.md"
   ]
 }
