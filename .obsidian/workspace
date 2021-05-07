@@ -76,6 +76,17 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "35ece4c91a6d7710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -142,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia collective.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancia collective.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -170,8 +181,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "895ae0e3312eece0",
+  "active": "35ece4c91a6d7710",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "flancia collective.md",
     "agora.md",
     "schelling point.md",
@@ -180,7 +192,6 @@
     "schelling points.md",
     "vault.md",
     "agora editor.md",
-    "meet.md",
-    "obsidian git.md"
+    "meet.md"
   ]
 }

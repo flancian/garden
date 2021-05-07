@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"commitMessage":"[[snapshot]]: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":1,"autoPullInterval":1,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":true,"showStatusBar":true,"lastAutoBackUp":"Sat May 08 2021 01:50:27 GMT+0200 (Central European Summer Time)","lastAutoPull":"Sat May 08 2021 01:50:27 GMT+0200 (Central European Summer Time)"}
+=======
+{"commitMessage":"[[snapshot]]: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":1,"autoPullInterval":1,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":true,"showStatusBar":true,"lastAutoBackUp":"Sat May 08 2021 01:49:38 GMT+0200 (Central European Summer Time)","lastAutoPull":"Sat May 08 2021 01:48:46 GMT+0200 (Central European Summer Time)"}
+>>>>>>> b1c5a29aa66dc3f6cd7a95c742a7ba8939874e5c
