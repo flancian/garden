@@ -7,10 +7,10 @@ https://twitter.com/flancian/status/1386048603496529925
   - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
   - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
     - see [[notebook]]
-    - [x] fix user page, sort by date
-      - configure [[monitoring]]
-        - one pomodoro for moa, most users
-        - one pomodoro for anagora
+      - configure [[monitoring]]. 
+      - [[estimates]]:
+        - [ ] one pomodoro for moa
+        - [ ] one pomodoro for anagora
     - do [[moa]]
       - integrate vera's code
         - although vera into [[ctzn]]; perhaps prioritize a [[agora ctzn]]
