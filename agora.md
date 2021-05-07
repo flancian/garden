@@ -11,8 +11,7 @@
     - Have your content be surfaced to readers at relevant times (when they are visiting a [[node]] for which your content is considered relevant by the community).
     - Have relevant content be surfaced to you as you traverse your [[personal knowledge graph]].
     - Make use of [[agora actions]].
-	- See [[agora ]]
-	To be
+	- See [[agora editor]] to join!
   - Anyone can run an Agora of their own if they so desire. This Agora is [[open source]].
 - This [[agora]] includes a [[search engine]].
   - It tries to search all [[agoras]], and also the internet as it manifests an [[intent to cooperate]].
