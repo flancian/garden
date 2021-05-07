@@ -30,33 +30,15 @@
             }
           },
           {
-            "id": "d8cea4f32927b488",
-            "type": "split",
-            "children": [
-              {
-                "id": "8f6efcf79b333fb4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "46cc4b377c1c0dad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "meet.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "46cc4b377c1c0dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meet.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
             "id": "895ae0e3312eece0",
