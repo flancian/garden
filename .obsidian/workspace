@@ -50,7 +50,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "obsidian git.md",
+                    "file": "2021-05-07.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "46cc4b377c1c0dad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "meet.md",
                     "mode": "source"
                   }
                 }
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora editor.md",
+                "file": "meet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora editor.md"
+                "file": "meet.md"
               }
             }
           }
@@ -162,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24209ccf9a449b41",
+  "active": "46cc4b377c1c0dad",
   "lastOpenFiles": [
+    "meet.md",
+    "2021-05-07.md",
+    "obsidian git.md",
     "agora editor.md",
     "obsidian.md",
-    "obsidian git.md",
     "vinzent.md",
-    "2021-05-07.md",
     "the agora is a markdown convention.md",
     "foam.md",
     "agora install.md",
-    "flancia collective.md",
-    "ditched slugs.md"
+    "flancia collective.md"
   ]
 }
