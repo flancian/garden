@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora.md",
+                "file": "schelling point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora.md"
+                "file": "schelling point.md"
               }
             }
           }
@@ -195,10 +195,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6198febdc5e622a",
+  "active": "b30348f6c7f39a22",
   "lastOpenFiles": [
-    "agora.md",
     "schelling point.md",
+    "agora.md",
     "agora search.md",
     "2021-05-07.md",
     "schelling points.md",
