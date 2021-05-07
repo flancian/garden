@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora editor.md",
+                "file": "vault.md",
                 "mode": "source"
               }
             }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora editor.md",
+                "file": "vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora editor.md"
+                "file": "vault.md"
               }
             }
           }
@@ -186,8 +186,8 @@
   },
   "active": "24209ccf9a449b41",
   "lastOpenFiles": [
-    "agora editor.md",
     "vault.md",
+    "agora editor.md",
     "2021-05-07.md",
     "meet.md",
     "obsidian git.md",
