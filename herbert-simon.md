@@ -1,2 +1,0 @@
-# herbert simon
-
