@@ -11,7 +11,11 @@
   - [[roam]] plus [[roam2agora]]
   - [[org mode]] in markdown mode
   - [[jekyll]]
-- Or you can reach out :) Send email (I know, how quaint!) to signup@anagora.org, or DM [[flancian]] on Twitter, Mastodon, or any other platform.
+- After getting yourself a [[digital garden]], you need to let an [[agora]] know about it so it can be pulled and integrated. Please send a [[pr]] adding your garden to [[gardens.yaml]] or reach out to a maintainer with a link to your repository and your desired username.
+	- All [[agora]] users must agree to its [[contract]] as defined by the system account.
+	- The contracts of other users can optionally be a [[endorsed]].
+- Please reach out if you have questions or suggestions :) 
+	- Send email to signup@anagora.org, or DM [[flancian]] or another member of the [[flancia collective]] on Twitter, Mastodon, or any other platform.
 - See also:
-  - [[the agora is a markdown convention]]
+  - [[pull]] [[the agora is a markdown convention]]
   - [[pull]] [[agora install]]

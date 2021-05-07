@@ -30,28 +30,6 @@
             }
           },
           {
-            "id": "fb3c8e1b92924159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora install.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "83dbdff9b57aff3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "foam.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "f65a57b20dd6667b",
             "type": "leaf",
             "state": {
@@ -169,9 +147,10 @@
   "active": "f65a57b20dd6667b",
   "lastOpenFiles": [
     "obsidian.md",
+    "agora editor.md",
+    "the agora is a markdown convention.md",
     "foam.md",
     "agora install.md",
-    "agora editor.md",
     "2021-05-07.md",
     "flancia collective.md",
     "ditched slugs.md",
