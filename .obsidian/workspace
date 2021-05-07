@@ -30,34 +30,12 @@
             }
           },
           {
-            "id": "f65a57b20dd6667b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-07.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "ee621ade20931201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "obsidian git.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "42b0cec6b946038e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vinzent.md",
                 "mode": "source"
               }
             }
