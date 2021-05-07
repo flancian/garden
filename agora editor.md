@@ -1,9 +1,9 @@
 # Agora Editor
 
-- In essence, all you really need to use the [[Agora]] is the capability to make Markdown (or just text, really) files publicly available somewhere. I use [[foam]] to produce and manage my notes, and [[git]] to store them online.
-- As of [[2021-05-07]], the recommended Agora editor is [[obsidian]].
-	- Plus the following plugin: [[obsidian git]].
-	- [[install obsidian]] by visiting obsidian.md and then follow [[vault backup]].
+- In essence, all you really need to use the [[Agora]] is the capability to make Markdown (or just text, really) files publicly available somewhere. I use [[obsidian]] to produce and manage my notes, and [[git]] to store them online.
+- As of [[2021-05-07]], the recommended Agora editor is [[obsidian]] plus the  [[obsidian git]] plugin. 
+	- [[install obsidian]] by visiting https://obsidian.md and then follow [[vault backup]] to set up backup to [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line.
+	- Then follow the procedure below to add your vault or [[digital garden]] to an [[agora]].
   - From [[2021-01-03]] until [[2021-05-07]], the recommended Agora editor was [[foam]].
 	  - [[foam]] is a [[vscode]] [[extension]].
 	  - If those worlds make sense to you, congratulations :) You can use [[foam]].
