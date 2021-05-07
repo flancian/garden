@@ -22,13 +22,13 @@
  
 The following section works as an example of the [[agora protocol]].
 - an [[agora]].
-	- [[git]] https://github.com/flancian/agora
-  - [[go]] [[git]]
+  - [[push]] [[agoras]]
+  - [[git]] https://github.com/flancian/agora
+    - [[go]] [[git]]
   - [[server]] https://github.com/flancian/agora-server
   - [[bridge]] https://github.com/flancian/agora-bridge
   - [[bugs]] https://github.com/flancian/agora/issues
   - [[bug]] https://github.com/flancian/agora/issues/new
-- [[pull]] [[agora editor]] [[agora client]]
-- There are [[other agoras]].
+- [[pull]] [[agora editor]]
 
 https://twitter.com/flancian/status/1356691340508221456
