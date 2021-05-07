@@ -4,38 +4,38 @@ https://twitter.com/flancian/status/1386048603496529925
 
 - [[pomodoro]]
   - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
-  - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
-  - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling):
-    - see [[notebook]]
-    - configure [[monitoring]]. 
-      - [[estimate]]:
-        - [ ] one pomodoro for moa
-        - [ ] one pomodoro for anagora
-    - do [[moa]]
-      - integrate vera's code
-        - [ ] find it
-      - review [[go/moa/bugs]]
-    - [[ctzn]] 
-      - [[agora ctzn]]
-    - [[agora]]
-      - [[auto push]]
-      - [[auto pull]]
-    - fix [[agora graphs]]
-    - [[wikilinks everywhere]]
-      - [[vera]] is on this
-      - move her code to [[agora ext]]?
-      - add logo for store page
-      - test on [[chrome]]
-    - [[read]]
-    - write [[on cringe]] / [[agora polls]]
-      - about explicit rational (mathematical) modelling of group dynamics through social media discourse
-      - is [[hack the planet]] cringe? should it be?
-    - node [[paradox of tolerance]]
-    - finish reading what [[will walker]] told me about
-    - run [[weekly review]]
-    - [[push]] [[later]]
-      - try [[hometown]]
-        - hmm, [[ctzn]] looks more interesting
+    - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
+    - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling).
+    - (I also keep a [[notebook]])
+  - configure [[monitoring]]. 
+    - [[estimate]]:
+      - [ ] one pomodoro for moa
+      - [ ] one pomodoro for anagora
+  - do [[moa]]
+    - integrate vera's code
+      - [ ] find it
+    - review [[go/moa/bugs]]
+  - [[ctzn]] 
+    - [[agora ctzn]]
+  - [[agora]]
+    - [[auto push]]
+    - [[auto pull]]
+  - fix [[agora graphs]]
+  - [[wikilinks everywhere]]
+    - [[vera]] is on this
+    - move her code to [[agora ext]]?
+    - add logo for store page
+    - test on [[chrome]]
+  - [[read]]
+  - write [[on cringe]] / [[agora polls]]
+    - about explicit rational (mathematical) modelling of group dynamics through social media discourse
+    - is [[hack the planet]] cringe? should it be?
+  - node [[paradox of tolerance]]
+  - finish reading what [[will walker]] told me about
+  - run [[weekly review]]
+  - [[push]] [[later]]
+    - try [[hometown]]
+      - hmm, [[ctzn]] looks more interesting
 - An [[action]] in the [[agora]].
   - This is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
   - [[daily]], I try to check for pending [[work]]:
