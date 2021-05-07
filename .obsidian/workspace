@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault.md",
+                "file": "agora editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault.md"
+                "file": "agora editor.md"
               }
             }
           }
@@ -184,13 +184,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "faefe5a3d24691d8",
+  "active": "24209ccf9a449b41",
   "lastOpenFiles": [
+    "agora editor.md",
     "vault.md",
     "2021-05-07.md",
     "meet.md",
     "obsidian git.md",
-    "agora editor.md",
     "obsidian.md",
     "vinzent.md",
     "the agora is a markdown convention.md",

@@ -2,17 +2,17 @@
 
 - As of [[2021-05-07]], the recommended Agora editor is [[obsidian]] plus the  [[obsidian git]] plugin. 
 	- [[install obsidian]] by visiting https://obsidian.md and then follow [[vault backup]] to set up backup to [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line.
-	- Then follow the procedure below to add your vault or [[digital garden]] to an [[agora]].
+	- Then follow the procedure below to add your vault or [[digital garden]] to the [[agora]].
   - From [[2021-01-03]] until [[2021-05-07]], the recommended Agora editor was [[foam]].
 	  - [[foam]] is a [[vscode]] [[extension]].
 	  - If those worlds make sense to you, congratulations :) You can use [[foam]].
-- You can also use:
-  - [[dendron]], which should be a drop-in [[foam]] replacement in [[vscode]].
-  - [[roam]] plus [[roam2agora]]
-  - [[org mode]] in markdown mode
-  - [[jekyll]]
-- In essence, all you really need to use the [[Agora]] is the capability to make Markdown (or just text, really) files publicly available somewhere. I use [[obsidian]] to produce and manage my notes, and [[git]] to store them online, but the [[agora]] tries to be maximally inclusive; if you want to publish your writing to this Agora, please reach out!
-- After getting yourself a [[digital garden]], you need to let an [[agora]] know about it so it can be pulled and integrated. Please send a [[pr]] adding your garden to [[gardens.yaml]] or reach out to a maintainer with a link to your repository and your desired username.
+	- You can also use:
+	  - [[dendron]], which should be a drop-in [[foam]] replacement in [[vscode]].
+	  - [[roam]] plus [[roam2agora]]
+	  - [[org mode]] in markdown mode
+	  - [[jekyll]]
+	  - In essence, all you really need to use the [[Agora]] is the capability to make Markdown (or just text, really) files publicly available somewhere. I use [[obsidian]] to produce and manage my notes, and [[git]] to store them online, but the [[agora]] tries to be maximally inclusive; if you want to publish your writing to this Agora, please reach out!
+- After getting yourself a [[digital garden]], you need to let an [[agora]] know about it so it can be pulled and integrated. Please send a [[pr]] adding your garden to [[gardens.yaml]] or reach out to a maintainer with a link to your git repository and your desired username.
 	- All [[agora]] users must agree to its [[contract]] as defined by the system account.
 	- The contracts of other users can optionally be a [[endorsed]].
 - Please reach out if you have questions or suggestions :) 
