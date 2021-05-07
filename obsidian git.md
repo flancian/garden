@@ -1,2 +1,4 @@
-- [[go]] https://github.com/denolehov/obsidian-git
-	- 
+- an [[obsidian extension]]
+	- [[go]] https://github.com/denolehov/obsidian-git
+    - [[donate]] https://buymeacoffee.com/Vinzent03/c/1420663
+	- by [[vinzent]]
