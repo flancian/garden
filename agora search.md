@@ -15,6 +15,10 @@
 - [[user story]] https://twitter.com/flancian/status/1350835941603221504
 - [[keywords]] https://twitter.com/flancian/status/1352671899583713288
 - [[pull]] [[crowdsourced search]]
+- This [[agora]] tries to search all [[agoras]], and also the internet as it manifests an [[intent to cooperate]].
+    - See [[stoa]].
+  - You can use [[open search]] to add it to your browser while you're visiting it.
+  - You can have it as default search engine, like I sometimes do, or you can associate it with a prefix. I use 'a' and 'an'. Like in 'an entity'. 
 - [[2021-02-27]]
   - Hooking up with [[yubnub]] seems like a good idea.
   - Working on general [[usability]] in parallel.

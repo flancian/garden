@@ -52,6 +52,17 @@
             }
           },
           {
+            "id": "341c2761f400be0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora search.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "d8cea4f32927b488",
             "type": "split",
             "children": [
@@ -187,6 +198,7 @@
   "active": "b6198febdc5e622a",
   "lastOpenFiles": [
     "agora.md",
+    "agora search.md",
     "2021-05-07.md",
     "schelling point.md",
     "schelling points.md",
@@ -194,7 +206,6 @@
     "agora editor.md",
     "meet.md",
     "obsidian git.md",
-    "obsidian.md",
-    "vinzent.md"
+    "obsidian.md"
   ]
 }

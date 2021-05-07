@@ -14,11 +14,7 @@
 	- See [[agora editor]] to join!
 - Anyone can run an Agora of their own if they so desire. This Agora is [[open source]]: [[go/agora]].
 	- This [[agora]] includes a [[agora search]].
-  - It tries to search all [[agoras]], and also the internet as it manifests an [[intent to cooperate]].
-    - See [[stoa]].
-  - You can use [[open search]] to add it to your browser while you're visiting it.
-  - You can have it as default search engine, like I sometimes do, or you can associate it with a prefix. I use 'a' and 'an'. Like in 'an entity'. 
-- *The [[agora]] is in the [[federation]]! Add it now: @agora@botsin.space.*
+	- The [[agora]] is in the [[federation]]! Add it now: @agora@botsin.space, https://twitter.com/an_agora.
 - To run an Agora, please refer to <https://anagora.org/go/agora>.
 - To [[sign up]] for the Agora, which means volunteering writing and media to it:
   - First, you need to put your content, which can be plain text or [[markdown]] if you're into that sort of thing, somewhere online. https://github.com and https://gitlab.com both work fine for this.
