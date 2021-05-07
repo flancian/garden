@@ -15,6 +15,7 @@
     - [[karlicoss]]
     - [[metasj]]
     - [[abstract fairy]]
+	- [[bmann]]
     - reach out to a member of the collective if you are interested in joining!
   - [[projects]]
     - [[agora]]

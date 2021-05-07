@@ -33,33 +33,8 @@
             "id": "b30348f6c7f39a22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schelling point.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b6198febdc5e622a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "341c2761f400be0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora search.md",
-                "mode": "source"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -167,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schelling point.md",
+                "file": "flancia collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schelling point.md"
+                "file": "flancia collective.md"
               }
             }
           }
@@ -195,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b30348f6c7f39a22",
+  "active": "895ae0e3312eece0",
   "lastOpenFiles": [
-    "schelling point.md",
+    "flancia collective.md",
     "agora.md",
+    "schelling point.md",
     "agora search.md",
     "2021-05-07.md",
     "schelling points.md",
     "vault.md",
     "agora editor.md",
     "meet.md",
-    "obsidian git.md",
-    "obsidian.md"
+    "obsidian git.md"
   ]
 }
