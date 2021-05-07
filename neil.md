@@ -6,5 +6,6 @@
    - [[mastodon]] @neil@social.coop
    - [[social coop]]
    - Uses [[org-roam]]. 
+   - [[matrix]]
 
 
