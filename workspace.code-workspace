@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.defaultLanguage": "markdown",
+		"foam.edit.linkReferenceDefinitions": "off",
+		"foam.openDailyNote.directory": "journal",
+		"foam.openDailyNote.titleFormat": "yyyy-mm-dd",
+		"pasteImage.path": "${projectRoot}/assets",
+		"pasteImage.showFilePathConfirmInputBox": true,
+		"vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+		"vscodeMarkdownNotes.slugifyMethod": "NONE",
+		"vim.handleKeys": {
+			"[": false,
+			"]": false
+		}
+	}
+}
