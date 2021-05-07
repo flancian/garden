@@ -6,5 +6,6 @@
   - I like [[google meet]] more than [[zoom]], but I can use any system that is convenient for you. [[jitsi meet]] or [[big blue button]] make me feel proud of [[open source]].
     - Feel free to book time on my calendar: [[go/flancian/calendly]]
     - [[doodle]] https://doodle.com/poll/tbk6222z3h7g3h27
-	- this currently defaults to [[goo]]
+	- calendly currently defaults to [[google meet]] but we can also meet in [[go/meet]], supported by [[meet coop]].
+	- That's the [[go link]] <https://anagora.org/go/meet>.
 
