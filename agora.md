@@ -1,7 +1,5 @@
 # Agora
 
-- This [[agora]] tries to be a [[schelling point]].
-  - [[push]] [[schelling points]]
 - **The Agora is a distributed knowledge graph and experimental social network.**
   - The [[aim]] of this [[agora]] is to pro-socially maintain a [[distributed knowledge graph]] tailored specifically to the general goal of solving problems: those of its [[users]] and [[society]] at large..
   - As an Agora *guest user* or [[reader]] you can currently:
@@ -29,6 +27,6 @@ The following section works as an example of the [[agora protocol]].
   - [[bridge]] https://github.com/flancian/agora-bridge
   - [[bugs]] https://github.com/flancian/agora/issues
   - [[bug]] https://github.com/flancian/agora/issues/new
-- [[pull]] [[agora editor]]
-
-https://twitter.com/flancian/status/1356691340508221456
+  - [[push]] [[schelling points]]
+    - This [[agora]] tries to be a [[schelling point]].
+  - [[pull]] [[agora editor]]
