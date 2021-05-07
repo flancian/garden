@@ -1,6 +1,6 @@
 # Agora Protocol
 
-- The [[Agora]] you're likely reading this on is just one possible implementation of this protocol. It has three parts:
+- The [[Agora]] you're likely reading this on is just one possible implementation of a platform built on a protocol. It has three parts:
   - A [[convention]].
   - A [[distributed knowledge graph]].
   - [[Agora Server]], a reference implementation.
