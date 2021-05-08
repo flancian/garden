@@ -1,3 +1,5 @@
 - a [[bug]].
 	- [[go/vera/space]] doesn't work
 	- it should
+- [[fix]]
+  - find code path
