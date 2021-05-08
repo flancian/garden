@@ -8,17 +8,6 @@
         "type": "split",
         "children": [
           {
-            "id": "2639e028cd5027a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-08.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "77c4ff1346ed553f",
             "type": "leaf",
             "state": {
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-08.md",
+                "file": "armengolaltayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-08.md"
+                "file": "armengolaltayo.md"
               }
             }
           }
@@ -151,12 +140,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2639e028cd5027a6",
+  "active": "77c4ff1346ed553f",
   "lastOpenFiles": [
-    "2021-05-08.md",
     "armengolaltayo.md",
-    "armengol.md",
+    "2021-05-08.md",
     "2021-05-07.md",
+    "armengol.md",
     "conflict-files-obsidian-git.md",
     "flancia collective.md",
     "agora.md",
