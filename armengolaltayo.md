@@ -19,6 +19,7 @@
 - estudió [[ingeniería multimedia]]
 	- universidad técnica, carrera nueva
 - [[asociados]]
+- [[meditación]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
