@@ -19,6 +19,42 @@
             }
           },
           {
+            "id": "145483b67949e7d2",
+            "type": "split",
+            "children": [
+              {
+                "id": "c64c49f16fe0734f",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pasted image 20210508114518.png"
+                  }
+                },
+                "group": "303b32089783ed87"
+              },
+              {
+                "id": "55fa4b022cd6a6bb",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Pasted image 20210508114518.png",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "303b32089783ed87"
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
             "id": "7fefbe7ff094d7cf",
             "type": "split",
             "children": [
@@ -112,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "armengolaltayo.md",
+                "file": "Pasted image 20210508114518.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "armengolaltayo.md"
+                "file": "Pasted image 20210508114518.png"
               }
             }
           }
@@ -140,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77c4ff1346ed553f",
+  "active": "c64c49f16fe0734f",
   "lastOpenFiles": [
+    "Pasted image 20210508114518.png",
+    "obsidian.md",
+    "flancia collective.md",
     "armengolaltayo.md",
     "2021-05-08.md",
     "2021-05-07.md",
     "armengol.md",
     "conflict-files-obsidian-git.md",
-    "flancia collective.md",
     "agora.md",
-    "schelling point.md",
-    "agora search.md",
-    "schelling points.md"
+    "schelling point.md"
   ]
 }
