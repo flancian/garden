@@ -1,2 +1,3 @@
 - [[pull]] [[gather town]]
-	- [[go]] https://github.com/gathertown
+	- [[git]] https://github.com/gathertown
+	- [[go]] https://gather.town/about
