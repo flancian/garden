@@ -24,7 +24,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercore.md",
+                "file": "2021-05-09.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "762d6f678c6a753f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pernambuco e seu conjunto.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "74f37831dec2be8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pernambuco.md",
                 "mode": "source"
               }
             }
@@ -127,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera bug.md",
+                "file": "pernambuco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vera bug.md"
+                "file": "pernambuco.md"
               }
             }
           }
@@ -155,17 +177,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c98b25381c54bea3",
+  "active": "74f37831dec2be8a",
   "lastOpenFiles": [
-    "vera bug.md",
+    "pernambuco.md",
+    "pernambuco e seu conjunto.md",
+    "2021-05-09.md",
     "hypercore.md",
+    "vera bug.md",
     "2021-05-08.md",
     "gather.town.md",
     "protocolo del ágora.md",
     "flancia collective.md",
-    "obsidian.md",
-    "armengolaltayo.md",
-    "busy texas cafe.md",
-    "typing cat.md"
+    "obsidian.md"
   ]
 }
