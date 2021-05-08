@@ -20,6 +20,7 @@
 	- universidad técnica, carrera nueva
 - [[asociados]]
 - [[meditación]]
+- [[slugs]] vs [[full unicode]] for filenames
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
