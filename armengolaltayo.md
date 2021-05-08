@@ -15,10 +15,11 @@
 
 ## [[2021-05-08]]
 
+- [[night person]] como arquetipo al que uno conforma
+- estudió [[ingeniería multimedia]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
-- [[inge]]
 
 ## [[2021-02-03]]
 - [[miércoles libres]]
