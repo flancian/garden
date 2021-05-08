@@ -1,0 +1,2 @@
+- a [[game]].
+	- [[go]] https://en.wikipedia.org/wiki/Super_Adventure_Island

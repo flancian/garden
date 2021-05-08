@@ -46,7 +46,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hipster sound.md",
+                "file": "2021-05-08.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ff8c9d4239e346da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "super adventure island.md",
                 "mode": "source"
               }
             }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hipster sound.md",
+                "file": "super adventure island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hipster sound.md",
+                "file": "super adventure island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hipster sound.md"
+                "file": "super adventure island.md"
               }
             }
           }
@@ -201,8 +212,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fb10e4d40903fb4",
+  "active": "ff8c9d4239e346da",
   "lastOpenFiles": [
+    "super adventure island.md",
+    "2021-05-08.md",
     "hipster sound.md",
     "busy texas cafe.md",
     "busy cafe.md",
@@ -210,8 +223,6 @@
     "track.md",
     "armengolaltayo.md",
     "protocolo del ágora.md",
-    "Pasted image 20210508114518.png",
-    "obsidian.md",
-    "flancia collective.md"
+    "Pasted image 20210508114518.png"
   ]
 }
