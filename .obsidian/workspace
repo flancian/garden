@@ -8,46 +8,45 @@
         "type": "split",
         "children": [
           {
-            "id": "2639e028cd5027a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-07.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "faefe5a3d24691d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b30348f6c7f39a22",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d8cea4f32927b488",
+            "id": "a62adb19ecf08dda",
             "type": "split",
             "children": [
               {
-                "id": "8f6efcf79b333fb4",
+                "id": "2639e028cd5027a6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "obsidian.md",
+                    "file": "2021-05-08.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "faefe5a3d24691d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vault.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "b61980722fe54953",
+            "type": "split",
+            "children": [
+              {
+                "id": "895ae0e3312eece0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "flancia collective.md",
                     "mode": "source"
                   }
                 }
@@ -65,6 +64,7 @@
               }
             ],
             "direction": "vertical"
+<<<<<<< HEAD
           },
           {
             "id": "895ae0e3312eece0",
@@ -87,6 +87,8 @@
                 "mode": "source"
               }
             }
+=======
+>>>>>>> 9defd5e6ae8ec663f4fa7867947fa99a6d625aa6
           }
         ],
         "direction": "horizontal"
@@ -133,7 +135,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2021-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2021-05-08.md"
               }
             }
           }
@@ -181,17 +184,21 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "d3c1ae0a5fe4433c",
+=======
+  "active": "2639e028cd5027a6",
+>>>>>>> 9defd5e6ae8ec663f4fa7867947fa99a6d625aa6
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2021-05-08.md",
+    "2021-05-07.md",
     "flancia collective.md",
+    "fediverse.md",
+    "conflict-files-obsidian-git.md",
     "agora.md",
     "schelling point.md",
     "agora search.md",
-    "2021-05-07.md",
     "schelling points.md",
-    "vault.md",
-    "agora editor.md",
-    "meet.md"
+    "vault.md"
   ]
 }
