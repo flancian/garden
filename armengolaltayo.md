@@ -29,13 +29,14 @@
 	- [[armengol]] hasta ahora partiendo de que la unidad base es archivos .md (en [[foam]])
 - [[fotonovela]]
 - [[notas diarias]]
-	- [[track]]
+	- [[track]], a [[tool]]
 	  - [[metasj]]
 	    - this looks like an [[overlay]] in Samuel's terms
 	  - the [[agora]] could be a good backend (interlay?) for this if you're interested
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
+- [[nft]] + [[digital gardens]]
 
 ## [[2021-02-03]]
 - [[miércoles libres]]
