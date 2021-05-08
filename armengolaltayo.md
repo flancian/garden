@@ -23,6 +23,10 @@
 - [[slugs]] vs [[full unicode]] for filenames
   - ambas deberían ser soportadas
   - punto + radio (esfera) -- modo estricto (sólo punto) opcional
+- [[obsidian]]
+	- imágenes en [[obsidian]]
+	- [[armengol]] hasta ahora partiendo de que la unidad base es archivos .md (en [[foam]])
+	- 
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
