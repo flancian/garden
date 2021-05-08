@@ -17,6 +17,7 @@
 
 - [[night person]] como arquetipo al que uno conforma
 - estudió [[ingeniería multimedia]]
+	- universidad 
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
