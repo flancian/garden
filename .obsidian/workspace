@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-08.md",
+                "file": "hypercore.md",
                 "mode": "source"
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gather.town.md",
+                "file": "hypercore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gather.town.md"
+                "file": "hypercore.md"
               }
             }
           }
@@ -155,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc3edf1a8095287e",
+  "active": "9fb10e4d40903fb4",
   "lastOpenFiles": [
-    "gather.town.md",
+    "hypercore.md",
     "2021-05-08.md",
+    "gather.town.md",
     "vera bug.md",
     "protocolo del ágora.md",
     "flancia collective.md",
     "obsidian.md",
     "armengolaltayo.md",
     "busy texas cafe.md",
-    "typing cat.md",
-    "super adventure island.md"
+    "typing cat.md"
   ]
 }
