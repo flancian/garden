@@ -19,6 +19,17 @@
             }
           },
           {
+            "id": "77c4ff1346ed553f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "armengolaltayo.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "faefe5a3d24691d8",
             "type": "leaf",
             "state": {
@@ -27,14 +38,6 @@
                 "file": "vault.md",
                 "mode": "source"
               }
-            }
-          },
-          {
-            "id": "b30348f6c7f39a22",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-08.md",
+                "file": "armengolaltayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-08.md"
+                "file": "armengolaltayo.md"
               }
             }
           }
@@ -181,8 +184,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2639e028cd5027a6",
+  "active": "77c4ff1346ed553f",
   "lastOpenFiles": [
+    "armengolaltayo.md",
+    "armengol.md",
     "2021-05-08.md",
     "2021-05-07.md",
     "conflict-files-obsidian-git.md",
@@ -190,8 +195,6 @@
     "agora.md",
     "schelling point.md",
     "agora search.md",
-    "schelling points.md",
-    "vault.md",
-    "agora editor.md"
+    "schelling points.md"
   ]
 }
