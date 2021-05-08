@@ -1,0 +1,4 @@
+- a [[game]].
+	- one of my [[favourites]].
+	- [[go]] [[wp]]
+	- [[music]] https://www.youtube.com/watch?v=ILV2Xr5XzPM
