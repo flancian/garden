@@ -37,6 +37,9 @@
 - [[agora]]
 	- [[armengol]] parece un [[collage]]
 	- cómo dejar afuera a los nazis
+	  - el caso [[urbit]]
+	  - si muchas personas observan a una persona y no parece nazi, la probabilidad de nazi baja?
+	  - [[armengol]] [[podcast]] de [[coinbase]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
