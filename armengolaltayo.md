@@ -36,11 +36,11 @@
 	  - time-defined nodes include other time-defined nodes with finer granularity
 - [[agora]]
 	- [[armengol]] parece un [[collage]]
-	- 
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
 - [[nft]] + [[digital gardens]]
+- [[flancia collective]]
 
 ## [[2021-02-03]]
 - [[miércoles libres]]
