@@ -46,7 +46,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocolo del ágora.md",
+                "file": "armengolaltayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocolo del ágora.md",
+                "file": "armengolaltayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocolo del ágora.md"
+                "file": "armengolaltayo.md"
               }
             }
           }
@@ -179,10 +179,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c889af447c75e51a",
+  "active": "77c4ff1346ed553f",
   "lastOpenFiles": [
-    "protocolo del ágora.md",
     "armengolaltayo.md",
+    "protocolo del ágora.md",
     "track.md",
     "Pasted image 20210508114518.png",
     "obsidian.md",
