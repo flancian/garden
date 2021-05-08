@@ -45,6 +45,7 @@
 	- [[armengol]] objeciones a los conceptos de [[error]] y [[adversario]]
 	  - [[cooperador]]
 	  - el [[contrato]] define pautas de cooperación y de incompatibilidad
+	  - [[schelling point]]
 	- [[kolmogorov complexity]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
