@@ -1,0 +1,1 @@
+- [[go]] https://hostrider.com/#0
