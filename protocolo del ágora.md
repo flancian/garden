@@ -2,5 +2,6 @@
 	- toda emisión ocurre en un contexto
 	- el contexto es indicado explícitamente dentro de lo posible
 	  - gran conversación con [[armengol]]
-	    - 
+	    - contexto individual vs contexto colectivo
+	    - contextos como posibles puntos de entrada a piezas de información
 	- por defecto los contextos son indicados mediante el uso de [[wikilinks]] o la aplicación de títulos
