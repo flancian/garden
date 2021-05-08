@@ -44,6 +44,7 @@
 		- [[prueba de trabajo]]
 	- [[armengol]] objeciones a los conceptos de [[error]] y [[adversario]]
 	  - [[cooperador]]
+	  - el [[contrato]] define pautas de cooperación y de incompatibilidad
 	- [[kolmogorov complexity]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
