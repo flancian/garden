@@ -1,1 +1,2 @@
-- [[go]] https://hipstersound.com/ambience.html
+- a setting in [[hipster sound]]
+	- [[go]] https://hipstersound.com/ambience.html
