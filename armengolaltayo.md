@@ -33,7 +33,7 @@
 	  - [[metasj]]
 	    - this looks like an [[overlay]] in Samuel's terms
 	  - the [[agora]] could be a good backend (interlay?) for this if you're interested
-	  - time-defined nodes include time-defined nodes with 
+	  - time-defined nodes include other time-defined nodes with finer granularity
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
