@@ -8,84 +8,37 @@
         "type": "split",
         "children": [
           {
-            "id": "a62adb19ecf08dda",
-            "type": "split",
-            "children": [
-              {
-                "id": "2639e028cd5027a6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-05-08.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "98d2d9cc0354e350",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "monkey island.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "f28c6a220ac18edd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "the secret of monkey island.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "faefe5a3d24691d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "vault.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "c889af447c75e51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "protocolo del ágora.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "b61980722fe54953",
-            "type": "split",
-            "children": [
-              {
-                "id": "895ae0e3312eece0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "flancia collective.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "46cc4b377c1c0dad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "meet.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "9fb10e4d40903fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-08.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
+          },
+          {
+            "id": "895ae0e3312eece0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flancia collective.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -132,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the secret of monkey island.md",
+                "file": "flancia collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the secret of monkey island.md"
+                "file": "flancia collective.md"
               }
             }
           }
@@ -181,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f28c6a220ac18edd",
+  "active": "895ae0e3312eece0",
   "lastOpenFiles": [
-    "the secret of monkey island.md",
-    "monkey island.md",
-    "2021-05-08.md",
-    "2021-05-07.md",
     "flancia collective.md",
-    "fediverse.md",
-    "conflict-files-obsidian-git.md",
-    "agora.md",
-    "schelling point.md",
-    "agora search.md"
+    "2021-05-08.md",
+    "protocolo del ágora.md",
+    "obsidian.md",
+    "armengolaltayo.md",
+    "busy texas cafe.md",
+    "typing cat.md",
+    "super adventure island.md",
+    "hipster sound.md",
+    "busy cafe.md"
   ]
 }
