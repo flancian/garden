@@ -13,11 +13,12 @@
 - Likely interested in [[agora]], [[agora go links integration]]: https://danielarmengolaltayo.github.io/hyperlink/capsules/unidirectionality-of-links.html, see also [[the hyperlink delusion]].
   "As cybernetics would say, it is time to steer the ship, because “if you do not change direction, you may end up where you are heading”. It is time to iterate the Web, and therefore, our relationship with it."
 
-## [[next]]
+## [[2021-05-08]]
 
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
+- [[inge]]
 
 ## [[2021-02-03]]
 - [[miércoles libres]]
