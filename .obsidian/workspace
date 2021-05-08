@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "busy cafe.md",
+                "file": "busy texas cafe.md",
                 "mode": "source"
               }
             }
@@ -57,7 +57,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typing cat.md",
+                "file": "busy texas cafe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typing cat.md",
+                "file": "busy texas cafe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typing cat.md"
+                "file": "busy texas cafe.md"
               }
             }
           }
@@ -190,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8473d4318c0bb43",
+  "active": "bddf9c9803999b3d",
   "lastOpenFiles": [
-    "typing cat.md",
+    "busy texas cafe.md",
     "busy cafe.md",
+    "typing cat.md",
     "track.md",
     "armengolaltayo.md",
     "protocolo del ágora.md",
     "Pasted image 20210508114518.png",
     "obsidian.md",
     "flancia collective.md",
-    "2021-05-08.md",
-    "2021-05-07.md"
+    "2021-05-08.md"
   ]
 }
