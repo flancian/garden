@@ -42,6 +42,7 @@
 	  - [[armengol]] [[podcast]] de [[coinbase]]
 	    - asociando mérito con una identidad
 		- [[prueba de trabajo]]
+	- [[armengol]] objeciones a los conceptos de [[error]] y [[adversario]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
