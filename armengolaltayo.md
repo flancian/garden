@@ -36,6 +36,7 @@
 	  - time-defined nodes include other time-defined nodes with finer granularity
 - [[agora]]
 	- [[armengol]] parece un [[collage]]
+	- cómo 
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
