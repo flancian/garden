@@ -26,7 +26,7 @@
 - [[obsidian]]
 	- imágenes en [[obsidian]]
 	- [[armengol]] hasta ahora partiendo de que la unidad base es archivos .md (en [[foam]])
-	- 
+- [[notas diarias]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
