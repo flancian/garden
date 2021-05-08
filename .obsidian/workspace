@@ -30,6 +30,17 @@
             }
           },
           {
+            "id": "c98b25381c54bea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vera bug.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "895ae0e3312eece0",
             "type": "leaf",
             "state": {
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia collective.md",
+                "file": "vera bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancia collective.md"
+                "file": "vera bug.md"
               }
             }
           }
@@ -133,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "895ae0e3312eece0",
+  "active": "c98b25381c54bea3",
   "lastOpenFiles": [
-    "flancia collective.md",
+    "vera bug.md",
     "2021-05-08.md",
     "protocolo del ágora.md",
+    "flancia collective.md",
     "obsidian.md",
     "armengolaltayo.md",
     "busy texas cafe.md",
     "typing cat.md",
     "super adventure island.md",
-    "hipster sound.md",
-    "busy cafe.md"
+    "hipster sound.md"
   ]
 }
