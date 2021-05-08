@@ -30,20 +30,20 @@
             }
           },
           {
-            "id": "faefe5a3d24691d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d8cea4f32927b488",
+            "id": "7fefbe7ff094d7cf",
             "type": "split",
             "children": [
+              {
+                "id": "895ae0e3312eece0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "flancia collective.md",
+                    "mode": "source"
+                  }
+                }
+              },
               {
                 "id": "8f6efcf79b333fb4",
                 "type": "leaf",
@@ -54,42 +54,9 @@
                     "mode": "source"
                   }
                 }
-              },
-              {
-                "id": "46cc4b377c1c0dad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "meet.md",
-                    "mode": "source"
-                  }
-                }
               }
             ],
             "direction": "vertical"
-          },
-          {
-            "id": "895ae0e3312eece0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flancia collective.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d3c1ae0a5fe4433c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source"
-              }
-            }
           }
         ],
         "direction": "horizontal"
