@@ -30,6 +30,17 @@
             }
           },
           {
+            "id": "cc3edf1a8095287e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gather.town.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "c98b25381c54bea3",
             "type": "leaf",
             "state": {
@@ -116,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-08.md",
+                "file": "gather.town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-08.md"
+                "file": "gather.town.md"
               }
             }
           }
@@ -144,8 +155,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fb10e4d40903fb4",
+  "active": "cc3edf1a8095287e",
   "lastOpenFiles": [
+    "gather.town.md",
     "2021-05-08.md",
     "vera bug.md",
     "protocolo del ágora.md",
@@ -154,7 +166,6 @@
     "armengolaltayo.md",
     "busy texas cafe.md",
     "typing cat.md",
-    "super adventure island.md",
-    "hipster sound.md"
+    "super adventure island.md"
   ]
 }
