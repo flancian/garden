@@ -1,4 +1,6 @@
 - a [[game]].
 	- one of my [[favourites]].
-	- [[go]] [[wp]]
+	- [[wp]] https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island
+		- [[go]] [[wp]]
+	- [[]]
 	- [[music]] https://www.youtube.com/watch?v=ILV2Xr5XzPM
