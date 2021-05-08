@@ -1,4 +1,5 @@
 - [[contexto]]
 	- toda emisión ocurre en un contexto
 	- el contexto es indicado explícitamente dentro de lo posible
+	  - bue[[armengol]]
 	- por defecto los contextos son indicados mediante el uso de [[wikilinks]] o la aplicación de títulos
