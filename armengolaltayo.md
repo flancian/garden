@@ -25,13 +25,14 @@
   - punto + radio (esfera) -- modo estricto (sólo punto) opcional
 - [[obsidian]]
 	- imágenes en [[obsidian]]
+		- ![[Pasted image 20210508114518.png]]
 	- [[armengol]] hasta ahora partiendo de que la unidad base es archivos .md (en [[foam]])
 - [[fotonovela]]
 - [[notas diarias]]
+	- [[track]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
-- ![[Pasted image 20210508114518.png]]
 
 ## [[2021-02-03]]
 - [[miércoles libres]]

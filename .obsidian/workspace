@@ -19,40 +19,21 @@
             }
           },
           {
-            "id": "145483b67949e7d2",
-            "type": "split",
-            "children": [
-              {
-                "id": "c64c49f16fe0734f",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Pasted image 20210508114518.png"
-                  }
-                },
-                "group": "303b32089783ed87"
-              },
-              {
-                "id": "55fa4b022cd6a6bb",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Pasted image 20210508114518.png",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                },
-                "group": "303b32089783ed87"
+            "id": "55fa4b022cd6a6bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "armengolaltayo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
             "id": "7fefbe7ff094d7cf",
