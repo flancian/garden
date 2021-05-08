@@ -19,6 +19,17 @@
             }
           },
           {
+            "id": "bddf9c9803999b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "track.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "55fa4b022cd6a6bb",
             "type": "leaf",
             "state": {
@@ -160,6 +171,7 @@
   "active": "77c4ff1346ed553f",
   "lastOpenFiles": [
     "armengolaltayo.md",
+    "track.md",
     "Pasted image 20210508114518.png",
     "obsidian.md",
     "flancia collective.md",
@@ -167,7 +179,6 @@
     "2021-05-07.md",
     "armengol.md",
     "conflict-files-obsidian-git.md",
-    "agora.md",
-    "schelling point.md"
+    "agora.md"
   ]
 }

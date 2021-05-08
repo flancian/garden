@@ -29,8 +29,7 @@
 	- [[armengol]] hasta ahora partiendo de que la unidad base es archivos .md (en [[foam]])
 - [[fotonovela]]
 - [[notas diarias]]
-	- [[push]] [[track]]
-		- 
+	- [[track]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
