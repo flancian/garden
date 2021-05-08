@@ -26,6 +26,7 @@
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
+- ![[Pasted image 20210508114518.png]]
 
 ## [[2021-02-03]]
 - [[miércoles libres]]
