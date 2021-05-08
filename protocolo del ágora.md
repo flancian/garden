@@ -1,4 +1,4 @@
 - [[contexto]]
 	- toda emisión ocurre en un contexto
 	- el contexto es indicado explícitamente dentro de lo posible
-	- por defecto los contextos son indicados mediante 
+	- por defecto los contextos son indicados mediante el uso de [[wikilinks]] 
