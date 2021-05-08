@@ -43,6 +43,7 @@
 	    - asociando mérito con una identidad
 		- [[prueba de trabajo]]
 	- [[armengol]] objeciones a los conceptos de [[error]] y [[adversario]]
+	  - [[cooperador]]
 	- [[kolmogorov complexity]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
