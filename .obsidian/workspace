@@ -8,48 +8,62 @@
         "type": "split",
         "children": [
           {
-            "id": "2639e028cd5027a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-08.md",
-                "mode": "source"
+            "id": "a62adb19ecf08dda",
+            "type": "split",
+            "children": [
+              {
+                "id": "2639e028cd5027a6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-05-08.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "faefe5a3d24691d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vault.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "faefe5a3d24691d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault.md",
-                "mode": "source"
+            "id": "b61980722fe54953",
+            "type": "split",
+            "children": [
+              {
+                "id": "895ae0e3312eece0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "flancia collective.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "46cc4b377c1c0dad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "meet.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "46cc4b377c1c0dad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meet.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "895ae0e3312eece0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flancia collective.md",
-                "mode": "source"
-              }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
