@@ -1,6 +1,6 @@
 - a [[bug]].
 	- [[go/vera/space]] doesn't work
 	- it should
-- [[fix]]
+- [[fix]] https://github.com/flancian/agora-server/commit/62332091fa9dadbd099aeb101255de5b19774aed
   - find code path
     - [[agora.py:180]]

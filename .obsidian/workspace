@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypercore.md",
+                "file": "vera bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypercore.md"
+                "file": "vera bug.md"
               }
             }
           }
@@ -155,12 +155,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fb10e4d40903fb4",
+  "active": "c98b25381c54bea3",
   "lastOpenFiles": [
+    "vera bug.md",
     "hypercore.md",
     "2021-05-08.md",
     "gather.town.md",
-    "vera bug.md",
     "protocolo del ágora.md",
     "flancia collective.md",
     "obsidian.md",
