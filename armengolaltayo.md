@@ -35,7 +35,8 @@
 	  - the [[agora]] could be a good backend (interlay?) for this if you're interested
 	  - time-defined nodes include other time-defined nodes with finer granularity
 - [[agora]]
-	- [[armengol]] parece un co
+	- [[armengol]] parece un [[collage]]
+	- 
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
