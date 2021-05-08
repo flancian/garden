@@ -41,6 +41,7 @@
 	  - si muchas personas observan a una persona y no parece nazi, la probabilidad de nazi baja?
 	  - [[armengol]] [[podcast]] de [[coinbase]]
 	    - asociando mérito con una identidad
+		- [[prueba de trabajo]]
 - [[push]] [[pointless]]
   - [[armengol]] [[propuesta artística]]
 - [[greg egan]]
