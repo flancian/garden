@@ -63,6 +63,28 @@
             }
           },
           {
+            "id": "844626f44ac75026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal knowledge management.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3d168a3767bbb35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pkm.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "c39a52dcd48db732",
             "type": "leaf",
             "state": {
@@ -166,9 +188,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f198737e1da16eef",
+  "active": "3d168a3767bbb35b",
   "lastOpenFiles": [
     "pkm.md",
+    "personal knowledge management.md",
     "roam like.md",
     "obsidian.md",
     "polyfill.md",
@@ -176,7 +199,6 @@
     "2021-05-09.md",
     "gptbr00ke.md",
     "friend.md",
-    "gather.md",
-    "file system access api.md"
+    "gather.md"
   ]
 }
