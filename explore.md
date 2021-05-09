@@ -1,1 +1,2 @@
-- [[github]] ![[Pasted image 20210509191633.png]]
+- [[gitlab]] ![[Pasted image 20210509191940.png]]
+- [[github]] ![[Pasted image 20210509191948.png]]
