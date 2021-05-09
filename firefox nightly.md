@@ -2,6 +2,8 @@
 # firefox nightly
 
 - a [[[browser]]]
-	- []
-- [[go]] https://quality.mozilla.org/get-involved/
-- [[pull]] [[firefox qa]]
+	- latest [[firefox]] code
+	- [[bleeding edge]]
+	- [[go]] https://quality.mozilla.org/get-involved/
+	- [[bug]] https://bugzilla.mozilla.org/home
+	- [[pull]] [[firefox qa]]
