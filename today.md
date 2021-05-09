@@ -1,5 +1,3 @@
 # Today
 
-- [[go]] anagora.org/today
-
-
+- [[go]] https://anagora.org/today
