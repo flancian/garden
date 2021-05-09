@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian.md",
+                "file": "defoam.md",
                 "mode": "source"
               }
             }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "defoam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "defoam.md"
               }
             }
           }
@@ -179,13 +179,13 @@
   },
   "active": "db4a852afec64249",
   "lastOpenFiles": [
+    "defoam.md",
     "obsidian.md",
     "explore.md",
     "polyfill.md",
     "file system access api.md",
     "remember.md",
     "2021-05-09.md",
-    "defoam.md",
     "flancia collective.md",
     "vera bug.md",
     "miguel hernández.md"
