@@ -27,10 +27,10 @@
   - Flancia existed before the [[agora]] but is defined by it.
 - a [[list]].
   - Of [[people]] and [[things]] contained therein.
-- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
-
 - A [[collective]].
   - [[flancia coop]]
+- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+- [[space]] https://gather.town/app/UIn5AAlVh3IUSKiP/home
 - Have I ever told you that in Flancia there is an [[Agora]]?
 
 https://twitter.com/flancian/status/1298701482997538822
