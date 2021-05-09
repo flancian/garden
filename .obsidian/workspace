@@ -24,7 +24,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "velintonia.md",
+                "file": "2021-05-09.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "4b36bb8e0b0cb120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "miguel hernández.md",
                 "mode": "source"
               }
             }
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "defoam.md",
+                "file": "miguel hernández.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "defoam.md"
+                "file": "miguel hernández.md"
               }
             }
           }
@@ -155,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fb10e4d40903fb4",
+  "active": "4b36bb8e0b0cb120",
   "lastOpenFiles": [
+    "miguel hernández.md",
+    "2021-05-09.md",
+    "velintonia.md",
     "defoam.md",
     "firefox qa.md",
-    "2021-05-09.md",
     "sign up.md",
     "flancia collective.md",
     "vera bug.md",
-    "velintonia.md",
     "flancia.md",
-    "firefox nightly.md",
-    "gather.town.md"
+    "firefox nightly.md"
   ]
 }

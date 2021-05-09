@@ -1,0 +1,5 @@
+- a [[person]]
+	- [[go]] [[wp]]
+	- [[wp]] https://en.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez
+	- [[photo]] https://en.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez#/media/File:Miguel_hernandez.jpg
+	- [[generación del 27]] [[generación del 36]]
