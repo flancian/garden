@@ -8,17 +8,6 @@
         "type": "split",
         "children": [
           {
-            "id": "9fb10e4d40903fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "defoam.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "ed10ac322c4aed58",
             "type": "leaf",
             "state": {
@@ -94,28 +83,6 @@
                 "mode": "source"
               }
             }
-          },
-          {
-            "id": "c98b25381c54bea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vera bug.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "895ae0e3312eece0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flancia collective.md",
-                "mode": "source"
-              }
-            }
           }
         ],
         "direction": "horizontal"
@@ -182,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polyfill.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polyfill.md"
+                "file": "obsidian.md"
               }
             }
           }
@@ -210,17 +177,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd556dba641a6af6",
+  "active": "db4a852afec64249",
   "lastOpenFiles": [
-    "polyfill.md",
-    "2021-05-09.md",
     "obsidian.md",
+    "explore.md",
+    "polyfill.md",
     "file system access api.md",
     "remember.md",
-    "miguel hernández.md",
-    "explore.md",
-    "firefox qa.md",
-    "velintonia.md",
-    "defoam.md"
+    "2021-05-09.md",
+    "defoam.md",
+    "flancia collective.md",
+    "vera bug.md",
+    "miguel hernández.md"
   ]
 }
