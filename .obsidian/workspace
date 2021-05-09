@@ -41,6 +41,28 @@
             }
           },
           {
+            "id": "4f55a658171e574a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nightly.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "48ea01cf58557892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "firefox nightly.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "762d6f678c6a753f",
             "type": "leaf",
             "state": {
@@ -160,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia.md",
+                "file": "firefox nightly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancia.md"
+                "file": "firefox nightly.md"
               }
             }
           }
@@ -188,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "daa1d07271c999a4",
+  "active": "48ea01cf58557892",
   "lastOpenFiles": [
-    "flancia.md",
+    "firefox nightly.md",
+    "nightly.md",
     "2021-05-09.md",
+    "flancia.md",
     "protocolo del ágora.md",
     "pernambuco.md",
     "pernambuco e seu conjunto.md",
     "hypercore.md",
     "vera bug.md",
-    "2021-05-08.md",
-    "gather.town.md",
-    "flancia collective.md"
+    "2021-05-08.md"
   ]
 }
