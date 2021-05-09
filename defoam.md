@@ -3,3 +3,5 @@
 - to remove all such cruft from a [[digital garden]], you can use the following one-liner:
 	- `sed -i '/\[\/\/begin\]/,/\[\/end\]/d' *md`
 	- sed is "native" to [[linux]] and [[os x]] but these days should be installable in windows through [[wsl]].
+	
+https://twitter.com/flancian/status/1391436411501416452
