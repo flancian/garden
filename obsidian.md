@@ -1,7 +1,7 @@
 # Obsidian
 
 - an [[agora editor]]
-  - [[roam like]]
+  - [[pkm]] = [[roam like]]
   - [[go]] https://obsidian.md
   - as of [[2021-05-07]] the recommended [[agora editor]].
 	  - previously I had tried it after [[roam]] -- but I left it behind for [[foam]] on due to it not being [[open source]].
