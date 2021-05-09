@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-09.md",
+                "file": "defoam.md",
                 "mode": "source"
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-09.md",
+                "file": "defoam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-09.md"
+                "file": "defoam.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "9fb10e4d40903fb4",
   "lastOpenFiles": [
+    "defoam.md",
     "2021-05-09.md",
     "sign up.md",
     "firefox qa.md",
@@ -165,7 +166,6 @@
     "velintonia.md",
     "flancia.md",
     "firefox nightly.md",
-    "gather.town.md",
-    "pernambuco.md"
+    "gather.town.md"
   ]
 }
