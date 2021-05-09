@@ -30,61 +30,6 @@
             }
           },
           {
-            "id": "1d9b53ec4af0a51e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-09.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "da5d0fabbb065357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-09.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "36bac5776412e04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-09.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "32ab324ce391f2fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "balcony.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bd556dba641a6af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "polyfill.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "db4a852afec64249",
             "type": "leaf",
             "state": {
@@ -102,6 +47,17 @@
               "type": "markdown",
               "state": {
                 "file": "roam like.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f198737e1da16eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pkm.md",
                 "mode": "source"
               }
             }
@@ -182,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "balcony.md",
+                "file": "pkm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "balcony.md"
+                "file": "pkm.md"
               }
             }
           }
@@ -210,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32ab324ce391f2fe",
+  "active": "f198737e1da16eef",
   "lastOpenFiles": [
+    "pkm.md",
+    "roam like.md",
+    "obsidian.md",
+    "polyfill.md",
     "balcony.md",
     "2021-05-09.md",
     "gptbr00ke.md",
     "friend.md",
     "gather.md",
-    "file system access api.md",
-    "polyfill.md",
-    "obsidian.md",
-    "roam like.md",
-    "explore.md"
+    "file system access api.md"
   ]
 }

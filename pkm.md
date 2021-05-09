@@ -1,7 +1,6 @@
 # Pkm
 
-- [[pull]] [[personal knowledge management]].
-- [[pull]] [[roam]]
-- [[pull]] [[roam likes]]
+- [[personal knowledge management]].
+	- the [[agora]] is a 
 
 
