@@ -1,3 +1,4 @@
-- [[pull]] [[gather town]]
+- a [[videoconferencing]] startup plus associated product
+	- [[pull]] [[gather town]]
 	- [[git]] https://github.com/gathertown
 	- [[go]] https://gather.town/about
