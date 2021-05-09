@@ -46,7 +46,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "firefox qa.md",
+                "file": "2021-05-09.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c39a52dcd48db732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "explore.md",
                 "mode": "source"
               }
             }
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "miguel hernández.md",
+                "file": "explore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "miguel hernández.md"
+                "file": "explore.md"
               }
             }
           }
@@ -166,17 +177,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b36bb8e0b0cb120",
+  "active": "c39a52dcd48db732",
   "lastOpenFiles": [
-    "miguel hernández.md",
+    "explore.md",
     "2021-05-09.md",
+    "firefox qa.md",
+    "miguel hernández.md",
     "velintonia.md",
     "defoam.md",
-    "firefox qa.md",
     "sign up.md",
     "flancia collective.md",
     "vera bug.md",
-    "flancia.md",
-    "firefox nightly.md"
+    "flancia.md"
   ]
 }
