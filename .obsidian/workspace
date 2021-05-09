@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-09.md",
+                "file": "obsidian.md",
                 "mode": "source"
               }
             }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-09.md",
+                "file": "polyfill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-09.md"
+                "file": "polyfill.md"
               }
             }
           }
@@ -210,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db4a852afec64249",
+  "active": "bd556dba641a6af6",
   "lastOpenFiles": [
+    "polyfill.md",
     "2021-05-09.md",
+    "obsidian.md",
     "file system access api.md",
     "remember.md",
-    "polyfill.md",
     "miguel hernández.md",
     "explore.md",
     "firefox qa.md",
     "velintonia.md",
-    "defoam.md",
-    "sign up.md"
+    "defoam.md"
   ]
 }
