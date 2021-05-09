@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pkm.md",
+                "file": "2021-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pkm.md"
+                "file": "2021-05-09.md"
               }
             }
           }
@@ -188,15 +188,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d168a3767bbb35b",
+  "active": "ed10ac322c4aed58",
   "lastOpenFiles": [
+    "2021-05-09.md",
     "pkm.md",
     "personal knowledge management.md",
     "roam like.md",
     "obsidian.md",
     "polyfill.md",
     "balcony.md",
-    "2021-05-09.md",
     "gptbr00ke.md",
     "friend.md",
     "gather.md"
