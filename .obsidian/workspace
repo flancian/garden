@@ -8,29 +8,7 @@
         "type": "split",
         "children": [
           {
-            "id": "daa1d07271c999a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flancia.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "9fb10e4d40903fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-09.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "48ea01cf58557892",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia.md",
+                "file": "flancia collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancia.md"
+                "file": "flancia collective.md"
               }
             }
           }
@@ -177,16 +155,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "daa1d07271c999a4",
+  "active": "895ae0e3312eece0",
   "lastOpenFiles": [
-    "flancia.md",
-    "2021-05-09.md",
-    "velintonia.md",
-    "firefox nightly.md",
     "flancia collective.md",
     "vera bug.md",
-    "gather.town.md",
     "firefox qa.md",
+    "velintonia.md",
+    "2021-05-09.md",
+    "flancia.md",
+    "firefox nightly.md",
+    "gather.town.md",
     "pernambuco.md",
     "pernambuco e seu conjunto.md"
   ]
