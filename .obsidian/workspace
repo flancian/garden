@@ -41,6 +41,17 @@
             }
           },
           {
+            "id": "2748b577508433ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remember.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "1d9b53ec4af0a51e",
             "type": "leaf",
             "state": {
@@ -171,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-09.md",
+                "file": "remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-09.md"
+                "file": "remember.md"
               }
             }
           }
@@ -199,8 +210,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b36bb8e0b0cb120",
+  "active": "2748b577508433ff",
   "lastOpenFiles": [
+    "remember.md",
     "2021-05-09.md",
     "file system access api.md",
     "polyfill.md",
@@ -209,7 +221,6 @@
     "firefox qa.md",
     "velintonia.md",
     "defoam.md",
-    "sign up.md",
-    "flancia collective.md"
+    "sign up.md"
   ]
 }
