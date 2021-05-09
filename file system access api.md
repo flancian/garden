@@ -1,0 +1,2 @@
+- [[go]] https://github.com/WICG/file-system-access
+  - [[firefox]] doesn't support these and it would probably be better if it would
