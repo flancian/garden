@@ -52,6 +52,17 @@
             }
           },
           {
+            "id": "ed10ac322c4aed58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "velintonia.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "db4a852afec64249",
             "type": "leaf",
             "state": {
@@ -149,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-09.md",
+                "file": "velintonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-09.md"
+                "file": "velintonia.md"
               }
             }
           }
@@ -177,8 +188,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48ea01cf58557892",
+  "active": "ed10ac322c4aed58",
   "lastOpenFiles": [
+    "velintonia.md",
     "2021-05-09.md",
     "firefox nightly.md",
     "flancia collective.md",
@@ -187,7 +199,6 @@
     "firefox qa.md",
     "pernambuco.md",
     "pernambuco e seu conjunto.md",
-    "nightly.md",
-    "flancia.md"
+    "nightly.md"
   ]
 }

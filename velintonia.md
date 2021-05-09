@@ -1,0 +1,3 @@
+- un [[punto de encuentro]]
+	- la casa de [[vicente aleixandre]] en [[madrid]]
+	- [[go]] https://elpais.com/ccaa/2018/07/06/madrid/1530877768_416512.html
