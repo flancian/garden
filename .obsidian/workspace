@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roam like.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roam like.md"
+                "file": "obsidian.md"
               }
             }
           }
@@ -188,10 +188,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2e691fce353655f",
+  "active": "db4a852afec64249",
   "lastOpenFiles": [
-    "roam like.md",
     "obsidian.md",
+    "roam like.md",
     "defoam.md",
     "explore.md",
     "polyfill.md",
