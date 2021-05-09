@@ -6,7 +6,7 @@
 
 I'm trying to write a book. It's titled [[Flancia]]. I have lofty aspirations, as per usual, but it is really only a rough [[draft]].
 
-In lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm putting together as a gift for [[you]]. 
+In lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm putting together as a gift for [[you]].
 
 These are the chapters of [[Flancia]]:
 
@@ -25,5 +25,3 @@ These are the chapters of [[Flancia]]:
 Please consider this an offering to the [[people]].
 
 Have a nice day! And I hope you [[thrive]].
-
-

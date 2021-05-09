@@ -6,4 +6,3 @@
 - Technically her name is masculine (it means "bird" in Catalan) but I don't think she cares about grammatical gender.
 
 <img src="https://i.imgur.com/szKP7jB.jpg" width=50%>
-
