@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tokyo 1960.md",
+                "file": "metabolist.md",
                 "mode": "source"
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tokyo 1960.md",
+                "file": "metabolist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tokyo 1960.md"
+                "file": "metabolist.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "e8c7d7d57721e66d",
   "lastOpenFiles": [
+    "metabolist.md",
     "tokyo 1960.md",
     "reading alexander.md",
     "patterning.md",
@@ -165,7 +166,6 @@
     "remember.md",
     "marshall mcluhan.md",
     "roam like.md",
-    "pkm.md",
-    "personal knowledge management.md"
+    "pkm.md"
   ]
 }
