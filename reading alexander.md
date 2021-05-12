@@ -16,6 +16,7 @@
 		- some vagueness
 	- a bit tragic perhaps: towards the end, neighbors working together to make their houses beautiful. seemed a bit utopian in a modernist sense.
 - a [[pattern]] has a [[context]], a [[problem]] and a [[solution]] that resolves the set of conflicting forces.
+- embodiment as crucial vs the software patterns
 
 ## [[april]]
 - [[notsof]]
