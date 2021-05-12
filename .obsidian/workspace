@@ -52,17 +52,6 @@
             }
           },
           {
-            "id": "0675e1b6aaa5db47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-12.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "84cc6bf7e76cb6c4",
             "type": "leaf",
             "state": {
@@ -215,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reimagine the internet.md",
+                "file": "knight first amendment institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reimagine the internet.md"
+                "file": "knight first amendment institute.md"
               }
             }
           }
@@ -243,11 +232,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84cc6bf7e76cb6c4",
+  "active": "99a9f3fa87985827",
   "lastOpenFiles": [
-    "reimagine the internet.md",
     "knight first amendment institute.md",
     "2021-05-12.md",
+    "reimagine the internet.md",
     "chris aldrich.md",
     "file handler.md",
     "beautiful.md",
