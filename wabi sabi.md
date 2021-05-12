@@ -1,0 +1,2 @@
+- [[wp]] https://en.wikipedia.org/wiki/Wabi-sabi
+  - [[go]] [[wp]]
