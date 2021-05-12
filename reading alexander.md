@@ -12,6 +12,7 @@
 		- "I need to read it fast" yields a different kind of reading too, perhaps
 	- [[lorand]] some pieces seem to be a bit rough. but interesting questions
 		- the observation that people feel calm in nature -> homogeneity in aesthetics
+		- ad hoc/rushed at the end: processes for using patterns for differentiation of space. but if it's not possible for
 
 ## [[april]]
 - [[notsof]]
