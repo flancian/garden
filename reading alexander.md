@@ -7,6 +7,8 @@
 - [[ttwob]]
 - [[lorand]]
 	- found himself reading in a less analytical way
+	- [[armengol]]
+		- the structure itself seems to encourage this
 
 ## [[april]]
 - [[notsof]]
