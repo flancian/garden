@@ -57,7 +57,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metabolist.md",
+                "file": "2021-05-12.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "78842c777c7eb465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stoa.md",
                 "mode": "source"
               }
             }
@@ -160,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beautiful.md",
+                "file": "stoa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beautiful.md"
+                "file": "stoa.md"
               }
             }
           }
@@ -188,17 +199,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e09f8338fd47176b",
+  "active": "78842c777c7eb465",
   "lastOpenFiles": [
-    "beautiful.md",
+    "stoa.md",
     "2021-05-12.md",
+    "metabolist.md",
+    "beautiful.md",
     "wabi sabi.md",
     "reading alexander.md",
-    "metabolist.md",
     "patterning.md",
     "lacaton and vassal.md",
     "remember.md",
-    "kenzo tange.md",
-    "tokyo 1960.md"
+    "kenzo tange.md"
   ]
 }

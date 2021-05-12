@@ -6,6 +6,9 @@
 - In the [[historical agora]] of [[Athens]]:
   - [[stoa of attalos]]
   - [[stoa poikile]]
+  
+![[Pasted image 20210512221900.png]]
+
 - In this [[agora]]:
   - A [[stoa]] is a [[group]] of [[people]] in an [[agora]] with [[compatible]] [[worldviews]] and [[tools]] and [[interests]] conducive to [[cooperation]].
     - In particular, well-working stoas are likely to be integrated by people with [[aligned]] or [[complementary]] [[goals]] and [[values]].
@@ -22,6 +25,8 @@
 - Elsewhere:
   - [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
-- https://twitter.com/flancian/status/1345818921836883968
-- https://twitter.com/flancian/status/1349787957830496267
+
+https://twitter.com/flancian/status/1345818921836883968
+https://twitter.com/flancian/status/1349787957830496267
+
 
