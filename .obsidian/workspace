@@ -39,7 +39,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "x spreadsheet.md",
+                    "file": "flutter.md",
                     "mode": "source"
                   }
                 }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x spreadsheet.md",
+                "file": "2021-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x spreadsheet.md"
+                "file": "2021-05-12.md"
               }
             }
           }
@@ -180,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efbe1ae9bb8e1c40",
+  "active": "f28c6a220ac18edd",
   "lastOpenFiles": [
-    "x spreadsheet.md",
     "2021-05-12.md",
+    "flutter.md",
+    "x spreadsheet.md",
     "radijo musikii.md",
     "the secret of monkey island.md",
     "radiko musijik.md",
     "2021-05-10.md",
     "monkey island.md",
     "2021-05-08.md",
-    "2021-05-07.md",
-    "flancia collective.md"
+    "2021-05-07.md"
   ]
 }
