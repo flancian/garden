@@ -14,7 +14,7 @@
 		- the observation that people feel calm in nature -> homogeneity in aesthetics
 		- ad hoc/rushed at the end: processes for using patterns for differentiation of space. differentiation vs accumulation
 		- some vagueness
-	- a bit tragic perhaps: towards the end, neighbors working together to make their houses beautiful. a bit utopian in the modernist sense.
+	- a bit tragic perhaps: towards the end, neighbors working together to make their houses beautiful. seemed a bit utopian in a modernist sense.
 
 ## [[april]]
 - [[notsof]]
