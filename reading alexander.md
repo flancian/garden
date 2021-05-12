@@ -18,7 +18,7 @@
 - a [[pattern]] has a [[context]], a [[problem]] and a [[solution]] that resolves the set of conflicting forces.
 - embodiment as crucial vs the software patterns
 - [[kowloon walled city]]
-- 
+- [[tokyo 1960]]
 
 ## [[april]]
 - [[notsof]]
