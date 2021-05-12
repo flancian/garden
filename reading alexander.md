@@ -10,7 +10,8 @@
 	- [[armengol]]
 		- the structure itself seems to encourage this
 		- "I need to read it fast" yields a different kind of reading too, perhaps
-	- [[lorand]] impression is that even if one were to read everything
+	- [[lorand]] some pieces seem to be a bit rough. but interesting questions
+		- the observation that people feel calm in nature -> homogeneity in aesthetics
 
 ## [[april]]
 - [[notsof]]
