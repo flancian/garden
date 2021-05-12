@@ -9,6 +9,8 @@
 	- found himself reading in a less analytical way
 	- [[armengol]]
 		- the structure itself seems to encourage this
+		- "I need to read it fast" yields a different kind of reading too, perhaps
+	- [[lorand]] impression is that even if one were to read everything
 
 ## [[april]]
 - [[notsof]]
