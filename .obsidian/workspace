@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knight first amendment institute.md",
+                "file": "reimagine the internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knight first amendment institute.md"
+                "file": "reimagine the internet.md"
               }
             }
           }
@@ -243,10 +243,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99a9f3fa87985827",
+  "active": "84cc6bf7e76cb6c4",
   "lastOpenFiles": [
-    "knight first amendment institute.md",
     "reimagine the internet.md",
+    "knight first amendment institute.md",
     "2021-05-12.md",
     "chris aldrich.md",
     "file handler.md",
