@@ -13,7 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-12.md",
+                "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "bebc57005f40d5b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yoga 17.md",
                 "mode": "source"
               }
             }
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-12.md",
+                "file": "yoga 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-12.md"
+                "file": "yoga 17.md"
               }
             }
           }
@@ -155,8 +166,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed10ac322c4aed58",
+  "active": "bebc57005f40d5b7",
   "lastOpenFiles": [
+    "yoga 17.md",
+    "2021-05-13.md",
     "2021-05-12.md",
     "patterning.md",
     "reading alexander.md",
@@ -164,8 +177,6 @@
     "metabolist.md",
     "lacaton and vassal.md",
     "remember.md",
-    "kenzo tange.md",
-    "tokyo 1960.md",
-    "2021-05-09.md"
+    "kenzo tange.md"
   ]
 }
