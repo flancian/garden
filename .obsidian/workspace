@@ -19,17 +19,6 @@
             }
           },
           {
-            "id": "afe9a97782e8d033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "patterning.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "8040c6b40126ae0e",
             "type": "leaf",
             "state": {
@@ -52,12 +41,12 @@
             }
           },
           {
-            "id": "3223f54626aa813c",
+            "id": "732c8821365d210f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-12.md",
+                "file": "patterning.md",
                 "mode": "source"
               }
             }
@@ -149,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-12.md",
+                "file": "reading alexander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-12.md"
+                "file": "reading alexander.md"
               }
             }
           }
@@ -177,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3223f54626aa813c",
+  "active": "8040c6b40126ae0e",
   "lastOpenFiles": [
-    "2021-05-12.md",
-    "lacaton and vassal.md",
-    "kenzo tange.md",
-    "metabolist.md",
-    "tokyo 1960.md",
     "reading alexander.md",
+    "metabolist.md",
+    "2021-05-12.md",
     "patterning.md",
-    "2021-05-09.md",
+    "lacaton and vassal.md",
     "remember.md",
+    "kenzo tange.md",
+    "tokyo 1960.md",
+    "2021-05-09.md",
     "marshall mcluhan.md"
   ]
 }

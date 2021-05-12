@@ -19,6 +19,8 @@
 - embodiment as crucial vs the software patterns
 - [[kowloon walled city]]
 - [[tokyo 1960]]
+- [[lorand]]
+	- 
 
 ## [[april]]
 - [[notsof]]
