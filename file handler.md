@@ -1,0 +1,1 @@
+- I just realized I have to implement a proper [[file handler]] for the [[agora]], like what I have for /raw/ URLs but returning a file with the exact name passed (including extension)
