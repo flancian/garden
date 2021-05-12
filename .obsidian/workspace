@@ -4,91 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a62e0bd6f30307",
+        "id": "a62adb19ecf08dda",
         "type": "split",
         "children": [
           {
-            "id": "a62adb19ecf08dda",
-            "type": "split",
-            "children": [
-              {
-                "id": "2639e028cd5027a6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-05-08.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "f28c6a220ac18edd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-05-12.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "efbe1ae9bb8e1c40",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "flutter.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "faefe5a3d24691d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "vault.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "f28c6a220ac18edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-12.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "b61980722fe54953",
-            "type": "split",
-            "children": [
-              {
-                "id": "895ae0e3312eece0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "flancia collective.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "46cc4b377c1c0dad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "meet.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "bf4bed947ac33d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "visualizing sep.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -152,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-12.md",
+                "file": "visualizing sep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-12.md"
+                "file": "visualizing sep.md"
               }
             }
           }
@@ -180,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f28c6a220ac18edd",
+  "active": "bf4bed947ac33d1c",
   "lastOpenFiles": [
-    "2021-05-12.md",
+    "visualizing sep.md",
+    "flancia collective.md",
     "flutter.md",
+    "vault.md",
+    "2021-05-12.md",
     "x spreadsheet.md",
     "radijo musikii.md",
     "the secret of monkey island.md",
     "radiko musijik.md",
-    "2021-05-10.md",
-    "monkey island.md",
-    "2021-05-08.md",
-    "2021-05-07.md"
+    "2021-05-10.md"
   ]
 }
