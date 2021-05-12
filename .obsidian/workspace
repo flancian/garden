@@ -19,6 +19,17 @@
             }
           },
           {
+            "id": "83a54f7c51d5ad5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chilean transition to democracy.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "bf4bed947ac33d1c",
             "type": "leaf",
             "state": {
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visualizing sep.md",
+                "file": "chilean transition to democracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "visualizing sep.md"
+                "file": "chilean transition to democracy.md"
               }
             }
           }
@@ -122,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bf4bed947ac33d1c",
+  "active": "83a54f7c51d5ad5f",
   "lastOpenFiles": [
+    "chilean transition to democracy.md",
+    "2021-05-12.md",
     "visualizing sep.md",
     "flancia collective.md",
     "flutter.md",
     "vault.md",
-    "2021-05-12.md",
     "x spreadsheet.md",
     "radijo musikii.md",
     "the secret of monkey island.md",
-    "radiko musijik.md",
-    "2021-05-10.md"
+    "radiko musijik.md"
   ]
 }
