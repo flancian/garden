@@ -1,0 +1,3 @@
+- [[wp]] https://en.wikipedia.org/wiki/1988_Chilean_national_plebiscite#The_campaign
+	- [[go]] [[wp]]
+	- "no" was the positive outcome (the dictatorship controlled the framing)
