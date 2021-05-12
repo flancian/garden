@@ -13,7 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-12.md",
+                "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "bebc57005f40d5b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yoga 17.md",
                 "mode": "source"
               }
             }
@@ -226,7 +237,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "will walker.md",
+=======
+                "file": "yoga 17.md",
+>>>>>>> 67462d858c73c6922cf68abc60b184bc86f196e4
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +258,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "will walker.md"
+=======
+                "file": "yoga 17.md"
+>>>>>>> 67462d858c73c6922cf68abc60b184bc86f196e4
               }
             }
           }
@@ -254,6 +273,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "a4dda1d0bb7856cf",
   "lastOpenFiles": [
     "will walker.md",
@@ -266,5 +286,19 @@
     "beautiful.md",
     "stoa.md",
     "metabolist.md"
+=======
+  "active": "bebc57005f40d5b7",
+  "lastOpenFiles": [
+    "yoga 17.md",
+    "2021-05-13.md",
+    "2021-05-12.md",
+    "patterning.md",
+    "reading alexander.md",
+    "wabi sabi.md",
+    "metabolist.md",
+    "lacaton and vassal.md",
+    "remember.md",
+    "kenzo tange.md"
+>>>>>>> 67462d858c73c6922cf68abc60b184bc86f196e4
   ]
 }

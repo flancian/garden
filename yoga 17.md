@@ -1,7 +1,10 @@
 # Yoga 17
 
+- Part of [[yoga with adriene]]
+- a [[yoga] ]
 - [[push]] [[yoga]]
-  - [[go]] https://www.youtube.com/watch?v=6rh6pVGTqRU
-  - Part of [[yoga with adriene]]
+  - [[power]] https://www.youtube.com/watch?v=6rh6pVGTqRU
+  - [[chill]] https://www.youtube.com/watch?v=SedzswEwpPw
+    - [[go]] [[chill]]
 
 
