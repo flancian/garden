@@ -3,7 +3,12 @@
 - a [[book club]]
   - [[pull]] [[patterning]]
 
-## [[ap]]
+## [[may]]
+- [[ttwob]]
+
+## [[april]]
+- [[notsof]]
+- [[ttwob]]
   
 ## [[2021-03-17]]
 - [[ttwob]]
