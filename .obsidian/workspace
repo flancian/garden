@@ -52,6 +52,17 @@
             }
           },
           {
+            "id": "3223f54626aa813c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kenzo tange.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "2748b577508433ff",
             "type": "leaf",
             "state": {
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metabolist.md",
+                "file": "kenzo tange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metabolist.md"
+                "file": "kenzo tange.md"
               }
             }
           }
@@ -155,8 +166,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8c7d7d57721e66d",
+  "active": "3223f54626aa813c",
   "lastOpenFiles": [
+    "kenzo tange.md",
     "metabolist.md",
     "tokyo 1960.md",
     "reading alexander.md",
@@ -165,7 +177,6 @@
     "2021-05-09.md",
     "remember.md",
     "marshall mcluhan.md",
-    "roam like.md",
-    "pkm.md"
+    "roam like.md"
   ]
 }

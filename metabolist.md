@@ -1,4 +1,3 @@
 - a [[movement]].
   - http://www.maki-and-associates.co.jp/details/index_pic.html?pcd=8 
   - [[kenzo tange]]
-  - [[]]
