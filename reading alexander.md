@@ -5,6 +5,8 @@
 
 ## [[may]]
 - [[ttwob]]
+- [[lorand]]
+	- found himself reading in a less analytical way
 
 ## [[april]]
 - [[notsof]]
