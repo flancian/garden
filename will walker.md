@@ -1,7 +1,9 @@
 # Will Walker
 
 - A [[person]].
-  - [[law]]
-- In [[social.coop]].
+	- studying [[law]]
+	- [[friend]]
+	- [[twitter]] https://twitter.com/willwalker33
+	- in [[social.coop]].
 
 
