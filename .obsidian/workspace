@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a62adb19ecf08dda",
+        "id": "b0a62e0bd6f30307",
         "type": "split",
         "children": [
           {
-            "id": "f28c6a220ac18edd",
+            "id": "ed10ac322c4aed58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,29 +19,40 @@
             }
           },
           {
-            "id": "83a54f7c51d5ad5f",
+            "id": "afe9a97782e8d033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chilean transition to democracy.md",
+                "file": "patterning.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "bf4bed947ac33d1c",
+            "id": "8040c6b40126ae0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "visualizing sep.md",
+                "file": "reading alexander.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2748b577508433ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remember.md",
                 "mode": "source"
               }
             }
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 300
   },
   "right": {
     "id": "afe2921ea1b550bb",
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chilean transition to democracy.md",
+                "file": "reading alexander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chilean transition to democracy.md"
+                "file": "reading alexander.md"
               }
             }
           }
@@ -133,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83a54f7c51d5ad5f",
+  "active": "8040c6b40126ae0e",
   "lastOpenFiles": [
-    "chilean transition to democracy.md",
+    "reading alexander.md",
+    "patterning.md",
     "2021-05-12.md",
-    "visualizing sep.md",
-    "flancia collective.md",
-    "flutter.md",
-    "vault.md",
-    "x spreadsheet.md",
-    "radijo musikii.md",
-    "the secret of monkey island.md",
-    "radiko musijik.md"
+    "2021-05-09.md",
+    "remember.md",
+    "marshall mcluhan.md",
+    "roam like.md",
+    "pkm.md",
+    "personal knowledge management.md",
+    "obsidian.md"
   ]
 }

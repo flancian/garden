@@ -2,8 +2,11 @@
 
 - a [[book club]]
   - [[pull]] [[patterning]]
+
+## [[ap]]
+  
 ## [[2021-03-17]]
-- Next instance. 
+- [[ttwob]]
 
 ## [[2021-02-28]]
 - [[participants]]
