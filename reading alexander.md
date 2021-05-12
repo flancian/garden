@@ -13,6 +13,8 @@
 	- [[lorand]] some pieces seem to be a bit rough. but interesting questions
 		- the observation that people feel calm in nature -> homogeneity in aesthetics
 		- ad hoc/rushed at the end: processes for using patterns for differentiation of space. differentiation vs accumulation
+		- some vagueness
+	- a bit tragic perhaps: towards the end, neighbors working together to make their houses beautiful
 
 ## [[april]]
 - [[notsof]]
