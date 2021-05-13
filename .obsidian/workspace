@@ -10,11 +10,23 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 17.955911823647295,
+            "dimension": 8.977955911823647,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "4d9ebdf60685da2e",
+            "type": "leaf",
+            "dimension": 8.977955911823647,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chorus one.md",
                 "mode": "source"
               }
             }
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "usability.md",
+                "file": "schelling point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "usability.md"
+                "file": "schelling point.md"
               }
             }
           },
@@ -221,17 +233,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0d2efb096f49cf9",
+  "active": "d54203e68b0a64a2",
   "lastOpenFiles": [
+    "schelling point.md",
+    "chorus one.md",
+    "2021-05-13.md",
     "usability.md",
     "the agora is a markdown convention.md",
     "the agora is a markup convention.md",
-    "schelling point.md",
-    "2021-05-13.md",
     "flask.md",
     "agora editor.md",
     "tmux resize.md",
-    "agora-editor.md",
-    "gardens.yaml.md"
+    "agora-editor.md"
   ]
 }
