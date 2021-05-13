@@ -1,12 +1,14 @@
 # Agora Protocol
 
 - The [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is defined as a list of [[agora rfcs]] as kept by a community agreeing to cooperate on such a list.
-	- an [[agora]] is a tuple (root, intents)
-		- the root repository is 
+	- an [[agora]] is a tuple (root, goals)
+		- the root repository is [[go/agora/git]]
+		- the goals of an agora are maintained by its community in the node [[goals]].
+	  - [[agora server]] is a reference implementation for a consumer of the protocol.
+		- the [[agora server]] repository is [[go/agora/git]]
 	- It has three parts:
 	- a [[convention]].
 	- A [[distributed knowledge graph]].
-  - [[agora server]] is a reference implementation for a consumer of the protocol.
 - Compatible [[agoras]] are expected to assemble into [[agora networks]].
 - [[pull]] [[wikilinks everywhere]]
 - [[pull]] [[agora convention]]
