@@ -1,7 +1,8 @@
 # Agora Protocol
 
-- The [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is defined as a list of [[agora rfcs]] as kept by a community 
-	- an [[agora]] is defined as such: a 
+- The [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is defined as a list of [[agora rfcs]] as kept by a community agreeing to cooperate on such a list.
+	- an [[agora]] is a tuple (root, intents)
+		- the root repository is 
 	- It has three parts:
 	- a [[convention]].
 	- A [[distributed knowledge graph]].
