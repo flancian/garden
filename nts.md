@@ -1,4 +1,5 @@
 # Nts
 
-- Love flancia.org/go/slow-focus.
+- a [[radio]]
+	- Love [[slow focus]]: flancia.org/go/slow-focus.
 
