@@ -10,6 +10,7 @@
           {
             "id": "40b3e25c756b595e",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,19 +20,9 @@
             }
           },
           {
-            "id": "1ec87436b7afde66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hans widmer.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "5dc5619fc0398c10",
             "type": "leaf",
+            "dimension": 6.627471940138964,
             "state": {
               "type": "markdown",
               "state": {
@@ -43,54 +34,11 @@
           {
             "id": "b9dd6fb23d1eb512",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "07116842da454d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2d66b9031326ef81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b46e669c94701078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bag of holding.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "baecdd02c182b9ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bigger in the inside.md",
                 "mode": "source"
               }
             }
@@ -98,6 +46,7 @@
           {
             "id": "7d72dd06dbde8845",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -109,6 +58,7 @@
           {
             "id": "9ddd198d159b6894",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -120,6 +70,7 @@
           {
             "id": "eeddb07932783526",
             "type": "leaf",
+            "dimension": 6.627471940138964,
             "state": {
               "type": "markdown",
               "state": {
@@ -131,6 +82,7 @@
           {
             "id": "c12493f393d54486",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -142,6 +94,7 @@
           {
             "id": "90e40567398b510f",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -153,6 +106,7 @@
           {
             "id": "2d7dd6df4d0d39ce",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -164,6 +118,7 @@
           {
             "id": "e09f8338fd47176b",
             "type": "leaf",
+            "dimension": 6.627471940138964,
             "state": {
               "type": "markdown",
               "state": {
@@ -175,6 +130,7 @@
           {
             "id": "84cc6bf7e76cb6c4",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -186,6 +142,7 @@
           {
             "id": "a4dda1d0bb7856cf",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -197,6 +154,7 @@
           {
             "id": "99a9f3fa87985827",
             "type": "leaf",
+            "dimension": 6.680919294494924,
             "state": {
               "type": "markdown",
               "state": {
@@ -208,6 +166,7 @@
           {
             "id": "790a00bed2dcbc67",
             "type": "leaf",
+            "dimension": 6.627471940138964,
             "state": {
               "type": "markdown",
               "state": {
@@ -219,6 +178,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
+            "dimension": 6.680919294494924,
             "children": [
               {
                 "id": "bbea07cc3c584323",
@@ -310,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bigger in the inside.md",
+                "file": "commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bigger in the inside.md"
+                "file": "commons.md"
               }
             }
           }
@@ -338,16 +298,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "baecdd02c182b9ec",
+  "active": "7d72dd06dbde8845",
   "lastOpenFiles": [
+    "commons.md",
+    "do.md",
     "bigger in the inside.md",
     "bag of holding.md",
     "Agora Elinor Ostrom.md",
     "elinor ostrom.md",
-    "commons.md",
     "2021-05-13.md",
     "chorus one.md",
-    "do.md",
     "bolo.md",
     "file system access api.md"
   ]
