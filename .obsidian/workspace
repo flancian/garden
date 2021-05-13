@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 14.164030177658802,
+            "dimension": 17.902183943402033,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "4d9ebdf60685da2e",
             "type": "leaf",
-            "dimension": 14.164030177658802,
+            "dimension": 17.902183943402033,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "d0d2efb096f49cf9",
             "type": "leaf",
-            "dimension": 5.853005597468969,
+            "dimension": 7.397723777299289,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 5.853005597468969,
+            "dimension": 7.397723777299289,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "d54203e68b0a64a2",
             "type": "leaf",
-            "dimension": 9.734728644439036,
+            "dimension": 12.303906490310673,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "347cc9449e5eef1d",
             "type": "leaf",
-            "dimension": 9.734728644439036,
+            "dimension": 12.303906490310673,
             "state": {
               "type": "markdown",
               "state": {
@@ -80,21 +80,9 @@
             }
           },
           {
-            "id": "f287bb9950cd32dc",
-            "type": "leaf",
-            "dimension": 20.880992942321743,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todos.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 19.615478218544652,
+            "dimension": 24.792371577975995,
             "children": [
               {
                 "id": "0d5997891e905142",
