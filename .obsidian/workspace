@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entr.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entr.md"
+                "file": "do.md"
               }
             }
           },
@@ -257,8 +257,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b3cb60c60fb9b0b",
+  "active": "e86f155c4139117c",
   "lastOpenFiles": [
+    "do.md",
     "entr.md",
     "2021-05-14.md",
     "tft.md",
@@ -267,7 +268,6 @@
     "list.md",
     "agora ctzn.md",
     "ctzn.md",
-    "pulled.md",
-    "2021-05-13.md"
+    "pulled.md"
   ]
 }

@@ -5,10 +5,6 @@
 	- [[sidetracked]] [[moa is broken]]
 	  - thankfully it was only my account and not all of them :) some issue with twitter. I need to look into this further but it's not urgent.
 - [[pomodoro]]
-  - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
-    - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
-    - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling).
-    - (I also keep a [[notebook]])
   - configure [[monitoring]]. 
     - [[estimate]]:
       - [ ] one pomodoro for moa
@@ -38,6 +34,10 @@
   - finish reading what [[will walker]] told me about
   - run [[weekly review]]
   - [[pull]] [[later]]
+  - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
+    - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
+    - My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling).
+    - (I also keep a [[notebook]])
 - an [[action]]
   - I try to automate recurrent [[actions]] in the [[agora]].
   - This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
