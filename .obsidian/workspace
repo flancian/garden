@@ -13,18 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-12.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8040c6b40126ae0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reading alexander.md",
+                "file": "neustadt schweiz.md",
                 "mode": "source"
               }
             }
@@ -222,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading alexander.md",
+                "file": "neustadt schweiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading alexander.md"
+                "file": "neustadt schweiz.md"
               }
             }
           }
@@ -250,17 +239,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8040c6b40126ae0e",
+  "active": "ed10ac322c4aed58",
   "lastOpenFiles": [
-    "reading alexander.md",
+    "neustadt schweiz.md",
+    "2021-05-12.md",
     "avianca 11.md",
+    "reading alexander.md",
     "rosa sabater.md",
     "2021-05-13.md",
     "nts.md",
-    "2021-05-12.md",
     "lacaton and vassal.md",
     "remember.md",
-    "will walker.md",
-    "tokyo 1960.md"
+    "will walker.md"
   ]
 }
