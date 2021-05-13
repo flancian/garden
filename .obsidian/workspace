@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trailhub.md",
+                "file": "gardens.yaml.md",
                 "mode": "source"
               }
             }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trailhub.md",
+                "file": "gardens.yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trailhub.md"
+                "file": "gardens.yaml.md"
               }
             }
           }
@@ -252,6 +252,7 @@
   },
   "active": "f93c4745ea229372",
   "lastOpenFiles": [
+    "gardens.yaml.md",
     "trailhub.md",
     "gyuri lajos.md",
     "trailmarks.md",
@@ -260,7 +261,6 @@
     "file handler.md",
     "flask.md",
     "tmux resize.md",
-    "tmux.md",
-    "moa is broken.md"
+    "tmux.md"
   ]
 }

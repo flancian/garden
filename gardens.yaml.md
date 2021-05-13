@@ -1,0 +1,3 @@
+- a [[file]]
+	- which the agora uses to know about its users: about people that have contributed their thoughts to it.
+	- edit `gardens.yaml` in [[go/agora/git]]
