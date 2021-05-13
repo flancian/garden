@@ -9,8 +9,9 @@
 	- You can also use:
 	  - [[dendron]], which should be a drop-in [[foam]] replacement in [[vscode]].
 	  - [[roam]] plus [[roam2agora]]
-	  - [[org mode]] in markdown mode
-	  - [[jekyll]]
+	  - [[org mode]]
+	  		- [[experimental]]
+	  - [[jekyll]] and other blog 
 	  - In essence, all you really need to use the [[Agora]] is the capability to make Markdown (or just text, really) files publicly available somewhere. I use [[obsidian]] to produce and manage my notes, and [[git]] to store them online, but the [[agora]] tries to be maximally inclusive; if you want to publish your writing to this Agora, please reach out!
 - After getting yourself a [[digital garden]], you need to let an [[agora]] know about it so it can be pulled and integrated. Please send a [[pr]] adding your garden to [[gardens.yaml]] or reach out to a maintainer with a link to your git repository and your desired username.
 	- All [[agora]] users must agree to its [[contract]] as defined by the system account.

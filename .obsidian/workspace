@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 7.668711656441718,
+            "dimension": 11.342685370741483,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "d0d2efb096f49cf9",
             "type": "leaf",
-            "dimension": 7.668711656441718,
+            "dimension": 11.382765531062123,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "eeddb07932783526",
             "type": "leaf",
-            "dimension": 7.668711656441718,
+            "dimension": 11.062124248496993,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "0034c5d8b96c70cd",
             "type": "leaf",
-            "dimension": 7.668711656441718,
+            "dimension": 8.016032064128256,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "5b0a728f8b5ceed7",
             "type": "leaf",
-            "dimension": 7.668711656441718,
+            "dimension": 8.016032064128256,
             "state": {
               "type": "markdown",
               "state": {
@@ -68,25 +68,13 @@
             }
           },
           {
-            "id": "790a00bed2dcbc67",
+            "id": "61c8e6623b6bbfe0",
             "type": "leaf",
-            "dimension": 7.668711656441718,
+            "dimension": 12.625250501002002,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "92301023d5e6ee1b",
-            "type": "leaf",
-            "dimension": 7.668711656441718,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trailmarks.md",
+                "file": "agora editor.md",
                 "mode": "source"
               }
             }
@@ -94,7 +82,7 @@
           {
             "id": "6b8970a3ea00a936",
             "type": "leaf",
-            "dimension": 7.668711656441718,
+            "dimension": 11.382765531062123,
             "state": {
               "type": "markdown",
               "state": {
@@ -104,21 +92,9 @@
             }
           },
           {
-            "id": "f93c4745ea229372",
-            "type": "leaf",
-            "dimension": 20.9739263803681,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gardens.yaml.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 17.67638036809816,
+            "dimension": 26.172344689378757,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -222,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gardens.yaml.md",
+                "file": "agora editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gardens.yaml.md"
+                "file": "agora editor.md"
               }
             }
           }
@@ -250,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f93c4745ea229372",
+  "active": "61c8e6623b6bbfe0",
   "lastOpenFiles": [
+    "agora editor.md",
+    "tmux resize.md",
+    "agora-editor.md",
+    "2021-05-13.md",
     "gardens.yaml.md",
     "trailhub.md",
     "gyuri lajos.md",
     "trailmarks.md",
-    "2021-05-13.md",
     "usability.md",
-    "file handler.md",
-    "flask.md",
-    "tmux resize.md",
-    "tmux.md"
+    "file handler.md"
   ]
 }
