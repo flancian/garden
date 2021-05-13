@@ -1,5 +1,6 @@
 # The Agora Is a Markdown Convention
 
+- [[pull]] [[the agora is a markup convention]]
 - It is really important to me that the Agora is as compatible as possible with plain [[Markdown]] as possible.
   - [[Markdown]] is easy to use.
   - I want the [[Agora]] to be [[maximally inclusive]].
