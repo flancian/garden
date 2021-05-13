@@ -1,17 +1,15 @@
 # Agora Protocol
-
-- The [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is defined as a list of [[agora rfcs]] as kept by a community agreeing to cooperate on such a list.
-	- an [[agora]] is a tuple (root, goals)
-		- the root repository is [[go/agora/git]]
-		- the goals of an agora are maintained by its community in the node [[goals]].
-	  - [[agora server]] is a reference implementation for a consumer of the protocol.
-		- the [[agora server]] repository is [[go/agora/git]]
-	- It has three parts:
-	- a [[convention]].
-	- A [[distributed knowledge graph]].
-- Compatible [[agoras]] are expected to assemble into [[agora networks]].
-- [[pull]] [[wikilinks everywhere]]
-- [[pull]] [[agora convention]]
+- a [[convention]]
+	- The [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is defined as a list of [[agora rfcs]] as kept by a community agreeing to cooperate on such a list.
+		- an [[agora]] is a root that can grow into a [[tree]].
+			- the root repository is [[go/agora/git]]
+			- the goals of an agora are maintained by its community in the node [[goals]].
+		  - [[agora server]] is a reference implementation for a consumer of the protocol.
+			- the [[agora server]] repository is [[go/agora/git]]
+		- A [[distributed knowledge graph]].
+	- Compatible [[agoras]] are expected to assemble into [[agora networks]].
+	- [[pull]] [[wikilinks everywhere]]
+	- [[pull]] [[agora convention]]
 
 https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
 https://twitter.com/flancian/status/1368586813254889475
