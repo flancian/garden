@@ -1,1 +1,6 @@
-- this [[agora]]'s name as of [[2021-05-13]] is [[elinor ostrom]].
+- proposal: name this [[agora]] [[elinor ostrom]].
+- [[mastodon]] https://social.coop/web/statuses/106228674151737915
+- [[]]
+
+
+![[Pasted image 20210513174950.png]]

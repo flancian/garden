@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "Agora Elinor Ostrom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "Agora Elinor Ostrom.md"
               }
             }
           }
@@ -272,8 +272,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40b3e25c756b595e",
+  "active": "eeddb07932783526",
   "lastOpenFiles": [
+    "Agora Elinor Ostrom.md",
     "do.md",
     "kenzo tange.md",
     "arcologies.md",
@@ -282,7 +283,6 @@
     "commons.md",
     "elinor ostrom.md",
     "bigger in the inside.md",
-    "bag of holding.md",
-    "Agora Elinor Ostrom.md"
+    "bag of holding.md"
   ]
 }
