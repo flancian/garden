@@ -1,0 +1,2 @@
+- [[go]] https://moa.party
+	- [[pull]] [[moa party]]

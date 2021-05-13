@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moa is broken.md",
+                "file": "moa.party.md",
                 "mode": "source"
               }
             }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moa is broken.md",
+                "file": "moa.party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moa is broken.md"
+                "file": "moa.party.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   },
   "active": "37e652eac2fbb147",
   "lastOpenFiles": [
+    "moa.party.md",
     "moa is broken.md",
     "do.md",
     "experiment framework.md",
@@ -200,7 +201,6 @@
     "reimagine the internet.md",
     "2021-05-13.md",
     "kraftwerk 1.md",
-    "remember.md",
-    "lacaton and vassal.md"
+    "remember.md"
   ]
 }
