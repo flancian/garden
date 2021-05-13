@@ -1,5 +1,7 @@
 # agora ctzn
 
 - [[agora]] [[ctzn]] integration
-- by [[ver]]
+	- by [[vera]]
+- the [[agora]] offers to surface [[ctzn]] nodes just after [[agora]] nodes.
+	- you can log into [[ctzn]] section below (titled `CTZN node`) and see CTZN pages for your present context
 
