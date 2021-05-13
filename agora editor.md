@@ -11,8 +11,9 @@
 	  - [[roam]] plus [[roam2agora]]
 	  - [[org mode]]
 	  		- [[experimental]]
-	  - [[jekyll]] and other blog 
-	  - In essence, all you really need to use the [[Agora]] is the capability to make Markdown (or just text, really) files publicly available somewhere. I use [[obsidian]] to produce and manage my notes, and [[git]] to store them online, but the [[agora]] tries to be maximally inclusive; if you want to publish your writing to this Agora, please reach out!
+	  - [[jekyll]] and other static site generators
+	  - In essence, all you really need to use the [[Agora]] is the capability to produce text in some format and make it publicly available somewhere. 
+		  - As mentioned earlier I use [[obsidian]] to produce and manage my notes, and [[git]] to store them online, but the [[agora]] tries to be maximally inclusive; if you want to publish your writing to this Agora, please reach out!
 - After getting yourself a [[digital garden]], you need to let an [[agora]] know about it so it can be pulled and integrated. Please send a [[pr]] adding your garden to [[gardens.yaml]] or reach out to a maintainer with a link to your git repository and your desired username.
 	- All [[agora]] users must agree to its [[contract]] as defined by the system account.
 	- The contracts of other users can optionally be a [[endorsed]].
