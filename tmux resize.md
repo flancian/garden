@@ -1,2 +1,3 @@
-- [[window]] `<c-b>:resize-window -A`
-- [[pane]] hold `<c-b`' and press arrows
+- [[push]] [[tmux]]
+	- [[window]] `<c-b>:resize-window -A`
+	- [[pane]] hold `<c-b`' and press arrows

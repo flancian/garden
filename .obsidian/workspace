@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 16.95390781563126,
+            "dimension": 21.245605223505777,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,21 +20,9 @@
             }
           },
           {
-            "id": "37e652eac2fbb147",
-            "type": "leaf",
-            "dimension": 20.20040080160321,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "moa is broken.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "eeddb07932783526",
             "type": "leaf",
-            "dimension": 9.67935871743487,
+            "dimension": 12.129583124058263,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +34,7 @@
           {
             "id": "5b0a728f8b5ceed7",
             "type": "leaf",
-            "dimension": 9.67935871743487,
+            "dimension": 6.064791562029131,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,9 +44,21 @@
             }
           },
           {
+            "id": "8492e33cc7cf9629",
+            "type": "leaf",
+            "dimension": 6.064791562029131,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmux.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "790a00bed2dcbc67",
             "type": "leaf",
-            "dimension": 15.070140280561123,
+            "dimension": 18.884982420894023,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 28.416833667334668,
+            "dimension": 35.610246107483675,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moa is broken.md",
+                "file": "tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moa is broken.md"
+                "file": "tmux.md"
               }
             }
           }
@@ -202,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37e652eac2fbb147",
+  "active": "8492e33cc7cf9629",
   "lastOpenFiles": [
+    "tmux.md",
+    "tmux resize.md",
+    "2021-05-13.md",
     "moa is broken.md",
     "moa.party.md",
-    "2021-05-13.md",
     "do.md",
-    "tmux resize.md",
     "Agora Elinor Ostrom.md",
     "kenzo tange.md",
     "experiment framework.md",
-    "file handler.md",
-    "reimagine the internet.md"
+    "file handler.md"
   ]
 }
