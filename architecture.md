@@ -1,0 +1,1 @@
+- I like [[christopher alexander]], [[lacaton and vassal]], [[solar punk]], [[arcologies]].
