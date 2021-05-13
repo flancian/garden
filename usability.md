@@ -1,1 +1,2 @@
-- [[stoa]] https
+- [[stoa]] https://stoa.anagora.org/p/usability
+	- [[go]] [[stoa]]
