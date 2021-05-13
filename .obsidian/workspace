@@ -34,11 +34,23 @@
           {
             "id": "eeddb07932783526",
             "type": "leaf",
-            "dimension": 19.35871743486974,
+            "dimension": 9.67935871743487,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agora Elinor Ostrom.md",
+                "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "5b0a728f8b5ceed7",
+            "type": "leaf",
+            "dimension": 9.67935871743487,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmux resize.md",
                 "mode": "source"
               }
             }
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moa.party.md",
+                "file": "tmux resize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moa.party.md"
+                "file": "tmux resize.md"
               }
             }
           }
@@ -190,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37e652eac2fbb147",
+  "active": "5b0a728f8b5ceed7",
   "lastOpenFiles": [
+    "tmux resize.md",
+    "2021-05-13.md",
+    "Agora Elinor Ostrom.md",
+    "kenzo tange.md",
     "moa.party.md",
     "moa is broken.md",
     "do.md",
     "experiment framework.md",
-    "Agora Elinor Ostrom.md",
     "file handler.md",
-    "reimagine the internet.md",
-    "2021-05-13.md",
-    "kraftwerk 1.md",
-    "remember.md"
+    "reimagine the internet.md"
   ]
 }
