@@ -3,5 +3,5 @@
 	- I am a [[tmux]] user.
 	- I have a love-relationship with it as it makes some things, like copy/paste, harder than I think they could be. then again, I'm not fixing the issues, so :)
 	- `ctrl-b` is the default command combination but I more often use `ctrl-a`, after [[screen]], and `ctrl-v` in second-level terminals.
-		- I'm thinking of just using `ctrl-b` everywhere as that way I don't need to do conf
+		- I'm thinking of just using `ctrl-b` everywhere as that way I don't need to do configuration in every new host.
 	- `ctrl-b w` to list windows.
