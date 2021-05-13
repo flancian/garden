@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 11.30864857639353,
+            "dimension": 7.668711656441718,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "d0d2efb096f49cf9",
             "type": "leaf",
-            "dimension": 11.30864857639353,
+            "dimension": 7.668711656441718,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "eeddb07932783526",
             "type": "leaf",
-            "dimension": 6.456356102125384,
+            "dimension": 7.668711656441718,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "0034c5d8b96c70cd",
             "type": "leaf",
-            "dimension": 6.456356102125384,
+            "dimension": 7.668711656441718,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "5b0a728f8b5ceed7",
             "type": "leaf",
-            "dimension": 6.456356102125384,
+            "dimension": 7.668711656441718,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "790a00bed2dcbc67",
             "type": "leaf",
-            "dimension": 10.05213206790536,
+            "dimension": 7.668711656441718,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "92301023d5e6ee1b",
             "type": "leaf",
-            "dimension": 5.02606603395268,
+            "dimension": 7.668711656441718,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +94,7 @@
           {
             "id": "6b8970a3ea00a936",
             "type": "leaf",
-            "dimension": 5.02606603395268,
+            "dimension": 7.668711656441718,
             "state": {
               "type": "markdown",
               "state": {
@@ -104,9 +104,21 @@
             }
           },
           {
+            "id": "f93c4745ea229372",
+            "type": "leaf",
+            "dimension": 20.9739263803681,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trailhub.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 37.90937040502607,
+            "dimension": 17.67638036809816,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -210,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gyuri lajos.md",
+                "file": "trailhub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gyuri lajos.md"
+                "file": "trailhub.md"
               }
             }
           }
@@ -238,8 +250,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b8970a3ea00a936",
+  "active": "f93c4745ea229372",
   "lastOpenFiles": [
+    "trailhub.md",
     "gyuri lajos.md",
     "trailmarks.md",
     "2021-05-13.md",
@@ -248,7 +261,6 @@
     "flask.md",
     "tmux resize.md",
     "tmux.md",
-    "moa is broken.md",
-    "moa.party.md"
+    "moa is broken.md"
   ]
 }
