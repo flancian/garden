@@ -154,6 +154,17 @@
                 }
               },
               {
+                "id": "0d5997891e905142",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kenzo tange.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
                 "id": "2748b577508433ff",
                 "type": "leaf",
                 "state": {
@@ -233,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arcologies.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arcologies.md"
+                "file": "do.md"
               }
             }
           }
@@ -261,17 +272,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ce6605fe16ab0d2",
+  "active": "40b3e25c756b595e",
   "lastOpenFiles": [
+    "do.md",
+    "kenzo tange.md",
     "arcologies.md",
     "architecture.md",
     "lacaton and vassal.md",
     "commons.md",
     "elinor ostrom.md",
-    "do.md",
     "bigger in the inside.md",
     "bag of holding.md",
-    "Agora Elinor Ostrom.md",
-    "2021-05-13.md"
+    "Agora Elinor Ostrom.md"
   ]
 }

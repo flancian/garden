@@ -4,4 +4,4 @@
 	- [[cyberpunk]]
 	- [[sci fi]]
 	- [[paolo soleri]]
-	- [[tok]]
+	- [[kenzo tange]]
