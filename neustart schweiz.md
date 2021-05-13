@@ -1,4 +1,4 @@
 - a [[book]]
 	- by [[hans widmer]]
 	- pointed out to me by [[andreas]] in [[patterning]]
-	- [[anarchist library]]
+	- [[anarchist library]] doesn't have it
