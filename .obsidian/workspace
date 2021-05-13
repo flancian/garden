@@ -22,11 +22,23 @@
           {
             "id": "eeddb07932783526",
             "type": "leaf",
-            "dimension": 12.912712204250768,
+            "dimension": 6.456356102125384,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0034c5d8b96c70cd",
+            "type": "leaf",
+            "dimension": 6.456356102125384,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flask.md",
                 "mode": "source"
               }
             }
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmux resize.md",
+                "file": "flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmux resize.md"
+                "file": "flask.md"
               }
             }
           }
@@ -190,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b0a728f8b5ceed7",
+  "active": "0034c5d8b96c70cd",
   "lastOpenFiles": [
-    "tmux resize.md",
-    "tmux.md",
+    "flask.md",
     "2021-05-13.md",
+    "tmux resize.md",
+    "file handler.md",
+    "tmux.md",
     "moa is broken.md",
     "moa.party.md",
     "do.md",
     "Agora Elinor Ostrom.md",
-    "kenzo tange.md",
-    "experiment framework.md",
-    "file handler.md"
+    "kenzo tange.md"
   ]
 }
