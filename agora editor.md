@@ -19,6 +19,7 @@
 	- The contracts of other users can optionally be a [[endorsed]].
 - Please reach out if you have questions or suggestions :) 
 	- Send email to signup@anagora.org, or DM [[flancian]] or another member of the [[flancia collective]] on Twitter, Mastodon, or any other platform.
+- My proposal for you now is that we used the internet-given capabi
 - See also:
   - [[pull]] [[the agora is a markdown convention]]
   - [[pull]] [[agora install]]
