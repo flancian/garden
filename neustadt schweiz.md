@@ -1,1 +1,1 @@
-- a [[mondegreen]] of [[neustart ]]
+- a [[mondegreen]] of [[neustart schweiz]]
