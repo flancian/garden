@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "do.md",
+                "file": "moa is broken.md",
                 "mode": "source"
               }
             }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "moa is broken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "moa is broken.md"
               }
             }
           }
@@ -204,13 +204,13 @@
   },
   "active": "e86f155c4139117c",
   "lastOpenFiles": [
+    "moa is broken.md",
     "do.md",
     "tmux resize.md",
     "2021-05-13.md",
     "Agora Elinor Ostrom.md",
     "kenzo tange.md",
     "moa.party.md",
-    "moa is broken.md",
     "experiment framework.md",
     "file handler.md",
     "reimagine the internet.md"
