@@ -1,2 +1,5 @@
-- a [[too]]
-- I am a [[tmux]] user.
+- a [[tool]].
+	- [[terminal]] [[multiplexer]]
+	- I am a [[tmux]] user.
+	- I have a love-relationship with it as it makes some things, like copy/paste, harder than I think they could be. then again, I'm not fixing the issues, so :)
+	- `ctrl-b w` to list windows 
