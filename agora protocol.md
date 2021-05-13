@@ -1,10 +1,10 @@
 # Agora Protocol
 
-- The [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is the following.
-  - An [[agora]] is defined as such: a 
-- It has three parts:
-  - A [[convention]].
-  - A [[distributed knowledge graph]].
+- The [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is defined as a list of [[agora rfcs]] as kept by a community 
+	- an [[agora]] is defined as such: a 
+	- It has three parts:
+	- a [[convention]].
+	- A [[distributed knowledge graph]].
   - [[agora server]] is a reference implementation for a consumer of the protocol.
 - Compatible [[agoras]] are expected to assemble into [[agora networks]].
 - [[pull]] [[wikilinks everywhere]]
