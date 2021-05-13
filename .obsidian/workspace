@@ -10,7 +10,7 @@
           {
             "id": "40b3e25c756b595e",
             "type": "leaf",
-            "dimension": 6.680919294494924,
+            "dimension": 10.024057738572575,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "5dc5619fc0398c10",
             "type": "leaf",
-            "dimension": 6.627471940138964,
+            "dimension": 9.943865276663994,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "b9dd6fb23d1eb512",
             "type": "leaf",
-            "dimension": 6.680919294494924,
+            "dimension": 10.024057738572575,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "7d72dd06dbde8845",
             "type": "leaf",
-            "dimension": 6.680919294494924,
+            "dimension": 10.024057738572575,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "9ddd198d159b6894",
             "type": "leaf",
-            "dimension": 6.680919294494924,
+            "dimension": 10.024057738572575,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "eeddb07932783526",
             "type": "leaf",
-            "dimension": 6.627471940138964,
+            "dimension": 9.943865276663994,
             "state": {
               "type": "markdown",
               "state": {
@@ -80,33 +80,9 @@
             }
           },
           {
-            "id": "c12493f393d54486",
-            "type": "leaf",
-            "dimension": 6.680919294494924,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rosa sabater.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "90e40567398b510f",
-            "type": "leaf",
-            "dimension": 6.680919294494924,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "avianca 11.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "2d7dd6df4d0d39ce",
             "type": "leaf",
-            "dimension": 6.680919294494924,
+            "dimension": 10.024057738572575,
             "state": {
               "type": "markdown",
               "state": {
@@ -116,21 +92,9 @@
             }
           },
           {
-            "id": "e09f8338fd47176b",
-            "type": "leaf",
-            "dimension": 6.627471940138964,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-12.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "84cc6bf7e76cb6c4",
             "type": "leaf",
-            "dimension": 6.680919294494924,
+            "dimension": 10.024057738572575,
             "state": {
               "type": "markdown",
               "state": {
@@ -140,33 +104,9 @@
             }
           },
           {
-            "id": "a4dda1d0bb7856cf",
-            "type": "leaf",
-            "dimension": 6.680919294494924,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "will walker.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "99a9f3fa87985827",
-            "type": "leaf",
-            "dimension": 6.680919294494924,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reading alexander.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "790a00bed2dcbc67",
             "type": "leaf",
-            "dimension": 6.627471940138964,
+            "dimension": 9.943865276663994,
             "state": {
               "type": "markdown",
               "state": {
@@ -178,7 +118,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 6.680919294494924,
+            "dimension": 10.024057738572575,
             "children": [
               {
                 "id": "bbea07cc3c584323",
@@ -270,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commons.md",
+                "file": "lacaton and vassal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "commons.md"
+                "file": "lacaton and vassal.md"
               }
             }
           }
@@ -298,8 +238,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d72dd06dbde8845",
+  "active": "bbea07cc3c584323",
   "lastOpenFiles": [
+    "lacaton and vassal.md",
     "commons.md",
     "elinor ostrom.md",
     "do.md",
@@ -308,7 +249,6 @@
     "Agora Elinor Ostrom.md",
     "2021-05-13.md",
     "chorus one.md",
-    "bolo.md",
-    "file system access api.md"
+    "bolo.md"
   ]
 }
