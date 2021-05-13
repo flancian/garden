@@ -63,23 +63,23 @@
             }
           },
           {
-            "id": "d1d6e6a2bce90b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anarchist library.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "b9dd6fb23d1eb512",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "07116842da454d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cosmos network.md",
                 "mode": "source"
               }
             }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neustart schweiz.md",
+                "file": "cosmos network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neustart schweiz.md"
+                "file": "cosmos network.md"
               }
             }
           }
@@ -294,8 +294,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b92df29e4b481b8f",
+  "active": "07116842da454d79",
   "lastOpenFiles": [
+    "cosmos network.md",
+    "2021-05-13.md",
     "neustart schweiz.md",
     "kraftwerk 1.md",
     "hans widmer.md",
@@ -303,8 +305,6 @@
     "neustadt schweiz.md",
     "anarchist library.md",
     "2021-05-12.md",
-    "avianca 11.md",
-    "reading alexander.md",
-    "rosa sabater.md"
+    "avianca 11.md"
   ]
 }
