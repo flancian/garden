@@ -96,48 +96,33 @@
             }
           },
           {
-            "id": "78842c777c7eb465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stoa.md",
-                "mode": "source"
+            "id": "17cf41804b8b958d",
+            "type": "split",
+            "children": [
+              {
+                "id": "bbea07cc3c584323",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "lacaton and vassal.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "2748b577508433ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "remember.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "732c8821365d210f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "patterning.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bbea07cc3c584323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lacaton and vassal.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2748b577508433ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remember.md",
-                "mode": "source"
-              }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -204,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "will walker.md",
+                "file": "2021-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "will walker.md"
+                "file": "2021-05-12.md"
               }
             }
           }
@@ -232,17 +217,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4dda1d0bb7856cf",
+  "active": "ed10ac322c4aed58",
   "lastOpenFiles": [
+    "2021-05-12.md",
+    "remember.md",
     "will walker.md",
     "reading alexander.md",
     "tokyo 1960.md",
     "knight first amendment institute.md",
     "reimagine the internet.md",
     "conflict-files-obsidian-git.md",
-    "2021-05-12.md",
     "chris aldrich.md",
-    "file handler.md",
-    "beautiful.md"
+    "file handler.md"
   ]
 }
