@@ -5,5 +5,8 @@
   - I want the [[Agora]] to be [[maximally inclusive]].
 - The only extension to [[Markdown]] that the [[Agora]] depends on is [[wikilinks]].
 - [[pull]] [[wikilinks everywhere]]
+- There is some [[org mode]] support too.
+
+https://twitter.com/Dylan_Steck/status/1392914737961357313
 
 
