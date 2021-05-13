@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 8.977955911823647,
+            "dimension": 11.663326653306614,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "4d9ebdf60685da2e",
             "type": "leaf",
-            "dimension": 8.977955911823647,
+            "dimension": 11.663326653306614,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "d0d2efb096f49cf9",
             "type": "leaf",
-            "dimension": 18.03607214428858,
+            "dimension": 19.278557114228455,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "eeddb07932783526",
             "type": "leaf",
-            "dimension": 8.77755511022044,
+            "dimension": 8.016032064128256,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "d54203e68b0a64a2",
             "type": "leaf",
-            "dimension": 4.38877755511022,
+            "dimension": 8.016032064128256,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "347cc9449e5eef1d",
             "type": "leaf",
-            "dimension": 4.38877755511022,
+            "dimension": 8.016032064128256,
             "state": {
               "type": "markdown",
               "state": {
@@ -80,13 +80,13 @@
             }
           },
           {
-            "id": "3ab7151d0c99f684",
+            "id": "f287bb9950cd32dc",
             "type": "leaf",
-            "dimension": 22.965931863727455,
+            "dimension": 17.194388777555112,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the agora is a markdown convention.md",
+                "file": "todos.md",
                 "mode": "source"
               }
             }
@@ -94,7 +94,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 23.48697394789579,
+            "dimension": 16.152304609218437,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "list.md",
+                "file": "todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "list.md"
+                "file": "todos.md"
               }
             }
           },
@@ -245,8 +245,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "347cc9449e5eef1d",
+  "active": "f287bb9950cd32dc",
   "lastOpenFiles": [
+    "todos.md",
     "list.md",
     "schelling point.md",
     "the agora is a markdown convention.md",
@@ -255,7 +256,6 @@
     "usability.md",
     "the agora is a markup convention.md",
     "flask.md",
-    "agora editor.md",
-    "tmux resize.md"
+    "agora editor.md"
   ]
 }
