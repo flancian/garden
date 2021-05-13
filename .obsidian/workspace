@@ -68,7 +68,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chorus one.md",
+                "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b46e669c94701078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bag of holding.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "7d72dd06dbde8845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "commons.md",
                 "mode": "source"
               }
             }
@@ -255,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "bag of holding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "bag of holding.md"
               }
             }
           }
@@ -283,17 +305,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40b3e25c756b595e",
+  "active": "b46e669c94701078",
   "lastOpenFiles": [
+    "bag of holding.md",
+    "commons.md",
+    "2021-05-13.md",
+    "chorus one.md",
     "do.md",
     "bolo.md",
     "file system access api.md",
     "kepta.md",
     "nts.md",
-    "2021-05-12.md",
-    "chorus one.md",
-    "2021-05-13.md",
-    "cosmos network.md",
-    "neustart schweiz.md"
+    "2021-05-12.md"
   ]
 }
