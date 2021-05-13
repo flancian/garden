@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 17.902183943402033,
+            "dimension": 17.902183943402036,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "4d9ebdf60685da2e",
             "type": "leaf",
-            "dimension": 17.902183943402033,
+            "dimension": 8.951091971701018,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,9 +32,21 @@
             }
           },
           {
+            "id": "052470ceab57299a",
+            "type": "leaf",
+            "dimension": 8.951091971701018,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora ctzn.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "d0d2efb096f49cf9",
             "type": "leaf",
-            "dimension": 7.397723777299289,
+            "dimension": 7.39772377729929,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +58,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 7.397723777299289,
+            "dimension": 7.39772377729929,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "d54203e68b0a64a2",
             "type": "leaf",
-            "dimension": 12.303906490310673,
+            "dimension": 12.303906490310675,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "347cc9449e5eef1d",
             "type": "leaf",
-            "dimension": 12.303906490310673,
+            "dimension": 12.303906490310675,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 24.792371577975995,
+            "dimension": 24.792371577976,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "agora ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "agora ctzn.md"
               }
             }
           },
@@ -233,17 +245,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e86f155c4139117c",
+  "active": "052470ceab57299a",
   "lastOpenFiles": [
-    "do.md",
+    "agora ctzn.md",
     "2021-05-13.md",
+    "do.md",
     "chorus one.md",
     "pulled.md",
     "agora protocol.md",
     "agora convention.md",
     "usability.md",
     "todos.md",
-    "list.md",
-    "schelling point.md"
+    "list.md"
   ]
 }
