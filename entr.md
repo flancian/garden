@@ -1,0 +1,4 @@
+- a [[tool]]
+	- [[git]] https://github.com/eradman/entr
+		- [[go]] [[git]]
+		- a utility for running arbitrary commands when files change

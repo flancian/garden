@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 22.610722610722622,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "8820f606918a32a8",
             "type": "leaf",
-            "dimension": 5.6526806526806554,
+            "dimension": 14.645193759436337,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 9.343434343434343,
+            "dimension": 11.273276295923502,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,33 +44,9 @@
             }
           },
           {
-            "id": "d54203e68b0a64a2",
-            "type": "leaf",
-            "dimension": 15.540015540015546,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schelling point.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "347cc9449e5eef1d",
-            "type": "leaf",
-            "dimension": 3.8850038850038864,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-14.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "6b3cb60c60fb9b0b",
             "type": "leaf",
-            "dimension": 3.8850038850038864,
+            "dimension": 23.100150981378963,
             "state": {
               "type": "markdown",
               "state": {
@@ -80,21 +56,9 @@
             }
           },
           {
-            "id": "6515213965808b43",
-            "type": "leaf",
-            "dimension": 3.8850038850038864,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tft.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "56a11c45a953ce73",
             "type": "leaf",
-            "dimension": 3.8850038850038864,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +70,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 31.313131313131308,
+            "dimension": 30.85052843482637,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -207,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "entr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "entr.md"
               }
             }
           },
@@ -257,16 +221,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e86f155c4139117c",
+  "active": "6b3cb60c60fb9b0b",
   "lastOpenFiles": [
-    "do.md",
     "entr.md",
+    "agora ctzn.md",
+    "tools for thought.md",
+    "do.md",
     "2021-05-14.md",
     "tft.md",
-    "tools for thought.md",
     "michael taft.md",
     "list.md",
-    "agora ctzn.md",
     "ctzn.md",
     "pulled.md"
   ]
