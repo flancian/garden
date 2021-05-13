@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 11.663326653306614,
+            "dimension": 14.164030177658798,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "4d9ebdf60685da2e",
             "type": "leaf",
-            "dimension": 11.663326653306614,
+            "dimension": 14.164030177658798,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "d0d2efb096f49cf9",
             "type": "leaf",
-            "dimension": 19.278557114228455,
+            "dimension": 11.706011194937938,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,21 +44,9 @@
             }
           },
           {
-            "id": "eeddb07932783526",
-            "type": "leaf",
-            "dimension": 8.016032064128256,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "d54203e68b0a64a2",
             "type": "leaf",
-            "dimension": 8.016032064128256,
+            "dimension": 9.734728644439034,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "347cc9449e5eef1d",
             "type": "leaf",
-            "dimension": 8.016032064128256,
+            "dimension": 9.734728644439034,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +70,7 @@
           {
             "id": "f287bb9950cd32dc",
             "type": "leaf",
-            "dimension": 17.194388777555112,
+            "dimension": 20.88099294232174,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +82,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 16.152304609218437,
+            "dimension": 19.61547821854465,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -248,14 +236,14 @@
   "active": "d0d2efb096f49cf9",
   "lastOpenFiles": [
     "agora protocol.md",
+    "agora convention.md",
+    "2021-05-13.md",
     "usability.md",
     "todos.md",
     "list.md",
     "schelling point.md",
     "the agora is a markdown convention.md",
     "chorus one.md",
-    "2021-05-13.md",
-    "the agora is a markup convention.md",
-    "flask.md"
+    "the agora is a markup convention.md"
   ]
 }
