@@ -4,12 +4,12 @@
 	- the agora is a root that wants to grow into a [[tree]], and from there into a [[distributed]] network.
 		- an [[agora]] starts with a list of [[gardens]], that is, [[personal knowledge graphs]] as volunteered by its users.
 		- compatible [[agoras]] are expected to assemble into [[agora networks]].
+		- the [[agora]] is a[[social]] [[distributed knowledge graph]].
 - You are reading this in a particular [[implementation]] of a tools that tries to build on the agora protocol. That is, this is [[an agora]] -- but just one of many.
 	- its root repository is [[go/agora/git]]
-	  - [[agora server]] is a reference implementation for a consumer of the protocol.
+	- [[agora server]] is a reference implementation for a server based integrator/[[interlay]].
+		- the [[agora server]] repository is [[go/agora-server/git]]
 	- the goals of this agora are maintained by its community in the node [[goals]].
-				- the [[agora server]] repository is [[go/agora/git]]
-			- A [[distributed knowledge graph]].
 	- [[pull]] [[wikilinks everywhere]]
 	- [[pull]] [[agora convention]]
 
