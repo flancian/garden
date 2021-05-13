@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-13.md",
+                "file": "do.md",
                 "mode": "source"
               }
             }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-13.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-13.md"
+                "file": "do.md"
               }
             }
           },
@@ -233,8 +233,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d9ebdf60685da2e",
+  "active": "e86f155c4139117c",
   "lastOpenFiles": [
+    "do.md",
     "2021-05-13.md",
     "chorus one.md",
     "pulled.md",
@@ -243,7 +244,6 @@
     "usability.md",
     "todos.md",
     "list.md",
-    "schelling point.md",
-    "the agora is a markdown convention.md"
+    "schelling point.md"
   ]
 }
