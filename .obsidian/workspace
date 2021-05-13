@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 19.332336821126066,
+            "dimension": 22.61072261072262,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,33 +20,9 @@
             }
           },
           {
-            "id": "4d9ebdf60685da2e",
-            "type": "leaf",
-            "dimension": 9.666168410563033,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "052470ceab57299a",
-            "type": "leaf",
-            "dimension": 4.833084205281517,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "8820f606918a32a8",
             "type": "leaf",
-            "dimension": 4.833084205281517,
+            "dimension": 5.652680652680655,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,11 +34,11 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 7.988706194984219,
+            "dimension": 9.343434343434339,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulled.md",
+                "file": "agora ctzn.md",
                 "mode": "source"
               }
             }
@@ -70,7 +46,7 @@
           {
             "id": "d54203e68b0a64a2",
             "type": "leaf",
-            "dimension": 13.28682943032719,
+            "dimension": 15.540015540015544,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +58,7 @@
           {
             "id": "347cc9449e5eef1d",
             "type": "leaf",
-            "dimension": 13.28682943032719,
+            "dimension": 15.540015540015544,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +70,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 26.772961302109277,
+            "dimension": 31.3131313131313,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -195,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools for thought.md",
+                "file": "agora ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools for thought.md"
+                "file": "agora ctzn.md"
               }
             }
           },
@@ -245,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8820f606918a32a8",
+  "active": "36be46ed854929a8",
   "lastOpenFiles": [
-    "tools for thought.md",
-    "pulled.md",
-    "2021-05-13.md",
     "agora ctzn.md",
+    "ctzn.md",
+    "pulled.md",
+    "tools for thought.md",
+    "2021-05-13.md",
     "do.md",
     "chorus one.md",
     "agora protocol.md",
     "agora convention.md",
-    "usability.md",
-    "todos.md"
+    "usability.md"
   ]
 }
