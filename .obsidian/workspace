@@ -41,6 +41,28 @@
             }
           },
           {
+            "id": "c12493f393d54486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rosa sabater.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "90e40567398b510f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "avianca 11.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "2d7dd6df4d0d39ce",
             "type": "leaf",
             "state": {
@@ -200,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nts.md",
+                "file": "avianca 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nts.md"
+                "file": "avianca 11.md"
               }
             }
           }
@@ -228,17 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d7dd6df4d0d39ce",
+  "active": "90e40567398b510f",
   "lastOpenFiles": [
-    "nts.md",
+    "avianca 11.md",
+    "rosa sabater.md",
     "2021-05-13.md",
+    "nts.md",
     "2021-05-12.md",
     "lacaton and vassal.md",
     "remember.md",
     "will walker.md",
     "reading alexander.md",
-    "tokyo 1960.md",
-    "knight first amendment institute.md",
-    "reimagine the internet.md"
+    "tokyo 1960.md"
   ]
 }

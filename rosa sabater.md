@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[catalan]] [[pianist]]
+	- died in [[avianca 11]]
