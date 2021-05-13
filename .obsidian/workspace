@@ -10,11 +10,23 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 22.61729715278706,
+            "dimension": 11.30864857639353,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d0d2efb096f49cf9",
+            "type": "leaf",
+            "dimension": 11.30864857639353,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "usability.md",
                 "mode": "source"
               }
             }
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trailmarks.md",
+                "file": "usability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trailmarks.md"
+                "file": "usability.md"
               }
             }
           }
@@ -214,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92301023d5e6ee1b",
+  "active": "d0d2efb096f49cf9",
   "lastOpenFiles": [
-    "trailmarks.md",
+    "usability.md",
     "2021-05-13.md",
+    "trailmarks.md",
     "file handler.md",
     "flask.md",
     "tmux resize.md",
     "tmux.md",
     "moa is broken.md",
     "moa.party.md",
-    "do.md",
-    "Agora Elinor Ostrom.md"
+    "do.md"
   ]
 }
