@@ -82,11 +82,23 @@
           {
             "id": "92301023d5e6ee1b",
             "type": "leaf",
-            "dimension": 10.05213206790536,
+            "dimension": 5.02606603395268,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "trailmarks.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6b8970a3ea00a936",
+            "type": "leaf",
+            "dimension": 5.02606603395268,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gyuri lajos.md",
                 "mode": "source"
               }
             }
@@ -198,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "usability.md",
+                "file": "gyuri lajos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "usability.md"
+                "file": "gyuri lajos.md"
               }
             }
           }
@@ -226,17 +238,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0d2efb096f49cf9",
+  "active": "6b8970a3ea00a936",
   "lastOpenFiles": [
+    "gyuri lajos.md",
+    "trailmarks.md",
     "usability.md",
     "2021-05-13.md",
-    "trailmarks.md",
     "file handler.md",
     "flask.md",
     "tmux resize.md",
     "tmux.md",
     "moa is broken.md",
-    "moa.party.md",
-    "do.md"
+    "moa.party.md"
   ]
 }
