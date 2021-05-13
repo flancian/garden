@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 22.61072261072262,
+            "dimension": 22.610722610722615,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "8820f606918a32a8",
             "type": "leaf",
-            "dimension": 5.652680652680655,
+            "dimension": 5.652680652680654,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "d54203e68b0a64a2",
             "type": "leaf",
-            "dimension": 15.540015540015544,
+            "dimension": 15.54001554001554,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,11 +58,35 @@
           {
             "id": "347cc9449e5eef1d",
             "type": "leaf",
-            "dimension": 15.540015540015544,
+            "dimension": 7.77000777000777,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "list.md",
+                "file": "2021-05-14.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6515213965808b43",
+            "type": "leaf",
+            "dimension": 3.885003885003885,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tft.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "56a11c45a953ce73",
+            "type": "leaf",
+            "dimension": 3.885003885003885,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools for thought.md",
                 "mode": "source"
               }
             }
@@ -70,7 +94,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 31.3131313131313,
+            "dimension": 31.313131313131297,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -171,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn.md",
+                "file": "tft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora ctzn.md"
+                "file": "tft.md"
               }
             }
           },
@@ -221,17 +245,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36be46ed854929a8",
+  "active": "6515213965808b43",
   "lastOpenFiles": [
+    "tft.md",
+    "2021-05-14.md",
+    "tools for thought.md",
+    "michael taft.md",
+    "list.md",
     "agora ctzn.md",
     "ctzn.md",
     "pulled.md",
-    "tools for thought.md",
     "2021-05-13.md",
-    "do.md",
-    "chorus one.md",
-    "agora protocol.md",
-    "agora convention.md",
-    "usability.md"
+    "do.md"
   ]
 }
