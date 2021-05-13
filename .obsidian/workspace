@@ -8,25 +8,13 @@
         "type": "split",
         "children": [
           {
-            "id": "b9dd6fb23d1eb512",
+            "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 12.525050100200401,
+            "dimension": 7.711289327575573,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7d72dd06dbde8845",
-            "type": "leaf",
-            "dimension": 12.525050100200401,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "commons.md",
+                "file": "do.md",
                 "mode": "source"
               }
             }
@@ -34,7 +22,7 @@
           {
             "id": "9ddd198d159b6894",
             "type": "leaf",
-            "dimension": 12.525050100200401,
+            "dimension": 15.422578655151145,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +34,7 @@
           {
             "id": "eeddb07932783526",
             "type": "leaf",
-            "dimension": 12.424849699398795,
+            "dimension": 15.29919802590993,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +46,7 @@
           {
             "id": "2d7dd6df4d0d39ce",
             "type": "leaf",
-            "dimension": 12.525050100200401,
+            "dimension": 15.422578655151145,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "84cc6bf7e76cb6c4",
             "type": "leaf",
-            "dimension": 12.525050100200401,
+            "dimension": 15.422578655151145,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +70,7 @@
           {
             "id": "790a00bed2dcbc67",
             "type": "leaf",
-            "dimension": 12.424849699398795,
+            "dimension": 15.29919802590993,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +82,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 12.525050100200401,
+            "dimension": 15.422578655151145,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -187,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kraftwerk 1.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kraftwerk 1.md"
+                "file": "do.md"
               }
             }
           }
@@ -215,17 +203,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dc5619fc0398c10",
+  "active": "e86f155c4139117c",
   "lastOpenFiles": [
+    "do.md",
+    "2021-05-13.md",
     "kraftwerk 1.md",
     "remember.md",
     "lacaton and vassal.md",
     "Agora Elinor Ostrom.md",
     "experiment framework.md",
-    "do.md",
     "kenzo tange.md",
     "arcologies.md",
-    "architecture.md",
-    "commons.md"
+    "architecture.md"
   ]
 }
