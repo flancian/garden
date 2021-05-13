@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "moa is broken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "moa is broken.md"
               }
             }
           }
@@ -190,11 +190,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e86f155c4139117c",
+  "active": "37e652eac2fbb147",
   "lastOpenFiles": [
+    "moa is broken.md",
     "do.md",
     "experiment framework.md",
-    "moa is broken.md",
     "Agora Elinor Ostrom.md",
     "file handler.md",
     "reimagine the internet.md",
