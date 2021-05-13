@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "file handler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "file handler.md"
               }
             }
           }
@@ -203,8 +203,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e86f155c4139117c",
+  "active": "790a00bed2dcbc67",
   "lastOpenFiles": [
+    "file handler.md",
     "do.md",
     "2021-05-13.md",
     "kraftwerk 1.md",
@@ -213,7 +214,6 @@
     "Agora Elinor Ostrom.md",
     "experiment framework.md",
     "kenzo tange.md",
-    "arcologies.md",
-    "architecture.md"
+    "arcologies.md"
   ]
 }
