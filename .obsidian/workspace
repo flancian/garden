@@ -85,6 +85,17 @@
             }
           },
           {
+            "id": "baecdd02c182b9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bigger in the inside.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "7d72dd06dbde8845",
             "type": "leaf",
             "state": {
@@ -299,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bag of holding.md",
+                "file": "bigger in the inside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bag of holding.md"
+                "file": "bigger in the inside.md"
               }
             }
           }
@@ -327,8 +338,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b46e669c94701078",
+  "active": "baecdd02c182b9ec",
   "lastOpenFiles": [
+    "bigger in the inside.md",
     "bag of holding.md",
     "Agora Elinor Ostrom.md",
     "elinor ostrom.md",
@@ -337,7 +349,6 @@
     "chorus one.md",
     "do.md",
     "bolo.md",
-    "file system access api.md",
-    "kepta.md"
+    "file system access api.md"
   ]
 }

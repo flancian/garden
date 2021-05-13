@@ -1,4 +1,5 @@
 - a [[magic item]]
 	- [[d&d]]
-		- like a [[tardis]], it is bigger in the more than it seems it should.
+		- like a [[tardis]], it is [[bigger in the inside]].
+		- it carries more than it seems it should.
 	- I like to think of the [[agora]] as a [[bag of holding]] in the [[commons]].
