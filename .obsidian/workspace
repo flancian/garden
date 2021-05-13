@@ -79,7 +79,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cosmos network.md",
+                "file": "2021-05-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2d66b9031326ef81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chorus one.md",
                 "mode": "source"
               }
             }
@@ -266,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cosmos network.md",
+                "file": "chorus one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cosmos network.md"
+                "file": "chorus one.md"
               }
             }
           }
@@ -294,17 +305,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07116842da454d79",
+  "active": "2d66b9031326ef81",
   "lastOpenFiles": [
-    "cosmos network.md",
+    "chorus one.md",
     "2021-05-13.md",
+    "cosmos network.md",
     "neustart schweiz.md",
     "kraftwerk 1.md",
     "hans widmer.md",
     "bolo.md",
     "neustadt schweiz.md",
     "anarchist library.md",
-    "2021-05-12.md",
-    "avianca 11.md"
+    "2021-05-12.md"
   ]
 }
