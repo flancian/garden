@@ -1,0 +1,1 @@
+- [[go]] https://talk.fission.codes/t/tools-for-thought-atjson-as-a-potential-format-for-interchange/1880
