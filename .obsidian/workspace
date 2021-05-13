@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moa is broken.md",
+                "file": "2021-05-13.md",
                 "mode": "source"
               }
             }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moa is broken.md",
+                "file": "2021-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moa is broken.md"
+                "file": "2021-05-13.md"
               }
             }
           }
@@ -204,11 +204,11 @@
   },
   "active": "e86f155c4139117c",
   "lastOpenFiles": [
+    "2021-05-13.md",
     "moa is broken.md",
     "moa.party.md",
     "do.md",
     "tmux resize.md",
-    "2021-05-13.md",
     "Agora Elinor Ostrom.md",
     "kenzo tange.md",
     "experiment framework.md",
