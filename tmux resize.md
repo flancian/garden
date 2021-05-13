@@ -1,4 +1,2 @@
-- [[window]] ``` <c-b>:resize-window -A
-
-
--
+- [[window]] `<c-b>:resize-window -A`
+- [[pane]] hold `<c-b`' and press arrows
