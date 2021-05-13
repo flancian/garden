@@ -10,9 +10,7 @@
 	- its root repository is [[go/agora/git]]
 		- [[agora server]] is a reference implementation for a server based integrator/[[interlay]].
 			- the [[agora server]] repository is [[go/agora-server/git]]
-	- the goals of this agora are engineered by its community by contributing to the following nodes: [[goals]], [[do]], [[contract]] and all [[pulled]].
-- [[pull]] [[wikilinks everywhere]]
-- [[pull]] [[flancia collective]]
+	- [[pull]] the goals of this agora are engineered by its community by contributing to the following nodes: [[goals]], [[do]], [[contract]] and all [[pulled]].
 
 https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
 https://twitter.com/flancian/status/1368586813254889475
