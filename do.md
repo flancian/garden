@@ -3,6 +3,7 @@
 - my current [[intent]] is: implement [[experiment framework]] in [[agora server]]
 	- gate [[node count]] in `/nodes` on this, make it work on dev first
 	- [[sidetracked]] [[moa is broken]]
+	  - thankfully it was only my account and not all of them :) some issue with twitter. I need to look into this further but it's not urgent.
 - [[pomodoro]]
   - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
     - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
