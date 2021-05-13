@@ -3,4 +3,3 @@
 	- pointed out to me by [[andreas]] in [[patterning]]
 	- [[anarchist library]] doesn't have it
 	- [[go]] https://www.neustartschweiz.ch/nach-hause-kommen/
-	- [[bolo]]
