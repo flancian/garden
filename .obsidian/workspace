@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usability.md",
+                "file": "agora protocol.md",
                 "mode": "source"
               }
             }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todos.md",
+                "file": "agora protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todos.md"
+                "file": "agora protocol.md"
               }
             }
           },
@@ -245,17 +245,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f287bb9950cd32dc",
+  "active": "d0d2efb096f49cf9",
   "lastOpenFiles": [
+    "agora protocol.md",
+    "usability.md",
     "todos.md",
     "list.md",
     "schelling point.md",
     "the agora is a markdown convention.md",
     "chorus one.md",
     "2021-05-13.md",
-    "usability.md",
     "the agora is a markup convention.md",
-    "flask.md",
-    "agora editor.md"
+    "flask.md"
   ]
 }
