@@ -58,11 +58,23 @@
           {
             "id": "d54203e68b0a64a2",
             "type": "leaf",
-            "dimension": 8.77755511022044,
+            "dimension": 4.38877755511022,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "schelling point.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "347cc9449e5eef1d",
+            "type": "leaf",
+            "dimension": 4.38877755511022,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "list.md",
                 "mode": "source"
               }
             }
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schelling point.md",
+                "file": "list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schelling point.md"
+                "file": "list.md"
               }
             }
           },
@@ -233,8 +245,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d54203e68b0a64a2",
+  "active": "347cc9449e5eef1d",
   "lastOpenFiles": [
+    "list.md",
     "schelling point.md",
     "the agora is a markdown convention.md",
     "chorus one.md",
@@ -243,7 +256,6 @@
     "the agora is a markup convention.md",
     "flask.md",
     "agora editor.md",
-    "tmux resize.md",
-    "agora-editor.md"
+    "tmux resize.md"
   ]
 }
