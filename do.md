@@ -1,6 +1,6 @@
 # Do
 
-- my current [[intent]] is: implement 
+- my current [[intent]] is: implement [[experiment fram
 - [[pomodoro]]
   - I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
     - Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
