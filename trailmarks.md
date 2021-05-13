@@ -1,4 +1,6 @@
 # Trailmarks
 
-- See also: [[gyuri-lajos]].
+- a [[tool]]
+	- by [[gyuri-lajos]]
+	- [[usability]]
 
