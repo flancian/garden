@@ -2,5 +2,6 @@
 
 - a [[tool]]
 	- by [[gyuri-lajos]]
-	- [[usability]]
+	- see the [[stoa]] in [[usability]]
+	- ![[Pasted image 20210513204029.png]]
 
