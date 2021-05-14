@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-14.md",
+                "file": "agora protocol.md",
                 "mode": "source"
               }
             }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-14.md",
+                "file": "agora protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-14.md"
+                "file": "agora protocol.md"
               }
             }
           },
@@ -248,6 +248,7 @@
   },
   "active": "01231c5eb84d073e",
   "lastOpenFiles": [
+    "agora protocol.md",
     "2021-05-14.md",
     "fission.md",
     "gyuri lajos.md",
@@ -256,7 +257,6 @@
     "trailmarks.md",
     "tools for thought.md",
     "kenzo tange.md",
-    "agora ctzn.md",
-    "do.md"
+    "agora ctzn.md"
   ]
 }
