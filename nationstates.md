@@ -1,1 +1,4 @@
-- [[go]] https://nationsta
+- [[go]] https://nationstates.net
+	- [[pull]] [[nation states]]
+	
+	
