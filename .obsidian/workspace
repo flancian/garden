@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 15.425276309466602,
+            "dimension": 15.425276309466598,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 10.812109562710235,
+            "dimension": 10.812109562710237,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "56a11c45a953ce73",
             "type": "leaf",
-            "dimension": 9.61076405574243,
+            "dimension": 9.610764055742429,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "461f6ec704ad4963",
             "type": "leaf",
-            "dimension": 9.61076405574243,
+            "dimension": 9.610764055742429,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "01231c5eb84d073e",
             "type": "leaf",
-            "dimension": 25.708793849111007,
+            "dimension": 12.854396924555502,
             "state": {
               "type": "markdown",
               "state": {
@@ -68,9 +68,21 @@
             }
           },
           {
+            "id": "854fcdbb5728fe52",
+            "type": "leaf",
+            "dimension": 12.854396924555502,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conventions.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "05b8e43845695140",
             "type": "leaf",
-            "dimension": 9.61076405574243,
+            "dimension": 9.610764055742429,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "d751188de77a3616",
             "type": "leaf",
-            "dimension": 9.61076405574243,
+            "dimension": 9.610764055742429,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 9.61076405574243,
+            "dimension": 9.610764055742429,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -196,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora protocol.md",
+                "file": "conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora protocol.md"
+                "file": "conventions.md"
               }
             }
           },
@@ -246,8 +258,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01231c5eb84d073e",
+  "active": "854fcdbb5728fe52",
   "lastOpenFiles": [
+    "conventions.md",
     "agora protocol.md",
     "2021-05-14.md",
     "fission.md",
@@ -256,7 +269,6 @@
     "brooke.md",
     "trailmarks.md",
     "tools for thought.md",
-    "kenzo tange.md",
-    "agora ctzn.md"
+    "kenzo tange.md"
   ]
 }

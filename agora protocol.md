@@ -1,5 +1,8 @@
 # Agora Protocol
-- a [[convention]]
+
+https://twitter.com/flancian/status/1393271063224754184
+
+- a set of [[conventions]]
 	- the [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is defined as a list of [[agora rfcs]] as kept by a community agreeing to cooperate on such a list.
 	- the agora is a root that wants to grow into a [[tree]], and from there into a [[distributed]] network.
 		- an [[agora]] starts with a list of [[gardens]], that is, [[personal knowledge graphs]] as volunteered by its users.
