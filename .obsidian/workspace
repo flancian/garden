@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 10.682334089998665,
+            "dimension": 11.582452584334733,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "8820f606918a32a8",
             "type": "leaf",
-            "dimension": 15.542796100948056,
+            "dimension": 8.426234255103518,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 11.964214180798502,
+            "dimension": 12.972346894454898,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "6b3cb60c60fb9b0b",
             "type": "leaf",
-            "dimension": 12.257978368273468,
+            "dimension": 13.290864340524108,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "6df44b5b4acb479a",
             "type": "leaf",
-            "dimension": 6.128989184136734,
+            "dimension": 6.645432170262054,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "56a11c45a953ce73",
             "type": "leaf",
-            "dimension": 10.682334089998665,
+            "dimension": 11.582452584334733,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 32.741353985845905,
+            "dimension": 35.500217170985955,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kenzo tange.md",
+                "file": "agora ctzn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kenzo tange.md"
+                "file": "agora ctzn.md"
               }
             }
           },
@@ -233,17 +233,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d5997891e905142",
+  "active": "36be46ed854929a8",
   "lastOpenFiles": [
+    "agora ctzn.md",
+    "tools for thought.md",
+    "digital gardens.md",
     "kenzo tange.md",
     "systemctl.md",
     "add service.md",
     "2021-05-14.md",
     "entr.md",
-    "agora ctzn.md",
-    "tools for thought.md",
     "do.md",
-    "tft.md",
-    "michael taft.md"
+    "tft.md"
   ]
 }
