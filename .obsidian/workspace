@@ -46,11 +46,23 @@
           {
             "id": "461f6ec704ad4963",
             "type": "leaf",
-            "dimension": 8.882737795671867,
+            "dimension": 4.441368897835933,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fission.md",
+                "file": "brooke.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "01231c5eb84d073e",
+            "type": "leaf",
+            "dimension": 4.441368897835933,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "expede.md",
                 "mode": "source"
               }
             }
@@ -184,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fission.md",
+                "file": "expede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fission.md"
+                "file": "expede.md"
               }
             }
           },
@@ -234,8 +246,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "461f6ec704ad4963",
+  "active": "01231c5eb84d073e",
   "lastOpenFiles": [
+    "expede.md",
+    "brooke.md",
     "fission.md",
     "2021-05-14.md",
     "gyuri lajos.md",
@@ -243,8 +257,6 @@
     "tools for thought.md",
     "kenzo tange.md",
     "agora ctzn.md",
-    "do.md",
-    "systemctl.md",
-    "arcosanti.md"
+    "do.md"
   ]
 }
