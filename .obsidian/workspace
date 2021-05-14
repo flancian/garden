@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conventions.md",
+                "file": "2021-05-14.md",
                 "mode": "source"
               }
             }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conventions.md",
+                "file": "2021-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conventions.md"
+                "file": "2021-05-14.md"
               }
             }
           },
@@ -260,9 +260,9 @@
   },
   "active": "854fcdbb5728fe52",
   "lastOpenFiles": [
+    "2021-05-14.md",
     "conventions.md",
     "agora protocol.md",
-    "2021-05-14.md",
     "fission.md",
     "gyuri lajos.md",
     "expede.md",
