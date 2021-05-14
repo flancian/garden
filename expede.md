@@ -1,7 +1,8 @@
 # expede
 
 - a [[person]]
-	- [[coder]] []
+	- [[coder]] 
+		- [[haskell]] [[ethereum]] [[functional programming]]
 	- [[pull]] [[brooklyn zelenka]]
 	- [[twitter]] https://twitter.com/expede
 	- [[github]] https://github.com/expede]

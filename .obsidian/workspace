@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "expede.md",
+                "file": "fission.md",
                 "mode": "source"
               }
             }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "expede.md",
+                "file": "fission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "expede.md"
+                "file": "fission.md"
               }
             }
           },
@@ -248,10 +248,10 @@
   },
   "active": "01231c5eb84d073e",
   "lastOpenFiles": [
+    "fission.md",
     "expede.md",
     "gyuri lajos.md",
     "brooke.md",
-    "fission.md",
     "2021-05-14.md",
     "trailmarks.md",
     "tools for thought.md",
