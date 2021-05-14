@@ -1,6 +1,8 @@
 # Gyuri Lajos
 
-- A [[person]] on [[twitter]]: https://twitter.com/TrailMarks
+- A [[person]]
+	- [[twitter]] https://twitter.com/TrailMarks
+	- [[mastodon]] https://social.coop/@indiehub
 	- [[friend]] of the agora
     - [[trailmarks]]
 		- [[trailhub]]

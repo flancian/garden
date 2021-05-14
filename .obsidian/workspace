@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trailmarks.md",
+                "file": "gyuri lajos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trailmarks.md"
+                "file": "gyuri lajos.md"
               }
             }
           },
@@ -222,10 +222,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d751188de77a3616",
+  "active": "05b8e43845695140",
   "lastOpenFiles": [
-    "trailmarks.md",
     "gyuri lajos.md",
+    "trailmarks.md",
     "2021-05-14.md",
     "tools for thought.md",
     "kenzo tange.md",
