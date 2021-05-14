@@ -1,0 +1,2 @@
+- `systemctl | grep running` to see running
+- `systemctl list-unit-files | grep enabled` to see all enabled services (which will run at next boot

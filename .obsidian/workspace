@@ -22,7 +22,7 @@
           {
             "id": "8820f606918a32a8",
             "type": "leaf",
-            "dimension": 14.645193759436337,
+            "dimension": 14.645193759436335,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,11 +46,23 @@
           {
             "id": "6b3cb60c60fb9b0b",
             "type": "leaf",
-            "dimension": 23.100150981378963,
+            "dimension": 11.550075490689483,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entr.md",
+                "file": "2021-05-14.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6df44b5b4acb479a",
+            "type": "leaf",
+            "dimension": 11.550075490689483,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "systemctl.md",
                 "mode": "source"
               }
             }
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entr.md",
+                "file": "systemctl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entr.md"
+                "file": "systemctl.md"
               }
             }
           },
@@ -221,17 +233,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b3cb60c60fb9b0b",
+  "active": "6df44b5b4acb479a",
   "lastOpenFiles": [
+    "systemctl.md",
+    "2021-05-14.md",
     "entr.md",
     "agora ctzn.md",
     "tools for thought.md",
     "do.md",
-    "2021-05-14.md",
     "tft.md",
     "michael taft.md",
     "list.md",
-    "ctzn.md",
-    "pulled.md"
+    "ctzn.md"
   ]
 }
