@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 11.582452584334733,
+            "dimension": 16.155007549068948,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,21 +20,9 @@
             }
           },
           {
-            "id": "8820f606918a32a8",
-            "type": "leaf",
-            "dimension": 8.426234255103518,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools for thought.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 12.972346894454898,
+            "dimension": 18.117765475591344,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,49 +32,37 @@
             }
           },
           {
-            "id": "6b3cb60c60fb9b0b",
-            "type": "leaf",
-            "dimension": 6.645432170262054,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arcologies.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8d30c749e97b47ed",
-            "type": "leaf",
-            "dimension": 6.645432170262054,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arcosanti.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "6df44b5b4acb479a",
-            "type": "leaf",
-            "dimension": 6.645432170262054,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "systemctl.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "56a11c45a953ce73",
             "type": "leaf",
-            "dimension": 11.582452584334733,
+            "dimension": 17.765475591343733,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools for thought.md",
+                "file": "2021-05-14.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "05b8e43845695140",
+            "type": "leaf",
+            "dimension": 8.882737795671867,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gyuri lajos.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d751188de77a3616",
+            "type": "leaf",
+            "dimension": 8.882737795671867,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trailmarks.md",
                 "mode": "source"
               }
             }
@@ -94,7 +70,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 35.500217170985955,
+            "dimension": 30.196275792652237,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -179,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "afe2921ea1b550bb",
@@ -195,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arcosanti.md",
+                "file": "trailmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arcosanti.md"
+                "file": "trailmarks.md"
               }
             }
           },
@@ -245,17 +222,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d30c749e97b47ed",
+  "active": "d751188de77a3616",
   "lastOpenFiles": [
-    "arcosanti.md",
-    "arcologies.md",
+    "trailmarks.md",
+    "gyuri lajos.md",
     "2021-05-14.md",
-    "agora ctzn.md",
     "tools for thought.md",
-    "digital gardens.md",
     "kenzo tange.md",
+    "agora ctzn.md",
+    "do.md",
     "systemctl.md",
-    "add service.md",
-    "entr.md"
+    "arcosanti.md",
+    "arcologies.md"
   ]
 }
