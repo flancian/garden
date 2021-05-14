@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-14.md",
+                "file": "hftf.md",
                 "mode": "source"
               }
             }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-14.md",
+                "file": "hftf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-14.md"
+                "file": "hftf.md"
               }
             }
           },
@@ -260,6 +260,7 @@
   },
   "active": "854fcdbb5728fe52",
   "lastOpenFiles": [
+    "hftf.md",
     "2021-05-14.md",
     "conventions.md",
     "agora protocol.md",
@@ -268,7 +269,6 @@
     "expede.md",
     "brooke.md",
     "trailmarks.md",
-    "tools for thought.md",
-    "kenzo tange.md"
+    "tools for thought.md"
   ]
 }
