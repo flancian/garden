@@ -4,6 +4,7 @@
 	- [[twitter]] https://twitter.com/TrailMarks
 	- [[mastodon]] https://social.coop/@indiehub
 	- [[friend]] of the agora
+	- [[github]] https://github.com/gyuri-lajos
     - [[trailmarks]]
 		- [[trailhub]]
 

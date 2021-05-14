@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fission.md",
+                "file": "gyuri lajos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fission.md"
+                "file": "gyuri lajos.md"
               }
             }
           },
@@ -246,11 +246,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01231c5eb84d073e",
+  "active": "05b8e43845695140",
   "lastOpenFiles": [
+    "gyuri lajos.md",
     "fission.md",
     "expede.md",
-    "gyuri lajos.md",
     "brooke.md",
     "2021-05-14.md",
     "trailmarks.md",
