@@ -46,11 +46,23 @@
           {
             "id": "6b3cb60c60fb9b0b",
             "type": "leaf",
-            "dimension": 13.290864340524108,
+            "dimension": 6.645432170262054,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-14.md",
+                "file": "arcologies.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8d30c749e97b47ed",
+            "type": "leaf",
+            "dimension": 6.645432170262054,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arcosanti.md",
                 "mode": "source"
               }
             }
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ctzn.md",
+                "file": "arcosanti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora ctzn.md"
+                "file": "arcosanti.md"
               }
             }
           },
@@ -233,17 +245,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36be46ed854929a8",
+  "active": "8d30c749e97b47ed",
   "lastOpenFiles": [
+    "arcosanti.md",
+    "arcologies.md",
+    "2021-05-14.md",
     "agora ctzn.md",
     "tools for thought.md",
     "digital gardens.md",
     "kenzo tange.md",
     "systemctl.md",
     "add service.md",
-    "2021-05-14.md",
-    "entr.md",
-    "do.md",
-    "tft.md"
+    "entr.md"
   ]
 }
