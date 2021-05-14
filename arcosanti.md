@@ -1,1 +1,3 @@
-- [[wp]] 
+- a [[experimental town]]
+	- [[arcology]]
+	- [[wp]] https://en.wikipedia.org/wiki/Arcosanti
