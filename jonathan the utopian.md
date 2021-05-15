@@ -13,6 +13,9 @@
 - proposal
 	- 5 minutes each at the beginning giving a summary of how we're doing
 	- 5 minutes to plan how we'll use the rest of the time, total 1h
+- [[lorand]]
+	- feeling tired today, but working at home all day. under [[time pressure]].
+	- learning a subject to prepare a lecture on it.
 - [[a pattern language for protopian processes]] 
 - languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
