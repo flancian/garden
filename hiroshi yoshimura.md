@@ -1,3 +1,5 @@
-- [[wp]] 
-	- [[go]] [[]]
-- [[musician]] [[japanese]]
+- a [[person]]
+	- [[wp]] 
+		- [[go]] [[wp]]
+	- [[musician]] [[japanese]]
+	- [[album]] [[green]]
