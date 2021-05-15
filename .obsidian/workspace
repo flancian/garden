@@ -8,30 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "ed10ac322c4aed58",
+            "id": "e86f155c4139117c",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bebc57005f40d5b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-14.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "4f70046df41319dc",
-            "type": "leaf",
+            "dimension": 9.692028985507246,
             "state": {
               "type": "markdown",
               "state": {
@@ -41,37 +20,153 @@
             }
           },
           {
-            "id": "e8c7d7d57721e66d",
+            "id": "28ec5afa4d14d796",
             "type": "leaf",
+            "dimension": 9.692028985507246,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metabolist.md",
+                "file": "murat.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "bbea07cc3c584323",
+            "id": "56a11c45a953ce73",
             "type": "leaf",
+            "dimension": 12.077294685990337,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lacaton and vassal.md",
+                "file": "2021-05-14.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "2748b577508433ff",
+            "id": "461f6ec704ad4963",
             "type": "leaf",
+            "dimension": 12.077294685990337,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remember.md",
+                "file": "fission.md",
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "01231c5eb84d073e",
+            "type": "leaf",
+            "dimension": 16.15338164251208,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora protocol.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "73f6a9aec5f6f6f4",
+            "type": "split",
+            "dimension": 16.15338164251208,
+            "children": [
+              {
+                "id": "854fcdbb5728fe52",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-05-15.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "3106008416cfeda9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "robert haisfield.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "36be46ed854929a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora ctzn.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "089feb5db4c29e31",
+            "type": "split",
+            "dimension": 12.077294685990337,
+            "children": [
+              {
+                "id": "d751188de77a3616",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "trailmarks.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "05b8e43845695140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "gyuri lajos.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "17cf41804b8b958d",
+            "type": "split",
+            "dimension": 12.077294685990337,
+            "children": [
+              {
+                "id": "0d5997891e905142",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kenzo tange.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "5dc5619fc0398c10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kraftwerk 1.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -101,12 +196,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arcosanti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -117,8 +212,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aa0f3e910050164c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remember.md",
+                "file": "murat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +259,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remember.md"
+                "file": "murat.md"
               }
+            }
+          },
+          {
+            "id": "eaa7f99b4cf5444a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9852b3b70c9ace3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82168a0acbacba",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -166,17 +292,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2748b577508433ff",
+  "active": "28ec5afa4d14d796",
   "lastOpenFiles": [
-    "remember.md",
+    "murat.md",
     "2021-05-15.md",
-    "ikiru.md",
-    "nationstates.md",
     "2021-05-14.md",
-    "nationhstates.md",
-    "yoga 17.md",
-    "2021-05-13.md",
-    "2021-05-12.md",
-    "patterning.md"
+    "robert haisfield.md",
+    "hftf.md",
+    "fission.md",
+    "brooke.md",
+    "do.md",
+    "conventions.md",
+    "agora protocol.md"
   ]
 }
