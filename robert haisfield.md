@@ -1,2 +1,5 @@
 - a [[person]].
-	- [[go]] robhaisfield.com
+	- [[gamification]]
+	- [[go]] https://robhaisfield.com/about
+	- [[twitter]] https://twitter.com/RobertHaisfield
+	- [[garden]] https://robhaisfield.com/notes/writing-in-hypertext
