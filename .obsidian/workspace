@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "syncthing.md",
                 "mode": "source"
               }
             }
@@ -326,8 +326,8 @@
   "active": "ec6cb93f833f0a75",
   "lastOpenFiles": [
     "obsidian plugins.md",
-    "2021-05-15.md",
     "syncthing.md",
+    "2021-05-15.md",
     "breathe.md",
     "knowledge commons.md",
     "atjson.md",

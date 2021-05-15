@@ -1,2 +1,3 @@
 - [[sync]] [[tool]]
+	- [[go]] https://syncthing.net/
 	- [[ipfs]] https://forum.syncthing.net/t/is-it-possible-to-make-syncthing-implement-based-on-ipfs/12841
