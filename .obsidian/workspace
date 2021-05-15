@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian plugins.md",
+                "file": "syncthing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian plugins.md"
+                "file": "syncthing.md"
               }
             }
           },
@@ -323,10 +323,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec6cb93f833f0a75",
+  "active": "a37e4766bb16766e",
   "lastOpenFiles": [
-    "obsidian plugins.md",
     "syncthing.md",
+    "obsidian plugins.md",
     "2021-05-15.md",
     "breathe.md",
     "knowledge commons.md",
