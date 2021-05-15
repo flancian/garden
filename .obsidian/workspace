@@ -41,17 +41,6 @@
             }
           },
           {
-            "id": "b9dd6fb23d1eb512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wabi sabi.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "e8c7d7d57721e66d",
             "type": "leaf",
             "state": {
@@ -149,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-15.md"
+                "file": "remember.md"
               }
             }
           }
@@ -177,8 +166,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f70046df41319dc",
+  "active": "2748b577508433ff",
   "lastOpenFiles": [
+    "remember.md",
     "2021-05-15.md",
     "ikiru.md",
     "nationstates.md",
@@ -187,7 +177,6 @@
     "yoga 17.md",
     "2021-05-13.md",
     "2021-05-12.md",
-    "patterning.md",
-    "reading alexander.md"
+    "patterning.md"
   ]
 }
