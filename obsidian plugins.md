@@ -1,0 +1,3 @@
+- [[idea]] [[ipfs]]
+- [[idea]] better tiling
+- [[idea]] 

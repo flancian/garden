@@ -1,0 +1,2 @@
+- [[sync]] [[tool]]
+	- [[ipfs]] https://forum.syncthing.net/t/is-it-possible-to-make-syncthing-implement-based-on-ipfs/12841
