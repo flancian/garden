@@ -58,11 +58,23 @@
           {
             "id": "a37e4766bb16766e",
             "type": "leaf",
-            "dimension": 18.503762726870296,
+            "dimension": 9.251881363435148,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "los bienes comunes del conocimiento.md",
+                "file": "2021-05-15.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "37184e3a2df174a9",
+            "type": "leaf",
+            "dimension": 9.251881363435148,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yoga over the internet.md",
                 "mode": "source"
               }
             }
@@ -237,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "yoga over the internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-15.md"
+                "file": "yoga over the internet.md"
               }
             }
           },
@@ -287,17 +299,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9890a7071b920307",
+  "active": "37184e3a2df174a9",
   "lastOpenFiles": [
+    "yoga over the internet.md",
     "2021-05-15.md",
-    "gustavo.md",
     "los bienes comunes del conocimiento.md",
+    "gustavo.md",
     "understanding knowledge as a commons.md",
     "knowledge commons.md",
     "governing the commons.md",
     "elinor ostrom.md",
     "agora ctzn.md",
-    "atjson.md",
-    "traficantes de sueños.md"
+    "atjson.md"
   ]
 }
