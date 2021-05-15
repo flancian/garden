@@ -30,9 +30,9 @@
 		- digital note taking, would like to set up a digital garden plus rendering beyond obsidian
 			- personal data housekeeping: [[promnesia]]
 - [[topics]]
-	- [[promnesia]]
-	- [[a pattern language for protopian processes]] 
-	- languages that can serve as [[bridges]] between different [[types]] of [[people]]
+	- [[promnesia]] 1 min
+	- [[a pattern language for protopian processes]] 5 minutes
+		- languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
 ### [[2021-03-21]]
 - [[motivation]]
