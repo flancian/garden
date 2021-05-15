@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 12.135554714123437,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,9 +20,21 @@
             }
           },
           {
+            "id": "fd548028e4ad4efd",
+            "type": "leaf",
+            "dimension": 12.135554714123437,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ervin nyiregyhazi.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "0c156a158f354e6e",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +46,7 @@
           {
             "id": "04f6236e56b2135d",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +58,7 @@
           {
             "id": "19d906cbf4f643ec",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,11 +70,11 @@
           {
             "id": "13d966ed812d2bef",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hiroshi yoshimura.md",
+                "file": "2021-05-15.md",
                 "mode": "source"
               }
             }
@@ -70,7 +82,7 @@
           {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "96c5e74ff7ec3928",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "cde1cd271ae33b29",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "73f6a9aec5f6f6f4",
             "type": "split",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "children": [
               {
                 "id": "3106008416cfeda9",
@@ -136,7 +148,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -166,7 +178,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 9.090909090909092,
+            "dimension": 7.572889057175312,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -267,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hiroshi yoshimura.md",
+                "file": "ervin nyiregyhazi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hiroshi yoshimura.md"
+                "file": "ervin nyiregyhazi.md"
               }
             }
           },
@@ -317,17 +329,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19d906cbf4f643ec",
+  "active": "fd548028e4ad4efd",
   "lastOpenFiles": [
+    "ervin nyiregyhazi.md",
+    "2021-05-15.md",
+    "tools for thought.md",
+    "music for plants.md",
     "hiroshi yoshimura.md",
     "green.md",
-    "music for plants.md",
     "flancia collective.md",
     "generativist.md",
     "mayfer.md",
-    "atjson.md",
-    "tools for thought.md",
-    "2021-05-15.md",
-    "spiel.md"
+    "atjson.md"
   ]
 }
