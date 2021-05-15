@@ -10,7 +10,7 @@
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 15,
+            "dimension": 11.474584801207852,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,11 +22,11 @@
           {
             "id": "ae59c49b3be42d7f",
             "type": "leaf",
-            "dimension": 11.081081081081082,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "los bienes comunes del conocimiento.md",
+                "file": "elinor ostrom.md",
                 "mode": "source"
               }
             }
@@ -34,7 +34,7 @@
           {
             "id": "0444216a0f31d5d1",
             "type": "leaf",
-            "dimension": 5.540540540540541,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "411fcbb7f1362a13",
             "type": "leaf",
-            "dimension": 5.472972972972972,
+            "dimension": 17.413185707096122,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 17.837837837837835,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 15,
+            "dimension": 10.870659285354806,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.067567567567568,
+            "dimension": 15.047810770005032,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -112,7 +112,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 15,
+            "dimension": 14.997483643683946,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "elinor ostrom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-15.md"
+                "file": "elinor ostrom.md"
               }
             }
           },
@@ -263,17 +263,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd548028e4ad4efd",
+  "active": "ae59c49b3be42d7f",
   "lastOpenFiles": [
+    "elinor ostrom.md",
+    "los bienes comunes del conocimiento.md",
+    "knowledge commons.md",
     "2021-05-15.md",
     "agora ctzn.md",
     "atjson.md",
-    "knowledge commons.md",
     "understanding knowledge as a commons.md",
-    "los bienes comunes del conocimiento.md",
     "traficantes de sueños.md",
     "matrix.md",
-    "music for plants.md",
-    "hiroshi yoshimura.md"
+    "music for plants.md"
   ]
 }
