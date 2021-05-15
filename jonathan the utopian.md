@@ -29,6 +29,7 @@
 		- trying to focus on diet and sport
 		- digital note taking, would like to set up a digital garden plus rendering beyond obsidian
 			- personal data housekeeping: [[promnesia]]
+- 
 - [[a pattern language for protopian processes]] 
 - languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
