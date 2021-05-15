@@ -24,6 +24,9 @@
 	- signed up for a workshop in [[france]]
 		- [[q]] which topic?
 	- looking forward to [[june]]
+		- would like to get back in touch with project
+		- hesitant to see people yet though
+	- remi
 - [[a pattern language for protopian processes]] 
 - languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
