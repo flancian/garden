@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "matrix.md",
                 "mode": "source"
               }
             }
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "poll.md",
+                "file": "matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "poll.md"
+                "file": "matrix.md"
               }
             }
           },
@@ -329,16 +329,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78f2ec1f4d2f499b",
+  "active": "e86f155c4139117c",
   "lastOpenFiles": [
-    "poll.md",
-    "2021-05-15.md",
     "matrix.md",
+    "2021-05-15.md",
+    "music for plants.md",
+    "hiroshi yoshimura.md",
+    "poll.md",
     "ervin nyiregyhazi.md",
     "2012-05-27.md",
     "tools for thought.md",
-    "music for plants.md",
-    "hiroshi yoshimura.md",
     "green.md",
     "flancia collective.md"
   ]
