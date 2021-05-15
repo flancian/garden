@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "syncthing.md",
+                "file": "understanding knowledge as a commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "syncthing.md"
+                "file": "understanding knowledge as a commons.md"
               }
             }
           },
@@ -323,8 +323,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a37e4766bb16766e",
+  "active": "0444216a0f31d5d1",
   "lastOpenFiles": [
+    "understanding knowledge as a commons.md",
     "syncthing.md",
     "obsidian plugins.md",
     "2021-05-15.md",
@@ -333,7 +334,6 @@
     "atjson.md",
     "yoga over the internet.md",
     "los bienes comunes del conocimiento.md",
-    "gustavo.md",
-    "understanding knowledge as a commons.md"
+    "gustavo.md"
   ]
 }
