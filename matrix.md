@@ -1,6 +1,6 @@
 # Matrix
 
-- a federated chat network.
+- a *federated chat network*.
 	- successor to [[xmpp]] -- or that is the pitch.
 	- I'm on Matrix: [[flancian]]
 		- @flancian@matrix.org
@@ -12,4 +12,5 @@
 			- [[agora development]]
 			- [[fedstoa]]
 			- [[wikilinks everywhere]]
+			- [[promnesia]]
 
