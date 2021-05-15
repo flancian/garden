@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "breathe.md",
+                "file": "2021-05-15.md",
                 "mode": "source"
               }
             }
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "breathe.md",
+                "file": "2021-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "breathe.md"
+                "file": "2021-05-15.md"
               }
             }
           },
@@ -313,15 +313,15 @@
   },
   "active": "4daccc28de60a30a",
   "lastOpenFiles": [
-    "breathe.md",
-    "yoga over the internet.md",
     "2021-05-15.md",
+    "breathe.md",
+    "knowledge commons.md",
+    "atjson.md",
+    "yoga over the internet.md",
     "los bienes comunes del conocimiento.md",
     "gustavo.md",
     "understanding knowledge as a commons.md",
-    "knowledge commons.md",
     "governing the commons.md",
-    "elinor ostrom.md",
-    "agora ctzn.md"
+    "elinor ostrom.md"
   ]
 }
