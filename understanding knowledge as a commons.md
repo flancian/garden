@@ -1,4 +1,4 @@
 - a [[book]]
 	- by [[charlotte hess]] and [[elinor ostrom]]
 	- [[go]] https://mitpress.mit.edu/books/understanding-knowledge-commons
-	- [[pull]] knowled
+	- [[pull]] [[knowledge commons]]

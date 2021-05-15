@@ -66,11 +66,23 @@
           {
             "id": "0444216a0f31d5d1",
             "type": "leaf",
-            "dimension": 8.226077224398432,
+            "dimension": 4.113038612199216,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "understanding knowledge as a commons.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "411fcbb7f1362a13",
+            "type": "leaf",
+            "dimension": 4.113038612199216,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge commons.md",
                 "mode": "source"
               }
             }
@@ -233,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understanding knowledge as a commons.md",
+                "file": "knowledge commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "understanding knowledge as a commons.md"
+                "file": "knowledge commons.md"
               }
             }
           },
@@ -283,8 +295,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0444216a0f31d5d1",
+  "active": "411fcbb7f1362a13",
   "lastOpenFiles": [
+    "knowledge commons.md",
     "understanding knowledge as a commons.md",
     "los bienes comunes del conocimiento.md",
     "traficantes de sueños.md",
@@ -293,7 +306,6 @@
     "matrix.md",
     "music for plants.md",
     "hiroshi yoshimura.md",
-    "poll.md",
-    "ervin nyiregyhazi.md"
+    "poll.md"
   ]
 }
