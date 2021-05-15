@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jonathan the utopian.md",
+                "file": "brooke.md",
                 "mode": "source"
               }
             }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jonathan the utopian.md",
+                "file": "brooke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jonathan the utopian.md"
+                "file": "brooke.md"
               }
             }
           },
@@ -282,6 +282,7 @@
   },
   "active": "efc285d04f618479",
   "lastOpenFiles": [
+    "brooke.md",
     "jonathan the utopian.md",
     "mayfer.md",
     "lorand.md",
@@ -290,7 +291,6 @@
     "spiel.md",
     "unnamed-culture-project.md",
     "2021-05-14.md",
-    "robert haisfield.md",
-    "hftf.md"
+    "robert haisfield.md"
   ]
 }
