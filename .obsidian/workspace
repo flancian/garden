@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mayfer.md",
+                "file": "generativist.md",
                 "mode": "source"
               }
             }
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools for thought.md",
+                "file": "generativist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools for thought.md"
+                "file": "generativist.md"
               }
             }
           },
@@ -293,17 +293,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c156a158f354e6e",
+  "active": "96c5e74ff7ec3928",
   "lastOpenFiles": [
+    "generativist.md",
+    "mayfer.md",
+    "atjson.md",
     "tools for thought.md",
     "2021-05-15.md",
-    "atjson.md",
     "flancia collective.md",
     "spiel.md",
-    "mayfer.md",
     "jonathan the utopian.md",
     "brooke.md",
-    "lorand.md",
-    "murat.md"
+    "lorand.md"
   ]
 }
