@@ -8,83 +8,41 @@
         "type": "split",
         "children": [
           {
-            "id": "e86f155c4139117c",
-            "type": "leaf",
-            "dimension": 6.56493240475215,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "matrix.md",
-                "mode": "source"
+            "id": "a62c85b61702bc95",
+            "type": "split",
+            "dimension": 33.02076356329538,
+            "children": [
+              {
+                "id": "e86f155c4139117c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "matrix.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "cb32364381650b51"
+              },
+              {
+                "id": "a1e335264563ef19",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "matrix.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "cb32364381650b51"
               }
-            },
-            "group": "cb32364381650b51"
-          },
-          {
-            "id": "a1e335264563ef19",
-            "type": "leaf",
-            "dimension": 6.56493240475215,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "matrix.md",
-                "mode": "preview"
-              }
-            },
-            "group": "cb32364381650b51"
+            ],
+            "direction": "vertical"
           },
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 6.56493240475215,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-15.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "78f2ec1f4d2f499b",
-            "type": "leaf",
-            "dimension": 6.56493240475215,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "poll.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "04f6236e56b2135d",
-            "type": "leaf",
-            "dimension": 8.19336337566571,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "music for plants.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "19d906cbf4f643ec",
-            "type": "leaf",
-            "dimension": 8.19336337566571,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hiroshi yoshimura.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "13d966ed812d2bef",
-            "type": "leaf",
-            "dimension": 8.19336337566571,
+            "dimension": 13.395847287340924,
             "state": {
               "type": "markdown",
               "state": {
@@ -96,7 +54,7 @@
           {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 8.19336337566571,
+            "dimension": 13.395847287340924,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,63 +64,21 @@
             }
           },
           {
-            "id": "96c5e74ff7ec3928",
+            "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 8.19336337566571,
+            "dimension": 13.395847287340924,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generativist.md",
+                "file": "agora ctzn.md",
                 "mode": "source"
               }
             }
-          },
-          {
-            "id": "cde1cd271ae33b29",
-            "type": "leaf",
-            "dimension": 8.19336337566571,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spiel.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "73f6a9aec5f6f6f4",
-            "type": "split",
-            "dimension": 8.19336337566571,
-            "children": [
-              {
-                "id": "3106008416cfeda9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "robert haisfield.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "36be46ed854929a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora ctzn.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
           },
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 8.19336337566571,
+            "dimension": 13.395847287340924,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -192,7 +108,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 8.19336337566571,
+            "dimension": 13.395847287340924,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -293,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matrix.md",
+                "file": "2021-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "matrix.md"
+                "file": "2021-05-15.md"
               }
             }
           },
@@ -343,10 +259,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a1e335264563ef19",
+  "active": "fd548028e4ad4efd",
   "lastOpenFiles": [
-    "matrix.md",
     "2021-05-15.md",
+    "matrix.md",
     "music for plants.md",
     "hiroshi yoshimura.md",
     "poll.md",
