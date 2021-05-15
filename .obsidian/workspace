@@ -10,7 +10,7 @@
           {
             "id": "a62c85b61702bc95",
             "type": "split",
-            "dimension": 33.02076356329538,
+            "dimension": 33.020763563295375,
             "children": [
               {
                 "id": "e86f155c4139117c",
@@ -42,7 +42,7 @@
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 13.395847287340924,
+            "dimension": 6.69792364367046,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,9 +52,21 @@
             }
           },
           {
+            "id": "e3586212a52b0b8f",
+            "type": "leaf",
+            "dimension": 6.69792364367046,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "traficantes de sueños.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 13.395847287340924,
+            "dimension": 13.39584728734092,
             "state": {
               "type": "markdown",
               "state": {
@@ -66,7 +78,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 13.395847287340924,
+            "dimension": 13.39584728734092,
             "state": {
               "type": "markdown",
               "state": {
@@ -78,7 +90,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 13.395847287340924,
+            "dimension": 13.39584728734092,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -108,7 +120,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 13.395847287340924,
+            "dimension": 13.39584728734092,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -209,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "traficantes de sueños.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-15.md"
+                "file": "traficantes de sueños.md"
               }
             }
           },
@@ -259,8 +271,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd548028e4ad4efd",
+  "active": "e3586212a52b0b8f",
   "lastOpenFiles": [
+    "traficantes de sueños.md",
     "2021-05-15.md",
     "matrix.md",
     "music for plants.md",
@@ -269,7 +282,6 @@
     "ervin nyiregyhazi.md",
     "2012-05-27.md",
     "tools for thought.md",
-    "green.md",
-    "flancia collective.md"
+    "green.md"
   ]
 }
