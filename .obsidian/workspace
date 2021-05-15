@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brooke.md",
+                "file": "tools for thought.md",
                 "mode": "source"
               }
             }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brooke.md",
+                "file": "tools for thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "brooke.md"
+                "file": "tools for thought.md"
               }
             }
           },
@@ -282,6 +282,7 @@
   },
   "active": "efc285d04f618479",
   "lastOpenFiles": [
+    "tools for thought.md",
     "brooke.md",
     "jonathan the utopian.md",
     "mayfer.md",
@@ -290,7 +291,6 @@
     "murat.md",
     "spiel.md",
     "unnamed-culture-project.md",
-    "2021-05-14.md",
-    "robert haisfield.md"
+    "2021-05-14.md"
   ]
 }
