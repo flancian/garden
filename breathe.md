@@ -1,1 +1,3 @@
-- [[go]] 
+- a [[cycle]] of []
+- [[youtube]] 
+- [[go]] https://www.youtube.com/watch?v=ZSIp00SewO8
