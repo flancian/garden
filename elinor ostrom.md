@@ -8,8 +8,9 @@
 	  - [[go]] [[wp]]
 - [[books]]
   - [[governing the commons]]
-  - [[]]
-   
+  - [[understanding knowledge as a commons]]
+
+![[Pasted image 20210515175119.png]]
 
 https://twitter.com/flancian/status/1368583582277570560
 
