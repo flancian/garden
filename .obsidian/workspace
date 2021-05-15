@@ -10,11 +10,23 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 25.71716155007549,
+            "dimension": 12.858580775037746,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-15.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0c156a158f354e6e",
+            "type": "leaf",
+            "dimension": 12.858580775037746,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools for thought.md",
                 "mode": "source"
               }
             }
@@ -100,7 +112,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 12.632108706592854,
+            "dimension": 12.632108706592852,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -231,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atjson.md",
+                "file": "tools for thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atjson.md"
+                "file": "tools for thought.md"
               }
             }
           },
@@ -281,11 +293,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc285d04f618479",
+  "active": "0c156a158f354e6e",
   "lastOpenFiles": [
-    "atjson.md",
     "tools for thought.md",
     "2021-05-15.md",
+    "atjson.md",
     "flancia collective.md",
     "spiel.md",
     "mayfer.md",
