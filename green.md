@@ -1,0 +1,3 @@
+- One of my favourite albums.
+	- by [[hiroshi yoshimura]]
+	- [[go]] 
