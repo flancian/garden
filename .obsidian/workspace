@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flancia collective.md",
+                "file": "music for plants.md",
                 "mode": "source"
               }
             }
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "generativist.md",
+                "file": "music for plants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generativist.md"
+                "file": "music for plants.md"
               }
             }
           },
@@ -293,17 +293,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96c5e74ff7ec3928",
+  "active": "04f6236e56b2135d",
   "lastOpenFiles": [
+    "music for plants.md",
+    "flancia collective.md",
     "generativist.md",
     "mayfer.md",
     "atjson.md",
     "tools for thought.md",
     "2021-05-15.md",
-    "flancia collective.md",
     "spiel.md",
     "jonathan the utopian.md",
-    "brooke.md",
-    "lorand.md"
+    "brooke.md"
   ]
 }
