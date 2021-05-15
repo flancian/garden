@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 9.692028985507246,
+            "dimension": 10.030090270812437,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "28ec5afa4d14d796",
             "type": "leaf",
-            "dimension": 9.692028985507246,
+            "dimension": 10.030090270812437,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,37 +32,25 @@
             }
           },
           {
-            "id": "56a11c45a953ce73",
+            "id": "96c5e74ff7ec3928",
             "type": "leaf",
-            "dimension": 12.077294685990337,
+            "dimension": 15.747241725175526,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-14.md",
+                "file": "mayfer.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "461f6ec704ad4963",
+            "id": "43044f66d83cbf34",
             "type": "leaf",
-            "dimension": 12.077294685990337,
+            "dimension": 15.346038114343031,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fission.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "01231c5eb84d073e",
-            "type": "leaf",
-            "dimension": 16.15338164251208,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora protocol.md",
+                "file": "unnamed-culture-project.md",
                 "mode": "source"
               }
             }
@@ -70,7 +58,7 @@
           {
             "id": "73f6a9aec5f6f6f4",
             "type": "split",
-            "dimension": 16.15338164251208,
+            "dimension": 10.030090270812437,
             "children": [
               {
                 "id": "854fcdbb5728fe52",
@@ -111,7 +99,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 12.077294685990337,
+            "dimension": 19.00702106318957,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -141,7 +129,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 12.077294685990337,
+            "dimension": 19.80942828485456,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -242,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "murat.md",
+                "file": "mayfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "murat.md"
+                "file": "mayfer.md"
               }
             }
           },
@@ -292,8 +280,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28ec5afa4d14d796",
+  "active": "96c5e74ff7ec3928",
   "lastOpenFiles": [
+    "mayfer.md",
+    "unnamed-culture-project.md",
     "murat.md",
     "2021-05-15.md",
     "2021-05-14.md",
@@ -301,8 +291,6 @@
     "hftf.md",
     "fission.md",
     "brooke.md",
-    "do.md",
-    "conventions.md",
-    "agora protocol.md"
+    "do.md"
   ]
 }
