@@ -19,10 +19,10 @@
     - reach out to a member of the collective if you are interested in joining!
   - [[goals]]
 	- [[public utility]]
+    - [[effective altruism]]
   - [[projects]]
     - [[agora]]
     - [[promnesia]]
     - [[wikilinks everywhere]]
     - [[moa]]
-    - [[effective altruism]]
 
