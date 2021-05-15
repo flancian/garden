@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "governing the commons.md",
+                "file": "knowledge commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "governing the commons.md"
+                "file": "knowledge commons.md"
               }
             }
           },
@@ -263,11 +263,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae59c49b3be42d7f",
+  "active": "411fcbb7f1362a13",
   "lastOpenFiles": [
+    "knowledge commons.md",
     "governing the commons.md",
     "understanding knowledge as a commons.md",
-    "knowledge commons.md",
     "elinor ostrom.md",
     "los bienes comunes del conocimiento.md",
     "2021-05-15.md",
