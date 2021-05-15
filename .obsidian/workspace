@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools for thought.md",
+                "file": "2012-05-27.md",
                 "mode": "source"
               }
             }
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ervin nyiregyhazi.md",
+                "file": "2012-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ervin nyiregyhazi.md"
+                "file": "2012-05-27.md"
               }
             }
           },
@@ -329,17 +329,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd548028e4ad4efd",
+  "active": "0c156a158f354e6e",
   "lastOpenFiles": [
+    "2012-05-27.md",
+    "tools for thought.md",
     "ervin nyiregyhazi.md",
     "2021-05-15.md",
-    "tools for thought.md",
     "music for plants.md",
     "hiroshi yoshimura.md",
     "green.md",
     "flancia collective.md",
     "generativist.md",
-    "mayfer.md",
-    "atjson.md"
+    "mayfer.md"
   ]
 }
