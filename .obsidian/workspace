@@ -10,14 +10,28 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 13.1298648095043,
+            "dimension": 6.56493240475215,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "matrix.md",
                 "mode": "source"
               }
-            }
+            },
+            "group": "cb32364381650b51"
+          },
+          {
+            "id": "a1e335264563ef19",
+            "type": "leaf",
+            "dimension": 6.56493240475215,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "matrix.md",
+                "mode": "preview"
+              }
+            },
+            "group": "cb32364381650b51"
           },
           {
             "id": "fd548028e4ad4efd",
@@ -329,7 +343,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e86f155c4139117c",
+  "active": "a1e335264563ef19",
   "lastOpenFiles": [
     "matrix.md",
     "2021-05-15.md",
