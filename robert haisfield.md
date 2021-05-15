@@ -1,5 +1,5 @@
 - a [[person]].
-	- [[gamification]]
+	- [[gamification]] [[product strategy]]
 	- [[go]] https://robhaisfield.com/about
 	- [[twitter]] https://twitter.com/RobertHaisfield
 	- [[garden]] https://robhaisfield.com/notes/writing-in-hypertext
