@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 10.870659285354806,
+            "dimension": 20.634121791645697,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "28ec5afa4d14d796",
+            "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 10.870659285354806,
+            "dimension": 13.487669854051335,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "murat.md",
+                "file": "jonathan the utopian.md",
                 "mode": "source"
               }
             }
@@ -34,7 +34,7 @@
           {
             "id": "96c5e74ff7ec3928",
             "type": "leaf",
-            "dimension": 15.299446401610467,
+            "dimension": 10.770005032712632,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "73f6a9aec5f6f6f4",
             "type": "split",
-            "dimension": 21.338701560140915,
+            "dimension": 11.424257674886764,
             "children": [
               {
                 "id": "854fcdbb5728fe52",
@@ -99,7 +99,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 20.835430296930046,
+            "dimension": 22.244589833920482,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -129,7 +129,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 10.065425264217414,
+            "dimension": 10.719677906391546,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spiel.md",
+                "file": "jonathan the utopian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spiel.md"
+                "file": "jonathan the utopian.md"
               }
             }
           },
@@ -280,17 +280,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cde1cd271ae33b29",
+  "active": "efc285d04f618479",
   "lastOpenFiles": [
+    "jonathan the utopian.md",
+    "lorand.md",
+    "2021-05-15.md",
+    "murat.md",
     "spiel.md",
     "unnamed-culture-project.md",
     "mayfer.md",
-    "murat.md",
-    "2021-05-15.md",
     "2021-05-14.md",
     "robert haisfield.md",
-    "hftf.md",
-    "fission.md",
-    "brooke.md"
+    "hftf.md"
   ]
 }

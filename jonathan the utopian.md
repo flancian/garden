@@ -9,7 +9,8 @@
 - [[project]] [[utopoi]]: http://lorand.earth/utopoi/about/
 - [[project]] https://applied-compositional-thinking.engineering/
 
-## [[meet]]
+### [[2021-05-15]]
+
 
 ### [[next]]
 - [[a pattern language for protopian processes]] 
