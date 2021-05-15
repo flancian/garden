@@ -1,3 +1,2 @@
 - un [[libro]]
-	- [[los bienes comunes del conocimiento]]
-	- editado por [[elinor ostrom]]
+	- editado felinor ostrom]]
