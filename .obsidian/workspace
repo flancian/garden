@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 10.030090270812437,
+            "dimension": 10.870659285354806,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "28ec5afa4d14d796",
             "type": "leaf",
-            "dimension": 10.030090270812437,
+            "dimension": 10.870659285354806,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "96c5e74ff7ec3928",
             "type": "leaf",
-            "dimension": 15.747241725175524,
+            "dimension": 15.299446401610467,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,21 +44,9 @@
             }
           },
           {
-            "id": "43044f66d83cbf34",
-            "type": "leaf",
-            "dimension": 7.673019057171516,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unnamed-culture-project.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "cde1cd271ae33b29",
             "type": "leaf",
-            "dimension": 7.673019057171516,
+            "dimension": 10.719677906391546,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "73f6a9aec5f6f6f4",
             "type": "split",
-            "dimension": 10.030090270812437,
+            "dimension": 21.338701560140915,
             "children": [
               {
                 "id": "854fcdbb5728fe52",
@@ -111,7 +99,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 19.00702106318957,
+            "dimension": 20.835430296930046,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -141,7 +129,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 19.80942828485456,
+            "dimension": 10.065425264217414,
             "children": [
               {
                 "id": "0d5997891e905142",
