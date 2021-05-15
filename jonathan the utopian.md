@@ -38,6 +38,7 @@
 		- [[side channels]] 
 	- [[bmann]]
 	- [[personal]]
+- [[flancia collective]]
 
 ### [[2021-03-21]]
 - [[motivation]]

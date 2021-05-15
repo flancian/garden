@@ -10,11 +10,23 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 20.634121791645697,
+            "dimension": 10.317060895822848,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-15.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "04f6236e56b2135d",
+            "type": "leaf",
+            "dimension": 10.317060895822848,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flancia collective.md",
                 "mode": "source"
               }
             }
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools for thought.md",
+                "file": "flancia collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools for thought.md"
+                "file": "flancia collective.md"
               }
             }
           },
@@ -280,17 +292,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc285d04f618479",
+  "active": "04f6236e56b2135d",
   "lastOpenFiles": [
+    "flancia collective.md",
+    "jonathan the utopian.md",
+    "2021-05-15.md",
     "tools for thought.md",
     "brooke.md",
-    "jonathan the utopian.md",
     "mayfer.md",
     "lorand.md",
-    "2021-05-15.md",
     "murat.md",
     "spiel.md",
-    "unnamed-culture-project.md",
-    "2021-05-14.md"
+    "unnamed-culture-project.md"
   ]
 }
