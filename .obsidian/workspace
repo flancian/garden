@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "elinor ostrom.md",
+                "file": "governing the commons.md",
                 "mode": "source"
               }
             }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "elinor ostrom.md",
+                "file": "governing the commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "elinor ostrom.md"
+                "file": "governing the commons.md"
               }
             }
           },
@@ -265,15 +265,15 @@
   },
   "active": "ae59c49b3be42d7f",
   "lastOpenFiles": [
+    "governing the commons.md",
+    "understanding knowledge as a commons.md",
+    "knowledge commons.md",
     "elinor ostrom.md",
     "los bienes comunes del conocimiento.md",
-    "knowledge commons.md",
     "2021-05-15.md",
     "agora ctzn.md",
     "atjson.md",
-    "understanding knowledge as a commons.md",
     "traficantes de sueños.md",
-    "matrix.md",
-    "music for plants.md"
+    "matrix.md"
   ]
 }
