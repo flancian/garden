@@ -1,3 +1,3 @@
 - [[idea]] [[ipfs]]
 - [[idea]] better tiling
-- [[idea]] 
+- [[idea]] alt-d focuses daily if already present instead of reopening
