@@ -22,11 +22,23 @@
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 13.1298648095043,
+            "dimension": 6.56493240475215,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "matrix.md",
+                "file": "2021-05-15.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "78f2ec1f4d2f499b",
+            "type": "leaf",
+            "dimension": 6.56493240475215,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "poll.md",
                 "mode": "source"
               }
             }
@@ -267,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matrix.md",
+                "file": "poll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "matrix.md"
+                "file": "poll.md"
               }
             }
           },
@@ -317,17 +329,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd548028e4ad4efd",
+  "active": "78f2ec1f4d2f499b",
   "lastOpenFiles": [
+    "poll.md",
+    "2021-05-15.md",
     "matrix.md",
     "ervin nyiregyhazi.md",
     "2012-05-27.md",
     "tools for thought.md",
-    "2021-05-15.md",
     "music for plants.md",
     "hiroshi yoshimura.md",
     "green.md",
-    "flancia collective.md",
-    "generativist.md"
+    "flancia collective.md"
   ]
 }
