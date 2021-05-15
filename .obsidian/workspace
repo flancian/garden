@@ -10,7 +10,7 @@
           {
             "id": "e86f155c4139117c",
             "type": "leaf",
-            "dimension": 12.135554714123437,
+            "dimension": 13.1298648095043,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 12.135554714123437,
+            "dimension": 13.1298648095043,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,21 +32,9 @@
             }
           },
           {
-            "id": "0c156a158f354e6e",
-            "type": "leaf",
-            "dimension": 7.572889057175312,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2012-05-27.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "04f6236e56b2135d",
             "type": "leaf",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +46,7 @@
           {
             "id": "19d906cbf4f643ec",
             "type": "leaf",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "13d966ed812d2bef",
             "type": "leaf",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +70,7 @@
           {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +82,7 @@
           {
             "id": "96c5e74ff7ec3928",
             "type": "leaf",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +94,7 @@
           {
             "id": "cde1cd271ae33b29",
             "type": "leaf",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +106,7 @@
           {
             "id": "73f6a9aec5f6f6f4",
             "type": "split",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "children": [
               {
                 "id": "3106008416cfeda9",
@@ -148,7 +136,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -178,7 +166,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 7.572889057175312,
+            "dimension": 8.19336337566571,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -279,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2012-05-27.md",
+                "file": "ervin nyiregyhazi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2012-05-27.md"
+                "file": "ervin nyiregyhazi.md"
               }
             }
           },
@@ -329,11 +317,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c156a158f354e6e",
+  "active": "fd548028e4ad4efd",
   "lastOpenFiles": [
+    "ervin nyiregyhazi.md",
     "2012-05-27.md",
     "tools for thought.md",
-    "ervin nyiregyhazi.md",
     "2021-05-15.md",
     "music for plants.md",
     "hiroshi yoshimura.md",
