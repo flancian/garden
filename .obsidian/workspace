@@ -10,7 +10,7 @@
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 5.737292400603926,
+            "dimension": 8.853474988933156,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "9890a7071b920307",
             "type": "leaf",
-            "dimension": 5.737292400603926,
+            "dimension": 8.853474988933156,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "ae59c49b3be42d7f",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 8.853474988933156,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "0444216a0f31d5d1",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 8.853474988933156,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,9 +56,21 @@
             }
           },
           {
+            "id": "a37e4766bb16766e",
+            "type": "leaf",
+            "dimension": 18.503762726870296,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "los bienes comunes del conocimiento.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "411fcbb7f1362a13",
             "type": "leaf",
-            "dimension": 17.413185707096122,
+            "dimension": 8.853474988933156,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 8.853474988933156,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 10.870659285354806,
+            "dimension": 8.853474988933156,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.047810770005032,
+            "dimension": 8.853474988933156,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -124,7 +136,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 14.997483643683944,
+            "dimension": 10.668437361664452,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gustavo.md",
+                "file": "los bienes comunes del conocimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gustavo.md"
+                "file": "los bienes comunes del conocimiento.md"
               }
             }
           },
@@ -275,15 +287,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9890a7071b920307",
+  "active": "a37e4766bb16766e",
   "lastOpenFiles": [
+    "los bienes comunes del conocimiento.md",
+    "understanding knowledge as a commons.md",
     "gustavo.md",
     "2021-05-15.md",
     "knowledge commons.md",
     "governing the commons.md",
-    "understanding knowledge as a commons.md",
     "elinor ostrom.md",
-    "los bienes comunes del conocimiento.md",
     "agora ctzn.md",
     "atjson.md",
     "traficantes de sueños.md"

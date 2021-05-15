@@ -2,3 +2,4 @@
 	- [[pull]] [[understanding knowledge as a commons]]
 	- [[charlotte hess]]
 	- [[elinor ostrom]]
+	![[Los bienes comunes del conocimiento_Traficantes de Sueños.pdf]]
