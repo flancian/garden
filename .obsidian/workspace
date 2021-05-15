@@ -22,7 +22,7 @@
           {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 13.487669854051335,
+            "dimension": 25.465525918470057,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "96c5e74ff7ec3928",
             "type": "leaf",
-            "dimension": 10.770005032712632,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "cde1cd271ae33b29",
             "type": "leaf",
-            "dimension": 10.719677906391546,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "73f6a9aec5f6f6f4",
             "type": "split",
-            "dimension": 11.424257674886764,
+            "dimension": 10.065425264217414,
             "children": [
               {
                 "id": "854fcdbb5728fe52",
@@ -99,7 +99,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 22.244589833920482,
+            "dimension": 12.984398590840463,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -283,12 +283,12 @@
   "active": "efc285d04f618479",
   "lastOpenFiles": [
     "jonathan the utopian.md",
+    "mayfer.md",
     "lorand.md",
     "2021-05-15.md",
     "murat.md",
     "spiel.md",
     "unnamed-culture-project.md",
-    "mayfer.md",
     "2021-05-14.md",
     "robert haisfield.md",
     "hftf.md"

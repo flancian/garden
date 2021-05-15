@@ -31,11 +31,13 @@
 			- personal data housekeeping: [[promnesia]]
 - [[topics]]
 	- [[promnesia]] 1 min
-	- [[a pattern language for protopian processes]] 5 minutes
+	- [[a pattern language for protopian processes]] 10 minutes
 		- [[pattern repository]]
 		- languages that can serve as [[bridges]] between different [[types]] of [[people]
-	- [[agora protocol]]
+	- [[agora protocol]] 5 minutes
+		- [[side channels]] 
 	- [[bmann]]
+	- [[personal]]
 
 ### [[2021-03-21]]
 - [[motivation]]
