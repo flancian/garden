@@ -32,7 +32,10 @@
 - [[topics]]
 	- [[promnesia]] 1 min
 	- [[a pattern language for protopian processes]] 5 minutes
-		- languages that can serve as [[bridges]] between different [[types]] of [[people]]
+		- [[pattern repository]]
+		- languages that can serve as [[bridges]] between different [[types]] of [[people]
+	- [[agora protocol]]
+	- [[bmann]]
 
 ### [[2021-03-21]]
 - [[motivation]]
