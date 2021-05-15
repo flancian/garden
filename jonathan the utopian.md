@@ -10,9 +10,9 @@
 - [[project]] https://applied-compositional-thinking.engineering/
 
 ### [[2021-05-15]]
-
-
-### [[next]]
+- proposal
+	- 5 minutes each at the beginning giving a summary of how we're doing
+	- 5 minutes to plan how we'll use the rest of the time, total 1h
 - [[a pattern language for protopian processes]] 
 - languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
