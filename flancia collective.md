@@ -17,6 +17,8 @@
     - [[abstract fairy]]
 	- [[bmann]]
     - reach out to a member of the collective if you are interested in joining!
+  - [[goals]]
+	- [[public utility]]
   - [[projects]]
     - [[agora]]
     - [[promnesia]]
