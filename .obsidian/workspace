@@ -34,7 +34,7 @@
           {
             "id": "96c5e74ff7ec3928",
             "type": "leaf",
-            "dimension": 15.747241725175526,
+            "dimension": 15.747241725175524,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,11 +46,23 @@
           {
             "id": "43044f66d83cbf34",
             "type": "leaf",
-            "dimension": 15.346038114343031,
+            "dimension": 7.673019057171516,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "unnamed-culture-project.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "cde1cd271ae33b29",
+            "type": "leaf",
+            "dimension": 7.673019057171516,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spiel.md",
                 "mode": "source"
               }
             }
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mayfer.md",
+                "file": "spiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mayfer.md"
+                "file": "spiel.md"
               }
             }
           },
@@ -280,17 +292,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96c5e74ff7ec3928",
+  "active": "cde1cd271ae33b29",
   "lastOpenFiles": [
-    "mayfer.md",
+    "spiel.md",
     "unnamed-culture-project.md",
+    "mayfer.md",
     "murat.md",
     "2021-05-15.md",
     "2021-05-14.md",
     "robert haisfield.md",
     "hftf.md",
     "fission.md",
-    "brooke.md",
-    "do.md"
+    "brooke.md"
   ]
 }
