@@ -70,11 +70,23 @@
           {
             "id": "37184e3a2df174a9",
             "type": "leaf",
-            "dimension": 9.251881363435148,
+            "dimension": 4.625940681717574,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "yoga over the internet.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "4daccc28de60a30a",
+            "type": "leaf",
+            "dimension": 4.625940681717574,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "breathe.md",
                 "mode": "source"
               }
             }
@@ -249,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoga over the internet.md",
+                "file": "breathe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoga over the internet.md"
+                "file": "breathe.md"
               }
             }
           },
@@ -299,8 +311,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37184e3a2df174a9",
+  "active": "4daccc28de60a30a",
   "lastOpenFiles": [
+    "breathe.md",
     "yoga over the internet.md",
     "2021-05-15.md",
     "los bienes comunes del conocimiento.md",
@@ -309,7 +322,6 @@
     "knowledge commons.md",
     "governing the commons.md",
     "elinor ostrom.md",
-    "agora ctzn.md",
-    "atjson.md"
+    "agora ctzn.md"
   ]
 }
