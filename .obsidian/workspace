@@ -8,41 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "a62c85b61702bc95",
-            "type": "split",
-            "dimension": 25.517627308337996,
-            "children": [
-              {
-                "id": "e86f155c4139117c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "matrix.md",
-                    "mode": "source"
-                  }
-                },
-                "group": "cb32364381650b51"
-              },
-              {
-                "id": "a1e335264563ef19",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "matrix.md",
-                    "mode": "preview"
-                  }
-                },
-                "group": "cb32364381650b51"
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 11.191941801902631,
+            "dimension": 15,
             "state": {
               "type": "markdown",
               "state": {
@@ -54,7 +22,7 @@
           {
             "id": "ae59c49b3be42d7f",
             "type": "leaf",
-            "dimension": 8.226077224398432,
+            "dimension": 11.081081081081082,
             "state": {
               "type": "markdown",
               "state": {
@@ -66,7 +34,7 @@
           {
             "id": "0444216a0f31d5d1",
             "type": "leaf",
-            "dimension": 4.113038612199216,
+            "dimension": 5.540540540540541,
             "state": {
               "type": "markdown",
               "state": {
@@ -78,7 +46,7 @@
           {
             "id": "411fcbb7f1362a13",
             "type": "leaf",
-            "dimension": 4.113038612199216,
+            "dimension": 5.472972972972972,
             "state": {
               "type": "markdown",
               "state": {
@@ -90,7 +58,7 @@
           {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 13.262451035254617,
+            "dimension": 17.837837837837835,
             "state": {
               "type": "markdown",
               "state": {
@@ -102,7 +70,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 11.191941801902631,
+            "dimension": 15,
             "state": {
               "type": "markdown",
               "state": {
@@ -114,7 +82,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 11.191941801902631,
+            "dimension": 15.067567567567568,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -144,7 +112,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 11.191941801902631,
+            "dimension": 15,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -245,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge commons.md",
+                "file": "2021-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge commons.md"
+                "file": "2021-05-15.md"
               }
             }
           },
@@ -295,17 +263,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "411fcbb7f1362a13",
+  "active": "fd548028e4ad4efd",
   "lastOpenFiles": [
+    "2021-05-15.md",
+    "agora ctzn.md",
+    "atjson.md",
     "knowledge commons.md",
     "understanding knowledge as a commons.md",
     "los bienes comunes del conocimiento.md",
     "traficantes de sueños.md",
-    "atjson.md",
-    "2021-05-15.md",
     "matrix.md",
     "music for plants.md",
-    "hiroshi yoshimura.md",
-    "poll.md"
+    "hiroshi yoshimura.md"
   ]
 }
