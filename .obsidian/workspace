@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools for thought.md",
+                "file": "atjson.md",
                 "mode": "source"
               }
             }
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "atjson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-15.md"
+                "file": "atjson.md"
               }
             }
           },
@@ -281,17 +281,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e86f155c4139117c",
+  "active": "efc285d04f618479",
   "lastOpenFiles": [
+    "atjson.md",
+    "tools for thought.md",
     "2021-05-15.md",
     "flancia collective.md",
     "spiel.md",
     "mayfer.md",
-    "tools for thought.md",
     "jonathan the utopian.md",
     "brooke.md",
     "lorand.md",
-    "murat.md",
-    "unnamed-culture-project.md"
+    "murat.md"
   ]
 }
