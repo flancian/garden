@@ -17,9 +17,13 @@
 	- feeling tired today, but working at home all day. under [[time pressure]].
 	- learning a subject to prepare a lecture on it.
 		- [[q]] which subject?
+		- [[q]] is it ok to write this here?
 	- readings for the masters are nice but intensive
 	- zoom calls yesterday heavy: 3h in the morning, 3h in the afternoon
 	- spent some time with colleagues in the evening, not many chances to socialize
+	- signed up for a workshop in [[france]]
+		- [[q]] which topic?
+	- looking forward to [[june]]
 - [[a pattern language for protopian processes]] 
 - languages that can serve as [[bridges]] between different [[types]] of [[people]]
 
