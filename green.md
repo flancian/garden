@@ -1,3 +1,3 @@
 - One of my favourite albums.
 	- by [[hiroshi yoshimura]]
-	- [[go]] 
+	- [[go]] https://open.spotify.com/album/4lj4MVuqt0BXLhL7UsR1Eo?highlight=spotify:track:6RPQdkI8t1eaG2abymrYVK
