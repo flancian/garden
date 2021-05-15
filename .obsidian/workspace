@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "los bienes comunes del conocimiento.md",
+                "file": "gustavo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "los bienes comunes del conocimiento.md"
+                "file": "gustavo.md"
               }
             }
           },
@@ -287,11 +287,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a37e4766bb16766e",
+  "active": "9890a7071b920307",
   "lastOpenFiles": [
+    "gustavo.md",
     "los bienes comunes del conocimiento.md",
     "understanding knowledge as a commons.md",
-    "gustavo.md",
     "2021-05-15.md",
     "knowledge commons.md",
     "governing the commons.md",
