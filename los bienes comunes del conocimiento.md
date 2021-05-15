@@ -1,4 +1,4 @@
 - [[go]] https://www.traficantes.net/libros/los-bienes-comunes-del-conocimiento
-	- [[pull]] [[understandking]]
+	- [[pull]] [[understanding knowledge as a commons]]
 	- [[charlotte hess]]
 	- [[elinor ostrom]]

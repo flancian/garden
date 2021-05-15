@@ -10,7 +10,7 @@
           {
             "id": "a62c85b61702bc95",
             "type": "split",
-            "dimension": 25.517627308338003,
+            "dimension": 25.517627308337996,
             "children": [
               {
                 "id": "e86f155c4139117c",
@@ -42,7 +42,7 @@
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 11.191941801902633,
+            "dimension": 11.191941801902631,
             "state": {
               "type": "markdown",
               "state": {
@@ -54,11 +54,23 @@
           {
             "id": "ae59c49b3be42d7f",
             "type": "leaf",
-            "dimension": 16.45215444879687,
+            "dimension": 8.226077224398432,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "los bienes comunes del conocimiento.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0444216a0f31d5d1",
+            "type": "leaf",
+            "dimension": 8.226077224398432,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "understanding knowledge as a commons.md",
                 "mode": "source"
               }
             }
@@ -78,7 +90,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 11.191941801902633,
+            "dimension": 11.191941801902631,
             "state": {
               "type": "markdown",
               "state": {
@@ -90,7 +102,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 11.191941801902633,
+            "dimension": 11.191941801902631,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -120,7 +132,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 11.191941801902633,
+            "dimension": 11.191941801902631,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "los bienes comunes del conocimiento.md",
+                "file": "understanding knowledge as a commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "los bienes comunes del conocimiento.md"
+                "file": "understanding knowledge as a commons.md"
               }
             }
           },
@@ -271,8 +283,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae59c49b3be42d7f",
+  "active": "0444216a0f31d5d1",
   "lastOpenFiles": [
+    "understanding knowledge as a commons.md",
     "los bienes comunes del conocimiento.md",
     "traficantes de sueños.md",
     "atjson.md",
@@ -281,7 +294,6 @@
     "music for plants.md",
     "hiroshi yoshimura.md",
     "poll.md",
-    "ervin nyiregyhazi.md",
-    "2012-05-27.md"
+    "ervin nyiregyhazi.md"
   ]
 }
