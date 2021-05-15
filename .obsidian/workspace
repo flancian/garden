@@ -10,11 +10,23 @@
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 11.474584801207852,
+            "dimension": 5.737292400603926,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-15.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "9890a7071b920307",
+            "type": "leaf",
+            "dimension": 5.737292400603926,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gustavo.md",
                 "mode": "source"
               }
             }
@@ -112,7 +124,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 14.997483643683946,
+            "dimension": 14.997483643683944,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge commons.md",
+                "file": "gustavo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge commons.md"
+                "file": "gustavo.md"
               }
             }
           },
@@ -263,17 +275,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "411fcbb7f1362a13",
+  "active": "9890a7071b920307",
   "lastOpenFiles": [
+    "gustavo.md",
+    "2021-05-15.md",
     "knowledge commons.md",
     "governing the commons.md",
     "understanding knowledge as a commons.md",
     "elinor ostrom.md",
     "los bienes comunes del conocimiento.md",
-    "2021-05-15.md",
     "agora ctzn.md",
     "atjson.md",
-    "traficantes de sueños.md",
-    "matrix.md"
+    "traficantes de sueños.md"
   ]
 }
