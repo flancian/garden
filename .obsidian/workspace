@@ -10,7 +10,7 @@
           {
             "id": "a62c85b61702bc95",
             "type": "split",
-            "dimension": 33.020763563295375,
+            "dimension": 22.949169602415704,
             "children": [
               {
                 "id": "e86f155c4139117c",
@@ -42,7 +42,7 @@
           {
             "id": "fd548028e4ad4efd",
             "type": "leaf",
-            "dimension": 6.69792364367046,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -54,7 +54,7 @@
           {
             "id": "e3586212a52b0b8f",
             "type": "leaf",
-            "dimension": 6.69792364367046,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,9 +64,21 @@
             }
           },
           {
+            "id": "ae59c49b3be42d7f",
+            "type": "leaf",
+            "dimension": 16.65827881227982,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "los bienes comunes del conocimiento.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 13.39584728734092,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -78,7 +90,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 13.39584728734092,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -90,7 +102,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 13.39584728734092,
+            "dimension": 10.065425264217414,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -120,7 +132,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 13.39584728734092,
+            "dimension": 10.065425264217414,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "traficantes de sueños.md",
+                "file": "los bienes comunes del conocimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "traficantes de sueños.md"
+                "file": "los bienes comunes del conocimiento.md"
               }
             }
           },
@@ -271,8 +283,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3586212a52b0b8f",
+  "active": "ae59c49b3be42d7f",
   "lastOpenFiles": [
+    "los bienes comunes del conocimiento.md",
+    "atjson.md",
     "traficantes de sueños.md",
     "2021-05-15.md",
     "matrix.md",
@@ -280,8 +294,6 @@
     "hiroshi yoshimura.md",
     "poll.md",
     "ervin nyiregyhazi.md",
-    "2012-05-27.md",
-    "tools for thought.md",
-    "green.md"
+    "2012-05-27.md"
   ]
 }
