@@ -34,11 +34,23 @@
           {
             "id": "a37e4766bb16766e",
             "type": "leaf",
-            "dimension": 14.224751066856332,
+            "dimension": 7.112375533428166,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f077438b20b25285",
+            "type": "leaf",
+            "dimension": 7.112375533428166,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "i3 resurrect.md",
                 "mode": "source"
               }
             }
@@ -236,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "i3 resurrect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-16.md"
+                "file": "i3 resurrect.md"
               }
             }
           },
@@ -286,8 +298,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a37e4766bb16766e",
+  "active": "f077438b20b25285",
   "lastOpenFiles": [
+    "i3 resurrect.md",
     "2021-05-16.md",
     "knowledge commons.md",
     "2021-05-15.md",
@@ -296,7 +309,6 @@
     "obsidian plugins.md",
     "breathe.md",
     "atjson.md",
-    "yoga over the internet.md",
-    "los bienes comunes del conocimiento.md"
+    "yoga over the internet.md"
   ]
 }
