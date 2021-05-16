@@ -10,8 +10,7 @@ After=network.target
 User=agora
 Group=agora
 WorkingDirectory=/home/agora/agora-server
-Environment="PATH=/home/agora/agora-server/venv/bin"
-Environment="FLASK_ENV=production"
+Environment="PATH=/home/agora/agora-server/venv/bin" "FLASK_ENV=production" "AGORA_CONFIG=ProductionConfig"
 ExecStart=/home/agora/agora-server/venv/bin/uwsgi --ini prod.ini
 
 [Install]
