@@ -2,4 +2,7 @@
 	- paso 1: abrir una cuenta en [[github]]: https://github.com
 	- paso 2: bajar e instalar [[obsidian]]: https://obsidian.md
 	- paso 3: bajar e instalar [[git]].
-		- en [[max o]]
+		- https://git-scm.com/downloads tiene binarios
+		- en [[mac os]] ya debería estar instalado
+		- en [[linux]] puede instalarse con `apt-get install git` en ubuntu y debian
+		- en windows: https://git-scm.com/downloads
