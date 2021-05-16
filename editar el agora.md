@@ -1,8 +1,9 @@
 - estas son instrucciones para pasar a formar parte de este ágora como un usuario 'completo', es decir, uno que puede voluntariar sus notas a diversos [[contextos]] representados por sus [[nodos]].
-	- paso 1: abrir una cuenta en [[github]]: https://github.com
-	- paso 2: bajar e instalar [[obsidian]]: https://obsidian.md
+	- paso 1: bajar e instalar [[obsidian]]: https://obsidian.md
+		- una vez instalado, creá un 'vault' -- es como un repositorio de notas. después de esto ya podés tomar notas; el resto de los pasos
+	- paso 2: abrir una cuenta en [[github]]: https://github.com
 	- paso 3: bajar e instalar [[git]].
-		- https://git-scm.com/downloads tiene binarios
+		- https://git-scm.com/downloads tiene paquetes
 		- en [[mac os]] ya debería estar instalado
 		- en [[linux]] puede instalarse con `apt-get install git` en ubuntu y debian
-		- en windows: https://git-scm.com/downloads
+		- en windows bajar e instalar de la dirección de arriba
