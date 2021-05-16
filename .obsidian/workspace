@@ -10,7 +10,7 @@
           {
             "id": "0444216a0f31d5d1",
             "type": "leaf",
-            "dimension": 10.75268817204301,
+            "dimension": 9.74184120798831,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "ae59c49b3be42d7f",
             "type": "leaf",
-            "dimension": 10.75268817204301,
+            "dimension": 9.74184120798831,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "a37e4766bb16766e",
             "type": "leaf",
-            "dimension": 10.75268817204301,
+            "dimension": 9.74184120798831,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,9 +44,21 @@
             }
           },
           {
+            "id": "d13a76af161803cb",
+            "type": "leaf",
+            "dimension": 14.953726254262056,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora ui.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "f077438b20b25285",
             "type": "leaf",
-            "dimension": 10.75268817204301,
+            "dimension": 9.74184120798831,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "539478cae79c9a74",
             "type": "split",
-            "dimension": 11.397849462365595,
+            "dimension": 9.74184120798831,
             "children": [
               {
                 "id": "37184e3a2df174a9",
@@ -88,7 +100,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 15.215053763440864,
+            "dimension": 9.74184120798831,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -118,7 +130,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.16129032258065,
+            "dimension": 11.885046273745738,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -148,7 +160,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 15.215053763440864,
+            "dimension": 14.710180224062347,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i3 resurrect.md",
+                "file": "agora ui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i3 resurrect.md"
+                "file": "agora ui.md"
               }
             }
           },
@@ -298,17 +310,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f077438b20b25285",
+  "active": "d13a76af161803cb",
   "lastOpenFiles": [
+    "agora ui.md",
+    "2021-05-16.md",
     "i3 resurrect.md",
     "tmux resurrect.md",
     "tmux continuum.md",
-    "2021-05-16.md",
     "knowledge commons.md",
     "2021-05-15.md",
     "syncthing.md",
     "understanding knowledge as a commons.md",
-    "obsidian plugins.md",
-    "breathe.md"
+    "obsidian plugins.md"
   ]
 }
