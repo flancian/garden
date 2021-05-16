@@ -1,0 +1,2 @@
+- a [[tmux]] [[plugin]]
+	- [[go]] https://github.com/tmux-plugins/tmux-continuum
