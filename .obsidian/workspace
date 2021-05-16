@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 12.978585334198574,
+            "dimension": 14.593214155417733,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "8ef3a0632e8bfc86",
             "type": "leaf",
-            "dimension": 11.064243997404285,
+            "dimension": 12.440715067493619,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,21 +50,9 @@
             }
           },
           {
-            "id": "30fcf492c48fbebe",
-            "type": "leaf",
-            "dimension": 11.064243997404285,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora feature requests.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 12.978585334198574,
+            "dimension": 14.593214155417733,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +64,7 @@
           {
             "id": "539478cae79c9a74",
             "type": "split",
-            "dimension": 12.978585334198574,
+            "dimension": 14.593214155417733,
             "children": [
               {
                 "id": "37184e3a2df174a9",
@@ -106,7 +94,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 12.978585334198574,
+            "dimension": 14.593214155417733,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -136,7 +124,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 12.978585334198574,
+            "dimension": 14.593214155417733,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -166,7 +154,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 12.978585334198574,
+            "dimension": 14.593214155417733,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -266,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora feature requests.md",
+                "file": "agora ui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora feature requests.md"
+                "file": "agora ui.md"
               }
             }
           },
@@ -316,11 +304,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30fcf492c48fbebe",
+  "active": "d13a76af161803cb",
   "lastOpenFiles": [
-    "agora feature requests.md",
-    "weekly.md",
     "agora ui.md",
+    "weekly.md",
+    "agora feature requests.md",
     "i3 resurrect.md",
     "2021-05-16.md",
     "tmux resurrect.md",
