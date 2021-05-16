@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 13.487669854051335,
+            "dimension": 15.43778801843318,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -38,30 +38,36 @@
             "direction": "vertical"
           },
           {
-            "id": "b10c458a123bbbd5",
-            "type": "leaf",
-            "dimension": 13.537996980372421,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-16.md",
-                "mode": "source"
+            "id": "4e628d64a62e528d",
+            "type": "split",
+            "dimension": 15.495391705069121,
+            "children": [
+              {
+                "id": "b10c458a123bbbd5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-05-16.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "bee07c28fd487f89",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "bee07c28fd487f89",
-            "type": "leaf",
-            "dimension": 12.632108706592854,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "353bbd731d4efa58",
             "type": "leaf",
-            "dimension": 14.695520885757423,
+            "dimension": 16.82027649769585,
             "state": {
               "type": "markdown",
               "state": {
@@ -73,7 +79,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 11.520737327188941,
             "state": {
               "type": "markdown",
               "state": {
@@ -85,7 +91,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 10.065425264217414,
+            "dimension": 11.520737327188941,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -115,7 +121,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 12.02818319073981,
+            "dimension": 13.767281105990785,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -145,7 +151,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 13.487669854051335,
+            "dimension": 15.43778801843318,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -246,6 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +268,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian git.md"
+              }
             }
           },
           {
@@ -293,10 +302,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bee07c28fd487f89",
+  "active": "353bbd731d4efa58",
   "lastOpenFiles": [
-    "editar el agora.md",
     "obsidian git.md",
+    "editar el agora.md",
     "push an existing repository to a new remote.md",
     "obsidian plugins.md",
     "agora ui.md",
