@@ -6,3 +6,6 @@
 	- [[paolo soleri]]
 		- [[arcosanti]]
 	- [[kenzo tange]]
+	
+
+![[arcology.jpg]]
