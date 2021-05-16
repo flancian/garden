@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 8.52514919011083,
+            "dimension": 15.384615384615385,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 8.52514919011083,
+            "dimension": 15.384615384615385,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "68f5fdb76f660833",
             "type": "leaf",
-            "dimension": 4.262574595055415,
+            "dimension": 7.6923076923076925,
             "state": {
               "type": "markdown",
               "state": {
@@ -62,69 +62,9 @@
             }
           },
           {
-            "id": "dee0518a63084c16",
-            "type": "leaf",
-            "dimension": 5.24296675191816,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-16.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "66b1dad45397eac4",
-            "type": "leaf",
-            "dimension": 5.24296675191816,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cannabis.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "79e8c4230f615e75",
-            "type": "leaf",
-            "dimension": 8.52514919011083,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arcologies.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "31038212dd5cef2b",
-            "type": "leaf",
-            "dimension": 8.52514919011083,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dust theory.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c5b0a10bd61fe4ed",
-            "type": "leaf",
-            "dimension": 8.52514919011083,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "understanding knowledge as a commons.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 8.52514919011083,
+            "dimension": 15.384615384615385,
             "state": {
               "type": "markdown",
               "state": {
@@ -134,21 +74,9 @@
             }
           },
           {
-            "id": "36be46ed854929a8",
-            "type": "leaf",
-            "dimension": 8.52514919011083,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora ctzn.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 8.52514919011083,
+            "dimension": 15.384615384615385,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -178,7 +106,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 8.52514919011083,
+            "dimension": 15.384615384615385,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -208,7 +136,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 8.52514919011083,
+            "dimension": 15.384615384615385,
             "children": [
               {
                 "id": "0d5997891e905142",
