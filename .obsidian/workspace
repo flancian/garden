@@ -54,11 +54,8 @@
             "type": "leaf",
             "dimension": 12.632108706592854,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "editar el agora.md",
-                "mode": "source"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -249,7 +246,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "editar el agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,9 +261,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "editar el agora.md"
-              }
+              "state": {}
             }
           },
           {
