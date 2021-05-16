@@ -1,0 +1,5 @@
+- a [[tool]]
+	- generates [[fractals]]
+	- `apt-get install xaos`
+	- as of @tod
+	-  `xaos -barnsley -autopilot`

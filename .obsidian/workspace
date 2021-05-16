@@ -52,11 +52,23 @@
           {
             "id": "c24ccc9a30293a94",
             "type": "leaf",
-            "dimension": 9.469696969696969,
+            "dimension": 4.734848484848484,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "2021-05-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b10c458a123bbbd5",
+            "type": "leaf",
+            "dimension": 4.734848484848484,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xaos.md",
                 "mode": "source"
               }
             }
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understanding knowledge as a commons.md",
+                "file": "xaos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "understanding knowledge as a commons.md"
+                "file": "xaos.md"
               }
             }
           },
@@ -328,17 +340,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5b0a10bd61fe4ed",
+  "active": "b10c458a123bbbd5",
   "lastOpenFiles": [
-    "understanding knowledge as a commons.md",
-    "2021-05-15.md",
+    "xaos.md",
     "2021-05-16.md",
+    "2021-05-15.md",
+    "understanding knowledge as a commons.md",
     "weekly.md",
     "agora ui.md",
     "agora feature requests.md",
     "i3 resurrect.md",
     "tmux resurrect.md",
-    "tmux continuum.md",
-    "knowledge commons.md"
+    "tmux continuum.md"
   ]
 }
