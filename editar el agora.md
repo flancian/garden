@@ -9,4 +9,6 @@
 		- en [[mac os]] ya debería estar instalado
 		- en [[linux]] puede instalarse con `apt-get install git` en ubuntu y debian
 		- en windows bajar e instalar de la dirección de arriba
-	- paso 4: seguir [[obsidian git]]
+	- paso 4: configurar un repositorio git en el directorio del vault de obsidian (pendiente)
+	- paso 5: instalar [[obsidian git]] para habilitar auto-backup en obsidian (pendiente)
+	- después de estos pasos, todos los cambios en obsidian deberían verse reflejados en el ágora dentro de un plazo de ~30 segundos en promedio.
