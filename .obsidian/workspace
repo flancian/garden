@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 9.195402298850574,
+            "dimension": 13.487669854051335,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 9.195402298850574,
+            "dimension": 13.537996980372421,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "bee07c28fd487f89",
             "type": "leaf",
-            "dimension": 8.620689655172415,
+            "dimension": 12.632108706592854,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +64,7 @@
           {
             "id": "353bbd731d4efa58",
             "type": "leaf",
-            "dimension": 4.310344827586207,
+            "dimension": 14.695520885757423,
             "state": {
               "type": "markdown",
               "state": {
@@ -74,57 +74,9 @@
             }
           },
           {
-            "id": "6331cc2419769fc5",
-            "type": "leaf",
-            "dimension": 4.310344827586207,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "af83d75298dd0d9d",
-            "type": "leaf",
-            "dimension": 9.195402298850574,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contextos.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "067b403cdcc726b4",
-            "type": "leaf",
-            "dimension": 9.195402298850574,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "experiment framework.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "198f721034286328",
-            "type": "leaf",
-            "dimension": 9.195402298850574,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "config py.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 9.195402298850574,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -136,7 +88,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 9.195402298850574,
+            "dimension": 10.065425264217414,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -166,7 +118,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 9.195402298850574,
+            "dimension": 12.02818319073981,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -196,7 +148,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 9.195402298850574,
+            "dimension": 13.487669854051335,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -297,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "editar el agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "editar el agora.md"
               }
             }
           },
@@ -347,17 +299,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6331cc2419769fc5",
+  "active": "bee07c28fd487f89",
   "lastOpenFiles": [
-    "obsidian.md",
-    "obsidian git.md",
     "editar el agora.md",
+    "obsidian git.md",
+    "push an existing repository to a new remote.md",
+    "obsidian plugins.md",
+    "agora ui.md",
+    "obsidian.md",
     "2021-05-16.md",
     "experiment framework.md",
     "contextos.md",
-    "contexts.md",
-    "nodos.md",
-    "config py.md",
-    "release process.md"
+    "contexts.md"
   ]
 }
