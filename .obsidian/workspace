@@ -40,11 +40,23 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 3.8461538461538463,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f40678b37d723ff1",
+            "type": "leaf",
+            "dimension": 3.8461538461538463,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the art of graceful reloading.md",
                 "mode": "source"
               }
             }
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "the art of graceful reloading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-16.md"
+                "file": "the art of graceful reloading.md"
               }
             }
           },
@@ -298,8 +310,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b10c458a123bbbd5",
+  "active": "f40678b37d723ff1",
   "lastOpenFiles": [
+    "the art of graceful reloading.md",
     "2021-05-16.md",
     "agora service.md",
     "agora ui.md",
@@ -308,7 +321,6 @@
     "arcology.md",
     "cannabis.md",
     "arcologies.md",
-    "kraftwerk 1.md",
-    "dust theory.md"
+    "kraftwerk 1.md"
   ]
 }
