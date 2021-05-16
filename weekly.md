@@ -4,5 +4,5 @@
 	- Review [[daily]], [[monthly]] for other scopes.
 	- [[pull]] [[weekly reviews]]
 	- [[pull]] [[agora feature requests]]
-	- Plan the next week, start a note named 'week N' where N is the output of `date +%U`
+	- Plan the next week, start a note named 'week N' where N is the output of `date +%U` (this command consider weeks as starting on Sunday)
 		- [[week 20]]
