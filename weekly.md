@@ -1,6 +1,6 @@
 # Weekly
 
 - A [[list]] of things I try to do every [[week]].
-- See also: [[daily]], [[monthly]].
-- [[pull]] [[weekly reviews]]
-
+	- Review [[daily]], [[monthly]] for other scopes.
+	- [[pull]] [[weekly reviews]]
+	- [[pull]] [[agora feature requests]]

@@ -8,45 +8,39 @@
         "type": "split",
         "children": [
           {
-            "id": "0444216a0f31d5d1",
-            "type": "leaf",
-            "dimension": 10.303967027305514,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "understanding knowledge as a commons.md",
-                "mode": "source"
+            "id": "90ec1eb033ec1a7c",
+            "type": "split",
+            "dimension": 12.978585334198574,
+            "children": [
+              {
+                "id": "ae59c49b3be42d7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "governing the commons.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "0444216a0f31d5d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "understanding knowledge as a commons.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "ae59c49b3be42d7f",
-            "type": "leaf",
-            "dimension": 10.303967027305514,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "governing the commons.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a37e4766bb16766e",
-            "type": "leaf",
-            "dimension": 10.303967027305514,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-16.md",
-                "mode": "source"
-              }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "8ef3a0632e8bfc86",
             "type": "leaf",
-            "dimension": 17.568263781555906,
+            "dimension": 11.064243997404285,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,9 +50,21 @@
             }
           },
           {
+            "id": "30fcf492c48fbebe",
+            "type": "leaf",
+            "dimension": 11.064243997404285,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora feature requests.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 10.303967027305514,
+            "dimension": 12.978585334198574,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +76,7 @@
           {
             "id": "539478cae79c9a74",
             "type": "split",
-            "dimension": 10.303967027305514,
+            "dimension": 12.978585334198574,
             "children": [
               {
                 "id": "37184e3a2df174a9",
@@ -100,7 +106,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 10.303967027305514,
+            "dimension": 12.978585334198574,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -130,7 +136,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 10.303967027305514,
+            "dimension": 12.978585334198574,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -160,7 +166,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 10.303967027305514,
+            "dimension": 12.978585334198574,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -260,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ui.md",
+                "file": "agora feature requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora ui.md"
+                "file": "agora feature requests.md"
               }
             }
           },
@@ -310,17 +316,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d13a76af161803cb",
+  "active": "30fcf492c48fbebe",
   "lastOpenFiles": [
+    "agora feature requests.md",
+    "weekly.md",
     "agora ui.md",
     "i3 resurrect.md",
-    "weekly.md",
     "2021-05-16.md",
     "tmux resurrect.md",
     "tmux continuum.md",
     "knowledge commons.md",
     "2021-05-15.md",
-    "syncthing.md",
-    "understanding knowledge as a commons.md"
+    "syncthing.md"
   ]
 }
