@@ -1,4 +1,3 @@
-- estas son instrucciones para pasar a formar parte de este ágora como un usuario 'completo', es decir, uno que voluntaria notas en diversos [[contextos]].
-	- paso 1: abrir una cuenta en https://github.com
-	- paso 2: crear un reposito
-	- paso 1: bajar e instalar obsidian.md
+- estas son instrucciones para pasar a formar parte de este ágora como un usuario 'completo', es decir, uno que puede voluntariar sus notas a diversos [[contextos]] representados por sus [[nodos]].
+	- paso 1: abrir una cuenta en [[github]]: https://github.com
+	- paso 2: bajar e instalar [[obsidian]]: https://obsidian.md
