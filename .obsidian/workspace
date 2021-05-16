@@ -52,11 +52,35 @@
           {
             "id": "bee07c28fd487f89",
             "type": "leaf",
-            "dimension": 17.24137931034483,
+            "dimension": 8.620689655172415,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "editar el agora.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "353bbd731d4efa58",
+            "type": "leaf",
+            "dimension": 4.310344827586207,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian git.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6331cc2419769fc5",
+            "type": "leaf",
+            "dimension": 4.310344827586207,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian.md",
                 "mode": "source"
               }
             }
@@ -273,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "editar el agora.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "editar el agora.md"
+                "file": "obsidian.md"
               }
             }
           },
@@ -323,8 +347,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bee07c28fd487f89",
+  "active": "6331cc2419769fc5",
   "lastOpenFiles": [
+    "obsidian.md",
+    "obsidian git.md",
     "editar el agora.md",
     "2021-05-16.md",
     "experiment framework.md",
@@ -332,8 +358,6 @@
     "contexts.md",
     "nodos.md",
     "config py.md",
-    "release process.md",
-    "free, fair and alive.md",
-    "the art of graceful reloading.md"
+    "release process.md"
   ]
 }
