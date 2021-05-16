@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 11.11111111111111,
+            "dimension": 11.111111111111109,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 11.11111111111111,
+            "dimension": 5.5555555555555545,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,9 +50,21 @@
             }
           },
           {
+            "id": "58e5a3d377c63403",
+            "type": "leaf",
+            "dimension": 5.5555555555555545,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arcology.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "31038212dd5cef2b",
             "type": "leaf",
-            "dimension": 11.11111111111111,
+            "dimension": 11.111111111111109,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +76,7 @@
           {
             "id": "c5b0a10bd61fe4ed",
             "type": "leaf",
-            "dimension": 11.11111111111111,
+            "dimension": 11.111111111111109,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +88,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 11.11111111111111,
+            "dimension": 11.111111111111109,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +100,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 11.11111111111111,
+            "dimension": 11.111111111111109,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +112,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 11.11111111111111,
+            "dimension": 11.111111111111109,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -130,7 +142,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 11.11111111111111,
+            "dimension": 11.111111111111109,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -160,7 +172,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 11.11111111111111,
+            "dimension": 11.111111111111109,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -260,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kraftwerk 1.md",
+                "file": "arcology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kraftwerk 1.md"
+                "file": "arcology.md"
               }
             }
           },
@@ -310,17 +322,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dc5619fc0398c10",
+  "active": "58e5a3d377c63403",
   "lastOpenFiles": [
+    "arcology.md",
+    "2021-05-16.md",
+    "agora ctzn.md",
+    "agora ui.md",
     "kraftwerk 1.md",
     "dust theory.md",
-    "2021-05-16.md",
     "dust universe theory.md",
     "xaos.md",
     "2021-05-15.md",
-    "understanding knowledge as a commons.md",
-    "weekly.md",
-    "agora ui.md",
-    "agora feature requests.md"
+    "understanding knowledge as a commons.md"
   ]
 }
