@@ -1,1 +1,9 @@
-- a [[list]] of threads worth picking up to improve the UI of the [[agora ser]]
+- a [[list]] of threads worth picking up to improve the UI of the [[agora]] reference implementation.
+	- [[css]]
+		- [[multi column layout]]
+			- [[karlicoss]] suggested this
+		- [[media queries]]
+			- 
+	- [[agora graphs]]
+		- add more colour
+		- make it so graphs show up in 'empty
