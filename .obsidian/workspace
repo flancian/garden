@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dust theory.md",
+                "file": "2021-05-16.md",
                 "mode": "source"
               }
             }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dust theory.md",
+                "file": "2021-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dust theory.md"
+                "file": "2021-05-16.md"
               }
             }
           },
@@ -342,9 +342,9 @@
   },
   "active": "b10c458a123bbbd5",
   "lastOpenFiles": [
+    "2021-05-16.md",
     "dust theory.md",
     "xaos.md",
-    "2021-05-16.md",
     "2021-05-15.md",
     "understanding knowledge as a commons.md",
     "weekly.md",
