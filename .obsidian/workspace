@@ -58,11 +58,23 @@
           {
             "id": "8996cafee18eabfd",
             "type": "leaf",
-            "dimension": 9.70873786407767,
+            "dimension": 4.854368932038835,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "tmux resurrect.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "5478b51c1a508555",
+            "type": "leaf",
+            "dimension": 4.854368932038835,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmux continuum.md",
                 "mode": "source"
               }
             }
@@ -130,7 +142,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 13.689320388349516,
+            "dimension": 13.689320388349518,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -260,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmux resurrect.md",
+                "file": "tmux continuum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmux resurrect.md"
+                "file": "tmux continuum.md"
               }
             }
           },
@@ -310,8 +322,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8996cafee18eabfd",
+  "active": "5478b51c1a508555",
   "lastOpenFiles": [
+    "tmux continuum.md",
     "tmux resurrect.md",
     "i3 resurrect.md",
     "2021-05-16.md",
@@ -320,7 +333,6 @@
     "syncthing.md",
     "understanding knowledge as a commons.md",
     "obsidian plugins.md",
-    "breathe.md",
-    "atjson.md"
+    "breathe.md"
   ]
 }
