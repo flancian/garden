@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 9.469696969696969,
+            "dimension": 9.447331128956069,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "8ef3a0632e8bfc86",
             "type": "leaf",
-            "dimension": 9.469696969696969,
+            "dimension": 9.447331128956069,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "c24ccc9a30293a94",
             "type": "leaf",
-            "dimension": 4.734848484848484,
+            "dimension": 9.447331128956069,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,11 +64,11 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 4.734848484848484,
+            "dimension": 14.265470004723666,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xaos.md",
+                "file": "dust theory.md",
                 "mode": "source"
               }
             }
@@ -76,7 +76,7 @@
           {
             "id": "c5b0a10bd61fe4ed",
             "type": "leaf",
-            "dimension": 19.176136363636363,
+            "dimension": 9.447331128956069,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +88,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 9.469696969696969,
+            "dimension": 9.447331128956069,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +100,7 @@
           {
             "id": "539478cae79c9a74",
             "type": "split",
-            "dimension": 9.469696969696969,
+            "dimension": 9.447331128956069,
             "children": [
               {
                 "id": "37184e3a2df174a9",
@@ -130,7 +130,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 9.469696969696969,
+            "dimension": 9.447331128956069,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -160,7 +160,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 10.274621212121213,
+            "dimension": 9.447331128956069,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -190,7 +190,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 13.731060606060606,
+            "dimension": 10.155880963627775,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xaos.md",
+                "file": "dust theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xaos.md"
+                "file": "dust theory.md"
               }
             }
           },
@@ -342,6 +342,7 @@
   },
   "active": "b10c458a123bbbd5",
   "lastOpenFiles": [
+    "dust theory.md",
     "xaos.md",
     "2021-05-16.md",
     "2021-05-15.md",
@@ -350,7 +351,6 @@
     "agora ui.md",
     "agora feature requests.md",
     "i3 resurrect.md",
-    "tmux resurrect.md",
-    "tmux continuum.md"
+    "tmux resurrect.md"
   ]
 }
