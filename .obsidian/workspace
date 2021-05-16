@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 15.384615384615385,
+            "dimension": 12.68243583291394,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,43 +40,7 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 3.8461538461538463,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-16.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f40678b37d723ff1",
-            "type": "leaf",
-            "dimension": 3.8461538461538463,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the art of graceful reloading.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ea9bbb736723e3ad",
-            "type": "leaf",
-            "dimension": 7.6923076923076925,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora service.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "68f5fdb76f660833",
-            "type": "leaf",
-            "dimension": 3.8461538461538463,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,11 +52,23 @@
           {
             "id": "067b403cdcc726b4",
             "type": "leaf",
-            "dimension": 3.8461538461538463,
+            "dimension": 9.788626069451434,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "release process.md",
+                "file": "experiment framework.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "198f721034286328",
+            "type": "leaf",
+            "dimension": 9.788626069451434,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "config py.md",
                 "mode": "source"
               }
             }
@@ -100,7 +76,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 15.384615384615385,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -112,7 +88,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 15.384615384615385,
+            "dimension": 11.222949169602416,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -142,7 +118,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.384615384615385,
+            "dimension": 18.218419728233517,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -172,7 +148,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 15.384615384615385,
+            "dimension": 18.16809260191243,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -272,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "release process.md",
+                "file": "config py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "release process.md"
+                "file": "config py.md"
               }
             }
           },
@@ -322,8 +298,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "067b403cdcc726b4",
+  "active": "198f721034286328",
   "lastOpenFiles": [
+    "config py.md",
+    "experiment framework.md",
     "release process.md",
     "2021-05-16.md",
     "free, fair and alive.md",
@@ -331,8 +309,6 @@
     "agora service.md",
     "agora ui.md",
     "agora ctzn.md",
-    "arcology.md",
-    "cannabis.md",
-    "arcologies.md"
+    "arcology.md"
   ]
 }
