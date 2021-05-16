@@ -86,34 +86,16 @@
             }
           },
           {
-            "id": "539478cae79c9a74",
-            "type": "split",
+            "id": "36be46ed854929a8",
+            "type": "leaf",
             "dimension": 11.11111111111111,
-            "children": [
-              {
-                "id": "37184e3a2df174a9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "yoga over the internet.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "36be46ed854929a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora ctzn.md",
-                    "mode": "source"
-                  }
-                }
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora ctzn.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
             "id": "ecc917675c91e32d",
@@ -278,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dust theory.md",
+                "file": "kraftwerk 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dust theory.md"
+                "file": "kraftwerk 1.md"
               }
             }
           },
@@ -328,8 +310,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31038212dd5cef2b",
+  "active": "5dc5619fc0398c10",
   "lastOpenFiles": [
+    "kraftwerk 1.md",
     "dust theory.md",
     "2021-05-16.md",
     "dust universe theory.md",
@@ -338,7 +321,6 @@
     "understanding knowledge as a commons.md",
     "weekly.md",
     "agora ui.md",
-    "agora feature requests.md",
-    "i3 resurrect.md"
+    "agora feature requests.md"
   ]
 }
