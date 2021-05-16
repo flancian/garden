@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "free, fair and alive.md",
+                "file": "2021-05-16.md",
                 "mode": "source"
               }
             }
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the art of graceful reloading.md",
+                "file": "2021-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the art of graceful reloading.md"
+                "file": "2021-05-16.md"
               }
             }
           },
@@ -310,14 +310,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f40678b37d723ff1",
+  "active": "68f5fdb76f660833",
   "lastOpenFiles": [
-    "the art of graceful reloading.md",
     "2021-05-16.md",
+    "free, fair and alive.md",
+    "the art of graceful reloading.md",
     "agora service.md",
     "agora ui.md",
     "agora ctzn.md",
-    "free, fair and alive.md",
     "arcology.md",
     "cannabis.md",
     "arcologies.md",
