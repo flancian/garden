@@ -7,5 +7,5 @@
 		- [[arcosanti]]
 	- [[kenzo tange]]
 	
-
+https://twitter.com/flancian/status/1393939171958476803
 ![[arcology.jpg]]
