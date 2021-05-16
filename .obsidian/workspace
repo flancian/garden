@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 11.666909727285985,
+            "dimension": 11.666909727285987,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,11 +40,23 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 11.666909727285985,
+            "dimension": 5.833454863642993,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "bee07c28fd487f89",
+            "type": "leaf",
+            "dimension": 5.833454863642993,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "editar el agora.md",
                 "mode": "source"
               }
             }
@@ -64,7 +76,7 @@
           {
             "id": "067b403cdcc726b4",
             "type": "leaf",
-            "dimension": 11.666909727285985,
+            "dimension": 11.666909727285987,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +88,7 @@
           {
             "id": "198f721034286328",
             "type": "leaf",
-            "dimension": 11.666909727285985,
+            "dimension": 11.666909727285987,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +100,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 11.666909727285985,
+            "dimension": 11.666909727285987,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +112,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 11.666909727285985,
+            "dimension": 11.666909727285987,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -130,7 +142,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 11.666909727285985,
+            "dimension": 11.666909727285987,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -160,7 +172,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 11.666909727285985,
+            "dimension": 11.666909727285987,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -261,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contextos.md",
+                "file": "editar el agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contextos.md"
+                "file": "editar el agora.md"
               }
             }
           },
@@ -311,15 +323,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af83d75298dd0d9d",
+  "active": "bee07c28fd487f89",
   "lastOpenFiles": [
+    "editar el agora.md",
+    "2021-05-16.md",
+    "experiment framework.md",
     "contextos.md",
     "contexts.md",
-    "editar el agora.md",
     "nodos.md",
-    "2021-05-16.md",
     "config py.md",
-    "experiment framework.md",
     "release process.md",
     "free, fair and alive.md",
     "the art of graceful reloading.md"
