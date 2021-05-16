@@ -40,11 +40,23 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 5.032712632108707,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "af83d75298dd0d9d",
+            "type": "leaf",
+            "dimension": 5.032712632108707,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "editar el agora.md",
                 "mode": "source"
               }
             }
@@ -228,7 +240,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -248,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "editar el agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-16.md"
+                "file": "editar el agora.md"
               }
             }
           },
@@ -298,8 +311,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b10c458a123bbbd5",
+  "active": "af83d75298dd0d9d",
   "lastOpenFiles": [
+    "editar el agora.md",
     "2021-05-16.md",
     "config py.md",
     "experiment framework.md",
@@ -308,7 +322,6 @@
     "the art of graceful reloading.md",
     "agora service.md",
     "agora ui.md",
-    "agora ctzn.md",
-    "arcology.md"
+    "agora ctzn.md"
   ]
 }
