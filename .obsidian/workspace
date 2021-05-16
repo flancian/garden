@@ -40,11 +40,23 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 15.384615384615385,
+            "dimension": 7.6923076923076925,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora ui.md",
+                "file": "2021-05-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ea9bbb736723e3ad",
+            "type": "leaf",
+            "dimension": 7.6923076923076925,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora service.md",
                 "mode": "source"
               }
             }
@@ -236,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ui.md",
+                "file": "agora service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora ui.md"
+                "file": "agora service.md"
               }
             }
           },
@@ -286,17 +298,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d13a76af161803cb",
+  "active": "ea9bbb736723e3ad",
   "lastOpenFiles": [
+    "agora service.md",
+    "2021-05-16.md",
     "agora ui.md",
     "agora ctzn.md",
-    "2021-05-16.md",
     "free, fair and alive.md",
     "arcology.md",
     "cannabis.md",
     "arcologies.md",
     "kraftwerk 1.md",
-    "dust theory.md",
-    "dust universe theory.md"
+    "dust theory.md"
   ]
 }
