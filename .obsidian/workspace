@@ -8,21 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "ae59c49b3be42d7f",
-            "type": "leaf",
-            "dimension": 11.07419712070875,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "governing the commons.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "0444216a0f31d5d1",
             "type": "leaf",
-            "dimension": 11.07419712070875,
+            "dimension": 14.224751066856332,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,9 +20,21 @@
             }
           },
           {
+            "id": "ae59c49b3be42d7f",
+            "type": "leaf",
+            "dimension": 14.224751066856332,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "governing the commons.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "a37e4766bb16766e",
             "type": "leaf",
-            "dimension": 11.07419712070875,
+            "dimension": 14.224751066856332,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,21 +44,9 @@
             }
           },
           {
-            "id": "ec6cb93f833f0a75",
-            "type": "leaf",
-            "dimension": 11.07419712070875,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian plugins.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "539478cae79c9a74",
             "type": "split",
-            "dimension": 11.406423034330011,
+            "dimension": 14.651493598862022,
             "children": [
               {
                 "id": "37184e3a2df174a9",
@@ -86,21 +74,9 @@
             "direction": "vertical"
           },
           {
-            "id": "4daccc28de60a30a",
-            "type": "leaf",
-            "dimension": 11.07419712070875,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-15.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0c8078359a6780a3",
+            "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 11.07419712070875,
+            "dimension": 14.224751066856332,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -114,12 +90,12 @@
                 }
               },
               {
-                "id": "411fcbb7f1362a13",
+                "id": "ec6cb93f833f0a75",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "knowledge commons.md",
+                    "file": "obsidian plugins.md",
                     "mode": "source"
                   }
                 }
@@ -130,7 +106,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 11.07419712070875,
+            "dimension": 14.224751066856332,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -160,7 +136,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 11.07419712070875,
+            "dimension": 14.224751066856332,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -313,12 +289,12 @@
   "active": "a37e4766bb16766e",
   "lastOpenFiles": [
     "2021-05-16.md",
-    "syncthing.md",
+    "knowledge commons.md",
     "2021-05-15.md",
+    "syncthing.md",
     "understanding knowledge as a commons.md",
     "obsidian plugins.md",
     "breathe.md",
-    "knowledge commons.md",
     "atjson.md",
     "yoga over the internet.md",
     "los bienes comunes del conocimiento.md"
