@@ -8,4 +8,6 @@
 	- [[agora graphs]]
 		- add more colour
 		- make it so graphs show up in 'empty' nodes, as they might have backlinks
-	- support embeds (e.g. obsidian attachments)
+	- support embeds (e.g. obsidian attachments) like the one precisely below :)
+
+![[Pasted image 20210516171838.png]]
