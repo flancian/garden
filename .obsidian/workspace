@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "58e5a3d377c63403",
             "type": "leaf",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +64,7 @@
           {
             "id": "dee0518a63084c16",
             "type": "leaf",
-            "dimension": 10.057236304170074,
+            "dimension": 5.028618152085035,
             "state": {
               "type": "markdown",
               "state": {
@@ -74,9 +74,21 @@
             }
           },
           {
+            "id": "66b1dad45397eac4",
+            "type": "leaf",
+            "dimension": 5.028618152085035,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cannabis.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "79e8c4230f615e75",
             "type": "leaf",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +100,7 @@
           {
             "id": "31038212dd5cef2b",
             "type": "leaf",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +112,7 @@
           {
             "id": "c5b0a10bd61fe4ed",
             "type": "leaf",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "state": {
               "type": "markdown",
               "state": {
@@ -112,7 +124,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "state": {
               "type": "markdown",
               "state": {
@@ -124,7 +136,7 @@
           {
             "id": "36be46ed854929a8",
             "type": "leaf",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "state": {
               "type": "markdown",
               "state": {
@@ -136,7 +148,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -166,7 +178,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -196,7 +208,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 8.176614881439084,
+            "dimension": 8.176614881439082,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -296,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "cannabis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-16.md"
+                "file": "cannabis.md"
               }
             }
           },
@@ -346,8 +358,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dee0518a63084c16",
+  "active": "66b1dad45397eac4",
   "lastOpenFiles": [
+    "cannabis.md",
     "2021-05-16.md",
     "arcologies.md",
     "arcology.md",
@@ -356,7 +369,6 @@
     "kraftwerk 1.md",
     "dust theory.md",
     "dust universe theory.md",
-    "xaos.md",
-    "2021-05-15.md"
+    "xaos.md"
   ]
 }
