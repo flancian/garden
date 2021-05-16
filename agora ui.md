@@ -4,6 +4,7 @@
 			- [[karlicoss]] suggested this
 		- [[media queries]]
 			- mobile/desktop css split
+			- [[karlicoss]] https://beepb00p.xyz/exobrain/exobrain.css
 	- [[agora graphs]]
 		- add more colour
 		- make it so graphs show up in 'empty' nodes, as they might have backlinks
