@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 9.447331128956069,
+            "dimension": 11.11111111111111,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -38,37 +38,25 @@
             "direction": "vertical"
           },
           {
-            "id": "8ef3a0632e8bfc86",
-            "type": "leaf",
-            "dimension": 9.447331128956069,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-16.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c24ccc9a30293a94",
-            "type": "leaf",
-            "dimension": 9.447331128956069,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-16.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 14.265470004723666,
+            "dimension": 11.11111111111111,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "31038212dd5cef2b",
+            "type": "leaf",
+            "dimension": 11.11111111111111,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dust theory.md",
                 "mode": "source"
               }
             }
@@ -76,7 +64,7 @@
           {
             "id": "c5b0a10bd61fe4ed",
             "type": "leaf",
-            "dimension": 9.447331128956069,
+            "dimension": 11.11111111111111,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +76,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 9.447331128956069,
+            "dimension": 11.11111111111111,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +88,7 @@
           {
             "id": "539478cae79c9a74",
             "type": "split",
-            "dimension": 9.447331128956069,
+            "dimension": 11.11111111111111,
             "children": [
               {
                 "id": "37184e3a2df174a9",
@@ -130,7 +118,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 9.447331128956069,
+            "dimension": 11.11111111111111,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -160,7 +148,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 9.447331128956069,
+            "dimension": 11.11111111111111,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -190,7 +178,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 10.155880963627775,
+            "dimension": 11.11111111111111,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -290,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "dust theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-16.md"
+                "file": "dust theory.md"
               }
             }
           },
@@ -340,17 +328,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b10c458a123bbbd5",
+  "active": "31038212dd5cef2b",
   "lastOpenFiles": [
-    "2021-05-16.md",
     "dust theory.md",
+    "2021-05-16.md",
+    "dust universe theory.md",
     "xaos.md",
     "2021-05-15.md",
     "understanding knowledge as a commons.md",
     "weekly.md",
     "agora ui.md",
     "agora feature requests.md",
-    "i3 resurrect.md",
-    "tmux resurrect.md"
+    "i3 resurrect.md"
   ]
 }
