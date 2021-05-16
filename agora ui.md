@@ -3,7 +3,7 @@
 		- [[multi column layout]]
 			- [[karlicoss]] suggested this
 		- [[media queries]]
-			- 
+			- mobile/desktop css split
 	- [[agora graphs]]
 		- add more colour
-		- make it so graphs show up in 'empty
+		- make it so graphs show up in 'empty' nodes, as they might have backlinks
