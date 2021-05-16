@@ -34,11 +34,23 @@
           {
             "id": "a37e4766bb16766e",
             "type": "leaf",
-            "dimension": 9.74184120798831,
+            "dimension": 4.870920603994155,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8ef3a0632e8bfc86",
+            "type": "leaf",
+            "dimension": 4.870920603994155,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly.md",
                 "mode": "source"
               }
             }
@@ -260,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ui.md",
+                "file": "weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora ui.md"
+                "file": "weekly.md"
               }
             }
           },
@@ -310,17 +322,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d13a76af161803cb",
+  "active": "8ef3a0632e8bfc86",
   "lastOpenFiles": [
-    "agora ui.md",
+    "weekly.md",
     "2021-05-16.md",
+    "agora ui.md",
     "i3 resurrect.md",
     "tmux resurrect.md",
     "tmux continuum.md",
     "knowledge commons.md",
     "2021-05-15.md",
     "syncthing.md",
-    "understanding knowledge as a commons.md",
-    "obsidian plugins.md"
+    "understanding knowledge as a commons.md"
   ]
 }
