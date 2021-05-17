@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian git.md",
+                "file": "agora service.md",
                 "mode": "source"
               }
             }
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian git.md",
+                "file": "agora service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian git.md"
+                "file": "agora service.md"
               }
             }
           },
@@ -304,6 +304,7 @@
   },
   "active": "353bbd731d4efa58",
   "lastOpenFiles": [
+    "agora service.md",
     "obsidian git.md",
     "editar el agora.md",
     "push an existing repository to a new remote.md",
@@ -312,7 +313,6 @@
     "obsidian.md",
     "2021-05-16.md",
     "experiment framework.md",
-    "contextos.md",
-    "contexts.md"
+    "contextos.md"
   ]
 }
