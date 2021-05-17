@@ -30,6 +30,17 @@
             }
           },
           {
+            "id": "c7cd754d4fba25b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the hardy tree.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "4f70046df41319dc",
             "type": "leaf",
             "state": {
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-17.md",
+                "file": "the hardy tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-17.md"
+                "file": "the hardy tree.md"
               }
             }
           }
@@ -166,8 +177,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bebc57005f40d5b7",
+  "active": "c7cd754d4fba25b6",
   "lastOpenFiles": [
+    "the hardy tree.md",
     "2021-05-17.md",
     "2021-05-14.md",
     "2021-05-15.md",
@@ -176,7 +188,6 @@
     "ikiru.md",
     "nationstates.md",
     "nationhstates.md",
-    "yoga 17.md",
-    "2021-05-12.md"
+    "yoga 17.md"
   ]
 }
