@@ -1,0 +1,3 @@
+- a [[band]]
+	- actually a [[musician]], []
+	- [[bandcamp]] https://thehardytree.bandcamp.com/
