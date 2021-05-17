@@ -1,0 +1,3 @@
+- an [[album]]
+	- [[go]] https://thehardytree.bandcamp.com/album/through-passages-of-time
+	- [[spotify]] https://open.spotify.com/album/7LiqPtso7qKeFiuPUYJBAj
