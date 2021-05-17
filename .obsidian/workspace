@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-14.md",
+                "file": "2021-05-17.md",
                 "mode": "source"
               }
             }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-14.md",
+                "file": "2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-14.md"
+                "file": "2021-05-17.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "bebc57005f40d5b7",
   "lastOpenFiles": [
+    "2021-05-17.md",
     "2021-05-14.md",
     "2021-05-15.md",
     "2021-05-13.md",
@@ -176,7 +177,6 @@
     "nationstates.md",
     "nationhstates.md",
     "yoga 17.md",
-    "2021-05-12.md",
-    "patterning.md"
+    "2021-05-12.md"
   ]
 }
