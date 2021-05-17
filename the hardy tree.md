@@ -1,3 +1,3 @@
-- a [[band]]
-	- actually a [[musician]], []
+- an [[alter ego]]
+	- for [[musician]] [[frances castle]]
 	- [[bandcamp]] https://thehardytree.bandcamp.com/
