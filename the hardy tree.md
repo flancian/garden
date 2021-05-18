@@ -1,0 +1,4 @@
+- an [[alter ego]]
+	- for [[musician]] [[frances castle]] of [[clay pipe music]]
+	- [[bandcamp]] https://thehardytree.bandcamp.com/
+	- [[through passages of time]]
