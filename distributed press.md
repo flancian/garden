@@ -150,6 +150,7 @@
 							 - [[flancian]] what do you really need for features -- usually you'd want to have the minimum minimum schema requirements?
 							 - [[paul frazee]]
 							 	- [[web mentions]]: exploring now
-								- 
+								- [[unwalled garden]]
+									- difference between it and [[ctzn network]]
 		
 	
