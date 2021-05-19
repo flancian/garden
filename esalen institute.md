@@ -1,0 +1,2 @@
+- [[go]] https://www.huffpost.com/entry/the-esalen-institute-and-the-human-potential-movement-turn-50_b_1536989?slideshow=true#gallery/5bb65031e4b0527153079698/0
+	- [[timothy l]]

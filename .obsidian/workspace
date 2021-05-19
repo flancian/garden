@@ -40,11 +40,23 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 10.271095838106145,
+            "dimension": 5.135547919053073,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wikilinks.md",
+                "file": "2021-05-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "71cd811d56086e13",
+            "type": "leaf",
+            "dimension": 5.135547919053073,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "esalen institute.md",
                 "mode": "source"
               }
             }
@@ -52,7 +64,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 15.273004963726615,
+            "dimension": 15.273004963726613,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +76,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 15.273004963726615,
+            "dimension": 15.273004963726613,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understanding knowledge as a commons.md",
+                "file": "esalen institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "understanding knowledge as a commons.md"
+                "file": "esalen institute.md"
               }
             }
           },
@@ -275,17 +287,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0444216a0f31d5d1",
+  "active": "71cd811d56086e13",
   "lastOpenFiles": [
-    "understanding knowledge as a commons.md",
+    "esalen institute.md",
+    "2021-05-19.md",
     "wikilinks.md",
+    "understanding knowledge as a commons.md",
     "wikilink.md",
     "sutty.md",
     "cooperativa de diseño.md",
-    "2021-05-19.md",
     "2021-05-16.md",
     "agora ui.md",
-    "agora service.md",
-    "music.md"
+    "agora service.md"
   ]
 }
