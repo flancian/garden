@@ -40,11 +40,23 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 13.566084788029926,
+            "dimension": 6.783042394014963,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "distributed press.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "275939b25bb9e25b",
+            "type": "leaf",
+            "dimension": 6.783042394014963,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fauno.md",
                 "mode": "source"
               }
             }
@@ -261,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed press.md",
+                "file": "fauno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed press.md"
+                "file": "fauno.md"
               }
             }
           },
@@ -311,17 +323,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a56ec28d423896d",
+  "active": "275939b25bb9e25b",
   "lastOpenFiles": [
+    "fauno.md",
     "distributed press.md",
+    "do.md",
     "ctzn network.md",
     "secure scuttlebutt.md",
-    "2021-05-19.md",
     "i annotate 2021.md",
-    "midnight run.md",
-    "google docs.md",
-    "i annotate.md",
-    "agora ui.md",
-    "do.md"
+    "atjson.md",
+    "trailmarks.md",
+    "2021-05-19.md",
+    "midnight run.md"
   ]
 }
