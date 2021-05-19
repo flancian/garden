@@ -40,11 +40,23 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 5.782175006082233,
+            "dimension": 2.8910875030411165,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2040eeb2ec7521ef",
+            "type": "leaf",
+            "dimension": 2.8910875030411165,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "google docs.md",
                 "mode": "source"
               }
             }
@@ -237,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-19.md",
+                "file": "google docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-19.md"
+                "file": "google docs.md"
               }
             }
           },
@@ -287,8 +299,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a56ec28d423896d",
+  "active": "2040eeb2ec7521ef",
   "lastOpenFiles": [
+    "google docs.md",
     "2021-05-19.md",
     "do.md",
     "governing the commons.md",
@@ -297,7 +310,6 @@
     "esalen institute.md",
     "wikilinks.md",
     "understanding knowledge as a commons.md",
-    "wikilink.md",
-    "sutty.md"
+    "wikilink.md"
   ]
 }
