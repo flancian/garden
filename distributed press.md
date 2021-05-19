@@ -167,6 +167,9 @@
 							- [[webmentions]]: fascist websites pinging you
 							- people don't have time to moderate
 						- [[ben]] same thing is seen in wordpress
-							- 
+						- [[fauno]] web mentions and how to keep bad parties out
+						- [[flancian]] how will moderation work in [[ctzn network]]? 
+							- [[paul]] would like to have a great answer :)
+							- [[recput]]
 		
 	

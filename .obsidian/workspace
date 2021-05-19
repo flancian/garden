@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secure scuttlebutt.md",
+                "file": "distributed press.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secure scuttlebutt.md"
+                "file": "distributed press.md"
               }
             }
           },
@@ -311,12 +311,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7e4518cf66c39b1",
+  "active": "8a56ec28d423896d",
   "lastOpenFiles": [
-    "secure scuttlebutt.md",
     "distributed press.md",
-    "2021-05-19.md",
     "ctzn network.md",
+    "secure scuttlebutt.md",
+    "2021-05-19.md",
     "i annotate 2021.md",
     "midnight run.md",
     "google docs.md",
