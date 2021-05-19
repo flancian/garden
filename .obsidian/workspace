@@ -76,11 +76,23 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 12.975427783634743,
+            "dimension": 6.487713891817371,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora ui.md",
+                "file": "2021-05-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "71bcc08f992c1744",
+            "type": "leaf",
+            "dimension": 6.487713891817371,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "i annotate 2021.md",
                 "mode": "source"
               }
             }
@@ -249,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google docs.md",
+                "file": "i annotate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google docs.md"
+                "file": "i annotate 2021.md"
               }
             }
           },
@@ -299,17 +311,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2040eeb2ec7521ef",
+  "active": "71bcc08f992c1744",
   "lastOpenFiles": [
-    "google docs.md",
+    "i annotate 2021.md",
     "2021-05-19.md",
+    "agora ui.md",
+    "google docs.md",
     "do.md",
     "governing the commons.md",
     "unwalled garden.md",
     "mastery.md",
     "esalen institute.md",
-    "wikilinks.md",
-    "understanding knowledge as a commons.md",
-    "wikilink.md"
+    "wikilinks.md"
   ]
 }
