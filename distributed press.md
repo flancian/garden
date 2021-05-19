@@ -123,6 +123,11 @@
 		    	- reached https://ctzn.network/comment
 				- scuttlebutt: did not impose *any* schema obligations; disastrous approach
 				- [[unwalled gardens]]: enforced types
-				- [[ctzn network]]
+				- [[ctzn network]]: urls identifying the schemas with a machine readable format
+					- rejects messages that don't comply with the schema
+					- believe in this approach
+						- if you don't, you end up in the tragedy of the commons or failure in collective action
+						- compatibility with the schema dictates everything you can do
+						- you have a feature, you add
 		
 	
