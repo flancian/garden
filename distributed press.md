@@ -163,6 +163,8 @@
 							- the [[comment]] writer could own it
 								- this seems safer?
 						- [[fauno]]
-							- if we allow for comments, who is responsible for 
+							- if we allow for comments, who is responsible for keeping them? hateful comments/censorship/etc
+							- webmentions: fascist websites pinging you
+							- people don't have time to moderate, which 
 		
 	
