@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sutty.md",
+                "file": "wikilinks.md",
                 "mode": "source"
               }
             }
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sutty.md",
+                "file": "wikilinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sutty.md"
+                "file": "wikilinks.md"
               }
             }
           },
@@ -277,6 +277,8 @@
   },
   "active": "8a56ec28d423896d",
   "lastOpenFiles": [
+    "wikilinks.md",
+    "wikilink.md",
     "sutty.md",
     "cooperativa de diseño.md",
     "2021-05-19.md",
@@ -284,8 +286,6 @@
     "agora ui.md",
     "agora service.md",
     "music.md",
-    "obsidian git.md",
-    "editar el agora.md",
-    "push an existing repository to a new remote.md"
+    "obsidian git.md"
   ]
 }
