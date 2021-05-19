@@ -36,6 +36,8 @@
 			- in the case of social media, you're making your own twitter
 			- how do you get economies of scale worked in there?
 				- [[filecoin]]?
-				- g
+				- [[gateway model]]
+					- ipfs gateway: there is more than one of them
+				- if your mesh containes
 		
 	
