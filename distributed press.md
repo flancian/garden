@@ -24,5 +24,11 @@
 			- background in distributed social systems, worked on (sp?) status, before mastodon
 		- [[fauno]]
 			- (mic incoming) :)
+- [[paul frazee]] 
+	- [[distributed vs federated]]
+		- a bit stuck here currently
+		- the way to conceptualize
+		- [[federated]] ~ [[mastodon]]
+		- [[ipfs]]
 		
 	
