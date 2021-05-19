@@ -67,5 +67,7 @@
 	- content feed + social graph as a distributed publication and social network
 	- people can store their content feed and social graph anywhere
 	- user control their data
+	- search
+	- separating storage and aggregation
 		
 	
