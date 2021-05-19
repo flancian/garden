@@ -175,5 +175,6 @@
 									- this lets you scale the work
 									- reputational graph approach
 								- [[subjective moderation]]
+									- elected moderators
 		
 	
