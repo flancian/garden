@@ -111,6 +111,7 @@
 					- [[mdx]]
 		- [[ben]] decided to first publish/store things as html
 			- most people want to have something ready-to-publish
-			- but a consumption pattern arises: you copy/paste whole arti
+			- but a consumption pattern arises: you copy/paste whole articles
+			- 
 		
 	
