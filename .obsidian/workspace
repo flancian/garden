@@ -40,11 +40,35 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 15.769770706598035,
+            "dimension": 7.88488535329902,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "distributed press.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c071acc4ccfb8dc9",
+            "type": "leaf",
+            "dimension": 3.94244267664951,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed press.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "4ea066c727e01a43",
+            "type": "leaf",
+            "dimension": 3.94244267664951,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed press 2021-05-19.md",
                 "mode": "source"
               }
             }
@@ -273,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed press.md",
+                "file": "distributed press 2021-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed press.md"
+                "file": "distributed press 2021-05-19.md"
               }
             }
           },
@@ -323,17 +347,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a56ec28d423896d",
+  "active": "4ea066c727e01a43",
   "lastOpenFiles": [
+    "distributed press 2021-05-19.md",
     "distributed press.md",
+    "distributed press 2019.md",
     "fauno.md",
     "do.md",
     "ctzn network.md",
     "secure scuttlebutt.md",
     "i annotate 2021.md",
     "atjson.md",
-    "trailmarks.md",
-    "2021-05-19.md",
-    "midnight run.md"
+    "trailmarks.md"
   ]
 }
