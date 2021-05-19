@@ -120,6 +120,9 @@
 			- orthogonal to schemas
 				- fighting with schemas since [[secure scuttlebutt]]
 				- pissed off [[rdf]] people
-		    	- reached h
+		    	- reached https://ctzn.network/comment
+				- scuttlebutt: did not impose *any* schema obligations; disastrous approach
+				- [[unwalled gardens]]: enforced types
+				- [[ctzn network]]
 		
 	
