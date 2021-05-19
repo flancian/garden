@@ -47,5 +47,7 @@
 			- [[ben]]
 				- less well maintained gateways become issues for user experience
 				- censorship
+				- [[guo]] yes, gateways become a centralized point
+					- gateway should be a backup
 		
 	
