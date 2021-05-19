@@ -1,2 +1,5 @@
 - a [[person]]
-	- likes 
+	- [[pirate]]
+		- likes [[monkey island]]
+	- [[go]] https://fauno.endefensadelsl.org/
+		- [[en]] https://fauno.endefensadelsl.org/en/
