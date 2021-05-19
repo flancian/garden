@@ -104,6 +104,11 @@
 		- [[guo]]
 			- choice of markdown vs html
 			- chose html over markdown, it supports arbitrary media
-			- 
+			- [[encryption]]
+				- exclusive content
+				- hard to define protocol-level encryption standard
+				- bake the encryption message into the html
+					- [[mdx]]
+		- [[ben]]
 		
 	
