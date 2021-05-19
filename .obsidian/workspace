@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wikilinks.md",
+                "file": "understanding knowledge as a commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wikilinks.md"
+                "file": "understanding knowledge as a commons.md"
               }
             }
           },
@@ -275,8 +275,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a56ec28d423896d",
+  "active": "0444216a0f31d5d1",
   "lastOpenFiles": [
+    "understanding knowledge as a commons.md",
     "wikilinks.md",
     "wikilink.md",
     "sutty.md",
@@ -285,7 +286,6 @@
     "2021-05-16.md",
     "agora ui.md",
     "agora service.md",
-    "music.md",
-    "obsidian git.md"
+    "music.md"
   ]
 }
