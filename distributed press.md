@@ -29,6 +29,9 @@
 		- a bit stuck here currently
 		- the way to conceptualize
 		- [[federated]] ~ [[mastodon]]
-		- [[ipfs]]
+		- [[distributed]] ~ [[ipfs]] mesh
+			- completely open system, if you're in the mesh you're in
+			- technologically, user experience wise is great
+			- trying to figure out how to deal with the [[cost]] structure
 		
 	
