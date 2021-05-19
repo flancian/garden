@@ -164,7 +164,8 @@
 								- this seems safer?
 						- [[fauno]]
 							- if we allow for comments, who is responsible for keeping them? hateful comments/censorship/etc
-							- webmentions: fascist websites pinging you
-							- people don't have time to moderate, which 
+							- [[webmentions]]: fascist websites pinging you
+							- people don't have time to moderate
+						- [[ben]] same thing is seen in wordpress
 		
 	
