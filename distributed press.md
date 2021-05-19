@@ -81,6 +81,8 @@
 		- [[pubs]] were [[store and forward relays]]
 		- information would flow 100% on the basis of the social graph
 		- led to complexities; people could give you keys and still be unreachable
-	- - 
+- [[flancian]]
+	- [[paul]]
+		- how do you end up in a situation in which governance is required? 
 		
 	
