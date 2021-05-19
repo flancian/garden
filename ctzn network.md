@@ -1,1 +1,3 @@
-- [[go]] ctzn.network/
+- [[go]] https://ctzn.network
+	- [[schemas]] https://ctzn.network/schemas
+	- [[git]] https://github.com/bluelinklabs/ctzn
