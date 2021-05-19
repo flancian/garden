@@ -13,5 +13,8 @@
 			- [[beaker browser]]
 			- [[hypercore protocol]]
 				- [[ctzn]]
-				
+		- [[guo]]
+			- matters.news
+			- serving mostly chinese communities
+			- looking at [[ipfs]], [[hypercore]]
 	
