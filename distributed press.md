@@ -152,5 +152,6 @@
 							 	- [[web mentions]]: exploring now
 								- [[unwalled garden]]
 									- difference between it and [[ctzn network]]
+								- suppose you want to have the ability to have mentions in your comments
 		
 	
