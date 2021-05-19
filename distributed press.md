@@ -1,4 +1,6 @@
+- a [[publishing tool]]
+	- [[go]] https://distributed.press/
 - a [[set]] of [[talks]]
-	- [[go]] https://github.com/hyphacoop/distributed-press-organizing/issues/39
+	- [[github]] https://github.com/hyphacoop/distributed-press-organizing/issues/39
 	- organized by [[hypha]]
 	- [[pull]] [[distributed press 2021-05-19]]
