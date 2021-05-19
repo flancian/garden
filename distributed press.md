@@ -136,5 +136,9 @@
 								- you might end up spamming old clients
 								- [[fatal ambiguity]]
 								- once you see this, schemas start seeming risky to change
+								- you can do extension points, but would suggest against
+							- current approach:
+								- well defined schemas
+								- people can 
 		
 	
