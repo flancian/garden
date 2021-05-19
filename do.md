@@ -1,12 +1,8 @@
 # Do
 
-- my current [[intent]] is: implement [[experiment framework]] in [[agora server]]
-	- gate [[node count]] in `/nodes` on this, make it work on dev first
-	- [[sidetracked]] [[moa is broken]]
-	  - thankfully it was only my account and not all of them :) some issue with twitter. I need to look into this further but it's not urgent.
+- my current [[intent]] is: implement support for [[obsidian attachments]] in [[agora server]]
 - [[pomodoro]]
-  - configure [[monitoring]]. 
-    - [[estimate]]:
+  - configure [[monitoring]].
       - [ ] one pomodoro for moa
       - [ ] one pomodoro for anagora
   - do [[moa]]

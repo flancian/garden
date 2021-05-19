@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed press.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed press.md"
+                "file": "do.md"
               }
             }
           },
@@ -311,8 +311,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68655dfd854fce90",
+  "active": "51c9ae2c2de06ac1",
   "lastOpenFiles": [
+    "do.md",
     "distributed press.md",
     "anisina.md",
     "2021-05-19.md",
@@ -321,7 +322,6 @@
     "cognacore.md",
     "fauno.md",
     "distributed press 2021-05-19.md",
-    "distributed press 2019.md",
-    "do.md"
+    "distributed press 2019.md"
   ]
 }
