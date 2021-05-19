@@ -58,6 +58,7 @@
 						- didn't want to have to deal with spam
 						- ux killer: no notifications unless mutual follow
 							- [[aggregator]]
+					- try to bring in positive properties of the system
 				- [[flancian]]
 					- [[metcalfe's law]]
 		
