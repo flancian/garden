@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 21.590337191746347,
+            "dimension": 26.310947562097507,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 17.941620533467542,
+            "dimension": 10.93222937749157,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,13 +50,13 @@
             }
           },
           {
-            "id": "cb27f3ee03b82a20",
+            "id": "51c9ae2c2de06ac1",
             "type": "leaf",
-            "dimension": 17.941620533467542,
+            "dimension": 10.93222937749157,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mastery.md",
+                "file": "do.md",
                 "mode": "source"
               }
             }
@@ -64,7 +64,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 10.065425264217415,
+            "dimension": 12.266176019625881,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +76,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 10.065425264217415,
+            "dimension": 12.266176019625881,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -106,7 +106,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 10.065425264217415,
+            "dimension": 12.266176019625881,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -136,7 +136,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 12.330145948666335,
+            "dimension": 15.026065624041708,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mastery.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mastery.md"
+                "file": "do.md"
               }
             }
           },
@@ -287,17 +287,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb27f3ee03b82a20",
+  "active": "51c9ae2c2de06ac1",
   "lastOpenFiles": [
-    "mastery.md",
+    "do.md",
     "2021-05-19.md",
+    "mastery.md",
     "esalen institute.md",
     "wikilinks.md",
     "understanding knowledge as a commons.md",
     "wikilink.md",
     "sutty.md",
     "cooperativa de diseño.md",
-    "2021-05-16.md",
-    "agora ui.md"
+    "2021-05-16.md"
   ]
 }

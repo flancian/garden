@@ -2,7 +2,7 @@
 	- by [[george leonard]]
 		- [[1991]]
 	- [[aikido]] [[zen]]
-	- 
+	- [[wp]] https://en.wikipedia.org/wiki/George_Leonard
 - a [[book]]
 	- by [[robert greene]]
 		- [[2012]]
