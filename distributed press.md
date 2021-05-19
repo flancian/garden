@@ -147,6 +147,6 @@
 								- what it lacked, it seems, is versioning?
 								- how do you manage upgrades?
 							 - [[paul]] the problem is multiple clients controlled by different devs
-							 - [[flancian]] what do you really need for features -- usually you'd want to have
+							 - [[flancian]] what do you really need for features -- usually you'd want to have the minimm
 		
 	
