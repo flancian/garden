@@ -90,6 +90,6 @@
  		- [[ben]] aether (sp?) 
 			- distributed reddit
 			- distributed moderation
-			- 
+			- liquid democracy-like
 		
 	
