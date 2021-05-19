@@ -98,5 +98,6 @@
 				- aggregator censorship
 			- what happens when your computer ends up hosting hate speech?
 				- you can stop the flow in the mesh and that applies negative evolutionary pressure
+			- [[paul]] aether does [[default allow]], I do [[default deny]]
 		
 	
