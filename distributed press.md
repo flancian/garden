@@ -173,5 +173,7 @@
 								- [[reputation systems]]
 									- no one size fits all
 									- this lets you scale the work
+									- reputational graph approach
+								- [[subjective moderation]]
 		
 	
