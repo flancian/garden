@@ -139,6 +139,11 @@
 								- you can do extension points, but would suggest against
 							- current approach:
 								- well defined schemas
-								- people can 
+								- people can determine their own schemas
+								- control the [[ctzn network]] schemas
+								- can have extension tables
+							- [[ben]]
+								- feel like [[scuttlebutt]] has a schema, otherwise you couldn't have more than one client
+								- what it lacked, it seems, i
 		
 	
