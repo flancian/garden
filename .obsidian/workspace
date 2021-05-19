@@ -52,11 +52,23 @@
           {
             "id": "4b41bce00c78f0ad",
             "type": "leaf",
-            "dimension": 26.583541147132166,
+            "dimension": 13.291770573566081,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "distributed press.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f7e4518cf66c39b1",
+            "type": "leaf",
+            "dimension": 13.291770573566081,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secure scuttlebutt.md",
                 "mode": "source"
               }
             }
@@ -302,6 +314,7 @@
   "active": "4b41bce00c78f0ad",
   "lastOpenFiles": [
     "distributed press.md",
+    "secure scuttlebutt.md",
     "2021-05-19.md",
     "i annotate 2021.md",
     "midnight run.md",
@@ -309,7 +322,6 @@
     "i annotate.md",
     "agora ui.md",
     "do.md",
-    "governing the commons.md",
-    "unwalled garden.md"
+    "governing the commons.md"
   ]
 }
