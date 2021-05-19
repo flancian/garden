@@ -99,5 +99,11 @@
 			- what happens when your computer ends up hosting hate speech?
 				- you can stop the flow in the mesh and that applies negative evolutionary pressure
 			- [[paul]] aether does [[default allow]], I do [[default deny]]
+		- [[flancian]]
+			- minimum exchange format
+		- [[guo]]
+			- choice of markdown vs html
+			- chose html over markdown, it supports arbitrary media
+			- 
 		
 	
