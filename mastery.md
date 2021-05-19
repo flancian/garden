@@ -1,7 +1,9 @@
-- a [[book]].
+- a [[book]]
 	- by [[george leonard]]
+		- [[1991]]
 	- [[aikido]] [[zen]]
 	- 
-- a [[book]].
+- a [[book]]
 	- by [[robert greene]]
-	- [[2012]]
+		- [[2012]]
+	- [[wp]] https://en.wikipedia.org/wiki/Mastery_(book)
