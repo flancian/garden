@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -38,49 +38,37 @@
             "direction": "vertical"
           },
           {
-            "id": "8a56ec28d423896d",
-            "type": "leaf",
-            "dimension": 8.333333333333332,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "distributed press.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c071acc4ccfb8dc9",
-            "type": "leaf",
-            "dimension": 8.333333333333332,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "distributed press.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "4ea066c727e01a43",
-            "type": "leaf",
-            "dimension": 8.333333333333332,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "distributed press 2021-05-19.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "275939b25bb9e25b",
             "type": "leaf",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fauno.md",
+                "file": "2021-05-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d0b9e3db5b93ce8a",
+            "type": "leaf",
+            "dimension": 9.086778736937756,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cognacore.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "1fe00d6efbcfb2e1",
+            "type": "leaf",
+            "dimension": 9.132212630622444,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anisina.md",
                 "mode": "source"
               }
             }
@@ -88,7 +76,7 @@
           {
             "id": "4b41bce00c78f0ad",
             "type": "leaf",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +88,7 @@
           {
             "id": "f7e4518cf66c39b1",
             "type": "leaf",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "state": {
               "type": "markdown",
               "state": {
@@ -112,7 +100,7 @@
           {
             "id": "51c9ae2c2de06ac1",
             "type": "leaf",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "state": {
               "type": "markdown",
               "state": {
@@ -124,7 +112,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "state": {
               "type": "markdown",
               "state": {
@@ -136,7 +124,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -166,7 +154,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -196,7 +184,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 8.333333333333332,
+            "dimension": 9.086778736937756,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -297,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed press 2021-05-19.md",
+                "file": "anisina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed press 2021-05-19.md"
+                "file": "anisina.md"
               }
             }
           },
@@ -347,17 +335,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ea066c727e01a43",
+  "active": "1fe00d6efbcfb2e1",
   "lastOpenFiles": [
-    "distributed press 2021-05-19.md",
-    "distributed press.md",
-    "distributed press 2019.md",
+    "anisina.md",
+    "cognacore.md",
+    "2021-05-19.md",
     "fauno.md",
+    "distributed press.md",
+    "distributed press 2021-05-19.md",
+    "distributed press 2019.md",
     "do.md",
     "ctzn network.md",
-    "secure scuttlebutt.md",
-    "i annotate 2021.md",
-    "atjson.md",
-    "trailmarks.md"
+    "secure scuttlebutt.md"
   ]
 }
