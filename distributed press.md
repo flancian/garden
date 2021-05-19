@@ -157,5 +157,6 @@
 									- using [[hyperbee]] in [[ctzn]]
 										- it can list directories or keyspaces in order
 									    - more like a database technology
+								- for distributed press/unwalled garden: file oriented approach can work over http
 		
 	
