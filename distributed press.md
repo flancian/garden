@@ -69,5 +69,7 @@
 	- user control their data
 	- search
 	- separating storage and aggregation
+
+- database vs datamesh
 		
 	
