@@ -132,6 +132,9 @@
 							- had a post type
 								- would be nice if you have a topic
 								- if you are not subscribed to [[cats]], you won't see it
-								- but 
+								- but you can't rely on it as many clients won't support it
+								- you might end up spamming old clients
+								- [[fatal ambiguity]]
+								- once you see this, schemas start seeming risky to change
 		
 	
