@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 11.135857461024496,
+            "dimension": 9.975062344139651,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 5.567928730512248,
+            "dimension": 13.566084788029926,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,13 +50,13 @@
             }
           },
           {
-            "id": "2040eeb2ec7521ef",
+            "id": "4b41bce00c78f0ad",
             "type": "leaf",
-            "dimension": 11.135857461024496,
+            "dimension": 26.583541147132166,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-19.md",
+                "file": "distributed press.md",
                 "mode": "source"
               }
             }
@@ -64,7 +64,7 @@
           {
             "id": "51c9ae2c2de06ac1",
             "type": "leaf",
-            "dimension": 11.135857461024496,
+            "dimension": 9.975062344139651,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +76,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 11.135857461024496,
+            "dimension": 9.975062344139651,
             "state": {
               "type": "markdown",
               "state": {
@@ -86,21 +86,9 @@
             }
           },
           {
-            "id": "63b18cdf775d9eca",
-            "type": "leaf",
-            "dimension": 14.365256124721602,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "i annotate.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 11.135857461024496,
+            "dimension": 9.975062344139651,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -130,7 +118,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 11.135857461024496,
+            "dimension": 9.975062344139651,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -160,7 +148,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 13.251670378619151,
+            "dimension": 9.975062344139651,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -261,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-19.md",
+                "file": "distributed press.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-19.md"
+                "file": "distributed press.md"
               }
             }
           },
@@ -311,17 +299,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2040eeb2ec7521ef",
+  "active": "4b41bce00c78f0ad",
   "lastOpenFiles": [
+    "distributed press.md",
     "2021-05-19.md",
+    "i annotate 2021.md",
     "midnight run.md",
     "google docs.md",
     "i annotate.md",
-    "i annotate 2021.md",
     "agora ui.md",
     "do.md",
     "governing the commons.md",
-    "unwalled garden.md",
-    "mastery.md"
+    "unwalled garden.md"
   ]
 }

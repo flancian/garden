@@ -1,0 +1,6 @@
+- a [[set]] of [[talks]]
+	- [[go]] https://github.com/hyphacoop/distributed-press-organizing/issues/39
+	- organized by [[hypha]]
+
+## [[2021-05-19]]
+	
