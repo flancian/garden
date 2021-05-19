@@ -44,6 +44,8 @@
 			- advantages
 				- ?
 				- serverless clients are possible
-				- 
+			- [[ben]]
+				- less well maintained gateways become issues for user experience
+				- censorship
 		
 	
