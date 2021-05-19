@@ -76,5 +76,7 @@
 	- [[datamesh]] should probably be treated as a commons
 - [[guo]]
 	- we could avoid many governance issues at the [[database]] layer
+	- [[ben]] this sounds like the [[scuttlebutt]] and [[hypercore model]]?
+		- [[paul]] when last involved there was no global 
 		
 	
