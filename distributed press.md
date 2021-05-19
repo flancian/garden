@@ -23,5 +23,6 @@
 			- working on [[agora]]
 			- background in distributed social systems, worked on (sp?) status, before mastodon
 		- [[fauno]]
-			- (mic incoming)
+			- (mic incoming) :)
+		
 	
