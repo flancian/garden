@@ -96,6 +96,7 @@
 				- schemas
 				- distribution protocol
 				- aggregator censorship
-			- what happens when your computer
+			- what happens when your computer ends up hosting hate speech?
+				- 
 		
 	
