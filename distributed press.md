@@ -77,6 +77,8 @@
 - [[guo]]
 	- we could avoid many governance issues at the [[database]] layer
 	- [[ben]] this sounds like the [[scuttlebutt]] and [[hypercore model]]?
-		- [[paul]] when last involved there was no global 
+		- [[paul]] when last involved there was no global entrypoint, it was [[gossip protocol]]
+		- [[pubs]] were [[store and forward relays]]
+		- information would flow 100% on the basis 
 		
 	
