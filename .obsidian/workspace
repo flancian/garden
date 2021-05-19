@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "2021-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "2021-05-19.md"
               }
             }
           },
@@ -287,12 +287,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51c9ae2c2de06ac1",
+  "active": "8a56ec28d423896d",
   "lastOpenFiles": [
+    "2021-05-19.md",
     "do.md",
     "governing the commons.md",
     "unwalled garden.md",
-    "2021-05-19.md",
     "mastery.md",
     "esalen institute.md",
     "wikilinks.md",
