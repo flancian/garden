@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 20.465826651393662,
+            "dimension": 21.590337191746347,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 5.135547919053073,
+            "dimension": 17.941620533467542,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,13 +50,13 @@
             }
           },
           {
-            "id": "71cd811d56086e13",
+            "id": "cb27f3ee03b82a20",
             "type": "leaf",
-            "dimension": 5.135547919053073,
+            "dimension": 17.941620533467542,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esalen institute.md",
+                "file": "mastery.md",
                 "mode": "source"
               }
             }
@@ -64,7 +64,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 15.273004963726613,
+            "dimension": 10.065425264217415,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +76,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 15.273004963726613,
+            "dimension": 10.065425264217415,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -106,7 +106,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 18.251240931653307,
+            "dimension": 10.065425264217415,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -136,7 +136,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 20.465826651393662,
+            "dimension": 12.330145948666335,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "esalen institute.md",
+                "file": "mastery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "esalen institute.md"
+                "file": "mastery.md"
               }
             }
           },
@@ -287,17 +287,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71cd811d56086e13",
+  "active": "cb27f3ee03b82a20",
   "lastOpenFiles": [
-    "esalen institute.md",
+    "mastery.md",
     "2021-05-19.md",
+    "esalen institute.md",
     "wikilinks.md",
     "understanding knowledge as a commons.md",
     "wikilink.md",
     "sutty.md",
     "cooperativa de diseño.md",
     "2021-05-16.md",
-    "agora ui.md",
-    "agora service.md"
+    "agora ui.md"
   ]
 }
