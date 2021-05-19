@@ -38,6 +38,7 @@
 				- [[filecoin]]?
 				- [[gateway model]]
 					- ipfs gateway: there is more than one of them
-				- if your mesh containes
+				- if your mesh contains social data, you get a social network
+				
 		
 	
