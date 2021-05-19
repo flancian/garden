@@ -170,6 +170,8 @@
 						- [[fauno]] web mentions and how to keep bad parties out
 						- [[flancian]] how will moderation work in [[ctzn network]]? 
 							- [[paul]] would like to have a great answer :)
-							- [[recput]]
+								- [[reputation systems]]
+									- no one size fits all
+									- this lets you scale the work
 		
 	
