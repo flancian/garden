@@ -19,4 +19,9 @@
 			- looking at [[ipfs]], [[hypercore]]
 			- working on a protocol similar to [[unwalled garden]], but also thinking of integrating [[rss]]
 				- also interested on [[webmentions]]
+		- [[vera]]
+			- working on [[agora]]
+			- background in distributed social systems, worked on (sp?) status, before mastodon
+		- [[fauno]]
+			- (mic incoming)
 	
