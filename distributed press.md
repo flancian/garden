@@ -114,5 +114,8 @@
 			- but a consumption pattern arises: you copy/paste whole articles
 			- on the dweb there is an opportunity for this as we can publish different formats of the same concept
 			- get content in more than one format
+		- [[paul]]
+			- [[schemas]] in general
+			- I would describe what you were discussing as "rich text format"
 		
 	
