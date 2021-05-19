@@ -40,11 +40,23 @@
           {
             "id": "b10c458a123bbbd5",
             "type": "leaf",
-            "dimension": 18.628808864265924,
+            "dimension": 9.314404432132962,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "2021-05-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8a56ec28d423896d",
+            "type": "leaf",
+            "dimension": 9.314404432132962,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sutty.md",
                 "mode": "source"
               }
             }
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-16.md",
+                "file": "sutty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-16.md"
+                "file": "sutty.md"
               }
             }
           },
@@ -275,8 +287,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b10c458a123bbbd5",
+  "active": "8a56ec28d423896d",
   "lastOpenFiles": [
+    "sutty.md",
+    "2021-05-19.md",
     "2021-05-16.md",
     "agora ui.md",
     "agora service.md",
@@ -284,8 +298,6 @@
     "obsidian git.md",
     "editar el agora.md",
     "push an existing repository to a new remote.md",
-    "obsidian plugins.md",
-    "obsidian.md",
-    "experiment framework.md"
+    "obsidian plugins.md"
   ]
 }
