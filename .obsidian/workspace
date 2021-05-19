@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 27.832292595896515,
+            "dimension": 9.541984732824428,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 2.8910875030411165,
+            "dimension": 9.541984732824428,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "2040eeb2ec7521ef",
             "type": "leaf",
-            "dimension": 2.8910875030411165,
+            "dimension": 9.541984732824428,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +64,7 @@
           {
             "id": "51c9ae2c2de06ac1",
             "type": "leaf",
-            "dimension": 11.564350012164466,
+            "dimension": 9.541984732824428,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +76,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 6.487713891817371,
+            "dimension": 9.541984732824428,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +88,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 6.487713891817371,
+            "dimension": 9.541984732824428,
             "state": {
               "type": "markdown",
               "state": {
@@ -98,9 +98,21 @@
             }
           },
           {
+            "id": "63b18cdf775d9eca",
+            "type": "leaf",
+            "dimension": 12.30916030534351,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "i annotate.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 12.975427783634743,
+            "dimension": 9.541984732824428,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -130,7 +142,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 12.975427783634743,
+            "dimension": 9.541984732824428,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -160,7 +172,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 15.894899034952562,
+            "dimension": 11.354961832061068,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -261,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "i annotate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate 2021.md"
+                "file": "i annotate.md"
               }
             }
           },
@@ -311,8 +323,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71bcc08f992c1744",
+  "active": "63b18cdf775d9eca",
   "lastOpenFiles": [
+    "i annotate.md",
     "i annotate 2021.md",
     "2021-05-19.md",
     "agora ui.md",
@@ -321,7 +334,6 @@
     "governing the commons.md",
     "unwalled garden.md",
     "mastery.md",
-    "esalen institute.md",
-    "wikilinks.md"
+    "esalen institute.md"
   ]
 }
