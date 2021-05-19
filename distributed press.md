@@ -49,5 +49,7 @@
 				- censorship
 				- [[guo]] yes, gateways become a centralized point
 					- gateway should be a backup after serverless client
+				- [[paul frazee]]
+					- 
 		
 	
