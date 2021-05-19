@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora ui.md",
+                "file": "2021-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora ui.md"
+                "file": "2021-05-16.md"
               }
             }
           },
@@ -275,8 +275,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d13a76af161803cb",
+  "active": "b10c458a123bbbd5",
   "lastOpenFiles": [
+    "2021-05-16.md",
     "agora ui.md",
     "agora service.md",
     "music.md",
@@ -285,7 +286,6 @@
     "push an existing repository to a new remote.md",
     "obsidian plugins.md",
     "obsidian.md",
-    "2021-05-16.md",
     "experiment framework.md"
   ]
 }
