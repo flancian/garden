@@ -117,5 +117,8 @@
 		- [[paul]]
 			- [[schemas]] in general
 			- I would describe what you were discussing as "rich text format"
+			- orthogonal to schemas
+				- fighting with schemas since [[secure scuttlebutt]]
+				- pissed off [[rdf]] people
 		
 	
