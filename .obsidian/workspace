@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distributed press.md",
+                "file": "ctzn network.md",
                 "mode": "source"
               }
             }
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed press.md",
+                "file": "ctzn network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed press.md"
+                "file": "ctzn network.md"
               }
             }
           },
@@ -313,6 +313,7 @@
   },
   "active": "4b41bce00c78f0ad",
   "lastOpenFiles": [
+    "ctzn network.md",
     "distributed press.md",
     "secure scuttlebutt.md",
     "2021-05-19.md",
@@ -321,7 +322,6 @@
     "google docs.md",
     "i annotate.md",
     "agora ui.md",
-    "do.md",
-    "governing the commons.md"
+    "do.md"
   ]
 }
