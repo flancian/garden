@@ -8,160 +8,92 @@
         "type": "split",
         "children": [
           {
-            "id": "90ec1eb033ec1a7c",
-            "type": "split",
-            "dimension": 26.310947562097507,
-            "children": [
-              {
-                "id": "ae59c49b3be42d7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "governing the commons.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "0444216a0f31d5d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "understanding knowledge as a commons.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "8a56ec28d423896d",
+            "id": "ed10ac322c4aed58",
             "type": "leaf",
-            "dimension": 10.93222937749157,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-19.md",
+                "file": "2021-05-13.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "51c9ae2c2de06ac1",
+            "id": "bebc57005f40d5b7",
             "type": "leaf",
-            "dimension": 10.93222937749157,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "do.md",
+                "file": "2021-05-17.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "d13a76af161803cb",
+            "id": "c7cd754d4fba25b6",
             "type": "leaf",
-            "dimension": 12.266176019625881,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora ui.md",
+                "file": "the hardy tree.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "ecc917675c91e32d",
-            "type": "split",
-            "dimension": 12.266176019625881,
-            "children": [
-              {
-                "id": "efc285d04f618479",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "atjson.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "ec6cb93f833f0a75",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian plugins.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "828910f9ac91dfcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "through passages of time.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "089feb5db4c29e31",
-            "type": "split",
-            "dimension": 12.266176019625881,
-            "children": [
-              {
-                "id": "d751188de77a3616",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "trailmarks.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "05b8e43845695140",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "gyuri lajos.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "4f70046df41319dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-15.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "17cf41804b8b958d",
-            "type": "split",
-            "dimension": 15.026065624041708,
-            "children": [
-              {
-                "id": "0d5997891e905142",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "kenzo tange.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "5dc5619fc0398c10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "kraftwerk 1.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "e8c7d7d57721e66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metabolist.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
+          },
+          {
+            "id": "bbea07cc3c584323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lacaton and vassal.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2748b577508433ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remember.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -191,12 +123,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arcosanti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -207,17 +139,8 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "aa0f3e910050164c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,30 +177,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "2021-05-17.md"
               }
-            }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           }
         ]
@@ -287,17 +188,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51c9ae2c2de06ac1",
+  "active": "bebc57005f40d5b7",
   "lastOpenFiles": [
-    "do.md",
-    "2021-05-19.md",
-    "mastery.md",
-    "esalen institute.md",
-    "wikilinks.md",
-    "understanding knowledge as a commons.md",
-    "wikilink.md",
-    "sutty.md",
-    "cooperativa de diseño.md",
-    "2021-05-16.md"
+    "2021-05-17.md",
+    "the hardy tree.md",
+    "through passages of time.md",
+    "2021-05-14.md",
+    "2021-05-15.md",
+    "2021-05-13.md",
+    "remember.md",
+    "ikiru.md",
+    "nationstates.md",
+    "nationhstates.md"
   ]
 }
