@@ -33,5 +33,9 @@
 			- completely open system, if you're in the mesh you're in
 			- technologically, user experience wise is great
 			- trying to figure out how to deal with the [[cost]] structure
+			- in the case of social media, you're making your own twitter
+			- how do you get economies of scale worked in there?
+				- [[filecoin]]?
+				- g
 		
 	
