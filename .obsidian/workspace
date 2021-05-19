@@ -52,11 +52,23 @@
           {
             "id": "d0b9e3db5b93ce8a",
             "type": "leaf",
-            "dimension": 9.086778736937756,
+            "dimension": 4.543389368468878,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cognacore.md",
+                "file": "2021-05-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ba19954e2a6a83b5",
+            "type": "leaf",
+            "dimension": 4.543389368468878,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vera.md",
                 "mode": "source"
               }
             }
@@ -64,7 +76,7 @@
           {
             "id": "1fe00d6efbcfb2e1",
             "type": "leaf",
-            "dimension": 9.132212630622444,
+            "dimension": 9.132212630622442,
             "state": {
               "type": "markdown",
               "state": {
@@ -285,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anisina.md",
+                "file": "vera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anisina.md"
+                "file": "vera.md"
               }
             }
           },
@@ -335,17 +347,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fe00d6efbcfb2e1",
+  "active": "ba19954e2a6a83b5",
   "lastOpenFiles": [
-    "anisina.md",
-    "cognacore.md",
+    "vera.md",
     "2021-05-19.md",
+    "cognacore.md",
+    "anisina.md",
     "fauno.md",
     "distributed press.md",
     "distributed press 2021-05-19.md",
     "distributed press 2019.md",
     "do.md",
-    "ctzn network.md",
-    "secure scuttlebutt.md"
+    "ctzn network.md"
   ]
 }
