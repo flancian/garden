@@ -112,6 +112,7 @@
 		- [[ben]] decided to first publish/store things as html
 			- most people want to have something ready-to-publish
 			- but a consumption pattern arises: you copy/paste whole articles
-			- 
+			- on the dweb there is an opportunity for this as we can publish different formats of the same concept
+			- get content in more than one format
 		
 	
