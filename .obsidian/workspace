@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 26.310947562097507,
+            "dimension": 27.832292595896515,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "8a56ec28d423896d",
             "type": "leaf",
-            "dimension": 5.466114688745785,
+            "dimension": 5.782175006082233,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,21 +50,9 @@
             }
           },
           {
-            "id": "4ca21c96c77ed844",
-            "type": "leaf",
-            "dimension": 5.466114688745785,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unwalled garden.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "51c9ae2c2de06ac1",
             "type": "leaf",
-            "dimension": 10.93222937749157,
+            "dimension": 11.564350012164466,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +64,7 @@
           {
             "id": "d13a76af161803cb",
             "type": "leaf",
-            "dimension": 12.266176019625881,
+            "dimension": 12.975427783634743,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +76,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 12.266176019625881,
+            "dimension": 12.975427783634743,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -118,7 +106,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 12.266176019625881,
+            "dimension": 12.975427783634743,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -148,7 +136,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 15.026065624041708,
+            "dimension": 15.894899034952562,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -249,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unwalled garden.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unwalled garden.md"
+                "file": "do.md"
               }
             }
           },
@@ -299,17 +287,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ca21c96c77ed844",
+  "active": "51c9ae2c2de06ac1",
   "lastOpenFiles": [
+    "do.md",
+    "governing the commons.md",
     "unwalled garden.md",
     "2021-05-19.md",
-    "do.md",
     "mastery.md",
     "esalen institute.md",
     "wikilinks.md",
     "understanding knowledge as a commons.md",
     "wikilink.md",
-    "sutty.md",
-    "cooperativa de diseño.md"
+    "sutty.md"
   ]
 }
