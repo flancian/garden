@@ -159,6 +159,10 @@
 									    - more like a database technology
 								- for distributed press/unwalled garden: file oriented approach can work over http
 						- [[guo]] in the comments problem, who owns the post data?
-						- 
+							- the post it's on could 'own' it
+							- the [[comment]] writer could own it
+								- this seems safer?
+						- [[fauno]]
+							- if we allow for comments, who is responsible for 
 		
 	
