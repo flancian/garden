@@ -72,5 +72,8 @@
 - [[paul frazee]]
 	- database vs datamesh
 	- federation puts application logic in the wire protocol
+- [[flancian]]
+	- [[datamesh]] should probably be treated as a commons
+- [[]]
 		
 	
