@@ -91,5 +91,11 @@
 			- distributed reddit
 			- distributed moderation
 			- liquid democracy-like
+		- [[ben]]
+			- we need to agree on:
+				- schemas
+				- distribution protocol
+				- aggregator censorship
+			- what happens when your computer
 		
 	
