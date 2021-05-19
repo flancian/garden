@@ -153,5 +153,9 @@
 								- [[unwalled garden]]
 									- difference between it and [[ctzn network]]
 								- suppose you want to have the ability to have mentions in your comments
+									- you have to keep parsing for entities if you store text or text-like
+									- using [[hyperbee]] in [[ctzn]]
+										- it can list directories or keyspaces in order
+									
 		
 	
