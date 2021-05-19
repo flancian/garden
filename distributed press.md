@@ -5,5 +5,7 @@
 ## [[2021-05-19]]
 - [[benedict lau]]
 	- [[hypha]]
-		- interested in building a tool that publishes through many dif
+		- interested in building a tool that publishes through many different protocols
+			- sharing social messages seamlessly
+			- 
 	
