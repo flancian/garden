@@ -17,4 +17,6 @@
 			- matters.news
 			- serving mostly chinese communities
 			- looking at [[ipfs]], [[hypercore]]
+			- working on a protocol similar to [[unwalled garden]], but also thinking of integrating [[rss]]
+				- also interested on [[webmentions]]
 	
