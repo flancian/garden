@@ -144,6 +144,9 @@
 								- can have extension tables
 							- [[ben]]
 								- feel like [[scuttlebutt]] has a schema, otherwise you couldn't have more than one client
-								- what it lacked, it seems, i
+								- what it lacked, it seems, is versioning?
+								- how do you manage upgrades?
+							 - [[paul]] 
+							 - [[flancian]] what do you really need for features
 		
 	
