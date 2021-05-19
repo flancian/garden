@@ -126,8 +126,12 @@
 				- [[ctzn network]]: urls identifying the schemas with a machine readable format
 					- rejects messages that don't comply with the schema
 					- believe in this approach
-						- if you don't, you end up in the tragedy of the commons or failure in collective action
-						- compatibility with the schema dictates everything you can do
-						- you have a feature, you add
+						- if you don't, you end up in the tragedy of the commons or failure in collective action (scuttlebutt)
+							- compatibility with the schema dictates everything you can do
+							- you have a feature, you add a dependency
+							- had a post type
+								- would be nice if you have a topic
+								- if you are not subscribed to [[cats]], you won't see it
+								- but 
 		
 	
