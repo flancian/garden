@@ -40,5 +40,10 @@
 					- ipfs gateway: there is more than one of them
 				- if your mesh contains social data, you get a social network
 			- [[ben]] what are the costs involved?
+				- [[paul]] unsure but they all seem associated to a side business so far
+			- advantages
+				- ?
+				- serverless clients are possible
+				- 
 		
 	
