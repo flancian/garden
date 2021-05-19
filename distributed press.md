@@ -146,7 +146,7 @@
 								- feel like [[scuttlebutt]] has a schema, otherwise you couldn't have more than one client
 								- what it lacked, it seems, is versioning?
 								- how do you manage upgrades?
-							 - [[paul]] 
-							 - [[flancian]] what do you really need for features
+							 - [[paul]] the problem is multiple clients controlled by different devs
+							 - [[flancian]] what do you really need for features -- usually you'd want to have
 		
 	
