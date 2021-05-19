@@ -7,5 +7,11 @@
 	- [[hypha]]
 		- interested in building a tool that publishes through many different protocols
 			- sharing social messages seamlessly
-			- 
+		- [[flancian]]
+		- [[paul frazee]]
+			- [[secure scuttlebut]]
+			- [[beaker browser]]
+			- [[hypercore protocol]]
+				- [[ctzn]]
+				
 	
