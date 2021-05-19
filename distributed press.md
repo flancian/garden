@@ -85,6 +85,9 @@
 	- [[paul]]
 		- how do you end up in a situation in which governance is required? 
 	- [[guo]]
-		- datamesh
+		- datamesh seems like it does not require governance, but the aggregator does
+		- (interlay vs overlay?)
+ 		- [[ben]] protocol
+			- 
 		
 	
