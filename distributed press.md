@@ -87,7 +87,9 @@
 	- [[guo]]
 		- datamesh seems like it does not require governance, but the aggregator does
 		- (interlay vs overlay?)
- 		- [[ben]] protocol
+ 		- [[ben]] aether (sp?) 
+			- distributed reddit
+			- distributed moderation
 			- 
 		
 	
