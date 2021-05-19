@@ -55,6 +55,9 @@
 						- links that are a new protocol are an issue
 						- ux killer on stuff like twitter
 					- didn't have a push messaging system back then
+						- didn't want to have to deal with spam
+						- ux killer: no notifications unless mutual follow
+							- [[aggregator]]
 				- [[flancian]]
 					- [[metcalfe's law]]
 		
