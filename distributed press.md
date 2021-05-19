@@ -51,7 +51,11 @@
 					- gateway should be a backup after serverless client
 				- [[paul frazee]]
 					- spent 6-8 months working on a social network back in [[beaker]]
-					- some stuff that stops you 
-					- links that
+					- some stuff that stops you:
+						- links that are a new protocol are an issue
+						- ux killer on stuff like twitter
+					- didn't have a push messaging system back then
+				- [[flancian]]
+					- [[metcalfe's law]]
 		
 	
