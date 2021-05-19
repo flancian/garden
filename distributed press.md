@@ -50,6 +50,8 @@
 				- [[guo]] yes, gateways become a centralized point
 					- gateway should be a backup after serverless client
 				- [[paul frazee]]
-					- 
+					- spent 6-8 months working on a social network back in [[beaker]]
+					- some stuff that stops you 
+					- links that
 		
 	
