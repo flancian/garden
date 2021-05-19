@@ -156,6 +156,6 @@
 									- you have to keep parsing for entities if you store text or text-like
 									- using [[hyperbee]] in [[ctzn]]
 										- it can list directories or keyspaces in order
-									
+									    - more like a database technology
 		
 	
