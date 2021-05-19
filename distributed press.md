@@ -61,5 +61,7 @@
 					- try to bring in positive properties of the system
 				- [[flancian]]
 					- [[metcalfe's law]]
+				- [[ben]]
+				- [[web mentions]]
 		
 	
