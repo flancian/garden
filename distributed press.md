@@ -109,6 +109,8 @@
 				- hard to define protocol-level encryption standard
 				- bake the encryption message into the html
 					- [[mdx]]
-		- [[ben]]
+		- [[ben]] decided to first publish/store things as html
+			- most people want to have something ready-to-publish
+			- but a consumption pattern arises: you copy/paste whole arti
 		
 	
