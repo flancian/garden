@@ -8,92 +8,148 @@
         "type": "split",
         "children": [
           {
-            "id": "ed10ac322c4aed58",
+            "id": "90ec1eb033ec1a7c",
+            "type": "split",
+            "dimension": 18.559556786703602,
+            "children": [
+              {
+                "id": "ae59c49b3be42d7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "governing the commons.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "0444216a0f31d5d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "understanding knowledge as a commons.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "b10c458a123bbbd5",
             "type": "leaf",
+            "dimension": 18.628808864265924,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-13.md",
+                "file": "2021-05-16.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "bebc57005f40d5b7",
+            "id": "d13a76af161803cb",
             "type": "leaf",
+            "dimension": 13.850415512465377,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-17.md",
+                "file": "agora ui.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "c7cd754d4fba25b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the hardy tree.md",
-                "mode": "source"
+            "id": "ecc917675c91e32d",
+            "type": "split",
+            "dimension": 13.850415512465377,
+            "children": [
+              {
+                "id": "efc285d04f618479",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "atjson.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "ec6cb93f833f0a75",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian plugins.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "828910f9ac91dfcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "through passages of time.md",
-                "mode": "source"
+            "id": "089feb5db4c29e31",
+            "type": "split",
+            "dimension": 16.551246537396125,
+            "children": [
+              {
+                "id": "d751188de77a3616",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "trailmarks.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "05b8e43845695140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "gyuri lajos.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "4f70046df41319dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-15.md",
-                "mode": "source"
+            "id": "17cf41804b8b958d",
+            "type": "split",
+            "dimension": 18.559556786703602,
+            "children": [
+              {
+                "id": "0d5997891e905142",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kenzo tange.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "5dc5619fc0398c10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kraftwerk 1.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "e8c7d7d57721e66d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metabolist.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bbea07cc3c584323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lacaton and vassal.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2748b577508433ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remember.md",
-                "mode": "source"
-              }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -123,12 +179,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arcosanti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -139,8 +195,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aa0f3e910050164c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the hardy tree.md",
+                "file": "agora ui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +242,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the hardy tree.md"
+                "file": "agora ui.md"
               }
+            }
+          },
+          {
+            "id": "eaa7f99b4cf5444a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9852b3b70c9ace3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82168a0acbacba",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -188,17 +275,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7cd754d4fba25b6",
+  "active": "d13a76af161803cb",
   "lastOpenFiles": [
-    "the hardy tree.md",
-    "through passages of time.md",
-    "2021-05-17.md",
-    "2021-05-14.md",
-    "2021-05-15.md",
-    "2021-05-13.md",
-    "remember.md",
-    "ikiru.md",
-    "nationstates.md",
-    "nationhstates.md"
+    "agora ui.md",
+    "agora service.md",
+    "music.md",
+    "obsidian git.md",
+    "editar el agora.md",
+    "push an existing repository to a new remote.md",
+    "obsidian plugins.md",
+    "obsidian.md",
+    "2021-05-16.md",
+    "experiment framework.md"
   ]
 }
