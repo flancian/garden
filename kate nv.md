@@ -1,3 +1,5 @@
 - a [[person]]
 	- [[musician]]
 	- [[album]] [[for]]
+	- [[spotify]] https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx
+		- [[go]] [[spotify]]

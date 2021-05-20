@@ -50,6 +50,17 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "30e350b181175e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "for.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kate nv.md",
+                "file": "for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kate nv.md"
+                "file": "for.md"
               }
             }
           }
@@ -145,8 +156,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6d77810980b314a",
+  "active": "30e350b181175e0e",
   "lastOpenFiles": [
+    "for.md",
     "kate nv.md",
     "2021-05-20.md",
     "remember.md",
@@ -155,7 +167,6 @@
     "the hardy tree.md",
     "2021-05-13.md",
     "2021-05-17.md",
-    "2021-05-14.md",
-    "ikiru.md"
+    "2021-05-14.md"
   ]
 }
