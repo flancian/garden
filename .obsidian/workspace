@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-20.md",
+                "file": "hiroshi yoshimura.md",
                 "mode": "source"
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "for.md",
+                "file": "hiroshi yoshimura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "for.md"
+                "file": "hiroshi yoshimura.md"
               }
             }
           }
@@ -156,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30e350b181175e0e",
+  "active": "2748b577508433ff",
   "lastOpenFiles": [
+    "hiroshi yoshimura.md",
+    "2021-05-20.md",
     "for.md",
     "kate nv.md",
-    "2021-05-20.md",
     "remember.md",
     "2021-05-15.md",
     "through passages of time.md",
     "the hardy tree.md",
     "2021-05-13.md",
-    "2021-05-17.md",
-    "2021-05-14.md"
+    "2021-05-17.md"
   ]
 }
