@@ -1,1 +1,4 @@
 - an [[album]]
+	- by [[kate nv]]
+	- [[spotify]] https://open.spotify.com/album/2Z0F9mcg3jFPr6nyhNwMm9?highlight=spotify:track:22YcziSTG15GKYTYDKhlRV
+		- [[go]] [[spotify]]
