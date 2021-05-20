@@ -1,0 +1,3 @@
+- a [[person]]
+	- [[musician]]
+	- [[album]] [[for]]
