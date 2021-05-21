@@ -1,6 +1,6 @@
 # lorand
 
 - a [[friend]]
-  - [[pull]] [[jonathan the utopian]]
+  - [[pull]] [[jonathan lorand]] [[jonathan the utopian]]
 
 

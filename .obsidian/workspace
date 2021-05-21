@@ -8,30 +8,75 @@
         "type": "split",
         "children": [
           {
-            "id": "e8c7d7d57721e66d",
+            "id": "90ec1eb033ec1a7c",
+            "type": "split",
+            "dimension": 8.333333333333332,
+            "children": [
+              {
+                "id": "ae59c49b3be42d7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "governing the commons.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "0444216a0f31d5d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "understanding knowledge as a commons.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "ba19954e2a6a83b5",
             "type": "leaf",
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metabolist.md",
+                "file": "vera.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "bbea07cc3c584323",
+            "id": "4b41bce00c78f0ad",
             "type": "leaf",
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lacaton and vassal.md",
+                "file": "ctzn network.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "2748b577508433ff",
+            "id": "68655dfd854fce90",
             "type": "leaf",
+            "dimension": 8.333333333333332,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed press.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "51c9ae2c2de06ac1",
+            "type": "leaf",
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
@@ -41,48 +86,142 @@
             }
           },
           {
-            "id": "7f4febbb4b6a9e6d",
+            "id": "a76e1cb1839905a1",
             "type": "leaf",
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "catalog.md",
+                "file": "lorand.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "420f8f8c26d4eefd",
+            "id": "ef4d4560bb3a781b",
             "type": "leaf",
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clairvoyant.md",
+                "file": "jonathan lorand.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "f6d77810980b314a",
+            "id": "986ddc63620f16b6",
             "type": "leaf",
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kate nv.md",
+                "file": "i forget.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "30e350b181175e0e",
+            "id": "71bcc08f992c1744",
             "type": "leaf",
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "for.md",
+                "file": "i annotate 2021.md",
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "ecc917675c91e32d",
+            "type": "split",
+            "dimension": 8.333333333333332,
+            "children": [
+              {
+                "id": "efc285d04f618479",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "atjson.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "ec6cb93f833f0a75",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian plugins.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "089feb5db4c29e31",
+            "type": "split",
+            "dimension": 8.333333333333332,
+            "children": [
+              {
+                "id": "d751188de77a3616",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "trailmarks.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "05b8e43845695140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "gyuri lajos.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "17cf41804b8b958d",
+            "type": "split",
+            "dimension": 8.333333333333332,
+            "children": [
+              {
+                "id": "0d5997891e905142",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kenzo tange.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "5dc5619fc0398c10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kraftwerk 1.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -112,12 +251,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arcosanti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -128,9 +267,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aa0f3e910050164c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "catalog.md",
+                "file": "jonathan lorand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +314,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "catalog.md"
+                "file": "jonathan lorand.md"
               }
+            }
+          },
+          {
+            "id": "eaa7f99b4cf5444a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9852b3b70c9ace3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82168a0acbacba",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -178,17 +347,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f4febbb4b6a9e6d",
+  "active": "ef4d4560bb3a781b",
   "lastOpenFiles": [
-    "catalog.md",
-    "entities.md",
+    "jonathan lorand.md",
+    "lorand.md",
     "2021-05-21.md",
-    "clairvoyant.md",
-    "hiroshi yoshimura.md",
     "2021-05-20.md",
-    "for.md",
-    "kate nv.md",
-    "remember.md",
-    "2021-05-15.md"
+    "i forget.md",
+    "do.md",
+    "distributed press.md",
+    "anisina.md",
+    "2021-05-19.md",
+    "secure scuttlebutt.md"
   ]
 }
