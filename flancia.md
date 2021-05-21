@@ -28,9 +28,11 @@
 - a [[list]].
   - Of [[people]] and [[things]] contained therein.
 - A [[collective]].
-  - [[flancia coop]]
-- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
-- [[space]] https://gather.town/app/UIn5AAlVh3IUSKiP/home
+  - [[flancia collective]]
+ - Many other things.
+	- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+	- [[space]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
+	- [[space-vera]] https://gather.town/app/UIn5AAlVh3IUSKiP/home
 - Have I ever told you that in Flancia there is an [[Agora]]?
 
 https://twitter.com/flancian/status/1298701482997538822
