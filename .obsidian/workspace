@@ -297,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jonathan lorand.md",
+                "file": "lorand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jonathan lorand.md"
+                "file": "lorand.md"
               }
             }
           },
@@ -347,10 +347,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef4d4560bb3a781b",
+  "active": "a76e1cb1839905a1",
   "lastOpenFiles": [
-    "jonathan lorand.md",
     "lorand.md",
+    "jonathan lorand.md",
     "2021-05-21.md",
     "2021-05-20.md",
     "i forget.md",

@@ -1,6 +1,8 @@
 # lorand
 
-- a [[friend]]
-  - [[pull]] [[jonathan lorand]] [[jonathan the utopian]]
+- a [[person]]
+	- [[friend]]
+	  - [[pull]] [[jonathan lorand]] [[jonathan the utopian]]
+	  - part of [[protopoi]], [[dej]]
 
 
