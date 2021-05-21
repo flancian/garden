@@ -1,7 +1,8 @@
 # Catalog
 
-- An open [[repository]].
-- [[pull]] [[catalog of missing devices]].
+- an open [[structured]] [[repository]].
+	- the [[agora]] is a catalog.
+		- [[pull]] [[catalog of missing devices]].
   
 
 
