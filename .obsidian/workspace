@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entities.md",
+                "file": "catalog.md",
                 "mode": "source"
               }
             }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entities.md",
+                "file": "catalog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entities.md"
+                "file": "catalog.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "7f4febbb4b6a9e6d",
   "lastOpenFiles": [
+    "catalog.md",
     "entities.md",
     "2021-05-21.md",
     "clairvoyant.md",
@@ -188,7 +189,6 @@
     "for.md",
     "kate nv.md",
     "remember.md",
-    "2021-05-15.md",
-    "through passages of time.md"
+    "2021-05-15.md"
   ]
 }
