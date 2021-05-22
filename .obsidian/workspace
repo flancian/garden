@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,35 +40,23 @@
           {
             "id": "ba19954e2a6a83b5",
             "type": "leaf",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vera.md",
+                "file": "2021-05-22.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "4b41bce00c78f0ad",
+            "id": "9999242f6f5fab2f",
             "type": "leaf",
-            "dimension": 6.598482349059716,
+            "dimension": 12.45136186770428,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "764de4daa2ade2b6",
-            "type": "leaf",
-            "dimension": 14.219729462223688,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flancia.md",
+                "file": "dej.md",
                 "mode": "source"
               }
             }
@@ -76,7 +64,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "state": {
               "type": "markdown",
               "state": {
@@ -86,21 +74,9 @@
             }
           },
           {
-            "id": "51c9ae2c2de06ac1",
-            "type": "leaf",
-            "dimension": 6.598482349059716,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "c3c23903473fb852",
             "type": "leaf",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "state": {
               "type": "markdown",
               "state": {
@@ -110,33 +86,9 @@
             }
           },
           {
-            "id": "a76e1cb1839905a1",
-            "type": "leaf",
-            "dimension": 6.598482349059716,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lorand.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ef4d4560bb3a781b",
-            "type": "leaf",
-            "dimension": 6.598482349059716,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jonathan lorand.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "986ddc63620f16b6",
             "type": "leaf",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "state": {
               "type": "markdown",
               "state": {
@@ -148,7 +100,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "state": {
               "type": "markdown",
               "state": {
@@ -160,7 +112,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -190,7 +142,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -220,7 +172,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 6.598482349059716,
+            "dimension": 9.72762645914397,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -321,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia.md",
+                "file": "dej.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancia.md"
+                "file": "dej.md"
               }
             }
           },
@@ -371,17 +323,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "764de4daa2ade2b6",
+  "active": "9999242f6f5fab2f",
   "lastOpenFiles": [
-    "flancia.md",
-    "2021-05-21.md",
-    "ctzn network.md",
+    "dej.md",
+    "2021-05-22.md",
+    "vera.md",
+    "obsidian plugins.md",
+    "atjson.md",
+    "i annotate 2021.md",
     "flancia collective.md",
     "lorand.md",
-    "jonathan lorand.md",
-    "2021-05-20.md",
-    "i forget.md",
-    "do.md",
-    "distributed press.md"
+    "flancia.md",
+    "2021-05-21.md"
   ]
 }
