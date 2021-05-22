@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notsof.md",
+                "file": "dej.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notsof.md"
+                "file": "dej.md"
               }
             }
           },
@@ -322,11 +322,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "986ddc63620f16b6",
+  "active": "9999242f6f5fab2f",
   "lastOpenFiles": [
+    "dej.md",
     "notsof.md",
     "i forget.md",
-    "dej.md",
     "2021-05-22.md",
     "vera.md",
     "obsidian plugins.md",

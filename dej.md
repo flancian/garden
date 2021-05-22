@@ -18,6 +18,8 @@
 	- we could also do this for [[a pattern language]] and this week's "homework":
 		- introductory material at the front of the book
 		- then each person chooses a pattern to share
+	- decision
+		- let's do this first for a 
 		
 
 
