@@ -113,6 +113,16 @@ IL: A healthy subspace for prosocial entities to outperform walled gardens --> h
 
 Deustche Bank famously noted how Elsev is benefitting from a distorted market. (The same applies today to app stores...): [https://notes.knowledgefutures.org/pub/supertanker/release/3](https://notes.knowledgefutures.org/pub/supertanker/release/3)
 
+  
+
+[https://www.connectedpapers.com/](https://www.connectedpapers.com/)
+
+===
+
+obsd --> github --> agora
+
+ (obsidiangit)
+
 ## [[2021-04-30]]
 
 - [[importance]] 

@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian plugins.md",
+                "file": "metasj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian plugins.md"
+                "file": "metasj.md"
               }
             }
           },
@@ -334,10 +334,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec6cb93f833f0a75",
+  "active": "7d98f77bb7e0408c",
   "lastOpenFiles": [
-    "obsidian plugins.md",
     "metasj.md",
+    "obsidian plugins.md",
     "2021-05-22.md",
     "dej.md",
     "patterning glossary.md",
