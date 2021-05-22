@@ -1,2 +1,3 @@
 - [[plan]]
 	- accept [[prs]]
+	- make a javascript library
