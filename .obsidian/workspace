@@ -54,6 +54,17 @@
                 }
               },
               {
+                "id": "406bcfa09dbe1c3c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "week 20.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
                 "id": "986ddc63620f16b6",
                 "type": "leaf",
                 "state": {
@@ -308,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guo.md",
+                "file": "week 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guo.md"
+                "file": "week 20.md"
               }
             }
           },
@@ -358,17 +369,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "732844dbc4d1e814",
+  "active": "406bcfa09dbe1c3c",
   "lastOpenFiles": [
+    "week 20.md",
+    "2021-05-22.md",
     "guo.md",
     "⚒.md",
-    "2021-05-22.md",
     "i annotate 2021.md",
     "metasj.md",
     "obsidian plugins.md",
     "dej.md",
     "patterning glossary.md",
-    "notsof.md",
-    "i forget.md"
+    "notsof.md"
   ]
 }
