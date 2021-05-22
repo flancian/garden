@@ -4,6 +4,7 @@
 
 ## [[2021-05-22]]
 - ahoy!
+- [[wikidata hackathon]] used [[big blue button]]
 
 ## [[2021-05-05]]
 
