@@ -5,6 +5,12 @@
 - [[pull]] [[jonathan-the-utopian]]
 - [[pull]] [[armengol-lorand]]
 
+## [[2021-05-22]]
+
+- [[operands]]
+	- [[nested systems]]
+
+
 ## [[2021-04-24]]
 - [[jonathan]] busy, lots to read for the masters
   - now in the gallery scene ;)
