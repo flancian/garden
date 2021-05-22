@@ -6,12 +6,13 @@
 - [[pull]] [[armengol-lorand]]
 
 ## [[2021-05-22]]
-
 - [[operands]]
 	- [[nested systems]]
 	- [[category theory for engineers]] 
 		- [https://applied-compositional-thinking.engineering/](https://applied-compositional-thinking.engineering/)
 		- [https://vimeo.com/551804154](https://vimeo.com/551804154)
+- [[intentions]] -- things we wanted to do but haven't done yet
+	- [[dej]] [[notes on synthesis of form]
 
 
 ## [[2021-04-24]]
