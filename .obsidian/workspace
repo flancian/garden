@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "ba19954e2a6a83b5",
             "type": "leaf",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "9999242f6f5fab2f",
             "type": "leaf",
-            "dimension": 6.225680933852141,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +64,7 @@
           {
             "id": "936586a6dbd4077d",
             "type": "leaf",
-            "dimension": 6.225680933852141,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +76,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +88,7 @@
           {
             "id": "c3c23903473fb852",
             "type": "leaf",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +100,7 @@
           {
             "id": "986ddc63620f16b6",
             "type": "leaf",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -112,7 +112,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -124,7 +124,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -154,7 +154,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -184,7 +184,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 9.72762645914397,
+            "dimension": 9.090909090909092,
             "children": [
               {
                 "id": "0d5997891e905142",
