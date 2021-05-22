@@ -2,3 +2,7 @@
 	- of terms and concepts useful in understanding [[christopher alexander]]'s work.
 	- [[selfconscious culture]]
 	- [[unselfconscious culture]]
+	- [[form]]
+	- [[fit]]
+	- [[misfit]]
+	- [[pattern]]
