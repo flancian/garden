@@ -3,4 +3,5 @@
 		- You can then use an [[agora editor]] to [[write]].
 		- Or you can use node [[ctzn login]] to link your [[ctzn]] account into the [[agora]].
 			- Thereafter you can create pages in [[ctzn]]; each page maps to a [[node]]. Or you can create them directly in the [[agora]] by using the relevant subnode.
+			
 	- To sign up, use node [[signup]].
