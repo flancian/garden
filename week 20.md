@@ -1,8 +1,9 @@
-- [[plan]]
-	- accept [[prs]]
-	- make a javascript library for adding subnodes and nodes dynamically
-- [[topics]]
-	- putting agora data in hypercore
-	- finish obsidian embeds?
-		- probably
-	- branch [[moa]]
+- [[push]] [[do]]
+	- [[plan]]
+		- accept [[prs]]
+		- make a javascript library for adding subnodes and nodes dynamically
+	- [[topics]]
+		- putting agora data in hypercore
+		- finish obsidian embeds?
+			- probably
+		- branch [[moa]]
