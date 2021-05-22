@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 9.523809523809522,
+            "dimension": 11.776547559134377,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "ba19954e2a6a83b5",
             "type": "leaf",
-            "dimension": 4.761904761904761,
+            "dimension": 8.882737795671868,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,25 +50,13 @@
             }
           },
           {
-            "id": "9999242f6f5fab2f",
+            "id": "7d98f77bb7e0408c",
             "type": "leaf",
-            "dimension": 9.523809523809522,
+            "dimension": 8.882737795671868,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dej.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "936586a6dbd4077d",
-            "type": "leaf",
-            "dimension": 9.523809523809522,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "patterning glossary.md",
+                "file": "metasj.md",
                 "mode": "source"
               }
             }
@@ -76,7 +64,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 9.523809523809522,
+            "dimension": 10.065425264217415,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +76,7 @@
           {
             "id": "c3c23903473fb852",
             "type": "leaf",
-            "dimension": 9.523809523809522,
+            "dimension": 10.065425264217415,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +88,7 @@
           {
             "id": "986ddc63620f16b6",
             "type": "leaf",
-            "dimension": 9.523809523809522,
+            "dimension": 10.065425264217415,
             "state": {
               "type": "markdown",
               "state": {
@@ -112,7 +100,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 9.523809523809522,
+            "dimension": 10.065425264217415,
             "state": {
               "type": "markdown",
               "state": {
@@ -124,7 +112,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 9.523809523809522,
+            "dimension": 10.065425264217415,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -154,7 +142,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 9.523809523809522,
+            "dimension": 10.065425264217415,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -184,7 +172,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 9.523809523809522,
+            "dimension": 10.065425264217415,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -284,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dej.md",
+                "file": "metasj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dej.md"
+                "file": "metasj.md"
               }
             }
           },
@@ -334,17 +322,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9999242f6f5fab2f",
+  "active": "7d98f77bb7e0408c",
   "lastOpenFiles": [
-    "dej.md",
+    "metasj.md",
     "2021-05-22.md",
+    "dej.md",
     "patterning glossary.md",
     "notsof.md",
     "i forget.md",
     "vera.md",
     "obsidian plugins.md",
     "atjson.md",
-    "i annotate 2021.md",
-    "flancia collective.md"
+    "i annotate 2021.md"
   ]
 }
