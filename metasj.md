@@ -7,7 +7,8 @@
 - [[wikidata hackathon]] used [[big blue button]]
 - [[ahs]]
 	- [[metasj]] dedicating more time to it going forward
-	- new pitch: 
+	- new pitch: trying to simplify
+	- a [[locus of focus]]
 
 ## [[2021-05-05]]
 
