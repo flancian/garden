@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metasj.md",
+                "file": "obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metasj.md"
+                "file": "obsidian plugins.md"
               }
             }
           },
@@ -334,8 +334,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d98f77bb7e0408c",
+  "active": "ec6cb93f833f0a75",
   "lastOpenFiles": [
+    "obsidian plugins.md",
     "metasj.md",
     "2021-05-22.md",
     "dej.md",
@@ -343,7 +344,6 @@
     "notsof.md",
     "i forget.md",
     "vera.md",
-    "obsidian plugins.md",
     "atjson.md",
     "i annotate 2021.md"
   ]

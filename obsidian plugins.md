@@ -2,3 +2,4 @@
 - [[idea]] better tiling
 - [[idea]] alt-d focuses daily if already present instead of reopening
 - [[idea]] [[agora protocol]] helper
+- [[obsidian git]]
