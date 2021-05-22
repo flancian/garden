@@ -5,6 +5,9 @@
 ## [[2021-05-22]]
 - ahoy!
 - [[wikidata hackathon]] used [[big blue button]]
+- [[ahs]]
+	- [[metasj]] dedicating more time to it going forward
+	- new pitch: 
 
 ## [[2021-05-05]]
 
