@@ -9,6 +9,7 @@
 	- [[metasj]] dedicating more time to it going forward
 	- new pitch: trying to simplify
 	- a [[locus of focus]]
+	- like [[sci hub]], but [[legal]] and and [[summarized]] and [[annotated]]
 
 ## [[2021-05-05]]
 
