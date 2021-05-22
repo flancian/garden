@@ -41,6 +41,28 @@
             }
           },
           {
+            "id": "089aa4b5e2fd458e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "login.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "a3a553c5cfd7028c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signup.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "7f4febbb4b6a9e6d",
             "type": "leaf",
             "state": {
@@ -150,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-21.md",
+                "file": "signup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-21.md"
+                "file": "signup.md"
               }
             }
           }
@@ -178,8 +200,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2748b577508433ff",
+  "active": "a3a553c5cfd7028c",
   "lastOpenFiles": [
+    "signup.md",
+    "login.md",
     "2021-05-21.md",
     "catalog.md",
     "entities.md",
@@ -187,8 +211,6 @@
     "hiroshi yoshimura.md",
     "2021-05-20.md",
     "for.md",
-    "kate nv.md",
-    "remember.md",
-    "2021-05-15.md"
+    "kate nv.md"
   ]
 }
