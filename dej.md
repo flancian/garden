@@ -9,6 +9,7 @@
 
 - [[operands]]
 	- [[nested systems]]
+	- [[category theory for engineers]] [https://applied-compositional-thinking.engineering/](https://applied-compositional-thinking.engineering/)
 
 
 ## [[2021-04-24]]
