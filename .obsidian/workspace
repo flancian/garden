@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚒.md",
+                "file": "guo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚒.md"
+                "file": "guo.md"
               }
             }
           },
@@ -358,12 +358,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da45d66f5e0ac103",
+  "active": "732844dbc4d1e814",
   "lastOpenFiles": [
+    "guo.md",
     "⚒.md",
     "2021-05-22.md",
     "i annotate 2021.md",
-    "guo.md",
     "metasj.md",
     "obsidian plugins.md",
     "dej.md",

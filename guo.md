@@ -1,2 +1,2 @@
 - a [[person]]
-	- [[pull]] [[]]
+	- [[pull]] [[hypha]]
