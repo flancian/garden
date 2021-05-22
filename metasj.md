@@ -1,6 +1,7 @@
 # Metasj
 
 - [[pull]] [[samuel klein]]
+- I'd like to introduce him to
 
 ## [[2021-05-22]]
 - ahoy!
