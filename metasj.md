@@ -25,6 +25,8 @@
 - from [[go/meet]] notes
 You have two webcams.
 
+
+
 The government takes one webcam and gives it to your neighbor.
 
   
