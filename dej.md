@@ -15,7 +15,9 @@
 	- [[lorand]] wanted to write more notes on [[notes on synthesis of form]]
 		- with the intention of sharing in github space
 		- and practicing merging algorithms
-	- we could also do this for [[a pattern language]] and this week's patterns
+	- we could also do this for [[a pattern language]] and this week's "homework":
+		- introductory material at the front of the book
+		- then each person chooses a pattern to share
 		
 
 
