@@ -19,7 +19,8 @@
 		- introductory material at the front of the book
 		- then each person chooses a pattern to share
 	- decision
-		- let's do this first for a 
+		- let's do this first for a pattern language
+		- but also keep on trying with notes
 		
 
 
