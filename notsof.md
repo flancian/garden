@@ -2,7 +2,7 @@
 
 - a [[book]]
   - [[push]] [[reading]] 
-    - [[pull]] [[notes-on-the-synthesis-of-form]]
+    - [[pull]] [[notes on the synthesis of form]]
     - [[hypothesis]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
     - [[go]] [[hypothesis]]
   - [[systems]], [[models]]

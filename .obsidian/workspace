@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i forget.md",
+                "file": "notsof.md",
                 "mode": "source"
               }
             }
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dej.md",
+                "file": "notsof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dej.md"
+                "file": "notsof.md"
               }
             }
           },
@@ -322,8 +322,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9999242f6f5fab2f",
+  "active": "986ddc63620f16b6",
   "lastOpenFiles": [
+    "notsof.md",
+    "i forget.md",
     "dej.md",
     "2021-05-22.md",
     "vera.md",
@@ -331,8 +333,6 @@
     "atjson.md",
     "i annotate 2021.md",
     "flancia collective.md",
-    "lorand.md",
-    "flancia.md",
-    "2021-05-21.md"
+    "lorand.md"
   ]
 }
