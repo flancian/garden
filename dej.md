@@ -6,6 +6,11 @@
 - [[pull]] [[armengol-lorand]]
 - [[patterning glossary]]
 
+## [[2021-06-05]]
+- how to translate between conventions
+- [[agora protocol]]
+	- [[agora trees]]
+
 ## [[2021-05-22]]
 - [[operands]]
 	- [[nested systems]]
