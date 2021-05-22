@@ -5,4 +5,4 @@
 	- putting agora data in hypercore
 	- finish obsidian embeds?
 		- probably
-	- 
+	- branch [[moa]]
