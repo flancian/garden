@@ -1,3 +1,3 @@
 - an [[action]].
-	- To sign into the [[agora]], use node [[login]].
+	- To log into an [[agora]], use the matching node: [[login]].
 	- To sign up, use node [[signup]].
