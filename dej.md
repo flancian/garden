@@ -4,6 +4,7 @@
 - [[pull]] [[flancian]]
 - [[pull]] [[jonathan-the-utopian]]
 - [[pull]] [[armengol-lorand]]
+- [[patterning glossary]]
 
 ## [[2021-05-22]]
 - [[operands]]

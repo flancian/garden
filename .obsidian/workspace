@@ -52,11 +52,23 @@
           {
             "id": "9999242f6f5fab2f",
             "type": "leaf",
-            "dimension": 12.45136186770428,
+            "dimension": 6.225680933852141,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "dej.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "936586a6dbd4077d",
+            "type": "leaf",
+            "dimension": 6.225680933852141,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patterning glossary.md",
                 "mode": "source"
               }
             }
@@ -272,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dej.md",
+                "file": "patterning glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dej.md"
+                "file": "patterning glossary.md"
               }
             }
           },
@@ -322,8 +334,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9999242f6f5fab2f",
+  "active": "936586a6dbd4077d",
   "lastOpenFiles": [
+    "patterning glossary.md",
     "dej.md",
     "notsof.md",
     "i forget.md",
@@ -332,7 +345,6 @@
     "obsidian plugins.md",
     "atjson.md",
     "i annotate 2021.md",
-    "flancia collective.md",
-    "lorand.md"
+    "flancia collective.md"
   ]
 }
