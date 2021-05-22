@@ -1,3 +1,5 @@
 - [[plan]]
 	- accept [[prs]]
-	- make a javascript library
+	- make a javascript library for adding subnodes and nodes dynamically
+- [[topics]]
+	- putting agora data in hypercore
