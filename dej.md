@@ -12,7 +12,9 @@
 		- [https://applied-compositional-thinking.engineering/](https://applied-compositional-thinking.engineering/)
 		- [https://vimeo.com/551804154](https://vimeo.com/551804154)
 - [[intentions]] -- things we wanted to do but haven't done yet
-	- [[dej]] [[notes on synthesis of form]
+	- [[lorand]] wanted to write more notes on [[notes on synthesis of form]]
+		- with the intention of sharing in github space
+		- and practicing merging algorithms
 
 
 ## [[2021-04-24]]
