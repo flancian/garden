@@ -3,3 +3,4 @@
 	- make a javascript library for adding subnodes and nodes dynamically
 - [[topics]]
 	- putting agora data in hypercore
+	- finish 
