@@ -8,220 +8,81 @@
         "type": "split",
         "children": [
           {
-            "id": "90ec1eb033ec1a7c",
-            "type": "split",
-            "dimension": 14.744801512287337,
-            "children": [
-              {
-                "id": "ae59c49b3be42d7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "governing the commons.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "0444216a0f31d5d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "understanding knowledge as a commons.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "a7296e3b10dc0389",
-            "type": "split",
-            "dimension": 11.121613106490233,
-            "children": [
-              {
-                "id": "ba19954e2a6a83b5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-05-22.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "986ddc63620f16b6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "notsof.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "7d98f77bb7e0408c",
+            "id": "e8c7d7d57721e66d",
             "type": "leaf",
-            "dimension": 5.560806553245117,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metasj.md",
+                "file": "metabolist.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "732844dbc4d1e814",
+            "id": "bbea07cc3c584323",
             "type": "leaf",
-            "dimension": 5.560806553245117,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guo.md",
+                "file": "lacaton and vassal.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "9fbfa674c16badc8",
-            "type": "split",
-            "dimension": 12.602394454946442,
-            "children": [
-              {
-                "id": "c3c23903473fb852",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "flancia collective.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "68655dfd854fce90",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "distributed press.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "71bcc08f992c1744",
+            "id": "2748b577508433ff",
             "type": "leaf",
-            "dimension": 12.602394454946442,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "2021-05-21.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "ecc917675c91e32d",
-            "type": "split",
-            "dimension": 12.602394454946442,
-            "children": [
-              {
-                "id": "efc285d04f618479",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "atjson.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "ec6cb93f833f0a75",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian plugins.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "7f4febbb4b6a9e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "catalog.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "089feb5db4c29e31",
-            "type": "split",
-            "dimension": 12.602394454946442,
-            "children": [
-              {
-                "id": "d751188de77a3616",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "trailmarks.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "05b8e43845695140",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "gyuri lajos.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "420f8f8c26d4eefd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clairvoyant.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "17cf41804b8b958d",
-            "type": "split",
-            "dimension": 12.602394454946442,
-            "children": [
-              {
-                "id": "0d5997891e905142",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "kenzo tange.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "5dc5619fc0398c10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "kraftwerk 1.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "f6d77810980b314a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kate nv.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
+          },
+          {
+            "id": "30e350b181175e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "for.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -251,12 +112,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arcosanti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -267,16 +128,9 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "aa0f3e910050164c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -296,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guo.md",
+                "file": "2021-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,30 +167,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guo.md"
+                "file": "2021-05-21.md"
               }
-            }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           }
         ]
@@ -346,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "732844dbc4d1e814",
+  "active": "2748b577508433ff",
   "lastOpenFiles": [
-    "guo.md",
-    "metasj.md",
-    "obsidian plugins.md",
-    "2021-05-22.md",
-    "dej.md",
-    "patterning glossary.md",
-    "notsof.md",
-    "i forget.md",
-    "vera.md",
-    "atjson.md"
+    "2021-05-21.md",
+    "catalog.md",
+    "entities.md",
+    "clairvoyant.md",
+    "hiroshi yoshimura.md",
+    "2021-05-20.md",
+    "for.md",
+    "kate nv.md",
+    "remember.md",
+    "2021-05-15.md"
   ]
 }
