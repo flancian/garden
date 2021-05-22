@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 14.744801512287339,
+            "dimension": 14.744801512287337,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -70,11 +70,23 @@
           {
             "id": "7d98f77bb7e0408c",
             "type": "leaf",
-            "dimension": 11.121613106490233,
+            "dimension": 5.560806553245117,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "metasj.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "732844dbc4d1e814",
+            "type": "leaf",
+            "dimension": 5.560806553245117,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "guo.md",
                 "mode": "source"
               }
             }
@@ -284,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metasj.md",
+                "file": "guo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metasj.md"
+                "file": "guo.md"
               }
             }
           },
@@ -334,8 +346,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d98f77bb7e0408c",
+  "active": "732844dbc4d1e814",
   "lastOpenFiles": [
+    "guo.md",
     "metasj.md",
     "obsidian plugins.md",
     "2021-05-22.md",
@@ -344,7 +357,6 @@
     "notsof.md",
     "i forget.md",
     "vera.md",
-    "atjson.md",
-    "i annotate 2021.md"
+    "atjson.md"
   ]
 }

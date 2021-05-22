@@ -1,7 +1,12 @@
 # Metasj
 
 - [[pull]] [[samuel klein]]
-- I'd like to introduce him to
+- I'd like to introduce him to:
+	- [[benedict lau]]
+	- [[vera]]
+	- [[lorand]]
+	- [[guo]]
+	- [[paul frazee]]
 
 ## [[2021-05-22]]
 - ahoy!
