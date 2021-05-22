@@ -22,6 +22,7 @@
 		- let's do this first for a pattern language
 		- but also keep on trying with notes
 - other [[topics]]
+	- recap of conversation on [[2021-05-08]]: notes in [[armengol]].
 	
 ## [[2021-04-24]]
 - [[jonathan]] busy, lots to read for the masters
