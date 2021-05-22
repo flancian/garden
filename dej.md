@@ -21,9 +21,8 @@
 	- decision
 		- let's do this first for a pattern language
 		- but also keep on trying with notes
-		
-
-
+- other [[topics]]
+	
 ## [[2021-04-24]]
 - [[jonathan]] busy, lots to read for the masters
   - now in the gallery scene ;)
