@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frenemy.md",
+                "file": "guo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frenemy.md"
+                "file": "guo.md"
               }
             }
           },
@@ -361,8 +361,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "337a1c686e22dffb",
+  "active": "732844dbc4d1e814",
   "lastOpenFiles": [
+    "guo.md",
     "frenemy.md",
     "2021-05-23.md",
     "flancia collective.md",
@@ -371,7 +372,6 @@
     "atjson.md",
     "kraftwerk 1.md",
     "state of higher order.md",
-    "entropy.md",
-    "gyuri lajos.md"
+    "entropy.md"
   ]
 }
