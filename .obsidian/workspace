@@ -60,7 +60,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-05-23.md",
+                    "file": "young wizards.md",
                     "mode": "source"
                   }
                 }
@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-23.md",
+                "file": "young wizards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-23.md"
+                "file": "young wizards.md"
               }
             }
           },
@@ -363,6 +363,7 @@
   },
   "active": "c3c23903473fb852",
   "lastOpenFiles": [
+    "young wizards.md",
     "2021-05-23.md",
     "guo.md",
     "frenemy.md",
@@ -371,7 +372,6 @@
     "trailmarks.md",
     "atjson.md",
     "kraftwerk 1.md",
-    "state of higher order.md",
-    "entropy.md"
+    "state of higher order.md"
   ]
 }

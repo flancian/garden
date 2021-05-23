@@ -1,0 +1,3 @@
+- a [[series]] of [[books]]
+	- [[go]] https://www.goodreads.com/series/40400-young-wizards
+	- [[wp]] 
