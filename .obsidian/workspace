@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 14.744801512287335,
+            "dimension": 14.744801512287331,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "a7296e3b10dc0389",
             "type": "split",
-            "dimension": 11.121613106490233,
+            "dimension": 11.12161310649023,
             "children": [
               {
                 "id": "ba19954e2a6a83b5",
@@ -59,7 +59,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "week 20.md",
+                    "file": "2021-05-23.md",
                     "mode": "source"
                   }
                 }
@@ -81,7 +81,7 @@
           {
             "id": "7d98f77bb7e0408c",
             "type": "leaf",
-            "dimension": 5.560806553245117,
+            "dimension": 5.560806553245115,
             "state": {
               "type": "markdown",
               "state": {
@@ -93,7 +93,7 @@
           {
             "id": "732844dbc4d1e814",
             "type": "leaf",
-            "dimension": 5.560806553245117,
+            "dimension": 5.560806553245115,
             "state": {
               "type": "markdown",
               "state": {
@@ -105,7 +105,7 @@
           {
             "id": "9fbfa674c16badc8",
             "type": "split",
-            "dimension": 12.602394454946442,
+            "dimension": 12.602394454946438,
             "children": [
               {
                 "id": "c3c23903473fb852",
@@ -135,11 +135,11 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 6.301197227473221,
+            "dimension": 6.301197227473219,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-22.md",
+                "file": "2021-05-23.md",
                 "mode": "source"
               }
             }
@@ -147,7 +147,7 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 6.301197227473221,
+            "dimension": 6.301197227473219,
             "state": {
               "type": "markdown",
               "state": {
@@ -159,7 +159,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 12.602394454946442,
+            "dimension": 12.602394454946438,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -189,7 +189,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 12.602394454946442,
+            "dimension": 12.602394454946438,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -219,7 +219,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 12.602394454946442,
+            "dimension": 12.602394454946438,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -319,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week 20.md",
+                "file": "2021-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week 20.md"
+                "file": "2021-05-23.md"
               }
             }
           },
@@ -369,17 +369,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "406bcfa09dbe1c3c",
+  "active": "71bcc08f992c1744",
   "lastOpenFiles": [
-    "week 20.md",
-    "guo.md",
+    "2021-05-23.md",
     "2021-05-22.md",
     "⚒.md",
+    "week 20.md",
+    "guo.md",
     "i annotate 2021.md",
     "metasj.md",
     "obsidian plugins.md",
     "dej.md",
-    "patterning glossary.md",
-    "notsof.md"
+    "patterning glossary.md"
   ]
 }
