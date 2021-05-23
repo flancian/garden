@@ -82,11 +82,23 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 7.562866326337681,
+            "dimension": 3.7814331631688405,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-23.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "337a1c686e22dffb",
+            "type": "leaf",
+            "dimension": 3.7814331631688405,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frenemy.md",
                 "mode": "source"
               }
             }
@@ -299,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-23.md",
+                "file": "frenemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-23.md"
+                "file": "frenemy.md"
               }
             }
           },
@@ -349,8 +361,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71bcc08f992c1744",
+  "active": "337a1c686e22dffb",
   "lastOpenFiles": [
+    "frenemy.md",
     "2021-05-23.md",
     "flancia collective.md",
     "⚒.md",
@@ -359,7 +372,6 @@
     "kraftwerk 1.md",
     "state of higher order.md",
     "entropy.md",
-    "frenemy.md",
     "gyuri lajos.md"
   ]
 }
