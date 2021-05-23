@@ -108,8 +108,11 @@
             "type": "leaf",
             "dimension": 10.265622994995509,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-23.md",
+                "mode": "source"
+              }
             }
           },
           {
@@ -245,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neos.md",
+                "file": "2021-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neos.md"
+                "file": "2021-05-23.md"
               }
             }
           },
@@ -295,16 +298,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb4a7ecfe458321a",
+  "active": "2b05883eae8baef9",
   "lastOpenFiles": [
-    "neos.md",
     "2021-05-23.md",
+    "obsidian plugins.md",
+    "neos.md",
     "⚒.md",
     "agora prs.md",
     "daniel graham.md",
     "danielm_graham.md",
     "obsidian workspaces.md",
-    "obsidian plugins.md",
     "guo.md",
     "young wizards.md"
   ]

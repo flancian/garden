@@ -3,6 +3,9 @@
 		- [[obsidian git]]
 	- [[core]]
 		- [[obsidian workspaces]]
+- [[lists]]
+	- [[community]]
+	- [[core]] https://help.obsidian.md/Plugins/List+of+plugins
 - [[ideas]] 
 	- [[ipfs]]
 	- better tiling
