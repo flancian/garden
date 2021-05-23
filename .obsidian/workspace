@@ -72,11 +72,8 @@
             "type": "leaf",
             "dimension": 9.63159162051529,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian workspaces.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -212,7 +209,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian workspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,9 +224,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian workspaces.md"
-              }
+              "state": {}
             }
           },
           {
