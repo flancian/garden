@@ -131,6 +131,28 @@
                 }
               },
               {
+                "id": "670129a9354029db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "entropy.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "9631110cf24fec61",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "state of higher order.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
                 "id": "ec6cb93f833f0a75",
                 "type": "leaf",
                 "state": {
@@ -277,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frenemy.md",
+                "file": "state of higher order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frenemy.md"
+                "file": "state of higher order.md"
               }
             }
           },
@@ -327,8 +349,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ba9caa682be390e",
+  "active": "9631110cf24fec61",
   "lastOpenFiles": [
+    "state of higher order.md",
+    "entropy.md",
     "frenemy.md",
     "2021-05-23.md",
     "atjson.md",
@@ -336,8 +360,6 @@
     "trailmarks.md",
     "metasj.md",
     "2021-05-22.md",
-    "⚒.md",
-    "week 20.md",
-    "guo.md"
+    "⚒.md"
   ]
 }

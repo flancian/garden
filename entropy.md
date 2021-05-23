@@ -1,0 +1,2 @@
+- [[entropy]] is the [[source]] of [[computation]].
+	- its destination is usually a [[state of higher order]].
