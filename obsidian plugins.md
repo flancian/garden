@@ -8,6 +8,7 @@
 	- [[core]] https://help.obsidian.md/Plugins/List+of+plugins
 - [[ideas]] 
 	- [[ipfs]]
+	- [[agora ob]]
 	- better tiling
 	- alt-d focuses daily if already present instead of reopening
 	- [[agora protocol]] helper
