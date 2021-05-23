@@ -70,11 +70,23 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 10.265622994995509,
+            "dimension": 5.132811497497754,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-23.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "cb4a7ecfe458321a",
+            "type": "leaf",
+            "dimension": 5.132811497497754,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neos.md",
                 "mode": "source"
               }
             }
@@ -233,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-23.md",
+                "file": "neos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-23.md"
+                "file": "neos.md"
               }
             }
           },
@@ -283,8 +295,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da45d66f5e0ac103",
+  "active": "cb4a7ecfe458321a",
   "lastOpenFiles": [
+    "neos.md",
     "2021-05-23.md",
     "⚒.md",
     "agora prs.md",
@@ -293,7 +306,6 @@
     "obsidian workspaces.md",
     "obsidian plugins.md",
     "guo.md",
-    "young wizards.md",
-    "frenemy.md"
+    "young wizards.md"
   ]
 }
