@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian workspaces.md",
+                "file": "obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian workspaces.md"
+                "file": "obsidian plugins.md"
               }
             }
           },
@@ -262,10 +262,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b05883eae8baef9",
+  "active": "ec6cb93f833f0a75",
   "lastOpenFiles": [
-    "obsidian workspaces.md",
     "obsidian plugins.md",
+    "obsidian workspaces.md",
     "guo.md",
     "young wizards.md",
     "2021-05-23.md",
