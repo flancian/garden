@@ -10,7 +10,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 15.07727101394648,
+            "dimension": 24.338302403407365,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,21 +20,9 @@
             }
           },
           {
-            "id": "68655dfd854fce90",
-            "type": "leaf",
-            "dimension": 28.8729739917075,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "distributed press.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "f326c43552391e82",
             "type": "leaf",
-            "dimension": 9.178288729739915,
+            "dimension": 14.815941588074226,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,21 +32,9 @@
             }
           },
           {
-            "id": "ba12b2950b067966",
-            "type": "leaf",
-            "dimension": 9.178288729739915,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daniel graham.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "cb4a7ecfe458321a",
             "type": "leaf",
-            "dimension": 7.53863550697324,
+            "dimension": 12.169151201703682,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +46,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.07727101394648,
+            "dimension": 24.338302403407365,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -100,7 +76,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 15.07727101394648,
+            "dimension": 24.338302403407365,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -200,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daniel graham.md",
+                "file": "agora prs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daniel graham.md"
+                "file": "agora prs.md"
               }
             }
           },
@@ -250,8 +226,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba12b2950b067966",
+  "active": "f326c43552391e82",
   "lastOpenFiles": [
+    "agora prs.md",
+    "distributed press.md",
     "daniel graham.md",
     "neos.md",
     "young wizards.md",
@@ -259,8 +237,6 @@
     "2021-05-23.md",
     "obsidian plugins.md",
     "⚒.md",
-    "agora prs.md",
-    "danielm_graham.md",
-    "obsidian workspaces.md"
+    "danielm_graham.md"
   ]
 }
