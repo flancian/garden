@@ -34,11 +34,23 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 12.49839599640703,
+            "dimension": 6.249197998203515,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-23.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f326c43552391e82",
+            "type": "leaf",
+            "dimension": 6.249197998203515,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora prs.md",
                 "mode": "source"
               }
             }
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daniel graham.md",
+                "file": "agora prs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daniel graham.md"
+                "file": "agora prs.md"
               }
             }
           },
@@ -271,17 +283,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba12b2950b067966",
+  "active": "f326c43552391e82",
   "lastOpenFiles": [
-    "daniel graham.md",
+    "agora prs.md",
     "2021-05-23.md",
+    "daniel graham.md",
     "danielm_graham.md",
     "⚒.md",
     "obsidian workspaces.md",
     "obsidian plugins.md",
     "guo.md",
     "young wizards.md",
-    "frenemy.md",
-    "flancia collective.md"
+    "frenemy.md"
   ]
 }
