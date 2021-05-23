@@ -4,10 +4,11 @@
 	- [[core]]
 		- [[obsidian workspaces]]
 - [[lists]]
-	- [[community]]
+	- [[community]] https://github.com/obsidianmd/obsidian-releases/blob/master/community-plugins.json
 	- [[core]] https://help.obsidian.md/Plugins/List+of+plugins
 - [[ideas]] 
 	- [[ipfs]]
 	- better tiling
 	- alt-d focuses daily if already present instead of reopening
 	- [[agora protocol]] helper
+- [[example]] https://github.com/obsidianmd/obsidian-sample-plugin

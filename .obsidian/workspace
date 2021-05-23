@@ -106,11 +106,23 @@
           {
             "id": "2b05883eae8baef9",
             "type": "leaf",
-            "dimension": 10.265622994995509,
+            "dimension": 5.132811497497754,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-23.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "dc1ab326b7dc959c",
+            "type": "leaf",
+            "dimension": 5.132811497497754,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian plugins.md",
                 "mode": "source"
               }
             }
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-23.md",
+                "file": "obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-23.md"
+                "file": "obsidian plugins.md"
               }
             }
           },
@@ -298,10 +310,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b05883eae8baef9",
+  "active": "dc1ab326b7dc959c",
   "lastOpenFiles": [
-    "2021-05-23.md",
     "obsidian plugins.md",
+    "2021-05-23.md",
     "neos.md",
     "⚒.md",
     "agora prs.md",
