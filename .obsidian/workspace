@@ -10,7 +10,7 @@
           {
             "id": "732844dbc4d1e814",
             "type": "leaf",
-            "dimension": 9.66183574879227,
+            "dimension": 10.265622994995509,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 18.5024154589372,
+            "dimension": 19.6586680354164,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 11.76328502415459,
+            "dimension": 12.49839599640703,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,21 +44,9 @@
             }
           },
           {
-            "id": "ffb813b999fa0f87",
-            "type": "leaf",
-            "dimension": 5.881642512077295,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "danielm_graham.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "ba12b2950b067966",
             "type": "leaf",
-            "dimension": 5.881642512077295,
+            "dimension": 6.249197998203515,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 9.66183574879227,
+            "dimension": 10.265622994995509,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +70,7 @@
           {
             "id": "ec6cb93f833f0a75",
             "type": "leaf",
-            "dimension": 9.66183574879227,
+            "dimension": 10.265622994995509,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +82,7 @@
           {
             "id": "2b05883eae8baef9",
             "type": "leaf",
-            "dimension": 9.66183574879227,
+            "dimension": 10.265622994995509,
             "state": {
               "type": "empty",
               "state": {}
@@ -103,7 +91,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 9.66183574879227,
+            "dimension": 10.265622994995509,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -133,7 +121,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 9.66183574879227,
+            "dimension": 10.265622994995509,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -286,8 +274,8 @@
   "active": "ba12b2950b067966",
   "lastOpenFiles": [
     "daniel graham.md",
-    "danielm_graham.md",
     "2021-05-23.md",
+    "danielm_graham.md",
     "⚒.md",
     "obsidian workspaces.md",
     "obsidian plugins.md",
