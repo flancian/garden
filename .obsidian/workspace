@@ -8,39 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "90ec1eb033ec1a7c",
-            "type": "split",
-            "dimension": 17.69710720363017,
-            "children": [
-              {
-                "id": "ae59c49b3be42d7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "governing the commons.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "0444216a0f31d5d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "understanding knowledge as a commons.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
             "id": "732844dbc4d1e814",
             "type": "leaf",
-            "dimension": 6.674229532993003,
+            "dimension": 8.499879605104743,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,39 +20,21 @@
             }
           },
           {
-            "id": "9fbfa674c16badc8",
-            "type": "split",
-            "dimension": 15.125732652675362,
-            "children": [
-              {
-                "id": "c3c23903473fb852",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "young wizards.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "68655dfd854fce90",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "distributed press.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "68655dfd854fce90",
+            "type": "leaf",
+            "dimension": 19.263183241030582,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed press.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 3.7814331631688405,
+            "dimension": 4.8157958102576455,
             "state": {
               "type": "markdown",
               "state": {
@@ -92,21 +44,9 @@
             }
           },
           {
-            "id": "337a1c686e22dffb",
-            "type": "leaf",
-            "dimension": 3.7814331631688405,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frenemy.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 7.562866326337681,
+            "dimension": 9.631591620515291,
             "state": {
               "type": "markdown",
               "state": {
@@ -116,72 +56,21 @@
             }
           },
           {
-            "id": "ecc917675c91e32d",
-            "type": "split",
-            "dimension": 15.125732652675362,
-            "children": [
-              {
-                "id": "efc285d04f618479",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-05-23.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "6ba9caa682be390e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "frenemy.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "670129a9354029db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "entropy.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "9631110cf24fec61",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "state of higher order.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "ec6cb93f833f0a75",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian plugins.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "ec6cb93f833f0a75",
+            "type": "leaf",
+            "dimension": 19.263183241030582,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian plugins.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.125732652675362,
+            "dimension": 19.263183241030582,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -211,7 +100,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 15.125732652675362,
+            "dimension": 19.263183241030582,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -311,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "young wizards.md",
+                "file": "obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "young wizards.md"
+                "file": "obsidian plugins.md"
               }
             }
           },
@@ -361,17 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c3c23903473fb852",
+  "active": "ec6cb93f833f0a75",
   "lastOpenFiles": [
+    "obsidian plugins.md",
+    "guo.md",
     "young wizards.md",
     "2021-05-23.md",
-    "guo.md",
     "frenemy.md",
     "flancia collective.md",
     "⚒.md",
     "trailmarks.md",
     "atjson.md",
-    "kraftwerk 1.md",
-    "state of higher order.md"
+    "kraftwerk 1.md"
   ]
 }
