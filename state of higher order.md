@@ -1,1 +1,1 @@
-- can usually be achieved by the application of [[work]]
+- can usually be achieved starting from a state of ever increasing [[entropy]] by the application of [[work]].
