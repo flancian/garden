@@ -8,33 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "732844dbc4d1e814",
-            "type": "leaf",
-            "dimension": 10.265622994995509,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guo.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "68655dfd854fce90",
-            "type": "leaf",
-            "dimension": 19.6586680354164,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "distributed press.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 6.249197998203515,
+            "dimension": 15.07727101394648,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,9 +20,21 @@
             }
           },
           {
+            "id": "68655dfd854fce90",
+            "type": "leaf",
+            "dimension": 28.8729739917075,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed press.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "f326c43552391e82",
             "type": "leaf",
-            "dimension": 6.249197998203515,
+            "dimension": 9.178288729739915,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +46,7 @@
           {
             "id": "ba12b2950b067966",
             "type": "leaf",
-            "dimension": 6.249197998203515,
+            "dimension": 9.178288729739915,
             "state": {
               "type": "markdown",
               "state": {
@@ -68,21 +56,9 @@
             }
           },
           {
-            "id": "da45d66f5e0ac103",
-            "type": "leaf",
-            "dimension": 5.132811497497754,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-23.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "cb4a7ecfe458321a",
             "type": "leaf",
-            "dimension": 5.132811497497754,
+            "dimension": 7.53863550697324,
             "state": {
               "type": "markdown",
               "state": {
@@ -92,45 +68,9 @@
             }
           },
           {
-            "id": "ec6cb93f833f0a75",
-            "type": "leaf",
-            "dimension": 10.265622994995509,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian plugins.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2b05883eae8baef9",
-            "type": "leaf",
-            "dimension": 5.132811497497754,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-23.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "dc1ab326b7dc959c",
-            "type": "leaf",
-            "dimension": 5.132811497497754,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian plugins.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 10.265622994995509,
+            "dimension": 15.07727101394648,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -160,7 +100,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 10.265622994995509,
+            "dimension": 15.07727101394648,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -260,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian plugins.md",
+                "file": "daniel graham.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian plugins.md"
+                "file": "daniel graham.md"
               }
             }
           },
@@ -310,17 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc1ab326b7dc959c",
+  "active": "ba12b2950b067966",
   "lastOpenFiles": [
-    "obsidian plugins.md",
-    "2021-05-23.md",
+    "daniel graham.md",
     "neos.md",
+    "young wizards.md",
+    "guo.md",
+    "2021-05-23.md",
+    "obsidian plugins.md",
     "⚒.md",
     "agora prs.md",
-    "daniel graham.md",
     "danielm_graham.md",
-    "obsidian workspaces.md",
-    "guo.md",
-    "young wizards.md"
+    "obsidian workspaces.md"
   ]
 }
