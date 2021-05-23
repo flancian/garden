@@ -10,7 +10,7 @@
           {
             "id": "732844dbc4d1e814",
             "type": "leaf",
-            "dimension": 8.499879605104743,
+            "dimension": 8.499879605104745,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 19.263183241030582,
+            "dimension": 19.26318324103058,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 4.8157958102576455,
+            "dimension": 4.815795810257645,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 9.631591620515291,
+            "dimension": 9.63159162051529,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "ec6cb93f833f0a75",
             "type": "leaf",
-            "dimension": 19.263183241030582,
+            "dimension": 9.63159162051529,
             "state": {
               "type": "markdown",
               "state": {
@@ -68,9 +68,21 @@
             }
           },
           {
+            "id": "2b05883eae8baef9",
+            "type": "leaf",
+            "dimension": 9.63159162051529,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian workspaces.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 19.263183241030582,
+            "dimension": 19.26318324103058,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -100,7 +112,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 19.263183241030582,
+            "dimension": 19.26318324103058,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian plugins.md",
+                "file": "obsidian workspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian plugins.md"
+                "file": "obsidian workspaces.md"
               }
             }
           },
@@ -250,8 +262,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec6cb93f833f0a75",
+  "active": "2b05883eae8baef9",
   "lastOpenFiles": [
+    "obsidian workspaces.md",
     "obsidian plugins.md",
     "guo.md",
     "young wizards.md",
@@ -260,7 +273,6 @@
     "flancia collective.md",
     "⚒.md",
     "trailmarks.md",
-    "atjson.md",
-    "kraftwerk 1.md"
+    "atjson.md"
   ]
 }

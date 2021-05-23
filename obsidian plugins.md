@@ -1,11 +1,10 @@
+- [[recommended]]
+	- [[community]]
+		- [[obsidian git]]
+	- [[core]]
+		- [[obsidian workspaces]]
 - [[ideas]] 
 	- [[ipfs]]
 	- better tiling
 	- alt-d focuses daily if already present instead of reopening
 	- [[agora protocol]] helper
-- [[recommended]]
-	- [[community]]
-		- [[obsidian git]]
-	- [[core]]
-	- [[obsidian workspaces]]
-
