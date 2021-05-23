@@ -114,7 +114,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "atjson.md",
+                    "file": "2021-05-23.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "6ba9caa682be390e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "frenemy.md",
                     "mode": "source"
                   }
                 }
@@ -155,7 +166,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "gyuri lajos.md",
+                    "file": "atjson.md",
                     "mode": "source"
                   }
                 }
@@ -266,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-23.md",
+                "file": "frenemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-23.md"
+                "file": "frenemy.md"
               }
             }
           },
@@ -316,17 +327,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71bcc08f992c1744",
+  "active": "6ba9caa682be390e",
   "lastOpenFiles": [
+    "frenemy.md",
     "2021-05-23.md",
+    "atjson.md",
+    "gyuri lajos.md",
+    "trailmarks.md",
     "metasj.md",
     "2021-05-22.md",
     "⚒.md",
     "week 20.md",
-    "guo.md",
-    "i annotate 2021.md",
-    "obsidian plugins.md",
-    "dej.md",
-    "patterning glossary.md"
+    "guo.md"
   ]
 }
