@@ -60,7 +60,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "young wizards.md",
+                    "file": "2021-05-24.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "a6cc080f0a96cc01",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "flancia.md",
                     "mode": "source"
                   }
                 }
@@ -287,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metasj.md",
+                "file": "flancia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metasj.md"
+                "file": "flancia.md"
               }
             }
           },
@@ -337,17 +348,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da45d66f5e0ac103",
+  "active": "a6cc080f0a96cc01",
   "lastOpenFiles": [
+    "flancia.md",
+    "2021-05-24.md",
+    "young wizards.md",
     "metasj.md",
     "⚒.md",
-    "young wizards.md",
     "agora prs.md",
     "kenzo tange.md",
-    "2021-05-24.md",
     "2021-05-23.md",
     "atjson.md",
-    "neos.md",
-    "kraftwerk 1.md"
+    "neos.md"
   ]
 }
