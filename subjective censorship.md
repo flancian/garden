@@ -1,2 +1,3 @@
 - a [[concept]] in [[aether]], [[cabal]], [[secure scuttlebutt]]
 	- [[benedict lau]]
+	- [[go]] https://aether.app/blog/

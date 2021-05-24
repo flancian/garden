@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 20.44550517104216,
+            "dimension": 12.229491696024157,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 7.955449482895784,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "5ae8b4b56cd6e718",
             "type": "leaf",
-            "dimension": 7.955449482895784,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -62,13 +62,25 @@
             }
           },
           {
-            "id": "c4752dfca35c9509",
+            "id": "743b15cf003adee1",
             "type": "leaf",
-            "dimension": 15.910898965791567,
+            "dimension": 18.87267237040765,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gardens yaml.md",
+                "file": "aether.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c4752dfca35c9509",
+            "type": "leaf",
+            "dimension": 10.065425264217414,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-24.md",
                 "mode": "source"
               }
             }
@@ -76,7 +88,7 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 15.910898965791567,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +100,7 @@
           {
             "id": "ec6cb93f833f0a75",
             "type": "leaf",
-            "dimension": 15.910898965791567,
+            "dimension": 12.732762959235028,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +112,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.910898965791567,
+            "dimension": 15.903371917463513,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subjective censorship.md",
+                "file": "2021-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "subjective censorship.md"
+                "file": "2021-05-24.md"
               }
             }
           },
@@ -250,17 +262,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ae8b4b56cd6e718",
+  "active": "c4752dfca35c9509",
   "lastOpenFiles": [
-    "subjective censorship.md",
     "2021-05-24.md",
+    "gardens yaml.md",
+    "aether.md",
+    "subjective censorship.md",
     "hypha.md",
     "⚒.md",
-    "gardens yaml.md",
     "hypha.coop.md",
     "hypha coop.md",
     "obsidian plugins.md",
-    "kraftwerk 1.md",
-    "gardens.yaml.md"
+    "kraftwerk 1.md"
   ]
 }
