@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 20.445505171042164,
+            "dimension": 20.44550517104216,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 15.910898965791569,
+            "dimension": 7.955449482895784,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,9 +50,21 @@
             }
           },
           {
+            "id": "5ae8b4b56cd6e718",
+            "type": "leaf",
+            "dimension": 7.955449482895784,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subjective censorship.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "c4752dfca35c9509",
             "type": "leaf",
-            "dimension": 15.910898965791569,
+            "dimension": 15.910898965791567,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +76,7 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 15.910898965791569,
+            "dimension": 15.910898965791567,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +88,7 @@
           {
             "id": "ec6cb93f833f0a75",
             "type": "leaf",
-            "dimension": 15.910898965791569,
+            "dimension": 15.910898965791567,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +100,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.910898965791569,
+            "dimension": 15.910898965791567,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypha.md",
+                "file": "subjective censorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypha.md"
+                "file": "subjective censorship.md"
               }
             }
           },
@@ -238,8 +250,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da45d66f5e0ac103",
+  "active": "5ae8b4b56cd6e718",
   "lastOpenFiles": [
+    "subjective censorship.md",
+    "2021-05-24.md",
     "hypha.md",
     "⚒.md",
     "gardens yaml.md",
@@ -247,8 +261,6 @@
     "hypha coop.md",
     "obsidian plugins.md",
     "kraftwerk 1.md",
-    "2021-05-24.md",
-    "gardens.yaml.md",
-    "distributed press.md"
+    "gardens.yaml.md"
   ]
 }
