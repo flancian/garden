@@ -1,0 +1,2 @@
+- a [[yoga]] session
+	- [[go]] https://www.youtube.com/watch?v=VvYCKlkLhNQ

@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 12.229491696024157,
+            "dimension": 12.22949169602416,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 10.065425264217415,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "5ae8b4b56cd6e718",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 10.065425264217415,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +76,7 @@
           {
             "id": "c4752dfca35c9509",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 5.032712632108708,
             "state": {
               "type": "markdown",
               "state": {
@@ -86,9 +86,21 @@
             }
           },
           {
+            "id": "a79b453f695cfb42",
+            "type": "leaf",
+            "dimension": 5.032712632108708,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yoga for the future.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 10.065425264217415,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +112,7 @@
           {
             "id": "ec6cb93f833f0a75",
             "type": "leaf",
-            "dimension": 12.732762959235028,
+            "dimension": 12.73276295923503,
             "state": {
               "type": "markdown",
               "state": {
@@ -112,7 +124,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.903371917463513,
+            "dimension": 15.903371917463515,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -212,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-25.md",
+                "file": "yoga for the future.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-25.md"
+                "file": "yoga for the future.md"
               }
             }
           },
@@ -262,8 +274,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4752dfca35c9509",
+  "active": "a79b453f695cfb42",
   "lastOpenFiles": [
+    "yoga for the future.md",
     "2021-05-25.md",
     "2021-05-24.md",
     "gardens yaml.md",
@@ -272,7 +285,6 @@
     "hypha.md",
     "⚒.md",
     "hypha.coop.md",
-    "hypha coop.md",
-    "obsidian plugins.md"
+    "hypha coop.md"
   ]
 }
