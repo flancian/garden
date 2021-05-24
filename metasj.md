@@ -11,12 +11,12 @@
 ## [[2021-05-22]]
 - ahoy!
 - [[wikidata hackathon]] used [[big blue button]]
-- [[ahs]]
+- [[push]] [[ahs]]
 	- [[metasj]] dedicating more time to it going forward
 	- new pitch: trying to simplify
 	- a [[locus of focus]]
 	- a [[legal]], [[summarized]] and [[annotated]] repository of [[knowledge]]
-	- a [[distributed knowled]]
+	- a [[distributed knowledge graph]]
 - [[interlay]]
 	- [[hypha]]
 	 	- [[distributed press]]
