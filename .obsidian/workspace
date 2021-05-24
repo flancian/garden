@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-23.md",
+                "file": "atjson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-23.md"
+                "file": "atjson.md"
               }
             }
           },
@@ -199,8 +199,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71bcc08f992c1744",
+  "active": "05b8e43845695140",
   "lastOpenFiles": [
+    "atjson.md",
     "2021-05-23.md",
     "neos.md",
     "agora prs.md",
@@ -209,7 +210,6 @@
     "daniel graham.md",
     "young wizards.md",
     "guo.md",
-    "obsidian plugins.md",
-    "⚒.md"
+    "obsidian plugins.md"
   ]
 }
