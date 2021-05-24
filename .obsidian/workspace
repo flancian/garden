@@ -10,28 +10,19 @@
           {
             "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 12.16915120170368,
+            "dimension": 19.166267369429804,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-23.md",
+                "file": "2021-05-24.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "54bac0f11bb15313",
-            "type": "leaf",
-            "dimension": 12.16915120170368,
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          },
-          {
             "id": "f326c43552391e82",
             "type": "leaf",
-            "dimension": 14.815941588074224,
+            "dimension": 23.334930522280775,
             "state": {
               "type": "markdown",
               "state": {
@@ -43,7 +34,7 @@
           {
             "id": "cb4a7ecfe458321a",
             "type": "leaf",
-            "dimension": 12.16915120170368,
+            "dimension": 19.166267369429804,
             "state": {
               "type": "markdown",
               "state": {
@@ -55,23 +46,11 @@
           {
             "id": "05b8e43845695140",
             "type": "leaf",
-            "dimension": 24.33830240340736,
+            "dimension": 38.33253473885961,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "atjson.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "5dc5619fc0398c10",
-            "type": "leaf",
-            "dimension": 24.33830240340736,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kraftwerk 1.md",
                 "mode": "source"
               }
             }
@@ -149,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atjson.md",
+                "file": "2021-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atjson.md"
+                "file": "2021-05-24.md"
               }
             }
           },
@@ -199,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05b8e43845695140",
+  "active": "71bcc08f992c1744",
   "lastOpenFiles": [
-    "atjson.md",
+    "2021-05-24.md",
     "2021-05-23.md",
+    "atjson.md",
     "neos.md",
     "agora prs.md",
     "kraftwerk 1.md",
     "distributed press.md",
     "daniel graham.md",
     "young wizards.md",
-    "guo.md",
-    "obsidian plugins.md"
+    "guo.md"
   ]
 }
