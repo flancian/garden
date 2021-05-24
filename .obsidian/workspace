@@ -107,6 +107,17 @@
             }
           },
           {
+            "id": "e4ef296a5e9b72fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remarkable 2.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "30e350b181175e0e",
             "type": "leaf",
             "state": {
@@ -183,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-24.md",
+                "file": "remarkable 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-24.md"
+                "file": "remarkable 2.md"
               }
             }
           }
@@ -211,8 +222,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6d77810980b314a",
+  "active": "e4ef296a5e9b72fb",
   "lastOpenFiles": [
+    "remarkable 2.md",
     "2021-05-24.md",
     "kate nv.md",
     "login.md",
@@ -221,7 +233,6 @@
     "catalog.md",
     "entities.md",
     "clairvoyant.md",
-    "hiroshi yoshimura.md",
-    "2021-05-20.md"
+    "hiroshi yoshimura.md"
   ]
 }
