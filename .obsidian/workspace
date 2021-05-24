@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 17.69710720363017,
+            "dimension": 19.145019431376554,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "732844dbc4d1e814",
             "type": "leaf",
-            "dimension": 6.674229532993003,
+            "dimension": 7.220290447944364,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "9fbfa674c16badc8",
             "type": "split",
-            "dimension": 15.125732652675362,
+            "dimension": 16.363264471262017,
             "children": [
               {
                 "id": "c3c23903473fb852",
@@ -80,33 +80,9 @@
             "direction": "vertical"
           },
           {
-            "id": "71bcc08f992c1744",
-            "type": "leaf",
-            "dimension": 3.7814331631688405,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-23.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "337a1c686e22dffb",
-            "type": "leaf",
-            "dimension": 3.7814331631688405,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frenemy.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 7.562866326337681,
+            "dimension": 8.181632235631008,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +94,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 15.125732652675362,
+            "dimension": 16.363264471262017,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -181,7 +157,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.125732652675362,
+            "dimension": 16.363264471262017,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -211,7 +187,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 15.125732652675362,
+            "dimension": 16.363264471262017,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -311,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kenzo tange.md",
+                "file": "⚒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kenzo tange.md"
+                "file": "⚒.md"
               }
             }
           },
@@ -361,17 +337,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d5997891e905142",
+  "active": "da45d66f5e0ac103",
   "lastOpenFiles": [
-    "kenzo tange.md",
+    "⚒.md",
     "young wizards.md",
     "agora prs.md",
+    "kenzo tange.md",
     "2021-05-24.md",
     "2021-05-23.md",
     "atjson.md",
     "neos.md",
     "kraftwerk 1.md",
-    "distributed press.md",
-    "daniel graham.md"
+    "distributed press.md"
   ]
 }
