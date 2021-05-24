@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "young wizards.md",
+                "file": "kenzo tange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "young wizards.md"
+                "file": "kenzo tange.md"
               }
             }
           },
@@ -361,8 +361,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c3c23903473fb852",
+  "active": "0d5997891e905142",
   "lastOpenFiles": [
+    "kenzo tange.md",
     "young wizards.md",
     "agora prs.md",
     "2021-05-24.md",
@@ -371,7 +372,6 @@
     "neos.md",
     "kraftwerk 1.md",
     "distributed press.md",
-    "daniel graham.md",
-    "guo.md"
+    "daniel graham.md"
   ]
 }
