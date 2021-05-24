@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚒.md",
+                "file": "metasj.md",
                 "mode": "source"
               }
             }
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚒.md",
+                "file": "metasj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚒.md"
+                "file": "metasj.md"
               }
             }
           },
@@ -339,6 +339,7 @@
   },
   "active": "da45d66f5e0ac103",
   "lastOpenFiles": [
+    "metasj.md",
     "⚒.md",
     "young wizards.md",
     "agora prs.md",
@@ -347,7 +348,6 @@
     "2021-05-23.md",
     "atjson.md",
     "neos.md",
-    "kraftwerk 1.md",
-    "distributed press.md"
+    "kraftwerk 1.md"
   ]
 }

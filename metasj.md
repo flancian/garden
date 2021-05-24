@@ -15,7 +15,8 @@
 	- [[metasj]] dedicating more time to it going forward
 	- new pitch: trying to simplify
 	- a [[locus of focus]]
-	- like [[sci hub]], but [[legal]] and and [[summarized]] and [[annotated]]
+	- a [[legal]], [[summarized]] and [[annotated]] repository of [[knowledge]]
+	- a [[distributed knowled]]
 - [[interlay]]
 	- [[hypha]]
 	 	- [[distributed press]]
