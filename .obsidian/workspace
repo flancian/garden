@@ -44,64 +44,28 @@
             }
           },
           {
-            "id": "089feb5db4c29e31",
-            "type": "split",
+            "id": "05b8e43845695140",
+            "type": "leaf",
             "dimension": 24.338302403407365,
-            "children": [
-              {
-                "id": "d751188de77a3616",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "trailmarks.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "05b8e43845695140",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "atjson.md",
-                    "mode": "source"
-                  }
-                }
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atjson.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "17cf41804b8b958d",
-            "type": "split",
+            "id": "5dc5619fc0398c10",
+            "type": "leaf",
             "dimension": 24.338302403407365,
-            "children": [
-              {
-                "id": "0d5997891e905142",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "kenzo tange.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "5dc5619fc0398c10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "kraftwerk 1.md",
-                    "mode": "source"
-                  }
-                }
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kraftwerk 1.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           }
         ],
         "direction": "horizontal"
@@ -176,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora prs.md",
+                "file": "2021-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora prs.md"
+                "file": "2021-05-23.md"
               }
             }
           },
@@ -226,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f326c43552391e82",
+  "active": "71bcc08f992c1744",
   "lastOpenFiles": [
+    "2021-05-23.md",
+    "kraftwerk 1.md",
     "agora prs.md",
     "distributed press.md",
     "daniel graham.md",
     "neos.md",
     "young wizards.md",
     "guo.md",
-    "2021-05-23.md",
     "obsidian plugins.md",
-    "⚒.md",
-    "danielm_graham.md"
+    "⚒.md"
   ]
 }
