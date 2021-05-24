@@ -1,2 +1,4 @@
 - a [[person]]
+	- [[push]] [[matters news]]
+		- [[go]] https://matters.news/
 	- [[pull]] [[hypha]]

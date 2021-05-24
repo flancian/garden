@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia.md",
+                "file": "guo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancia.md"
+                "file": "guo.md"
               }
             }
           },
@@ -348,8 +348,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6cc080f0a96cc01",
+  "active": "732844dbc4d1e814",
   "lastOpenFiles": [
+    "guo.md",
     "flancia.md",
     "2021-05-24.md",
     "young wizards.md",
@@ -358,7 +359,6 @@
     "agora prs.md",
     "kenzo tange.md",
     "2021-05-23.md",
-    "atjson.md",
-    "neos.md"
+    "atjson.md"
   ]
 }
