@@ -8,96 +8,75 @@
         "type": "split",
         "children": [
           {
-            "id": "e8c7d7d57721e66d",
+            "id": "90ec1eb033ec1a7c",
+            "type": "split",
+            "dimension": 12.229491696024157,
+            "children": [
+              {
+                "id": "ae59c49b3be42d7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "governing the commons.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "0444216a0f31d5d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "understanding knowledge as a commons.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "68655dfd854fce90",
             "type": "leaf",
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metabolist.md",
+                "file": "2021-05-24.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "bbea07cc3c584323",
+            "id": "5ae8b4b56cd6e718",
             "type": "leaf",
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lacaton and vassal.md",
+                "file": "subjective censorship.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "2748b577508433ff",
+            "id": "743b15cf003adee1",
             "type": "leaf",
+            "dimension": 18.87267237040765,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-21.md",
+                "file": "aether.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "089aa4b5e2fd458e",
+            "id": "c4752dfca35c9509",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "login.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a3a553c5cfd7028c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "signup.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "238bc278eba7e87b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "login.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7f4febbb4b6a9e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "catalog.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "420f8f8c26d4eefd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clairvoyant.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f6d77810980b314a",
-            "type": "leaf",
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -107,37 +86,58 @@
             }
           },
           {
-            "id": "35edc6fd144bf232",
+            "id": "da45d66f5e0ac103",
             "type": "leaf",
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mantequillas.md",
+                "file": "hypha.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "e4ef296a5e9b72fb",
+            "id": "ec6cb93f833f0a75",
             "type": "leaf",
+            "dimension": 12.732762959235028,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remarkable 2.md",
+                "file": "obsidian plugins.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "30e350b181175e0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "for.md",
-                "mode": "source"
+            "id": "089feb5db4c29e31",
+            "type": "split",
+            "dimension": 15.903371917463513,
+            "children": [
+              {
+                "id": "d751188de77a3616",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "trailmarks.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "05b8e43845695140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "atjson.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -167,12 +167,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arcosanti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -183,9 +183,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aa0f3e910050164c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mantequillas.md",
+                "file": "2021-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +229,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mantequillas.md"
+                "file": "2021-05-25.md"
               }
+            }
+          },
+          {
+            "id": "eaa7f99b4cf5444a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9852b3b70c9ace3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82168a0acbacba",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -233,17 +262,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35edc6fd144bf232",
+  "active": "c4752dfca35c9509",
   "lastOpenFiles": [
-    "mantequillas.md",
     "2021-05-25.md",
     "2021-05-24.md",
-    "remarkable 2.md",
-    "kate nv.md",
-    "login.md",
-    "signup.md",
-    "2021-05-21.md",
-    "catalog.md",
-    "entities.md"
+    "gardens yaml.md",
+    "aether.md",
+    "subjective censorship.md",
+    "hypha.md",
+    "⚒.md",
+    "hypha.coop.md",
+    "hypha coop.md",
+    "obsidian plugins.md"
   ]
 }
