@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 19.145019431376554,
+            "dimension": 18.96272285251215,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -38,66 +38,49 @@
             "direction": "vertical"
           },
           {
-            "id": "732844dbc4d1e814",
+            "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 7.220290447944364,
+            "dimension": 16.207455429497568,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guo.md",
+                "file": "distributed press.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "9fbfa674c16badc8",
-            "type": "split",
-            "dimension": 16.363264471262017,
-            "children": [
-              {
-                "id": "c3c23903473fb852",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-05-24.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "a6cc080f0a96cc01",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "flancia.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "68655dfd854fce90",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "distributed press.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "71bcc08f992c1744",
+            "type": "leaf",
+            "dimension": 4.051863857374392,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-23.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
+          },
+          {
+            "id": "337a1c686e22dffb",
+            "type": "leaf",
+            "dimension": 4.051863857374392,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frenemy.md",
+                "mode": "source"
+              }
+            }
           },
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 8.181632235631008,
+            "dimension": 8.103727714748784,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metasj.md",
+                "file": "⚒.md",
                 "mode": "source"
               }
             }
@@ -105,7 +88,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 16.363264471262017,
+            "dimension": 16.207455429497568,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -168,7 +151,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 16.363264471262017,
+            "dimension": 16.207455429497568,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -198,7 +181,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 16.363264471262017,
+            "dimension": 16.207455429497568,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -298,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guo.md",
+                "file": "distributed press.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guo.md"
+                "file": "distributed press.md"
               }
             }
           },
@@ -348,17 +331,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "732844dbc4d1e814",
+  "active": "68655dfd854fce90",
   "lastOpenFiles": [
+    "distributed press.md",
+    "governing the commons.md",
+    "young wizards.md",
     "guo.md",
     "flancia.md",
     "2021-05-24.md",
-    "young wizards.md",
     "metasj.md",
     "⚒.md",
     "agora prs.md",
-    "kenzo tange.md",
-    "2021-05-23.md",
-    "atjson.md"
+    "kenzo tange.md"
   ]
 }
