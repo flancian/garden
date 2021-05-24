@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 13.633952254641912,
+            "dimension": 20.445505171042164,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "68655dfd854fce90",
             "type": "leaf",
-            "dimension": 10.610079575596819,
+            "dimension": 15.910898965791569,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,21 +50,9 @@
             }
           },
           {
-            "id": "b3ac2997690312c7",
-            "type": "leaf",
-            "dimension": 33.315649867374006,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypha.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "c4752dfca35c9509",
             "type": "leaf",
-            "dimension": 10.610079575596819,
+            "dimension": 15.910898965791569,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +64,7 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 10.610079575596819,
+            "dimension": 15.910898965791569,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +76,7 @@
           {
             "id": "ec6cb93f833f0a75",
             "type": "leaf",
-            "dimension": 10.610079575596819,
+            "dimension": 15.910898965791569,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +88,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 10.610079575596819,
+            "dimension": 15.910898965791569,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -200,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypha.md",
+                "file": "gardens yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypha.md"
+                "file": "gardens yaml.md"
               }
             }
           },
@@ -250,17 +238,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3ac2997690312c7",
+  "active": "c4752dfca35c9509",
   "lastOpenFiles": [
-    "hypha.md",
     "gardens yaml.md",
+    "hypha.coop.md",
+    "hypha.md",
+    "hypha coop.md",
     "obsidian plugins.md",
     "kraftwerk 1.md",
     "2021-05-24.md",
     "gardens.yaml.md",
     "distributed press.md",
-    "governing the commons.md",
-    "young wizards.md",
-    "guo.md"
+    "governing the commons.md"
   ]
 }
