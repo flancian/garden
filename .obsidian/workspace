@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚒.md",
+                "file": "hypha.md",
                 "mode": "source"
               }
             }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gardens yaml.md",
+                "file": "hypha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gardens yaml.md"
+                "file": "hypha.md"
               }
             }
           },
@@ -238,17 +238,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4752dfca35c9509",
+  "active": "da45d66f5e0ac103",
   "lastOpenFiles": [
+    "hypha.md",
+    "⚒.md",
     "gardens yaml.md",
     "hypha.coop.md",
-    "hypha.md",
     "hypha coop.md",
     "obsidian plugins.md",
     "kraftwerk 1.md",
     "2021-05-24.md",
     "gardens.yaml.md",
-    "distributed press.md",
-    "governing the commons.md"
+    "distributed press.md"
   ]
 }
