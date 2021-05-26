@@ -50,7 +50,7 @@
 		- people who live in high rises are less likely to go out into the world
 			- [[sky bridges]]
 		- feeling connected to the city life
-		- [[andreas]]
+		- [[andreas]] it seems very opinionated, it depends on one's preferences. you might not care about the misfits and have fits with your lifestyle..
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
