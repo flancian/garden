@@ -22,6 +22,9 @@
 		- [[jonathan]] what would you recommend?
 		- the ideological component sometimes doesn't resonate; the patterns themselves, which can be used and changed regardless of ideology, seem more generally useful.
 	- [[simon]] this is framed as one big project (the three books). what's interesting: there is some goal of trying to provide a set of tools to shape one's environment.
+		- [[notsof]] could almost be computed by a machine
+		- whereas [[apl]] is very much grounded
+		- [[abstract]] -> [[concrete]]
 - [[armengol]]
 	- pattern: 
 - [[jonathan]]
