@@ -35,7 +35,9 @@
 	- pattern: [[filtered light]]
 		- mentions how the perception of light gets softened if it's filtered; less high contrast, which is a nice quality. for living spaces softness is nice.
 		- film makers think it makes objects more lively: e.g. leaves casting moving shadows.
-		- third reason: 
+		- third reason: speculative. stimulates us biologically (?)
+			- could be socialized aesthetics instead.
+		- when planning windows, this pattern is recommended.
 - [[armengol]]
 	- pattern: [[window place]]
 	- [[q]] when trying to differentiate between the list of patterns 
