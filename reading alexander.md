@@ -17,8 +17,9 @@
 - [[andras]]
 	- pattern: [[filtered light]]
 	- would probably recommend people just go to [[a pattern language]] directly, it seems to be self-contained
+	- did something with [[a pattern language]] ~1y ago
 - [[armengol]]
-	- pattern
+	- pattern: 
 - [[jonathan]]
 - [[simon]]
 - [[alice]]
