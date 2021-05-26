@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pattern chosen.md",
+                "file": "2021-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pattern chosen.md"
+                "file": "2021-05-26.md"
               }
             }
           }
@@ -185,13 +185,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07bb2929b930eb3c",
+  "active": "e8c7d7d57721e66d",
   "lastOpenFiles": [
+    "2021-05-26.md",
     "pattern chosen.md",
     "patterns.md",
     "reading alexander.md",
     "patterning.md",
-    "2021-05-26.md",
     "metabolist.md",
     "catalog.md",
     "for.md",
