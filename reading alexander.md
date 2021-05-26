@@ -14,7 +14,7 @@
 		- fit between patterns seems represented by recommended patterns at higher and lower level?
 	- [[armengol]] some problems perhaps
 		- we need to imagine a need for building something? what would be the context for the exercise?
-- [[andras]]
+- [[andreas]]
 	- would probably recommend people just go to [[a pattern language]] directly, it seems to be self-contained
 	- did something with [[a pattern language]] ~1y ago
 	- it just seems like previous reading wouldn't help learning how to write your own patterns?
@@ -50,6 +50,7 @@
 		- people who live in high rises are less likely to go out into the world
 			- [[sky bridges]]
 		- feeling connected to the city life
+		- [[andreas]]
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
