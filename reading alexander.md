@@ -19,6 +19,9 @@
 	- would probably recommend people just go to [[a pattern language]] directly, it seems to be self-contained
 - [[armengol]]
 	- pattern
+- [[jonathan]]
+- [[simon]]
+- [[alice]]
 
 ## [[2021-05-12]]
 - [[ttwob]]
