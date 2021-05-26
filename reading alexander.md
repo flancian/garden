@@ -62,7 +62,8 @@
 - [[alice]]
 	- [[interior windows]]
 	- [[pedestrian street]]
-		- social glue in socity
+		- social glue in society
+		- streets are "too wide" 
 - [[eduardo]]
 	- [[independent regions]]
 
