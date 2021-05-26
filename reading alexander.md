@@ -45,7 +45,7 @@
 	- [[four stories limit]]
 		- ideology aside: main thing that bothered me in general. trying to justify things as [[natural]].
 		- "want to find a pattern that looks ridiculous"
-		- [[hardau]]
+		- in zurich: [[hardau]] towers
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
