@@ -7,7 +7,8 @@
 - read what we needed to read :)
 	- pattern chosen: [[x]]
 - proposal: design a space following the example in the introductory material? 10-20 patterns combined.
-	- xxxv
+	- [[xxxv]] for example
+	- [[xxxviii]] for [[procedure]]
 
 ## [[2021-05-12]]
 - [[ttwob]]
