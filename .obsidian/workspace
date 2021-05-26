@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading alexander.md",
+                "file": "2021-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading alexander.md"
+                "file": "2021-05-26.md"
               }
             }
           }
@@ -185,10 +185,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc25e85da5ac2757",
+  "active": "7f4febbb4b6a9e6d",
   "lastOpenFiles": [
-    "reading alexander.md",
     "2021-05-26.md",
+    "reading alexander.md",
     "pattern chosen.md",
     "patterns.md",
     "patterning.md",
