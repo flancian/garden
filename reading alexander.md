@@ -10,6 +10,15 @@
 - proposal: design a space following the example in the introductory material? 10-20 patterns combined.
 	- [[xxxv]] for example
 	- [[xxxviii]] for [[procedure]]
+	- [[code]] a generator?
+		- fit between patterns seems represented by recommended patterns at higher and lower level?
+	- [[armengol]] some problems perhaps
+		- we need to imagine a need for building something? what would be the context for the exercise?
+- [[andras]]
+	- pattern: [[filtered light]]
+	- would probably recommend people just go to [[a pattern language]] directly, it seems to be self-contained
+- [[armengol]]
+	- pattern
 
 ## [[2021-05-12]]
 - [[ttwob]]

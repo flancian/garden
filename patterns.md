@@ -5,3 +5,6 @@
 	- [[pull]] [[pattern]]
 	- [[a pattern language]]
 		- [[1]] [[independent regions]]
+		- [[the countryside]]
+		- [[carnival]]
+		- [[filtered light]]
