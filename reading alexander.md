@@ -55,6 +55,7 @@
 			- most sustainable density is about six floors.
 			- the most antisocial aspect of high rises is to have parking-lot-to-living-floor.
 			- isolation in high rises is a big problem though.
+		- [[andreas]] there is a huge grey area between four floors and high rises
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
