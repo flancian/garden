@@ -33,7 +33,9 @@
 		- in a contemporary context a lot of the patterns are very difficult to achieve
 		- aside: would be interesting to model fit/misfit between patterns even as we swap in/out some of them
 	- pattern: [[filtered light]]
-		- mentions how the perception of light gets softened if it's filtered; less high contrast, which is a nice quality.
+		- mentions how the perception of light gets softened if it's filtered; less high contrast, which is a nice quality. for living spaces softness is nice.
+		- film makers think it makes objects more lively: e.g. leaves casting moving shadows.
+		- third reason: 
 - [[armengol]]
 	- pattern: [[window place]]
 	- [[q]] when trying to differentiate between the list of patterns 
