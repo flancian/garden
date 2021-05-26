@@ -59,6 +59,7 @@
 			- zurich proposed having public rooftops and bike lanes between them
 - [[simon]]
 	- [[bus stop]]
+		- liked: both describing a set of objects and activity/life that emerges around those objects
 - [[alice]]
 	- [[interior windows]]
 	- [[pedestrian street]]
