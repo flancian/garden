@@ -41,6 +41,7 @@
 - [[armengol]]
 	- pattern: [[window place]]
 		- thought about this pattern within his home
+		- previous place had an obviously amazing week -- you could see the [[sagrada familia]]
 		- 
 	- [[q]] when trying to differentiate between the list of patterns 
 - [[jonathan]]
