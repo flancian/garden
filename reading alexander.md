@@ -29,7 +29,7 @@
 		- the weakest patterns are the strongly [[utilitarian]]. the stronger ones are "spiritual"
 		- some contradictions between patterns
 			- he loves dense cities and lively areas
-			- 
+			- but he wants height limits and only building on 50% of the area
 - [[armengol]]
 	- pattern: 
 - [[jonathan]]
