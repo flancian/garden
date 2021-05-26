@@ -28,7 +28,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "metabolist.md",
+                    "file": "2021-05-26.md",
                     "mode": "source"
                   }
                 }
@@ -141,9 +141,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f4febbb4b6a9e6d",
+  "active": "e8c7d7d57721e66d",
   "lastOpenFiles": [
     "2021-05-26.md",
+    "metabolist.md",
     "catalog.md",
     "for.md",
     "remarkable 2.md",
@@ -151,7 +152,6 @@
     "2021-05-25.md",
     "clairvoyant.md",
     "login.md",
-    "signup.md",
-    "2021-05-24.md"
+    "signup.md"
   ]
 }
