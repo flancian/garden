@@ -31,7 +31,8 @@
 			- he loves dense cities and lively areas
 			- but he wants height limits and only building on 50% of the area
 		- units per building
-		- in a contemporary context
+		- in a contemporary context a lot of the patterns are very difficult to achieve
+		- aside: would be interesting to model fit/misfit between patterns even as we swap in/out some of them
 - [[armengol]]
 	- pattern: 
 - [[jonathan]]
