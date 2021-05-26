@@ -15,7 +15,6 @@
 	- [[armengol]] some problems perhaps
 		- we need to imagine a need for building something? what would be the context for the exercise?
 - [[andras]]
-	- pattern: [[filtered light]]
 	- would probably recommend people just go to [[a pattern language]] directly, it seems to be self-contained
 	- did something with [[a pattern language]] ~1y ago
 	- it just seems like previous reading wouldn't help learning how to write your own patterns?
@@ -33,6 +32,8 @@
 		- units per building
 		- in a contemporary context a lot of the patterns are very difficult to achieve
 		- aside: would be interesting to model fit/misfit between patterns even as we swap in/out some of them
+	- pattern: [[filtered light]]
+		- mentions how the perception of light gets softened if it's filtered; less high contrast, which is a nice quality.
 - [[armengol]]
 	- pattern: [[window place]]
 	- [[q]] when trying to differentiate between the list of patterns 
