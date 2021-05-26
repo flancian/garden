@@ -3,8 +3,12 @@
 - a [[book club]]
   - [[pull]] [[patterning]]
 
-## [[]]
-## [[may]]
+## [[2021-05-26]]
+- read what we needed to read :)
+	- pattern chosen: [[x]]
+- proposal: design a space following the example in the introductory material? 10-20 patterns combined.
+
+## [[2021-05-12]]
 - [[ttwob]]
 - [[lorand]]
 	- found himself reading in a less analytical way
