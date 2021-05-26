@@ -42,7 +42,9 @@
 	- pattern: [[window place]]
 	- [[q]] when trying to differentiate between the list of patterns 
 - [[jonathan]]
-	- [[four stories]]
+	- [[four stories limit]]
+		- ideology aside: main thing that bothered me in general. trying to justify things as [[natural]].:w
+		- 
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
