@@ -8,27 +8,28 @@
         "type": "split",
         "children": [
           {
-            "id": "b21fd05bcd29c05d",
+            "id": "90ec1eb033ec1a7c",
             "type": "split",
+            "dimension": 12.229491696024159,
             "children": [
               {
-                "id": "bbea07cc3c584323",
+                "id": "ae59c49b3be42d7f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "lacaton and vassal.md",
+                    "file": "governing the commons.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "e8c7d7d57721e66d",
+                "id": "0444216a0f31d5d1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-05-26.md",
+                    "file": "understanding knowledge as a commons.md",
                     "mode": "source"
                   }
                 }
@@ -37,59 +38,118 @@
             "direction": "vertical"
           },
           {
-            "id": "7f4febbb4b6a9e6d",
+            "id": "68655dfd854fce90",
             "type": "leaf",
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-26.md",
+                "file": "2021-05-24.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "b2d0be3b2866e3eb",
+            "id": "5ae8b4b56cd6e718",
             "type": "leaf",
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterning.md",
+                "file": "subjective censorship.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "fc25e85da5ac2757",
+            "id": "743b15cf003adee1",
             "type": "leaf",
+            "dimension": 18.872672370407646,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading alexander.md",
+                "file": "aether.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "07bb2929b930eb3c",
+            "id": "c4752dfca35c9509",
             "type": "leaf",
+            "dimension": 5.032712632108707,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pattern chosen.md",
+                "file": "2021-05-25.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "5d3728e0db1b9a7a",
+            "id": "a79b453f695cfb42",
             "type": "leaf",
+            "dimension": 5.032712632108707,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns.md",
+                "file": "yoga for the future.md",
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "da45d66f5e0ac103",
+            "type": "leaf",
+            "dimension": 10.065425264217414,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hypha.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ec6cb93f833f0a75",
+            "type": "leaf",
+            "dimension": 12.732762959235028,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian plugins.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "089feb5db4c29e31",
+            "type": "split",
+            "dimension": 15.903371917463511,
+            "children": [
+              {
+                "id": "d751188de77a3616",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "trailmarks.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "05b8e43845695140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "atjson.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -119,12 +179,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arcosanti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -135,9 +195,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aa0f3e910050164c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-26.md",
+                "file": "yoga for the future.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +241,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-26.md"
+                "file": "yoga for the future.md"
               }
+            }
+          },
+          {
+            "id": "eaa7f99b4cf5444a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9852b3b70c9ace3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82168a0acbacba",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -185,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8c7d7d57721e66d",
+  "active": "a79b453f695cfb42",
   "lastOpenFiles": [
-    "2021-05-26.md",
-    "pattern chosen.md",
-    "patterns.md",
-    "reading alexander.md",
-    "patterning.md",
-    "metabolist.md",
-    "catalog.md",
-    "for.md",
-    "remarkable 2.md",
-    "mantequillas.md"
+    "yoga for the future.md",
+    "2021-05-25.md",
+    "2021-05-24.md",
+    "gardens yaml.md",
+    "aether.md",
+    "subjective censorship.md",
+    "hypha.md",
+    "⚒.md",
+    "hypha.coop.md",
+    "hypha coop.md"
   ]
 }
