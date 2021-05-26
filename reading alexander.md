@@ -51,7 +51,7 @@
 			- [[sky bridges]]
 		- feeling connected to the city life
 		- [[andreas]] it seems very opinionated, it depends on one's preferences. you might not care about the misfits and have fits with your lifestyle.
-		- [[simon]] four floors doesn't seem high density enough for city life.
+		- [[simon]] four floors doesn't seem high density enough for city life. attitude towards skyrises changes a lot across cultures. singapore for example has a very different disposition towards them.
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
