@@ -53,6 +53,7 @@
 		- [[andreas]] it seems very opinionated, it depends on one's preferences. you might not care about the misfits and have fits with your lifestyle.
 		- [[simon]] four floors doesn't seem high density enough for city life. attitude towards skyrises changes a lot across cultures. singapore for example has a very different disposition towards them.
 			- most sustainable density is about six floors.
+			- the most antisocial aspect of high rises is to have parking-lot-to-living-floor.
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
