@@ -20,7 +20,7 @@
 	- did something with [[a pattern language]] ~1y ago
 	- it just seems like previous reading wouldn't help learning how to write your own patterns?
 		- [[jonathan]] what would you recommend?
-		- 
+		-  
 - [[armengol]]
 	- pattern: 
 - [[jonathan]]
