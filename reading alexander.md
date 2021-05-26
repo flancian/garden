@@ -24,7 +24,8 @@
 	- [[simon]] this is framed as one big project (the three books). what's interesting: there is some goal of trying to provide a set of tools to shape one's environment.
 		- [[notsof]] could almost be computed by a machine
 		- whereas [[apl]] is very much grounded
-		- [[abstract]] -> [[concrete]]
+			- [[abstract]] -> [[concrete]]
+		- topic: what is [[timeless]] and [[beautiful]]. how the environment shapes us as much as we shape the environment.
 - [[armengol]]
 	- pattern: 
 - [[jonathan]]
