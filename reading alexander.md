@@ -41,8 +41,8 @@
 - [[armengol]]
 	- pattern: [[window place]]
 		- thought about this pattern within his home
-		- previous place had an obviously amazing week -- you could see the [[sagrada familia]]
-		- 
+		- previous place had an obviously amazing view -- you could see the [[sagrada familia]]
+		- [[zen view]] is related to this pattern, though, and it relates with something interesting that happened in the old place. the view was [[normalized]]. it became part of the background; like alexander says.
 	- [[q]] when trying to differentiate between the list of patterns 
 - [[jonathan]]
 	- [[four stories limit]]
