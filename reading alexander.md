@@ -56,6 +56,7 @@
 			- the most antisocial aspect of high rises is to have parking-lot-to-living-floor.
 			- isolation in high rises is a big problem though.
 		- [[andreas]] there is a huge grey area between four floors and high rises
+			- zurich proposed having
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
