@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 20.85096903541991,
+            "dimension": 23.78048780487805,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -38,21 +38,9 @@
             "direction": "vertical"
           },
           {
-            "id": "732844dbc4d1e814",
-            "type": "leaf",
-            "dimension": 7.863666740922253,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guo.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "9fbfa674c16badc8",
             "type": "split",
-            "dimension": 17.821341055914456,
+            "dimension": 20.325203252032527,
             "children": [
               {
                 "id": "c3c23903473fb852",
@@ -80,21 +68,9 @@
             "direction": "vertical"
           },
           {
-            "id": "71bcc08f992c1744",
-            "type": "leaf",
-            "dimension": 4.455335263978614,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-23.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "337a1c686e22dffb",
             "type": "leaf",
-            "dimension": 4.455335263978614,
+            "dimension": 5.081300813008132,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +82,7 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 8.910670527957228,
+            "dimension": 10.162601626016263,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +94,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 17.821341055914456,
+            "dimension": 20.325203252032527,
             "children": [
               {
                 "id": "6ba9caa682be390e",
@@ -170,7 +146,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 17.821341055914456,
+            "dimension": 20.325203252032527,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -323,6 +299,7 @@
   "active": "c3c23903473fb852",
   "lastOpenFiles": [
     "young wizards.md",
+    "conflict-files-obsidian-git.md",
     "yoga for the future.md",
     "2021-05-25.md",
     "2021-05-24.md",
@@ -330,7 +307,6 @@
     "aether.md",
     "subjective censorship.md",
     "hypha.md",
-    "⚒.md",
-    "hypha.coop.md"
+    "⚒.md"
   ]
 }
