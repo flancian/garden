@@ -4,8 +4,9 @@
   - [[pull]] [[patterning]]
 
 ## [[2021-05-26]]
-- read what we needed to read :)
-	- pattern chosen: [[x]]
+- I read what we agreed to read :)
+	- [[patterns]]
+	- [[pattern chosen]]
 - proposal: design a space following the example in the introductory material? 10-20 patterns combined.
 	- [[xxxv]] for example
 	- [[xxxviii]] for [[procedure]]
