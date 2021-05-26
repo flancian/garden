@@ -30,6 +30,8 @@
 		- some contradictions between patterns
 			- he loves dense cities and lively areas
 			- but he wants height limits and only building on 50% of the area
+		- units per building
+		- in a contemporary context
 - [[armengol]]
 	- pattern: 
 - [[jonathan]]
