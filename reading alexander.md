@@ -37,10 +37,13 @@
 	- pattern: [[window place]]
 	- [[q]] when trying to differentiate between the list of patterns 
 - [[jonathan]]
-	- 
+	- [[four stories]]
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
+	- [[interior windows]]
+- [[eduardo]]
+	- [[independent regions]]
 
 ## [[2021-05-12]]
 - [[ttwob]]
