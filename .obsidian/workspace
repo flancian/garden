@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 12.229491696024159,
+            "dimension": 20.85096903541991,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -38,61 +38,67 @@
             "direction": "vertical"
           },
           {
-            "id": "68655dfd854fce90",
+            "id": "732844dbc4d1e814",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 7.863666740922253,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-24.md",
+                "file": "guo.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "5ae8b4b56cd6e718",
+            "id": "9fbfa674c16badc8",
+            "type": "split",
+            "dimension": 17.821341055914456,
+            "children": [
+              {
+                "id": "c3c23903473fb852",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "young wizards.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "68655dfd854fce90",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "distributed press.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "71bcc08f992c1744",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 4.455335263978614,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subjective censorship.md",
+                "file": "2021-05-23.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "743b15cf003adee1",
+            "id": "337a1c686e22dffb",
             "type": "leaf",
-            "dimension": 18.872672370407646,
+            "dimension": 4.455335263978614,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aether.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c4752dfca35c9509",
-            "type": "leaf",
-            "dimension": 5.032712632108707,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-25.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a79b453f695cfb42",
-            "type": "leaf",
-            "dimension": 5.032712632108707,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yoga for the future.md",
+                "file": "frenemy.md",
                 "mode": "source"
               }
             }
@@ -100,50 +106,90 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 8.910670527957228,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypha.md",
+                "file": "⚒.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "ec6cb93f833f0a75",
-            "type": "leaf",
-            "dimension": 12.732762959235028,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian plugins.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "089feb5db4c29e31",
+            "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 15.903371917463511,
+            "dimension": 17.821341055914456,
             "children": [
               {
-                "id": "d751188de77a3616",
+                "id": "6ba9caa682be390e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "trailmarks.md",
+                    "file": "frenemy.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "05b8e43845695140",
+                "id": "670129a9354029db",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "atjson.md",
+                    "file": "entropy.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "9631110cf24fec61",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "state of higher order.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "ec6cb93f833f0a75",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian plugins.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "17cf41804b8b958d",
+            "type": "split",
+            "dimension": 17.821341055914456,
+            "children": [
+              {
+                "id": "0d5997891e905142",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kenzo tange.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "5dc5619fc0398c10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "kraftwerk 1.md",
                     "mode": "source"
                   }
                 }
@@ -224,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoga for the future.md",
+                "file": "young wizards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoga for the future.md"
+                "file": "young wizards.md"
               }
             }
           },
@@ -274,8 +320,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a79b453f695cfb42",
+  "active": "c3c23903473fb852",
   "lastOpenFiles": [
+    "young wizards.md",
     "yoga for the future.md",
     "2021-05-25.md",
     "2021-05-24.md",
@@ -284,7 +331,6 @@
     "subjective censorship.md",
     "hypha.md",
     "⚒.md",
-    "hypha.coop.md",
-    "hypha coop.md"
+    "hypha.coop.md"
   ]
 }
