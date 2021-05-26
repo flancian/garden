@@ -35,6 +35,7 @@
 		- aside: would be interesting to model fit/misfit between patterns even as we swap in/out some of them
 - [[armengol]]
 	- pattern: 
+	- [[q]] when trying to differentiate between the list of patterns 
 - [[jonathan]]
 - [[simon]]
 - [[alice]]
