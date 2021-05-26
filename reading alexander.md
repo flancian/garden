@@ -45,7 +45,11 @@
 	- [[four stories limit]]
 		- ideology aside: main thing that bothered me in general. trying to justify things as [[natural]].
 		- "want to find a pattern that looks ridiculous"
-		- in zurich: [[hardau]] towers
+		- in zurich: like [[hardau]] towers 
+		- some justification for this pattern has to do with mental health issues
+		- people who live in high rises are less likely to go out into the world
+			- [[sky bridges]]
+		- feeling connected to the
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
