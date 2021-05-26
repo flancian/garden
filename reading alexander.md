@@ -60,6 +60,8 @@
 - [[simon]]
 	- [[bus stop]]
 		- liked: both describing a set of objects and activity/life that emerges around those objects
+		- "if the knit together" the system is a good one
+		- view things like traffic lights as items of public living
 - [[alice]]
 	- [[interior windows]]
 	- [[pedestrian street]]
