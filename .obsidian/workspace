@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns.md",
+                "file": "pattern chosen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns.md"
+                "file": "pattern chosen.md"
               }
             }
           }
@@ -185,10 +185,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d3728e0db1b9a7a",
+  "active": "07bb2929b930eb3c",
   "lastOpenFiles": [
-    "patterns.md",
     "pattern chosen.md",
+    "patterns.md",
     "reading alexander.md",
     "patterning.md",
     "2021-05-26.md",
