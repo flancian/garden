@@ -1,0 +1,3 @@
+- I had to choose a single pattern from [[a pattern language]] to comment in the team session on [[2021-05-26]]. That is, one of [[patterns]].
+	- shortlist
+		- [[independent regions]]
