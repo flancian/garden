@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "lacaton and vassal.md",
+                    "file": "2021-05-26.md",
                     "mode": "source"
                   }
                 }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading alexander.md",
+                "file": "2021-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading alexander.md"
+                "file": "2021-05-26.md"
               }
             }
           }
@@ -199,17 +199,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f4febbb4b6a9e6d",
+  "active": "bbea07cc3c584323",
   "lastOpenFiles": [
+    "2021-05-26.md",
+    "lacaton and vassal.md",
     "reading alexander.md",
     "patterns.md",
     "patterning.md",
-    "2021-05-26.md",
     "pattern chosen.md",
     "conflict-files-obsidian-git.md",
     "metabolist.md",
     "catalog.md",
-    "for.md",
-    "remarkable 2.md"
+    "for.md"
   ]
 }
