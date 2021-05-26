@@ -63,7 +63,7 @@
 	- [[interior windows]]
 	- [[pedestrian street]]
 		- social glue in society
-		- streets are "too wide" 
+		- streets that are "too wide" are antisocial -- but of course nowadays with covid-19 that might be outdated
 - [[eduardo]]
 	- [[independent regions]]
 
