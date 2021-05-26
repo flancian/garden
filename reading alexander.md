@@ -40,6 +40,7 @@
 		- when planning windows, this pattern is recommended.
 - [[armengol]]
 	- pattern: [[window place]]
+		- thought about this pattern within his home
 	- [[q]] when trying to differentiate between the list of patterns 
 - [[jonathan]]
 	- [[four stories limit]]
