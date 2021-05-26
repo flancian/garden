@@ -46,6 +46,28 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "b2d0be3b2866e3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patterning.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "fc25e85da5ac2757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading alexander.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -113,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-26.md",
+                "file": "reading alexander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-26.md"
+                "file": "reading alexander.md"
               }
             }
           }
@@ -141,8 +163,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8c7d7d57721e66d",
+  "active": "fc25e85da5ac2757",
   "lastOpenFiles": [
+    "reading alexander.md",
+    "patterning.md",
     "2021-05-26.md",
     "metabolist.md",
     "catalog.md",
@@ -150,8 +174,6 @@
     "remarkable 2.md",
     "mantequillas.md",
     "2021-05-25.md",
-    "clairvoyant.md",
-    "login.md",
-    "signup.md"
+    "clairvoyant.md"
   ]
 }
