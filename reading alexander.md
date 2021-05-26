@@ -49,7 +49,7 @@
 		- some justification for this pattern has to do with mental health issues
 		- people who live in high rises are less likely to go out into the world
 			- [[sky bridges]]
-		- feeling connected to the
+		- feeling connected to the city life
 - [[simon]]
 	- [[bus stop]]
 - [[alice]]
