@@ -26,6 +26,7 @@
 		- whereas [[apl]] is very much grounded
 			- [[abstract]] -> [[concrete]]
 		- topic: what is [[timeless]] and [[beautiful]]. how the environment shapes us as much as we shape the environment.
+		- the weakest patterns are the strongly [[utilitarian]]. the stronger ones are spiritual.
 - [[armengol]]
 	- pattern: 
 - [[jonathan]]
