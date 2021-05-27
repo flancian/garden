@@ -5,3 +5,5 @@
 	- [[session 1]] https://lu.ma/ck0cke0x
 		- in [[webinar mode]]
 	- [[git]] https://github.com/TFTInterchange 
+	
+https://twitter.com/flancian/status/1397951325875412993
