@@ -1,4 +1,4 @@
 - a [[mastodon client]]
 	- written in [[elm]]
-	- [[go]] 
-	- [[git]]
+	- [[go]] https://n1k0.github.io/tooty/
+	- [[git]] https://github.com/n1k0/tooty
