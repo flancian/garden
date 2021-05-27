@@ -57,7 +57,29 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "patterning.md",
+                    "file": "2021-05-27.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "a715abb6020b4409",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora editor.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "89d9dbccc66f3110",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "gardens.yaml.md",
                     "mode": "source"
                   }
                 }
@@ -171,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-26.md",
+                "file": "gardens.yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-26.md"
+                "file": "gardens.yaml.md"
               }
             }
           }
@@ -199,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bbea07cc3c584323",
+  "active": "89d9dbccc66f3110",
   "lastOpenFiles": [
+    "gardens.yaml.md",
+    "agora editor.md",
+    "2021-05-27.md",
+    "patterning.md",
+    "pattern chosen.md",
     "2021-05-26.md",
     "lacaton and vassal.md",
     "reading alexander.md",
     "patterns.md",
-    "patterning.md",
-    "pattern chosen.md",
-    "conflict-files-obsidian-git.md",
-    "metabolist.md",
-    "catalog.md",
-    "for.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
