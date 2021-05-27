@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 23.78048780487805,
+            "dimension": 23.780487804878046,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -51,7 +51,7 @@
           {
             "id": "9fbfa674c16badc8",
             "type": "split",
-            "dimension": 20.325203252032527,
+            "dimension": 20.325203252032523,
             "children": [
               {
                 "id": "c3c23903473fb852",
@@ -92,7 +92,7 @@
           {
             "id": "337a1c686e22dffb",
             "type": "leaf",
-            "dimension": 5.081300813008132,
+            "dimension": 5.081300813008131,
             "state": {
               "type": "markdown",
               "state": {
@@ -104,11 +104,23 @@
           {
             "id": "da45d66f5e0ac103",
             "type": "leaf",
-            "dimension": 10.162601626016263,
+            "dimension": 5.081300813008131,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚒.md",
+                "file": "2021-05-28.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "81312818f4299cce",
+            "type": "leaf",
+            "dimension": 5.081300813008131,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subtext.md",
                 "mode": "source"
               }
             }
@@ -116,7 +128,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 20.325203252032527,
+            "dimension": 20.325203252032523,
             "children": [
               {
                 "id": "6ba9caa682be390e",
@@ -168,7 +180,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 20.325203252032527,
+            "dimension": 20.325203252032523,
             "children": [
               {
                 "id": "0d5997891e905142",
@@ -268,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools for thought interchange.md",
+                "file": "subtext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools for thought interchange.md"
+                "file": "subtext.md"
               }
             }
           },
@@ -318,17 +330,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "428e0a2228a7d29c",
+  "active": "81312818f4299cce",
   "lastOpenFiles": [
+    "subtext.md",
+    "2021-05-28.md",
+    "⚒.md",
     "tools for thought interchange.md",
     "knowledge garden overview.md",
     "2021-05-27.md",
     "governing the commons.md",
     "webminar mode.md",
     "young wizards.md",
-    "conflict-files-obsidian-git.md",
-    "yoga for the future.md",
-    "2021-05-25.md",
-    "2021-05-24.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
