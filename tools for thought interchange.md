@@ -3,5 +3,5 @@
 	- [[pull]] [[tools for thought]]
 		- also known as [[tft]]
 	- [[session 1]] https://lu.ma/ck0cke0x
-		- [[webminar mode]]
-	- [[git]]https://github.com/TFTInterchange 
+		- in [[webminar mode]]
+	- [[git]] https://github.com/TFTInterchange 
