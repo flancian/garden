@@ -1,3 +1,4 @@
 - an [[event]]
+	- [[twitter]] #toolsforthought
 	- [[pull]] [[tools for thought]]
 	- [[atjson]] https://lu.ma/ck0cke0x
