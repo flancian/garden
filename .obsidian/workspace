@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gardens.yaml.md",
+                "file": "agora editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gardens.yaml.md"
+                "file": "agora editor.md"
               }
             }
           }
@@ -221,10 +221,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89d9dbccc66f3110",
+  "active": "a715abb6020b4409",
   "lastOpenFiles": [
-    "gardens.yaml.md",
     "agora editor.md",
+    "gardens.yaml.md",
     "2021-05-27.md",
     "patterning.md",
     "pattern chosen.md",
