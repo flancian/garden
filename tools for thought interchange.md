@@ -2,5 +2,5 @@
 	- [[twitter]] #toolsforthought
 	- [[pull]] [[tools for thought]]
 		- also known as [[tft]]
-	- [[atjson]] https://lu.ma/ck0cke0x
-	- [[webminar mode]]
+	- [[session 1]] https://lu.ma/ck0cke0x
+		- [[webminar mode]]
