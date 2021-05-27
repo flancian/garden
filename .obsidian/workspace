@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge garden overview.md",
+                "file": "tools for thought interchange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge garden overview.md"
+                "file": "tools for thought interchange.md"
               }
             }
           },
@@ -318,12 +318,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d75f39b25bc4b4a1",
+  "active": "428e0a2228a7d29c",
   "lastOpenFiles": [
+    "tools for thought interchange.md",
     "knowledge garden overview.md",
     "2021-05-27.md",
     "governing the commons.md",
-    "tools for thought interchange.md",
     "webminar mode.md",
     "young wizards.md",
     "conflict-files-obsidian-git.md",
