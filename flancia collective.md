@@ -17,7 +17,7 @@
     - [[abstract fairy]]
 	- [[bmann]]
     - reach out to a member of the collective if you are interested in joining!
-	- you can opt out of the collective at any moment for any reason. 
+		- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
   - [[goals]]
 	- [[public utility]]
     - [[effective altruism]]
@@ -26,4 +26,5 @@
     - [[promnesia]]
     - [[wikilinks everywhere]]
     - [[moa]]
+	- [[protopoi]]
 
