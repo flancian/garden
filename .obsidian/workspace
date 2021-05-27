@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading alexander.md",
+                "file": "flancia collective.md",
                 "mode": "source"
               }
             }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tooty.md",
+                "file": "flancia collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tooty.md"
+                "file": "flancia collective.md"
               }
             }
           }
@@ -232,17 +232,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7079d00b3a2eb6be",
+  "active": "7f4febbb4b6a9e6d",
   "lastOpenFiles": [
+    "flancia collective.md",
+    "reading alexander.md",
     "tooty.md",
     "2021-05-27.md",
-    "reading alexander.md",
     "agora editor.md",
     "gardens.yaml.md",
     "patterning.md",
     "pattern chosen.md",
     "2021-05-26.md",
-    "lacaton and vassal.md",
-    "patterns.md"
+    "lacaton and vassal.md"
   ]
 }
