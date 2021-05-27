@@ -1,6 +1,6 @@
 - an [[event]]
 	- [[twitter]] #toolsforthought
 	- [[pull]] [[tools for thought]]
-		- [[tft]]
+		- also known as [[tft]]
 	- [[atjson]] https://lu.ma/ck0cke0x
 	- [[webminar mode]]
