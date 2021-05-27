@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading alexander.md",
+                "file": "flancia collective.md",
                 "mode": "source"
               }
             }
@@ -57,7 +57,40 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "patterning.md",
+                    "file": "2021-05-27.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "7079d00b3a2eb6be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tooty.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "a715abb6020b4409",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora editor.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "89d9dbccc66f3110",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "gardens.yaml.md",
                     "mode": "source"
                   }
                 }
@@ -171,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-26.md",
+                "file": "flancia collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-26.md"
+                "file": "flancia collective.md"
               }
             }
           }
@@ -199,17 +232,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bbea07cc3c584323",
+  "active": "7f4febbb4b6a9e6d",
   "lastOpenFiles": [
-    "2021-05-26.md",
-    "lacaton and vassal.md",
+    "flancia collective.md",
     "reading alexander.md",
-    "patterns.md",
+    "tooty.md",
+    "2021-05-27.md",
+    "agora editor.md",
+    "gardens.yaml.md",
     "patterning.md",
     "pattern chosen.md",
-    "conflict-files-obsidian-git.md",
-    "metabolist.md",
-    "catalog.md",
-    "for.md"
+    "2021-05-26.md",
+    "lacaton and vassal.md"
   ]
 }
