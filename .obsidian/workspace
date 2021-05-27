@@ -63,6 +63,17 @@
                 }
               },
               {
+                "id": "7079d00b3a2eb6be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tooty.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
                 "id": "a715abb6020b4409",
                 "type": "leaf",
                 "state": {
@@ -193,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-27.md",
+                "file": "tooty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-27.md"
+                "file": "tooty.md"
               }
             }
           }
@@ -221,8 +232,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2d0be3b2866e3eb",
+  "active": "7079d00b3a2eb6be",
   "lastOpenFiles": [
+    "tooty.md",
     "2021-05-27.md",
     "reading alexander.md",
     "agora editor.md",
@@ -231,7 +243,6 @@
     "pattern chosen.md",
     "2021-05-26.md",
     "lacaton and vassal.md",
-    "patterns.md",
-    "conflict-files-obsidian-git.md"
+    "patterns.md"
   ]
 }
