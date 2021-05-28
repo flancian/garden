@@ -1,0 +1,3 @@
+- a [[person]]
+	- [[twitter]] https://twitter.com/blaine
+	- [[twitter]] [[atjson]] [[conde nast]]

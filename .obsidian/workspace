@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 22.63056092843327,
+            "dimension": 36.90851735015773,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -38,45 +38,9 @@
             "direction": "vertical"
           },
           {
-            "id": "71bcc08f992c1744",
-            "type": "leaf",
-            "dimension": 4.835589941972921,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-23.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "337a1c686e22dffb",
-            "type": "leaf",
-            "dimension": 4.835589941972921,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frenemy.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "da45d66f5e0ac103",
-            "type": "leaf",
-            "dimension": 9.671179883945841,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚒.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 19.342359767891683,
+            "dimension": 31.54574132492114,
             "children": [
               {
                 "id": "efc285d04f618479",
@@ -84,40 +48,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-05-23.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "6ba9caa682be390e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "frenemy.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "670129a9354029db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "entropy.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "9631110cf24fec61",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "state of higher order.md",
+                    "file": "2021-05-28.md",
                     "mode": "source"
                   }
                 }
@@ -139,7 +70,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 19.342359767891683,
+            "dimension": 31.54574132492114,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -153,42 +84,12 @@
                 }
               },
               {
-                "id": "05b8e43845695140",
+                "id": "172d4c60007a6d72",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "atjson.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "17cf41804b8b958d",
-            "type": "split",
-            "dimension": 19.342359767891683,
-            "children": [
-              {
-                "id": "0d5997891e905142",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "kenzo tange.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "5dc5619fc0398c10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "kraftwerk 1.md",
+                    "file": "blaine.md",
                     "mode": "source"
                   }
                 }
@@ -269,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "governing the commons.md",
+                "file": "blaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "governing the commons.md"
+                "file": "blaine.md"
               }
             }
           },
@@ -319,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae59c49b3be42d7f",
+  "active": "172d4c60007a6d72",
   "lastOpenFiles": [
+    "blaine.md",
+    "kenzo tange.md",
+    "atjson.md",
+    "2021-05-28.md",
+    "2021-05-23.md",
+    "frenemy.md",
     "governing the commons.md",
     "2021-05-24.md",
     "gardens yaml.md",
-    "2021-05-28.md",
-    "switzerland.md",
-    "knowledge garden overview.md",
-    "frenemy.md",
-    "subtext.md",
-    "⚒.md",
-    "tools for thought interchange.md"
+    "switzerland.md"
   ]
 }
