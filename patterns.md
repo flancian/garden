@@ -85,5 +85,8 @@
 			- [[public outdoor room]]
 			- [[grave sites]]
 			- [[still water]]
+			- [[local sports]]
+			- [[adventure playground]]
+			- #74 [[animals]]
 		- [[the countryside]]
 		- [[filtered light]]
