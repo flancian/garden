@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frenemy.md",
+                "file": "2021-05-28.md",
                 "mode": "source"
               }
             }
@@ -280,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subtext.md",
+                "file": "2021-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "subtext.md"
+                "file": "2021-05-28.md"
               }
             }
           },
@@ -330,17 +330,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81312818f4299cce",
+  "active": "337a1c686e22dffb",
   "lastOpenFiles": [
-    "subtext.md",
     "2021-05-28.md",
+    "frenemy.md",
+    "subtext.md",
     "⚒.md",
     "tools for thought interchange.md",
     "knowledge garden overview.md",
     "2021-05-27.md",
     "governing the commons.md",
     "webminar mode.md",
-    "young wizards.md",
-    "conflict-files-obsidian-git.md"
+    "young wizards.md"
   ]
 }
