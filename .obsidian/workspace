@@ -8,28 +8,27 @@
         "type": "split",
         "children": [
           {
-            "id": "90ec1eb033ec1a7c",
+            "id": "b21fd05bcd29c05d",
             "type": "split",
-            "dimension": 36.90851735015773,
             "children": [
               {
-                "id": "ae59c49b3be42d7f",
+                "id": "bbea07cc3c584323",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "governing the commons.md",
+                    "file": "2021-05-26.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "0444216a0f31d5d1",
+                "id": "e8c7d7d57721e66d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "understanding knowledge as a commons.md",
+                    "file": "2021-05-26.md",
                     "mode": "source"
                   }
                 }
@@ -38,57 +37,66 @@
             "direction": "vertical"
           },
           {
-            "id": "efc285d04f618479",
+            "id": "7f4febbb4b6a9e6d",
             "type": "leaf",
-            "dimension": 31.54574132492114,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-28.md",
+                "file": "flancia collective.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "089feb5db4c29e31",
+            "id": "68e81b5f03f48b15",
             "type": "split",
-            "dimension": 31.54574132492114,
             "children": [
               {
-                "id": "d751188de77a3616",
+                "id": "b2d0be3b2866e3eb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "trailmarks.md",
+                    "file": "2021-05-28.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "172d4c60007a6d72",
+                "id": "f0e9fd78e296d26f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "blaine.md",
+                    "file": "patterns.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "ec6cb93f833f0a75",
+                "id": "7079d00b3a2eb6be",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "obsidian plugins.md",
+                    "file": "tooty.md",
                     "mode": "source"
                   }
                 }
               }
             ],
             "direction": "vertical"
+          },
+          {
+            "id": "07bb2929b930eb3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pattern chosen.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -118,12 +126,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arcosanti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -134,16 +142,9 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "aa0f3e910050164c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-28.md",
+                "file": "flancia collective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,30 +181,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-28.md"
+                "file": "flancia collective.md"
               }
-            }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           }
         ]
@@ -213,17 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc285d04f618479",
+  "active": "7f4febbb4b6a9e6d",
   "lastOpenFiles": [
-    "2021-05-28.md",
+    "flancia collective.md",
     "patterns.md",
-    "governing the commons.md",
-    "lace of country streets.md",
-    "trailmarks.md",
-    "blaine.md",
-    "bolo bolo.md",
-    "kenzo tange.md",
-    "atjson.md",
-    "2021-05-23.md"
+    "2021-05-28.md",
+    "2021-05-27.md",
+    "reading alexander.md",
+    "tooty.md",
+    "agora editor.md",
+    "gardens.yaml.md",
+    "patterning.md",
+    "pattern chosen.md"
   ]
 }
