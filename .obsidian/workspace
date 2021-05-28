@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 23.780487804878046,
+            "dimension": 25.053533190578154,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -51,7 +51,7 @@
           {
             "id": "9fbfa674c16badc8",
             "type": "split",
-            "dimension": 20.325203252032523,
+            "dimension": 21.413276231263385,
             "children": [
               {
                 "id": "c3c23903473fb852",
@@ -92,19 +92,7 @@
           {
             "id": "337a1c686e22dffb",
             "type": "leaf",
-            "dimension": 5.081300813008131,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-28.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "da45d66f5e0ac103",
-            "type": "leaf",
-            "dimension": 5.081300813008131,
+            "dimension": 5.353319057815846,
             "state": {
               "type": "markdown",
               "state": {
@@ -116,7 +104,7 @@
           {
             "id": "81312818f4299cce",
             "type": "leaf",
-            "dimension": 5.081300813008131,
+            "dimension": 5.353319057815846,
             "state": {
               "type": "markdown",
               "state": {
@@ -128,7 +116,7 @@
           {
             "id": "ecc917675c91e32d",
             "type": "split",
-            "dimension": 20.325203252032523,
+            "dimension": 21.413276231263385,
             "children": [
               {
                 "id": "6ba9caa682be390e",
@@ -180,7 +168,7 @@
           {
             "id": "17cf41804b8b958d",
             "type": "split",
-            "dimension": 20.325203252032523,
+            "dimension": 21.413276231263385,
             "children": [
               {
                 "id": "0d5997891e905142",
