@@ -59,6 +59,8 @@
 			- [[market of many shops]]
 			- [[health center]]
 			- [[housing in between]]
+		- [[informal net]]
+		- [[looped local roads]]
 		- [[the countryside]]
 		- [[carnival]]
 		- [[filtered light]]
