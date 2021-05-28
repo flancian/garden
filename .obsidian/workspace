@@ -29,7 +29,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "knowledge garden overview.md",
+                    "file": "2021-05-28.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "5413f6c812fb75da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "switzerland.md",
                     "mode": "source"
                   }
                 }
@@ -268,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-28.md",
+                "file": "switzerland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-28.md"
+                "file": "switzerland.md"
               }
             }
           },
@@ -318,17 +329,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "337a1c686e22dffb",
+  "active": "5413f6c812fb75da",
   "lastOpenFiles": [
+    "switzerland.md",
     "2021-05-28.md",
+    "knowledge garden overview.md",
     "frenemy.md",
     "subtext.md",
     "⚒.md",
     "tools for thought interchange.md",
-    "knowledge garden overview.md",
     "2021-05-27.md",
     "governing the commons.md",
-    "webminar mode.md",
-    "young wizards.md"
+    "webminar mode.md"
   ]
 }
