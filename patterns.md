@@ -69,7 +69,11 @@
 			- [[raised walk]]
 			- [[bike paths and racks]]
 			- #57 [[children in the city]]
-			- 
+		- [[public open land]] 
+			- #58 [[carnival]]
+			- [[quiet backs]]
+			- [[accessible green]]
+			- [[small public squares]]
+			- [[high p]]
 		- [[the countryside]]
-		- [[carnival]]
 		- [[filtered light]]
