@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns.md",
+                "file": "governing the commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns.md"
+                "file": "governing the commons.md"
               }
             }
           },
@@ -213,12 +213,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc285d04f618479",
+  "active": "ae59c49b3be42d7f",
   "lastOpenFiles": [
+    "governing the commons.md",
     "patterns.md",
     "2021-05-28.md",
     "lace of country streets.md",
-    "governing the commons.md",
     "trailmarks.md",
     "blaine.md",
     "bolo bolo.md",
