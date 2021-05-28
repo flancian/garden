@@ -45,7 +45,11 @@
 			- #34 [[interchange]]
 		- [[face to face]]
 			- #35 [[household mix]]
-			- 
+			- [[degrees of publicness]]
+			- [[house cluster]]
+			- [[row houses]]
+			- [[housing hill]]
+			- #40 [[old people everywhere]]
 		- [[the countryside]]
 		- [[carnival]]
 		- [[filtered light]]
