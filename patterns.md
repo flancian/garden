@@ -58,7 +58,7 @@
 			- [[necklace of community projects]]
 			- [[market of many shops]]
 			- [[health center]]
-			- [[]]
+			- [[housing in between]]
 		- [[the countryside]]
 		- [[carnival]]
 		- [[filtered light]]
