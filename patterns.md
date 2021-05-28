@@ -8,9 +8,10 @@
 			- #2 [[the distribution of towns]]
 			- #3 [[city  country fingers]]
 			- #4 [[agricultural valleys]]
-			- [[lace of country streets]]
-			- [[country towns]]
-			- [[the countryside]]
+			- #5 [[lace of country streets]]
+			- #6 [[country towns]]
+			- #7 [[the countryside]]
+		- 
 		- [[the countryside]]
 		- [[carnival]]
 		- [[filtered light]]
