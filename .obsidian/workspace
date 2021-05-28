@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-28.md",
+                "file": "patterns.md",
                 "mode": "source"
               }
             }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "governing the commons.md",
+                "file": "patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "governing the commons.md"
+                "file": "patterns.md"
               }
             }
           },
@@ -213,17 +213,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae59c49b3be42d7f",
+  "active": "efc285d04f618479",
   "lastOpenFiles": [
+    "patterns.md",
+    "2021-05-28.md",
     "governing the commons.md",
     "trailmarks.md",
     "blaine.md",
     "bolo bolo.md",
-    "2021-05-28.md",
     "kenzo tange.md",
     "atjson.md",
     "2021-05-23.md",
-    "frenemy.md",
-    "2021-05-24.md"
+    "frenemy.md"
   ]
 }
