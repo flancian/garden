@@ -88,33 +88,15 @@
             "direction": "vertical"
           },
           {
-            "id": "48e5a96610f666cb",
-            "type": "split",
-            "children": [
-              {
-                "id": "07bb2929b930eb3c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "pattern chosen.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "5d3728e0db1b9a7a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "patterns.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "07bb2929b930eb3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pattern chosen.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           }
         ],
         "direction": "horizontal"
