@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bolo bolo.md",
+                "file": "trailmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bolo bolo.md"
+                "file": "trailmarks.md"
               }
             }
           },
@@ -231,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f9f61bebcf9dcd6",
+  "active": "d751188de77a3616",
   "lastOpenFiles": [
+    "trailmarks.md",
+    "blaine.md",
     "bolo bolo.md",
     "2021-05-28.md",
-    "blaine.md",
     "kenzo tange.md",
     "atjson.md",
     "2021-05-23.md",
     "frenemy.md",
     "governing the commons.md",
-    "2021-05-24.md",
-    "gardens yaml.md"
+    "2021-05-24.md"
   ]
 }
