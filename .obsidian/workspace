@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-29.md",
+                "file": "obsidian plugin.md",
                 "mode": "source"
               }
             }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-29.md",
+                "file": "obsidian plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-29.md"
+                "file": "obsidian plugin.md"
               }
             }
           },
@@ -215,6 +215,7 @@
   },
   "active": "efc285d04f618479",
   "lastOpenFiles": [
+    "obsidian plugin.md",
     "2021-05-29.md",
     "2021-05-28.md",
     "patterns.md",
@@ -223,7 +224,6 @@
     "trailmarks.md",
     "blaine.md",
     "bolo bolo.md",
-    "kenzo tange.md",
-    "atjson.md"
+    "kenzo tange.md"
   ]
 }
