@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pre commit.md",
+                "file": "2021-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pre commit.md"
+                "file": "2021-05-29.md"
               }
             }
           },
@@ -225,10 +225,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2df69b5c8478290b",
+  "active": "efc285d04f618479",
   "lastOpenFiles": [
-    "pre commit.md",
     "2021-05-29.md",
+    "pre commit.md",
     "obsidian plugin.md",
     "2021-05-28.md",
     "patterns.md",
