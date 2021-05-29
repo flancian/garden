@@ -40,7 +40,7 @@
           {
             "id": "efc285d04f618479",
             "type": "leaf",
-            "dimension": 31.54574132492114,
+            "dimension": 15.772870662460571,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,9 +50,21 @@
             }
           },
           {
+            "id": "2df69b5c8478290b",
+            "type": "leaf",
+            "dimension": 15.772870662460571,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pre commit.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 31.54574132492114,
+            "dimension": 31.545741324921142,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-29.md",
+                "file": "pre commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-29.md"
+                "file": "pre commit.md"
               }
             }
           },
@@ -213,8 +225,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc285d04f618479",
+  "active": "2df69b5c8478290b",
   "lastOpenFiles": [
+    "pre commit.md",
     "2021-05-29.md",
     "obsidian plugin.md",
     "2021-05-28.md",
@@ -223,7 +236,6 @@
     "lace of country streets.md",
     "trailmarks.md",
     "blaine.md",
-    "bolo bolo.md",
-    "kenzo tange.md"
+    "bolo bolo.md"
   ]
 }
