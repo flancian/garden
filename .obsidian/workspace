@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian plugin.md",
+                "file": "2021-05-29.md",
                 "mode": "source"
               }
             }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian plugin.md",
+                "file": "2021-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian plugin.md"
+                "file": "2021-05-29.md"
               }
             }
           },
@@ -215,8 +215,8 @@
   },
   "active": "efc285d04f618479",
   "lastOpenFiles": [
-    "obsidian plugin.md",
     "2021-05-29.md",
+    "obsidian plugin.md",
     "2021-05-28.md",
     "patterns.md",
     "governing the commons.md",
