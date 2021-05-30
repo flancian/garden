@@ -7,4 +7,4 @@ As of [[2021-05-30]], clicking on the link above 'works': it loads the image in 
 - This doesn't work in subnodes.
 - The images should actually be embedded.
 
-There should probably be a
+There should probably be a setting to enable/disable embeddings; same would apply to tweets and perhaps more generally to agora [[transclusions]].
