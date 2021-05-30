@@ -3,7 +3,7 @@
 - a [[project]]
 	- by [[bruno winck]]
 	- [[discord]]  https://discord.gg/YNVeqgez 
-	- [[go]] 
+	- [[go]] https://www.kneaver.com/
 
 - A [[project]].
   - In the [[pkm]] space.

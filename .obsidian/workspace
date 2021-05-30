@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 36.968375136314066,
+            "dimension": 34.172118772018116,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 7.27917121046892,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,11 +52,11 @@
           {
             "id": "53245870fcf147df",
             "type": "leaf",
-            "dimension": 7.27917121046892,
+            "dimension": 22.34524408656266,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kneaver.md",
+                "file": "bruno winck.md",
                 "mode": "source"
               }
             }
@@ -64,7 +64,7 @@
           {
             "id": "30cd4e245d7e1c6d",
             "type": "leaf",
-            "dimension": 14.55834242093784,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +76,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 33.91494002181025,
+            "dimension": 23.351786612984398,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kneaver.md",
+                "file": "bruno winck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kneaver.md"
+                "file": "bruno winck.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   },
   "active": "53245870fcf147df",
   "lastOpenFiles": [
+    "bruno winck.md",
     "kneaver.md",
     "2021-05-30.md",
     "understanding knowledge as a commons.md",
@@ -247,7 +248,6 @@
     "Pasted image 20210530141857.png",
     "cuello de burup.md",
     "blaine.md",
-    "person.md",
-    "governing the commons.md"
+    "person.md"
   ]
 }
