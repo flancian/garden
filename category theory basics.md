@@ -39,4 +39,10 @@ And physical processes.
 
 ![[Pasted image 20210530140116.png]]
 
-The fundamental example is mathematical; composing 
+The fundamental example is mathematical; composing functions as sets.
+
+![[Pasted image 20210530140203.png]]
+![[Pasted image 20210530140223.png]]
+
+Aside: we should put this on youtube.
+
