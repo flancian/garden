@@ -161,3 +161,11 @@ Aside: when you say 'if you compose' something, it'd be nice to have the right n
 Sameness: [[isomorphism]]. Identity is equal to roundtrip.
 
 ![[Pasted image 20210530142018.png]]
+
+A context.
+
+![[Pasted image 20210530142110.png]]
+
+(I needed more time in this slide).
+
+Contexts leads to [[universal constructions]] and [[universal properties]].
