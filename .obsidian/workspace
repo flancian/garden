@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 46.099647710115754,
+            "dimension": 15.903371917463513,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,7 +40,7 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 5.032712632108707,
+            "dimension": 35.22898842476095,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "ba944b0eac45b31d",
             "type": "leaf",
-            "dimension": 5.032712632108707,
+            "dimension": 10.065425264217414,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +64,7 @@
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 43.834927025666836,
+            "dimension": 38.802214393558124,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cuello de burup.md",
+                "file": "2021-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cuello de burup.md"
+                "file": "2021-05-30.md"
               }
             }
           },
@@ -225,10 +225,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba944b0eac45b31d",
+  "active": "2df69b5c8478290b",
   "lastOpenFiles": [
-    "cuello de burup.md",
     "2021-05-30.md",
+    "cuello de burup.md",
     "blaine.md",
     "person.md",
     "governing the commons.md",
