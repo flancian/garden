@@ -1,2 +1,2 @@
 - cuello 19.5 cm
-- 
+- contorno abajo de brazos 41.5 cm
