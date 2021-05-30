@@ -146,9 +146,7 @@ Category theory is interested in [[relations between morphisms]].
 
 ![[Pasted image 20210530141831.png]]
 
-if fg is equal to h, this diagram [[commutes]].
-
-Aside: fix notation in the line above.
+if f;g is equal to h, this diagram [[commutes]].
 
 ![[Pasted image 20210530141857.png]]
 
@@ -158,3 +156,8 @@ Aside: when you say 'if you compose' something, it'd be nice to have the right n
 
 [[commutative diagrams]]
 
+![[Pasted image 20210530141956.png]]
+
+Sameness: [[isomorphism]]. Identity is equal to roundtrip.
+
+![[Pasted image 20210530142018.png]]
