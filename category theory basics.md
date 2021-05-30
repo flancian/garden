@@ -174,4 +174,10 @@ Contexts leads to [[universal constructions]] and [[universal properties]].
 
 Example: [[categorical product]].
 
-You start with objects, no morphisms. From the left diagram, you you construct a 
+You start with objects, no morphisms. From the left diagram, you construct one with [[morphisms]]. In this one, we generalize cartesian product.
+
+![[Pasted image 20210530142319.png]]
+
+[[pushouts]]  Using the information given by f and g, you [[integrate]] two objects.
+
+![[Pasted image 20210530142330.png]]
