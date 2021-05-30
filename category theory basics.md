@@ -75,4 +75,10 @@ Associativity means that brackets are not needed.
 
 ![[Pasted image 20210530140748.png]]
 
-As
+Aside: going from a class in real time to screenshots is one morphism; going from screenshots to notes is another. Going from notes to a chapter or blog post is another.
+
+Associativiy in plugs:
+
+![[Pasted image 20210530140849.png]]
+
+Identity morphism
