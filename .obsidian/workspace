@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 36.90851735015773,
+            "dimension": 43.82022471910113,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -38,9 +38,9 @@
             "direction": "vertical"
           },
           {
-            "id": "efc285d04f618479",
+            "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 15.772870662460571,
+            "dimension": 18.726591760299627,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,21 +50,9 @@
             }
           },
           {
-            "id": "2df69b5c8478290b",
-            "type": "leaf",
-            "dimension": 15.772870662460571,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pre commit.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 31.545741324921142,
+            "dimension": 37.453183520599254,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -225,11 +213,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc285d04f618479",
+  "active": "2df69b5c8478290b",
   "lastOpenFiles": [
     "2021-05-30.md",
-    "2021-05-29.md",
     "pre commit.md",
+    "2021-05-29.md",
     "obsidian plugin.md",
     "2021-05-28.md",
     "patterns.md",
