@@ -52,4 +52,11 @@ We'll be used 'then' notations for compositions, not traditional.
 ![[Pasted image 20210530140312.png]]
 
 We'll relate [[objects]]. The things doing the relating are [[morphisms]].
+
+(here there should be a better screenshot, I couldn't get it on time)
+![[Pasted image 20210530140421.png]]
 ![[Pasted image 20210530140330.png]]
+
+Each morphism has a [[source]] and a [[target]].
+
+We can compose 
