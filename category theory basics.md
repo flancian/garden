@@ -138,4 +138,12 @@ Any directed graph generates a category.
 
 (Aside: a directed graph generates dependency trees.)
 
-But categories are [[richer]] than [[dags]] 
+But categories are [[richer]] than [[directed graphs]], so they aren't used that much as such.
+
+![[Pasted image 20210530141809.png]]
+
+Category theory is interested in [[relations between morphisms]].
+
+![[Pasted image 20210530141831.png]]
+
+if fg is equal to h, this diagram [[com]]
