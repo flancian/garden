@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category theory for programmers.md",
+                "file": "category theory basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category theory for programmers.md"
+                "file": "category theory basics.md"
               }
             }
           },
@@ -225,11 +225,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2df69b5c8478290b",
+  "active": "20bdecf17922ea29",
   "lastOpenFiles": [
+    "category theory basics.md",
     "category theory for programmers.md",
     "2021-05-30.md",
-    "category theory basics.md",
     "cuello de burup.md",
     "blaine.md",
     "person.md",
