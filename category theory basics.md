@@ -23,4 +23,10 @@ Example: composing processes. Mathematical functions, algorithms, physical proce
 
 ![[Pasted image 20210530135825.png]]
 
-Notation: 
+Notation: boxes instead of arrows. Directionality is from left to right.
+
+![[Pasted image 20210530135906.png]]
+
+The output of the first box is the same [[type]] as the input of the second.
+
+![[Pasted image 20210530135937.png]]
