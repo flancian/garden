@@ -9,9 +9,12 @@
     - [[pull]] means [[uprank]]
 	- implement [[autopull]] and [[autopush]]
     - check out [[gtoolkit]]
-    - [[javascript subnodes]]. Think about how they interact Perhaps after merging something from branch search into main.
-  - [[force directed graph]] must auto pull [[force directed graphs]]
-    - fixes a common search case
+    - [[javascript subnodes]]. Think about how they interact with functionality like [[auto pull]], which I disabled by default due to performance issues and would prefer to make into an async call.
+	 - see [[js util]] by [[vera]]
+  	- [[plurals auto pull]]
+		- equals better treatment for [[lists]]
+	  - [[force directed graph]] must auto pull [[force directed graphs]]
+		- fixes a common search case
     - otherwise need to improve search *a lot*
 
 
