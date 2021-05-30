@@ -6,7 +6,8 @@
 	  - part of [[protopoi]], [[dej]]
 
 ## [[next]]
-- [[manifolds]]
-- [[emedding]]
+- [[push]] [[jonathan the utopian]]
+	- [[manifolds]]
+	- [[embeddings]]
 
 
