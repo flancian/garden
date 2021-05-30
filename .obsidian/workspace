@@ -10,7 +10,7 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 10.582010582010582,
+            "dimension": 9.652509652509652,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 10.582010582010582,
+            "dimension": 9.652509652509652,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,9 +32,21 @@
             }
           },
           {
+            "id": "9d1767dbb6c4ba74",
+            "type": "leaf",
+            "dimension": 17.036679536679536,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "break glass.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 44.55026455026455,
+            "dimension": 30.79150579150579,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +58,7 @@
           {
             "id": "30cd4e245d7e1c6d",
             "type": "leaf",
-            "dimension": 34.28571428571428,
+            "dimension": 32.866795366795365,
             "state": {
               "type": "markdown",
               "state": {
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "break glass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "break glass.md"
               }
             }
           },
@@ -178,8 +190,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c13b08cfbe25cf0e",
+  "active": "9d1767dbb6c4ba74",
   "lastOpenFiles": [
+    "break glass.md",
     "2021-05-30.md",
     "obsidian embeds.md",
     "obsidian attachments.md",
@@ -188,7 +201,6 @@
     "blaine.md",
     "kneaver.md",
     "bruno winck.md",
-    "understanding knowledge as a commons.md",
-    "category theory for programmers.md"
+    "understanding knowledge as a commons.md"
   ]
 }
