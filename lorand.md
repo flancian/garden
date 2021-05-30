@@ -1,12 +1,12 @@
 # lorand
 
 - a [[person]]
-	- [[friend]]
+	- [[mathematician]] [[protopian]] [[friend]]
 	- [[pull]] [[jonathan lorand]] [[jonathan the utopian]]
-  - [[member]]
-		  - [[protopoi]]
-		  - [[patterning]]
-		  - [[dej]]
+	- [[member]]
+		- [[protopoi]]
+		- [[patterning]]
+		- [[dej]]
 
 ## [[next]]
 - [[push]] [[jonathan the utopian]]
