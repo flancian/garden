@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20210530.md",
+                "file": "break glass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20210530.md"
+                "file": "break glass.md"
               }
             }
           },
@@ -166,6 +166,14 @@
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "49a0eb72df05c98e",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
             }
           }
@@ -190,13 +198,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2af582f84f5b5597",
+  "active": "9d1767dbb6c4ba74",
   "lastOpenFiles": [
+    "break glass.md",
     "Day Planners/Day Planner-20210530.md",
     "obsidian embeds.md",
     "2021-05-30.md",
     "category theory basics.md",
-    "break glass.md",
     "obsidian attachments.md",
     "chunking express.md",
     "blaine.md",
