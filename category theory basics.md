@@ -184,6 +184,8 @@ You start with objects, no morphisms. From the left diagram, you construct one w
 
 Additional structures: [[monoidal products]]. A way to compose objects and morphisms "in parallel".
 
-(Aside: it would be nice to have original and post-)
+(Aside: it would be nice to have original and post application of composition side by side or top to bottom).
 
+(Aside: missing screenshot here, find in Pictures)
+![[Pasted image 20210530142541.png]]
 ![[Pasted image 20210530142425.png]]
