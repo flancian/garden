@@ -162,6 +162,8 @@ Sameness: [[isomorphism]]. Identity is equal to roundtrip.
 
 ![[Pasted image 20210530142018.png]]
 
+(in the category of sets/functions, an isomorphism is equivalent to a [[bijection]]. in continuous topological spaces, it )
+
 A context.
 
 ![[Pasted image 20210530142110.png]]
