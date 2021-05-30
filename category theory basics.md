@@ -146,4 +146,15 @@ Category theory is interested in [[relations between morphisms]].
 
 ![[Pasted image 20210530141831.png]]
 
-if fg is equal to h, this diagram [[com]]
+if fg is equal to h, this diagram [[commutes]].
+
+Aside: fix notation in the line above.
+
+![[Pasted image 20210530141857.png]]
+
+Aside: when you say 'if you compose' something, it'd be nice to have the right notation for the composition on screen.
+
+![[Pasted image 20210530141942.png]]
+
+[[commutative diagrams]]
+
