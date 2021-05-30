@@ -11,13 +11,14 @@
     - check out [[gtoolkit]]
     - [[javascript subnodes]]. Think about how they interact with functionality like [[auto pull]], which I disabled by default due to performance issues and would prefer to make into an async call.
 	 - see [[js util]] by [[vera]]
-  	- [[plurals auto pull]]
+  	- [[push]] [[plurals auto pull]]
 		- equals better treatment for [[lists]]
-	  - [[force directed graph]] must auto pull [[force directed graphs]]
+	    - [[force directed graph]] must auto pull [[force directed graphs]]
 	    - that is, auto pull plurals
-		- fixes a common search case now broken (ne)
+		- fixes a common search case now broken (as we only do [[exact match]])
 		- auto pull makes 'or' behaviour of search trivially implementable
 		- auto pulls are [[morphisms]]
+		- any search policy/ranking can be expressed as a composition of morphisms
 		
 
 
