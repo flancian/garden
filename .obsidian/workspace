@@ -10,19 +10,7 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 8.916629514043692,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-30.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "42deaa9f8f442481",
-            "type": "leaf",
-            "dimension": 8.916629514043692,
+            "dimension": 9.78952520802741,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +22,7 @@
           {
             "id": "38bb3b00bfab96d1",
             "type": "leaf",
-            "dimension": 11.54703522068658,
+            "dimension": 12.677435144395496,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +34,7 @@
           {
             "id": "49bd66f641dd316f",
             "type": "leaf",
-            "dimension": 11.54703522068658,
+            "dimension": 12.677435144395496,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +46,7 @@
           {
             "id": "3bf2d541bb7a98ca",
             "type": "leaf",
-            "dimension": 8.916629514043692,
+            "dimension": 9.78952520802741,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "2042d836291ac9c0",
             "type": "leaf",
-            "dimension": 14.043691484618813,
+            "dimension": 15.418502202643172,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +70,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 8.916629514043692,
+            "dimension": 9.78952520802741,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -123,7 +111,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 10.298707088720464,
+            "dimension": 11.30690161527166,
             "state": {
               "type": "markdown",
               "state": {
@@ -135,7 +123,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 16.897012929112794,
+            "dimension": 18.55115026921194,
             "state": {
               "type": "markdown",
               "state": {
@@ -274,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "38bb3b00bfab96d1",
   "lastOpenFiles": [
