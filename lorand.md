@@ -2,8 +2,8 @@
 
 - a [[person]]
 	- [[friend]]
-	  - [[pull]] [[jonathan lorand]] [[jonathan the utopian]]
-	  - [[member]]
+	- [[pull]] [[jonathan lorand]] [[jonathan the utopian]]
+  - [[member]]
 		  - [[protopoi]]
 		  - [[patterning]]
 		  - [[dej]]
