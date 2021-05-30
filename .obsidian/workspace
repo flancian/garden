@@ -10,7 +10,7 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 10.582010582010582,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 6.25,
+            "dimension": 10.582010582010582,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,21 +32,9 @@
             }
           },
           {
-            "id": "04096bee8ea51fda",
-            "type": "leaf",
-            "dimension": 6.25,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian attachments.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 25,
+            "dimension": 44.55026455026455,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +46,7 @@
           {
             "id": "30cd4e245d7e1c6d",
             "type": "leaf",
-            "dimension": 50,
+            "dimension": 34.28571428571428,
             "state": {
               "type": "markdown",
               "state": {
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian attachments.md",
+                "file": "obsidian embeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian attachments.md"
+                "file": "obsidian embeds.md"
               }
             }
           },
@@ -190,12 +178,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "04096bee8ea51fda",
+  "active": "7abcb8972baaed4d",
   "lastOpenFiles": [
+    "obsidian embeds.md",
     "obsidian attachments.md",
     "2021-05-30.md",
     "chunking express.md",
-    "obsidian embeds.md",
     "category theory basics.md",
     "blaine.md",
     "kneaver.md",
