@@ -84,3 +84,8 @@ Associativiy in plugs:
 Identity morphisms: morphisms that do nothing. Like a zero in addition.
 
 Identity morphism for functions: the identity function.
+
+![[Pasted image 20210530140955.png]]
+
+A converter that converts to the same electrical standard is just an extension that can become a converter of any type.
+
