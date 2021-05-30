@@ -35,4 +35,8 @@ You can also compose physical components, of course.
 
 ![[Pasted image 20210530140048.png]]
 
-Aside: this e
+And physical processes.
+
+![[Pasted image 20210530140116.png]]
+
+The fundamental example is mathematical; composing 
