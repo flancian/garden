@@ -10,7 +10,7 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 10.683760683760683,
+            "dimension": 19.389238972370336,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "9d1767dbb6c4ba74",
             "type": "leaf",
-            "dimension": 18.856837606837605,
+            "dimension": 34.22200678623365,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 17.04059829059829,
+            "dimension": 30.925836160930686,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,35 +46,11 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 8.520299145299145,
+            "dimension": 15.462918080465343,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Day Planners/Day Planner-20210530.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d07a3172fe4185d0",
-            "type": "leaf",
-            "dimension": 8.520299145299145,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian embeds.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "30cd4e245d7e1c6d",
-            "type": "leaf",
-            "dimension": 36.378205128205124,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category theory basics.md",
                 "mode": "source"
               }
             }
@@ -152,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category theory basics.md",
+                "file": "obsidian embeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category theory basics.md"
+                "file": "obsidian embeds.md"
               }
             }
           },
@@ -210,11 +186,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30cd4e245d7e1c6d",
+  "active": "7abcb8972baaed4d",
   "lastOpenFiles": [
-    "category theory basics.md",
     "obsidian embeds.md",
     "Day Planners/Day Planner-20210530.md",
+    "category theory basics.md",
     "break glass.md",
     "2021-05-30.md",
     "obsidian attachments.md",
