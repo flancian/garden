@@ -14,7 +14,10 @@
   	- [[plurals auto pull]]
 		- equals better treatment for [[lists]]
 	  - [[force directed graph]] must auto pull [[force directed graphs]]
-		- fixes a common search case
-    - otherwise need to improve search *a lot*
+	    - that is, auto pull plurals
+		- fixes a common search case now broken (ne)
+		- auto pull makes 'or' behaviour of search trivially implementable
+		- auto pulls are [[morphisms]]
+		
 
 
