@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 17.060895822848515,
+            "dimension": 36.968375136314066,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,30 +40,31 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 13.437342727730247,
+            "dimension": 14.55834242093784,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category theory for programmers.md",
+                "file": "2021-05-30.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "20bdecf17922ea29",
+            "id": "30cd4e245d7e1c6d",
             "type": "leaf",
-            "dimension": 53.85002516356317,
+            "dimension": 14.55834242093784,
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20210530141857.png"
+                "file": "category theory basics.md",
+                "mode": "source"
               }
             }
           },
           {
             "id": "089feb5db4c29e31",
             "type": "split",
-            "dimension": 15.651736285858078,
+            "dimension": 33.91494002181025,
             "children": [
               {
                 "id": "d751188de77a3616",
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20210530141857.png",
+                "file": "category theory basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20210530141857.png"
+                "file": "category theory basics.md"
               }
             }
           },
@@ -224,12 +225,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20bdecf17922ea29",
+  "active": "30cd4e245d7e1c6d",
   "lastOpenFiles": [
-    "Pasted image 20210530141857.png",
     "category theory basics.md",
-    "category theory for programmers.md",
     "2021-05-30.md",
+    "category theory for programmers.md",
+    "Pasted image 20210530141857.png",
     "cuello de burup.md",
     "blaine.md",
     "person.md",
