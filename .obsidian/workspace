@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chunking express.md",
+                "file": "2021-05-30.md",
                 "mode": "source"
               }
             }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chungking mansions.md",
+                "file": "2021-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chungking mansions.md"
+                "file": "2021-05-30.md"
               }
             }
           },
@@ -276,12 +276,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "49bd66f641dd316f",
+  "active": "42deaa9f8f442481",
   "lastOpenFiles": [
+    "2021-05-30.md",
+    "chunking express.md",
     "chungking mansions.md",
     "chungking express.md",
-    "chunking express.md",
-    "2021-05-30.md",
     "later.md",
     "regex.md",
     "onkyo volume.md",
