@@ -61,7 +61,9 @@ Each morphism has a [[source]] and a [[target]].
 
 We can compose morphisms when the target of the first matches the source of the second.
 
-Common feature of all examples: they are a[[associative]].
+Common feature of all examples: they are a[[associative]]. The order of *composition* doesn't matter; the order of application may. (check)
 
 ![[Pasted image 20210530140543.png]]
+
+![[Pasted image 20210530140623.png]]
 
