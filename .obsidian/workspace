@@ -10,7 +10,7 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 19.389238972370336,
+            "dimension": 23.391812865497073,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,21 +20,39 @@
             }
           },
           {
-            "id": "9d1767dbb6c4ba74",
-            "type": "leaf",
-            "dimension": 34.22200678623365,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "break glass.md",
-                "mode": "source"
+            "id": "dcfa6e896ea2b01d",
+            "type": "split",
+            "dimension": 20.643274853801174,
+            "children": [
+              {
+                "id": "9d1767dbb6c4ba74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "break glass.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "2e018ef0a7717f8c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "later.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 30.925836160930686,
+            "dimension": 37.30994152046783,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +64,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 15.462918080465343,
+            "dimension": 18.654970760233915,
             "state": {
               "type": "markdown",
               "state": {
@@ -128,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian embeds.md",
+                "file": "later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian embeds.md"
+                "file": "later.md"
               }
             }
           },
@@ -186,17 +204,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7abcb8972baaed4d",
+  "active": "2e018ef0a7717f8c",
   "lastOpenFiles": [
-    "obsidian embeds.md",
-    "Day Planners/Day Planner-20210530.md",
-    "category theory basics.md",
+    "later.md",
     "break glass.md",
+    "Day Planners/Day Planner-20210530.md",
+    "obsidian embeds.md",
     "2021-05-30.md",
+    "category theory basics.md",
     "obsidian attachments.md",
     "chunking express.md",
     "blaine.md",
-    "kneaver.md",
-    "bruno winck.md"
+    "kneaver.md"
   ]
 }
