@@ -1,0 +1,3 @@
+- a [[project]]
+	- to make my [[amplifier]] be at whichever volume I choose with the minimum possible friction
+	- I use [[onkyo eiscp]]
