@@ -54,10 +54,9 @@
             "type": "leaf",
             "dimension": 53.85002516356317,
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "category theory basics.md",
-                "mode": "source"
+                "file": "Pasted image 20210530141857.png"
               }
             }
           },
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category theory basics.md",
+                "file": "Pasted image 20210530141857.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category theory basics.md"
+                "file": "Pasted image 20210530141857.png"
               }
             }
           },
@@ -227,6 +226,7 @@
   },
   "active": "20bdecf17922ea29",
   "lastOpenFiles": [
+    "Pasted image 20210530141857.png",
     "category theory basics.md",
     "category theory for programmers.md",
     "2021-05-30.md",
@@ -235,7 +235,6 @@
     "person.md",
     "governing the commons.md",
     "pre commit.md",
-    "2021-05-29.md",
-    "obsidian plugin.md"
+    "2021-05-29.md"
   ]
 }
