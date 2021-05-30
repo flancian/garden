@@ -59,4 +59,9 @@ We'll relate [[objects]]. The things doing the relating are [[morphisms]].
 
 Each morphism has a [[source]] and a [[target]].
 
-We can compose 
+We can compose morphisms when the target of the first matches the source of the second.
+
+Common feature of all examples: they are a[[associative]].
+
+![[Pasted image 20210530140543.png]]
+
