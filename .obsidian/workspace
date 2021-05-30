@@ -34,11 +34,23 @@
           {
             "id": "49bd66f641dd316f",
             "type": "leaf",
-            "dimension": 12.677435144395496,
+            "dimension": 6.338717572197748,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "41a2b56692f95a24",
+            "type": "leaf",
+            "dimension": 6.338717572197748,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tier im recht.md",
                 "mode": "source"
               }
             }
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "tier im recht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "tier im recht.md"
               }
             }
           },
@@ -266,8 +278,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49bd66f641dd316f",
+  "active": "41a2b56692f95a24",
   "lastOpenFiles": [
+    "tier im recht.md",
     "2021-05-30.md",
     "chungking mansions.md",
     "lorand.md",
@@ -276,7 +289,6 @@
     "chunking express.md",
     "later.md",
     "regex.md",
-    "onkyo volume.md",
-    "regular expression.md"
+    "onkyo volume.md"
   ]
 }
