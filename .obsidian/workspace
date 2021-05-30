@@ -10,11 +10,23 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 25,
+            "dimension": 12.5,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c13b08cfbe25cf0e",
+            "type": "leaf",
+            "dimension": 12.5,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chunking express.md",
                 "mode": "source"
               }
             }
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian embeds.md",
+                "file": "chunking express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian embeds.md"
+                "file": "chunking express.md"
               }
             }
           },
@@ -166,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7abcb8972baaed4d",
+  "active": "c13b08cfbe25cf0e",
   "lastOpenFiles": [
-    "obsidian embeds.md",
+    "chunking express.md",
     "2021-05-30.md",
+    "obsidian embeds.md",
     "blaine.md",
     "kneaver.md",
     "bruno winck.md",
     "understanding knowledge as a commons.md",
     "category theory basics.md",
     "category theory for programmers.md",
-    "Pasted image 20210530141857.png",
-    "cuello de burup.md"
+    "Pasted image 20210530141857.png"
   ]
 }
