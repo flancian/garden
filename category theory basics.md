@@ -132,3 +132,10 @@ The [[category of journeys]]:
 
 (Aside: some screenshots might be duplicate, they are likely from two moments that felt significant)
 
+Any directed graph generates a category.
+
+![[Pasted image 20210530141716.png]]
+
+(Aside: a directed graph generates dependency trees.)
+
+But categories are [[richer]] than [[dags]] 
