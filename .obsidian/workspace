@@ -34,11 +34,23 @@
           {
             "id": "38bb3b00bfab96d1",
             "type": "leaf",
-            "dimension": 23.09407044137316,
+            "dimension": 11.54703522068658,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "chungking express.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "49bd66f641dd316f",
+            "type": "leaf",
+            "dimension": 11.54703522068658,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chungking mansions.md",
                 "mode": "source"
               }
             }
@@ -58,7 +70,7 @@
           {
             "id": "2042d836291ac9c0",
             "type": "leaf",
-            "dimension": 14.043691484618815,
+            "dimension": 14.043691484618813,
             "state": {
               "type": "markdown",
               "state": {
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chungking express.md",
+                "file": "chungking mansions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chungking express.md"
+                "file": "chungking mansions.md"
               }
             }
           },
@@ -264,8 +276,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "38bb3b00bfab96d1",
+  "active": "49bd66f641dd316f",
   "lastOpenFiles": [
+    "chungking mansions.md",
     "chungking express.md",
     "chunking express.md",
     "2021-05-30.md",
@@ -274,7 +287,6 @@
     "onkyo volume.md",
     "regular expression.md",
     "Day Planners/Day Planner-20210530.md",
-    "action code.md",
-    "break glass.md"
+    "action code.md"
   ]
 }
