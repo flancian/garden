@@ -3,7 +3,7 @@
 - a [[person]]
 	- [[friend]]
 	  - [[pull]] [[jonathan lorand]] [[jonathan the utopian]]
-	  - [[member
+	  - [[member]]
 		  - [[protopoi]]
 		  - [[patterning]]
 		  - [[dej]]
