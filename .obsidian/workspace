@@ -8,21 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "2df69b5c8478290b",
-            "type": "leaf",
-            "dimension": 9.652509652509652,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-30.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 9.652509652509652,
+            "dimension": 10.683760683760683,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +22,7 @@
           {
             "id": "9d1767dbb6c4ba74",
             "type": "leaf",
-            "dimension": 17.036679536679536,
+            "dimension": 18.856837606837605,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +34,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 30.79150579150579,
+            "dimension": 17.04059829059829,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,9 +44,21 @@
             }
           },
           {
+            "id": "2af582f84f5b5597",
+            "type": "leaf",
+            "dimension": 17.04059829059829,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20210530.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "30cd4e245d7e1c6d",
             "type": "leaf",
-            "dimension": 32.866795366795365,
+            "dimension": 36.378205128205124,
             "state": {
               "type": "markdown",
               "state": {
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "Day Planners/Day Planner-20210530.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "Day Planners/Day Planner-20210530.md"
               }
             }
           },
@@ -190,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c13b08cfbe25cf0e",
+  "active": "2af582f84f5b5597",
   "lastOpenFiles": [
-    "2021-05-30.md",
-    "break glass.md",
-    "category theory basics.md",
+    "Day Planners/Day Planner-20210530.md",
     "obsidian embeds.md",
+    "2021-05-30.md",
+    "category theory basics.md",
+    "break glass.md",
     "obsidian attachments.md",
     "chunking express.md",
     "blaine.md",
     "kneaver.md",
-    "bruno winck.md",
-    "understanding knowledge as a commons.md"
+    "bruno winck.md"
   ]
 }
