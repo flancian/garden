@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category theory basics.md",
+                "file": "2021-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category theory basics.md"
+                "file": "2021-05-30.md"
               }
             }
           },
@@ -225,10 +225,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30cd4e245d7e1c6d",
+  "active": "2df69b5c8478290b",
   "lastOpenFiles": [
-    "category theory basics.md",
     "2021-05-30.md",
+    "category theory basics.md",
     "category theory for programmers.md",
     "Pasted image 20210530141857.png",
     "cuello de burup.md",
