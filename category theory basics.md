@@ -128,3 +128,7 @@ The [[category of plugs and chords]]:
 The [[category of journeys]]:
 
 ![[Pasted image 20210530141542.png]]
+![[Pasted image 20210530141611.png]]
+
+(Aside: some screenshots might be duplicate, they are likely from two moments that felt significant)
+
