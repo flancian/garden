@@ -22,11 +22,23 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 6.25,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chunking express.md",
+                "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "04096bee8ea51fda",
+            "type": "leaf",
+            "dimension": 6.25,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian attachments.md",
                 "mode": "source"
               }
             }
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian embeds.md",
+                "file": "obsidian attachments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian embeds.md"
+                "file": "obsidian attachments.md"
               }
             }
           },
@@ -178,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7abcb8972baaed4d",
+  "active": "04096bee8ea51fda",
   "lastOpenFiles": [
+    "obsidian attachments.md",
+    "2021-05-30.md",
+    "chunking express.md",
     "obsidian embeds.md",
     "category theory basics.md",
-    "chunking express.md",
-    "2021-05-30.md",
     "blaine.md",
     "kneaver.md",
     "bruno winck.md",
     "understanding knowledge as a commons.md",
-    "category theory for programmers.md",
-    "Pasted image 20210530141857.png"
+    "category theory for programmers.md"
   ]
 }
