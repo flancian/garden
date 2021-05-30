@@ -66,4 +66,4 @@ Common feature of all examples: they are a[[associative]]. The order of *composi
 ![[Pasted image 20210530140543.png]]
 
 ![[Pasted image 20210530140623.png]]
-
+![[Pasted image 20210530140657.png]]
