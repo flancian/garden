@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "category theory for programmers.md",
                 "mode": "source"
               }
             }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category theory basics.md",
+                "file": "category theory for programmers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category theory basics.md"
+                "file": "category theory for programmers.md"
               }
             }
           },
@@ -225,17 +225,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20bdecf17922ea29",
+  "active": "2df69b5c8478290b",
   "lastOpenFiles": [
-    "category theory basics.md",
+    "category theory for programmers.md",
     "2021-05-30.md",
+    "category theory basics.md",
     "cuello de burup.md",
     "blaine.md",
     "person.md",
     "governing the commons.md",
     "pre commit.md",
     "2021-05-29.md",
-    "obsidian plugin.md",
-    "2021-05-28.md"
+    "obsidian plugin.md"
   ]
 }
