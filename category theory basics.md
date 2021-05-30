@@ -46,3 +46,10 @@ The fundamental example is mathematical; composing functions as sets.
 
 Aside: we should put this on youtube.
 
+We'll be used 'then' notations for compositions, not traditional.
+
+![[Pasted image 20210530140255.png]]
+![[Pasted image 20210530140312.png]]
+
+We'll relate [[objects]]. The things doing the relating are [[morphisms]].
+![[Pasted image 20210530140330.png]]
