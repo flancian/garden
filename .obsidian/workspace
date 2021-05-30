@@ -22,11 +22,23 @@
           {
             "id": "38bb3b00bfab96d1",
             "type": "leaf",
-            "dimension": 6.338717572197748,
+            "dimension": 3.169358786098874,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8f9610cf1db3dd24",
+            "type": "leaf",
+            "dimension": 3.169358786098874,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vgn fun.md",
                 "mode": "source"
               }
             }
@@ -231,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "white rabbit bakery.md",
+                "file": "2021-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "white rabbit bakery.md"
+                "file": "2021-05-30.md"
               }
             }
           },
@@ -290,17 +302,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03465750f6dcb49d",
+  "active": "49bd66f641dd316f",
   "lastOpenFiles": [
-    "white rabbit bakery.md",
     "2021-05-30.md",
+    "white rabbit bakery.md",
+    "vgn fun.md",
     "lorand.md",
     "tier im recht.md",
     "chungking mansions.md",
     "member.md",
     "chungking express.md",
     "chunking express.md",
-    "later.md",
-    "regex.md"
+    "later.md"
   ]
 }

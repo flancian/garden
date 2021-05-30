@@ -1,0 +1,2 @@
+- [[go]] https://www.vgnfun.ch
+	- great [[vegan]] burgers
