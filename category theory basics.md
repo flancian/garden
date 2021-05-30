@@ -30,3 +30,9 @@ Notation: boxes instead of arrows. Directionality is from left to right.
 The output of the first box is the same [[type]] as the input of the second.
 
 ![[Pasted image 20210530135937.png]]
+
+You can also compose physical components, of course.
+
+![[Pasted image 20210530140048.png]]
+
+Aside: this e
