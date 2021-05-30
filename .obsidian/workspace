@@ -10,11 +10,23 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 23.391812865497073,
+            "dimension": 11.695906432748536,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2042d836291ac9c0",
+            "type": "leaf",
+            "dimension": 11.695906432748536,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "regex.md",
                 "mode": "source"
               }
             }
@@ -123,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arcosanti",
+                "query": "regex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "regex.md"
               }
             }
           },
@@ -226,8 +239,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c13b08cfbe25cf0e",
+  "active": "2042d836291ac9c0",
   "lastOpenFiles": [
+    "regex.md",
     "2021-05-30.md",
     "Day Planners/Day Planner-20210530.md",
     "later.md",
@@ -236,7 +250,6 @@
     "break glass.md",
     "obsidian embeds.md",
     "category theory basics.md",
-    "obsidian attachments.md",
-    "chunking express.md"
+    "obsidian attachments.md"
   ]
 }
