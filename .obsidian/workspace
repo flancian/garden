@@ -46,11 +46,23 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 17.04059829059829,
+            "dimension": 8.520299145299145,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Day Planners/Day Planner-20210530.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d07a3172fe4185d0",
+            "type": "leaf",
+            "dimension": 8.520299145299145,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian embeds.md",
                 "mode": "source"
               }
             }
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "break glass.md",
+                "file": "category theory basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "break glass.md"
+                "file": "category theory basics.md"
               }
             }
           },
@@ -198,13 +210,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d1767dbb6c4ba74",
+  "active": "30cd4e245d7e1c6d",
   "lastOpenFiles": [
-    "break glass.md",
-    "Day Planners/Day Planner-20210530.md",
-    "obsidian embeds.md",
-    "2021-05-30.md",
     "category theory basics.md",
+    "obsidian embeds.md",
+    "Day Planners/Day Planner-20210530.md",
+    "break glass.md",
+    "2021-05-30.md",
     "obsidian attachments.md",
     "chunking express.md",
     "blaine.md",
