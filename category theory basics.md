@@ -81,4 +81,6 @@ Associativiy in plugs:
 
 ![[Pasted image 20210530140849.png]]
 
-Identity morphism
+Identity morphisms: morphisms that do nothing. Like a zero in addition.
+
+Identity morphism for functions: the identity function.
