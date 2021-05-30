@@ -10,7 +10,7 @@
           {
             "id": "90ec1eb033ec1a7c",
             "type": "split",
-            "dimension": 15.903371917463513,
+            "dimension": 15.903371917463511,
             "children": [
               {
                 "id": "ae59c49b3be42d7f",
@@ -40,11 +40,23 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 35.22898842476095,
+            "dimension": 17.614494212380475,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "20bdecf17922ea29",
+            "type": "leaf",
+            "dimension": 17.614494212380475,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category theory basics.md",
                 "mode": "source"
               }
             }
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "category theory basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "category theory basics.md"
               }
             }
           },
@@ -225,8 +237,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2df69b5c8478290b",
+  "active": "20bdecf17922ea29",
   "lastOpenFiles": [
+    "category theory basics.md",
     "2021-05-30.md",
     "cuello de burup.md",
     "blaine.md",
@@ -235,7 +248,6 @@
     "pre commit.md",
     "2021-05-29.md",
     "obsidian plugin.md",
-    "2021-05-28.md",
-    "patterns.md"
+    "2021-05-28.md"
   ]
 }
