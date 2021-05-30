@@ -113,4 +113,11 @@ Composition:
 
 ![[Pasted image 20210530141330.png]]
 
-Unitality: identity "works" (I think this was)
+Unitality: identity "works" (I think this was the concept I thought hadn't been defined previously):
+
+![[Pasted image 20210530141404.png]]
+
+The [[category of sets and functions]] plays a central role in category.
+
+![[Pasted image 20210530141427.png]]
+
