@@ -8,9 +8,37 @@
         "type": "split",
         "children": [
           {
-            "id": "2df69b5c8478290b",
+            "id": "b21fd05bcd29c05d",
+            "type": "split",
+            "children": [
+              {
+                "id": "bbea07cc3c584323",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-05-26.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "e8c7d7d57721e66d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-05-26.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "7f4febbb4b6a9e6d",
             "type": "leaf",
-            "dimension": 12.5,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,9 +48,8 @@
             }
           },
           {
-            "id": "c13b08cfbe25cf0e",
+            "id": "fb71ba983a9beb7e",
             "type": "leaf",
-            "dimension": 12.5,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,25 +59,52 @@
             }
           },
           {
-            "id": "7abcb8972baaed4d",
-            "type": "leaf",
-            "dimension": 25,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian embeds.md",
-                "mode": "source"
+            "id": "68e81b5f03f48b15",
+            "type": "split",
+            "children": [
+              {
+                "id": "b2d0be3b2866e3eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-05-28.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "f0e9fd78e296d26f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "patterns.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "7079d00b3a2eb6be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tooty.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "30cd4e245d7e1c6d",
+            "id": "07bb2929b930eb3c",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category theory basics.md",
+                "file": "pattern chosen.md",
                 "mode": "source"
               }
             }
@@ -83,12 +137,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arcosanti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -99,16 +153,9 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "aa0f3e910050164c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,28 +195,6 @@
                 "file": "chunking express.md"
               }
             }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
         ]
       }
@@ -178,17 +203,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c13b08cfbe25cf0e",
+  "active": "fb71ba983a9beb7e",
   "lastOpenFiles": [
     "chunking express.md",
     "2021-05-30.md",
-    "obsidian embeds.md",
-    "blaine.md",
-    "kneaver.md",
-    "bruno winck.md",
-    "understanding knowledge as a commons.md",
-    "category theory basics.md",
-    "category theory for programmers.md",
-    "Pasted image 20210530141857.png"
+    "flancia collective.md",
+    "patterns.md",
+    "2021-05-28.md",
+    "2021-05-27.md",
+    "reading alexander.md",
+    "tooty.md",
+    "agora editor.md",
+    "gardens.yaml.md"
   ]
 }
