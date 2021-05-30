@@ -8,39 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "90ec1eb033ec1a7c",
-            "type": "split",
-            "dimension": 34.172118772018116,
-            "children": [
-              {
-                "id": "ae59c49b3be42d7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "governing the commons.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "0444216a0f31d5d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "understanding knowledge as a commons.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 25,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,13 +20,13 @@
             }
           },
           {
-            "id": "53245870fcf147df",
+            "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 22.34524408656266,
+            "dimension": 25,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kneaver.md",
+                "file": "obsidian embeds.md",
                 "mode": "source"
               }
             }
@@ -64,7 +34,7 @@
           {
             "id": "30cd4e245d7e1c6d",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
@@ -72,47 +42,6 @@
                 "mode": "source"
               }
             }
-          },
-          {
-            "id": "089feb5db4c29e31",
-            "type": "split",
-            "dimension": 23.351786612984398,
-            "children": [
-              {
-                "id": "d751188de77a3616",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "trailmarks.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "172d4c60007a6d72",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "blaine.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "ec6cb93f833f0a75",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian plugins.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -187,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kneaver.md",
+                "file": "obsidian embeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kneaver.md"
+                "file": "obsidian embeds.md"
               }
             }
           },
@@ -237,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53245870fcf147df",
+  "active": "7abcb8972baaed4d",
   "lastOpenFiles": [
+    "obsidian embeds.md",
+    "2021-05-30.md",
+    "blaine.md",
     "kneaver.md",
     "bruno winck.md",
-    "2021-05-30.md",
     "understanding knowledge as a commons.md",
     "category theory basics.md",
     "category theory for programmers.md",
     "Pasted image 20210530141857.png",
-    "cuello de burup.md",
-    "blaine.md",
-    "person.md"
+    "cuello de burup.md"
   ]
 }
