@@ -10,7 +10,7 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 11.695906432748536,
+            "dimension": 12.430800201308505,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "2042d836291ac9c0",
             "type": "leaf",
-            "dimension": 5.847953216374268,
+            "dimension": 45.24408656265727,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,21 +32,9 @@
             }
           },
           {
-            "id": "8b96ddbe3d0aea2e",
-            "type": "leaf",
-            "dimension": 5.847953216374268,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "regular expression.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 20.643274853801174,
+            "dimension": 10.065425264217414,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -87,7 +75,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "onkyo volume.md",
+                    "file": "later.md",
                     "mode": "source"
                   }
                 }
@@ -98,7 +86,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 37.30994152046783,
+            "dimension": 12.430800201308505,
             "state": {
               "type": "markdown",
               "state": {
@@ -110,7 +98,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 18.654970760233915,
+            "dimension": 19.828887770508306,
             "state": {
               "type": "markdown",
               "state": {
@@ -193,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "regular expression.md",
+                "file": "later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "regular expression.md"
+                "file": "later.md"
               }
             }
           },
@@ -230,7 +218,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "9852b3b70c9ace3c",
@@ -248,18 +237,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8b96ddbe3d0aea2e",
+  "active": "82232e5e65841aef",
   "lastOpenFiles": [
-    "regular expression.md",
+    "later.md",
+    "onkyo volume.md",
     "regex.md",
+    "regular expression.md",
     "2021-05-30.md",
     "Day Planners/Day Planner-20210530.md",
-    "later.md",
     "action code.md",
-    "onkyo volume.md",
     "break glass.md",
     "obsidian embeds.md",
     "category theory basics.md"
