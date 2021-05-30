@@ -67,3 +67,12 @@ Common feature of all examples: they are a[[associative]]. The order of *composi
 
 ![[Pasted image 20210530140623.png]]
 ![[Pasted image 20210530140657.png]]
+![[Pasted image 20210530140711.png]]
+
+This was [[true]] for all the examples we looked at so far.
+
+Associativity means that brackets are not needed.
+
+![[Pasted image 20210530140748.png]]
+
+As
