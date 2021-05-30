@@ -40,11 +40,23 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 14.55834242093784,
+            "dimension": 7.27917121046892,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "53245870fcf147df",
+            "type": "leaf",
+            "dimension": 7.27917121046892,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kneaver.md",
                 "mode": "source"
               }
             }
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "kneaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "kneaver.md"
               }
             }
           },
@@ -225,17 +237,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2df69b5c8478290b",
+  "active": "53245870fcf147df",
   "lastOpenFiles": [
+    "kneaver.md",
     "2021-05-30.md",
+    "understanding knowledge as a commons.md",
     "category theory basics.md",
     "category theory for programmers.md",
     "Pasted image 20210530141857.png",
     "cuello de burup.md",
     "blaine.md",
     "person.md",
-    "governing the commons.md",
-    "pre commit.md",
-    "2021-05-29.md"
+    "governing the commons.md"
   ]
 }
