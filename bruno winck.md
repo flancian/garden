@@ -5,6 +5,7 @@
 	- [[pull]] [[brunowinck]]
 	- [[twitter]] twitter.com/brunowinck
 	- [[go]] kneaver.com/bruno
-	- [[kneaver]] [[pkmchat]]
+	- project [[kneaver]] 
+	- organizes[[pkmchat]]
 
 

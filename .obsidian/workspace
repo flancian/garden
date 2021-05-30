@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bruno winck.md",
+                "file": "kneaver.md",
                 "mode": "source"
               }
             }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bruno winck.md",
+                "file": "kneaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bruno winck.md"
+                "file": "kneaver.md"
               }
             }
           },
@@ -239,8 +239,8 @@
   },
   "active": "53245870fcf147df",
   "lastOpenFiles": [
-    "bruno winck.md",
     "kneaver.md",
+    "bruno winck.md",
     "2021-05-30.md",
     "understanding knowledge as a commons.md",
     "category theory basics.md",
