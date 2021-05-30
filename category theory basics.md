@@ -101,6 +101,16 @@ Mathematical notion of a category
 
 Aside: I think most concepts had been introduced before except one?
 
-"F is a morphism from X to Y"
+"F is a morphism from X to Y":
 
 ![[Pasted image 20210530141245.png]]
+
+Identity morphisms:
+
+![[Pasted image 20210530141302.png]]
+
+Composition:
+
+![[Pasted image 20210530141330.png]]
+
+Unitality: identity "works" (I think this was)
