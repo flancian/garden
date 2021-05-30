@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "white rabbit bakery.md",
                 "mode": "source"
               }
             }
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "white rabbit bakery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "white rabbit bakery.md"
               }
             }
           },
@@ -304,8 +304,8 @@
   },
   "active": "49bd66f641dd316f",
   "lastOpenFiles": [
-    "2021-05-30.md",
     "white rabbit bakery.md",
+    "2021-05-30.md",
     "vgn fun.md",
     "lorand.md",
     "tier im recht.md",

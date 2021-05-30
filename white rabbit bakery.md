@@ -1,3 +1,6 @@
 - Probably the best bakery in [[zurich]].
 	- [[vegan]]
+	- [[email]] whiterabbitbakerych@gmail.com
+	- [[phone]] 079 175 34 51
+	- [[instagram]] @whiterabbitbakery_ch
 	- [[bianca legorreta]]
