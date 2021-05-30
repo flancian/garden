@@ -95,4 +95,12 @@ A converter that converts to the same electrical standard is just an extension t
 
 ![[Pasted image 20210530141124.png]]
 
-iMathematical notion of a categ
+Mathematical notion of a category
+
+![[Pasted image 20210530141159.png]]
+
+Aside: I think most concepts had been introduced before except one?
+
+"F is a morphism from X to Y"
+
+![[Pasted image 20210530141245.png]]
