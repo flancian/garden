@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chungking express.md",
+                "file": "lorand.md",
                 "mode": "source"
               }
             }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chungking express.md",
+                "file": "lorand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chungking express.md"
+                "file": "lorand.md"
               }
             }
           },
@@ -278,6 +278,7 @@
   },
   "active": "38bb3b00bfab96d1",
   "lastOpenFiles": [
+    "lorand.md",
     "chungking express.md",
     "2021-05-30.md",
     "chunking express.md",
@@ -286,7 +287,6 @@
     "regex.md",
     "onkyo volume.md",
     "regular expression.md",
-    "Day Planners/Day Planner-20210530.md",
-    "action code.md"
+    "Day Planners/Day Planner-20210530.md"
   ]
 }
