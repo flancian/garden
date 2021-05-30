@@ -178,6 +178,12 @@ You start with objects, no morphisms. From the left diagram, you construct one w
 
 ![[Pasted image 20210530142319.png]]
 
-[[pushouts]]  Using the information given by f and g, you [[integrate]] two objects.
+[[pushouts]]  Using the information given by f and g, you [[integrate]] two objects (check).
 
 ![[Pasted image 20210530142330.png]]
+
+Additional structures: [[monoidal products]]. A way to compose objects and morphisms "in parallel".
+
+(Aside: it would be nice to have original and post-)
+
+![[Pasted image 20210530142425.png]]
