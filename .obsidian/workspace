@@ -10,7 +10,7 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 9.78952520802741,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,9 +20,21 @@
             }
           },
           {
+            "id": "016afe51bc88879a",
+            "type": "leaf",
+            "dimension": 25.70077676460655,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ocell.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "38bb3b00bfab96d1",
             "type": "leaf",
-            "dimension": 3.169358786098874,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +46,7 @@
           {
             "id": "8f9610cf1db3dd24",
             "type": "leaf",
-            "dimension": 3.169358786098874,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +58,7 @@
           {
             "id": "03465750f6dcb49d",
             "type": "leaf",
-            "dimension": 6.338717572197748,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "49bd66f641dd316f",
             "type": "leaf",
-            "dimension": 6.338717572197748,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "41a2b56692f95a24",
             "type": "leaf",
-            "dimension": 6.338717572197748,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "3bf2d541bb7a98ca",
             "type": "leaf",
-            "dimension": 9.78952520802741,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "2042d836291ac9c0",
             "type": "leaf",
-            "dimension": 15.418502202643172,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 9.78952520802741,
+            "dimension": 6.754474839581223,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -147,7 +159,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 11.30690161527166,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -159,7 +171,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 18.55115026921194,
+            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
@@ -243,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "white rabbit bakery.md",
+                "file": "ocell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "white rabbit bakery.md"
+                "file": "ocell.md"
               }
             }
           },
@@ -302,17 +314,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49bd66f641dd316f",
+  "active": "016afe51bc88879a",
   "lastOpenFiles": [
-    "white rabbit bakery.md",
+    "ocell.md",
     "2021-05-30.md",
+    "white rabbit bakery.md",
     "vgn fun.md",
     "lorand.md",
     "tier im recht.md",
     "chungking mansions.md",
     "member.md",
     "chungking express.md",
-    "chunking express.md",
-    "later.md"
+    "chunking express.md"
   ]
 }

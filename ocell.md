@@ -1,5 +1,6 @@
 # Ocell
 
+- a [[cat]]
 - Our cat: https://twitter.com/flancian/status/1325024046346539008/photo/1
 - A Spanish shelter cat. We adopted her when she was a bit over a year old.
 - We picked her up in Brugg on [[2020-11-07]].
