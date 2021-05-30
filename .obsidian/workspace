@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "break glass.md",
+                "file": "category theory basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "break glass.md"
+                "file": "category theory basics.md"
               }
             }
           },
@@ -190,14 +190,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d1767dbb6c4ba74",
+  "active": "30cd4e245d7e1c6d",
   "lastOpenFiles": [
+    "category theory basics.md",
     "break glass.md",
     "2021-05-30.md",
     "obsidian embeds.md",
     "obsidian attachments.md",
     "chunking express.md",
-    "category theory basics.md",
     "blaine.md",
     "kneaver.md",
     "bruno winck.md",
