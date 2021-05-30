@@ -9,4 +9,10 @@ Notions that are important in category theory. Commutative diagrams; categories 
 
 Aside: I'm reading Feynman and this fits in amazingly well with the introduction of that book, six easy pieces.
 
-An [[elegant framework]] for reasoning about situations where we are composing stuff together.
+An [[elegant framework]] for reasoning about situations where we are composing stuff together. [[modeling]], [[computation]].
+
+Category theory is about [[composing stuff]] together.
+
+![[Pasted image 20210530135718.png]]
+
+Example: composing [[journeys]].
