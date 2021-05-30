@@ -166,6 +166,12 @@ A context.
 
 ![[Pasted image 20210530142110.png]]
 
-(I needed more time in this slide).
+(Aside: I needed more time in this slide).
 
 Contexts leads to [[universal constructions]] and [[universal properties]].
+
+![[Pasted image 20210530142206.png]]
+
+Example: [[categorical product]].
+
+You start with objects, no morphisms. From the left diagram, you you construct a 
