@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "break glass.md",
+                "file": "2021-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "break glass.md"
+                "file": "2021-05-30.md"
               }
             }
           },
@@ -190,11 +190,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d1767dbb6c4ba74",
+  "active": "c13b08cfbe25cf0e",
   "lastOpenFiles": [
+    "2021-05-30.md",
     "break glass.md",
     "category theory basics.md",
-    "2021-05-30.md",
     "obsidian embeds.md",
     "obsidian attachments.md",
     "chunking express.md",
