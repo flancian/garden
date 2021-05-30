@@ -15,10 +15,10 @@
 		- equals better treatment for [[lists]]
 	    - [[force directed graph]] must auto pull [[force directed graphs]]
 	    - that is, auto pull plurals
-		- fixes a common search case now broken (as we only do [[exact match]])
-		- auto pull makes 'or' behaviour of search trivially implementable
-		- auto pulls are [[morphisms]]
-		- any search policy/ranking can be expressed as a composition of morphisms
+		- fixes a common search case now broken (as we only do [[exact match]] plus resolution of user-specified, so explicit, [[pulls]])
+			- auto pull makes 'or' behaviour of search trivially implementable
+			- auto pulls are [[action code]] that implements a [[morphism]]
+			- any search policy/ranking can be expressed as a composition of morphisms
 		
 
 
