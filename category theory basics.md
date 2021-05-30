@@ -117,7 +117,14 @@ Unitality: identity "works" (I think this was the concept I thought hadn't been 
 
 ![[Pasted image 20210530141404.png]]
 
-The [[category of sets and functions]] plays a central role in category.
+The [[category of sets and functions]] plays a central role in category:
 
 ![[Pasted image 20210530141427.png]]
 
+The [[category of plugs and chords]]:
+
+![[Pasted image 20210530141507.png]]
+
+The [[category of journeys]]:
+
+![[Pasted image 20210530141542.png]]
