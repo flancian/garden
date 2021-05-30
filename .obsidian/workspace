@@ -22,11 +22,23 @@
           {
             "id": "2042d836291ac9c0",
             "type": "leaf",
-            "dimension": 11.695906432748536,
+            "dimension": 5.847953216374268,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "regex.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8b96ddbe3d0aea2e",
+            "type": "leaf",
+            "dimension": 5.847953216374268,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "regular expression.md",
                 "mode": "source"
               }
             }
@@ -181,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "regex.md",
+                "file": "regular expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "regex.md"
+                "file": "regular expression.md"
               }
             }
           },
@@ -239,8 +251,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2042d836291ac9c0",
+  "active": "8b96ddbe3d0aea2e",
   "lastOpenFiles": [
+    "regular expression.md",
     "regex.md",
     "2021-05-30.md",
     "Day Planners/Day Planner-20210530.md",
@@ -249,7 +262,6 @@
     "onkyo volume.md",
     "break glass.md",
     "obsidian embeds.md",
-    "category theory basics.md",
-    "obsidian attachments.md"
+    "category theory basics.md"
   ]
 }
