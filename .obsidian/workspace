@@ -40,11 +40,23 @@
           {
             "id": "2df69b5c8478290b",
             "type": "leaf",
-            "dimension": 18.726591760299627,
+            "dimension": 9.363295880149813,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0749f2ab8c056bec",
+            "type": "leaf",
+            "dimension": 9.363295880149813,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cuello de burup.md",
                 "mode": "source"
               }
             }
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "cuello de burup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "cuello de burup.md"
               }
             }
           },
@@ -213,8 +225,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2df69b5c8478290b",
+  "active": "0749f2ab8c056bec",
   "lastOpenFiles": [
+    "cuello de burup.md",
     "2021-05-30.md",
     "pre commit.md",
     "2021-05-29.md",
@@ -223,7 +236,6 @@
     "patterns.md",
     "governing the commons.md",
     "lace of country streets.md",
-    "trailmarks.md",
-    "blaine.md"
+    "trailmarks.md"
   ]
 }
