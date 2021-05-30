@@ -1,3 +1,5 @@
-- [[pull]] [[regexp]]
-- I can't believe they didn't have a node until [[2021-05-30]].
-	- I love [[regexes]].
+- a [[language]]
+	- [[pull]] [[regexp]]
+		- https://stackoverflow.com/questions/3058246/which-is-the-correct-shorthand-regex-or-regexp
+	- I can't believe they didn't have a node until [[2021-05-30]].
+		- I love [[regexes]].
