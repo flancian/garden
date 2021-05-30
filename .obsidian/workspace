@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "chunking express.md",
                 "mode": "source"
               }
             }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "later.md",
+                "file": "chunking express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "later.md"
+                "file": "chunking express.md"
               }
             }
           },
@@ -240,17 +240,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3bf2d541bb7a98ca",
+  "active": "c13b08cfbe25cf0e",
   "lastOpenFiles": [
-    "later.md",
+    "chunking express.md",
     "2021-05-30.md",
+    "later.md",
     "regex.md",
     "onkyo volume.md",
     "regular expression.md",
     "Day Planners/Day Planner-20210530.md",
     "action code.md",
     "break glass.md",
-    "obsidian embeds.md",
-    "category theory basics.md"
+    "obsidian embeds.md"
   ]
 }
