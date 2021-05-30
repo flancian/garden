@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-05-29.md",
+                "file": "2021-05-30.md",
                 "mode": "source"
               }
             }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-29.md",
+                "file": "2021-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-29.md"
+                "file": "2021-05-30.md"
               }
             }
           },
@@ -227,6 +227,7 @@
   },
   "active": "efc285d04f618479",
   "lastOpenFiles": [
+    "2021-05-30.md",
     "2021-05-29.md",
     "pre commit.md",
     "obsidian plugin.md",
@@ -235,7 +236,6 @@
     "governing the commons.md",
     "lace of country streets.md",
     "trailmarks.md",
-    "blaine.md",
-    "bolo bolo.md"
+    "blaine.md"
   ]
 }
