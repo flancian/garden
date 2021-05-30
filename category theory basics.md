@@ -16,3 +16,11 @@ Category theory is about [[composing stuff]] together.
 ![[Pasted image 20210530135718.png]]
 
 Example: composing [[journeys]].
+
+![[Pasted image 20210530135755.png]]
+
+Example: composing processes. Mathematical functions, algorithms, physical processes.
+
+![[Pasted image 20210530135825.png]]
+
+Notation: 
