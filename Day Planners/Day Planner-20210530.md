@@ -1,7 +1,7 @@
 ## Day Planner
 - [[plan]] [[do]]
-	- [ ] adopt day planner
 	- [ ] [[obsidian embeds]]
+	- [ ] adopt day planner
 	- [ ] fund [[flancia collective]]
 	- [x] [[learn]]
 	- [x] [[protopoi]]
