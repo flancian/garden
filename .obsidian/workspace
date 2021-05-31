@@ -81,6 +81,17 @@
             }
           },
           {
+            "id": "d0f56076a77ba63f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5d chess with multiverse time travel.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "2799f4d827f94181",
             "type": "leaf",
             "state": {
@@ -235,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "branching chess.md",
+                "file": "5d chess with multiverse time travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "branching chess.md"
+                "file": "5d chess with multiverse time travel.md"
               }
             }
           }
@@ -263,8 +274,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "45b6723ed9ad463c",
+  "active": "d0f56076a77ba63f",
   "lastOpenFiles": [
+    "5d chess with multiverse time travel.md",
     "branching chess.md",
     "conflict-files-obsidian-git.md",
     "2021-05-31.md",
@@ -273,7 +285,6 @@
     "wong kar wai.md",
     "2021-05-30.md",
     "flancia collective.md",
-    "patterns.md",
-    "2021-05-28.md"
+    "patterns.md"
   ]
 }
