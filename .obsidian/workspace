@@ -81,6 +81,17 @@
             }
           },
           {
+            "id": "2799f4d827f94181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "8acbd285e20a4eff",
             "type": "leaf",
             "state": {
@@ -106,11 +117,8 @@
             "id": "faa302f9ef23d4ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -230,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "branching chess.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "branching chess.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -258,14 +266,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "45b6723ed9ad463c",
+  "active": "2799f4d827f94181",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "branching chess.md",
     "2021-05-31.md",
     "photoprism.md",
     "chunking express.md",
     "wong kar wai.md",
-    "conflict-files-obsidian-git.md",
     "2021-05-30.md",
     "flancia collective.md",
     "patterns.md",

@@ -1,0 +1,7 @@
+- a [[language]]
+	- [[wp]] https://en.wikipedia.org/wiki/Regular_expression
+		- [[go]] [[wp]]
+	- [[pull]] [[regexp]] [[regular expression]]
+		- https://stackoverflow.com/questions/3058246/which-is-the-correct-shorthand-regex-or-regexp
+	- I can't believe they didn't have a node until [[2021-05-30]].
+		- I love [[regexes]].

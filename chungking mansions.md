@@ -1,0 +1,6 @@
+- a [[building]]
+	- perhaps an [[arcology]]
+		- I'll never forget Chungking Mansions.
+	- [[wp]] https://en.wikipedia.org/wiki/Chungking_Mansions
+		- [[go]] [[wp]]
+	- they feature in [[chungking express]]

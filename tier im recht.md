@@ -1,0 +1,6 @@
+- an [[organization]]
+	- for [[animal rights]]
+	- [[swiss]]
+	- [[go]] www.tierimrecht.org/en
+	- [[pull]] [[tieren recht]]
+	- I found it through [[moena zeller]]

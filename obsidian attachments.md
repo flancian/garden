@@ -1,0 +1,1 @@
+- [[pull]] [[obsidian embeds]]
