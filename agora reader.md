@@ -1,0 +1,1 @@
+- a device that the [[agora]] tries to give to every user in [[flancia]].
