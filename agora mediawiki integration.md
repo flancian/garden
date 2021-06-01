@@ -1,0 +1,1 @@
+[[metasj]] There's no RC for cat membership, but [https://www.mediawiki.org/wiki/API:Categorymembers](https://www.mediawiki.org/wiki/API:Categorymembers) returns a full current list, and for incremental updates [https://www.mediawiki.org/wiki/API:Usercontribs](https://www.mediawiki.org/wiki/API:Usercontribs) with ucshow=new returns new pages created by a user.
