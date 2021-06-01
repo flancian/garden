@@ -1,4 +1,6 @@
-- an [[interlay]] and [[overlay]] for [[linguistics]]
-	- [[commercial]]
-	- its open source version is [[nosketch engine]], which is limited
-	- [[wp]] []
+- a [[tool]]
+	- an [[interlay]] and [[overlay]] for [[linguistics]]
+		- [[commercial]]
+		- its open source version is [[nosketch engine]], which is limited
+	- [[wp]] https://en.wikipedia.org/wiki/Sketch_Engine
+	- [[go]] https://www.sketchengine.eu/
