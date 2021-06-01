@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-01.md",
+                "file": "agora reader.md",
                 "mode": "source"
               }
             }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora search.md",
+                "file": "agora reader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora search.md"
+                "file": "agora reader.md"
               }
             }
           }
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f369660fbb1f7377",
+  "active": "07bb2929b930eb3c",
   "lastOpenFiles": [
-    "agora search.md",
+    "agora reader.md",
     "2021-06-01.md",
+    "agora search.md",
     "pattern chosen.md",
     "patterns.md",
     "chunking express.md",
     "branching chess.md",
     "5d chess.md",
     "5d chess with multiverse time travel.md",
-    "conflict-files-obsidian-git.md",
-    "2021-05-31.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
