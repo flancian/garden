@@ -1,5 +1,7 @@
 # Agora Search
 
+https://twitter.com/flancian/status/1399779789368664065
+
 - The [[agora]] is in essence equivalent to a [[distributed]] [[wiki]]. 
   - Note you could theoretically use a wiki to [[crowdsource]] search results; in the limit, think of having a wiki page for every likely user query.
   - Perhaps [[agora search]] tries to find a good match for your query locally and redirects to other agoras in the network or to [[google]] or [[duckduckgo]] if a good local result isn't available. 
