@@ -53,7 +53,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-01.md",
+                "file": "2021-06-02.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0dd202a162337858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora mediawiki integration.md",
                 "mode": "source"
               }
             }
@@ -146,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-01.md",
+                "file": "agora mediawiki integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-01.md"
+                "file": "agora mediawiki integration.md"
               }
             }
           }
@@ -174,8 +185,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "898ed821b1dbc218",
+  "active": "0dd202a162337858",
   "lastOpenFiles": [
+    "agora mediawiki integration.md",
+    "2021-06-02.md",
     "2021-06-01.md",
     "sketch engine.md",
     "agora reader.md",
@@ -183,8 +196,6 @@
     "agora search.md",
     "pattern chosen.md",
     "patterns.md",
-    "chunking express.md",
-    "branching chess.md",
-    "5d chess.md"
+    "chunking express.md"
   ]
 }
