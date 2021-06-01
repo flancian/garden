@@ -8,147 +8,27 @@
         "type": "split",
         "children": [
           {
-            "id": "c13b08cfbe25cf0e",
-            "type": "leaf",
-            "dimension": 6.754474839581223,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-30.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "016afe51bc88879a",
-            "type": "leaf",
-            "dimension": 25.70077676460655,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ocell.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "38bb3b00bfab96d1",
-            "type": "leaf",
-            "dimension": 6.754474839581223,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-05-30.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8f9610cf1db3dd24",
-            "type": "leaf",
-            "dimension": 6.754474839581223,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vgn fun.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "03465750f6dcb49d",
-            "type": "leaf",
-            "dimension": 6.754474839581223,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "white rabbit bakery.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "49bd66f641dd316f",
-            "type": "leaf",
-            "dimension": 6.754474839581223,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "white rabbit bakery.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "41a2b56692f95a24",
-            "type": "leaf",
-            "dimension": 6.754474839581223,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tier im recht.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3bf2d541bb7a98ca",
-            "type": "leaf",
-            "dimension": 6.754474839581223,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "later.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2042d836291ac9c0",
-            "type": "leaf",
-            "dimension": 6.754474839581223,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "regex.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "dcfa6e896ea2b01d",
+            "id": "b21fd05bcd29c05d",
             "type": "split",
-            "dimension": 6.754474839581223,
             "children": [
               {
-                "id": "9d1767dbb6c4ba74",
+                "id": "bbea07cc3c584323",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "break glass.md",
+                    "file": "2021-05-26.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "2e018ef0a7717f8c",
+                "id": "e8c7d7d57721e66d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "later.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "4a54815fc38d912c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "action code.md",
+                    "file": "2021-05-26.md",
                     "mode": "source"
                   }
                 }
@@ -157,25 +37,156 @@
             "direction": "vertical"
           },
           {
-            "id": "7abcb8972baaed4d",
+            "id": "7f4febbb4b6a9e6d",
             "type": "leaf",
-            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian embeds.md",
+                "file": "2021-05-30.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "2af582f84f5b5597",
+            "id": "fb71ba983a9beb7e",
             "type": "leaf",
-            "dimension": 6.754474839581223,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20210530.md",
+                "file": "2021-05-31.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "56eed9af91cd346a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-31.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "45b6723ed9ad463c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "branching chess.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d0f56076a77ba63f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5d chess with multiverse time travel.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "53c67859ce4597f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5d chess.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2799f4d827f94181",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8acbd285e20a4eff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wong kar wai.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "1a06faffd6b653c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chunking express.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "faa302f9ef23d4ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "68e81b5f03f48b15",
+            "type": "split",
+            "children": [
+              {
+                "id": "b2d0be3b2866e3eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-05-28.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "f0e9fd78e296d26f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "patterns.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "7079d00b3a2eb6be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tooty.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "07bb2929b930eb3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pattern chosen.md",
                 "mode": "source"
               }
             }
@@ -208,12 +219,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -224,22 +235,13 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "aa0f3e910050164c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "afe2921ea1b550bb",
@@ -255,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ocell.md",
+                "file": "5d chess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,39 +274,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ocell.md"
+                "file": "5d chess.md"
               }
-            }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "49a0eb72df05c98e",
-            "type": "leaf",
-            "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           }
         ]
@@ -314,17 +285,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "016afe51bc88879a",
+  "active": "53c67859ce4597f4",
   "lastOpenFiles": [
-    "ocell.md",
+    "5d chess.md",
+    "5d chess with multiverse time travel.md",
+    "branching chess.md",
+    "conflict-files-obsidian-git.md",
+    "2021-05-31.md",
+    "photoprism.md",
+    "chunking express.md",
+    "wong kar wai.md",
     "2021-05-30.md",
-    "white rabbit bakery.md",
-    "vgn fun.md",
-    "lorand.md",
-    "tier im recht.md",
-    "chungking mansions.md",
-    "member.md",
-    "chungking express.md",
-    "chunking express.md"
+    "flancia collective.md"
   ]
 }
