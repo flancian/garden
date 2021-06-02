@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sisters with transistors.md",
+                "file": "2021-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sisters with transistors.md"
+                "file": "2021-06-02.md"
               }
             }
           }
@@ -196,10 +196,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ef22b7c033ba5ae",
+  "active": "898ed821b1dbc218",
   "lastOpenFiles": [
-    "sisters with transistors.md",
     "2021-06-02.md",
+    "sisters with transistors.md",
     "agora mediawiki integration.md",
     "2021-06-01.md",
     "sketch engine.md",
