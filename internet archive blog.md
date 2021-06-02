@@ -1,3 +1,3 @@
 - a [[blog]]
 	- [[pull]] [[internet archive]]
-	- [[nathan ]]
+	- [[nathan schneider]]
