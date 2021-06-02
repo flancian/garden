@@ -15,7 +15,6 @@
     - [[karlicoss]]
     - [[metasj]]
     - [[abstract fairy]]
-	- [[bmann]]
     - reach out to a member of the collective if you are interested in joining!
 		- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
   - [[goals]]
