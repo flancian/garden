@@ -59,6 +59,17 @@
             }
           },
           {
+            "id": "2ef22b7c033ba5ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sisters with transistors.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "0dd202a162337858",
             "type": "leaf",
             "state": {
@@ -157,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora mediawiki integration.md",
+                "file": "sisters with transistors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora mediawiki integration.md"
+                "file": "sisters with transistors.md"
               }
             }
           }
@@ -185,17 +196,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dd202a162337858",
+  "active": "2ef22b7c033ba5ae",
   "lastOpenFiles": [
-    "agora mediawiki integration.md",
+    "sisters with transistors.md",
     "2021-06-02.md",
+    "agora mediawiki integration.md",
     "2021-06-01.md",
     "sketch engine.md",
     "agora reader.md",
     "tooty.md",
     "agora search.md",
     "pattern chosen.md",
-    "patterns.md",
-    "chunking express.md"
+    "patterns.md"
   ]
 }
