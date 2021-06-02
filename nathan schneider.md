@@ -6,5 +6,5 @@
 	- [[mastodon]] social.coop/@ntnsndr
 	- [[zotero]] https://www.zotero.org/ntnsndr/
 	- [[twitter]] https://twitter.com/ntnsndr
-	- [[go]] 
+	- [[go]] https://nathanschneider.info/articles-list/
 
