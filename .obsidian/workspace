@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "underlay project.md",
+                "file": "2021-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "underlay project.md"
+                "file": "2021-06-03.md"
               }
             }
           }
@@ -203,12 +203,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a464c5e9fbffdb0",
+  "active": "3bb527d9c3e9127c",
   "lastOpenFiles": [
+    "2021-06-03.md",
     "underlay project.md",
     "knowledge futures group.md",
     "underlay.md",
-    "2021-06-03.md",
     "nathan schneider.md",
     "sketch engine.md",
     "agora search.md",
