@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gigafelon.md",
+                "file": "2021-06-03.md",
                 "mode": "source"
               }
             }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gigafelon.md",
+                "file": "2021-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gigafelon.md"
+                "file": "2021-06-03.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   },
   "active": "2f3f3fb965135973",
   "lastOpenFiles": [
-    "gigafelon.md",
     "2021-06-03.md",
+    "gigafelon.md",
     "later.md",
     "obsidian embeds.md",
     "regex.md",
