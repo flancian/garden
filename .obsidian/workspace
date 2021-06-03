@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "later.md",
+                "file": "2021-06-03.md",
                 "mode": "source"
               }
             }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian embeds.md",
+                "file": "2021-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian embeds.md"
+                "file": "2021-06-03.md"
               }
             }
           },
@@ -230,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7abcb8972baaed4d",
+  "active": "3bf2d541bb7a98ca",
   "lastOpenFiles": [
-    "obsidian embeds.md",
+    "2021-06-03.md",
     "later.md",
+    "obsidian embeds.md",
     "regex.md",
     "2021-05-30.md",
     "ocell.md",
     "vgn fun.md",
     "white rabbit bakery.md",
     "lorand.md",
-    "tier im recht.md",
-    "chungking mansions.md"
+    "tier im recht.md"
   ]
 }
