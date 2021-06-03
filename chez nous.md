@@ -1,0 +1,4 @@
+- a [[cafe]]
+	- great [[coffee]]
+	- in [[wipkingen]], [[zurich]]
+	- [[map]] https://g.page/ladencheznous?share
