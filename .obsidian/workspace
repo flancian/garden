@@ -48,50 +48,6 @@
             }
           },
           {
-            "id": "898ed821b1dbc218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-02.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d2fdfb81598f15a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flancia collective.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "9b797c3d686219b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-02.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f5cd2c18e586b993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "only flans.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "3bb527d9c3e9127c",
             "type": "leaf",
             "state": {
@@ -212,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia collective.md",
+                "file": "nathan schneider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancia collective.md"
+                "file": "nathan schneider.md"
               }
             }
           }
@@ -240,13 +196,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2fdfb81598f15a5",
+  "active": "3bb527d9c3e9127c",
   "lastOpenFiles": [
+    "nathan schneider.md",
+    "only flans.md",
     "flancia collective.md",
     "2021-06-02.md",
-    "only flans.md",
     "internet archive blog.md",
-    "nathan schneider.md",
     "meet partitioning.md",
     "meet partitionining.md",
     "sisters with transistors.md",
