@@ -10,7 +10,7 @@
           {
             "id": "c13b08cfbe25cf0e",
             "type": "leaf",
-            "dimension": 20.000000000000004,
+            "dimension": 20,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "3bf2d541bb7a98ca",
             "type": "leaf",
-            "dimension": 20.000000000000004,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,9 +32,21 @@
             }
           },
           {
+            "id": "2f3f3fb965135973",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gigafelon.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 20.000000000000004,
+            "dimension": 20,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -75,7 +87,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 20.000000000000004,
+            "dimension": 20,
             "state": {
               "type": "markdown",
               "state": {
@@ -87,7 +99,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 20.000000000000004,
+            "dimension": 20,
             "state": {
               "type": "markdown",
               "state": {
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-03.md",
+                "file": "gigafelon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-03.md"
+                "file": "gigafelon.md"
               }
             }
           },
@@ -230,8 +242,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bf2d541bb7a98ca",
+  "active": "2f3f3fb965135973",
   "lastOpenFiles": [
+    "gigafelon.md",
     "2021-06-03.md",
     "later.md",
     "obsidian embeds.md",
@@ -240,7 +253,6 @@
     "ocell.md",
     "vgn fun.md",
     "white rabbit bakery.md",
-    "lorand.md",
-    "tier im recht.md"
+    "lorand.md"
   ]
 }
