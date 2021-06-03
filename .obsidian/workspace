@@ -8,27 +8,63 @@
         "type": "split",
         "children": [
           {
-            "id": "dae63b7ef1934ce9",
+            "id": "c13b08cfbe25cf0e",
+            "type": "leaf",
+            "dimension": 20.000000000000004,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-05-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3bf2d541bb7a98ca",
+            "type": "leaf",
+            "dimension": 20.000000000000004,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "later.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "dcfa6e896ea2b01d",
             "type": "split",
+            "dimension": 20.000000000000004,
             "children": [
               {
-                "id": "7079d00b3a2eb6be",
+                "id": "9d1767dbb6c4ba74",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "tooty.md",
+                    "file": "break glass.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "07bb2929b930eb3c",
+                "id": "2e018ef0a7717f8c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "agora reader.md",
+                    "file": "later.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "4a54815fc38d912c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "action code.md",
                     "mode": "source"
                   }
                 }
@@ -37,88 +73,28 @@
             "direction": "vertical"
           },
           {
-            "id": "3bb527d9c3e9127c",
+            "id": "7abcb8972baaed4d",
             "type": "leaf",
+            "dimension": 20.000000000000004,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-03.md",
+                "file": "obsidian embeds.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "5bb611c5b235bb10",
+            "id": "2af582f84f5b5597",
             "type": "leaf",
+            "dimension": 20.000000000000004,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chez nous.md",
+                "file": "Day Planners/Day Planner-20210530.md",
                 "mode": "source"
               }
             }
-          },
-          {
-            "id": "5a464c5e9fbffdb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "underlay project.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3e2ec32af2a639d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "underlay.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2ef22b7c033ba5ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sisters with transistors.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7b2e8b55fe23f74f",
-            "type": "split",
-            "children": [
-              {
-                "id": "0dd202a162337858",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora mediawiki integration.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "16ae5b2cf59a58dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "sketch engine.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -148,12 +124,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "regex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -164,13 +140,22 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aa0f3e910050164c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "afe2921ea1b550bb",
@@ -186,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chez nous.md",
+                "file": "obsidian embeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,8 +188,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chez nous.md"
+                "file": "obsidian embeds.md"
               }
+            }
+          },
+          {
+            "id": "eaa7f99b4cf5444a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "49a0eb72df05c98e",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9852b3b70c9ace3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82168a0acbacba",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -214,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5bb611c5b235bb10",
+  "active": "7abcb8972baaed4d",
   "lastOpenFiles": [
-    "chez nous.md",
-    "2021-06-03.md",
-    "underlay project.md",
-    "knowledge futures group.md",
-    "underlay.md",
-    "nathan schneider.md",
-    "sketch engine.md",
-    "agora search.md",
-    "only flans.md",
-    "flancia collective.md"
+    "obsidian embeds.md",
+    "later.md",
+    "regex.md",
+    "2021-05-30.md",
+    "ocell.md",
+    "vgn fun.md",
+    "white rabbit bakery.md",
+    "lorand.md",
+    "tier im recht.md",
+    "chungking mansions.md"
   ]
 }
