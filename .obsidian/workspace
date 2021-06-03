@@ -8,20 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "68e81b5f03f48b15",
+            "id": "dae63b7ef1934ce9",
             "type": "split",
             "children": [
-              {
-                "id": "f0e9fd78e296d26f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "patterns.md",
-                    "mode": "source"
-                  }
-                }
-              },
               {
                 "id": "7079d00b3a2eb6be",
                 "type": "leaf",
@@ -32,20 +21,20 @@
                     "mode": "source"
                   }
                 }
+              },
+              {
+                "id": "07bb2929b930eb3c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora reader.md",
+                    "mode": "source"
+                  }
+                }
               }
             ],
             "direction": "vertical"
-          },
-          {
-            "id": "07bb2929b930eb3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora reader.md",
-                "mode": "source"
-              }
-            }
           },
           {
             "id": "3bb527d9c3e9127c",
@@ -53,7 +42,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nathan schneider.md",
+                "file": "2021-06-03.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "5a464c5e9fbffdb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "underlay project.md",
                 "mode": "source"
               }
             }
@@ -70,37 +70,33 @@
             }
           },
           {
-            "id": "0dd202a162337858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora mediawiki integration.md",
-                "mode": "source"
+            "id": "7b2e8b55fe23f74f",
+            "type": "split",
+            "children": [
+              {
+                "id": "0dd202a162337858",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora mediawiki integration.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "16ae5b2cf59a58dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "sketch engine.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "16ae5b2cf59a58dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sketch engine.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f369660fbb1f7377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora search.md",
-                "mode": "source"
-              }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -168,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nathan schneider.md",
+                "file": "underlay project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nathan schneider.md"
+                "file": "underlay project.md"
               }
             }
           }
@@ -196,17 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bb527d9c3e9127c",
+  "active": "5a464c5e9fbffdb0",
   "lastOpenFiles": [
+    "underlay project.md",
+    "2021-06-03.md",
     "nathan schneider.md",
+    "sketch engine.md",
+    "agora search.md",
     "only flans.md",
     "flancia collective.md",
     "2021-06-02.md",
     "internet archive blog.md",
-    "meet partitioning.md",
-    "meet partitionining.md",
-    "sisters with transistors.md",
-    "agora mediawiki integration.md",
-    "2021-06-01.md"
+    "meet partitioning.md"
   ]
 }
