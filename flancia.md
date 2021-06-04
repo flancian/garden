@@ -22,15 +22,13 @@
   - [[pull]] [[flancia collective]]
   - Flancia existed before the [[agora]] but is in the limit defined by how the agora is used by the members of the collective, and the outgroups with which they interact.
 - a [[set]].
-  - Of [[people]] and [[things]] contained therein.
-- A [[collective]].
-  - [[flancia collective]]
- - Many other things.
-	- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
-	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
+  - of [[people]] and [[things]].
+ - a [[graph]].
+	 - In [[an agora]].
+	- Many other things.
+		- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+		- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
 		- [[space]] [[gather]]
-		- [[space-vera]] https://gather.town/app/UIn5AAlVh3IUSKiP/home
-- Have I ever told you that in Flancia there is an [[Agora]]?
 
 https://twitter.com/flancian/status/1298701482997538822
 https://twitter.com/flancian/status/1298708974364024832
