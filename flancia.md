@@ -1,44 +1,36 @@
 # Flancia
 
-- A [[book]] I'm trying to write.
+- A [[book]] we're trying to write.
   - [[pull]] [[book]].
-- A [[place]] in my mind.
-  - A [[protopia]].
-  - The world of the [[Flancians]]. A world similar to ours but also much unlike.
-  - In Flancia there are many [[bolos]].
-  - In Flancia there is an [[agora]].
+- One of many [[places]] in our mind.
+  - Its [[class]] is [[protopia]].
+  - The world of the [[Flancians]]. A world similar to ours, but [[incrementally better]].
   - I am a [[Flancian]] and this is my manifesto:
     - In [[Flancia]] there is no [[poverty]].
     - In [[Flancia]] there is no [[privilege]].
-    - In [[Flancia]] we will one day [[meet]].
-  - In Flancia people try to act [[honestly]], [[charitably]], [[compassively]], [[ethically]], [[pro-socially]],[[ cooperatively]], [[rationally]].
-  - In Flancia everybody [[thrives]].
-  - In Flancia, people dedicate a fraction of their free time and resources to help others.
-    - by volunteering [[time]] and [[resources]] as they can. 
-    - by being [[solidary]].
-    - by being [[charitable]].
-    - by [[being open]].
-    - by practicing [[empathy]] and [[forgiveness]].
-    - by trying to explore [[protopoi]].
-  - In [[Flancia]] cooperative groups thrive through [[federation]] and rational government.
-    - [[distributed]] [[heterarchy]] through [[liquid democracy]].
-- a [[blog]].
+    - In [[Flancia]] we may one day [[meet]].
+	- In Flancia there is an [[Agora]].
+  - Flancians strive to be [[honest]], [[charitable]], [[compassive]], [[solidary]], [[ethical]], [[prosocial]].
+	  - I strive to be a [[rational]] [[cooperativist]], but you don't have to play the same class.
+	  - [[In my Flancia, people dedicate a meaningful fraction of their free time and resources to help others]].
+	  - I posit that Flancia is a place where everybody [[thrives]].
+	  - [[In my Flancia we cooperate our way to an international liquid democratic federation]]. 
+			- default policy is [[heterarchy]] through [[distributed]] [[liquid democracy]].
+	  - [[In my Flancia cooperatives win late capitalism]].
+- an [[organization]].
   - [[go]] https://flancia.org
-  - Flancia existed before the [[agora]] but is defined by it.
-- a [[list]].
-  - Of [[people]] and [[things]] contained therein.
-- A [[collective]].
-  - [[flancia collective]]
- - Many other things.
-	- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
-	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
-		- [[space]] [[gather]]
-		- [[space-vera]] https://gather.town/app/UIn5AAlVh3IUSKiP/home
-- Have I ever told you that in Flancia there is an [[Agora]]?
+  - [[pull]] [[flancia collective]]
+  - Flancia existed before the [[agora]] but is in the limit defined by how the agora is used by the members of the collective, and the outgroups with which they interact.
+- a [[set]].
+  - of [[people]] and [[things]].
+ - a [[graph]].
+	 - In [[an agora]].
+	- Many other things.
+		- [[playlist]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+		- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
+			- [[space]] [[gather]]
 
 https://twitter.com/flancian/status/1298701482997538822
 https://twitter.com/flancian/status/1298708974364024832
 https://twitter.com/flancian/status/1355193365046898689
 https://twitter.com/flancian/status/1373677818312278016
-
-
