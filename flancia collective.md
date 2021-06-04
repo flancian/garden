@@ -17,6 +17,7 @@
     - [[abstract fairy]]
     - reach out to a member of the collective if you are interested in joining!
 		- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
+	- reach out 
   - [[goals]]
 	- [[public utility]]
     - [[effective altruism]]
