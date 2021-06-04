@@ -20,8 +20,8 @@
 - an [[organization]].
   - [[go]] https://flancia.org
   - [[pull]] [[flancia collective]]
-  - Flancia existed before the [[agora]] but is defined by it as used by the members of the collective and
-- a [[list]].
+  - Flancia existed before the [[agora]] but is in the limit defined by how the agora is used by the members of the collective, and the outgroups with which they interact.
+- a [[set]].
   - Of [[people]] and [[things]] contained therein.
 - A [[collective]].
   - [[flancia collective]]
