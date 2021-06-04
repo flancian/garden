@@ -11,10 +11,9 @@
     - In [[Flancia]] we may one day [[meet]].
 	- In Flancia there is an [[Agora]].
   - Flancians strive to be [[honest]], [[charitable]], [[compassive]], [[solidary]], [[ethical]], [[prosocial]].
-	  - I consider myself [[rational]] [[cooperativist]], but you don't have to be or 
+	  - I strive to be a [[rational]] [[cooperativist]], but you don't have to play the same class.
 	  - I posit that Flancia is a place where everybody [[thrives]].
-	  - In Flancia, people dedicate a fraction of their free time and resources to help others.
-		- by volunteering [[time]] and [[resources]] as they can. 
+	  - [[In my Flancia, people dedicate a fraction of their free time and resources to help others]].
     - by [[being open]].
     - by practicing [[empathy]] and [[forgiveness]].
     - by trying to explore [[protopoi]].
