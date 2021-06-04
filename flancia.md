@@ -10,8 +10,8 @@
     - In [[Flancia]] there is no [[privilege]].
     - In [[Flancia]] we may one day [[meet]].
 	- In Flancia there is an [[Agora]].
-  - Flanciapeople try to act [[honestly]], [[charitably]], [[compassively]], [[ethically]], [[prosocially]],[[ cooperatively]], [[rationally]].
-  - In Flancia everybody [[thrives]].
+  - Flancians strive to be [[honest]], [[charitable]], [[compassive]], [[ethical]], [[prosocial]], [[cooperative]], [[rational]].
+	  - I posit that Flancia is a place where ev[[thrives]].
   - In Flancia, people dedicate a fraction of their free time and resources to help others.
     - by volunteering [[time]] and [[resources]] as they can. 
     - by being [[solidary]].
