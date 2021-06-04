@@ -12,12 +12,9 @@
 	- In Flancia there is an [[Agora]].
   - Flancians strive to be [[honest]], [[charitable]], [[compassive]], [[solidary]], [[ethical]], [[prosocial]].
 	  - I strive to be a [[rational]] [[cooperativist]], but you don't have to play the same class.
+	  - [[In my Flancia, people dedicate a meaningful fraction of their free time and resources to help others]].
 	  - I posit that Flancia is a place where everybody [[thrives]].
-	  - [[In my Flancia, people dedicate a fraction of their free time and resources to help others]].
-    - by [[being open]].
-    - by practicing [[empathy]] and [[forgiveness]].
-    - by trying to explore [[protopoi]].
-  - In [[Flancia]] cooperative groups thrive through [[federation]] and rational government.
+	  - [[In my Flancia we cooperate our way to an international liquid democratic federacooperative groups thrive through [[federation]] and rational government.
     - [[distributed]] [[heterarchy]] through [[liquid democracy]].
 - a [[blog]].
   - [[go]] https://flancia.org
