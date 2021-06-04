@@ -12,11 +12,8 @@
             "type": "leaf",
             "dimension": 11.11111111111111,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-04.md",
-                "mode": "source"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -195,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,9 +207,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2021-06-04.md"
-              }
+              "state": {}
             }
           },
           {
