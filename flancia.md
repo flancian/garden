@@ -1,9 +1,9 @@
 # Flancia
 
-- A [[book]] I'm trying to write.
+- A [[book]] we're trying to write.
   - [[pull]] [[book]].
-- A [[place]] in my mind.
-  - A [[protopia]].
+- One of many [[places]] in our mind.
+  - Its [[class]] is [[protopia]].
   - The world of the [[Flancians]]. A world similar to ours but also much unlike.
   - In Flancia there are many [[bolos]].
   - In Flancia there is an [[agora]].

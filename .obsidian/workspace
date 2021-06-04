@@ -59,6 +59,17 @@
             }
           },
           {
+            "id": "08d9c580d1868a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flancia.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "5a464c5e9fbffdb0",
             "type": "leaf",
             "state": {
@@ -186,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancia collective.md",
+                "file": "flancia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancia collective.md"
+                "file": "flancia.md"
               }
             }
           }
@@ -214,8 +225,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5bb611c5b235bb10",
+  "active": "08d9c580d1868a2d",
   "lastOpenFiles": [
+    "flancia.md",
     "flancia collective.md",
     "chez nous.md",
     "2021-06-03.md",
@@ -224,7 +236,6 @@
     "underlay.md",
     "nathan schneider.md",
     "sketch engine.md",
-    "agora search.md",
-    "only flans.md"
+    "agora search.md"
   ]
 }
