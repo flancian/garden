@@ -15,11 +15,12 @@
 	  - [[In my Flancia, people dedicate a meaningful fraction of their free time and resources to help others]].
 	  - I posit that Flancia is a place where everybody [[thrives]].
 	  - [[In my Flancia we cooperate our way to an international liquid democratic federation]]. 
-			- [[distributed]] [[heterarchy]] plus [[liquid democracy]].
+			- default policy is [[heterarchy]] through [[distributed]] [[liquid democracy]].
 	  - [[In my Flancia cooperatives win late capitalism]].
-- a [[blog]].
+- an [[organization]].
   - [[go]] https://flancia.org
-  - Flancia existed before the [[agora]] but is defined by it.
+  - [[pull]] [[flancia collective]]
+  - Flancia existed before the [[agora]] but is defined by it as used by the members of the collective and
 - a [[list]].
   - Of [[people]] and [[things]] contained therein.
 - A [[collective]].
