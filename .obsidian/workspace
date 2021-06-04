@@ -22,11 +22,23 @@
           {
             "id": "8bfe396f67a5846a",
             "type": "leaf",
-            "dimension": 11.11111111111111,
+            "dimension": 5.555555555555555,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bingke.md",
+                "file": "2021-06-04.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "40f20884985205ca",
+            "type": "leaf",
+            "dimension": 5.555555555555555,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hypha.md",
                 "mode": "source"
               }
             }
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-04.md",
+                "file": "hypha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-04.md"
+                "file": "hypha.md"
               }
             }
           },
@@ -242,8 +254,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c13b08cfbe25cf0e",
+  "active": "40f20884985205ca",
   "lastOpenFiles": [
+    "hypha.md",
     "2021-06-04.md",
     "bingke.md",
     "2021-06-03.md",
@@ -252,7 +265,6 @@
     "gigafelon.md",
     "later.md",
     "obsidian embeds.md",
-    "regex.md",
-    "ocell.md"
+    "regex.md"
   ]
 }
