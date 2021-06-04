@@ -8,18 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "c13b08cfbe25cf0e",
-            "type": "leaf",
-            "dimension": 11.11111111111111,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "8bfe396f67a5846a",
             "type": "leaf",
-            "dimension": 5.555555555555555,
+            "dimension": 6.25,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,7 +22,7 @@
           {
             "id": "40f20884985205ca",
             "type": "leaf",
-            "dimension": 5.555555555555555,
+            "dimension": 6.25,
             "state": {
               "type": "markdown",
               "state": {
@@ -43,7 +34,7 @@
           {
             "id": "3bf2d541bb7a98ca",
             "type": "leaf",
-            "dimension": 11.11111111111111,
+            "dimension": 12.5,
             "state": {
               "type": "markdown",
               "state": {
@@ -55,7 +46,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 22.22222222222222,
+            "dimension": 25,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -96,7 +87,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 22.22222222222222,
+            "dimension": 25,
             "state": {
               "type": "markdown",
               "state": {
@@ -108,7 +99,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 22.22222222222222,
+            "dimension": 25,
             "state": {
               "type": "markdown",
               "state": {
@@ -192,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hypha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hypha.md"
+              }
             }
           },
           {
@@ -248,10 +242,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c13b08cfbe25cf0e",
+  "active": "40f20884985205ca",
   "lastOpenFiles": [
-    "2021-06-04.md",
     "hypha.md",
+    "2021-06-04.md",
     "bingke.md",
     "2021-06-03.md",
     "2021-05-30.md",
