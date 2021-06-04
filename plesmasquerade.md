@@ -1,5 +1,6 @@
 # Plesmasquerade
 
 - a [[person]]
-	- [[twitter]]
+	- [[twitter]] https://twitter.com/plesmasquerade
+	- [[go]] https://m0th.site
 
