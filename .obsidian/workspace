@@ -65,7 +65,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "later.md",
+                    "file": "plesmasquerade.md",
                     "mode": "source"
                   }
                 }
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regex",
+                "query": "plesmasquerade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "afe2921ea1b550bb",
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypha.md",
+                "file": "plesmasquerade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypha.md"
+                "file": "plesmasquerade.md"
               }
             }
           },
@@ -242,8 +241,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40f20884985205ca",
+  "active": "2e018ef0a7717f8c",
   "lastOpenFiles": [
+    "plesmasquerade.md",
+    "later.md",
     "hypha.md",
     "2021-06-04.md",
     "bingke.md",
@@ -251,8 +252,6 @@
     "2021-05-30.md",
     "lady burup.md",
     "gigafelon.md",
-    "later.md",
-    "obsidian embeds.md",
-    "regex.md"
+    "obsidian embeds.md"
   ]
 }
