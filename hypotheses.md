@@ -3,6 +3,7 @@
 	- [[chess hypothesis]]
 	- [[consciousness is a manifold with self-attention]]
 		- we all converge in the right spaces
+	- [[the agora is a technology]]
 	
 	
 

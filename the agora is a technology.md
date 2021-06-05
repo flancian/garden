@@ -1,0 +1,1 @@
+- the [[internet]] is a technology; the agora is the internet once the internet recognizes itself as a self-aware technology.
