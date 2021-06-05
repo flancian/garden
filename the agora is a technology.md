@@ -1,1 +1,1 @@
-- the [[internet]] is a [[technology tree]] we have unlocked; the agora is the internet once it recognizes itself as an [[egregore]] or a [[manifold with self attention]].
+- the [[internet]] is a [[technology tree]] we have unlocked; the agora are social networks once they recognize themselves as an [[egregore]] or a [[manifold with self attention]].
