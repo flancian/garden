@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the agora is a technology.md",
+                "file": "2021-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the agora is a technology.md"
+                "file": "2021-06-05.md"
               }
             }
           },
@@ -351,13 +351,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f59568d113dfb0bb",
+  "active": "2f76f2b7c79bb13a",
   "lastOpenFiles": [
+    "2021-06-05.md",
     "the agora is a technology.md",
     "manifold with self attention.md",
     "hypotheses.md",
     "hypothesis.md",
-    "2021-06-05.md",
     "gentle revolution.md",
     "thiftbooks.md",
     "understanding knowledge as a commons.md",
