@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,9 +20,21 @@
             }
           },
           {
+            "id": "bc54078e2eb48e60",
+            "type": "leaf",
+            "dimension": 13.07783484788621,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "protopoi.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "8881126e50d641bd",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,57 +44,9 @@
             }
           },
           {
-            "id": "44fda555080bde80",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3faa5f577dc31907",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3ee7a95fbb0dc945",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2f76f2b7c79bb13a",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "b8ad007049dfcb62",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +58,7 @@
           {
             "id": "3739fcd1597b1e81",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -104,49 +68,13 @@
             }
           },
           {
-            "id": "f59568d113dfb0bb",
+            "id": "b077164eec82aec9",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7d77c88560d8ce62",
-            "type": "leaf",
-            "dimension": 6.490649064906491,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "calendly.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "25f60382d25da7ad",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c426c093f297f839",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
+                "file": "protopoi.md",
                 "mode": "source"
               }
             }
@@ -154,7 +82,7 @@
           {
             "id": "cf7d8d47ebe09f64",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -166,7 +94,7 @@
           {
             "id": "125d5a5615ed227a",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -178,7 +106,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -219,7 +147,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -231,7 +159,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -243,7 +171,7 @@
           {
             "id": "a466cc283a4d774e",
             "type": "leaf",
-            "dimension": 5.500550055005501,
+            "dimension": 7.902015013828527,
             "state": {
               "type": "markdown",
               "state": {
@@ -326,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-05.md",
+                "file": "protopoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-05.md"
+                "file": "protopoi.md"
               }
             }
           },
@@ -399,8 +327,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f59568d113dfb0bb",
+  "active": "bc54078e2eb48e60",
   "lastOpenFiles": [
+    "protopoi.md",
     "2021-06-05.md",
     "calendly.md",
     "zorro.md",
@@ -409,7 +338,6 @@
     "handshake.md",
     "the agora is a technology.md",
     "manifold with self attention.md",
-    "hypotheses.md",
-    "hypothesis.md"
+    "hypotheses.md"
   ]
 }
