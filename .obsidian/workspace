@@ -34,11 +34,23 @@
           {
             "id": "44fda555080bde80",
             "type": "leaf",
-            "dimension": 15.257939842043356,
+            "dimension": 7.628969921021679,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "understanding knowledge as a commons.md",
+                "file": "2021-06-05.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3faa5f577dc31907",
+            "type": "leaf",
+            "dimension": 7.628969921021679,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thiftbooks.md",
                 "mode": "source"
               }
             }
@@ -99,7 +111,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 26.079650478911102,
+            "dimension": 26.07965047891111,
             "state": {
               "type": "markdown",
               "state": {
@@ -111,7 +123,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 16.703075113426316,
+            "dimension": 16.70307511342632,
             "state": {
               "type": "markdown",
               "state": {
@@ -123,7 +135,7 @@
           {
             "id": "a466cc283a4d774e",
             "type": "leaf",
-            "dimension": 8.351537556713158,
+            "dimension": 8.35153755671316,
             "state": {
               "type": "markdown",
               "state": {
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understanding knowledge as a commons.md",
+                "file": "thiftbooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "understanding knowledge as a commons.md"
+                "file": "thiftbooks.md"
               }
             }
           },
@@ -279,17 +291,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44fda555080bde80",
+  "active": "3faa5f577dc31907",
   "lastOpenFiles": [
-    "understanding knowledge as a commons.md",
+    "thiftbooks.md",
     "2021-06-05.md",
+    "understanding knowledge as a commons.md",
+    "Day Planners/Day Planner-20210530.md",
+    "obsidian embeds.md",
     "agora polls.md",
     "zettelkasten id.md",
     "hypha.md",
     "Day Planners/Day Planner-20210605.md",
-    "Day Planners/Day Planner-20210530.md",
-    "universal basic income.md",
-    "grundeinkommen initiative.md",
-    "telekommunism.md"
+    "universal basic income.md"
   ]
 }
