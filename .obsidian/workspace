@@ -106,11 +106,23 @@
           {
             "id": "f59568d113dfb0bb",
             "type": "leaf",
-            "dimension": 11.275415896487985,
+            "dimension": 5.6377079482439925,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "the agora is a technology.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "125d5a5615ed227a",
+            "type": "leaf",
+            "dimension": 5.6377079482439925,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manifold with self attention.md",
                 "mode": "source"
               }
             }
@@ -342,6 +354,7 @@
   "active": "f59568d113dfb0bb",
   "lastOpenFiles": [
     "the agora is a technology.md",
+    "manifold with self attention.md",
     "hypotheses.md",
     "hypothesis.md",
     "2021-06-05.md",
@@ -349,7 +362,6 @@
     "thiftbooks.md",
     "understanding knowledge as a commons.md",
     "Day Planners/Day Planner-20210530.md",
-    "obsidian embeds.md",
-    "agora polls.md"
+    "obsidian embeds.md"
   ]
 }

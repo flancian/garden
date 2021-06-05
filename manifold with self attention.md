@@ -1,0 +1,1 @@
+- [[pull]] [[consciousness is a manifold with self-attention]]
