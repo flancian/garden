@@ -1,3 +1,3 @@
 # Telekommunism
 
- - https://twitter.com/flancian/status/1312855201695641600
+https://twitter.com/flancian/status/1312855201695641600
