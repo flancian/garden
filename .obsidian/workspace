@@ -46,11 +46,23 @@
           {
             "id": "3faa5f577dc31907",
             "type": "leaf",
-            "dimension": 7.628969921021679,
+            "dimension": 3.8144849605108395,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thiftbooks.md",
+                "file": "2021-06-05.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3ee7a95fbb0dc945",
+            "type": "leaf",
+            "dimension": 3.8144849605108395,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gentle revolution.md",
                 "mode": "source"
               }
             }
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thiftbooks.md",
+                "file": "gentle revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thiftbooks.md"
+                "file": "gentle revolution.md"
               }
             }
           },
@@ -291,17 +303,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3faa5f577dc31907",
+  "active": "3ee7a95fbb0dc945",
   "lastOpenFiles": [
-    "thiftbooks.md",
+    "gentle revolution.md",
     "2021-06-05.md",
+    "thiftbooks.md",
     "understanding knowledge as a commons.md",
     "Day Planners/Day Planner-20210530.md",
     "obsidian embeds.md",
     "agora polls.md",
     "zettelkasten id.md",
     "hypha.md",
-    "Day Planners/Day Planner-20210605.md",
-    "universal basic income.md"
+    "Day Planners/Day Planner-20210605.md"
   ]
 }
