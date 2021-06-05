@@ -4,7 +4,7 @@
 	- to eradicate [[poverty]]
 	- [[es]] [[salario básico universal]]
 	- [[de]] [[grundeinkommen]]
-		- [[grunkein]]
+		- [[grundeinkommen initiative]]
 	- I believe it to be an [[idea]] whose time has come.
 		- in [[Flancia]] there is no [[poverty]]
 			- they achieved this through [[ubi]]

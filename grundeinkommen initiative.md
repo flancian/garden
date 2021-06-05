@@ -1,0 +1,1 @@
+- [[go]] https://wecollect.ch/projekte/grundeinkommen-initiative

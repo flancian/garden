@@ -10,7 +10,7 @@
           {
             "id": "8bfe396f67a5846a",
             "type": "leaf",
-            "dimension": 9.350163627863486,
+            "dimension": 10.460251046025103,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "40f20884985205ca",
             "type": "leaf",
-            "dimension": 9.350163627863486,
+            "dimension": 10.460251046025103,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,33 +32,9 @@
             }
           },
           {
-            "id": "3bf2d541bb7a98ca",
-            "type": "leaf",
-            "dimension": 5.30621785881253,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c5ec29f57c35189c",
-            "type": "leaf",
-            "dimension": 5.30621785881253,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "universal basic income.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "44fda555080bde80",
             "type": "leaf",
-            "dimension": 10.61243571762506,
+            "dimension": 11.872384937238497,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +46,7 @@
           {
             "id": "21e8ebc09f91ad0d",
             "type": "leaf",
-            "dimension": 9.350163627863486,
+            "dimension": 10.460251046025103,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +58,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 9.350163627863486,
+            "dimension": 10.460251046025103,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -123,7 +99,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 18.139317438055162,
+            "dimension": 20.2928870292887,
             "state": {
               "type": "markdown",
               "state": {
@@ -135,7 +111,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 23.23515661524077,
+            "dimension": 25.993723849372387,
             "state": {
               "type": "markdown",
               "state": {
@@ -218,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universal basic income.md",
+                "file": "understanding knowledge as a commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universal basic income.md"
+                "file": "understanding knowledge as a commons.md"
               }
             }
           },
@@ -277,17 +253,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5ec29f57c35189c",
+  "active": "44fda555080bde80",
   "lastOpenFiles": [
-    "universal basic income.md",
+    "understanding knowledge as a commons.md",
     "2021-06-05.md",
+    "universal basic income.md",
+    "grundeinkommen initiative.md",
     "telekommunism.md",
     "governing the commons.md",
-    "understanding knowledge as a commons.md",
     "2021-06-03.md",
     "plesmasquerade.md",
     "later.md",
-    "hypha.md",
-    "2021-06-04.md"
+    "hypha.md"
   ]
 }
