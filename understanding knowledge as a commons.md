@@ -1,5 +1,6 @@
 - a [[book]]
 	- by [[charlotte hess]] and [[elinor ostrom]]
 	- [[go]] https://mitpress.mit.edu/books/understanding-knowledge-commons
+	- [[hypothesis]] 
 	- [[pull]] [[knowledge commons]]
 	- [[es]] [[los bienes comunes del conocimiento]]

@@ -10,7 +10,7 @@
           {
             "id": "8bfe396f67a5846a",
             "type": "leaf",
-            "dimension": 6.25,
+            "dimension": 9.350163627863486,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "40f20884985205ca",
             "type": "leaf",
-            "dimension": 6.25,
+            "dimension": 9.350163627863486,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "3bf2d541bb7a98ca",
             "type": "leaf",
-            "dimension": 6.25,
+            "dimension": 10.61243571762506,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,9 +44,21 @@
             }
           },
           {
+            "id": "44fda555080bde80",
+            "type": "leaf",
+            "dimension": 10.61243571762506,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "understanding knowledge as a commons.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "21e8ebc09f91ad0d",
             "type": "leaf",
-            "dimension": 6.25,
+            "dimension": 9.350163627863486,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 25,
+            "dimension": 9.350163627863486,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -99,7 +111,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 25,
+            "dimension": 18.139317438055162,
             "state": {
               "type": "markdown",
               "state": {
@@ -111,7 +123,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 25,
+            "dimension": 23.23515661524077,
             "state": {
               "type": "markdown",
               "state": {
@@ -253,7 +265,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "21e8ebc09f91ad0d",
+  "active": "44fda555080bde80",
   "lastOpenFiles": [
     "understanding knowledge as a commons.md",
     "2021-06-05.md",
