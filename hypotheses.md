@@ -1,3 +1,4 @@
+- a 
 - [[chess hypothesis]]
 - [[manifolds]] with self-attention as [[egregores]]
 
