@@ -34,11 +34,23 @@
           {
             "id": "3bf2d541bb7a98ca",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 6.25,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-05.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "21e8ebc09f91ad0d",
+            "type": "leaf",
+            "dimension": 6.25,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "understanding knowledge as a commons.md",
                 "mode": "source"
               }
             }
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-05.md",
+                "file": "understanding knowledge as a commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-05.md"
+                "file": "understanding knowledge as a commons.md"
               }
             }
           },
@@ -241,8 +253,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bf2d541bb7a98ca",
+  "active": "21e8ebc09f91ad0d",
   "lastOpenFiles": [
+    "understanding knowledge as a commons.md",
     "2021-06-05.md",
     "2021-06-03.md",
     "plesmasquerade.md",
@@ -251,7 +264,6 @@
     "2021-06-04.md",
     "bingke.md",
     "2021-05-30.md",
-    "lady burup.md",
-    "gigafelon.md"
+    "lady burup.md"
   ]
 }
