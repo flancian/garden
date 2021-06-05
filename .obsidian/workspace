@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "el zorro.md",
+                "file": "2021-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "el zorro.md"
+                "file": "2021-06-05.md"
               }
             }
           },
@@ -375,10 +375,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c426c093f297f839",
+  "active": "44fda555080bde80",
   "lastOpenFiles": [
-    "el zorro.md",
     "2021-06-05.md",
+    "el zorro.md",
     "handshake.md",
     "the agora is a technology.md",
     "manifold with self attention.md",
