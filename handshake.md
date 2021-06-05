@@ -1,2 +1,3 @@
-- [[go]]
-- [[handshake jesus]]
+- [[go]] https://handshake.org/
+	-
+-K [[handshake jesus]]
