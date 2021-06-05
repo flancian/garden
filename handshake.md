@@ -1,3 +1,4 @@
 - [[go]] https://handshake.org/
-	-
--K [[handshake jesus]]
+	- a [[decentralized naming and certificate authority]]
+	- [[pull]] [[handshake institute]]
+	- [[handshake jesus]]
