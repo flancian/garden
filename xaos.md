@@ -1,4 +1,4 @@
 - a [[tool]]
 	- generates [[fractals]]
 	- `apt-get install xaos`
-	- as of [[2021-05-16]] I usually have `xaos -barnsley -autopilot` in the background
+	- as of [[2021-05-16]] I usually have `xaos -barnsley -autopilot` running in [[nostromo]]
