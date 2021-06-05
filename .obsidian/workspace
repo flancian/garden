@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "governing the commons.md",
+                "file": "telekommunism.md",
                 "mode": "source"
               }
             }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "governing the commons.md",
+                "file": "telekommunism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "governing the commons.md"
+                "file": "telekommunism.md"
               }
             }
           },
@@ -267,6 +267,7 @@
   },
   "active": "3bf2d541bb7a98ca",
   "lastOpenFiles": [
+    "telekommunism.md",
     "governing the commons.md",
     "2021-06-05.md",
     "understanding knowledge as a commons.md",
@@ -275,7 +276,6 @@
     "later.md",
     "hypha.md",
     "2021-06-04.md",
-    "bingke.md",
-    "2021-05-30.md"
+    "bingke.md"
   ]
 }
