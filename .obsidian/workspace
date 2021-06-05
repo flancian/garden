@@ -8,207 +8,27 @@
         "type": "split",
         "children": [
           {
-            "id": "d7a7f04aa32808a3",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8881126e50d641bd",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora polls.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "44fda555080bde80",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3faa5f577dc31907",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3ee7a95fbb0dc945",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2f76f2b7c79bb13a",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b8ad007049dfcb62",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypothesis.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3739fcd1597b1e81",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypotheses.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f59568d113dfb0bb",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7d77c88560d8ce62",
-            "type": "leaf",
-            "dimension": 6.490649064906491,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "calendly.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "25f60382d25da7ad",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c426c093f297f839",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "cf7d8d47ebe09f64",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "digital gardens.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "125d5a5615ed227a",
-            "type": "leaf",
-            "dimension": 5.500550055005501,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manifold with self attention.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "dcfa6e896ea2b01d",
+            "id": "dae63b7ef1934ce9",
             "type": "split",
-            "dimension": 5.500550055005501,
             "children": [
               {
-                "id": "9d1767dbb6c4ba74",
+                "id": "7079d00b3a2eb6be",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "break glass.md",
+                    "file": "tooty.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "2e018ef0a7717f8c",
+                "id": "07bb2929b930eb3c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "plesmasquerade.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "4a54815fc38d912c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "action code.md",
+                    "file": "agora reader.md",
                     "mode": "source"
                   }
                 }
@@ -217,40 +37,99 @@
             "direction": "vertical"
           },
           {
-            "id": "7abcb8972baaed4d",
+            "id": "3bb527d9c3e9127c",
             "type": "leaf",
-            "dimension": 5.500550055005501,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian embeds.md",
+                "file": "2021-06-03.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "2af582f84f5b5597",
+            "id": "5bb611c5b235bb10",
             "type": "leaf",
-            "dimension": 5.500550055005501,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20210530.md",
+                "file": "xaos.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "a466cc283a4d774e",
+            "id": "08d9c580d1868a2d",
             "type": "leaf",
-            "dimension": 5.500550055005501,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20210605.md",
+                "file": "flancia.md",
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "5a464c5e9fbffdb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "underlay project.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3e2ec32af2a639d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "underlay.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2ef22b7c033ba5ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sisters with transistors.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "7b2e8b55fe23f74f",
+            "type": "split",
+            "children": [
+              {
+                "id": "0dd202a162337858",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora mediawiki integration.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "16ae5b2cf59a58dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "sketch engine.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -280,12 +159,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plesmasquerade",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -294,14 +173,6 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa0f3e910050164c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -326,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendly.md",
+                "file": "xaos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,53 +214,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calendly.md"
+                "file": "xaos.md"
               }
-            }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "49a0eb72df05c98e",
-            "type": "leaf",
-            "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "297c54846b597552",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35550c211233c6a5",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           }
         ]
@@ -399,17 +225,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d77c88560d8ce62",
+  "active": "5bb611c5b235bb10",
   "lastOpenFiles": [
-    "calendly.md",
+    "xaos.md",
     "2021-06-05.md",
-    "zorro.md",
-    "digital gardens.md",
-    "el zorro.md",
-    "handshake.md",
-    "the agora is a technology.md",
-    "manifold with self attention.md",
-    "hypotheses.md",
-    "hypothesis.md"
+    "image channels tool.md",
+    "flancia collective.md",
+    "flancia.md",
+    "chez nous.md",
+    "2021-06-03.md",
+    "underlay project.md",
+    "knowledge futures group.md",
+    "underlay.md"
   ]
 }
