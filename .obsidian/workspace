@@ -58,7 +58,7 @@
           {
             "id": "3ee7a95fbb0dc945",
             "type": "leaf",
-            "dimension": 12.04133277098271,
+            "dimension": 12.041332770982711,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,11 +70,23 @@
           {
             "id": "2f76f2b7c79bb13a",
             "type": "leaf",
-            "dimension": 12.04133277098271,
+            "dimension": 6.020666385491356,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gentle revolution.md",
+                "file": "2021-06-05.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b8ad007049dfcb62",
+            "type": "leaf",
+            "dimension": 6.020666385491356,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hypothesis.md",
                 "mode": "source"
               }
             }
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gentle revolution.md",
+                "file": "hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gentle revolution.md"
+                "file": "hypothesis.md"
               }
             }
           },
@@ -315,17 +327,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f76f2b7c79bb13a",
+  "active": "b8ad007049dfcb62",
   "lastOpenFiles": [
-    "gentle revolution.md",
+    "hypothesis.md",
     "2021-06-05.md",
+    "gentle revolution.md",
     "thiftbooks.md",
     "understanding knowledge as a commons.md",
     "Day Planners/Day Planner-20210530.md",
     "obsidian embeds.md",
     "agora polls.md",
     "zettelkasten id.md",
-    "hypha.md",
-    "Day Planners/Day Planner-20210605.md"
+    "hypha.md"
   ]
 }
