@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "8881126e50d641bd",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "44fda555080bde80",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "3faa5f577dc31907",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "3ee7a95fbb0dc945",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "2f76f2b7c79bb13a",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "b8ad007049dfcb62",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +94,7 @@
           {
             "id": "3739fcd1597b1e81",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,11 +106,23 @@
           {
             "id": "f59568d113dfb0bb",
             "type": "leaf",
-            "dimension": 11.353562904875554,
+            "dimension": 5.676781452437775,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the agora is a technology.md",
+                "file": "2021-06-05.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "25f60382d25da7ad",
+            "type": "leaf",
+            "dimension": 5.676781452437775,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "handshake.md",
                 "mode": "source"
               }
             }
@@ -118,7 +130,7 @@
           {
             "id": "125d5a5615ed227a",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +142,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -171,7 +183,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -183,7 +195,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -195,7 +207,7 @@
           {
             "id": "a466cc283a4d774e",
             "type": "leaf",
-            "dimension": 6.818956699624958,
+            "dimension": 6.818956699624955,
             "state": {
               "type": "markdown",
               "state": {
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-05.md",
+                "file": "handshake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-05.md"
+                "file": "handshake.md"
               }
             }
           },
@@ -351,8 +363,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f76f2b7c79bb13a",
+  "active": "25f60382d25da7ad",
   "lastOpenFiles": [
+    "handshake.md",
     "2021-06-05.md",
     "the agora is a technology.md",
     "manifold with self attention.md",
@@ -361,7 +374,6 @@
     "gentle revolution.md",
     "thiftbooks.md",
     "understanding knowledge as a commons.md",
-    "Day Planners/Day Planner-20210530.md",
-    "obsidian embeds.md"
+    "Day Planners/Day Planner-20210530.md"
   ]
 }
