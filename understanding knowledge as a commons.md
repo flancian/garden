@@ -1,6 +1,9 @@
 - a [[book]]
 	- by [[charlotte hess]] and [[elinor ostrom]]
+		- goodreads has this under [[charlotte hess]]
+		- only 3.7 :(
+		- described as a loose collection of essays; might make sense to take notes per-chapter
 	- [[go]] https://mitpress.mit.edu/books/understanding-knowledge-commons
-	- [[hypothesis]] 
+	- [[hypothesis]] https://via.hypothes.is/www.wtf.tw/ref/hess_ostrom_2007.pdf
 	- [[pull]] [[knowledge commons]]
 	- [[es]] [[los bienes comunes del conocimiento]]

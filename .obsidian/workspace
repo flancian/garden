@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-05.md",
+                "file": "governing the commons.md",
                 "mode": "source"
               }
             }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understanding knowledge as a commons.md",
+                "file": "governing the commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "understanding knowledge as a commons.md"
+                "file": "governing the commons.md"
               }
             }
           },
@@ -265,17 +265,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44fda555080bde80",
+  "active": "3bf2d541bb7a98ca",
   "lastOpenFiles": [
-    "understanding knowledge as a commons.md",
+    "governing the commons.md",
     "2021-06-05.md",
+    "understanding knowledge as a commons.md",
     "2021-06-03.md",
     "plesmasquerade.md",
     "later.md",
     "hypha.md",
     "2021-06-04.md",
     "bingke.md",
-    "2021-05-30.md",
-    "lady burup.md"
+    "2021-05-30.md"
   ]
 }
