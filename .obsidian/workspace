@@ -8,21 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "8bfe396f67a5846a",
+            "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 11.1872465389456,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-04.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "40f20884985205ca",
-            "type": "leaf",
-            "dimension": 5.5936232694728,
+            "dimension": 3.360779700890606,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,13 +20,13 @@
             }
           },
           {
-            "id": "d7a7f04aa32808a3",
+            "id": "8881126e50d641bd",
             "type": "leaf",
-            "dimension": 5.5936232694728,
+            "dimension": 3.360779700890606,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten id.md",
+                "file": "agora polls.md",
                 "mode": "source"
               }
             }
@@ -46,7 +34,7 @@
           {
             "id": "44fda555080bde80",
             "type": "leaf",
-            "dimension": 12.69752482170326,
+            "dimension": 15.257939842043356,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +46,7 @@
           {
             "id": "21e8ebc09f91ad0d",
             "type": "leaf",
-            "dimension": 11.1872465389456,
+            "dimension": 13.443118803562424,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 11.1872465389456,
+            "dimension": 13.443118803562424,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -111,7 +99,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 21.703258285554462,
+            "dimension": 26.079650478911102,
             "state": {
               "type": "markdown",
               "state": {
@@ -123,7 +111,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 13.90015382463991,
+            "dimension": 16.703075113426316,
             "state": {
               "type": "markdown",
               "state": {
@@ -135,7 +123,7 @@
           {
             "id": "a466cc283a4d774e",
             "type": "leaf",
-            "dimension": 6.950076912319955,
+            "dimension": 8.351537556713158,
             "state": {
               "type": "markdown",
               "state": {
@@ -218,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten id.md",
+                "file": "understanding knowledge as a commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten id.md"
+                "file": "understanding knowledge as a commons.md"
               }
             }
           },
@@ -291,17 +279,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7a7f04aa32808a3",
+  "active": "44fda555080bde80",
   "lastOpenFiles": [
-    "zettelkasten id.md",
-    "2021-06-05.md",
-    "hypha.md",
     "understanding knowledge as a commons.md",
+    "2021-06-05.md",
+    "agora polls.md",
+    "zettelkasten id.md",
+    "hypha.md",
     "Day Planners/Day Planner-20210605.md",
     "Day Planners/Day Planner-20210530.md",
     "universal basic income.md",
     "grundeinkommen initiative.md",
-    "telekommunism.md",
-    "governing the commons.md"
+    "telekommunism.md"
   ]
 }
