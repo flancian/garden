@@ -1,0 +1,4 @@
+- [[go/flancian/calendly]]
+- a [[calendar tool]]
+	- not [[open source]]
+		- its open source alternative is [[x]]

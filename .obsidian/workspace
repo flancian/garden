@@ -122,7 +122,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zorro.md",
+                "file": "calendly.md",
                 "mode": "source"
               }
             }
@@ -326,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-05.md",
+                "file": "calendly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-05.md"
+                "file": "calendly.md"
               }
             }
           },
@@ -399,8 +399,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3faa5f577dc31907",
+  "active": "7d77c88560d8ce62",
   "lastOpenFiles": [
+    "calendly.md",
     "2021-06-05.md",
     "zorro.md",
     "digital gardens.md",
@@ -409,7 +410,6 @@
     "the agora is a technology.md",
     "manifold with self attention.md",
     "hypotheses.md",
-    "hypothesis.md",
-    "gentle revolution.md"
+    "hypothesis.md"
   ]
 }
