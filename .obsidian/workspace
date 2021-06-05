@@ -34,11 +34,23 @@
           {
             "id": "3bf2d541bb7a98ca",
             "type": "leaf",
-            "dimension": 10.61243571762506,
+            "dimension": 5.30621785881253,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-05.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c5ec29f57c35189c",
+            "type": "leaf",
+            "dimension": 5.30621785881253,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universal basic income.md",
                 "mode": "source"
               }
             }
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-05.md",
+                "file": "universal basic income.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-05.md"
+                "file": "universal basic income.md"
               }
             }
           },
@@ -265,8 +277,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bf2d541bb7a98ca",
+  "active": "c5ec29f57c35189c",
   "lastOpenFiles": [
+    "universal basic income.md",
     "2021-06-05.md",
     "telekommunism.md",
     "governing the commons.md",
@@ -275,7 +288,6 @@
     "plesmasquerade.md",
     "later.md",
     "hypha.md",
-    "2021-06-04.md",
-    "bingke.md"
+    "2021-06-04.md"
   ]
 }
