@@ -1,0 +1,4 @@
+- an [[id]] standard
+	- [[luhmann]] used hierarchical
+	- some later [[zettelkasten]] implementations use time based
+	- [[obsidian zettelkasten plugin]] uses 
