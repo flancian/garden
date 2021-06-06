@@ -10,55 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 3.3333333333333326,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-06.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "edc68152c87b373f",
-            "type": "leaf",
-            "dimension": 3.3333333333333326,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ellis.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b077164eec82aec9",
-            "type": "leaf",
-            "dimension": 13.33333333333333,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "protopoi.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "cf7d8d47ebe09f64",
-            "type": "leaf",
-            "dimension": 13.33333333333333,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "digital gardens.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "125d5a5615ed227a",
-            "type": "leaf",
-            "dimension": 6.666666666666665,
+            "dimension": 7.142857142857143,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +22,7 @@
           {
             "id": "e9caad4b1f179ad0",
             "type": "leaf",
-            "dimension": 3.3333333333333326,
+            "dimension": 7.142857142857143,
             "state": {
               "type": "markdown",
               "state": {
@@ -80,33 +32,9 @@
             }
           },
           {
-            "id": "24e95fe3952dbfea",
-            "type": "leaf",
-            "dimension": 3.3333333333333326,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "extensible data notation.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c1ac0a8f06269cbb",
-            "type": "leaf",
-            "dimension": 13.33333333333333,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-06.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "385dd3da1788fd5a",
             "type": "leaf",
-            "dimension": 13.33333333333333,
+            "dimension": 28.571428571428573,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +46,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 13.33333333333333,
+            "dimension": 28.571428571428573,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -159,7 +87,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 13.33333333333333,
+            "dimension": 28.571428571428573,
             "state": {
               "type": "markdown",
               "state": {
@@ -242,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ellis.md",
+                "file": "beginning of infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ellis.md"
+                "file": "beginning of infinity.md"
               }
             }
           },
@@ -315,17 +243,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edc68152c87b373f",
+  "active": "385dd3da1788fd5a",
   "lastOpenFiles": [
-    "ellis.md",
-    "2021-06-06.md",
-    "protopoi.md",
-    "ikea förhöja.md",
-    "digital gardens.md",
-    "extensible data notation.md",
+    "beginning of infinity.md",
+    "plesmasquerade.md",
     "edn.md",
-    "manifold with self attention.md",
-    "2021-06-05.md",
-    "bukowski.md"
+    "2021-06-06.md",
+    "extensible data notation.md",
+    "digital gardens.md",
+    "protopoi.md",
+    "ellis.md",
+    "ikea förhöja.md",
+    "manifold with self attention.md"
   ]
 }
