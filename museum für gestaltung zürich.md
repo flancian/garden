@@ -1,0 +1,3 @@
+- a [[museum]]
+	- in [[zürich]]
+	- [[pull]] [[wissen in bildern]]
