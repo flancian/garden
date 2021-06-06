@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital gardens.md",
+                "file": "2021-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "digital gardens.md"
+                "file": "2021-06-06.md"
               }
             }
           },
@@ -303,10 +303,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf7d8d47ebe09f64",
+  "active": "125d5a5615ed227a",
   "lastOpenFiles": [
-    "digital gardens.md",
     "2021-06-06.md",
+    "digital gardens.md",
     "extensible data notation.md",
     "edn.md",
     "manifold with self attention.md",
