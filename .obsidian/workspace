@@ -34,11 +34,23 @@
           {
             "id": "0f2dd7ba0af69f67",
             "type": "leaf",
-            "dimension": 6.538917423943103,
+            "dimension": 3.2694587119715517,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brutaldon.md",
+                "file": "2021-06-06.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ce8157de611004f4",
+            "type": "leaf",
+            "dimension": 3.2694587119715517,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "beginning of infinity.md",
                 "mode": "source"
               }
             }
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brutaldon.md",
+                "file": "beginning of infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "brutaldon.md"
+                "file": "beginning of infinity.md"
               }
             }
           },
@@ -339,17 +351,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f2dd7ba0af69f67",
+  "active": "ce8157de611004f4",
   "lastOpenFiles": [
-    "brutaldon.md",
+    "beginning of infinity.md",
     "2021-06-06.md",
+    "brutaldon.md",
     "protopoi.md",
     "2021-06-05.md",
     "calendly.md",
     "zorro.md",
     "digital gardens.md",
     "el zorro.md",
-    "handshake.md",
-    "the agora is a technology.md"
+    "handshake.md"
   ]
 }
