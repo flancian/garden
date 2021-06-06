@@ -10,7 +10,7 @@
           {
             "id": "dae63b7ef1934ce9",
             "type": "split",
-            "dimension": 8.928571428571429,
+            "dimension": 16.666666666666668,
             "children": [
               {
                 "id": "7079d00b3a2eb6be",
@@ -40,7 +40,7 @@
           {
             "id": "3bb527d9c3e9127c",
             "type": "leaf",
-            "dimension": 8.928571428571429,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +52,7 @@
           {
             "id": "e9c764a052b7c1ad",
             "type": "leaf",
-            "dimension": 28.57142857142857,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -62,61 +62,25 @@
             }
           },
           {
-            "id": "5bb611c5b235bb10",
+            "id": "de0ba9ee6d8c831e",
             "type": "leaf",
-            "dimension": 8.928571428571429,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xaos.md",
+                "file": "agora activitypub integration.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "08d9c580d1868a2d",
+            "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 8.928571428571429,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flancia.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "5a464c5e9fbffdb0",
-            "type": "leaf",
-            "dimension": 8.928571428571429,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "underlay project.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3e2ec32af2a639d0",
-            "type": "leaf",
-            "dimension": 8.928571428571429,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "underlay.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2ef22b7c033ba5ae",
-            "type": "leaf",
-            "dimension": 8.928571428571429,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sisters with transistors.md",
+                "file": "agora mastodon integration.md",
                 "mode": "source"
               }
             }
@@ -124,7 +88,7 @@
           {
             "id": "7b2e8b55fe23f74f",
             "type": "split",
-            "dimension": 8.928571428571429,
+            "dimension": 16.666666666666668,
             "children": [
               {
                 "id": "0dd202a162337858",
@@ -217,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora protocol.md",
+                "file": "agora mastodon integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora protocol.md"
+                "file": "agora mastodon integration.md"
               }
             }
           }
@@ -245,8 +209,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9c764a052b7c1ad",
+  "active": "85fcfb3a901a6ab1",
   "lastOpenFiles": [
+    "agora mastodon integration.md",
+    "agora activitypub integration.md",
     "agora protocol.md",
     "2021-06-06.md",
     "2021-06-03.md",
@@ -254,8 +220,6 @@
     "2021-06-05.md",
     "image channels tool.md",
     "flancia collective.md",
-    "flancia.md",
-    "chez nous.md",
-    "underlay project.md"
+    "flancia.md"
   ]
 }
