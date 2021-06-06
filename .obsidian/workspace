@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 6.25,
+            "dimension": 3.3333333333333326,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "378f564713113624",
+            "id": "edc68152c87b373f",
             "type": "leaf",
-            "dimension": 6.25,
+            "dimension": 3.3333333333333326,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ikea förhöja.md",
+                "file": "ellis.md",
                 "mode": "source"
               }
             }
@@ -34,7 +34,7 @@
           {
             "id": "b077164eec82aec9",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 13.33333333333333,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "cf7d8d47ebe09f64",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 13.33333333333333,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "125d5a5615ed227a",
             "type": "leaf",
-            "dimension": 6.25,
+            "dimension": 6.666666666666665,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "e9caad4b1f179ad0",
             "type": "leaf",
-            "dimension": 3.125,
+            "dimension": 3.3333333333333326,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "24e95fe3952dbfea",
             "type": "leaf",
-            "dimension": 3.125,
+            "dimension": 3.3333333333333326,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +94,7 @@
           {
             "id": "c1ac0a8f06269cbb",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 13.33333333333333,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +106,7 @@
           {
             "id": "385dd3da1788fd5a",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 13.33333333333333,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +118,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 12.5,
+            "dimension": 13.33333333333333,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -159,7 +159,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 13.33333333333333,
             "state": {
               "type": "markdown",
               "state": {
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ikea förhöja.md",
+                "file": "ellis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ikea förhöja.md"
+                "file": "ellis.md"
               }
             }
           },
@@ -315,17 +315,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "378f564713113624",
+  "active": "edc68152c87b373f",
   "lastOpenFiles": [
-    "ikea förhöja.md",
+    "ellis.md",
     "2021-06-06.md",
+    "protopoi.md",
+    "ikea förhöja.md",
     "digital gardens.md",
     "extensible data notation.md",
     "edn.md",
     "manifold with self attention.md",
     "2021-06-05.md",
-    "bukowski.md",
-    "protopoi.md",
-    "agora polls.md"
+    "bukowski.md"
   ]
 }
