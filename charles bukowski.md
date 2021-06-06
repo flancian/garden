@@ -1,0 +1,2 @@
+- [[wp]] https://en.wikipedia.org/wiki/Charles_Bukowski
+	- [[go]] [[wp]]

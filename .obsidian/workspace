@@ -70,11 +70,23 @@
           {
             "id": "464bde7f0a8d737d",
             "type": "leaf",
-            "dimension": 8.158995815899583,
+            "dimension": 4.079497907949792,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "bukowski.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "dcbbdade6bdc2019",
+            "type": "leaf",
+            "dimension": 4.079497907949792,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "charles bukowski.md",
                 "mode": "source"
               }
             }
@@ -302,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bukowski.md",
+                "file": "charles bukowski.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bukowski.md"
+                "file": "charles bukowski.md"
               }
             }
           },
@@ -375,8 +387,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "464bde7f0a8d737d",
+  "active": "dcbbdade6bdc2019",
   "lastOpenFiles": [
+    "charles bukowski.md",
     "bukowski.md",
     "2021-06-06.md",
     "3d printed concrete.md",
@@ -385,7 +398,6 @@
     "beginning of infinity.md",
     "agora polls.md",
     "the beginning of infinity.md",
-    "protopoi.md",
-    "quasi autonomous emergent property.md"
+    "protopoi.md"
   ]
 }
