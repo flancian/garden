@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 16.36889783593357,
+            "dimension": 9.31098696461825,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 8.184448917966785,
+            "dimension": 9.31098696461825,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "c9930068fe6a131a",
             "type": "leaf",
-            "dimension": 8.184448917966785,
+            "dimension": 9.31098696461825,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,9 +44,21 @@
             }
           },
           {
+            "id": "cb8bf322578263be",
+            "type": "leaf",
+            "dimension": 9.31098696461825,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "protopoi reading club.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "52e6cd26dfdbff67",
             "type": "leaf",
-            "dimension": 16.36889783593357,
+            "dimension": 13.221601489757914,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "31eedcdc766c6099",
             "type": "leaf",
-            "dimension": 16.36889783593357,
+            "dimension": 15.921787709497206,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "e9caad4b1f179ad0",
             "type": "leaf",
-            "dimension": 10.065425264217414,
+            "dimension": 9.823091247672252,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 10.065425264217414,
+            "dimension": 9.776536312849162,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -112,7 +124,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 14.393558127830902,
+            "dimension": 14.013035381750466,
             "state": {
               "type": "markdown",
               "state": {
@@ -271,8 +283,8 @@
   "active": "c9930068fe6a131a",
   "lastOpenFiles": [
     "reading protopoi.md",
-    "2021-02-20.md",
     "protopoi reading club.md",
+    "2021-02-20.md",
     "2021-06-06.md",
     "janastu.md",
     "why is everyone in such a rush?.md",
