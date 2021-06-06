@@ -80,40 +80,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora mastodon integration.md",
+                "file": "agora fediverse integration.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "7b2e8b55fe23f74f",
-            "type": "split",
+            "id": "0dd202a162337858",
+            "type": "leaf",
             "dimension": 16.666666666666668,
-            "children": [
-              {
-                "id": "0dd202a162337858",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora mediawiki integration.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "16ae5b2cf59a58dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "sketch engine.md",
-                    "mode": "source"
-                  }
-                }
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora mediawiki integration.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           }
         ],
         "direction": "horizontal"
@@ -181,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora mastodon integration.md",
+                "file": "agora activitypub integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora mastodon integration.md"
+                "file": "agora activitypub integration.md"
               }
             }
           }
@@ -209,17 +191,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85fcfb3a901a6ab1",
+  "active": "de0ba9ee6d8c831e",
   "lastOpenFiles": [
-    "agora mastodon integration.md",
     "agora activitypub integration.md",
+    "agora fediverse integration.md",
+    "agora mastodon integration.md",
     "agora protocol.md",
     "2021-06-06.md",
     "2021-06-03.md",
     "xaos.md",
     "2021-06-05.md",
     "image channels tool.md",
-    "flancia collective.md",
-    "flancia.md"
+    "flancia collective.md"
   ]
 }

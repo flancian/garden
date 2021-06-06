@@ -1,2 +1,2 @@
 - [[pull]] [[agora twitter integration]]
-- [[pull]] [[agora mastodon integration]]
+- [[pull]] [[agora fediverse integration]]
