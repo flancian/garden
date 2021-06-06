@@ -1,4 +1,5 @@
 - a [[book]]
 	- by [[david deutsch]]
 	- I love it
-	- 
+	- [[wp]] https://en.wikipedia.org/wiki/The_Beginning_of_Infinity
+		- [[go]] [[wp]]

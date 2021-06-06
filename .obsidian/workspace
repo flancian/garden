@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "bc54078e2eb48e60",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "0f2dd7ba0af69f67",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "ce8157de611004f4",
             "type": "leaf",
-            "dimension": 3.6778227289444656,
+            "dimension": 9.20346677672307,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,21 +56,9 @@
             }
           },
           {
-            "id": "b0fa811edd12c020",
-            "type": "leaf",
-            "dimension": 3.6778227289444656,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the beginning of infinity.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "8881126e50d641bd",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +70,7 @@
           {
             "id": "b077164eec82aec9",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +82,7 @@
           {
             "id": "cf7d8d47ebe09f64",
             "type": "leaf",
-            "dimension": 19.087899963221776,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +94,7 @@
           {
             "id": "125d5a5615ed227a",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +106,7 @@
           {
             "id": "c1ac0a8f06269cbb",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +118,7 @@
           {
             "id": "385dd3da1788fd5a",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -142,7 +130,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -183,7 +171,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 7.355645457888931,
+            "dimension": 8.254230293025175,
             "state": {
               "type": "markdown",
               "state": {
@@ -266,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the beginning of infinity.md",
+                "file": "beginning of infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the beginning of infinity.md"
+                "file": "beginning of infinity.md"
               }
             }
           },
@@ -339,15 +327,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0fa811edd12c020",
+  "active": "ce8157de611004f4",
   "lastOpenFiles": [
-    "the beginning of infinity.md",
     "beginning of infinity.md",
+    "agora polls.md",
+    "the beginning of infinity.md",
     "2021-06-06.md",
     "protopoi.md",
     "quasi autonomous emergent property.md",
     "manifold with self attention.md",
-    "agora polls.md",
     "brutaldon.md",
     "2021-06-05.md",
     "calendly.md"
