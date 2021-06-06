@@ -1,0 +1,4 @@
+- a [[book]]
+	- by [[david deutsch]]
+	- I love it
+	- 
