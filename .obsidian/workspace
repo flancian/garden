@@ -10,11 +10,23 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 32.73779567186714,
+            "dimension": 16.36889783593357,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-06.md",
+                "file": "reading protopoi.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8bdc92c945784bb0",
+            "type": "leaf",
+            "dimension": 16.36889783593357,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "protopoi reading club.md",
                 "mode": "source"
               }
             }
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-06.md",
+                "file": "protopoi reading club.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-06.md"
+                "file": "protopoi reading club.md"
               }
             }
           },
@@ -244,8 +256,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7a7f04aa32808a3",
+  "active": "8bdc92c945784bb0",
   "lastOpenFiles": [
+    "protopoi reading club.md",
+    "reading protopoi.md",
     "2021-06-06.md",
     "janastu.md",
     "why is everyone in such a rush?.md",
@@ -253,8 +267,6 @@
     "action code.md",
     "break glass.md",
     "obsidian embeds.md",
-    "plesmasquerade.md",
-    "beginning of infinity.md",
-    "extensible data notation.md"
+    "plesmasquerade.md"
   ]
 }
