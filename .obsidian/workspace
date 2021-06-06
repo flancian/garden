@@ -46,11 +46,35 @@
           {
             "id": "125d5a5615ed227a",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 6.25,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-06.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e9caad4b1f179ad0",
+            "type": "leaf",
+            "dimension": 3.125,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "edn.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "24e95fe3952dbfea",
+            "type": "leaf",
+            "dimension": 3.125,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extensible data notation.md",
                 "mode": "source"
               }
             }
@@ -206,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-06.md",
+                "file": "extensible data notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-06.md"
+                "file": "extensible data notation.md"
               }
             }
           },
@@ -279,8 +303,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "125d5a5615ed227a",
+  "active": "24e95fe3952dbfea",
   "lastOpenFiles": [
+    "extensible data notation.md",
+    "edn.md",
     "2021-06-06.md",
     "manifold with self attention.md",
     "2021-06-05.md",
@@ -288,8 +314,6 @@
     "protopoi.md",
     "agora polls.md",
     "charles bukowski.md",
-    "interlay.md",
-    "3d printed concrete.md",
-    "museum für gestaltung zürich.md"
+    "interlay.md"
   ]
 }
