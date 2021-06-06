@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "charles bukowski.md",
+                "file": "2021-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "charles bukowski.md"
+                "file": "2021-06-06.md"
               }
             }
           },
@@ -387,11 +387,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dcbbdade6bdc2019",
+  "active": "47ef45b2212b4fff",
   "lastOpenFiles": [
+    "2021-06-06.md",
     "charles bukowski.md",
     "bukowski.md",
-    "2021-06-06.md",
     "3d printed concrete.md",
     "museum für gestaltung zürich.md",
     "interlay.md",
