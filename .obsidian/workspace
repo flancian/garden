@@ -54,8 +54,11 @@
             "type": "leaf",
             "dimension": 16.666666666666668,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "agora protocol.md",
+                "mode": "source"
+              }
             }
           },
           {
@@ -160,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora fediverse integration.md",
+                "file": "agora protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora fediverse integration.md"
+                "file": "agora protocol.md"
               }
             }
           }
@@ -188,13 +191,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85fcfb3a901a6ab1",
+  "active": "e9c764a052b7c1ad",
   "lastOpenFiles": [
+    "agora protocol.md",
     "agora fediverse integration.md",
     "agora activitypub integration.md",
     "agora mastodon integration.md",
     "2021-06-03.md",
-    "agora protocol.md",
     "2021-06-06.md",
     "xaos.md",
     "2021-06-05.md",
