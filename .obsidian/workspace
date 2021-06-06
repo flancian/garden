@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-06.md",
+                "file": "protopoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-06.md"
+                "file": "protopoi.md"
               }
             }
           },
@@ -387,17 +387,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47ef45b2212b4fff",
+  "active": "b077164eec82aec9",
   "lastOpenFiles": [
+    "protopoi.md",
+    "agora polls.md",
+    "interlay.md",
     "2021-06-06.md",
     "charles bukowski.md",
     "bukowski.md",
     "3d printed concrete.md",
     "museum für gestaltung zürich.md",
-    "interlay.md",
     "beginning of infinity.md",
-    "agora polls.md",
-    "the beginning of infinity.md",
-    "protopoi.md"
+    "the beginning of infinity.md"
   ]
 }
