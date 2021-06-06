@@ -1,2 +1,2 @@
 - [[pull]] [[consciousness is a manifold with self-attention]]
-- what if we are [[quasi autonomous ]]
+- what if consciousness is a [[quasi autonomous emergent property]].

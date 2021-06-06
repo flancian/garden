@@ -22,7 +22,7 @@
           {
             "id": "bc54078e2eb48e60",
             "type": "leaf",
-            "dimension": 7.76630689816987,
+            "dimension": 7.766306898169869,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "0f2dd7ba0af69f67",
             "type": "leaf",
-            "dimension": 3.883153449084935,
+            "dimension": 3.8831534490849346,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "ce8157de611004f4",
             "type": "leaf",
-            "dimension": 3.883153449084935,
+            "dimension": 3.8831534490849346,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,11 +94,35 @@
           {
             "id": "125d5a5615ed227a",
             "type": "leaf",
-            "dimension": 9.385265133740027,
+            "dimension": 4.692632566870014,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "manifold with self attention.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c1ac0a8f06269cbb",
+            "type": "leaf",
+            "dimension": 2.346316283435007,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-06.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "385dd3da1788fd5a",
+            "type": "leaf",
+            "dimension": 2.346316283435007,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "beginning of infinity.md",
                 "mode": "source"
               }
             }
@@ -254,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manifold with self attention.md",
+                "file": "beginning of infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manifold with self attention.md"
+                "file": "beginning of infinity.md"
               }
             }
           },
@@ -327,17 +351,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "125d5a5615ed227a",
+  "active": "385dd3da1788fd5a",
   "lastOpenFiles": [
-    "manifold with self attention.md",
-    "agora polls.md",
     "beginning of infinity.md",
     "2021-06-06.md",
+    "quasi autonomous emergent property.md",
+    "manifold with self attention.md",
+    "agora polls.md",
     "brutaldon.md",
     "protopoi.md",
     "2021-06-05.md",
     "calendly.md",
-    "zorro.md",
-    "digital gardens.md"
+    "zorro.md"
   ]
 }
