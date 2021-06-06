@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "janastu.md",
+                "file": "2021-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "janastu.md"
+                "file": "2021-06-06.md"
               }
             }
           },
@@ -244,10 +244,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31eedcdc766c6099",
+  "active": "d7a7f04aa32808a3",
   "lastOpenFiles": [
-    "janastu.md",
     "2021-06-06.md",
+    "janastu.md",
     "why is everyone in such a rush?.md",
     "edn.md",
     "action code.md",
