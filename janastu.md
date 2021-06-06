@@ -1,0 +1,4 @@
+- an [[open collective]]
+	- [[india]] based
+	- met [[]]
+	- [[go]] https://open.janastu.org/
