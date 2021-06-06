@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "bc54078e2eb48e60",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "0f2dd7ba0af69f67",
             "type": "leaf",
-            "dimension": 4.127115146512589,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,11 +46,23 @@
           {
             "id": "fa34715ce16cb86a",
             "type": "leaf",
-            "dimension": 4.127115146512589,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "museum für gestaltung zürich.md",
+                "file": "2021-06-06.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "47ef45b2212b4fff",
+            "type": "leaf",
+            "dimension": 16.317991631799163,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3d printed concrete.md",
                 "mode": "source"
               }
             }
@@ -58,7 +70,7 @@
           {
             "id": "ce8157de611004f4",
             "type": "leaf",
-            "dimension": 4.601733388361536,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "cfe49ee5ed4e8942",
             "type": "leaf",
-            "dimension": 4.601733388361536,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "8881126e50d641bd",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "b077164eec82aec9",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "cf7d8d47ebe09f64",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +130,7 @@
           {
             "id": "125d5a5615ed227a",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +142,7 @@
           {
             "id": "c1ac0a8f06269cbb",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -142,7 +154,7 @@
           {
             "id": "385dd3da1788fd5a",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -154,7 +166,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -195,7 +207,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 8.254230293025177,
+            "dimension": 5.977286312014345,
             "state": {
               "type": "markdown",
               "state": {
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "museum für gestaltung zürich.md",
+                "file": "3d printed concrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "museum für gestaltung zürich.md"
+                "file": "3d printed concrete.md"
               }
             }
           },
@@ -351,17 +363,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa34715ce16cb86a",
+  "active": "47ef45b2212b4fff",
   "lastOpenFiles": [
-    "museum für gestaltung zürich.md",
+    "3d printed concrete.md",
     "2021-06-06.md",
+    "museum für gestaltung zürich.md",
     "interlay.md",
     "beginning of infinity.md",
     "agora polls.md",
     "the beginning of infinity.md",
     "protopoi.md",
     "quasi autonomous emergent property.md",
-    "manifold with self attention.md",
-    "brutaldon.md"
+    "manifold with self attention.md"
   ]
 }
