@@ -1,1 +1,2 @@
 - [[pull]] [[consciousness is a manifold with self-attention]]
+- what if we are [[quasi autonomous ]]
