@@ -1,6 +1,6 @@
 - an [[open collective]]
 	- Janastu is a [[people]] oriented [[open-source]] collective working to enable [[community]] storytelling by the people, for the people. 
 		- [[india]]
-		- [[1999 ]]
+		- [[1999]] [[servelots]]
 	- [[go]] https://open.janastu.org/
 	- [[shafali]]
