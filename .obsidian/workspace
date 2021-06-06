@@ -22,11 +22,23 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 16.36889783593357,
+            "dimension": 8.184448917966785,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protopoi reading club.md",
+                "file": "2021-02-20.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c9930068fe6a131a",
+            "type": "leaf",
+            "dimension": 8.184448917966785,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading protopoi.md",
                 "mode": "source"
               }
             }
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protopoi reading club.md",
+                "file": "reading protopoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protopoi reading club.md"
+                "file": "reading protopoi.md"
               }
             }
           },
@@ -256,17 +268,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8bdc92c945784bb0",
+  "active": "c9930068fe6a131a",
   "lastOpenFiles": [
-    "protopoi reading club.md",
     "reading protopoi.md",
+    "2021-02-20.md",
+    "protopoi reading club.md",
     "2021-06-06.md",
     "janastu.md",
     "why is everyone in such a rush?.md",
     "edn.md",
     "action code.md",
     "break glass.md",
-    "obsidian embeds.md",
-    "plesmasquerade.md"
+    "obsidian embeds.md"
   ]
 }
