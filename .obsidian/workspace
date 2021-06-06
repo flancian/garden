@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-06.md",
+                "file": "2021-06-03.md",
                 "mode": "source"
               }
             }
@@ -54,11 +54,8 @@
             "type": "leaf",
             "dimension": 16.666666666666668,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora protocol.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -163,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora activitypub integration.md",
+                "file": "agora fediverse integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora activitypub integration.md"
+                "file": "agora fediverse integration.md"
               }
             }
           }
@@ -191,14 +188,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de0ba9ee6d8c831e",
+  "active": "85fcfb3a901a6ab1",
   "lastOpenFiles": [
-    "agora activitypub integration.md",
     "agora fediverse integration.md",
+    "agora activitypub integration.md",
     "agora mastodon integration.md",
+    "2021-06-03.md",
     "agora protocol.md",
     "2021-06-06.md",
-    "2021-06-03.md",
     "xaos.md",
     "2021-06-05.md",
     "image channels tool.md",
