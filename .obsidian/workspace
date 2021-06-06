@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensible data notation.md",
+                "file": "digital gardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensible data notation.md"
+                "file": "digital gardens.md"
               }
             }
           },
@@ -303,17 +303,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24e95fe3952dbfea",
+  "active": "cf7d8d47ebe09f64",
   "lastOpenFiles": [
+    "digital gardens.md",
+    "2021-06-06.md",
     "extensible data notation.md",
     "edn.md",
-    "2021-06-06.md",
     "manifold with self attention.md",
     "2021-06-05.md",
     "bukowski.md",
     "protopoi.md",
     "agora polls.md",
-    "charles bukowski.md",
-    "interlay.md"
+    "charles bukowski.md"
   ]
 }
