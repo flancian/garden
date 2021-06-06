@@ -10,11 +10,23 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 6.25,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-06.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "378f564713113624",
+            "type": "leaf",
+            "dimension": 6.25,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ikea förhöja.md",
                 "mode": "source"
               }
             }
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-06.md",
+                "file": "ikea förhöja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-06.md"
+                "file": "ikea förhöja.md"
               }
             }
           },
@@ -303,8 +315,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "125d5a5615ed227a",
+  "active": "378f564713113624",
   "lastOpenFiles": [
+    "ikea förhöja.md",
     "2021-06-06.md",
     "digital gardens.md",
     "extensible data notation.md",
@@ -313,7 +326,6 @@
     "2021-06-05.md",
     "bukowski.md",
     "protopoi.md",
-    "agora polls.md",
-    "charles bukowski.md"
+    "agora polls.md"
   ]
 }
