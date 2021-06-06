@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,11 +22,23 @@
           {
             "id": "bc54078e2eb48e60",
             "type": "leaf",
-            "dimension": 13.07783484788621,
+            "dimension": 6.538917423943103,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protopoi.md",
+                "file": "2021-06-06.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0f2dd7ba0af69f67",
+            "type": "leaf",
+            "dimension": 6.538917423943103,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brutaldon.md",
                 "mode": "source"
               }
             }
@@ -34,7 +46,7 @@
           {
             "id": "8881126e50d641bd",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +58,7 @@
           {
             "id": "b8ad007049dfcb62",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "3739fcd1597b1e81",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "b077164eec82aec9",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "cf7d8d47ebe09f64",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "125d5a5615ed227a",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -147,7 +159,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -159,7 +171,7 @@
           {
             "id": "2af582f84f5b5597",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -171,7 +183,7 @@
           {
             "id": "a466cc283a4d774e",
             "type": "leaf",
-            "dimension": 7.902015013828527,
+            "dimension": 7.902015013828525,
             "state": {
               "type": "markdown",
               "state": {
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protopoi.md",
+                "file": "brutaldon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protopoi.md"
+                "file": "brutaldon.md"
               }
             }
           },
@@ -327,8 +339,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc54078e2eb48e60",
+  "active": "0f2dd7ba0af69f67",
   "lastOpenFiles": [
+    "brutaldon.md",
+    "2021-06-06.md",
     "protopoi.md",
     "2021-06-05.md",
     "calendly.md",
@@ -336,8 +350,6 @@
     "digital gardens.md",
     "el zorro.md",
     "handshake.md",
-    "the agora is a technology.md",
-    "manifold with self attention.md",
-    "hypotheses.md"
+    "the agora is a technology.md"
   ]
 }
