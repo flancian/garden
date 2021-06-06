@@ -2,7 +2,7 @@
 
 - A [[list]]. 
 	- with a matching [[reading club]].
-		- centered around [[articles]], [[books]] relevant in [[protopoi]] [[space]].
+		- centered around [[articles]], [[books]] relevant in [[protopoi]] [[space]] (incremental world improvement).
 	- [[push]] here to add items.
 		- [[governing the commons]]
 		- [[the beginning of infinity]]
