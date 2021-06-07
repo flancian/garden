@@ -1,0 +1,4 @@
+- a [[cli]]
+	- to [[build]], [[run]], [[test]] [[web extensions]]
+	- [[git]] https://github.com/mozilla/web-ext
+		- [[go]] [[git]]

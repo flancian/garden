@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 10.26694045174538,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 5.13347022587269,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "244abd2cd08510a2",
             "type": "leaf",
-            "dimension": 2.566735112936345,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "1d3198216da80f9d",
             "type": "leaf",
-            "dimension": 2.566735112936345,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "c9930068fe6a131a",
             "type": "leaf",
-            "dimension": 5.13347022587269,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 5.13347022587269,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "52e6cd26dfdbff67",
             "type": "leaf",
-            "dimension": 7.289527720739219,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -92,9 +92,21 @@
             }
           },
           {
+            "id": "0950eff549ac7625",
+            "type": "leaf",
+            "dimension": 9.628084810566563,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web ext.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "6a0d95c6668d0e4f",
             "type": "leaf",
-            "dimension": 7.289527720739219,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "31eedcdc766c6099",
             "type": "leaf",
-            "dimension": 17.5564681724846,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +130,7 @@
           {
             "id": "e9caad4b1f179ad0",
             "type": "leaf",
-            "dimension": 5.415811088295687,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +142,7 @@
           {
             "id": "18ffe98aa0f9a895",
             "type": "leaf",
-            "dimension": 5.415811088295687,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -142,7 +154,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 10.780287474332649,
+            "dimension": 6.951685783802572,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -172,7 +184,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 15.4517453798768,
+            "dimension": 6.951685783802572,
             "state": {
               "type": "markdown",
               "state": {
@@ -255,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emergent property.md",
+                "file": "web ext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "emergent property.md"
+                "file": "web ext.md"
               }
             }
           },
@@ -328,17 +340,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d3198216da80f9d",
+  "active": "0950eff549ac7625",
   "lastOpenFiles": [
+    "web ext.md",
+    "agora mastodon integration.md",
+    "2021-06-07.md",
     "emergent property.md",
     "love.md",
-    "2021-06-07.md",
     "2021-02-20.md",
     "hack firefox.md",
     "edn.md",
     "janastu.md",
-    "social coop.md",
-    "2021-06-06.md",
-    "agora fediverse integration.md"
+    "social coop.md"
   ]
 }
