@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "janastu.md",
+                "file": "2021-06-07.md",
                 "mode": "source"
               }
             }
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social coop.md",
+                "file": "2021-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "social coop.md"
+                "file": "2021-06-07.md"
               }
             }
           },
@@ -292,17 +292,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a0d95c6668d0e4f",
+  "active": "31eedcdc766c6099",
   "lastOpenFiles": [
-    "social coop.md",
     "2021-06-07.md",
+    "janastu.md",
+    "social coop.md",
     "2021-06-06.md",
     "agora fediverse integration.md",
     "agora mastodon integration.md",
     "reading protopoi.md",
     "2021-02-20.md",
     "protopoi reading club.md",
-    "janastu.md",
     "why is everyone in such a rush?.md"
   ]
 }
