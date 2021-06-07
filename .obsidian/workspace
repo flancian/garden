@@ -34,11 +34,23 @@
           {
             "id": "c9930068fe6a131a",
             "type": "leaf",
-            "dimension": 9.31098696461825,
+            "dimension": 4.655493482309125,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading protopoi.md",
+                "file": "agora mastodon integration.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b7b8a1f5a0af6991",
+            "type": "leaf",
+            "dimension": 4.655493482309125,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora fediverse integration.md",
                 "mode": "source"
               }
             }
@@ -70,7 +82,7 @@
           {
             "id": "31eedcdc766c6099",
             "type": "leaf",
-            "dimension": 15.921787709497206,
+            "dimension": 15.921787709497204,
             "state": {
               "type": "markdown",
               "state": {
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading protopoi.md",
+                "file": "agora fediverse integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading protopoi.md"
+                "file": "agora fediverse integration.md"
               }
             }
           },
@@ -280,8 +292,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9930068fe6a131a",
+  "active": "b7b8a1f5a0af6991",
   "lastOpenFiles": [
+    "agora fediverse integration.md",
+    "agora mastodon integration.md",
     "reading protopoi.md",
     "2021-02-20.md",
     "protopoi reading club.md",
@@ -289,8 +303,6 @@
     "janastu.md",
     "why is everyone in such a rush?.md",
     "edn.md",
-    "action code.md",
-    "break glass.md",
-    "obsidian embeds.md"
+    "action code.md"
   ]
 }
