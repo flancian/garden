@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora fediverse integration.md",
+                "file": "agora mastodon integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora fediverse integration.md"
+                "file": "agora mastodon integration.md"
               }
             }
           },
@@ -256,13 +256,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7b8a1f5a0af6991",
+  "active": "c9930068fe6a131a",
   "lastOpenFiles": [
+    "agora mastodon integration.md",
     "agora fediverse integration.md",
     "2021-06-07.md",
     "argdown.md",
     "web ext.md",
-    "agora mastodon integration.md",
     "action code.md",
     "reading protopoi.md",
     "break glass.md",
