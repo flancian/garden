@@ -10,7 +10,7 @@
           {
             "id": "d7a7f04aa32808a3",
             "type": "leaf",
-            "dimension": 9.31098696461825,
+            "dimension": 10.26694045174538,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 9.31098696461825,
+            "dimension": 10.26694045174538,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "c9930068fe6a131a",
             "type": "leaf",
-            "dimension": 4.655493482309125,
+            "dimension": 5.13347022587269,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 4.655493482309125,
+            "dimension": 5.13347022587269,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,25 +56,25 @@
             }
           },
           {
-            "id": "cb8bf322578263be",
+            "id": "52e6cd26dfdbff67",
             "type": "leaf",
-            "dimension": 9.31098696461825,
+            "dimension": 7.289527720739218,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protopoi reading club.md",
+                "file": "2021-06-07.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "52e6cd26dfdbff67",
+            "id": "6a0d95c6668d0e4f",
             "type": "leaf",
-            "dimension": 13.221601489757914,
+            "dimension": 7.289527720739218,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-06.md",
+                "file": "social coop.md",
                 "mode": "source"
               }
             }
@@ -82,7 +82,7 @@
           {
             "id": "31eedcdc766c6099",
             "type": "leaf",
-            "dimension": 15.921787709497204,
+            "dimension": 17.556468172484596,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +94,7 @@
           {
             "id": "e9caad4b1f179ad0",
             "type": "leaf",
-            "dimension": 9.823091247672252,
+            "dimension": 10.831622176591374,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +106,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 9.776536312849162,
+            "dimension": 10.780287474332647,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -136,7 +136,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 14.013035381750466,
+            "dimension": 15.451745379876797,
             "state": {
               "type": "markdown",
               "state": {
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora fediverse integration.md",
+                "file": "social coop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora fediverse integration.md"
+                "file": "social coop.md"
               }
             }
           },
@@ -292,17 +292,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7b8a1f5a0af6991",
+  "active": "6a0d95c6668d0e4f",
   "lastOpenFiles": [
+    "social coop.md",
+    "2021-06-07.md",
+    "2021-06-06.md",
     "agora fediverse integration.md",
     "agora mastodon integration.md",
     "reading protopoi.md",
     "2021-02-20.md",
     "protopoi reading club.md",
-    "2021-06-06.md",
     "janastu.md",
-    "why is everyone in such a rush?.md",
-    "edn.md",
-    "action code.md"
+    "why is everyone in such a rush?.md"
   ]
 }
