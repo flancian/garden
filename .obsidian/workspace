@@ -58,7 +58,7 @@
           {
             "id": "52e6cd26dfdbff67",
             "type": "leaf",
-            "dimension": 7.289527720739218,
+            "dimension": 7.289527720739219,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "6a0d95c6668d0e4f",
             "type": "leaf",
-            "dimension": 7.289527720739218,
+            "dimension": 7.289527720739219,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "31eedcdc766c6099",
             "type": "leaf",
-            "dimension": 17.556468172484596,
+            "dimension": 17.5564681724846,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,11 +94,23 @@
           {
             "id": "e9caad4b1f179ad0",
             "type": "leaf",
-            "dimension": 10.831622176591374,
+            "dimension": 5.415811088295687,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edn.md",
+                "file": "2021-06-07.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "18ffe98aa0f9a895",
+            "type": "leaf",
+            "dimension": 5.415811088295687,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hack firefox.md",
                 "mode": "source"
               }
             }
@@ -106,7 +118,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 10.780287474332647,
+            "dimension": 10.780287474332649,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -136,7 +148,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 15.451745379876797,
+            "dimension": 15.4517453798768,
             "state": {
               "type": "markdown",
               "state": {
@@ -219,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-07.md",
+                "file": "hack firefox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-07.md"
+                "file": "hack firefox.md"
               }
             }
           },
@@ -292,17 +304,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31eedcdc766c6099",
+  "active": "18ffe98aa0f9a895",
   "lastOpenFiles": [
+    "hack firefox.md",
     "2021-06-07.md",
+    "edn.md",
     "janastu.md",
     "social coop.md",
     "2021-06-06.md",
     "agora fediverse integration.md",
     "agora mastodon integration.md",
     "reading protopoi.md",
-    "2021-02-20.md",
-    "protopoi reading club.md",
-    "why is everyone in such a rush?.md"
+    "2021-02-20.md"
   ]
 }
