@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hack firefox.md",
+                "file": "2021-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hack firefox.md"
+                "file": "2021-06-07.md"
               }
             }
           },
@@ -304,10 +304,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18ffe98aa0f9a895",
+  "active": "e9caad4b1f179ad0",
   "lastOpenFiles": [
-    "hack firefox.md",
     "2021-06-07.md",
+    "hack firefox.md",
     "edn.md",
     "janastu.md",
     "social coop.md",
