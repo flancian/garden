@@ -22,11 +22,35 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 10.26694045174538,
+            "dimension": 5.13347022587269,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-02-20.md",
+                "file": "2021-06-07.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "244abd2cd08510a2",
+            "type": "leaf",
+            "dimension": 2.566735112936345,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "love.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "1d3198216da80f9d",
+            "type": "leaf",
+            "dimension": 2.566735112936345,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "emergent property.md",
                 "mode": "source"
               }
             }
@@ -231,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-07.md",
+                "file": "emergent property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-07.md"
+                "file": "emergent property.md"
               }
             }
           },
@@ -304,17 +328,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31eedcdc766c6099",
+  "active": "1d3198216da80f9d",
   "lastOpenFiles": [
+    "emergent property.md",
+    "love.md",
     "2021-06-07.md",
+    "2021-02-20.md",
     "hack firefox.md",
     "edn.md",
     "janastu.md",
     "social coop.md",
     "2021-06-06.md",
-    "agora fediverse integration.md",
-    "agora mastodon integration.md",
-    "reading protopoi.md",
-    "2021-02-20.md"
+    "agora fediverse integration.md"
   ]
 }
