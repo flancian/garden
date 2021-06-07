@@ -46,11 +46,23 @@
           {
             "id": "0950eff549ac7625",
             "type": "leaf",
-            "dimension": 21.691464369616288,
+            "dimension": 10.845732184808146,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web ext.md",
+                "file": "2021-06-07.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "85e332291de36b9d",
+            "type": "leaf",
+            "dimension": 10.845732184808146,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argdown.md",
                 "mode": "source"
               }
             }
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora mastodon integration.md",
+                "file": "argdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora mastodon integration.md"
+                "file": "argdown.md"
               }
             }
           },
@@ -244,17 +256,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9930068fe6a131a",
+  "active": "85e332291de36b9d",
   "lastOpenFiles": [
-    "agora mastodon integration.md",
+    "argdown.md",
     "2021-06-07.md",
+    "web ext.md",
+    "agora mastodon integration.md",
     "action code.md",
     "reading protopoi.md",
     "break glass.md",
-    "web ext.md",
     "agora fediverse integration.md",
     "obsidian embeds.md",
-    "hack firefox.md",
-    "emergent property.md"
+    "hack firefox.md"
   ]
 }
