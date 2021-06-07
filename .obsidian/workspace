@@ -8,21 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "d7a7f04aa32808a3",
-            "type": "leaf",
-            "dimension": 13.540961408259985,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reading protopoi.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 13.540961408259985,
+            "dimension": 15.66170712607674,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +22,7 @@
           {
             "id": "c9930068fe6a131a",
             "type": "leaf",
-            "dimension": 13.540961408259985,
+            "dimension": 15.66170712607674,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +34,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 13.540961408259985,
+            "dimension": 15.66170712607674,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +46,7 @@
           {
             "id": "0950eff549ac7625",
             "type": "leaf",
-            "dimension": 18.754231550440082,
+            "dimension": 21.691464369616288,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 13.540961408259985,
+            "dimension": 15.66170712607674,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -100,7 +88,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 13.540961408259985,
+            "dimension": 15.66170712607674,
             "state": {
               "type": "markdown",
               "state": {
@@ -183,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "action code.md",
+                "file": "agora mastodon integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "action code.md"
+                "file": "agora mastodon integration.md"
               }
             }
           },
@@ -256,17 +244,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a54815fc38d912c",
+  "active": "c9930068fe6a131a",
   "lastOpenFiles": [
+    "agora mastodon integration.md",
+    "2021-06-07.md",
     "action code.md",
+    "reading protopoi.md",
     "break glass.md",
     "web ext.md",
     "agora fediverse integration.md",
     "obsidian embeds.md",
     "hack firefox.md",
-    "2021-06-07.md",
-    "agora mastodon integration.md",
-    "emergent property.md",
-    "love.md"
+    "emergent property.md"
   ]
 }
