@@ -1,3 +1,4 @@
 - a [[paper]]
 	- about [[invariant patterns]] in [[a pattern language]] 
 	- [[go]] https://journals.sagepub.com/doi/full/10.1177/2399808318761396
+		- "despite its popularity, the structure of _A Pattern Language_ remains poorly understood. In response to this situation, this paper uses graph theory to examine Alexander’s language including the entire set of 253 patterns and over 1800 relationships between them."
