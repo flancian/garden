@@ -1,0 +1,5 @@
+- a [[pattern]]
+	- in [[a pattern language]]
+		- #129
+		- [[prev]] [[intimacy gradient]] [[indoor sunlight]] [[]]
+		- [[next]]

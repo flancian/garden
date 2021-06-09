@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns.md",
+                "file": "common areas at the heart.md",
                 "mode": "source"
               }
             }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns.md",
+                "file": "common areas at the heart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns.md"
+                "file": "common areas at the heart.md"
               }
             }
           }
@@ -205,6 +205,7 @@
   },
   "active": "3bb527d9c3e9127c",
   "lastOpenFiles": [
+    "common areas at the heart.md",
     "patterns.md",
     "connected buildings.md",
     "arcades.md",
@@ -213,7 +214,6 @@
     "roof garden.md",
     "2021-06-03.md",
     "agora protocol.md",
-    "agora fediverse integration.md",
-    "agora activitypub integration.md"
+    "agora fediverse integration.md"
   ]
 }
