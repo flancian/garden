@@ -1,0 +1,22 @@
+- a [[pattern]].
+	- in [[a pattern language]] 
+		- #118 
+		- [[one star]]
+		- [[prev]]
+			- [[sheltering roof]]
+			- [[wings of light]]
+			- [[cascade of roofs]]
+		- [[next]]
+			- [[wings of light]]
+				- this is actually also previous
+			- [[private terrace on the street]]
+			- [[gallery surround]]
+			- [[six foot balcony]]
+			- [[sunny place]]
+			- [[canvas roofs]]
+			- [[outdoor rooms]]
+			- [[vegetable garden]]
+			- [[raised flowers]]
+			- [[climbing plants]]
+	- "a vast part of the earth's surface, in a town, consists of roofs. couple this with the fact that the total area of a town which can be exposed to the sun is finite, and you will realize that it is natural, and indeed essential, to make roofs which take advantage of the sun and air."
+	- "as we know fromk [[sheltering roof]] and [[roof vaults]], the flat shape is quite unnatural for roofs from psychological, structural and climatic points of view"

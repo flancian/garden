@@ -1,0 +1,7 @@
+- a [[pattern]]
+	- in [[a pattern language]]
+		- #129
+		- [[prev]] [[intimacy gradient]] [[indoor sunlight]] [[cadcade of roofs]]
+		- [[next]] [[farmhouse kitchen]] [[communal eating]] [[the fire]] [[light on two sides of every room]] [[the shape of indoor space]] [[sequence of sitting spaces]] [[outdoor room]] [[arcades]] [[the flow through rooms]] [[short passages]]
+	- "the only balanced situation is the one where a common path, which people use every day, runs *tangent* to the common areas and is open to them in passing."
+		- this way people can easily stop as they go about with their day but are not forced to stop.

@@ -1,4 +1,22 @@
 # Arcades
-- A self-contained place enabled by technology.
-- In the case of the [[Arcades Project]], mostly oriented towards consumerism? But not in [[Flancia]].
-- How do they differ from the [[Agora]]?
+
+- a [[pattern]]
+	- in [[a pattern language]]
+		- #119 [[two star]]
+		- [[prev]] [[cascade of roofs]] [[pedestrian street]] [[connected buildings]] [[circulation realms]]
+		- [[next]] [[ceiling height variety]] [[sheltering roof]] [[column place]] [[low doorway]] [[column connection]] [[building edge]] [[half open wall]] [[structure follows social spaces]] [[thickening the outer walls]]
+	- "this is one of the most beautiful patterns in the language" 
+	- "covered walkways at the edge of buildings, which are partly inside, partly outside"
+	- buildings are more unfriendly that they need to be; they could be more inviting. the arcade is a solution to this: a semi-public space at the edge of the building.
+	- a [[liminal space]]
+		- [[stoa]]
+	- [[properties for arcades]]
+		- they must contain the [[character]] of the inside
+		- they must work as an extension of the inside and therefore be [[covered]]
+		- the edges of the ceiling must not be too high
+		- if possible, the path should pass through buildings (in particular if they are narrow) or connect buildings to each other
+	- [[rudofsky]] in [[streets for people]] says they "take the place of the ancient forum" -- the [[agora]] :)
+		- he calls them "the most refined street coverings, a tangible expression of civic solidarity -- or, should one say, of philanthropy"
+- a self-contained semi-open space.
+	- In the case of the [[arcades project]], these spaces were mostly oriented towards consumerism -- and [[flaneurism]]. 
+	- they were mostly [[shopping arcades]]. but probably not in [[Flancia]], where often they work as [[stoas]].	
