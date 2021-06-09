@@ -1,4 +1,4 @@
 # Arcades
-- A self-contained place enabled by technology.
-	- In the case of the [[Arcades Project]], mostly oriented towards consumerism? But not in [[Flancia]].
-	- How do they differ from the [[Agora]]?
+- A self-contained semi-open space.
+	- In the case of the [[Arcades Project]] and traditional arcades, these spaces were mostly oriented towards consumerism -- and [[flaneurism]]. 
+		- But probably not in [[Flancia]], where often they .
