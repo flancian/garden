@@ -1,1 +1,1 @@
-- 
+- [[go]] http://www.patterntheory.org/wiki.cgi 

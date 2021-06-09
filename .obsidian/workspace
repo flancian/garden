@@ -10,7 +10,7 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 7.83085356303837,
+            "dimension": 14.832535885167463,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "fd5ef9568ac1ea0b",
             "type": "leaf",
-            "dimension": 7.83085356303837,
+            "dimension": 9.569377990430622,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "c9930068fe6a131a",
             "type": "leaf",
-            "dimension": 15.66170712607674,
+            "dimension": 9.569377990430622,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 15.66170712607674,
+            "dimension": 13.014354066985645,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "0950eff549ac7625",
             "type": "leaf",
-            "dimension": 10.845732184808146,
+            "dimension": 10.861244019138756,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "85e332291de36b9d",
             "type": "leaf",
-            "dimension": 10.845732184808146,
+            "dimension": 10.813397129186603,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "dcfa6e896ea2b01d",
             "type": "split",
-            "dimension": 15.66170712607674,
+            "dimension": 15.69377990430622,
             "children": [
               {
                 "id": "9d1767dbb6c4ba74",
@@ -112,7 +112,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 15.66170712607674,
+            "dimension": 15.645933014354066,
             "state": {
               "type": "markdown",
               "state": {
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pattern theory.md",
+                "file": "2021-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pattern theory.md"
+                "file": "2021-06-09.md"
               }
             }
           },
@@ -268,10 +268,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd5ef9568ac1ea0b",
+  "active": "8bdc92c945784bb0",
   "lastOpenFiles": [
-    "pattern theory.md",
     "2021-06-09.md",
+    "pattern theory.md",
     "2021-06-07.md",
     "agora mastodon integration.md",
     "agora fediverse integration.md",
