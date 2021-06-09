@@ -139,9 +139,9 @@
 				- [[courtyards which live]]
 				- [[cascade of roofs]]
 				- [[sheltering roof]]
-				- #118 [[roof garden]] *read*
+				- #118 [[roof garden]] [[one star]] 
 			- [[paths and squares]]
-				- #119 [[arcades]] *read*
+				- #119 [[arcades]] [[two star]]
 				- [[paths and goals]] *read*
 				- [[path shape]]
 				- [[building fronts]]
