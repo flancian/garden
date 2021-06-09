@@ -24,11 +24,13 @@
 	- "this is one of the most beautiful patterns in the language" 
 	- "covered walkways at the edge of buildings, which are partly inside, partly outside"
 	- buildings are more unfriendly that they need to be; they could be more inviting. the arcade is a solution to this: a semi-public space at the edge of the building.
-		- [[stoa]]
 	- a [[liminal space]]
-	- rules for good arcades
+		- [[stoa]]
+	- [[rules for arcades]]
 		- they must contain the [[character]] of the inside
 		- they must work as an extension of the inside and therefore be [[covered]]
 		- the edges of the ceiling must not be too high
 		- if possible, the path should pass through buildings (in particular if they are narrow) or connect buildings to each other
-	- [[rudofsky]] in [[streets for people]] says they "take the place of the ancient forum" -
+	- [[rudofsky]] in [[streets for people]] says they "take the place of the ancient forum" -- the [[agora]] :)
+		- he calls them "the most refined street coverings, a tangible expression of civic solidarity -- or, should one say, of philanthropy"
+		
