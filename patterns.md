@@ -123,6 +123,12 @@
 				- [[building thoroughfare]]
 				- [[family of entrances]]
 				- #103 [[small parking lots]]
+			- [[individual position]]
+				- [[site repair]]
+				- [[south facing outdoors]]
+				- [[positive outdoor space]][[wings of light]]
+				- [[connected buildings]]
+				- [[long thin house]]
 			- #wip and 198 more
 		- [[the countryside]]
 		- [[filtered light]]
