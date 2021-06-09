@@ -151,9 +151,14 @@
 			- [[gradient]]
 				- #127 [[intimacy gradient]]
 				- [[indoor sunlight]]
-				- [[common areas at the heart]]
+				- [[common areas at the heart]] *read*
 				- [[entrance room]]
 				- [[the flow through rooms]]
+				- [[short passages]]
+				- [[staircase as a stage]]
+				- [[zen view]] *see*
+				- #135 [[tapestry of light and dark]]
+			- 
 			- #wip and 198 more
 		- [[the countryside]]
 		- [[filtered light]]
