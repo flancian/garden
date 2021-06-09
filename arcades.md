@@ -22,3 +22,4 @@
 		- [[structure follows social spaces]]
 		- [[thickening the outer walls]]
 	- "this is one of the most beautiful patterns in the language" 
+	- "covered walkways at the edge of buildings, which are partly inside, partly o"
