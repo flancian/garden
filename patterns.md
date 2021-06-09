@@ -126,7 +126,8 @@
 			- [[individual position]]
 				- #104 [[site repair]]
 				- [[south facing outdoors]]
-				- [[positive outdoor space]][[wings of light]]
+				- [[positive outdoor space]]
+				- [[wings of light]]
 				- [[connected buildings]]
 				- #109 [[long thin house]]
 			- [[yin and yang]]
@@ -136,12 +137,12 @@
 				- [[car connection]]
 				- [[hierarchy of open space]]
 				- [[courtyards which live]]
-				- [[cascada of roofs]]
+				- [[cascade of roofs]]
 				- [[sheltering roof]]
-				- #118 [[roof garden]]
+				- #118 [[roof garden]] *read*
 			- [[paths and squares]]
-				- #119 [[arcades]]
-				- [[paths and goals]]
+				- #119 [[arcades]] *read*
+				- [[paths and goals]] *read*
 				- [[path shape]]
 				- [[building fronts]]
 				- [[pedestrian density]]
@@ -156,7 +157,7 @@
 				- [[the flow through rooms]]
 				- [[short passages]]
 				- [[staircase as a stage]]
-				- [[zen view]] *see*
+				- [[zen view]] *read*
 				- #135 [[tapestry of light and dark]]
 			- 
 			- #wip and 198 more
