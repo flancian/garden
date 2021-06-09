@@ -12,4 +12,10 @@
 		- [[connected buildings]]
 		- [[circulation realms]]
 	- [[next]]
-	- 
+		- [[ceiling height variety]]
+		- [[sheltering roof]]
+		- [[column place]]
+		- [[low doorway]]
+		- [[column connection]]
+		- 
+	- "this is one of the most beautiful patterns in the language" 
