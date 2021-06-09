@@ -10,11 +10,23 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 14.832535885167463,
+            "dimension": 7.4162679425837315,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-09.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0bab2a8f16a1d490",
+            "type": "leaf",
+            "dimension": 7.4162679425837315,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aaaaarg.md",
                 "mode": "source"
               }
             }
@@ -195,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-09.md",
+                "file": "aaaaarg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-09.md"
+                "file": "aaaaarg.md"
               }
             }
           },
@@ -268,8 +280,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8bdc92c945784bb0",
+  "active": "0bab2a8f16a1d490",
   "lastOpenFiles": [
+    "aaaaarg.md",
     "2021-06-09.md",
     "pattern theory.md",
     "2021-06-07.md",
@@ -278,7 +291,6 @@
     "argdown.md",
     "web ext.md",
     "action code.md",
-    "reading protopoi.md",
-    "break glass.md"
+    "reading protopoi.md"
   ]
 }
