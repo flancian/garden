@@ -1,2 +1,3 @@
-- [[go]] https://journals.sagepub.com/doi/full/10.1177/2399808318761396
-- 
+- a [[paper]]
+	- about [[invariant patterns]] in [[a pattern language]] 
+	- [[go]] https://journals.sagepub.com/doi/full/10.1177/2399808318761396
