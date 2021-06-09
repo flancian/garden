@@ -26,3 +26,7 @@
 	- buildings are more unfriendly that they need to be; they could be more inviting. the arcade is a solution to this: a semi-public space at the edge of the building.
 		- [[stoa]]
 	- a [[liminal space]]
+	- rules for good arcades
+		- they must contain the [[character]] of the inside
+		- they must work as an extension of the inside and therefore be [[covered]]
+		- the edges of the ceiling must not bew 
