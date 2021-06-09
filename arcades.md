@@ -22,4 +22,7 @@
 		- [[structure follows social spaces]]
 		- [[thickening the outer walls]]
 	- "this is one of the most beautiful patterns in the language" 
-	- "covered walkways at the edge of buildings, which are partly inside, partly o"
+	- "covered walkways at the edge of buildings, which are partly inside, partly outside"
+	- buildings are more unfriendly that they need to be; they could be more inviting. the arcade is a solution to this: a semi-public space at the edge of the building.
+		- [[stoa]]
+	- a [[liminal space]]
