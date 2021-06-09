@@ -142,7 +142,7 @@
 				- #118 [[roof garden]] [[one star]] 
 			- [[paths and squares]]
 				- #119 [[arcades]] [[two star]]
-				- [[paths and goals]] *read*
+				- [[paths and goals]] 
 				- [[path shape]]
 				- [[building fronts]]
 				- [[pedestrian density]]
@@ -152,14 +152,13 @@
 			- [[gradient]]
 				- #127 [[intimacy gradient]]
 				- [[indoor sunlight]]
-				- [[common areas at the heart]] *read*
+				- [[common areas at the heart]] [[two star]]
 				- [[entrance room]]
 				- [[the flow through rooms]]
 				- [[short passages]]
 				- [[staircase as a stage]]
 				- [[zen view]] *read*
 				- #135 [[tapestry of light and dark]]
-			- 
 			- #wip and 198 more
 		- [[the countryside]]
 		- [[filtered light]]
