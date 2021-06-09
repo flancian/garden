@@ -8,39 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "dae63b7ef1934ce9",
-            "type": "split",
-            "dimension": 9.090909090909092,
-            "children": [
-              {
-                "id": "7079d00b3a2eb6be",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "tooty.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "07bb2929b930eb3c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora reader.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "3bb527d9c3e9127c",
+            "id": "7079d00b3a2eb6be",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,7 +22,7 @@
           {
             "id": "1abc628cc33ef125",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +34,7 @@
           {
             "id": "305566bbcea2ba31",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +46,7 @@
           {
             "id": "09b9c7136dcedcbf",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -86,51 +56,9 @@
             }
           },
           {
-            "id": "7dbe13e12de6e678",
-            "type": "leaf",
-            "dimension": 9.090909090909092,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c426770140ad291d",
-            "type": "leaf",
-            "dimension": 9.090909090909092,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e9c764a052b7c1ad",
-            "type": "leaf",
-            "dimension": 9.090909090909092,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora protocol.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "de0ba9ee6d8c831e",
-            "type": "leaf",
-            "dimension": 9.090909090909092,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora activitypub integration.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -142,7 +70,7 @@
           {
             "id": "0dd202a162337858",
             "type": "leaf",
-            "dimension": 9.090909090909092,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -217,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pattern languages of programs.md",
+                "file": "2021-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pattern languages of programs.md"
+                "file": "2021-06-09.md"
               }
             }
           }
@@ -245,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1abc628cc33ef125",
+  "active": "7079d00b3a2eb6be",
   "lastOpenFiles": [
-    "pattern languages of programs.md",
     "2021-06-09.md",
-    "an analysis of the role of invariant patterns.md",
+    "tooty.md",
     "patterns.md",
+    "pattern languages of programs.md",
+    "an analysis of the role of invariant patterns.md",
     "2021-06-03.md",
     "agora protocol.md",
     "arcades.md",
     "connected buildings.md",
-    "common areas at the heart.md",
-    "1*.md"
+    "common areas at the heart.md"
   ]
 }
