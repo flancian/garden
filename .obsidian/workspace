@@ -40,13 +40,22 @@
           {
             "id": "3bb527d9c3e9127c",
             "type": "leaf",
-            "dimension": 4.545454545454545,
+            "dimension": 2.2727272727272725,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "patterns.md",
                 "mode": "source"
               }
+            }
+          },
+          {
+            "id": "7dbe13e12de6e678",
+            "type": "leaf",
+            "dimension": 2.2727272727272725,
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -175,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "patterns.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -203,11 +209,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bb527d9c3e9127c",
+  "active": "7dbe13e12de6e678",
   "lastOpenFiles": [
+    "connected buildings.md",
     "patterns.md",
     "common areas at the heart.md",
-    "connected buildings.md",
     "arcades.md",
     "2021-06-09.md",
     "1*.md",

@@ -159,6 +159,5 @@
 				- [[staircase as a stage]]
 				- [[zen view]] *read*
 				- #135 [[tapestry of light and dark]]
-			- #wip and 198 more
-		- [[the countryside]]
+			- #wip it goes to 253
 		- [[filtered light]]
