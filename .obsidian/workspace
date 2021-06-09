@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aaaaarg.md",
+                "file": "2021-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aaaaarg.md"
+                "file": "2021-06-09.md"
               }
             }
           },
@@ -280,10 +280,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0bab2a8f16a1d490",
+  "active": "8bdc92c945784bb0",
   "lastOpenFiles": [
-    "aaaaarg.md",
     "2021-06-09.md",
+    "aaaaarg.md",
     "pattern theory.md",
     "2021-06-07.md",
     "agora mastodon integration.md",
