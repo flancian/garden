@@ -1,4 +1,12 @@
 - a [[pattern]].
 	- [[prev]]
-		- [[sheltering roof]][[wings of light]]
-		- [[cascade of ro]]
+		- [[sheltering roof]]
+		- [[wings of light]]
+		- [[cascade of roofs]]
+	- [[next]]
+		- [[wings of light]]
+			- this is actually also previous
+		- [[private terrace on the street]]
+		- [[gallery surround]]
+		- [[six foot balcony]]
+		- [[sunny place]]
