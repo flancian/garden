@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arcades.md",
+                "file": "patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arcades.md"
+                "file": "patterns.md"
               }
             }
           }
@@ -203,10 +203,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c426770140ad291d",
+  "active": "3bb527d9c3e9127c",
   "lastOpenFiles": [
-    "arcades.md",
     "patterns.md",
+    "arcades.md",
     "2021-06-09.md",
     "1*.md",
     "roof garden.md",
