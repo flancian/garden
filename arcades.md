@@ -17,5 +17,8 @@
 		- [[column place]]
 		- [[low doorway]]
 		- [[column connection]]
-		- 
+		- [[building edge]]
+		- [[half open wall]]
+		- [[structure follows social spaces]]
+		- [[thickening the outer walls]]
 	- "this is one of the most beautiful patterns in the language" 
