@@ -1,0 +1,2 @@
+- [[go]] https://en.wikipedia.org/wiki/Architectural_pattern
+	- example: [[model view controller]]

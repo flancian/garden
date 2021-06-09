@@ -10,7 +10,7 @@
           {
             "id": "7079d00b3a2eb6be",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 8.333333333333336,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,9 +20,21 @@
             }
           },
           {
+            "id": "a9def0a98c1f2c8e",
+            "type": "leaf",
+            "dimension": 8.333333333333336,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "architectural pattern.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "1abc628cc33ef125",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +46,7 @@
           {
             "id": "305566bbcea2ba31",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +58,7 @@
           {
             "id": "09b9c7136dcedcbf",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "0dd202a162337858",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-09.md",
+                "file": "architectural pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-09.md"
+                "file": "architectural pattern.md"
               }
             }
           }
@@ -173,8 +185,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7079d00b3a2eb6be",
+  "active": "a9def0a98c1f2c8e",
   "lastOpenFiles": [
+    "architectural pattern.md",
     "2021-06-09.md",
     "tooty.md",
     "patterns.md",
@@ -183,7 +196,6 @@
     "2021-06-03.md",
     "agora protocol.md",
     "arcades.md",
-    "connected buildings.md",
-    "common areas at the heart.md"
+    "connected buildings.md"
   ]
 }
