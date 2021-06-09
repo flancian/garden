@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns.md",
+                "file": "roof garden.md",
                 "mode": "source"
               }
             }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns.md",
+                "file": "roof garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns.md"
+                "file": "roof garden.md"
               }
             }
           }
@@ -205,6 +205,7 @@
   },
   "active": "643691a766986cd0",
   "lastOpenFiles": [
+    "roof garden.md",
     "patterns.md",
     "2021-06-09.md",
     "2021-06-03.md",
@@ -213,7 +214,6 @@
     "agora activitypub integration.md",
     "agora mastodon integration.md",
     "2021-06-06.md",
-    "xaos.md",
-    "2021-06-05.md"
+    "xaos.md"
   ]
 }
