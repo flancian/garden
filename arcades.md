@@ -1,7 +1,7 @@
 # Arcades
-- A self-contained semi-open space.
-	- In the case of the [[Arcades Project]] and traditional arcades, these spaces were mostly oriented towards consumerism -- and [[flaneurism]]. 
-		- But probably not in [[Flancia]], where often they work as [[stoas]].
+- a self-contained semi-open space.
+	- In the case of the [[arcades project]], these spaces were mostly oriented towards consumerism -- and [[flaneurism]]. 
+	- they were mostly [[shopping arcades]]. but probably not in [[Flancia]], where often they work as [[stoas]].
 - a [[pattern]]
 	- in [[a pattern language]]
 		- #119
@@ -26,7 +26,7 @@
 	- buildings are more unfriendly that they need to be; they could be more inviting. the arcade is a solution to this: a semi-public space at the edge of the building.
 	- a [[liminal space]]
 		- [[stoa]]
-	- [[rules for arcades]]
+	- [[properties for arcades]]
 		- they must contain the [[character]] of the inside
 		- they must work as an extension of the inside and therefore be [[covered]]
 		- the edges of the ceiling must not be too high
