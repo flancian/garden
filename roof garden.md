@@ -1,6 +1,7 @@
 - a [[pattern]].
 	- in [[a pattern language]] 
-		- #118
+		- #118 
+		- [[one star]]
 	- [[prev]]
 		- [[sheltering roof]]
 		- [[wings of light]]
@@ -17,3 +18,4 @@
 		- [[vegetable garden]]
 		- [[raised flowers]]
 		- [[climbing plants]]
+	- 
