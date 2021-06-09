@@ -1,4 +1,6 @@
 - a [[pattern]].
+	- in [[a pattern language]] 
+		- #118
 	- [[prev]]
 		- [[sheltering roof]]
 		- [[wings of light]]
@@ -10,3 +12,8 @@
 		- [[gallery surround]]
 		- [[six foot balcony]]
 		- [[sunny place]]
+		- [[canvas roofs]]
+		- [[outdoor rooms]]
+		- [[vegetable garden]]
+		- [[raised flowers]]
+		- [[climbing plants]]
