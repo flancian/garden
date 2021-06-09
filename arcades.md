@@ -29,4 +29,6 @@
 	- rules for good arcades
 		- they must contain the [[character]] of the inside
 		- they must work as an extension of the inside and therefore be [[covered]]
-		- the edges of the ceiling must not bew 
+		- the edges of the ceiling must not be too high
+		- if possible, the path should pass through buildings (in particular if they are narrow) or connect buildings to each other
+	- [[rudofsky]] in [[streets for people]] says they "take the place of the ancient forum" -
