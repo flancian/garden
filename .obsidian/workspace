@@ -184,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "arcades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "arcades.md"
+              }
             }
           }
         ]
@@ -209,12 +212,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dbe13e12de6e678",
+  "active": "c426770140ad291d",
   "lastOpenFiles": [
+    "arcades.md",
     "connected buildings.md",
     "patterns.md",
     "common areas at the heart.md",
-    "arcades.md",
     "2021-06-09.md",
     "1*.md",
     "roof garden.md",
