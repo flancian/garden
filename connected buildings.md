@@ -3,4 +3,6 @@
 		- #108
 		- [[prev]] [[building complex]] [[wings of light]] [[positive outdoor space]]
 		- [[next]] [[courtyards which live]] [[arcades]] [[outdoor rooms]]
-	- [[sitte]] analyzes 255 churches in r
+	- [[sitte]] analyzes 255 churches in rome; from those, only 6 were free standing (!). the majority had three sides attached to other buildings.
+	- empty space between buildings is often useless and just a pretension of independence.
+		- reminds me of [[bolo bolo]] drawings a bit

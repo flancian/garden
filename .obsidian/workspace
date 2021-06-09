@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "connected buildings.md",
+                "file": "patterns.md",
                 "mode": "source"
               }
             }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "connected buildings.md",
+                "file": "patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "connected buildings.md"
+                "file": "patterns.md"
               }
             }
           }
@@ -205,8 +205,8 @@
   },
   "active": "3bb527d9c3e9127c",
   "lastOpenFiles": [
-    "connected buildings.md",
     "patterns.md",
+    "connected buildings.md",
     "arcades.md",
     "2021-06-09.md",
     "1*.md",
