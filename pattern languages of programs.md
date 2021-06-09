@@ -1,0 +1,1 @@
+- [[go]] https://en.wikipedia.org/wiki/Pattern_Languages_of_Programs

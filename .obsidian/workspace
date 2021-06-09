@@ -10,7 +10,7 @@
           {
             "id": "dae63b7ef1934ce9",
             "type": "split",
-            "dimension": 18.18181818181818,
+            "dimension": 9.090909090909092,
             "children": [
               {
                 "id": "7079d00b3a2eb6be",
@@ -40,11 +40,23 @@
           {
             "id": "3bb527d9c3e9127c",
             "type": "leaf",
-            "dimension": 1.1363636363636362,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-09.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "1abc628cc33ef125",
+            "type": "leaf",
+            "dimension": 9.090909090909092,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pattern languages of programs.md",
                 "mode": "source"
               }
             }
@@ -52,11 +64,11 @@
           {
             "id": "305566bbcea2ba31",
             "type": "leaf",
-            "dimension": 0.5681818181818181,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-09.md",
+                "file": "patterns.md",
                 "mode": "source"
               }
             }
@@ -64,7 +76,7 @@
           {
             "id": "09b9c7136dcedcbf",
             "type": "leaf",
-            "dimension": 0.5681818181818181,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +88,7 @@
           {
             "id": "7dbe13e12de6e678",
             "type": "leaf",
-            "dimension": 2.2727272727272725,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "empty",
               "state": {}
@@ -85,7 +97,7 @@
           {
             "id": "c426770140ad291d",
             "type": "leaf",
-            "dimension": 4.545454545454545,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "empty",
               "state": {}
@@ -94,7 +106,7 @@
           {
             "id": "e9c764a052b7c1ad",
             "type": "leaf",
-            "dimension": 18.18181818181818,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "de0ba9ee6d8c831e",
             "type": "leaf",
-            "dimension": 18.18181818181818,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +130,7 @@
           {
             "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 18.18181818181818,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +142,7 @@
           {
             "id": "0dd202a162337858",
             "type": "leaf",
-            "dimension": 18.18181818181818,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -205,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "an analysis of the role of invariant patterns.md",
+                "file": "pattern languages of programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "an analysis of the role of invariant patterns.md"
+                "file": "pattern languages of programs.md"
               }
             }
           }
@@ -233,17 +245,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09b9c7136dcedcbf",
+  "active": "1abc628cc33ef125",
   "lastOpenFiles": [
-    "an analysis of the role of invariant patterns.md",
+    "pattern languages of programs.md",
     "2021-06-09.md",
+    "an analysis of the role of invariant patterns.md",
     "patterns.md",
     "2021-06-03.md",
     "agora protocol.md",
     "arcades.md",
     "connected buildings.md",
     "common areas at the heart.md",
-    "1*.md",
-    "roof garden.md"
+    "1*.md"
   ]
 }
