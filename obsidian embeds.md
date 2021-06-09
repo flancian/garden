@@ -11,5 +11,6 @@ As of [[2021-05-30]], clicking on the link above 'works': it loads the image in 
 		- lazy load with js
 		- put an iframe on it (tm)
 			- this is so hacky I kind of like it
+		- do simple embedding
 
 There should probably be a setting to enable/disable embeddings; same would apply to tweets and perhaps more generally to agora [[transclusions]].

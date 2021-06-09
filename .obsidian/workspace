@@ -10,7 +10,7 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 7.4162679425837315,
+            "dimension": 10.786360473208072,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "0bab2a8f16a1d490",
             "type": "leaf",
-            "dimension": 7.4162679425837315,
+            "dimension": 10.786360473208072,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "fd5ef9568ac1ea0b",
             "type": "leaf",
-            "dimension": 9.569377990430622,
+            "dimension": 13.917884481558803,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,21 +44,9 @@
             }
           },
           {
-            "id": "c9930068fe6a131a",
-            "type": "leaf",
-            "dimension": 9.569377990430622,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora mastodon integration.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 13.014354066985645,
+            "dimension": 18.92832289491997,
             "state": {
               "type": "markdown",
               "state": {
@@ -68,63 +56,21 @@
             }
           },
           {
-            "id": "0950eff549ac7625",
+            "id": "9d1767dbb6c4ba74",
             "type": "leaf",
-            "dimension": 10.861244019138756,
+            "dimension": 22.825330549756437,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-07.md",
+                "file": "break glass.md",
                 "mode": "source"
               }
             }
-          },
-          {
-            "id": "85e332291de36b9d",
-            "type": "leaf",
-            "dimension": 10.813397129186603,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "argdown.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "dcfa6e896ea2b01d",
-            "type": "split",
-            "dimension": 15.69377990430622,
-            "children": [
-              {
-                "id": "9d1767dbb6c4ba74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "break glass.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "4a54815fc38d912c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "action code.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
           },
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 15.645933014354066,
+            "dimension": 22.755741127348646,
             "state": {
               "type": "markdown",
               "state": {
@@ -207,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-09.md",
+                "file": "obsidian embeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-09.md"
+                "file": "obsidian embeds.md"
               }
             }
           },
@@ -280,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8bdc92c945784bb0",
+  "active": "7abcb8972baaed4d",
   "lastOpenFiles": [
+    "obsidian embeds.md",
+    "agora fediverse integration.md",
     "2021-06-09.md",
     "aaaaarg.md",
     "pattern theory.md",
     "2021-06-07.md",
     "agora mastodon integration.md",
-    "agora fediverse integration.md",
     "argdown.md",
     "web ext.md",
-    "action code.md",
-    "reading protopoi.md"
+    "action code.md"
   ]
 }
