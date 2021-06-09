@@ -40,7 +40,19 @@
           {
             "id": "3bb527d9c3e9127c",
             "type": "leaf",
-            "dimension": 2.2727272727272725,
+            "dimension": 1.1363636363636362,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-09.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "305566bbcea2ba31",
+            "type": "leaf",
+            "dimension": 1.1363636363636362,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,11 +75,8 @@
             "type": "leaf",
             "dimension": 4.545454545454545,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arcades.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -184,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arcades.md",
+                "file": "patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arcades.md"
+                "file": "patterns.md"
               }
             }
           }
@@ -212,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c426770140ad291d",
+  "active": "305566bbcea2ba31",
   "lastOpenFiles": [
-    "arcades.md",
-    "connected buildings.md",
     "patterns.md",
-    "common areas at the heart.md",
     "2021-06-09.md",
-    "1*.md",
-    "roof garden.md",
     "2021-06-03.md",
     "agora protocol.md",
+    "arcades.md",
+    "connected buildings.md",
+    "common areas at the heart.md",
+    "1*.md",
+    "roof garden.md",
     "agora fediverse integration.md"
   ]
 }

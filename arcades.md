@@ -17,6 +17,6 @@
 		- if possible, the path should pass through buildings (in particular if they are narrow) or connect buildings to each other
 	- [[rudofsky]] in [[streets for people]] says they "take the place of the ancient forum" -- the [[agora]] :)
 		- he calls them "the most refined street coverings, a tangible expression of civic solidarity -- or, should one say, of philanthropy"
-	- a self-contained semi-open space.
-		- In the case of the [[arcades project]], these spaces were mostly oriented towards consumerism -- and [[flaneurism]]. 
-		- they were mostly [[shopping arcades]]. but probably not in [[Flancia]], where often they work as [[stoas]].	
+- a self-contained semi-open space.
+	- In the case of the [[arcades project]], these spaces were mostly oriented towards consumerism -- and [[flaneurism]]. 
+	- they were mostly [[shopping arcades]]. but probably not in [[Flancia]], where often they work as [[stoas]].	
