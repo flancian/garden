@@ -72,11 +72,8 @@
             "type": "leaf",
             "dimension": 2.083333333333334,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rode podmic.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -193,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rode podmic.md",
+                "file": "2021-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rode podmic.md"
+                "file": "2021-06-10.md"
               }
             }
           }
@@ -221,11 +218,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "815f6803dbd653db",
+  "active": "e0d9f669f6d19a83",
   "lastOpenFiles": [
-    "rode podmic.md",
     "2021-06-10.md",
     "flecha derecha.md",
+    "rode podmic.md",
     "honest signals.md",
     "pattern languages of programs.md",
     "architectural pattern.md",
