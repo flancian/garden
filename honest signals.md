@@ -1,0 +1,3 @@
+- a [[book]]
+	- by [[alex pentland]]
+	- [[go]] https://mitpress.mit.edu/books/honest-signals
