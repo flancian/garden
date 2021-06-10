@@ -1,5 +1,5 @@
 - un [[grafitti]]
 
-quién quisiera
+quién no quisiera
 ay, quién pudiera
 ser una flecha derecha
