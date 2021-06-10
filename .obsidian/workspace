@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flecha derecha.md",
+                "file": "2021-06-10.md",
                 "mode": "source"
               }
             }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flecha derecha.md",
+                "file": "2021-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flecha derecha.md"
+                "file": "2021-06-10.md"
               }
             }
           }
@@ -211,8 +211,8 @@
   },
   "active": "e0d9f669f6d19a83",
   "lastOpenFiles": [
-    "flecha derecha.md",
     "2021-06-10.md",
+    "flecha derecha.md",
     "honest signals.md",
     "pattern languages of programs.md",
     "architectural pattern.md",
