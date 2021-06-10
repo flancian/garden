@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "honest signals.md",
+                "file": "2021-06-10.md",
                 "mode": "source"
               }
             }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "honest signals.md",
+                "file": "2021-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "honest signals.md"
+                "file": "2021-06-10.md"
               }
             }
           }
@@ -199,8 +199,8 @@
   },
   "active": "6dd09d0f4e617cc8",
   "lastOpenFiles": [
-    "honest signals.md",
     "2021-06-10.md",
+    "honest signals.md",
     "pattern languages of programs.md",
     "architectural pattern.md",
     "2021-06-09.md",
