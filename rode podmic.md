@@ -1,0 +1,2 @@
+- a [[microphone]]
+	- [[xlr]] output

@@ -10,7 +10,7 @@
           {
             "id": "7079d00b3a2eb6be",
             "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 8.333333333333336,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "a9def0a98c1f2c8e",
             "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 8.333333333333336,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "1abc628cc33ef125",
             "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 8.333333333333336,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "6dd09d0f4e617cc8",
             "type": "leaf",
-            "dimension": 4.166666666666667,
+            "dimension": 4.166666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "e0d9f669f6d19a83",
             "type": "leaf",
-            "dimension": 4.166666666666667,
+            "dimension": 2.083333333333334,
             "state": {
               "type": "markdown",
               "state": {
@@ -68,9 +68,21 @@
             }
           },
           {
+            "id": "815f6803dbd653db",
+            "type": "leaf",
+            "dimension": 2.083333333333334,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rode podmic.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "305566bbcea2ba31",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "09b9c7136dcedcbf",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "0dd202a162337858",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -181,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-10.md",
+                "file": "rode podmic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-10.md"
+                "file": "rode podmic.md"
               }
             }
           }
@@ -209,8 +221,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0d9f669f6d19a83",
+  "active": "815f6803dbd653db",
   "lastOpenFiles": [
+    "rode podmic.md",
     "2021-06-10.md",
     "flecha derecha.md",
     "honest signals.md",
@@ -219,7 +232,6 @@
     "2021-06-09.md",
     "tooty.md",
     "patterns.md",
-    "an analysis of the role of invariant patterns.md",
-    "2021-06-03.md"
+    "an analysis of the role of invariant patterns.md"
   ]
 }
