@@ -10,7 +10,7 @@
           {
             "id": "8bdc92c945784bb0",
             "type": "leaf",
-            "dimension": 10.786360473208072,
+            "dimension": 9.551098376313275,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "0bab2a8f16a1d490",
             "type": "leaf",
-            "dimension": 10.786360473208072,
+            "dimension": 9.551098376313275,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,11 +34,11 @@
           {
             "id": "fd5ef9568ac1ea0b",
             "type": "leaf",
-            "dimension": 6.958942240779402,
+            "dimension": 9.551098376313275,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-11.md",
+                "file": "agora talk 2021-06-04.md",
                 "mode": "source"
               }
             }
@@ -46,7 +46,7 @@
           {
             "id": "c72a7451adec216b",
             "type": "leaf",
-            "dimension": 6.958942240779402,
+            "dimension": 7.999044890162369,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,9 +56,21 @@
             }
           },
           {
+            "id": "4fa21ad13234b417",
+            "type": "leaf",
+            "dimension": 7.999044890162369,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora talks.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 18.92832289491997,
+            "dimension": 9.837631327602674,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "9d1767dbb6c4ba74",
             "type": "leaf",
-            "dimension": 22.825330549756437,
+            "dimension": 22.77936962750716,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "7abcb8972baaed4d",
             "type": "leaf",
-            "dimension": 22.755741127348646,
+            "dimension": 22.731614135625602,
             "state": {
               "type": "markdown",
               "state": {
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora talk.md",
+                "file": "agora talks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora talk.md"
+                "file": "agora talks.md"
               }
             }
           },
@@ -238,17 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c72a7451adec216b",
+  "active": "4fa21ad13234b417",
   "lastOpenFiles": [
+    "agora talks.md",
     "agora talk.md",
+    "agora talk 2021-06-04.md",
     "2021-06-11.md",
     "pattern theory.md",
     "agora fediverse integration.md",
     "2021-06-09.md",
     "aaaaarg.md",
     "obsidian embeds.md",
-    "2021-06-07.md",
-    "agora mastodon integration.md",
-    "argdown.md"
+    "2021-06-07.md"
   ]
 }
