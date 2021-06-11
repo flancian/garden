@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-10.md",
+                "file": "2021-06-11.md",
                 "mode": "source"
               }
             }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-10.md",
+                "file": "2021-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-10.md"
+                "file": "2021-06-11.md"
               }
             }
           }
@@ -220,6 +220,7 @@
   },
   "active": "e0d9f669f6d19a83",
   "lastOpenFiles": [
+    "2021-06-11.md",
     "2021-06-10.md",
     "flecha derecha.md",
     "rode podmic.md",
@@ -228,7 +229,6 @@
     "architectural pattern.md",
     "2021-06-09.md",
     "tooty.md",
-    "patterns.md",
-    "an analysis of the role of invariant patterns.md"
+    "patterns.md"
   ]
 }
