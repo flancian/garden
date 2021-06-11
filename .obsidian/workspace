@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora talks.md",
+                "file": "agora talk 2021-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora talks.md"
+                "file": "agora talk 2021-06-04.md"
               }
             }
           },
@@ -250,11 +250,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fa21ad13234b417",
+  "active": "fd5ef9568ac1ea0b",
   "lastOpenFiles": [
+    "agora talk 2021-06-04.md",
     "agora talks.md",
     "agora talk.md",
-    "agora talk 2021-06-04.md",
     "2021-06-11.md",
     "pattern theory.md",
     "agora fediverse integration.md",
