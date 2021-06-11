@@ -1,0 +1,3 @@
+- a [[talk]]
+	- by [[vera]]
+	- [[go]] https://www.youtube.com/watch?t=2991&v=x2FLtzdekZQ&feature=youtu.be
