@@ -8,9 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "8bdc92c945784bb0",
+            "id": "7079d00b3a2eb6be",
             "type": "leaf",
-            "dimension": 9.551098376313275,
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,57 +20,102 @@
             }
           },
           {
-            "id": "0bab2a8f16a1d490",
+            "id": "a9def0a98c1f2c8e",
             "type": "leaf",
-            "dimension": 9.551098376313275,
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aaaaarg.md",
+                "file": "architectural pattern.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "fd5ef9568ac1ea0b",
+            "id": "1abc628cc33ef125",
             "type": "leaf",
-            "dimension": 9.551098376313275,
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora talk 2021-06-04.md",
+                "file": "2021-06-10.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "c72a7451adec216b",
+            "id": "6dd09d0f4e617cc8",
             "type": "leaf",
-            "dimension": 7.999044890162369,
+            "dimension": 4.166666666666666,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora talk.md",
+                "file": "2021-06-10.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "4fa21ad13234b417",
+            "id": "e0d9f669f6d19a83",
             "type": "leaf",
-            "dimension": 7.999044890162369,
+            "dimension": 1.0416666666666665,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora talks.md",
+                "file": "2021-06-12.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "b7b8a1f5a0af6991",
+            "id": "4eaa26c8f16d08a6",
             "type": "leaf",
-            "dimension": 9.837631327602674,
+            "dimension": 1.0416666666666665,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-12.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "815f6803dbd653db",
+            "type": "leaf",
+            "dimension": 2.083333333333333,
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "305566bbcea2ba31",
+            "type": "leaf",
+            "dimension": 16.666666666666664,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patterns.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "09b9c7136dcedcbf",
+            "type": "leaf",
+            "dimension": 16.666666666666664,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "an analysis of the role of invariant patterns.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "85fcfb3a901a6ab1",
+            "type": "leaf",
+            "dimension": 16.666666666666664,
             "state": {
               "type": "markdown",
               "state": {
@@ -80,25 +125,13 @@
             }
           },
           {
-            "id": "9d1767dbb6c4ba74",
+            "id": "0dd202a162337858",
             "type": "leaf",
-            "dimension": 22.77936962750716,
+            "dimension": 16.666666666666664,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "break glass.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7abcb8972baaed4d",
-            "type": "leaf",
-            "dimension": 22.731614135625602,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian embeds.md",
+                "file": "agora mediawiki integration.md",
                 "mode": "source"
               }
             }
@@ -131,12 +164,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plesmasquerade",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -145,14 +178,6 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa0f3e910050164c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -177,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora talk 2021-06-04.md",
+                "file": "2021-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,53 +219,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora talk 2021-06-04.md"
+                "file": "2021-06-12.md"
               }
-            }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "49a0eb72df05c98e",
-            "type": "leaf",
-            "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "297c54846b597552",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35550c211233c6a5",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           }
         ]
@@ -250,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd5ef9568ac1ea0b",
+  "active": "4eaa26c8f16d08a6",
   "lastOpenFiles": [
-    "agora talk 2021-06-04.md",
-    "agora talks.md",
-    "agora talk.md",
+    "2021-06-12.md",
+    "disable power saving.md",
     "2021-06-11.md",
-    "pattern theory.md",
-    "agora fediverse integration.md",
-    "2021-06-09.md",
-    "aaaaarg.md",
-    "obsidian embeds.md",
-    "2021-06-07.md"
+    "2021-06-10.md",
+    "flecha derecha.md",
+    "rode podmic.md",
+    "honest signals.md",
+    "pattern languages of programs.md",
+    "architectural pattern.md",
+    "2021-06-09.md"
   ]
 }
