@@ -10,7 +10,7 @@
           {
             "id": "0bab2a8f16a1d490",
             "type": "leaf",
-            "dimension": 11.088709677419354,
+            "dimension": 9.569377990430622,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 20.665322580645164,
+            "dimension": 9.569377990430622,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "f153ebb0ff58a5f9",
             "type": "leaf",
-            "dimension": 5.34274193548387,
+            "dimension": 17.942583732057415,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 14.163306451612904,
+            "dimension": 14.162679425837322,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "052ae04af14c47b1",
             "type": "leaf",
-            "dimension": 14.163306451612904,
+            "dimension": 14.162679425837322,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 34.5766129032258,
+            "dimension": 34.5933014354067,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -247,11 +247,11 @@
   "active": "f153ebb0ff58a5f9",
   "lastOpenFiles": [
     "gyuri lajos.md",
+    "2021-06-12.md",
     "weaving a decentralized semantic web of personal knowledge.md",
     "agora fediverse integration.md",
     "wikinizer.md",
     "aaaaarg.md",
-    "2021-06-12.md",
     "2021-06-09.md",
     "building augmented knowledge architectures.md",
     "building autmented knowledge architectures.md",
