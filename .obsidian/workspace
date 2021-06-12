@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyperknowledge.md",
+                "file": "gyuri lajos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hyperknowledge.md"
+                "file": "gyuri lajos.md"
               }
             }
           },
@@ -256,10 +256,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e25d3e333614171b",
+  "active": "f153ebb0ff58a5f9",
   "lastOpenFiles": [
-    "hyperknowledge.md",
     "gyuri lajos.md",
+    "hyperknowledge.md",
     "2021-06-12.md",
     "weaving a decentralized semantic web of personal knowledge.md",
     "agora fediverse integration.md",
