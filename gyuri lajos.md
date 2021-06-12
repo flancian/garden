@@ -21,6 +21,7 @@
 		- wife did [[mathematics]] and [[philosophy]]
 		- [[history]] and [[philosophy of science]]
 		- phd in computing
+- going beyond rdf (complex/low level) and hierarchy
 - [[docdrop]] https://docdrop.org/video/XqxwwuUdsp4/#annotations:MKXJlg9aEeurAy8NWpahjQ
 - interop between [[trailmarks]] and [[agora]]
 
