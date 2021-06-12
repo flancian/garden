@@ -18,8 +18,9 @@
 	- [[gyuri]]
 		- wanted to do [[mathematics]] and [[literature]] when ~16 or so
 		- settled for [[philosophy]] and [[physics]]
-		- wife did [[mat]]
-		- [[physics]] and [[history ]]
+		- wife did [[mathematics]] and [[philosophy]]
+		- [[history]] and [[philosophy of science]]
+		- phd in computing
 - [[docdrop]] https://docdrop.org/video/XqxwwuUdsp4/#annotations:MKXJlg9aEeurAy8NWpahjQ
 - interop between [[trailmarks]] and [[agora]]
 
