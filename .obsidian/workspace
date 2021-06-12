@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-10.md",
+                "file": "2021-06-12.md",
                 "mode": "source"
               }
             }
@@ -84,11 +84,8 @@
             "type": "leaf",
             "dimension": 0.5208333333333334,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web share.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -214,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web share.md",
+                "file": "2021-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web share.md"
+                "file": "2021-06-12.md"
               }
             }
           }
@@ -242,13 +239,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f4a0295c4d9bb3a",
+  "active": "1abc628cc33ef125",
   "lastOpenFiles": [
-    "web share.md",
     "2021-06-12.md",
+    "2021-06-10.md",
+    "web share.md",
     "disable power saving.md",
     "2021-06-11.md",
-    "2021-06-10.md",
     "flecha derecha.md",
     "rode podmic.md",
     "honest signals.md",
