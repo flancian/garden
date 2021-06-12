@@ -1,0 +1,2 @@
+- a [[paper]]
+	- [[go]] https://www.researchgate.net/publication/328461108_WikiNizer_Research_A_Personal_Knowledge_Graph_Builder_Harnessing_Freebase_Linked_Data?_sg=sGl9YtHktCInkYVm2mn_9PFx1oUDWX1qXBK9ixEIuOibI-5FJwQBuBMXgV5v6ZloUNRwjI-Cyw6zZVkaN7PY5RKqCvBFDC3aAD-qSGmZ._1s3IimUhhm12fQQXKhZtDrZbB6tOJIFhvKamRNqsdTKceIcHGj3PLWzcsYrIw0QMeq3O0CzU4iRm1hqWmWhYA

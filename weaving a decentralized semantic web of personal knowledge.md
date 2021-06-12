@@ -1,0 +1,2 @@
+- a [[paper]]
+	- [[go]] https://www.researchgate.net/publication/334126329_Weaving_a_Decentralized_Semantic_Web_of_Personal_Knowledge
