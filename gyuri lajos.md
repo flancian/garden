@@ -15,7 +15,11 @@
 
 ## [[2021-06-12]]
 - greetings!
-	- [[physics]] and [[history ]]
+	- [[gyuri]]
+		- wanted to do [[mathematics]] and [[literature]] when ~16 or so
+		- settled for [[philosophy]] and [[physics]]
+		- wife did [[mat]]
+		- [[physics]] and [[history ]]
 - [[docdrop]] https://docdrop.org/video/XqxwwuUdsp4/#annotations:MKXJlg9aEeurAy8NWpahjQ
 - interop between [[trailmarks]] and [[agora]]
 
