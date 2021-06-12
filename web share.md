@@ -1,1 +1,1 @@
-- [[go]] https://wwww
+- [[go]] https://www.w3.org/TR/web-share/
