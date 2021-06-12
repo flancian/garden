@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "disable power saving.md",
+                "file": "2021-06-12.md",
                 "mode": "source"
               }
             }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "disable power saving.md",
+                "file": "2021-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "disable power saving.md"
+                "file": "2021-06-12.md"
               }
             }
           }
@@ -232,8 +232,8 @@
   },
   "active": "4eaa26c8f16d08a6",
   "lastOpenFiles": [
-    "disable power saving.md",
     "2021-06-12.md",
+    "disable power saving.md",
     "2021-06-11.md",
     "2021-06-10.md",
     "flecha derecha.md",
