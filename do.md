@@ -1,14 +1,14 @@
-- my current [[intent]] is: catch up with inbox and do a run o[[do]]
+- my current [[intent]] is: catch up with inbox and do a run over [[do]] (cleanup/prioritization/integration)
 - [[push]] [[done]]
-	- my current [[intent]] is: implement support for [[obsidian attachments]] in [[agora server]]
+	- implemented support for [[obsidian attachments]] in [[agora server]]
+		- basic but it does the job (tm)
 - configure [[probing]] for [[moa]]
 - configure [[probing]] for [[anagora]]
-	- review [[go/moa/bugs]]
-	- [[ctzn]]
-		- [[agora ctzn]]
-	- [[agora]]
-		- [[auto push]]
-		- [[auto pull]]
+- review [[go/moa/bugs]]
+- [[agora]]
+- implement [[auto push]]
+- add toggle switch for [[auto pull]] (stoa, linked nodes)
+- add toggle switch for [[auto pull]]
 		- stop [[stoa]] from stealing focus
 		- fix [[agora graphs]]
 			- different colors for pull/push/link/backlink
