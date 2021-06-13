@@ -1,0 +1,2 @@
+- an [[agora action]]
+	- [[ack]] is a complement to [[push]]. node b can [[ack]] an incoming push from node a by [[ack]]

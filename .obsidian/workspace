@@ -10,11 +10,23 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 50.73891625615764,
+            "dimension": 25.36945812807882,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "do.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "434bd4c7c42b00d5",
+            "type": "leaf",
+            "dimension": 25.36945812807882,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ack.md",
                 "mode": "source"
               }
             }
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "ack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "ack.md"
               }
             }
           },
@@ -226,8 +238,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c3e63745fbefd6f",
+  "active": "434bd4c7c42b00d5",
   "lastOpenFiles": [
+    "ack.md",
     "do.md",
     "pomodoro.md",
     "a. p..md",
@@ -236,7 +249,6 @@
     "rusp.md",
     "orgzly.md",
     "logseq.md",
-    "hyperknowledge.md",
-    "Untitled 4.md"
+    "hyperknowledge.md"
   ]
 }
