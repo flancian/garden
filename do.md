@@ -16,11 +16,8 @@
     - fix [[agora graphs]]
       - different colors for pull/push/link/backlink
   - [[wikilinks everywhere]]
+	- aka [[agora ext]]
     - [[vera]] is on this
-    - move her code to [[agora ext]]?
-    - add logo for store page
-    - test on [[chrome]]
-  - [[read]]
   - write [[on cringe]] / [[agora polls]]
     - about explicit rational (mathematical) modelling of group dynamics through social media discourse
     - is [[hack the planet]] cringe? should it be?

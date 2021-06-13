@@ -10,7 +10,7 @@
           {
             "id": "0bab2a8f16a1d490",
             "type": "leaf",
-            "dimension": 9.174311926605505,
+            "dimension": 10.582010582010584,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 9.174311926605505,
+            "dimension": 10.582010582010584,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,31 +34,25 @@
           {
             "id": "54a9349d9ff1ce59",
             "type": "leaf",
-            "dimension": 9.174311926605505,
+            "dimension": 10.582010582010584,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-13.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "91d72e5fa6530ffd",
             "type": "leaf",
-            "dimension": 26.605504587155966,
+            "dimension": 15.34391534391535,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "do.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "06729e6c51fcc274",
             "type": "leaf",
-            "dimension": 9.174311926605505,
+            "dimension": 10.582010582010584,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +64,7 @@
           {
             "id": "e25d3e333614171b",
             "type": "leaf",
-            "dimension": 9.174311926605505,
+            "dimension": 10.582010582010584,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +76,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 9.174311926605505,
+            "dimension": 10.582010582010584,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +88,7 @@
           {
             "id": "052ae04af14c47b1",
             "type": "leaf",
-            "dimension": 9.174311926605505,
+            "dimension": 10.582010582010584,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +100,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 9.174311926605505,
+            "dimension": 10.582010582010584,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -207,7 +201,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,9 +216,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "do.md"
-              }
+              "state": {}
             }
           },
           {
@@ -280,17 +271,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91d72e5fa6530ffd",
+  "active": "54a9349d9ff1ce59",
   "lastOpenFiles": [
-    "do.md",
-    "2021-06-13.md",
-    "twitter api.md",
-    "inside.md",
+    "Untitled 4.md",
     "logseq.md",
     "tienson qin.md",
+    "inside.md",
+    "twitter api.md",
+    "paradox of tolerance.md",
+    "do.md",
+    "2021-06-13.md",
     "2021-06-12.md",
-    "aaaaarg.md",
-    "gyuri lajos.md",
-    "hyperknowledge.md"
+    "aaaaarg.md"
   ]
 }
