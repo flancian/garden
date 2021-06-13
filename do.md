@@ -11,10 +11,11 @@
 	- doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
 	- improve [[agora graphs]]
 		- what does this *mean*?
-		- I like what logseq does: show link direction 
+		- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
 	- [[wikilinks everywhere]]
-	- aka [[agora ext]]
-		- [[vera]] is on this
+		- aka [[agora ext]]
+		- [[vera]] is on this, extension is a bit buggy but already super useful
+		- 
 	- write [[on cringe]] / [[agora polls]]
 		- about explicit rational (mathematical) modelling of group dynamics through social media discourse
 		- is [[hack the planet]] cringe? should it be?
