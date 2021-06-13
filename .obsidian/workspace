@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 25.36945812807882,
+            "dimension": 27.087442472057855,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,11 +22,11 @@
           {
             "id": "434bd4c7c42b00d5",
             "type": "leaf",
-            "dimension": 12.68472906403941,
+            "dimension": 13.543721236028928,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ack.md",
+                "file": "2021-06-13.md",
                 "mode": "source"
               }
             }
@@ -34,7 +34,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 12.68472906403941,
+            "dimension": 6.771860618014464,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 19.704433497536947,
+            "dimension": 21.038790269559502,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -76,7 +76,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 29.55665024630542,
+            "dimension": 31.558185404339252,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "receive.md",
+                "file": "2021-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "receive.md"
+                "file": "2021-06-13.md"
               }
             }
           },
@@ -250,17 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93063ea8776ee9f8",
+  "active": "434bd4c7c42b00d5",
   "lastOpenFiles": [
-    "receive.md",
+    "2021-06-13.md",
     "ack.md",
     "do.md",
+    "receive.md",
+    "transcluded.md",
     "pomodoro.md",
     "a. p..md",
     "agora fediverse integration.md",
-    "2021-06-13.md",
     "rusp.md",
-    "orgzly.md",
-    "logseq.md"
+    "orgzly.md"
   ]
 }

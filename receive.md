@@ -1,2 +1,2 @@
 - an [[agora action]].
-	- [[receive]] is a complement to [[push]]. node b can [[receive]] an incoming push from node a, which results in it being [[transcluded]] in the place of triggerin
+	- [[receive]] is a complement to [[push]]. node b can [[receive]] an incoming push from node a, which results in it being [[transcluded]].
