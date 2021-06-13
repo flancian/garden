@@ -1,0 +1,4 @@
+- a [[person]]
+	- [[coder]]
+	- [[twitter]] https://twitter.com/tiensonqin
+	- [[logseq]]

@@ -34,11 +34,23 @@
           {
             "id": "06729e6c51fcc274",
             "type": "leaf",
-            "dimension": 34.02777777777778,
+            "dimension": 17.01388888888889,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "logseq.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "a6a553ad45c382ec",
+            "type": "leaf",
+            "dimension": 17.01388888888889,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tienson qin.md",
                 "mode": "source"
               }
             }
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logseq.md",
+                "file": "tienson qin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logseq.md"
+                "file": "tienson qin.md"
               }
             }
           },
@@ -256,8 +268,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06729e6c51fcc274",
+  "active": "a6a553ad45c382ec",
   "lastOpenFiles": [
+    "tienson qin.md",
     "logseq.md",
     "2021-06-13.md",
     "2021-06-12.md",
@@ -266,7 +279,6 @@
     "hyperknowledge.md",
     "weaving a decentralized semantic web of personal knowledge.md",
     "agora fediverse integration.md",
-    "wikinizer.md",
-    "2021-06-09.md"
+    "wikinizer.md"
   ]
 }
