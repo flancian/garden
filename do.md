@@ -6,8 +6,6 @@
       - [ ] one pomodoro for moa
       - [ ] one pomodoro for anagora
   - do [[moa]]
-    - integrate vera's code
-      - [ ] find it
     - review [[go/moa/bugs]]
   - [[ctzn]] 
     - [[agora ctzn]]
