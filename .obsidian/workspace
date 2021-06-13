@@ -8,51 +8,21 @@
         "type": "split",
         "children": [
           {
-            "id": "0bab2a8f16a1d490",
-            "type": "leaf",
-            "dimension": 10.582010582010584,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 10.582010582010584,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-13.md",
                 "mode": "source"
               }
-            }
-          },
-          {
-            "id": "54a9349d9ff1ce59",
-            "type": "leaf",
-            "dimension": 10.582010582010584,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "91d72e5fa6530ffd",
-            "type": "leaf",
-            "dimension": 15.34391534391535,
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
             "id": "06729e6c51fcc274",
             "type": "leaf",
-            "dimension": 10.582010582010584,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -64,7 +34,7 @@
           {
             "id": "e25d3e333614171b",
             "type": "leaf",
-            "dimension": 10.582010582010584,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,7 +46,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 10.582010582010584,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -88,7 +58,7 @@
           {
             "id": "052ae04af14c47b1",
             "type": "leaf",
-            "dimension": 10.582010582010584,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -100,7 +70,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 10.582010582010584,
+            "dimension": 16.666666666666668,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -176,7 +146,7 @@
             "id": "aa0f3e910050164c",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "empty",
               "state": {}
             }
           }
@@ -201,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,14 +187,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021-06-13.md"
+              }
             }
           },
           {
             "id": "eaa7f99b4cf5444a",
             "type": "leaf",
             "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "type": "empty",
               "state": {}
             }
           },
@@ -231,7 +204,7 @@
             "id": "49a0eb72df05c98e",
             "type": "leaf",
             "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "type": "empty",
               "state": {}
             }
           }
@@ -246,7 +219,7 @@
             "id": "ba82168a0acbacba",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "empty",
               "state": {}
             }
           }
@@ -260,7 +233,7 @@
             "id": "35550c211233c6a5",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "empty",
               "state": {}
             }
           }
@@ -271,8 +244,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54a9349d9ff1ce59",
+  "active": "1c3e63745fbefd6f",
   "lastOpenFiles": [
+    "2021-06-13.md",
     "Untitled 4.md",
     "logseq.md",
     "tienson qin.md",
@@ -280,7 +254,6 @@
     "twitter api.md",
     "paradox of tolerance.md",
     "do.md",
-    "2021-06-13.md",
     "2021-06-12.md",
     "aaaaarg.md"
   ]
