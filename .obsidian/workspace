@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 27.087442472057855,
+            "dimension": 14.285714285714285,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "434bd4c7c42b00d5",
             "type": "leaf",
-            "dimension": 13.543721236028928,
+            "dimension": 14.285714285714285,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,9 +32,33 @@
             }
           },
           {
+            "id": "81947fe854c7e313",
+            "type": "leaf",
+            "dimension": 14.285714285714285,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ryan.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "89a7352a0395d613",
+            "type": "leaf",
+            "dimension": 14.285714285714285,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ryan faulhaber.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 6.771860618014464,
+            "dimension": 14.285714285714285,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +70,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 21.038790269559502,
+            "dimension": 14.285714285714285,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -76,7 +100,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 31.558185404339252,
+            "dimension": 14.285714285714285,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -177,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-13.md",
+                "file": "ryan faulhaber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-13.md"
+                "file": "ryan faulhaber.md"
               }
             }
           },
@@ -250,8 +274,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "434bd4c7c42b00d5",
+  "active": "89a7352a0395d613",
   "lastOpenFiles": [
+    "ryan faulhaber.md",
+    "ryan.md",
     "2021-06-13.md",
     "ack.md",
     "do.md",
@@ -259,8 +285,6 @@
     "transcluded.md",
     "pomodoro.md",
     "a. p..md",
-    "agora fediverse integration.md",
-    "rusp.md",
-    "orgzly.md"
+    "agora fediverse integration.md"
   ]
 }

@@ -1,0 +1,3 @@
+- a [[person]]
+	- [[coder]]
+	- uses [[org mode]]
