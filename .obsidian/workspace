@@ -10,7 +10,7 @@
           {
             "id": "0bab2a8f16a1d490",
             "type": "leaf",
-            "dimension": 9.569377990430622,
+            "dimension": 10.512483574244415,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 9.569377990430622,
+            "dimension": 5.256241787122208,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "f153ebb0ff58a5f9",
+            "id": "06729e6c51fcc274",
             "type": "leaf",
-            "dimension": 8.971291866028707,
+            "dimension": 5.256241787122208,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gyuri lajos.md",
+                "file": "logseq.md",
                 "mode": "source"
               }
             }
@@ -46,7 +46,7 @@
           {
             "id": "e25d3e333614171b",
             "type": "leaf",
-            "dimension": 8.971291866028707,
+            "dimension": 9.855453350854138,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 14.162679425837322,
+            "dimension": 15.558475689881735,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "052ae04af14c47b1",
             "type": "leaf",
-            "dimension": 14.162679425837322,
+            "dimension": 15.558475689881735,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 34.5933014354067,
+            "dimension": 38.00262812089356,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-13.md",
+                "file": "logseq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-13.md"
+                "file": "logseq.md"
               }
             }
           },
@@ -256,8 +256,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c3e63745fbefd6f",
+  "active": "06729e6c51fcc274",
   "lastOpenFiles": [
+    "logseq.md",
     "2021-06-13.md",
     "2021-06-12.md",
     "aaaaarg.md",
@@ -266,7 +267,6 @@
     "weaving a decentralized semantic web of personal knowledge.md",
     "agora fediverse integration.md",
     "wikinizer.md",
-    "2021-06-09.md",
-    "building augmented knowledge architectures.md"
+    "2021-06-09.md"
   ]
 }
