@@ -1,3 +1,4 @@
+- [[pull]] [[later]] [[todo]] [[pomodoro]]
 - [[intents]]
 	- catch up with inbox 
 	- do a run over [[do]] (cleanup/prioritization/integration)
@@ -25,9 +26,6 @@
 		- [[reading protopoi]]
 	- run [[weekly review]]
 		- I'm doing it now
-	- [[pull]] [[later]] [[todo]]
-		- [[push]] [[pomodoro]]
-
 - [[push]] [[agora actions]]
 	- do is an [[action]]
 		- I try to automate recurrent [[actions]] in the [[agora]].

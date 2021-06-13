@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 13.397876327295439,
+            "dimension": 50.73891625615764,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,21 +20,9 @@
             }
           },
           {
-            "id": "bc99e8dcce0e7827",
-            "type": "leaf",
-            "dimension": 13.397876327295439,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pomodoro.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 30.980637101811368,
+            "dimension": 19.704433497536947,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -64,7 +52,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 42.22361024359775,
+            "dimension": 29.55665024630542,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -165,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pomodoro.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pomodoro.md"
+                "file": "do.md"
               }
             }
           },
@@ -238,10 +226,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc99e8dcce0e7827",
+  "active": "1c3e63745fbefd6f",
   "lastOpenFiles": [
-    "pomodoro.md",
     "do.md",
+    "pomodoro.md",
     "a. p..md",
     "agora fediverse integration.md",
     "2021-06-13.md",
