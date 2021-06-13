@@ -1,5 +1,5 @@
-- [[pull]] [[later]] [[todo]] [[pomodoro]]
-- [[intents]]
+- an [[intent]]
+	- [[pull]] [[intents]] [[later]] [[todo]] [[pomodoro]]
 	- catch up with inbox 
 	- do a run over [[do]] (cleanup/prioritization/integration)
 	- configure [[probing]] for [[moa]]
@@ -63,6 +63,7 @@
 			- a more flexible [[actions]] system
 - Please tell me what you think I should do next below or via any of the channels listed in [[flancian]]. All feedback is welcome!
 - [[push]] [[done]]
+	- implement [[push gc]]
 	- [[agora yaml]]
 	- [[agora plan]]
 	- [[rdf]]
