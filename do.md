@@ -24,15 +24,18 @@
 		- link it here
 	- run [[weekly review]]
 		- I'm doing it now
-	- [[pull]] [[later]]
-	- I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
-		- Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
-		- My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling).
-		- (I also keep a [[notebook]])
-- an [[action]]
-	- I try to automate recurrent [[actions]] in the [[agora]].
-	- This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
-	- [[daily]], I try to check for pending [[work]]:
+	- [[pull]] [[later]] [[todo]]
+		- pull can work as 'see also'
+		- [[push]] [[pomodoro]]
+			- I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
+			- Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
+			- My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling).
+			- (I also keep a [[notebook]])
+- [[push]] [[agora actions]]
+	- do is an [[action]]
+		- I try to automate recurrent [[actions]] in the [[agora]].
+		- This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
+		- [[daily]], I try to check for pending [[work]] in all known sources of truth.
 		- [[pull]] [[todo]]
 			- [ ] clean up items there and pushes, moving closer to a [[context]].
 	- [[weekly]], check the context in more specific actions and push relevant items here or to [[next action]]:
