@@ -10,11 +10,23 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 26.795752654590878,
+            "dimension": 13.397876327295439,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "do.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "bc99e8dcce0e7827",
+            "type": "leaf",
+            "dimension": 13.397876327295439,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pomodoro.md",
                 "mode": "source"
               }
             }
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "pomodoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "pomodoro.md"
               }
             }
           },
@@ -226,8 +238,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c3e63745fbefd6f",
+  "active": "bc99e8dcce0e7827",
   "lastOpenFiles": [
+    "pomodoro.md",
     "do.md",
     "a. p..md",
     "agora fediverse integration.md",
@@ -236,7 +249,6 @@
     "orgzly.md",
     "logseq.md",
     "hyperknowledge.md",
-    "Untitled 4.md",
-    "tienson qin.md"
+    "Untitled 4.md"
   ]
 }

@@ -27,10 +27,7 @@
 		- I'm doing it now
 	- [[pull]] [[later]] [[todo]]
 		- [[push]] [[pomodoro]]
-			- I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
-			- Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
-			- My current running contexts or intents follow (they expand into lists of todo items/trees/graphs depending on level of modelling).
-			- (I also keep a [[notebook]])
+
 - [[push]] [[agora actions]]
 	- do is an [[action]]
 		- I try to automate recurrent [[actions]] in the [[agora]].
