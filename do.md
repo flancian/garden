@@ -1,31 +1,31 @@
 - [[intents]]
 	- catch up with inbox 
-	- sync note
 	- do a run over [[do]] (cleanup/prioritization/integration)
 	- configure [[probing]] for [[moa]]
-- configure [[probing]] for [[anagora]]
-- review [[go/moa/bugs]]
-- [[agora]]
-- implement [[auto push]]
-- add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
-	- doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
-	- improve [[agora graphs]]
-		- what does this *mean*?
-		- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
-	- [[wikilinks everywhere]]
-		- aka [[agora ext]]
-		- [[vera]] is on this, extension is a bit buggy but already super useful
-		- I really want to move wikilinking to on-demand (push button/ctrl-shift-l) or cronjob-like behaviour but right now it just wikilinks everything every time you click, and some sites break
-	- write 
+	- configure [[probing]] for [[anagora]]
+	- review [[go/moa/bugs]]
+	- [[agora]]
+		- implement [[auto push]]
+		- add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
+			- doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
+		- improve [[agora graphs]]
+			- what does this *mean*?
+			- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
+		- [[wikilinks everywhere]]
+			- aka [[agora ext]]
+			- [[vera]] is on this, extension is a bit buggy but already super useful
+			- I really want to move wikilinking to on-demand (push button/ctrl-shift-l) or cronjob-like behaviour but right now it just wikilinks everything every time you click, and some sites break
+	- [[write]]
 		- [[on cringe]] / [[agora polls]]
 			- about explicit rational (mathematical) modelling of group dynamics through social media discourse
 			- is [[hack the planet]] cringe? should it be?
-	- finish reading what [[will walker]] told me about
-		- link it here
+	- [[read]] 
+		- what [[will walker]] told me about
+			- link it here
+		- [[reading protopoi]]
 	- run [[weekly review]]
 		- I'm doing it now
 	- [[pull]] [[later]] [[todo]]
-		- pull can work as 'see also'
 		- [[push]] [[pomodoro]]
 			- I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
 			- Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
