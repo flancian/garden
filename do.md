@@ -57,16 +57,16 @@
 			- [[flancia collective]]
 			- [[open source]]
 			- [[friends]]
+			- [[public utility]]
 		- [[code]]
 			- [[agora server]]
 				- add particles to [[agora search]]
 					- particles again.
-			- [[wikilinks everywhere]] / [[agora e]]
+			- [[wikilinks everywhere]] / [[agora ext]]
 				- could [[d3]] replace [[jquery]]? it would make it easy to also include a graph tool directly in the library. it's 200kb though.
 					- ask [[vera]]
 			- a more flexible [[actions]] system
-	- On top of this idiosyncratic system I'm trying to execute a [[plan]]. If you're interested please also review [[priorities]], [[public utility]]
-	- Please tell me what you think I should do next below. All feedback is welcome!
+- Please tell me what you think I should do next below or via any of the channels listed in [[flancian]]. All feedback is welcome!
 - [[push]] [[done]]
 	- [[agora yaml]]
 	- [[agora plan]]
