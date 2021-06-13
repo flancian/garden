@@ -44,25 +44,26 @@
 				- [[an open letter for an open society]]
 			- to [[a. p.]] asking for a recommendation
 		- [[unblock]] people who are waiting for me
-			- [[answer]]
-				- [[will walker]]
-		- [[research]]
-			- [[ipfs]]
-			- [[ipld]]
-			- [[fission]]
-			- [[hypercore-proto]]
-			- [[launchlet]]
-			- [[urbit]]
+	- [[research]]
+		- [[ipfs]]
+		- [[ipld]]
+		- [[fission]]
+		- [[hypercore-proto]]
+		- [[launchlet]]
+		- [[urbit]]
 			- [[rosano]]
 		- [[support]]
 			- [[effective altruism]]
+			- [[flancia collective]]
 			- [[open source]]
 			- [[friends]]
 		- [[code]]
 			- [[agora server]]
 				- add particles to [[agora search]]
-			- [[wikilinks everywhere]]
-				- would it be crazy to use [[d3]] instead of [[jquery]]? it would make it easy to also include a graph tool directly in the library. it's 200kb though.
+					- particles again.
+			- [[wikilinks everywhere]] / [[agora e]]
+				- could [[d3]] replace [[jquery]]? it would make it easy to also include a graph tool directly in the library. it's 200kb though.
+					- ask [[vera]]
 			- a more flexible [[actions]] system
 	- On top of this idiosyncratic system I'm trying to execute a [[plan]]. If you're interested please also review [[priorities]], [[public utility]]
 	- Please tell me what you think I should do next below. All feedback is welcome!
