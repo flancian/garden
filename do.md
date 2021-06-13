@@ -15,13 +15,15 @@
 	- [[wikilinks everywhere]]
 		- aka [[agora ext]]
 		- [[vera]] is on this, extension is a bit buggy but already super useful
-		- 
-	- write [[on cringe]] / [[agora polls]]
-		- about explicit rational (mathematical) modelling of group dynamics through social media discourse
-		- is [[hack the planet]] cringe? should it be?
-	- node [[paradox of tolerance]]
+		- I really want to move wikilinking to on-demand (push button/ctrl-shift-l) or cronjob-like behaviour but right now it just wikilinks everything every time you click, and some sites break
+	- write 
+		- [[on cringe]] / [[agora polls]]
+			- about explicit rational (mathematical) modelling of group dynamics through social media discourse
+			- is [[hack the planet]] cringe? should it be?
 	- finish reading what [[will walker]] told me about
+		- link it here
 	- run [[weekly review]]
+		- I'm doing it now
 	- [[pull]] [[later]]
 	- I'm trying to use [[pomodoro]]. It signals an [[intent]]. My intent is [[getting things done]].
 		- Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
