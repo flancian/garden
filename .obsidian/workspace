@@ -10,43 +10,49 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 25,
+            "dimension": 42.26600985221675,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-13.md",
+                "file": "do.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "b7b8a1f5a0af6991",
-            "type": "leaf",
-            "dimension": 25,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora fediverse integration.md",
-                "mode": "source"
+            "id": "d407fbfa22a48bda",
+            "type": "split",
+            "dimension": 24.433497536945815,
+            "children": [
+              {
+                "id": "b7b8a1f5a0af6991",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora fediverse integration.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "052ae04af14c47b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "twitter bridge.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "052ae04af14c47b1",
-            "type": "leaf",
-            "dimension": 25,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "twitter bridge.md",
-                "mode": "source"
-              }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 25,
+            "dimension": 33.30049261083744,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -147,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-13.md",
+                "file": "do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-13.md"
+                "file": "do.md"
               }
             }
           },
@@ -222,6 +228,8 @@
   },
   "active": "1c3e63745fbefd6f",
   "lastOpenFiles": [
+    "do.md",
+    "agora fediverse integration.md",
     "2021-06-13.md",
     "rusp.md",
     "orgzly.md",
@@ -229,8 +237,6 @@
     "hyperknowledge.md",
     "Untitled 4.md",
     "tienson qin.md",
-    "inside.md",
-    "twitter api.md",
-    "paradox of tolerance.md"
+    "inside.md"
   ]
 }

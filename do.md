@@ -1,4 +1,3 @@
-# Do
 - my current [[intent]] is: implement support for [[obsidian attachments]] in [[agora server]]
 - [[pomodoro]]
 	- configure [[monitoring]].
