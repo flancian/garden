@@ -8,124 +8,142 @@
         "type": "split",
         "children": [
           {
-            "id": "1c3e63745fbefd6f",
+            "id": "7079d00b3a2eb6be",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 8.333333333333334,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "do.md",
+                "file": "2021-06-09.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "434bd4c7c42b00d5",
+            "id": "a9def0a98c1f2c8e",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 8.333333333333334,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-13.md",
+                "file": "architectural pattern.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "81947fe854c7e313",
+            "id": "1abc628cc33ef125",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 8.333333333333334,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ryan.md",
+                "file": "file system access api.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "89a7352a0395d613",
+            "id": "6dd09d0f4e617cc8",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 4.166666666666667,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ryan faulhaber.md",
+                "file": "2021-06-10.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "93063ea8776ee9f8",
+            "id": "e0d9f669f6d19a83",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 1.0416666666666667,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "receive.md",
+                "file": "2021-06-12.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "d407fbfa22a48bda",
-            "type": "split",
-            "dimension": 14.285714285714285,
-            "children": [
-              {
-                "id": "b7b8a1f5a0af6991",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora fediverse integration.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "052ae04af14c47b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "twitter bridge.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "4eaa26c8f16d08a6",
+            "type": "leaf",
+            "dimension": 0.5208333333333334,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-12.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "56bdd2b5a09241be",
-            "type": "split",
-            "dimension": 14.285714285714285,
-            "children": [
-              {
-                "id": "7abcb8972baaed4d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian embeds.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "9d1767dbb6c4ba74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "break glass.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "6f4a0295c4d9bb3a",
+            "type": "leaf",
+            "dimension": 0.5208333333333334,
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "815f6803dbd653db",
+            "type": "leaf",
+            "dimension": 2.0833333333333335,
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "305566bbcea2ba31",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patterns.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            }
+          },
+          {
+            "id": "09b9c7136dcedcbf",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "an analysis of the role of invariant patterns.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "85fcfb3a901a6ab1",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora fediverse integration.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0dd202a162337858",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora mediawiki integration.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -155,12 +173,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plesmasquerade",
+                "query": "kepta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -169,14 +187,6 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa0f3e910050164c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
               "state": {}
             }
           }
@@ -201,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ryan faulhaber.md",
+                "file": "file system access api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,53 +228,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ryan faulhaber.md"
+                "file": "file system access api.md"
               }
-            }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "49a0eb72df05c98e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "297c54846b597552",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35550c211233c6a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -274,17 +239,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89a7352a0395d613",
+  "active": "1abc628cc33ef125",
   "lastOpenFiles": [
-    "ryan faulhaber.md",
-    "ryan.md",
-    "2021-06-13.md",
-    "ack.md",
-    "do.md",
-    "receive.md",
-    "transcluded.md",
-    "pomodoro.md",
-    "a. p..md",
-    "agora fediverse integration.md"
+    "file system access api.md",
+    "kepta.md",
+    "bangle.md",
+    "2021-05-07.md",
+    "2021-06-12.md",
+    "2021-06-10.md",
+    "web share.md",
+    "disable power saving.md",
+    "2021-06-11.md",
+    "flecha derecha.md"
   ]
 }
