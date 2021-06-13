@@ -1,9 +1,8 @@
-- my current [[intent]] is: implement support for [[obsidian attachments]] in [[agora server]]
-- [[pomodoro]]
-	- configure [[probing]] for [[moa]]
-	- configure [[probing]] for [[anagora]].x
-		- [ ] one pomodoro for moa
-		- [ ] one pomodoro for anagora
+- my current [[intent]] is: catch up with inbox and do a run o[[do]]
+- [[push]] [[done]]
+	- my current [[intent]] is: implement support for [[obsidian attachments]] in [[agora server]]
+- configure [[probing]] for [[moa]]
+- configure [[probing]] for [[anagora]]
 	- review [[go/moa/bugs]]
 	- [[ctzn]]
 		- [[agora ctzn]]
