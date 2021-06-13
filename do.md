@@ -1,8 +1,8 @@
-- my current [[intent]] is: catch up with inbox and do a run over [[do]] (cleanup/prioritization/integration)
-- [[push]] [[done]]
-	- implemented support for [[obsidian attachments]] in [[agora server]]
-		- basic but it does the job (tm)
-- configure [[probing]] for [[moa]]
+- [[intents]]
+	- catch up with inbox 
+	- sync note
+	- do a run over [[do]] (cleanup/prioritization/integration)
+	- configure [[probing]] for [[moa]]
 - configure [[probing]] for [[anagora]]
 - review [[go/moa/bugs]]
 - [[agora]]
@@ -76,6 +76,9 @@
 		- implemented a provider
 		- added support for [[yubnub]] like particles
 		- [[branch]] agora-server/branch
+		- [[push]] [[done]]
+	- implemented support for [[obsidian attachments]] in [[agora server]]
+		- basic but it does the job (tm)
 		  
-		  https://twitter.com/flancian/status/1386048603496529925
-		  https://twitter.com/flancian/status/1374462566395617286
+https://twitter.com/flancian/status/1386048603496529925
+https://twitter.com/flancian/status/1374462566395617286
