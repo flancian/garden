@@ -7,11 +7,11 @@
 - review [[go/moa/bugs]]
 - [[agora]]
 - implement [[auto push]]
-- add toggle switch for [[auto pull]] (stoa, linked nodes)
-- add toggle switch for [[auto pull]]
-		- stop [[stoa]] from stealing focus
-		- fix [[agora graphs]]
-			- different colors for pull/push/link/backlink
+- add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
+	- doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
+	- improve [[agora graphs]]
+		- what does this *mean*?
+		- I like what logseq does: show link direction 
 	- [[wikilinks everywhere]]
 	- aka [[agora ext]]
 		- [[vera]] is on this
