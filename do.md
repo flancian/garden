@@ -1,10 +1,10 @@
 - my current [[intent]] is: implement support for [[obsidian attachments]] in [[agora server]]
 - [[pomodoro]]
-	- configure [[monitoring]].
+	- configure [[probing]] for [[moa]]
+	- configure [[probing]] for [[anagora]].x
 		- [ ] one pomodoro for moa
 		- [ ] one pomodoro for anagora
-	- do [[moa]]
-		- review [[go/moa/bugs]]
+	- review [[go/moa/bugs]]
 	- [[ctzn]]
 		- [[agora ctzn]]
 	- [[agora]]
