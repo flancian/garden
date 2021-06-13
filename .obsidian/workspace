@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orgzly.md",
+                "file": "rusp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orgzly.md"
+                "file": "rusp.md"
               }
             }
           },
@@ -268,12 +268,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e19faa586b42c2b1",
+  "active": "36343618ec67f9b1",
   "lastOpenFiles": [
+    "rusp.md",
     "orgzly.md",
     "2021-06-13.md",
     "logseq.md",
-    "rusp.md",
     "hyperknowledge.md",
     "Untitled 4.md",
     "tienson qin.md",
