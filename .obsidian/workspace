@@ -8,33 +8,21 @@
         "type": "split",
         "children": [
           {
-            "id": "7079d00b3a2eb6be",
+            "id": "0bab2a8f16a1d490",
             "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 9.569377990430622,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-09.md",
+                "file": "2021-06-13.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "a9def0a98c1f2c8e",
+            "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 8.333333333333334,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "architectural pattern.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "1abc628cc33ef125",
-            "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 9.569377990430622,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,87 +32,33 @@
             }
           },
           {
-            "id": "6dd09d0f4e617cc8",
+            "id": "f153ebb0ff58a5f9",
             "type": "leaf",
-            "dimension": 4.166666666666667,
+            "dimension": 8.971291866028707,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-10.md",
+                "file": "gyuri lajos.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "e0d9f669f6d19a83",
+            "id": "e25d3e333614171b",
             "type": "leaf",
-            "dimension": 1.0416666666666667,
+            "dimension": 8.971291866028707,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-12.md",
+                "file": "hyperknowledge.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "4eaa26c8f16d08a6",
+            "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 0.5208333333333334,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-12.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "6f4a0295c4d9bb3a",
-            "type": "leaf",
-            "dimension": 0.5208333333333334,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "815f6803dbd653db",
-            "type": "leaf",
-            "dimension": 2.0833333333333335,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "305566bbcea2ba31",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "patterns.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "09b9c7136dcedcbf",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "an analysis of the role of invariant patterns.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "85fcfb3a901a6ab1",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 14.162679425837322,
             "state": {
               "type": "markdown",
               "state": {
@@ -134,16 +68,46 @@
             }
           },
           {
-            "id": "0dd202a162337858",
+            "id": "052ae04af14c47b1",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 14.162679425837322,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora mediawiki integration.md",
+                "file": "twitter bridge.md",
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "56bdd2b5a09241be",
+            "type": "split",
+            "dimension": 34.5933014354067,
+            "children": [
+              {
+                "id": "7abcb8972baaed4d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian embeds.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "9d1767dbb6c4ba74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "break glass.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -173,12 +137,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "plesmasquerade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -187,6 +151,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa0f3e910050164c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -211,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-12.md",
+                "file": "2021-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,8 +200,53 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-12.md"
+                "file": "2021-06-13.md"
               }
+            }
+          },
+          {
+            "id": "eaa7f99b4cf5444a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "49a0eb72df05c98e",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9852b3b70c9ace3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82168a0acbacba",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "297c54846b597552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35550c211233c6a5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ]
@@ -239,17 +256,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1abc628cc33ef125",
+  "active": "0bab2a8f16a1d490",
   "lastOpenFiles": [
+    "2021-06-13.md",
+    "aaaaarg.md",
+    "gyuri lajos.md",
+    "hyperknowledge.md",
     "2021-06-12.md",
-    "2021-06-10.md",
-    "web share.md",
-    "disable power saving.md",
-    "2021-06-11.md",
-    "flecha derecha.md",
-    "rode podmic.md",
-    "honest signals.md",
-    "pattern languages of programs.md",
-    "architectural pattern.md"
+    "weaving a decentralized semantic web of personal knowledge.md",
+    "agora fediverse integration.md",
+    "wikinizer.md",
+    "2021-06-09.md",
+    "building augmented knowledge architectures.md"
   ]
 }
