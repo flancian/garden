@@ -1,6 +1,6 @@
 # Logseq
 
- - A [[project]] 
+ - a [[tool]] 
   - [[pkm]], [[roam like]] (but didn't set out to be a clone)
   - [[twitter]]: https://twitter.com/logseq
  - [[go]] https://logseq.com.
