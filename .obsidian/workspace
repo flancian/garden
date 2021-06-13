@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "06729e6c51fcc274",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,11 +34,23 @@
           {
             "id": "e25d3e333614171b",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 8.333333333333336,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyperknowledge.md",
+                "file": "2021-06-13.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "36343618ec67f9b1",
+            "type": "leaf",
+            "dimension": 8.333333333333336,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rusp.md",
                 "mode": "source"
               }
             }
@@ -46,7 +58,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "052ae04af14c47b1",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-13.md",
+                "file": "rusp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-13.md"
+                "file": "rusp.md"
               }
             }
           },
@@ -244,17 +256,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c3e63745fbefd6f",
+  "active": "36343618ec67f9b1",
   "lastOpenFiles": [
+    "rusp.md",
     "2021-06-13.md",
+    "hyperknowledge.md",
     "Untitled 4.md",
     "logseq.md",
     "tienson qin.md",
     "inside.md",
     "twitter api.md",
     "paradox of tolerance.md",
-    "do.md",
-    "2021-06-12.md",
-    "aaaaarg.md"
+    "do.md"
   ]
 }
