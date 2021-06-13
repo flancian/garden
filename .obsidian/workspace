@@ -10,7 +10,7 @@
           {
             "id": "0bab2a8f16a1d490",
             "type": "leaf",
-            "dimension": 11.157601115760112,
+            "dimension": 11.816838995568684,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 11.157601115760112,
+            "dimension": 5.908419497784342,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "06729e6c51fcc274",
             "type": "leaf",
-            "dimension": 20.502092050209203,
+            "dimension": 21.713441654357453,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "e25d3e333614171b",
             "type": "leaf",
-            "dimension": 11.157601115760112,
+            "dimension": 11.816838995568684,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "b7b8a1f5a0af6991",
             "type": "leaf",
-            "dimension": 11.157601115760112,
+            "dimension": 11.816838995568684,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "052ae04af14c47b1",
             "type": "leaf",
-            "dimension": 11.157601115760112,
+            "dimension": 11.816838995568684,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 23.70990237099024,
+            "dimension": 25.110782865583456,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logseq.md",
+                "file": "2021-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logseq.md"
+                "file": "2021-06-13.md"
               }
             }
           },
@@ -256,17 +256,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06729e6c51fcc274",
+  "active": "1c3e63745fbefd6f",
   "lastOpenFiles": [
+    "2021-06-13.md",
+    "inside.md",
     "logseq.md",
     "tienson qin.md",
-    "2021-06-13.md",
     "2021-06-12.md",
     "aaaaarg.md",
     "gyuri lajos.md",
     "hyperknowledge.md",
     "weaving a decentralized semantic web of personal knowledge.md",
-    "agora fediverse integration.md",
-    "wikinizer.md"
+    "agora fediverse integration.md"
   ]
 }
