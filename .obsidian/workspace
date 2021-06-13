@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 42.26600985221675,
+            "dimension": 26.795752654590878,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 24.433497536945815,
+            "dimension": 30.980637101811368,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -52,7 +52,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 33.30049261083744,
+            "dimension": 42.22361024359775,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -229,6 +229,7 @@
   "active": "1c3e63745fbefd6f",
   "lastOpenFiles": [
     "do.md",
+    "a. p..md",
     "agora fediverse integration.md",
     "2021-06-13.md",
     "rusp.md",
@@ -236,7 +237,6 @@
     "logseq.md",
     "hyperknowledge.md",
     "Untitled 4.md",
-    "tienson qin.md",
-    "inside.md"
+    "tienson qin.md"
   ]
 }

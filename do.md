@@ -36,12 +36,12 @@
 		- I try to automate recurrent [[actions]] in the [[agora]].
 		- This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
 		- [[daily]], I try to check for pending [[work]] in all known sources of truth.
-		- [[pull]] [[todo]]
-			- [ ] clean up items there and pushes, moving closer to a [[context]].
-	- [[weekly]], check the context in more specific actions and push relevant items here or to [[next action]]:
-		- what should I [[read]] next?
+		- check the context in more specific actions and push relevant items here or to [[next action]]:
+		- what should I [[read]] next
 		- [[write]]
-			- [[book]]
+			- [[flancia]]
+				- [[book]]
+				- [[an open letter for an open society]]
 			- to [[a. p.]] asking for a recommendation
 		- [[unblock]] people who are waiting for me
 			- [[answer]]
