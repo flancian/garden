@@ -22,11 +22,23 @@
           {
             "id": "434bd4c7c42b00d5",
             "type": "leaf",
-            "dimension": 25.36945812807882,
+            "dimension": 12.68472906403941,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ack.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "93063ea8776ee9f8",
+            "type": "leaf",
+            "dimension": 12.68472906403941,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "receive.md",
                 "mode": "source"
               }
             }
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ack.md",
+                "file": "receive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ack.md"
+                "file": "receive.md"
               }
             }
           },
@@ -238,8 +250,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "434bd4c7c42b00d5",
+  "active": "93063ea8776ee9f8",
   "lastOpenFiles": [
+    "receive.md",
     "ack.md",
     "do.md",
     "pomodoro.md",
@@ -248,7 +261,6 @@
     "2021-06-13.md",
     "rusp.md",
     "orgzly.md",
-    "logseq.md",
-    "hyperknowledge.md"
+    "logseq.md"
   ]
 }
