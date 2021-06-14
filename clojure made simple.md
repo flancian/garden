@@ -1,0 +1,4 @@
+- a [[talk]]
+	- by [[rick hickey]]
+	- about [[clojure]]
+	- [[go]] https://www.youtube.com/watch?v=VSdnJDO-xdg

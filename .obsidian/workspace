@@ -10,11 +10,23 @@
           {
             "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 12.5,
+            "dimension": 6.25,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-14.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e2ece87a328b0aaa",
+            "type": "leaf",
+            "dimension": 6.25,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clojure made simple.md",
                 "mode": "source"
               }
             }
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fire.md",
+                "file": "clojure made simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fire.md"
+                "file": "clojure made simple.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "acdb3c8286909550",
+  "active": "e2ece87a328b0aaa",
   "lastOpenFiles": [
-    "fire.md",
+    "clojure made simple.md",
     "2021-06-14.md",
+    "fire.md",
     "standards positions.md",
     "agora fediverse integration.md",
     "agora mediawiki integration.md",
     "2021-06-09.md",
     "an analysis of the role of invariant patterns.md",
     "2021-06-12.md",
-    "slow focus.md",
-    "file system access api.md"
+    "slow focus.md"
   ]
 }
