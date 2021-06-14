@@ -1,3 +1,4 @@
 - a [[list]]
 	- [[mozilla]]
-		- [[go]] https://github.com/mozilla/standards-positions
+	    - [[go]] https://mozilla.github.io/standards-positions/
+		- [[git]] https://github.com/mozilla/standards-positions
