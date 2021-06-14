@@ -8,33 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "7079d00b3a2eb6be",
+            "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 9.09090909090909,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-09.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a9def0a98c1f2c8e",
-            "type": "leaf",
-            "dimension": 9.09090909090909,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "architectural pattern.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "1abc628cc33ef125",
-            "type": "leaf",
-            "dimension": 4.545454545454545,
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,87 +20,9 @@
             }
           },
           {
-            "id": "e0d9f669f6d19a83",
-            "type": "leaf",
-            "dimension": 1.1363636363636362,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-12.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "4eaa26c8f16d08a6",
-            "type": "leaf",
-            "dimension": 0.5681818181818181,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-12.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "6f4a0295c4d9bb3a",
-            "type": "leaf",
-            "dimension": 0.5681818181818181,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "815f6803dbd653db",
-            "type": "leaf",
-            "dimension": 2.2727272727272725,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "305566bbcea2ba31",
-            "type": "leaf",
-            "dimension": 18.18181818181818,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "patterns.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "09b9c7136dcedcbf",
-            "type": "leaf",
-            "dimension": 18.18181818181818,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "an analysis of the role of invariant patterns.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "85fcfb3a901a6ab1",
-            "type": "leaf",
-            "dimension": 18.18181818181818,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora fediverse integration.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "0dd202a162337858",
             "type": "leaf",
-            "dimension": 18.18181818181818,
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
@@ -227,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1abc628cc33ef125",
+  "active": "85fcfb3a901a6ab1",
   "lastOpenFiles": [
     "2021-06-14.md",
+    "agora fediverse integration.md",
+    "agora mediawiki integration.md",
+    "2021-06-09.md",
+    "an analysis of the role of invariant patterns.md",
+    "2021-06-12.md",
     "slow focus.md",
     "file system access api.md",
     "kepta.md",
-    "bangle.md",
-    "2021-05-07.md",
-    "2021-06-12.md",
-    "2021-06-10.md",
-    "web share.md",
-    "disable power saving.md"
+    "bangle.md"
   ]
 }
