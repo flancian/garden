@@ -10,11 +10,23 @@
           {
             "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 25,
+            "dimension": 12.5,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-14.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "acdb3c8286909550",
+            "type": "leaf",
+            "dimension": 12.5,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fire.md",
                 "mode": "source"
               }
             }
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "standards positions.md",
+                "file": "fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "standards positions.md"
+                "file": "fire.md"
               }
             }
           }
@@ -137,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2bc4ad6b6ae953a",
+  "active": "acdb3c8286909550",
   "lastOpenFiles": [
-    "standards positions.md",
+    "fire.md",
     "2021-06-14.md",
+    "standards positions.md",
     "agora fediverse integration.md",
     "agora mediawiki integration.md",
     "2021-06-09.md",
     "an analysis of the role of invariant patterns.md",
     "2021-06-12.md",
     "slow focus.md",
-    "file system access api.md",
-    "kepta.md"
+    "file system access api.md"
   ]
 }
