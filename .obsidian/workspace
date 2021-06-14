@@ -10,11 +10,23 @@
           {
             "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 50,
+            "dimension": 25,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-14.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b2bc4ad6b6ae953a",
+            "type": "leaf",
+            "dimension": 25,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "standards positions.md",
                 "mode": "source"
               }
             }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-14.md",
+                "file": "standards positions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-14.md"
+                "file": "standards positions.md"
               }
             }
           }
@@ -125,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85fcfb3a901a6ab1",
+  "active": "b2bc4ad6b6ae953a",
   "lastOpenFiles": [
+    "standards positions.md",
     "2021-06-14.md",
     "agora fediverse integration.md",
     "agora mediawiki integration.md",
@@ -135,7 +148,6 @@
     "2021-06-12.md",
     "slow focus.md",
     "file system access api.md",
-    "kepta.md",
-    "bangle.md"
+    "kepta.md"
   ]
 }
