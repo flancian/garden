@@ -1,5 +1,4 @@
-# Slow Focus
-
-- a [[station]] in [[nts]]
+- a [[mixtape]]
+	- from [[nts]]
 	- [[go]] https://www.nts.live/infinite-mixtapes/slow-focus
 
