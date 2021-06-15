@@ -1,0 +1,3 @@
+- a [[function]]
+	- [[wp]] https://en.wikipedia.org/wiki/Weierstrass_function
+		- [[go]] [[wp]]

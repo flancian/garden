@@ -34,11 +34,23 @@
           {
             "id": "81947fe854c7e313",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 7.142857142857142,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-15.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f5df3846a839a227",
+            "type": "leaf",
+            "dimension": 7.142857142857142,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dirichlet function.md",
                 "mode": "source"
               }
             }
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-15.md",
+                "file": "dirichlet function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-15.md"
+                "file": "dirichlet function.md"
               }
             }
           },
@@ -274,17 +286,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81947fe854c7e313",
+  "active": "f5df3846a839a227",
   "lastOpenFiles": [
+    "dirichlet function.md",
     "2021-06-15.md",
+    "weierstrass function.md",
     "ryan faulhaber.md",
     "ryan.md",
     "2021-06-13.md",
     "ack.md",
     "do.md",
     "receive.md",
-    "transcluded.md",
-    "pomodoro.md",
-    "a. p..md"
+    "transcluded.md"
   ]
 }
