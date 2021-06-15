@@ -1,0 +1,3 @@
+- a [[function]]
+	- [[pathological]]
+	- 1 for rational numbers, 0 otherwise

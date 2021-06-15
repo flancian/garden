@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 15.384615384615387,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,19 +22,7 @@
           {
             "id": "434bd4c7c42b00d5",
             "type": "leaf",
-            "dimension": 14.285714285714285,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-13.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "81947fe854c7e313",
-            "type": "leaf",
-            "dimension": 7.142857142857142,
+            "dimension": 15.384615384615387,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,13 +32,13 @@
             }
           },
           {
-            "id": "f5df3846a839a227",
+            "id": "81947fe854c7e313",
             "type": "leaf",
-            "dimension": 7.142857142857142,
+            "dimension": 7.692307692307693,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dirichlet function.md",
+                "file": "2021-06-15.md",
                 "mode": "source"
               }
             }
@@ -58,7 +46,7 @@
           {
             "id": "89a7352a0395d613",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 15.384615384615387,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 14.285714285714285,
+            "dimension": 15.384615384615387,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +70,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 14.285714285714285,
+            "dimension": 15.384615384615387,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -112,7 +100,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 14.285714285714285,
+            "dimension": 15.384615384615387,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -213,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dirichlet function.md",
+                "file": "2021-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dirichlet function.md"
+                "file": "2021-06-15.md"
               }
             }
           },
@@ -286,14 +274,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5df3846a839a227",
+  "active": "434bd4c7c42b00d5",
   "lastOpenFiles": [
-    "dirichlet function.md",
     "2021-06-15.md",
+    "2021-06-13.md",
+    "dirichlet function.md",
     "weierstrass function.md",
     "ryan faulhaber.md",
     "ryan.md",
-    "2021-06-13.md",
     "ack.md",
     "do.md",
     "receive.md",
