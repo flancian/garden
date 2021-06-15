@@ -1,1 +1,4 @@
-- a [[f]]
+- a [[function]]
+	- [[pull]] [[popcorn function]] [[stars over babylon]] [[modified dirichlet function]]
+	- [[wp]] https://en.wikipedia.org/wiki/Thomae's_function
+		- [[go]] [[wp]]
