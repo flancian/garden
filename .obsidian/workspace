@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ryan faulhaber.md",
+                "file": "2021-06-16.md",
                 "mode": "source"
               }
             }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-15.md",
+                "file": "2021-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-15.md"
+                "file": "2021-06-16.md"
               }
             }
           },
@@ -274,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "434bd4c7c42b00d5",
+  "active": "89a7352a0395d613",
   "lastOpenFiles": [
+    "2021-06-16.md",
+    "ryan faulhaber.md",
     "2021-06-15.md",
     "thomae's function.md",
     "cantor function.md",
     "2021-06-13.md",
     "dirichlet function.md",
     "weierstrass function.md",
-    "ryan faulhaber.md",
     "ryan.md",
-    "ack.md",
-    "do.md"
+    "ack.md"
   ]
 }
