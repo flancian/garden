@@ -1,0 +1,4 @@
+- a [[function]]
+	- [[continuous]] but not [[absolutely continuou]]
+	- [[wp]] https://en.wikipedia.org/wiki/Cantor_function
+		- [[go]] [[wp]]
