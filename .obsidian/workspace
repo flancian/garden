@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 20,
+            "dimension": 21.04208416833667,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "89a7352a0395d613",
             "type": "leaf",
-            "dimension": 10,
+            "dimension": 10.541082164328659,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "511386288550f440",
             "type": "leaf",
-            "dimension": 10,
+            "dimension": 32.02404809619239,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 20,
+            "dimension": 8.016032064128256,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 20,
+            "dimension": 8.016032064128256,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -88,7 +88,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 20,
+            "dimension": 20.360721442885772,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -265,6 +265,7 @@
   "active": "511386288550f440",
   "lastOpenFiles": [
     "sutty.md",
+    "facttic.md",
     "2021-06-16.md",
     "2021-06-15.md",
     "ryan faulhaber.md",
@@ -272,7 +273,6 @@
     "cantor function.md",
     "2021-06-13.md",
     "dirichlet function.md",
-    "weierstrass function.md",
-    "ryan.md"
+    "weierstrass function.md"
   ]
 }
