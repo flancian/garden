@@ -4,4 +4,4 @@
 	- [[fauno]]
 	
 ## [[2021-06-16]]
-- meeting: [[fauno]]
+- meeting: [[fauno]], ...
