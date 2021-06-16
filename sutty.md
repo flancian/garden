@@ -33,3 +33,8 @@
 			- dominios customizados
 		- ahora mismo por defecto soporta subdoinios de sutty.nl
 	- [[replicación]] entre sitios alineados
+		- [[fedwiki]]
+		- [[agora]]
+	- en qué los podemos ayudar?
+		- 
+	
