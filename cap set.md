@@ -1,0 +1,4 @@
+- a [[set]]
+	- [[wp]] https://en.wikipedia.org/wikip/Cap_Set
+		- [[go]] [[wp]]
+	- related to the game [[set]], which I played two weeks ago
