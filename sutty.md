@@ -18,8 +18,8 @@
 			- plugins de jekyll
 			- [[sutty]] es como un panel de control para jekyll y un ecosistema de plugins con la intención de 
 			- [[q]]
-				- [[fission]]?
 				- [[github pages]]?
+				- [[fission]]?
 				- [[fediverse]] <-> traditional social media
 				- [[indieweb]]
 	- [[elio]]
