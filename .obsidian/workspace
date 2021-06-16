@@ -34,11 +34,23 @@
           {
             "id": "b2bc4ad6b6ae953a",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 8.333333333333334,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e7058a609930242d",
+            "type": "leaf",
+            "dimension": 8.333333333333334,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "b..md",
                 "mode": "source"
               }
             }
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora mediawiki integration.md",
+                "file": "b..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora mediawiki integration.md"
+                "file": "b..md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dd202a162337858",
+  "active": "e7058a609930242d",
   "lastOpenFiles": [
-    "agora mediawiki integration.md",
+    "b..md",
     "2021-06-16.md",
+    "agora mediawiki integration.md",
     "orellano.md",
     "fire.md",
     "cap set.md",
     "standards positions.md",
     "clojure made simple.md",
     "2021-06-14.md",
-    "agora fediverse integration.md",
-    "2021-06-09.md"
+    "agora fediverse integration.md"
   ]
 }
