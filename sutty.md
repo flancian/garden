@@ -17,5 +17,6 @@
 			- sitios estáticos
 			- sostiene costos de impresión (libros)
 			- plugins de jekyll
+			- [[sutty]] es como un panel de control para jekyll y un ecosistema de plugins
 	- sutty arrancó el proceso legal de la cooperativa
 		- unidos a [[facttic]]
