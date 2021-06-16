@@ -22,6 +22,7 @@
 				- [[fission]]?
 				- [[fediverse]] <-> traditional social media
 				- [[indieweb]]
+					- [[webmentions]]
 	- [[elio]]
 		- el sitio propio como la alternativa más diversa a las redes monolíticas y al fediverse the no termina de arrancar
 			- democratización y vertiente cooperativa
