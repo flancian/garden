@@ -5,7 +5,6 @@
 	
 ## [[2021-06-16]]
 - meeting: [[fauno]], [[elio]]
-	- [[elio]]
 	- [[fauno]] / [[f]]
 		- antes precarizado en el estado
 		- freelancing
@@ -17,6 +16,11 @@
 			- sitios estáticos
 			- sostiene costos de impresión (libros)
 			- plugins de jekyll
-			- [[sutty]] es como un panel de control para jekyll y un ecosistema de plugins
+			- [[sutty]] es como un panel de control para jekyll y un ecosistema de plugins con la intención de 
+			- [[q]]
+				- [[fission]]?
+				- [[github pages]]?
+	- [[elio]]
+		- se trata también 
 	- sutty arrancó el proceso legal de la cooperativa
 		- unidos a [[facttic]]
