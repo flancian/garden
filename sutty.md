@@ -14,5 +14,8 @@
 		- trabajaron juntos antes en [[kefir]]
 			- no resultó sostenible
 		- [[sutty]] como alternativa a wordpress (compleja para desarrollo y mantenimiento)
+			- sitios estáticos
+			- sostiene costos de impresión (libros)
+			- plugins de jekyll
 	- sutty arrancó el proceso legal de la cooperativa
 		- unidos a [[facttic]]
