@@ -20,7 +20,8 @@
 			- [[q]]
 				- [[fission]]?
 				- [[github pages]]?
+				- [[fediverse]] <-> traditional social media
 	- [[elio]]
-		- se trata también 
+		- se 
 	- sutty arrancó el proceso legal de la cooperativa
 		- unidos a [[facttic]]
