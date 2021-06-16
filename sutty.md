@@ -29,4 +29,5 @@
 		- unidos a [[facttic]]
 		- les gustaría dedicar tiempo a:
 			- soportar nuevas plantillas
-			- dominios cut
+			- dominios customizados
+		- ahora mismo por defecto soporta subdoinios de sutty.nl
