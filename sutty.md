@@ -10,5 +10,7 @@
 		- antes precarizado en el estado
 		- freelancing
 		- ahora cooperativista
+		- experiencia: [[ruby on rails]]
+		- trabajaron juntos antes en [[kefir]]
 	- sutty arrancó el proceso legal de la cooperativa
 		- unidos a [[facttic]]
