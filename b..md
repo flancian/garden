@@ -1,0 +1,1 @@
+- le está yendo bien con el nuevo (viejo) medicamento
