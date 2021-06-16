@@ -10,7 +10,7 @@
           {
             "id": "85fcfb3a901a6ab1",
             "type": "leaf",
-            "dimension": 7.142857142857143,
+            "dimension": 8.333333333333334,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "e2ece87a328b0aaa",
             "type": "leaf",
-            "dimension": 7.142857142857143,
+            "dimension": 8.333333333333334,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,21 +32,9 @@
             }
           },
           {
-            "id": "acdb3c8286909550",
-            "type": "leaf",
-            "dimension": 14.285714285714286,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fire.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "b2bc4ad6b6ae953a",
             "type": "leaf",
-            "dimension": 14.285714285714286,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +46,7 @@
           {
             "id": "0dd202a162337858",
             "type": "leaf",
-            "dimension": 57.142857142857146,
+            "dimension": 66.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -164,14 +152,14 @@
   "active": "b2bc4ad6b6ae953a",
   "lastOpenFiles": [
     "2021-06-16.md",
+    "orellano.md",
+    "fire.md",
     "cap set.md",
     "standards positions.md",
     "clojure made simple.md",
     "2021-06-14.md",
-    "fire.md",
     "agora fediverse integration.md",
     "agora mediawiki integration.md",
-    "2021-06-09.md",
-    "an analysis of the role of invariant patterns.md"
+    "2021-06-09.md"
   ]
 }
