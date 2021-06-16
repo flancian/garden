@@ -27,3 +27,6 @@
 			- democratización y vertiente cooperativa
 	- sutty arrancó el proceso legal de la cooperativa
 		- unidos a [[facttic]]
+		- les gustaría dedicar tiempo a:
+			- soportar nuevas plantillas
+			- dominios cut
