@@ -6,4 +6,6 @@
 ## [[2021-06-16]]
 - meeting: [[fauno]], [[elio]]
 	- [[elio]]
-		
+	- [[fauno]] / [[f]]
+	- sutty arrancó el proceso legal de la cooperativa
+	
