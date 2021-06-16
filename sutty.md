@@ -32,3 +32,4 @@
 			- soportar nuevas plantillas
 			- dominios customizados
 		- ahora mismo por defecto soporta subdoinios de sutty.nl
+	- [[replicación]] entre sitios alineados
