@@ -24,5 +24,6 @@
 				- [[indieweb]]
 	- [[elio]]
 		- el sitio propio como la alternativa más diversa a las redes monolíticas y al fediverse the no termina de arrancar
+			- democratización y vertiente cooperativa
 	- sutty arrancó el proceso legal de la cooperativa
 		- unidos a [[facttic]]
