@@ -13,6 +13,6 @@
 		- experiencia: [[ruby on rails]]
 		- trabajaron juntos antes en [[kefir]]
 			- no resultó sostenible
-		- 
+		- [[sutty]] como alternativa a wordpress (compleja para desarrollo y mantenimiento)
 	- sutty arrancó el proceso legal de la cooperativa
 		- unidos a [[facttic]]
