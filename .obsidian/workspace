@@ -34,11 +34,23 @@
           {
             "id": "511386288550f440",
             "type": "leaf",
-            "dimension": 32.02404809619239,
+            "dimension": 16.012024048096194,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sutty.md",
+                "file": "2021-06-18.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "bb17d9ab9a567889",
+            "type": "leaf",
+            "dimension": 16.012024048096194,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nixos.md",
                 "mode": "source"
               }
             }
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sutty.md",
+                "file": "nixos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sutty.md"
+                "file": "nixos.md"
               }
             }
           },
@@ -262,8 +274,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "511386288550f440",
+  "active": "bb17d9ab9a567889",
   "lastOpenFiles": [
+    "nixos.md",
+    "2021-06-18.md",
     "sutty.md",
     "facttic.md",
     "2021-06-16.md",
@@ -271,8 +285,6 @@
     "ryan faulhaber.md",
     "thomae's function.md",
     "cantor function.md",
-    "2021-06-13.md",
-    "dirichlet function.md",
-    "weierstrass function.md"
+    "2021-06-13.md"
   ]
 }
