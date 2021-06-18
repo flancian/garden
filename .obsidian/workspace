@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nixos.md",
+                "file": "2021-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nixos.md"
+                "file": "2021-06-18.md"
               }
             }
           },
@@ -274,10 +274,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb17d9ab9a567889",
+  "active": "511386288550f440",
   "lastOpenFiles": [
-    "nixos.md",
     "2021-06-18.md",
+    "nixos.md",
     "sutty.md",
     "facttic.md",
     "2021-06-16.md",
