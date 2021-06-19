@@ -10,47 +10,47 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 9.975062344139651,
+            "dimension": 21.04208416833667,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "do.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "89a7352a0395d613",
+            "type": "leaf",
+            "dimension": 10.541082164328659,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "511386288550f440",
+            "type": "leaf",
+            "dimension": 16.012024048096194,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-18.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "bb17d9ab9a567889",
+            "type": "leaf",
+            "dimension": 16.012024048096194,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-19.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "87661b2b84ea293b",
-            "type": "leaf",
-            "dimension": 15.685785536159603,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-19.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "dabe0f4b38899c78",
-            "type": "leaf",
-            "dimension": 15.685785536159603,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zapier.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "474564d591865cdf",
-            "type": "leaf",
-            "dimension": 9.975062344139651,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "army of love.md",
                 "mode": "source"
               }
             }
@@ -58,7 +58,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 9.975062344139651,
+            "dimension": 8.016032064128256,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 9.975062344139651,
+            "dimension": 8.016032064128256,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -100,7 +100,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 28.728179551122192,
+            "dimension": 20.360721442885772,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zapier.md",
+                "file": "2021-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zapier.md"
+                "file": "2021-06-19.md"
               }
             }
           },
@@ -274,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dabe0f4b38899c78",
+  "active": "bb17d9ab9a567889",
   "lastOpenFiles": [
-    "zapier.md",
     "2021-06-19.md",
-    "dej.md",
-    "army of love.md",
+    "nixos.md",
+    "2021-06-18.md",
     "sutty.md",
-    "2021-06-16.md",
-    "do.md",
     "facttic.md",
+    "2021-06-16.md",
     "2021-06-15.md",
-    "ryan faulhaber.md"
+    "ryan faulhaber.md",
+    "thomae's function.md",
+    "cantor function.md"
   ]
 }
