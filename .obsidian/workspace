@@ -22,11 +22,23 @@
           {
             "id": "87661b2b84ea293b",
             "type": "leaf",
-            "dimension": 31.371571072319206,
+            "dimension": 15.685785536159603,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dej.md",
+                "file": "2021-06-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "dabe0f4b38899c78",
+            "type": "leaf",
+            "dimension": 15.685785536159603,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zapier.md",
                 "mode": "source"
               }
             }
@@ -88,7 +100,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 28.728179551122196,
+            "dimension": 28.728179551122192,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dej.md",
+                "file": "zapier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dej.md"
+                "file": "zapier.md"
               }
             }
           },
@@ -262,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87661b2b84ea293b",
+  "active": "dabe0f4b38899c78",
   "lastOpenFiles": [
-    "dej.md",
+    "zapier.md",
     "2021-06-19.md",
+    "dej.md",
     "army of love.md",
     "sutty.md",
     "2021-06-16.md",
     "do.md",
     "facttic.md",
     "2021-06-15.md",
-    "ryan faulhaber.md",
-    "thomae's function.md"
+    "ryan faulhaber.md"
   ]
 }

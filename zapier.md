@@ -1,0 +1,3 @@
+- a [[platform]]
+	- for web [[automation]] and web [[mashups]]
+	- [[go]] https://zapier.com/
