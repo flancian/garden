@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 10.521042084168336,
+            "dimension": 9.975062344139651,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,9 +20,21 @@
             }
           },
           {
+            "id": "87661b2b84ea293b",
+            "type": "leaf",
+            "dimension": 31.371571072319206,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dej.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "474564d591865cdf",
             "type": "leaf",
-            "dimension": 10.521042084168336,
+            "dimension": 9.975062344139651,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,33 +44,9 @@
             }
           },
           {
-            "id": "89a7352a0395d613",
-            "type": "leaf",
-            "dimension": 10.541082164328659,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-16.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "511386288550f440",
-            "type": "leaf",
-            "dimension": 32.02404809619239,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sutty.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 8.016032064128256,
+            "dimension": 9.975062344139651,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +58,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 8.016032064128256,
+            "dimension": 9.975062344139651,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -100,7 +88,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 20.360721442885772,
+            "dimension": 28.728179551122196,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -201,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "army of love.md",
+                "file": "dej.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "army of love.md"
+                "file": "dej.md"
               }
             }
           },
@@ -274,17 +262,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "474564d591865cdf",
+  "active": "87661b2b84ea293b",
   "lastOpenFiles": [
+    "dej.md",
     "army of love.md",
+    "sutty.md",
+    "2021-06-16.md",
     "2021-06-19.md",
     "do.md",
-    "sutty.md",
     "facttic.md",
-    "2021-06-16.md",
     "2021-06-15.md",
     "ryan faulhaber.md",
-    "thomae's function.md",
-    "cantor function.md"
+    "thomae's function.md"
   ]
 }
