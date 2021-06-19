@@ -8,6 +8,9 @@
 
 ## [[2021-06-19]]
 - [[army of love]]
+	- 4h today, 4h tomorrow
+- check in
+	- [[armengol]]
 
 ## [[2021-06-05]]
 - how to translate between conventions
