@@ -10,11 +10,23 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 21.04208416833667,
+            "dimension": 10.521042084168336,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "do.md",
+                "file": "2021-06-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "474564d591865cdf",
+            "type": "leaf",
+            "dimension": 10.521042084168336,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "army of love.md",
                 "mode": "source"
               }
             }
@@ -34,23 +46,11 @@
           {
             "id": "511386288550f440",
             "type": "leaf",
-            "dimension": 16.012024048096194,
+            "dimension": 32.02404809619239,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-18.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bb17d9ab9a567889",
-            "type": "leaf",
-            "dimension": 16.012024048096194,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nixos.md",
+                "file": "sutty.md",
                 "mode": "source"
               }
             }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-18.md",
+                "file": "army of love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-18.md"
+                "file": "army of love.md"
               }
             }
           },
@@ -274,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "511386288550f440",
+  "active": "474564d591865cdf",
   "lastOpenFiles": [
-    "2021-06-18.md",
-    "nixos.md",
+    "army of love.md",
+    "2021-06-19.md",
+    "do.md",
     "sutty.md",
     "facttic.md",
     "2021-06-16.md",
     "2021-06-15.md",
     "ryan faulhaber.md",
     "thomae's function.md",
-    "cantor function.md",
-    "2021-06-13.md"
+    "cantor function.md"
   ]
 }
