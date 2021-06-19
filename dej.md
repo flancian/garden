@@ -14,6 +14,10 @@
 		- working on documentation for [[pointless]]
 		- doing lots of video editing, learning as we go
 		- in the style of youtube videos / clickbait aesthetic
+	- [[color encodings]]
+		- [[jab]]
+		- [[hccb]]
+		- [[josh ro]]
 	
 
 ## [[2021-06-05]]
