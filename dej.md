@@ -19,6 +19,9 @@
 		- [[hccb]]
 		- [[josh rowell]]
 	- summarizing the intro of [[a pattern language]]
+- [[agora]]
+	- [[agora polls]]
+	- [[python]] vs [[javascript]]
 	
 
 ## [[2021-06-05]]
