@@ -17,7 +17,8 @@
 	- [[color encodings]]
 		- [[jab]]
 		- [[hccb]]
-		- [[josh ro]]
+		- [[josh rowell]]
+	- summarizing the intro of [[a pattern language]]
 	
 
 ## [[2021-06-05]]
