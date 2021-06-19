@@ -12,7 +12,7 @@
 		- 4h today, 4h tomorrow
 	- [[armengol]]
 		- working on documentation for [[pointless]]
-		- doing lots of video editing
+		- doing lots of video editing, learning as we go
 	
 
 ## [[2021-06-05]]
