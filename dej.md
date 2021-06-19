@@ -13,6 +13,7 @@
 	- [[armengol]]
 		- working on documentation for [[pointless]]
 		- doing lots of video editing, learning as we go
+		- in the style of youtube videos / clickbait aesthetic
 	
 
 ## [[2021-06-05]]
