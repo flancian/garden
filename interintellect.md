@@ -10,4 +10,5 @@
 		- [[evaricweicksel]] likes it though, and he seems cool.
 		- [[visakanv]] apparently also likes it.
 		- I don't know if I'm in it -- I joined it early, then never heard about it, and [[Anna Gat]] didn't seem interested in interacting with me at all. Yet I received a ping from a random person on Twitter offering a beta program for members of it (?).
-
+	- My new position:
+		- I dislike it if it's exclusive or profit-oriented, I like it when it's inclusive and diverse -- and that's at least most of the time. So it seems irrational to dislike it overall. I'm going to assume it's a group with 90% of people I like.
