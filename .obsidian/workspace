@@ -8,33 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "1c3e63745fbefd6f",
-            "type": "leaf",
-            "dimension": 7.722007722007722,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-19.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "87661b2b84ea293b",
-            "type": "leaf",
-            "dimension": 7.722007722007722,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-19.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "c4e0255d70830466",
             "type": "leaf",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +22,7 @@
           {
             "id": "b7a43ee57a579145",
             "type": "leaf",
-            "dimension": 15.057915057915059,
+            "dimension": 17.8082191780822,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +34,7 @@
           {
             "id": "0aa34816558b1123",
             "type": "leaf",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +46,7 @@
           {
             "id": "506ed3586dbddd3f",
             "type": "leaf",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +58,7 @@
           {
             "id": "dabe0f4b38899c78",
             "type": "leaf",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +70,7 @@
           {
             "id": "f1a8ab888bcbde94",
             "type": "leaf",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +82,7 @@
           {
             "id": "474564d591865cdf",
             "type": "leaf",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +94,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +106,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -160,7 +136,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 7.722007722007722,
+            "dimension": 9.132420091324203,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -338,10 +314,10 @@
   "lastOpenFiles": [
     "i annotate.md",
     "2021-06-20.md",
+    "2021-06-19.md",
     "telekommunist manifesto.md",
     "botginia.md",
     "josh rowell.md",
-    "2021-06-19.md",
     "daniel schmachtenberger.md",
     "zapier.md",
     "dej.md",
