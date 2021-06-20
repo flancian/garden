@@ -1,2 +1,4 @@
-- [[go]] https://media.telekommunisten.net/manifesto.pdf
-- [[annotate]] https://via.hypothes.is/
+- a [[manifesto]]
+	- [[push]] [[manifestos]]
+	- [[go]] https://media.telekommunisten.net/manifesto.pdf
+	- [[annotate]] https://via.hypothes.is/https://media.telekommunisten.net/manifesto.pdf
