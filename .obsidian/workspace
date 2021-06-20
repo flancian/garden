@@ -10,7 +10,7 @@
           {
             "id": "c4e0255d70830466",
             "type": "leaf",
-            "dimension": 10.025062656641603,
+            "dimension": 10.025062656641602,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "b7a43ee57a579145",
             "type": "leaf",
-            "dimension": 9.774436090225565,
+            "dimension": 9.774436090225564,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "0aa34816558b1123",
             "type": "leaf",
-            "dimension": 10.025062656641603,
+            "dimension": 5.012531328320801,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,9 +44,21 @@
             }
           },
           {
+            "id": "53727a1169ac6fa0",
+            "type": "leaf",
+            "dimension": 5.012531328320801,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wordnik.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "506ed3586dbddd3f",
             "type": "leaf",
-            "dimension": 10.025062656641603,
+            "dimension": 10.025062656641602,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "dabe0f4b38899c78",
             "type": "leaf",
-            "dimension": 10.025062656641603,
+            "dimension": 10.025062656641602,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "f1a8ab888bcbde94",
             "type": "leaf",
-            "dimension": 10.025062656641603,
+            "dimension": 10.025062656641602,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "474564d591865cdf",
             "type": "leaf",
-            "dimension": 10.025062656641603,
+            "dimension": 10.025062656641602,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 10.025062656641603,
+            "dimension": 10.025062656641602,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 10.025062656641603,
+            "dimension": 10.025062656641602,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -136,7 +148,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 10.025062656641603,
+            "dimension": 10.025062656641602,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -237,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-20.md",
+                "file": "wordnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-20.md"
+                "file": "wordnik.md"
               }
             }
           },
@@ -310,8 +322,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7a43ee57a579145",
+  "active": "53727a1169ac6fa0",
   "lastOpenFiles": [
+    "wordnik.md",
     "2021-06-20.md",
     "jekyll wikilinks.md",
     "i annotate.md",
@@ -320,7 +333,6 @@
     "botginia.md",
     "josh rowell.md",
     "daniel schmachtenberger.md",
-    "zapier.md",
-    "dej.md"
+    "zapier.md"
   ]
 }

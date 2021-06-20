@@ -1,0 +1,4 @@
+- a [[stoa]]
+	- [[go]] https://www.wordnik.com/
+	- [[push]] [[do]] 
+		- add wordnik to [[agora search]]
