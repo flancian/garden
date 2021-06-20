@@ -10,7 +10,7 @@
           {
             "id": "c4e0255d70830466",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "b7a43ee57a579145",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "0aa34816558b1123",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "f35beae0a8202ff7",
             "type": "leaf",
-            "dimension": 3.8461538461538463,
+            "dimension": 4.545454545454546,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "f91b69d7bf1360c2",
             "type": "leaf",
-            "dimension": 3.8461538461538463,
+            "dimension": 4.545454545454546,
             "state": {
               "type": "markdown",
               "state": {
@@ -68,33 +68,9 @@
             }
           },
           {
-            "id": "53727a1169ac6fa0",
-            "type": "leaf",
-            "dimension": 7.6923076923076925,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wordnik.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "e85f0d8d62653214",
-            "type": "leaf",
-            "dimension": 7.6923076923076925,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thread viewer.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "506ed3586dbddd3f",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +82,7 @@
           {
             "id": "dabe0f4b38899c78",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +94,7 @@
           {
             "id": "f1a8ab888bcbde94",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +106,7 @@
           {
             "id": "474564d591865cdf",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -142,7 +118,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "state": {
               "type": "markdown",
               "state": {
@@ -154,7 +130,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -184,7 +160,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 7.6923076923076925,
+            "dimension": 9.090909090909092,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -285,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thread viewer.md",
+                "file": "interintellect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thread viewer.md"
+                "file": "interintellect.md"
               }
             }
           },
@@ -358,11 +334,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e85f0d8d62653214",
+  "active": "f91b69d7bf1360c2",
   "lastOpenFiles": [
-    "thread viewer.md",
-    "wordnik.md",
     "interintellect.md",
+    "wordnik.md",
+    "thread viewer.md",
     "2021-06-21.md",
     "dave winer.md",
     "2021-06-20.md",

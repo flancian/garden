@@ -1,3 +1,3 @@
 - an [[app]]
 	- [[doc]] http://this.how/threadviewer/
-	- by [[]]
+	- by [[dave winer]]
