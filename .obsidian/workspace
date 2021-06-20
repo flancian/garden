@@ -10,7 +10,7 @@
           {
             "id": "c4e0255d70830466",
             "type": "leaf",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,11 +22,23 @@
           {
             "id": "b7a43ee57a579145",
             "type": "leaf",
-            "dimension": 17.8082191780822,
+            "dimension": 8.904109589041099,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i annotate.md",
+                "file": "2021-06-20.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "1d1f52ed93a55f25",
+            "type": "leaf",
+            "dimension": 8.904109589041099,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jekyll wikilinks.md",
                 "mode": "source"
               }
             }
@@ -34,7 +46,7 @@
           {
             "id": "0aa34816558b1123",
             "type": "leaf",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +58,7 @@
           {
             "id": "506ed3586dbddd3f",
             "type": "leaf",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "dabe0f4b38899c78",
             "type": "leaf",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "f1a8ab888bcbde94",
             "type": "leaf",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "474564d591865cdf",
             "type": "leaf",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -136,7 +148,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 9.132420091324203,
+            "dimension": 9.132420091324201,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -237,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate.md",
+                "file": "jekyll wikilinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate.md"
+                "file": "jekyll wikilinks.md"
               }
             }
           },
@@ -310,17 +322,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7a43ee57a579145",
+  "active": "1d1f52ed93a55f25",
   "lastOpenFiles": [
-    "i annotate.md",
+    "jekyll wikilinks.md",
     "2021-06-20.md",
+    "i annotate.md",
     "2021-06-19.md",
     "telekommunist manifesto.md",
     "botginia.md",
     "josh rowell.md",
     "daniel schmachtenberger.md",
     "zapier.md",
-    "dej.md",
-    "army of love.md"
+    "dej.md"
   ]
 }
