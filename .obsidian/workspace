@@ -46,23 +46,23 @@
           {
             "id": "f35beae0a8202ff7",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 3.8461538461538463,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dave winer.md",
+                "file": "2021-06-21.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "e85f0d8d62653214",
+            "id": "f91b69d7bf1360c2",
             "type": "leaf",
-            "dimension": 7.6923076923076925,
+            "dimension": 3.8461538461538463,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thread viewer.md",
+                "file": "interintellect.md",
                 "mode": "source"
               }
             }
@@ -75,6 +75,18 @@
               "type": "markdown",
               "state": {
                 "file": "wordnik.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e85f0d8d62653214",
+            "type": "leaf",
+            "dimension": 7.6923076923076925,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thread viewer.md",
                 "mode": "source"
               }
             }
@@ -349,14 +361,14 @@
   "active": "e85f0d8d62653214",
   "lastOpenFiles": [
     "thread viewer.md",
-    "dave winer.md",
+    "wordnik.md",
+    "interintellect.md",
     "2021-06-21.md",
+    "dave winer.md",
     "2021-06-20.md",
     "telekommunist manifesto.md",
-    "wordnik.md",
     "jekyll wikilinks.md",
     "i annotate.md",
-    "2021-06-19.md",
-    "botginia.md"
+    "2021-06-19.md"
   ]
 }
