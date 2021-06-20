@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 9.975062344139651,
+            "dimension": 9.229349330872173,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "87661b2b84ea293b",
             "type": "leaf",
-            "dimension": 7.8428927680798015,
+            "dimension": 9.229349330872173,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,11 +34,23 @@
           {
             "id": "c4e0255d70830466",
             "type": "leaf",
-            "dimension": 7.8428927680798015,
+            "dimension": 9.229349330872173,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "josh rowell.md",
+                "file": "2021-06-20.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0aa34816558b1123",
+            "type": "leaf",
+            "dimension": 16.93585602215044,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "botginia.md",
                 "mode": "source"
               }
             }
@@ -46,7 +58,7 @@
           {
             "id": "dabe0f4b38899c78",
             "type": "leaf",
-            "dimension": 7.8428927680798015,
+            "dimension": 9.229349330872173,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "f1a8ab888bcbde94",
             "type": "leaf",
-            "dimension": 7.8428927680798015,
+            "dimension": 9.229349330872173,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "474564d591865cdf",
             "type": "leaf",
-            "dimension": 9.975062344139651,
+            "dimension": 9.229349330872173,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 9.975062344139651,
+            "dimension": 9.229349330872173,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 9.975062344139651,
+            "dimension": 9.229349330872173,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -124,7 +136,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 28.728179551122192,
+            "dimension": 9.229349330872173,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "josh rowell.md",
+                "file": "botginia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "josh rowell.md"
+                "file": "botginia.md"
               }
             }
           },
@@ -298,17 +310,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4e0255d70830466",
+  "active": "0aa34816558b1123",
   "lastOpenFiles": [
+    "botginia.md",
+    "2021-06-20.md",
     "josh rowell.md",
     "2021-06-19.md",
     "daniel schmachtenberger.md",
-    "2021-06-20.md",
     "zapier.md",
     "dej.md",
     "army of love.md",
     "sutty.md",
-    "2021-06-16.md",
-    "do.md"
+    "2021-06-16.md"
   ]
 }
