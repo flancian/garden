@@ -1,2 +1,4 @@
 - a [[ruby gem]]
-	- adds wi
+	- adds wikilinks support to [[jekyll]] sites, plus graphing
+	- [[git]] https://github.com/manunamz/jekyll-wikilinks
+		- [[go]] [[git]]
