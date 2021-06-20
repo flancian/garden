@@ -1,1 +1,3 @@
-- a [[phi]]
+- a [[person]]
+	- [[philosopher]]
+	- [[go]] 
