@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interintellect.md",
+                "file": "2021-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interintellect.md"
+                "file": "2021-06-20.md"
               }
             }
           },
@@ -322,10 +322,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0aa34816558b1123",
+  "active": "dabe0f4b38899c78",
   "lastOpenFiles": [
-    "interintellect.md",
     "2021-06-20.md",
+    "interintellect.md",
     "2021-06-21.md",
     "wordnik.md",
     "thread viewer.md",
