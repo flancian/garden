@@ -22,11 +22,23 @@
           {
             "id": "87661b2b84ea293b",
             "type": "leaf",
-            "dimension": 15.685785536159603,
+            "dimension": 7.8428927680798015,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-19.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c4e0255d70830466",
+            "type": "leaf",
+            "dimension": 7.8428927680798015,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "josh rowell.md",
                 "mode": "source"
               }
             }
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daniel schmachtenberger.md",
+                "file": "josh rowell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daniel schmachtenberger.md"
+                "file": "josh rowell.md"
               }
             }
           },
@@ -286,17 +298,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f1a8ab888bcbde94",
+  "active": "c4e0255d70830466",
   "lastOpenFiles": [
+    "josh rowell.md",
+    "2021-06-19.md",
     "daniel schmachtenberger.md",
     "2021-06-20.md",
     "zapier.md",
-    "2021-06-19.md",
     "dej.md",
     "army of love.md",
     "sutty.md",
     "2021-06-16.md",
-    "do.md",
-    "facttic.md"
+    "do.md"
   ]
 }
