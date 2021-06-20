@@ -1,3 +1,3 @@
 - a [[person]]
 	- [[go]] https://www.joshrowell.co.uk/
-	- [[self]] https://www.joshrowell.co.uk/painting-language?pgid=jqa73cn6-4a6218e0-c116-4304-a43e-539be3b744c9
+	- [[painting language]] https://www.joshrowell.co.uk/painting-language
