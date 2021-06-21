@@ -10,7 +10,7 @@
           {
             "id": "b7a43ee57a579145",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "0aa34816558b1123",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "7f91225d88f365a4",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "cc1dd345e6f41e2c",
             "type": "leaf",
-            "dimension": 4.870251974426474,
+            "dimension": 5.119588851551691,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,18 +56,9 @@
             }
           },
           {
-            "id": "2f92fa230593b061",
-            "type": "leaf",
-            "dimension": 4.870251974426474,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "f35beae0a8202ff7",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -79,7 +70,7 @@
           {
             "id": "f91b69d7bf1360c2",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -91,7 +82,7 @@
           {
             "id": "506ed3586dbddd3f",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -103,7 +94,7 @@
           {
             "id": "dabe0f4b38899c78",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -115,7 +106,7 @@
           {
             "id": "f1a8ab888bcbde94",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -127,7 +118,7 @@
           {
             "id": "474564d591865cdf",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -139,7 +130,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "state": {
               "type": "markdown",
               "state": {
@@ -151,7 +142,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -181,7 +172,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 7.521624670928919,
+            "dimension": 7.9067009290373615,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -352,7 +343,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f92fa230593b061",
+  "active": "cc1dd345e6f41e2c",
   "lastOpenFiles": [
     "go.md",
     "the chemical nature of morphogenesis.md",
