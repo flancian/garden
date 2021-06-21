@@ -151,3 +151,9 @@ citation mangers tend to be Zotero, Mendeley, and, when I've worked at instituti
 	- disabled her comments because of abuse
 	- then people started leaving hypothes.is annotations, she was displeased with that
 	- [[chris aldrich]] https://indieweb.org/annotation#Criticism
+	- [[flancian]]
+	- IMHO because there's no one size fits all, this implies that the moderation layer should be separate from the data/interlay layer
+
+essentially communities should run their own moderation layer
+
+as a commons 
