@@ -100,8 +100,12 @@ Activity: we annotate [[the left hand of darkness]]. But first Q&A.
 	- (I wonder if [[ipfs]] or even [[fission]] could be a good fit for this)
 - [[q]] what if you had a button to save annotation .png files to the [[internet archive]]?
 	- (sounds great to me)
-	- would be great, is a matter of funding + time + working through the standards that the library of congress holds for [[pii]]
-	- the server really would host just a very lightweight json file essentially. the architecture is sound.
+	- [[jaime mears]]
+		- would be great, is a matter of funding + time + working through the standards that the library of congress holds for [[pii]]
+		- the server really would host just a very lightweight json file essentially. the architecture is sound.
 - [[q]] how to get involved?
-	- they would love it if people got involved
-	- it's all in github
+	- [[jaime mears]]
+		- they would love it if people got involved
+		- it's all in github
+		- reach out!
+		- twitter: https://twitter.com/LCLabs
