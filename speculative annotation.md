@@ -52,3 +52,8 @@ Demo:
 
 ![[Pasted image 20210621182336.png]]
 
+Everything is saved in the browser. There's no server.
+
+![[Pasted image 20210621182425.png]]:w
+
+
