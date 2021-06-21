@@ -70,11 +70,23 @@
           {
             "id": "7ba3cd9f7485f9b9",
             "type": "leaf",
-            "dimension": 1.2798972128879225,
+            "dimension": 0.6399486064439612,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "agora.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "5dcd7d26218128aa",
+            "type": "leaf",
+            "dimension": 0.6399486064439612,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora editor.md",
                 "mode": "source"
               }
             }
@@ -297,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora.md",
+                "file": "agora editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora.md"
+                "file": "agora editor.md"
               }
             }
           },
@@ -370,8 +382,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ba3cd9f7485f9b9",
+  "active": "5dcd7d26218128aa",
   "lastOpenFiles": [
+    "agora editor.md",
     "agora.md",
     "wikilinks.md",
     "2021-06-21.md",
@@ -380,7 +393,6 @@
     "red house eviction defense.md",
     "agora slides.md",
     "interintellect.md",
-    "2021-06-20.md",
-    "wordnik.md"
+    "2021-06-20.md"
   ]
 }
