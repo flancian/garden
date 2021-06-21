@@ -38,5 +38,11 @@ Creation-driven prompts.
 
 "making things visible: annotation and digital pedagogy"
 
+![[Pasted image 20210621192126.png]]
+
+It's an opportunity to have a conversation. It carries some [[risks]].
+
+Social annotation is [[thinking publicly]].
+
 
 ## [[paul schacht]]
