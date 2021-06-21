@@ -1,3 +1,4 @@
 - a [[coalition]]
 	- [[go]] slac-coalition.org
 	- announced at [[i annotate 2021]]
+	- [[mail]] join@slac-coal

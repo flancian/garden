@@ -1,3 +1,5 @@
 - [[i annotate]]
 	- [[2021-06-21]]
-- "social learning across content"
+- a [[talk]]
+	- by [[cou]]"social learning across content"
+- 
