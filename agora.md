@@ -17,15 +17,16 @@
   - In a nutshell: you need to put your content, which can be plain text or [[markdown]] if you're into that sort of thing, somewhere online. https://github.com and https://gitlab.com both work fine for this. This amounts to publishing a [[blog]] or [[digital garden]] online. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
   - The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know. Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account. If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016). If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
  
-The following section works as an example of the [[agora protocol]].
+The following section works as an example of the optional [[agora protocol]].
+
 - an [[agora]].
-  - [[push]] [[agoras]]
-  - [[git]] https://github.com/flancian/agora
-    - [[go]] [[git]]
-  - [[server]] https://github.com/flancian/agora-server
-  - [[bridge]] https://github.com/flancian/agora-bridge
-  - [[bugs]] https://github.com/flancian/agora/issues
-  - [[bug]] https://github.com/flancian/agora/issues/new
-  - [[push]] [[schelling points]]
-    - This [[agora]] tries to be a [[schelling point]].
-  - [[pull]] [[agora editor]]
+	- [[push]] [[agoras]]
+	- [[git]] https://github.com/flancian/agora
+		- #go [[git]]
+	- [[server]] https://github.com/flancian/agora-server
+	- [[bridge]] https://github.com/flancian/agora-bridge
+	- [[bugs]] https://github.com/flancian/agora/issues
+	- [[bug]] https://github.com/flancian/agora/issues/new
+- a [[agora]] tries to be a [[schelling point]].
+		- [[push]] [[schelling points]]
+	- [[pull]] [[agora editor]]
