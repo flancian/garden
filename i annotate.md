@@ -6,7 +6,10 @@
 			- there will be an [[agora]] lightning talk on Tuesday
 		- [[2021-06-21]]
 			- [[keynote]]
-				- [[dan whaley]]
+				- [[dan whaley]] kicks off
+					- [[retrospective]] 
+						- 2013
+						- 600 attendees (!)
 				- [[speculative annotation]]
 	- [[tickets]] https://ti.to/hypothesis/ianno2021/en-GB
 
