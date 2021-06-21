@@ -147,7 +147,7 @@ What's your favourite annotation tool?
 @Flancian, I see your question in the Q&A and may not have a chance to respond out loud. I'll typically put citation managers, note-taking tools (e.g. Evernote, Notion, OneNote) in the toolkit
 citation mangers tend to be Zotero, Mendeley, and, when I've worked at institutions with librarians that support it, RefWorks and EndNote
 ```
-- [[paul schacht]] adrie waters (sp?) piece objecting on the fact that people were writing [[hypothes.is]] comments on their blog
+- [[paul schacht]] [[audrey waters]]'s piece objecting on the fact that people were writing [[hypothes.is]] comments on their blog
 	- disabled her comments because of abuse
 	- then people started leaving hypothes.is annotations, she was displeased with that
-	- https://indieweb.org/annotation#Criticism
+	- [[chris aldrich]] https://indieweb.org/annotation#Criticism
