@@ -110,6 +110,6 @@ Activity: we annotate [[the left hand of darkness]]. But first Q&A.
 		- reach out! https://labs.loc.gov
 		- twitter: ?
 			- said https://twitter.com/LCLabs in chat but it doesn't look like it
-			
-Now we [[annotate]] :)
+- Now we annotate :)
+	- [[annotate]] https://via.hypothes.is/https://www.penguin.com/ajax/books/excerpt/9780441007318
 
