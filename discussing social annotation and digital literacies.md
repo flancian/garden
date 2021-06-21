@@ -52,5 +52,6 @@ Why to annotate? "It's an [[act of love]] because of one's commitment to stay in
 
 ![[Pasted image 20210621192359.png]]
 
+Risks: ![[Pasted image 20210621192811.png]]
 
 ## [[paul schacht]]
