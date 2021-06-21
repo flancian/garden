@@ -1,5 +1,5 @@
 - [[i annotate]]
 	- [[2021-06-21]]
 - a [[talk]]
-	- by [[cou]]"social learning across content"
-- 
+	- [[social learning across content]]
+	- by [[courtney mcclellan]]
