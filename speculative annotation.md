@@ -81,6 +81,6 @@ No social support:
 
 Except #AnnotateLOC (could be aggregated in the [[agora]]?).
 
-[[rosenwald manuscript]]:
+The [[rosenwald manuscript]] annotated:
 
-![[Pasted image 20210621183359.png]]
+![[Pasted image 20210621183412.png]]
