@@ -1,19 +1,18 @@
 # Agora Actions
 
-- a [[project]]
+- an [[agora feature]]
   - The Agora can trigger actions in the context of a node when said node includes a block with a [[wikilink]] representing an [[intention]] to execute an [[intent]]. Those intents include [[actions]]. 
   - If you tell an [[agora]] where your data is, and what you want to do with it, it'll will do it for you if it can. If it can't, it'll keep a record of the request and fulfill it once it's tractabl
 - a [[list]].
-	- Actions supported by <https://anagora.org>.
-	- [[go]]
+	- of actions supported by <https://anagora.org>.
+	- [[go]], which redirects to a canonical link
 		- [[composite go links]]
-	- [[push]]
-	- [[pull]]
+    - [[pull]], which transcludes a target node or subnode into the current context.
+	- [[push]], which transcludes children 
 	- [[annotate]] (alpha)
 	- [[turtle]] (alpha)
 	- [[receive]] (planned)
 	
-    - [[pull]], which transcludes a target node or subnode into the current context.
 		  - Pull can be seen as a [[force]].
 		  - If you pull a node by mentioning this action in its vicinity, it gets 'upranked' in the context of the current node. In <https://anagora.org>, that means included. Example follows.
 		  
