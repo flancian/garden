@@ -59,17 +59,6 @@
             }
           },
           {
-            "id": "e61e055b063aa143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "9d824460cfbb9b1e",
             "type": "leaf",
             "state": {
@@ -165,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "the interlace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate 2021.md"
+                "file": "the interlace.md"
               }
             }
           },
@@ -238,17 +227,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc077327f3aa5b4e",
+  "active": "535a68bac392f60f",
   "lastOpenFiles": [
+    "the interlace.md",
+    "frankenbook.md",
+    "hathitrust.md",
     "i annotate 2021.md",
+    "git.md",
     "i annotate.md",
     "2021-06-21.md",
-    "git.md",
     "wiki.md",
     "free annotations.md",
-    "hathitrust.md",
-    "the interlace.md",
-    "aether.md",
-    "hypothesis 101.md"
+    "aether.md"
   ]
 }
