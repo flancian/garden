@@ -60,4 +60,6 @@ Collegiality:
 
 ![[Pasted image 20210621192913.png]] 
 
+(Missed some slides here due to technical problems.)
+
 ## [[paul schacht]]
