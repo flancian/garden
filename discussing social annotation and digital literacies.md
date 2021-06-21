@@ -112,3 +112,11 @@ Debra's comment expresses a knowledge emotion *plus* says what's interesting abo
 [[metacognition]] and [[reflection]]. 
 
 [[paul schacht]] have them look at other people's annotations. Have students rifle through their own past annotations; marks in their books. Try to characterize the marks that they made; think about what they were trying to accomplish
+
+What's your favourite annotation tool?
+
+- [[cherise mcbride]]
+	- private tool / LMS (sp?)
+- [[jenae cohn]]
+	- 
+- [[paul schacht]]
