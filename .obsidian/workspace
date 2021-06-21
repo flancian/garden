@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki.md",
+                "file": "2021-06-21.md",
                 "mode": "source"
               }
             }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki.md",
+                "file": "2021-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki.md"
+                "file": "2021-06-21.md"
               }
             }
           },
@@ -240,8 +240,8 @@
   },
   "active": "e61e055b063aa143",
   "lastOpenFiles": [
-    "wiki.md",
     "2021-06-21.md",
+    "wiki.md",
     "free annotations.md",
     "hathitrust.md",
     "the interlace.md",
