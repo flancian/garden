@@ -55,6 +55,10 @@ Demo:
 
 Everything is saved in the browser. There's no server.
 
-![[Pasted image 20210621182425.png]]:w
+![[Pasted image 20210621182425.png]]
+
+[[codex]] would have liked this one:
+
+![[Pasted image 20210621182802.png]]
 
 
