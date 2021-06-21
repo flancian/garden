@@ -82,11 +82,59 @@
           {
             "id": "5dcd7d26218128aa",
             "type": "leaf",
-            "dimension": 0.6399486064439612,
+            "dimension": 0.3199743032219806,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "agora editor.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f901aa7d90484c08",
+            "type": "leaf",
+            "dimension": 0.1599871516109903,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the agora is a markup convention.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "5c357bcfa61def90",
+            "type": "leaf",
+            "dimension": 0.07999357580549515,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora protocol.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "7698f2b69ed06003",
+            "type": "leaf",
+            "dimension": 0.03999678790274758,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the agora is a markup convention.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "27ab549ca6689853",
+            "type": "leaf",
+            "dimension": 0.03999678790274758,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the agora is a markdown convention.md",
                 "mode": "source"
               }
             }
@@ -309,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora editor.md",
+                "file": "the agora is a markdown convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +374,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora editor.md"
+                "file": "the agora is a markdown convention.md"
               }
             }
           },
@@ -382,17 +430,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dcd7d26218128aa",
+  "active": "27ab549ca6689853",
   "lastOpenFiles": [
+    "the agora is a markdown convention.md",
+    "the agora is a markup convention.md",
+    "agora protocol.md",
     "agora editor.md",
     "agora.md",
     "wikilinks.md",
     "2021-06-21.md",
     "go.md",
     "the chemical nature of morphogenesis.md",
-    "red house eviction defense.md",
-    "agora slides.md",
-    "interintellect.md",
-    "2021-06-20.md"
+    "red house eviction defense.md"
   ]
 }
