@@ -36,6 +36,7 @@ Creation-driven prompts.
 ## [[cherise mcbride]] 
 - [[digital literacy researcher]] [[california state university berkeley]]
 
-"making things visible: annotation an
+"making things visible: annotation and digital pedagogy"
+
 
 ## [[paul schacht]]
