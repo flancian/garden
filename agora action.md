@@ -4,6 +4,6 @@
 - They are a good way to build [[agora integrations]].
   - [[agora go links integration]]
   - [[agora twitter integration]]
-- [[pull]] [[action]]
+- [[pull]] [[action]] [[agora actions]]
 
 
