@@ -1,0 +1,3 @@
+- a [[person]]
+	- [[twitter]] https://twitter.com/jenae_cohn
+	- [[i annotate 2021]]
