@@ -7,4 +7,5 @@
 	- If you use a [[wikilink]] on [[social media]] and follow an [[agora]]'s account, you are expressing an intent to [[interop]].
 	- [[pull]] [[wikilinks everywhere]]
 
+https://twitter.com/flancian/status/1406996383157174272
 https://twitter.com/Dylan_Steck/status/1392914737961357313
