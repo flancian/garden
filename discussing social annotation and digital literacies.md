@@ -1,6 +1,6 @@
 - a [[panel]]
 	- [[i annotate 2021]]
 	- [[nate angell]] introducing
-	- [[mary klann]] moderating
-    - with 
+	- [[mary klann]] with 
 		- [[jenae cohn]] [[paul schacht]]
+		- ten minutes per presenter
