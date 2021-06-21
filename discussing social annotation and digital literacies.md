@@ -130,5 +130,7 @@ What's your favourite annotation tool?
 			- comments for [[wordpress]] are attached to paragraphs, not to arbitrary 
 			- likes both ways for different reasons; sometimes at the paragraph level it can be easy to navigate 
 			- (I agree)
+		- [[students]] have connected with scholars!
 
 ![[Pasted image 20210621200846.png]]
+![[Pasted image 20210621201134.png]]
