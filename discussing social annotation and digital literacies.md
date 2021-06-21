@@ -16,6 +16,10 @@
 
 ![[Pasted image 20210621190857.png]]
 
-"when you are sewing, you usually follow a [[pattern]]. if you are a [[project runway]] contestant, you use patterns to "
+"when you are sewing, you usually follow a [[pattern]]. if you are more of an expert like a [[project runway]] contestant, you use patterns to guide you. social annotation provides scaffolding to engage with digital text."
 
 ![[Pasted image 20210621191148.png]]
+
+[[digital literacy]] development in three parts by [[coiro 2015]].
+
+![[Pasted image 20210621191248.png]]
