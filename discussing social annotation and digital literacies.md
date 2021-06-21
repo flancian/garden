@@ -150,3 +150,4 @@ citation mangers tend to be Zotero, Mendeley, and, when I've worked at instituti
 - [[paul schacht]] adrie waters (sp?) piece objecting on the fact that people were writing [[hypothes.is]] comments on their blog
 	- disabled her comments because of abuse
 	- then people started leaving hypothes.is annotations, she was displeased with that
+	- https://indieweb.org/annotation#Criticism
