@@ -1,0 +1,3 @@
+- a [[coalition]]
+	- [[go]] slac-coalition.org
+	- announced at [[i annotate 2021]]

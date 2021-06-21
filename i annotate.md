@@ -1,8 +1,10 @@
 - a [[conference]]
 	- about [[web annotations]] and related technologies
 	- [[go]] https://iannotate.org/
-	- [[2021]] https://iannotate.org/2021/
-		- [[schedule]] https://iannotate.org/2021/program.html
+	- [[2021]] 
+		- [[push]] [[i annotate 2021]] 
+			- https://iannotate.org/2021/
+			- [[schedule]] https://iannotate.org/2021/program.html
 			- there will be an [[agora]] lightning talk on Tuesday
 		- [[2021-06-21]]
 			- [[keynote]]
@@ -11,7 +13,7 @@
 						- 2013
 						- 600 attendees (!)
 					- [[social learning across content]]
-						- slac-coalition.org
+						- join@slac-coalition.org
 				- [[speculative annotation]]
 	- [[tickets]] https://ti.to/hypothesis/ianno2021/en-GB
 
