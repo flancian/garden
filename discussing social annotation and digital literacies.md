@@ -94,3 +94,9 @@ Other readers: ![[Pasted image 20210621194301.png]]
 Harding is interested in historical time, sees in numbers. More in the concrete than the abstract.
 
 ![[Pasted image 20210621194430.png]]
+
+Debra's comment expresses a knowledge emotion *plus* says what's interesting about it, yet doesn't feel like a forced explanation:
+
+![[Pasted image 20210621194707.png]]
+
+[[prompts]] ![[Pasted image 20210621194757.png]]
