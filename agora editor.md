@@ -19,8 +19,7 @@
 	  - In essence, all you really need to use the [[Agora]] is the capability to produce text in some format and make it publicly available somewhere. 
 - After getting yourself a [[digital garden]], you need to let an [[agora]] know about it so it can be pulled and integrated. 
 	- Please send a [[pr]] adding your garden to [[gardens yaml]], accepting the agora's [[contract]] and indicating your desired username; or reach out to [[flancian]] or [[vera]] with information about your use case. We'll do our best to make it work! We want the [[agora]] to be maximally inclusive.
-		- All [[agora]] users must agree to its [[contract]] as defined by the system account. User contracts might be binding in 
-	- The contracts of other users can optionally be a [[endorsed]].
+		- All [[agora]] users must agree to its [[contract]] as defined by the system account. User contracts are by default one way only. - The contracts of other users can optionally be a [[endorsed]].
 - Please reach out if you have questions or suggestions :) 
 	- Send email to signup@anagora.org, or DM [[flancian]] or another member of the [[flancia collective]] on Twitter, Mastodon, or any other platform.
 - My proposal for you now is that we used the internet-given capability of sharing text and media with others at effectively zero cost and agree on a protocol to communicate optimally.
