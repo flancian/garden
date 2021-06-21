@@ -1,8 +1,8 @@
 # Agora Actions
 
 - an [[agora feature]]
-  - The Agora can trigger actions in the context of a node when said node includes a block with a [[wikilink]] representing an [[intention]] to execute an [[intent]]. Those intents include [[actions]]. 
-  - If you tell an [[agora]] where your data is, and what you want to do with it, it'll will do it for you if it can. If it can't, it'll keep a record of the request and fulfill it once it's tractabl
+  - The Agora can trigger actions in the context of a node when said node includes a block with a [[wikilink]] or [[hashtag]] representing an [[intent]]. Those intents include [[actions]]. 
+  - If you tell an [[agora]] about your intents in your notes, it will actuate them for you if it ll will do it for you if it can. If it can't, it'll keep a record of the request and fulfill it once it's tractable.
 - a [[list]].
 	- of actions supported by <https://anagora.org>.
 	- [[go]], which redirects to a canonical link
