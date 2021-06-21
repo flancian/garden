@@ -42,10 +42,11 @@ Speculation references speculative fiction (fantasy, sci fi).
 
 ![[Pasted image 20210621181952.png]]
 
-Goals:
+Goals: [[direct conversation with primary sources]],  [[share items in a context]]:
 
 ![[Pasted image 20210621182053.png]]
 
-- [[direct conversation with primary sources]]
-- [[share items in a context]]
-- [[provide a space for all users]]
+Demo: 
+
+![[Pasted image 20210621182232.png]]
+
