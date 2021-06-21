@@ -154,4 +154,4 @@ citation mangers tend to be Zotero, Mendeley, and, when I've worked at instituti
 	- [[flancian]]
 		- IMHO because there's no one size fits all, this implies that the moderation layer should be separate from the data/interlay layer
 		- essentially communities should run their own moderation layer
-        - as a commons 
+        - as a [[commons]]
