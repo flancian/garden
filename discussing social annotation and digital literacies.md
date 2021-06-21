@@ -131,6 +131,7 @@ What's your favourite annotation tool?
 			- likes both ways for different reasons; sometimes at the paragraph level it can be easy to navigate 
 			- (I agree)
 		- [[students]] have connected with [[scholars]]!
+- [[cherise mcbride]] permission from authors is important
 
 ![[Pasted image 20210621200846.png]]
 ![[Pasted image 20210621201134.png]]
