@@ -64,7 +64,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discussing social annotation and digital literacies.md",
+                "file": "2021-06-21.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "653f8af625903f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hypothesis 101.md",
                 "mode": "source"
               }
             }
@@ -154,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discussing social annotation and digital literacies.md",
+                "file": "hypothesis 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discussing social annotation and digital literacies.md"
+                "file": "hypothesis 101.md"
               }
             }
           },
@@ -227,17 +238,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e94d14d48b5024a4",
+  "active": "653f8af625903f95",
   "lastOpenFiles": [
+    "hypothesis 101.md",
+    "2021-06-21.md",
     "discussing social annotation and digital literacies.md",
     "crowdlaaers.md",
     "frankenbook.md",
     "i annotate 2021.md",
     "i annotate 2021 slides.md",
-    "2021-06-21.md",
     "jenae cohn.md",
     "speculative annotation.md",
-    "i annotate.md",
-    "social learning across content.md"
+    "i annotate.md"
   ]
 }
