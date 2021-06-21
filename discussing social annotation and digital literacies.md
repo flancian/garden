@@ -24,3 +24,6 @@
 
 ![[Pasted image 20210621191248.png]]
 ![[Pasted image 20210621191347.png]]
+![[Pasted image 20210621191452.png]]
+
+The most advanced users have "
