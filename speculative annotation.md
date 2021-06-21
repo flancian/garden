@@ -22,3 +22,7 @@ Erasure series by  [[bethany joy collins]]. A trace of language:
 Why do artists annotate?
 
 ![[Pasted image 20210621181527.png]]
+
+Motivation. The enjoyment at the margins (or in the overlay?).
+
+![[Pasted image 20210621181612.png]]
