@@ -73,4 +73,12 @@ User testing.
 
 ![[Pasted image 20210621182907.png]]
 
+Then the talk went into amazing examples of annotation by students, which I won't reproduce here as they had written consent to show work by minors and I wouldn't want to breach anyone's consent.
+
+No social support:
+
+![[Pasted image 20210621183257.png]]
+
+Except @Anno
+
 
