@@ -46,7 +46,11 @@ It's an opportunity to have a conversation. It carries some [[risks]].  Social a
 
 - [[push]] [[marginal syllabus]]
 	- [[go]] https://margynalsyllab.us
-	- [[hypothes.is]] [[national writing project]] [[]]
+	- [[hypothes.is]] [[national writing project]] [[ncte]]
+	
+Why to annotate? It's an [[act of love]] because of 
+
+![[Pasted image 20210621192359.png]]
 
 
 ## [[paul schacht]]
