@@ -48,7 +48,7 @@ It's an opportunity to have a conversation. It carries some [[risks]].  Social a
 	- [[go]] https://margynalsyllab.us
 	- [[hypothes.is]] [[national writing project]] [[ncte]]
 	
-Why to annotate? It's an [[act of love]] because of 
+Why to annotate? "It's an [[act of love]] because of one's commitment to stay in relationship with the creator and other readers and observers."
 
 ![[Pasted image 20210621192359.png]]
 
