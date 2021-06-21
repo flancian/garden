@@ -121,3 +121,5 @@ What's your favourite annotation tool?
 	- note there is implications for handling some of the PII
 	- advantages to do this behind a login wall (so in a silo?)
 - [[paul schacht]]
+	- [[google docs]] can work
+	- whatever platform is b
