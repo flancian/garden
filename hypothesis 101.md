@@ -1,5 +1,4 @@
 - a [[panel]]
 	- [[i annotate 2021]]
  	- [[chat]]
-		- [[push]] [[hathi trust]] 
-			- [[go]] https://www.hathitrust.org/
+		- [[rachek brekhus]] [[hathitrust]] 
