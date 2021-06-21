@@ -94,6 +94,3 @@ Thanks:
 ![[Pasted image 20210621183702.png]]
 
 Activity: we annotate [[the left hand of darkness]]. But first Q&A.
-
-- [[q]] any unexpected uses of the tool?
-	- 
