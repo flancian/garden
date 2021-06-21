@@ -79,6 +79,8 @@ No social support:
 
 ![[Pasted image 20210621183257.png]]
 
-Except @Anno
+Except #AnnotateLOC (could be aggregated in the [[agora]]?).
 
+[[rosenwald manuscript]]:
 
+![[Pasted image 20210621183359.png]]
