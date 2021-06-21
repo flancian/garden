@@ -8,12 +8,11 @@
 	- [[go]], which redirects to a canonical link
 		- [[composite go links]]
     - [[pull]], which transcludes a target node or subnode into the current context.
-	- [[push]], which transcludes children 
-	- [[annotate]] (alpha)
-	- [[turtle]] (alpha)
-	- [[receive]] (planned)
-	
-		  - Pull can be seen as a [[force]].
+		  - pull can be seen as a [[force]] that 
+	- [[push]], which transcludes subordinate blogs to the target
+	- [[annotate]] (alpha), which redirects to the via.hypothes.is link for a given resource
+	- [[turtle]] (alpha), which returns RDF for a node
+	- [[receive]] (planned), which hints points of transclusion for [[push]]
 		  - If you pull a node by mentioning this action in its vicinity, it gets 'upranked' in the context of the current node. In <https://anagora.org>, that means included. Example follows.
 		  
 - [[pull]] [[agora action]]
