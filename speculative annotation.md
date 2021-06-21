@@ -103,4 +103,5 @@ Activity: we annotate [[the left hand of darkness]]. But first Q&A.
 	- would be great, is a matter of funding + time + working through the standards that the library of congress holds for [[pii]]
 	- the server really would host just a very lightweight json file essentially. the architecture is sound.
 - [[q]] how to get involved?
-	- 
+	- they would love it if people got involved
+	- it's all in github
