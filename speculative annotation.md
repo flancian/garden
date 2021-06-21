@@ -29,3 +29,7 @@ Why do artists annotate?
 Motivation. The enjoyment at the margins (or in the overlay?).
 
 ![[Pasted image 20210621181612.png]]
+
+About Speculative Annotation.
+
+![[Pasted image 20210621181810.png]]
