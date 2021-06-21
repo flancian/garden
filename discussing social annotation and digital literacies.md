@@ -65,4 +65,5 @@ Collegiality:
 
 ## [[paul schacht]]
 
-- [[]]
+- [[annotating deliberately]]: [[lessons from readers' annotation of thoreaat [[suny geneseo]]
+	- [[twitter]] https://twitter.com/whatthedickens
