@@ -10,7 +10,7 @@
           {
             "id": "b7a43ee57a579145",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "0aa34816558b1123",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "7f91225d88f365a4",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "cc1dd345e6f41e2c",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "c0a2794f40d69f7b",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "7ba3cd9f7485f9b9",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "5dcd7d26218128aa",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +94,7 @@
           {
             "id": "f901aa7d90484c08",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +106,7 @@
           {
             "id": "5c357bcfa61def90",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +118,7 @@
           {
             "id": "7698f2b69ed06003",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +130,7 @@
           {
             "id": "27ab549ca6689853",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -142,7 +142,7 @@
           {
             "id": "77bc11568ccd4ef2",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -154,7 +154,7 @@
           {
             "id": "af4f80978cc5f9e9",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -166,7 +166,7 @@
           {
             "id": "1ca11f09c31de37f",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -178,7 +178,7 @@
           {
             "id": "506ed3586dbddd3f",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -190,7 +190,7 @@
           {
             "id": "f1a8ab888bcbde94",
             "type": "leaf",
-            "dimension": 4.746084480303749,
+            "dimension": 5.445140212360469,
             "state": {
               "type": "markdown",
               "state": {
@@ -200,33 +200,9 @@
             }
           },
           {
-            "id": "93063ea8776ee9f8",
-            "type": "leaf",
-            "dimension": 4.746084480303749,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "receive.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b0355024c884717b",
-            "type": "leaf",
-            "dimension": 8.092074038917893,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 5.600379686758425,
+            "dimension": 6.4252654505853535,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -256,7 +232,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 5.624110109159943,
+            "dimension": 6.452491151647156,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -357,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-21.md",
+                "file": "agora fediverse integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -374,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-21.md"
+                "file": "agora fediverse integration.md"
               }
             }
           },
@@ -430,13 +406,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0355024c884717b",
+  "active": "b7b8a1f5a0af6991",
   "lastOpenFiles": [
+    "agora fediverse integration.md",
+    "receive.md",
     "2021-06-21.md",
     "agora actions.md",
     "agora action.md",
-    "receive.md",
-    "agora fediverse integration.md",
     "army of love.md",
     "daniel schmachtenberger.md",
     "2021-06-20.md",
