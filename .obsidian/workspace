@@ -75,7 +75,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypothesis 101.md",
+                "file": "2021-06-21.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "99edc8e4b203c3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aether.md",
                 "mode": "source"
               }
             }
@@ -187,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "free annotations.md",
+                "file": "aether.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "free annotations.md"
+                "file": "aether.md"
               }
             }
           },
@@ -260,17 +271,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc077327f3aa5b4e",
+  "active": "99edc8e4b203c3b6",
   "lastOpenFiles": [
-    "free annotations.md",
-    "hypothesis 101.md",
-    "hathitrust.md",
+    "aether.md",
     "2021-06-21.md",
+    "hypothesis 101.md",
+    "free annotations.md",
+    "hathitrust.md",
     "discussing social annotation and digital literacies.md",
     "crowdlaaers.md",
     "frankenbook.md",
     "i annotate 2021.md",
-    "i annotate 2021 slides.md",
-    "jenae cohn.md"
+    "i annotate 2021 slides.md"
   ]
 }
