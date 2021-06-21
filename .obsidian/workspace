@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-21.md",
+                "file": "git.md",
                 "mode": "source"
               }
             }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-21.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-21.md"
+                "file": "git.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "e61e055b063aa143",
   "lastOpenFiles": [
+    "git.md",
     "2021-06-21.md",
     "wiki.md",
     "free annotations.md",
@@ -248,7 +249,6 @@
     "aether.md",
     "i annotate 2021.md",
     "hypothesis 101.md",
-    "discussing social annotation and digital literacies.md",
-    "crowdlaaers.md"
+    "discussing social annotation and digital literacies.md"
   ]
 }
