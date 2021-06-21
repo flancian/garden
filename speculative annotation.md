@@ -107,6 +107,9 @@ Activity: we annotate [[the left hand of darkness]]. But first Q&A.
 	- [[jaime mears]]
 		- they would love it if people got involved
 		- it's all in github
-		- reach out!
+		- reach out! https://labs.loc.gov
 		- twitter: ?
 			- said https://twitter.com/LCLabs in chat but it doesn't look like it
+			
+Now we [[annotate]] :)
+
