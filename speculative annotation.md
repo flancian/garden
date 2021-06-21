@@ -33,3 +33,9 @@ Motivation. The enjoyment at the margins (or in the overlay?).
 About Speculative Annotation.
 
 ![[Pasted image 20210621181810.png]]
+
+![[Pasted image 20210621181916.png]]
+
+[[Speculation is a form of investigation]]:
+
+![[Pasted image 20210621181952.png]]
