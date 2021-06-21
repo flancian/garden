@@ -122,4 +122,7 @@ What's your favourite annotation tool?
 	- advantages to do this behind a login wall (so in a silo?)
 - [[paul schacht]]
 	- [[google docs]] can work
-	- whatever platform is b
+	- whatever platform is being used, the important thing is for students to have control over their comments
+		- [[lms]] might support that
+		- [[hypothes.is]] supports group-only access
+		- there can be some 'showcase' posts, but not shared by default (I missed if this referred to a specific tool)
