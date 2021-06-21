@@ -1,2 +1,3 @@
-- a
-- [[go]] https://www.frankenbook.org
+- an [[annotation project]]
+	- for [[frankenstein]]
+	- [[go]] https://www.frankenbook.org

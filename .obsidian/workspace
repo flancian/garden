@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frankenbook.md",
+                "file": "discussing social annotation and digital literacies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frankenbook.md"
+                "file": "discussing social annotation and digital literacies.md"
               }
             }
           },
@@ -227,10 +227,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad9f8a4c030a8a46",
+  "active": "e94d14d48b5024a4",
   "lastOpenFiles": [
-    "frankenbook.md",
     "discussing social annotation and digital literacies.md",
+    "frankenbook.md",
     "i annotate 2021.md",
     "i annotate 2021 slides.md",
     "2021-06-21.md",
