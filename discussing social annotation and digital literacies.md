@@ -12,9 +12,10 @@
 
 "but what do I do with a reading?"
 	
-![[Pasted image 20210621190657.png]]
-![[Pasted image 20210621190740.png]]
-
 [[digital reading]]: 5 ways of engagement
 
 ![[Pasted image 20210621190857.png]]
+
+"when you are sewing, you usually follow a [[pattern]]. if you are a [[project runway]] contestant, you use patterns to "
+
+![[Pasted image 20210621191148.png]]
