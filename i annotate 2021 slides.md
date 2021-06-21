@@ -1,2 +1,2 @@
-- [[i annotate 2021]] [[slides]]
-	- [[go]] https://drive.google.com/file/d/1EqIyenQPzfm_NMcJ63w6_TCeAXg5EG3f/view?usp=sharing
+- [[pull]] [[i annotate 2021]]
+	- [[slides]] are linked in each sessions's notes; some sessions have more than one slide deck.
