@@ -101,3 +101,5 @@ Debra's comment expresses a knowledge emotion *plus* says what's interesting abo
 
 [[prompts]] ![[Pasted image 20210621194757.png]]
 
+[[chris aldrich]] posted a feed: https://hypothes.is/search?q=%22reminds+me+of%22
+
