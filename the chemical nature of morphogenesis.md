@@ -1,0 +1,4 @@
+- a [[paper]]
+	- by [[alan turing]]
+	- [[go]] https://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf
+		- [[annotate]]
