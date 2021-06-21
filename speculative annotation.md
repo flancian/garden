@@ -6,3 +6,7 @@
 		- [[innovator in residence at the library of congress]]
 
 Contemporary artists using annotation.
+
+Erasure series by  [[bethany joy collins]]. A trace of language.
+
+![[Pasted image [b20210621181235.png]]
