@@ -137,5 +137,5 @@ What's your favourite annotation tool?
 ![[Pasted image 20210621201134.png]]
 
 - [[nate angell]] [[frankenbook]]
-- [[jenae cohn]] importance of students truly owning their [[n]]
+- [[jenae cohn]] importance of students truly owning their [[annotations]] and [[notes]]
 	- learn tools, both supported by the institution and personal
