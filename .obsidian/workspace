@@ -60,11 +60,8 @@
             "type": "leaf",
             "dimension": 4.870251974426474,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the chemical nature of morphogenesis.md",
-                "mode": "source"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -285,7 +282,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the chemical nature of morphogenesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,9 +297,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "the chemical nature of morphogenesis.md"
-              }
+              "state": {}
             }
           },
           {
