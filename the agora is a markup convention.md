@@ -1,2 +1,4 @@
-- [[pull]] [[the agora is a markdown convention]]
+- [[pull]] [[the agora is a markdown extension]]
 - [[pull]] [[agora protocol]]
+
+
