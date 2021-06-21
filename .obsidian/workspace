@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plesmasquerade",
+                "query": "library",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the interlace.md",
+                "file": "hathitrust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the interlace.md"
+                "file": "hathitrust.md"
               }
             }
           },
@@ -227,15 +227,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "535a68bac392f60f",
+  "active": "9d824460cfbb9b1e",
   "lastOpenFiles": [
+    "hathitrust.md",
     "the interlace.md",
     "2021-06-21.md",
     "free annotations.md",
     "aether.md",
     "i annotate 2021.md",
     "hypothesis 101.md",
-    "hathitrust.md",
     "discussing social annotation and digital literacies.md",
     "crowdlaaers.md",
     "frankenbook.md"
