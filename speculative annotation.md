@@ -36,6 +36,12 @@ About Speculative Annotation.
 
 ![[Pasted image 20210621181916.png]]
 
+Speculation references speculative fiction (fantasy, sci fi).
+
 [[Speculation is a form of investigation]]:
 
 ![[Pasted image 20210621181952.png]]
+
+Goals:
+
+![[Pasted image 20210621182053.png]]
