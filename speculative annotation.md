@@ -14,3 +14,7 @@ Erasure series by  [[bethany joy collins]]. A trace of language:
 [[wendy red star]]'s [[medicine man]]:
 
 ![[Pasted image 20210621181350.png]]
+
+[[laura owens]] created a series of emojis that could be downloaded by attendees:
+
+![[Pasted image 20210621181428.png]]
