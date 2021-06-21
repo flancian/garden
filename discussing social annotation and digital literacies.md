@@ -126,3 +126,6 @@ What's your favourite annotation tool?
 		- [[lms]] might support that
 		- [[hypothes.is]] supports group-only access
 		- there can be some 'showcase' posts, but not shared by default (I missed if this referred to a specific tool)
+		- comment
+			- comments for [[wordpress]] are attached to paragraphs, not to arbitrary 
+			- likes both ways for different reasons; sometimes at the paragraph level it can
