@@ -142,4 +142,8 @@ What's your favourite annotation tool?
 - [[cherise mcbride]] [[crowdlaaers]] 
 	- https://crowdlaaers.org/
 - [[jenae cohn]]
-	- [[tools]] citation mangers tend to be Zotero, Mendeley, and, when I've worked at institutions with librarians that support it, RefWorks and EndNote
+
+```
+@Flancian, I see your question in the Q&A and may not have a chance to respond out loud. I'll typically put citation managers, note-taking tools (e.g. Evernote, Notion, OneNote) in the toolkit
+citation mangers tend to be Zotero, Mendeley, and, when I've worked at institutions with librarians that support it, RefWorks and EndNote
+```
