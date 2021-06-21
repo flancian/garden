@@ -116,7 +116,8 @@ Debra's comment expresses a knowledge emotion *plus* says what's interesting abo
 What's your favourite annotation tool?
 
 - [[cherise mcbride]]
-	- private tool / LMS (sp?)
+	- private tool / [[LMS]] (sp?)
 - [[jenae cohn]]
-	- 
+	- note there is implications for handling some of the PII
+	- advantages to do this behind a login wall (so in a silo?)
 - [[paul schacht]]
