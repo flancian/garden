@@ -1,0 +1,5 @@
+- a [[project]]
+	- [[metasj]]
+	- [[git]] https://github.com/the-interlace/notes
+		- [[go]] [[git]] 
+	- [[pull]] [[interlay]]
