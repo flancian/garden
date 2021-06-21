@@ -1,3 +1,3 @@
 - a [[digital library]]
 	- [[go]] https://www.hathitrust.org/
-	
+	- [[wp]] https://en.wikipedia.org/wiki/HathiTrust
