@@ -10,6 +10,8 @@
 					- [[retrospective]] 
 						- 2013
 						- 600 attendees (!)
+					- [[social learning across content]]
+						- slac-coalition.org
 				- [[speculative annotation]]
 	- [[tickets]] https://ti.to/hypothesis/ianno2021/en-GB
 
