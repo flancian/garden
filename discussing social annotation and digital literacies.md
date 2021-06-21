@@ -20,6 +20,7 @@
 
 ![[Pasted image 20210621191148.png]]
 
-[[digital literacy]] development in three parts by [[coiro 2015]].
+[[digital literacy]] development in three parts by [[coiro 2015]]:
 
 ![[Pasted image 20210621191248.png]]
+![[Pasted image 20210621191347.png]]
