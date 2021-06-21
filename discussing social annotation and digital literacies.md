@@ -100,3 +100,4 @@ Debra's comment expresses a knowledge emotion *plus* says what's interesting abo
 ![[Pasted image 20210621194707.png]]
 
 [[prompts]] ![[Pasted image 20210621194757.png]]
+
