@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wikilinks.md",
+                "file": "agora.md",
                 "mode": "source"
               }
             }
@@ -297,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wikilinks.md",
+                "file": "agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wikilinks.md"
+                "file": "agora.md"
               }
             }
           },
@@ -372,6 +372,7 @@
   },
   "active": "7ba3cd9f7485f9b9",
   "lastOpenFiles": [
+    "agora.md",
     "wikilinks.md",
     "2021-06-21.md",
     "go.md",
@@ -380,7 +381,6 @@
     "agora slides.md",
     "interintellect.md",
     "2021-06-20.md",
-    "wordnik.md",
-    "thread viewer.md"
+    "wordnik.md"
   ]
 }
