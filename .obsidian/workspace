@@ -4,263 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a62e0bd6f30307",
-        "type": "split",
-        "children": [
-          {
-            "id": "b7a43ee57a579145",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-20.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0aa34816558b1123",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7f91225d88f365a4",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "cc1dd345e6f41e2c",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c0a2794f40d69f7b",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7ba3cd9f7485f9b9",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "5dcd7d26218128aa",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora editor.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f901aa7d90484c08",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the agora is a markup convention.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "5c357bcfa61def90",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora protocol.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7698f2b69ed06003",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the agora is a markup convention.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "27ab549ca6689853",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the agora is a markdown convention.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "77bc11568ccd4ef2",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the agora is a markup convention.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "af4f80978cc5f9e9",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "1ca11f09c31de37f",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-21.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "506ed3586dbddd3f",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "telekommunist manifesto.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f1a8ab888bcbde94",
-            "type": "leaf",
-            "dimension": 5.445140212360469,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daniel schmachtenberger.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d407fbfa22a48bda",
-            "type": "split",
-            "dimension": 6.4252654505853535,
-            "children": [
-              {
-                "id": "b7b8a1f5a0af6991",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora fediverse integration.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "052ae04af14c47b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "twitter bridge.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "56bdd2b5a09241be",
-            "type": "split",
-            "dimension": 6.452491151647156,
-            "children": [
-              {
-                "id": "7abcb8972baaed4d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian embeds.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "9d1767dbb6c4ba74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "break glass.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          }
-        ],
-        "direction": "horizontal"
+        "id": "5acf377a913f273a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -333,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora fediverse integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -349,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "agora fediverse integration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -406,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7b8a1f5a0af6991",
+  "active": "5acf377a913f273a",
   "lastOpenFiles": [
-    "agora fediverse integration.md",
-    "receive.md",
+    "break glass.md",
+    "obsidian embeds.md",
+    "twitter bridge.md",
     "2021-06-21.md",
-    "agora actions.md",
-    "agora action.md",
-    "army of love.md",
-    "daniel schmachtenberger.md",
-    "2021-06-20.md",
+    "agora protocol.md",
+    "the agora is a markup convention.md",
     "telekommunist manifesto.md",
-    "interintellect.md"
+    "2021-06-20.md",
+    "agora fediverse integration.md",
+    "receive.md"
   ]
 }
