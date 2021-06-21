@@ -33,15 +33,33 @@
         "direction": "horizontal"
       },
       {
-        "id": "2f999abc79ab8df3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "i annotate 2021.md",
-            "mode": "source"
+        "id": "d3f385bce0528452",
+        "type": "split",
+        "children": [
+          {
+            "id": "2f999abc79ab8df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "i annotate 2021.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e94d14d48b5024a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discussing social annotation and digital literacies.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -114,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-21.md",
+                "file": "discussing social annotation and digital literacies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-21.md"
+                "file": "discussing social annotation and digital literacies.md"
               }
             }
           },
@@ -187,11 +205,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5acf377a913f273a",
+  "active": "e94d14d48b5024a4",
   "lastOpenFiles": [
-    "2021-06-21.md",
-    "i annotate 2021.md",
     "discussing social annotation and digital literacies.md",
+    "i annotate 2021.md",
+    "2021-06-21.md",
     "speculative annotation.md",
     "i annotate.md",
     "social learning across content.md",
