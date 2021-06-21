@@ -10,7 +10,7 @@
           {
             "id": "b7a43ee57a579145",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "0aa34816558b1123",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "7f91225d88f365a4",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "cc1dd345e6f41e2c",
             "type": "leaf",
-            "dimension": 5.119588851551691,
+            "dimension": 2.559794425775845,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,9 +56,21 @@
             }
           },
           {
+            "id": "c0a2794f40d69f7b",
+            "type": "leaf",
+            "dimension": 2.559794425775845,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wikilinks.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "f35beae0a8202ff7",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "f91b69d7bf1360c2",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "506ed3586dbddd3f",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "dabe0f4b38899c78",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +118,7 @@
           {
             "id": "f1a8ab888bcbde94",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +130,7 @@
           {
             "id": "474564d591865cdf",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -130,7 +142,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "state": {
               "type": "markdown",
               "state": {
@@ -142,7 +154,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -172,7 +184,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 7.9067009290373615,
+            "dimension": 7.90670092903736,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -273,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-21.md",
+                "file": "wikilinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-21.md"
+                "file": "wikilinks.md"
               }
             }
           },
@@ -346,8 +358,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc1dd345e6f41e2c",
+  "active": "c0a2794f40d69f7b",
   "lastOpenFiles": [
+    "wikilinks.md",
     "2021-06-21.md",
     "go.md",
     "the chemical nature of morphogenesis.md",
@@ -356,7 +369,6 @@
     "interintellect.md",
     "2021-06-20.md",
     "wordnik.md",
-    "thread viewer.md",
-    "dave winer.md"
+    "thread viewer.md"
   ]
 }
