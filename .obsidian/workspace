@@ -68,6 +68,17 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "ad9f8a4c030a8a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frankenbook.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discussing social annotation and digital literacies.md",
+                "file": "frankenbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discussing social annotation and digital literacies.md"
+                "file": "frankenbook.md"
               }
             }
           },
@@ -216,8 +227,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e94d14d48b5024a4",
+  "active": "ad9f8a4c030a8a46",
   "lastOpenFiles": [
+    "frankenbook.md",
     "discussing social annotation and digital literacies.md",
     "i annotate 2021.md",
     "i annotate 2021 slides.md",
@@ -226,7 +238,6 @@
     "speculative annotation.md",
     "i annotate.md",
     "social learning across content.md",
-    "break glass.md",
-    "obsidian embeds.md"
+    "break glass.md"
   ]
 }

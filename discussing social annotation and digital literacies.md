@@ -135,3 +135,5 @@ What's your favourite annotation tool?
 
 ![[Pasted image 20210621200846.png]]
 ![[Pasted image 20210621201134.png]]
+
+- [[nate angell]] [[frankenbook]]
