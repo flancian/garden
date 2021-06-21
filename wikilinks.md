@@ -9,3 +9,4 @@
 		- [[nodelinks]] as they map to nodes in the agora.
 			- [[edges]]?
 
+![[Pasted image 20210621164333.png]]

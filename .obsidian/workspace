@@ -58,7 +58,19 @@
           {
             "id": "c0a2794f40d69f7b",
             "type": "leaf",
-            "dimension": 2.559794425775845,
+            "dimension": 1.2798972128879225,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-21.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "7ba3cd9f7485f9b9",
+            "type": "leaf",
+            "dimension": 1.2798972128879225,
             "state": {
               "type": "markdown",
               "state": {
@@ -358,7 +370,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c0a2794f40d69f7b",
+  "active": "7ba3cd9f7485f9b9",
   "lastOpenFiles": [
     "wikilinks.md",
     "2021-06-21.md",
