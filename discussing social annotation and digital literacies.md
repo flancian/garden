@@ -86,3 +86,7 @@ Site was preseeded with annotated Walden:
 [[word cloud]]:
 
 ![[Pasted image 20210621194137.png]]
+
+Harding's verbs:  ![[Pasted image 20210621194249.png]]
+
+![[Pasted image 20210621194301.png]]
