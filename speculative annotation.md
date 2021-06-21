@@ -57,8 +57,16 @@ Everything is saved in the browser. There's no server.
 
 ![[Pasted image 20210621182425.png]]
 
-[[codex]] would have liked this one:
+There is a [[speculative annotation mini collection]].
+
+[[codex]] will like this one:
 
 ![[Pasted image 20210621182802.png]]
+
+![[Pasted image 20210621182826.png]]
+
+The project spanned 12 (!) divisions of the library.
+
+![[Pasted image 20210621182856.png]]
 
 
