@@ -5,18 +5,16 @@
 	- Note this format also lets you easily publish your [[blog]] or [[digital garden]] independently online.
 - As of [[2021-05-07]], the recommended Agora editor is 
 	- [[foam]], if you want open source.
+		- [[foam]] is a [[vscode]] [[extension]].
+		- [[foam]] is less straightforward to set up than the next option.
 	- [[obsidian]] if you don't mind using closed software from ethical companies, in particular a small one with a vibrant open source extension community. 
 		- You need at least also the [[obsidian git]] plugin.  See [[obsidian plugins]] for more.
-	- [[install obsidian]] by visiting https://obsidian.md and then follow [[vault backup]] to set up backup to [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line.
-	- Then follow the procedure below to add your vault or [[digital garden]] to the [[agora]].
-  - From [[2021-01-03]] until [[2021-05-07]], the recommended Agora editor was [[foam]].
-	  - [[foam]] is a [[vscode]] [[extension]].
-	  - If those worlds make sense to you, congratulations :) You can use [[foam]].
+		- [[install obsidian]] by visiting https://obsidian.md and then follow [[vault backup]] to set up backup to [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line.
+		- Then follow the procedure below to add your vault or [[digital garden]] to the [[agora]].
 	- You can also use:
 	  - [[dendron]], which should be a drop-in [[foam]] replacement in [[vscode]].
 	  - [[roam]] plus [[roam2agora]]
 	  - [[org mode]]
-	  		- [[experimental]]
 	  - [[jekyll]] and other static site generators
 	  - In essence, all you really need to use the [[Agora]] is the capability to produce text in some format and make it publicly available somewhere. 
 		  - As mentioned earlier I use [[obsidian]] to produce and manage my notes, and [[git]] to store them online, but the [[agora]] tries to be maximally inclusive; if you want to publish your writing to this Agora, please reach out!
