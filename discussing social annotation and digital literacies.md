@@ -40,9 +40,13 @@ Creation-driven prompts.
 
 ![[Pasted image 20210621192126.png]]
 
-It's an opportunity to have a conversation. It carries some [[risks]].
+It's an opportunity to have a conversation. It carries some [[risks]].  Social annotation is [[thinking publicly]]. Partnership with [[marginal syllabus]].
 
-Social annotation is [[thinking publicly]].
+![[Pasted image 20210621192227.png]]
+
+- [[push]] [[marginal syllabus]]
+	- [[go]] https://margynalsyllab.us
+	- [[hypothes.is]] [[national writing project]] [[]]
 
 
 ## [[paul schacht]]
