@@ -18,3 +18,7 @@ Erasure series by  [[bethany joy collins]]. A trace of language:
 [[laura owens]] created a series of emojis that could be downloaded by attendees:
 
 ![[Pasted image 20210621181428.png]]
+
+Why do artists annotate?
+
+![[Pasted image 20210621181527.png]]
