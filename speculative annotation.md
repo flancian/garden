@@ -45,3 +45,7 @@ Speculation references speculative fiction (fantasy, sci fi).
 Goals:
 
 ![[Pasted image 20210621182053.png]]
+
+- [[direct conversation with primary sources]]
+- [[share items in a context]]
+- [[provide a space for all users]]
