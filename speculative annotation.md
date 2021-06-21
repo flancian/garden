@@ -89,4 +89,8 @@ The [[rosenwald manuscript]] annotated:
 
 ![[Pasted image 20210621183652.png]]
 
-Thanks: ![[Pasted image 20210621183702.png]]
+Thanks: 
+
+![[Pasted image 20210621183702.png]]
+
+Activity: we annotate [[the left hand of darkness]].
