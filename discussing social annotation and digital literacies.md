@@ -2,7 +2,7 @@
 	- [[i annotate 2021]]
 	- [[nate angell]] introducing
 	- [[mary klann]] with 
-		- [[jenae cohn]] [[paul schacht]] ...
+		- [[jenae cohn]] [[cherise mcbride]] [[paul schacht]]
 		- ten minutes per presenter
 
 ## [[jenae cohn]]
@@ -32,3 +32,8 @@ Creation-driven prompts.
 
 ![[Pasted image 20210621191635.png]]
 ![[Pasted image 20210621191655.png]]
+
+## [[cherise mcbride]] 
+- [[digital literacy expert]], lots of qualifications I need to pull from her page
+
+## [[paul schacht]]
