@@ -3,5 +3,6 @@
 - a [[talk]]
 	- [[social learning across content]]
 	- by [[courtney mcclellan]]
-		- [[innovator in resience at the library of congress]]
-	- 
+		- [[innovator in residence at the library of congress]]
+
+Contemporary artists using annotation.
