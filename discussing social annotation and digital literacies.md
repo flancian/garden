@@ -64,6 +64,11 @@ Collegiality:
 (Missed some slides here due to technical problems.)
 
 ## [[paul schacht]]
-
-- [[annotating deliberately]]: [[lessons from readers' annotation of thoreaat [[suny geneseo]]
+ 
+- at [[suny geneseo]]
+- [[annotating deliberately]]: [[lessons from readers' annotation of thoreau]] 
 	- [[twitter]] https://twitter.com/whatthedickens
+
+Ways of annotating: explicate contextualize argue converse connect message opine.
+
+![[Pasted image 20210621193629.png]]
