@@ -3,3 +3,5 @@
 - a [[talk]]
 	- [[social learning across content]]
 	- by [[courtney mcclellan]]
+		- [[innovator in resience at the library of congress]]
+	- 
