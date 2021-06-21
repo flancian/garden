@@ -107,3 +107,8 @@ Debra's comment expresses a knowledge emotion *plus* says what's interesting abo
 
 ![[Pasted image 20210621195544.png]]
 
+(great conversation in the panel and in the chat)
+
+[[metacognition]] and [[reflection]]. 
+
+[[paul schacht]] have them look at other people's annotations. 
