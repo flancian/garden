@@ -59,6 +59,17 @@
             }
           },
           {
+            "id": "e61e055b063aa143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "9d824460cfbb9b1e",
             "type": "leaf",
             "state": {
@@ -154,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-21.md",
+                "file": "wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-21.md"
+                "file": "wiki.md"
               }
             }
           },
@@ -227,8 +238,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc077327f3aa5b4e",
+  "active": "e61e055b063aa143",
   "lastOpenFiles": [
+    "wiki.md",
     "2021-06-21.md",
     "free annotations.md",
     "hathitrust.md",
@@ -237,7 +249,6 @@
     "i annotate 2021.md",
     "hypothesis 101.md",
     "discussing social annotation and digital literacies.md",
-    "crowdlaaers.md",
-    "frankenbook.md"
+    "crowdlaaers.md"
   ]
 }
