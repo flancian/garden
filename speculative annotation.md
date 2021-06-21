@@ -98,3 +98,5 @@ Activity: we annotate [[the left hand of darkness]]. But first Q&A.
 - [[q]] does the tool have a way to take their annotations with them?
 	- it's all in browser local storage; there is no server component. but there's no flow to be able to access annotations remotely, and you shouldn't clear your browser cache :)
 	- (I wonder if [[ipfs]] or even [[fission]] could be a good fit for this)
+- [[q]] what if you had a button to save annotation .png files to the [[internet archive]]?
+	- (sounds great to me)
