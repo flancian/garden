@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "speculative annotation.md",
+                "file": "i annotate 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "speculative annotation.md"
+                "file": "i annotate 2021.md"
               }
             }
           },
@@ -191,10 +191,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77364a0d4ddc7532",
+  "active": "2f999abc79ab8df3",
   "lastOpenFiles": [
-    "speculative annotation.md",
     "i annotate 2021.md",
+    "speculative annotation.md",
     "i annotate.md",
     "2021-06-21.md",
     "social learning across content.md",

@@ -7,6 +7,10 @@
 
 Contemporary artists using annotation.
 
-Erasure series by  [[bethany joy collins]]. A trace of language.
+Erasure series by  [[bethany joy collins]]. A trace of language:
 
 ![[Pasted image [b20210621181235.png]]
+
+[[wendy red star]]'s [[medicine man]]:
+
+![[Pasted image 20210621181350.png]]
