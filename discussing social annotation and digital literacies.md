@@ -71,4 +71,9 @@ Collegiality:
 
 Ways of annotating: explicate contextualize argue converse connect message opine.
 
+[[William James]]!
+
 ![[Pasted image 20210621193629.png]]
+
+[[gardner campbell]] [[i anno]]
+
