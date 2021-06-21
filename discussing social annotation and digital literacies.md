@@ -75,7 +75,11 @@ Ways of annotating: explicate contextualize argue converse connect message opine
 
 ![[Pasted image 20210621193629.png]]
 
-[[gardner campbell]] [[i annotate 2019]] on knowledge emotions.
+[[gardner campbell]] [[i annotate 2019]] on knowledge emotions: [https://www.youtube.com/watch?v=P-uuWcmzpgw](https://www.youtube.com/watch?v=P-uuWcmzpgw) (thank you [[nate angell]]!).
 
 ![[Pasted image 20210621193910.png]]
+
+Site was preseeded with annotated Walden:
+
+![[Pasted image 20210621194038.png]]
 
