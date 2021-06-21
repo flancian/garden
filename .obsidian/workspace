@@ -8,45 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "1c3e63745fbefd6f",
+            "id": "b7a43ee57a579145",
             "type": "leaf",
-            "dimension": 11.600928074245939,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "do.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "89a7352a0395d613",
-            "type": "leaf",
-            "dimension": 11.600928074245939,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-16.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "511386288550f440",
-            "type": "leaf",
-            "dimension": 11.600928074245939,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-18.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bb17d9ab9a567889",
-            "type": "leaf",
-            "dimension": 11.600928074245939,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -56,13 +20,97 @@
             }
           },
           {
-            "id": "9ea98f23e54d7734",
+            "id": "0aa34816558b1123",
             "type": "leaf",
-            "dimension": 18.793503480278424,
+            "dimension": 5,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
+                "file": "2021-06-21.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "7f91225d88f365a4",
+            "type": "leaf",
+            "dimension": 5,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora slides.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f35beae0a8202ff7",
+            "type": "leaf",
+            "dimension": 5,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-21.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f91b69d7bf1360c2",
+            "type": "leaf",
+            "dimension": 5,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interintellect.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "506ed3586dbddd3f",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "telekommunist manifesto.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "dabe0f4b38899c78",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-20.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f1a8ab888bcbde94",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daniel schmachtenberger.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "474564d591865cdf",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "army of love.md",
                 "mode": "source"
               }
             }
@@ -70,7 +118,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 11.600928074245939,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +130,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 11.600928074245939,
+            "dimension": 10,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -112,7 +160,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 11.600928074245939,
+            "dimension": 10,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -213,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-16.md",
+                "file": "agora slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-16.md"
+                "file": "agora slides.md"
               }
             }
           },
@@ -286,17 +334,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89a7352a0395d613",
+  "active": "7f91225d88f365a4",
   "lastOpenFiles": [
-    "2021-06-16.md",
-    "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
+    "agora slides.md",
+    "2021-06-21.md",
+    "interintellect.md",
     "2021-06-20.md",
-    "2021-06-19.md",
-    "nixos.md",
-    "2021-06-18.md",
-    "sutty.md",
-    "facttic.md",
-    "2021-06-15.md",
-    "ryan faulhaber.md"
+    "wordnik.md",
+    "thread viewer.md",
+    "dave winer.md",
+    "telekommunist manifesto.md",
+    "jekyll wikilinks.md",
+    "i annotate.md"
   ]
 }
