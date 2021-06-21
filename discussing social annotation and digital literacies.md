@@ -139,4 +139,7 @@ What's your favourite annotation tool?
 - [[nate angell]] [[frankenbook]]
 - [[jenae cohn]] importance of students truly owning their [[annotations]] and [[notes]]
 	- learn tools, both supported by the institution and personal
-- [[cherise mcbride]] []
+- [[cherise mcbride]] [[crowdlaaers]] 
+	- https://crowdlaaers.org/
+- [[jenae cohn]]
+	- [[tools]] citation mangers tend to be Zotero, Mendeley, and, when I've worked at institutions with librarians that support it, RefWorks and EndNote
