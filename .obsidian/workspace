@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5acf377a913f273a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-06-21.md",
-            "mode": "source"
+        "id": "3bfe038a60be769c",
+        "type": "split",
+        "children": [
+          {
+            "id": "5acf377a913f273a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-21.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "77364a0d4ddc7532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "speculative annotation.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "2f999abc79ab8df3",
@@ -21,17 +39,6 @@
           "type": "markdown",
           "state": {
             "file": "i annotate 2021.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "77364a0d4ddc7532",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "speculative annotation.md",
             "mode": "source"
           }
         }
@@ -107,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "2021-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate 2021.md"
+                "file": "2021-06-21.md"
               }
             }
           },
@@ -180,17 +187,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f999abc79ab8df3",
+  "active": "5acf377a913f273a",
   "lastOpenFiles": [
-    "i annotate 2021.md",
     "2021-06-21.md",
+    "i annotate 2021.md",
+    "discussing social annotation and digital literacies.md",
     "speculative annotation.md",
     "i annotate.md",
     "social learning across content.md",
     "break glass.md",
     "obsidian embeds.md",
     "twitter bridge.md",
-    "agora protocol.md",
-    "the agora is a markup convention.md"
+    "agora protocol.md"
   ]
 }
