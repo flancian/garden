@@ -7,11 +7,13 @@
 			
 ## [[2021-06-21]]
 - [[keynote]]
+	- [[kick off]]
 	- [[dan whaley]] kicks off
 		- [[retrospective]] 
 			- 2013
 			- 600 attendees (!)
 		- [[social learning across content]]
 			- join@slac-coalition.org
+	- [[speculative annotation]]
 	- [[courtney mcclellan]]
-		- [[speculative annotation]]
+	- [[]]
