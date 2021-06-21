@@ -77,5 +77,5 @@ Ways of annotating: explicate contextualize argue converse connect message opine
 
 [[gardner campbell]] [[i annotate 2019]] on knowledge emotions.
 
-
+![[Pasted image 20210621193910.png]]
 
