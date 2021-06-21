@@ -5,6 +5,7 @@
 	- [[tickets]] https://ti.to/hypothesis/ianno2021/en-GB
 		- [[schedule]] https://iannotate.org/2021/program.html
 		- there will be an [[agora]] lightning talk on Tuesday
+	- [[feed]] https://hypothes.is/search?q=tag%3A%22%23IAnno21%22
 			
 ## [[2021-06-21]]
 - [[kick off]]
