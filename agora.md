@@ -8,9 +8,9 @@
     - Make use of [[agora features]] to surface relevant content.
   - As an Agora *full user* or [[writer]] you can:
     - Have your content be surfaced to readers at relevant times (when they are visiting a [[node]] for which your content is considered relevant by the community).
-    - Have relevant content be surfaced to you as you traverse your [[personal knowledge graph]].
-    - Make use of [[agora actions]].
-	- See [[agora editor]] to join!
+    - Have relevant crowdsourced content be surfaced to you as you traverse your [[notes repository]].
+    - Make use of [[agora actions]] to control the agora straight from your ntoes.
+		- Visit [[agora editor]] to join!
 - Anyone can run an Agora of their own if they so desire. This Agora is [[open source]]: [[go/agora]].
 	- The [[agora]] is in the [[federation]]! Add it now: @agora@botsin.space, <https://twitter.com/an_agora>.
 	- This [[agora]] includes [[agora search]].
