@@ -1,5 +1,6 @@
 - a [[panel]]
 	- [[i annotate 2021]]
+	- [[slides]] https://drive.google.com/file/d/1EqIyenQPzfm_NMcJ63w6_TCeAXg5EG3f/view?usp=sharing
 	- [[nate angell]] introducing
 	- [[mary klann]] with 
 		- [[jenae cohn]] [[cherise mcbride]] [[paul schacht]]
