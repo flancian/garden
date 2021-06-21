@@ -27,3 +27,8 @@
 ![[Pasted image 20210621191452.png]]
 
 The most advanced users have "a self-directed confidence in transforming strategies used in more familiar contexts into new strategies that are more useful in less familiar literacy contexts."
+
+Creation-driven prompts.
+
+![[Pasted image 20210621191635.png]]
+![[Pasted image 20210621191655.png]]
