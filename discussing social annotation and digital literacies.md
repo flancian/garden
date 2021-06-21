@@ -34,6 +34,8 @@ Creation-driven prompts.
 ![[Pasted image 20210621191655.png]]
 
 ## [[cherise mcbride]] 
-- [[digital literacy expert]], lots of qualifications I need to pull from her page
+- [[digital literacy researcher]] [[california state university berkeley]]
+
+"making things visible: annotation an
 
 ## [[paul schacht]]
