@@ -1,7 +1,7 @@
 # Agora Editor
 
-- In a nutshell: you need to put your content, which can be plain text or [[markdown]] if you're into that sort of thing, somewhere online. Most users currently use git repositories hosted on https://github.com and https://gitlab.com. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
-	- This format also lets you easily publish your [[digital garden]] independently online. 
+- In a nutshell: you need to host your notes (more generally, content), which can be [[markdown]] (default) or plain text or [[org mode]], somewhere else online. Most users currently use git repositories hosted on https://github.com and https://gitlab.com. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
+	- This format also lets you easily publish your [[blog]] or [[digital garden]] independently online.
 - As of [[2021-05-07]], the recommended Agora editor is [[obsidian]] plus the  [[obsidian git]] plugin. 
 	- [[install obsidian]] by visiting https://obsidian.md and then follow [[vault backup]] to set up backup to [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line.
 	- Then follow the procedure below to add your vault or [[digital garden]] to the [[agora]].
