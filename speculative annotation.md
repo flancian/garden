@@ -84,3 +84,9 @@ Except #AnnotateLOC (could be aggregated in the [[agora]]?).
 The [[rosenwald manuscript]] annotated:
 
 ![[Pasted image 20210621183412.png]]
+
+[[patsy mink]] manuscript annotations by [[liz novara]]:
+
+![[Pasted image 20210621183652.png]]
+
+Thanks: ![[Pasted image 20210621183702.png]]
