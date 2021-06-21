@@ -90,3 +90,7 @@ Site was preseeded with annotated Walden:
 Harding's verbs:  ![[Pasted image 20210621194249.png]]
 
 Other readers: ![[Pasted image 20210621194301.png]]
+
+Harding is interested in historical time, sees in numbers. More in the concrete than the abstract.
+
+![[Pasted image 20210621194430.png]]

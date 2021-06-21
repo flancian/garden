@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "discussing social annotation and digital literacies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate 2021.md"
+                "file": "discussing social annotation and digital literacies.md"
               }
             }
           },
@@ -216,12 +216,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f275e3c0a024260",
+  "active": "e94d14d48b5024a4",
   "lastOpenFiles": [
+    "discussing social annotation and digital literacies.md",
     "i annotate 2021.md",
     "i annotate 2021 slides.md",
     "2021-06-21.md",
-    "discussing social annotation and digital literacies.md",
     "jenae cohn.md",
     "speculative annotation.md",
     "i annotate.md",
