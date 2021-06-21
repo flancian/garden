@@ -273,6 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +289,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021-06-21.md"
+              }
             }
           },
           {
@@ -345,9 +348,9 @@
   },
   "active": "cc1dd345e6f41e2c",
   "lastOpenFiles": [
+    "2021-06-21.md",
     "go.md",
     "the chemical nature of morphogenesis.md",
-    "2021-06-21.md",
     "red house eviction defense.md",
     "agora slides.md",
     "interintellect.md",
