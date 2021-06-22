@@ -29,3 +29,5 @@ The most common markup is text + double square brackets. But would like to branc
 Descriptions of intention. Intentions being independently evaluated by a 'robot critic'. Integrated functional testing in the network. [[annotated intentions]].
 
 Next up: [[daniel doyon]], co-founder of [[readwise]].
+
+Very few people (<5%) of those that kept book highlights had a way of revisiting their highlights. [[readwise]] fetches all highlights, aggregates and tries to make it so that users revisit them -- daily reminders are sent, etc.
