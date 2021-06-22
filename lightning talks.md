@@ -27,3 +27,5 @@ The most common markup is text + double square brackets. But would like to branc
 [[sami husseni]] freeic.org (in chat)
 
 Descriptions of intention. Intentions being independently evaluated by a 'robot critic'. Integrated functional testing in the network. [[annotated intentions]].
+
+Next up: [[daniel doyon]], co-founder of [[readwise]].
