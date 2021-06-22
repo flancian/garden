@@ -130,4 +130,6 @@ Inspiration: [[Doug engelbart]]
 
 Privacy and data security is of utmost importance. Open source. It makes a tool for knowledge available to anyone!
 
-Web a
+Web app and desktop app recently went through refactoring, resulting in a better architecture and experience. Recently opened early access to [[plugins api]]. Users are already building great extensions with it.
+
+People around the world sharing, colla
