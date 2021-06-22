@@ -19,5 +19,6 @@
 			- it evolves -- we have better browsers and protocols than before but the content remains
 			- note taking applications will always change; but the data will be around for a long time.
 		- [[bastien guerry]] git has been quite a change. it'll be 25y old in 9y :) versioning will be pervasive; perhaps git is the right infrastructure.
-		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strength through diversity. cooperative efforts. effective altruism.
+		- [[daniel doyon]] 
+		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strength through diversity. I'd like whatever takes the place of the agora in 25y to be not only runnable but reimplementable by an interested 13yo with plenty of time. cooperative efforts. effective altruism.
 		
