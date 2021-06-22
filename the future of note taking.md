@@ -47,7 +47,7 @@
 		- [[conaw]] thank you for i annotate 2019, and thank you daniel for "how to take smart notes"
 			- curse of xanadu is alive
 			- solve problems in the order you need to solve them to set up 
-			- there is a world in which roam ends up ope
+			- there is a world in which roam ends up open source
 		
 		
 		
