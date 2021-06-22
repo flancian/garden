@@ -33,4 +33,6 @@
 			- generative models on group data
 	- [[bidirectionality]]
 		- [[ward cunningham]] 
+			- (has "the algorithmic beauty of sea shells")
+			- backlinks can be overwhelming: how to express which subset of them you are interested in.
 		
