@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "lightning talks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate 2021.md"
+                "file": "lightning talks.md"
               }
             }
           },
@@ -249,11 +249,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc077327f3aa5b4e",
+  "active": "cf8d8524ad11eb6d",
   "lastOpenFiles": [
+    "lightning talks.md",
     "i annotate 2021.md",
     "the future of note taking.md",
-    "lightning talks.md",
     "2021-06-22.md",
     "the interlace.md",
     "hathitrust.md",
