@@ -44,10 +44,14 @@ Plato's written dialogues.
 
 Writing: both a remedy and a poison. [[pharmakon]].
 
-Models and anti-model. Anti-mode: word documents floating around without versinion
+![[Pasted image 20210622183043.png]]
+
+Models and anti-model. Anti-mode: word documents floating around without versioning.
 
 ![[Pasted image 20210622183156.png]]
 
-![[Pasted image 20210622183043.png]]
+[[org mode]]!
+
+![[Pasted image 20210622183300.png]]
 
 Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
