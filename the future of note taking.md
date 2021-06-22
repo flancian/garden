@@ -44,7 +44,10 @@
 		- [[bastien guerry]] thank you all, appreciate the conversation and want to try out some of this stuff :)
 		- [[ward cunningham]] Dan, will you invite us all back next year to discuss process? ;)
 			- [[dan]] the post-future of note taking!
-		- [[conaw]] thank you for i annotate daniel for "how to take smart notes"
+		- [[conaw]] thank you for i annotate 2019, and thank you daniel for "how to take smart notes"
+			- curse of xanadu is alive
+			- solve problems in the order you need to solve them to set up 
+			- there is a world in which roam ends up ope
 		
 		
 		
