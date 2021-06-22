@@ -83,3 +83,5 @@ In the context of [[memex]], they identified the [[creator workflow]]: [[discove
 [[emergent interoperability]]
 
 ![[Pasted image 20210622185313.png]]
+
+Takeaway: let's prefer emergent patterns to top-down approches.
