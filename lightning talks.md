@@ -116,4 +116,4 @@ Moore's law. [[cognitive surplus]].
 
 Many Wikipedias left to be created.
 
-Flyw
+Flywheels and feedback loops.
