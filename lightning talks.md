@@ -31,3 +31,7 @@ Descriptions of intention. Intentions being independently evaluated by a 'robot 
 Next up: [[daniel doyon]], co-founder of [[readwise]].
 
 Very few people (<5%) of those that kept book highlights had a way of revisiting their highlights. [[readwise]] fetches all highlights, aggregates and tries to make it so that users revisit them -- daily reminders are sent, etc.
+
+Value proposition evolved into being a place that makes it easy to get all your data/annotations into a single place.
+
+Next up: me! No notes here but slides are on [[go/agora-slides]].
