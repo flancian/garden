@@ -5,7 +5,8 @@
 		- [[oliver sauter]] anything that lasts 25y requires sustained effort. an ability to iterate towards this.
 		- [[conaw]] what's motivating the question? there seems to be an unspoken assumption that web/wiki technology is 25y old.
 			- [[dan whaley]] what would define the note taking apps we use in 25y? what's most important about what we're about to build?
-			- durability is an interesting idea: we are all benefitting from vannevar bush's [[memex]] and the mother of all demos.
-			- web of alexandria (sp?): most durable knowledge storage is dna. it is constantly propagating.
-			- roam exports 
-		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strenght through diversity. cooperative efforts. effective altruism.
+			- [[conor]] durability is an interesting idea: we are all benefitting from vannevar bush's [[memex]] and the mother of all demos.
+				- web of alexandria (sp?): most durable knowledge storage is dna. it is constantly propagating.
+				- roam exports to json and md to make data durable/portable.
+				- memory diamonds (?)
+		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strength through diversity. cooperative efforts. effective altruism.
