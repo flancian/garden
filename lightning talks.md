@@ -132,4 +132,6 @@ Privacy and data security is of utmost importance. Open source. It makes a tool 
 
 Web app and desktop app recently went through refactoring, resulting in a better architecture and experience. Recently opened early access to [[plugins api]]. Users are already building great extensions with it.
 
-People around the world sharing, colla
+"People around the world are sharing, collaborating and building communities around it."
+
+Interoperability between different note taking talks is a problem we can solve together by embracing open standards.
