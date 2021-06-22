@@ -85,3 +85,11 @@ In the context of [[memex]], they identified the [[creator workflow]]: [[discove
 ![[Pasted image 20210622185313.png]]
 
 Takeaway: let's prefer emergent patterns to top-down approches.
+
+[[dan whaley]] follows. A [[feature request]] :)
+
+![[Pasted image 20210622185624.png]]
+
+![[Pasted image 20210622185629.png]]
+
+![[Pasted image 20210622185702.png]]
