@@ -113,3 +113,5 @@ What's needed? Commitment, protocol, APIs, conventions, services and clients.
 Moore's law. [[cognitive surplus]].
 
 ![[Pasted image 20210622190651.png]]
+
+Many Wikipedias left to be created.
