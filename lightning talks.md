@@ -62,4 +62,5 @@ Single powerful idea: let's write to-do items and notes with the same tool!
 
 "org mode brought folding to the people"
 
+
 Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
