@@ -72,4 +72,9 @@ Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
 
 Basic coordination problem.
 
-Some workflows do not require gr
+Some workflows do not require sophisticated processes to be useful.
+
+In the context of [[memex]], they identified the [[creator workflow]]: [[discover]], [[capture]], [[synthesize]], [[share]].
+
+![[Pasted image 20210622184938.png]]
+
