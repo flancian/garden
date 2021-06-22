@@ -107,3 +107,5 @@ What's needed? Commitment, protocol, APIs, conventions, services and clients.
 ![[Pasted image 20210622190059.png]]
 
 [[conaw]] is next. "roam is not about note taking". The landing page said that, but it was a matter of saying what people could understand. Working on this since 2008, full time since 2013: "Roam has always been about building a platform for Collective Intelligence".
+
+![[Pasted image 20210622190553.png]]
