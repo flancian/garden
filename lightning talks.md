@@ -17,3 +17,5 @@ Clearcutting the internet. Listen to the wind in the trees. Do not trust someone
 The internet is more of a park than a shopping mall. We are park builders here.
 
 Vision for [[fedwiki]]: something that is federated but is recognizably a wiki.
+
+You are not succesful if you are not being copied. Who cares if the idea is succesful? That's the foundation of creativity: understanding other ideas and making them your own. Different from a github model, where everybody is working towards the "same ideal code". We want instead a chorus of voices h
