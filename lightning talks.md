@@ -121,3 +121,7 @@ Flywheels and feedback loops.
 Inspiration: [[Doug engelbart]]
 
 (technical difficulties)
+
+[[junyu zhan]] from [[logseq]] next!
+
+![[Pasted image 20210622191857.png]]
