@@ -11,3 +11,9 @@
 ![[Pasted image 20210622180659.png]]
 
 First up: [[ward cunningham]]! Trends in this space.
+
+Do not trust someone with a business model, because they will prefer their model to you.
+
+Clearcutting the internet. Listen to the wind in the trees.
+
+The internet is more t
