@@ -65,3 +65,7 @@ Single powerful idea: let's write to-do items and notes with the same tool!
 [[dan whaley]]: to the audience. Keep thinking questions for the panel later :) Where is this all headed?
 
 Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
+
+[[oliver sauter]] in the flow: a case for bespoke interoperability.
+
+"how our future note-taking infrastructure can serve us wherever we are, as a constant companion"
