@@ -102,6 +102,8 @@ The problem: import/export flows are one way only.
 
 ![[Pasted image 20210622190022.png]]
 
-What's needed?
+What's needed? Commitment, protocol, APIs, conventions, services and clients.
 
 ![[Pasted image 20210622190059.png]]
+
+[[conaw]] is next.
