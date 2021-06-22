@@ -23,6 +23,7 @@
 		- [[daniel doyon]] note taking typically takes place within an app right now. in the future note taking will be more integrated at the browser/OS level.
 		- [[oliver sauter]] interoperability is key; interoperability is what lets knowledge subsist.
 		- [[conaw]] neuralink
-		- [[flancian]] +1, we don't know the nature of media/resources in the future; but 
-		- [[ward cunningham]] 
+		- [[flancian]] +1, we don't know the nature of media/resources in the future; but presumably the base problem of ownership of data/social graphs is orthogonal
+		- [[ward cunningham]] https broke the internet by the way
+	- Q: potential of [[ai]]
 		
