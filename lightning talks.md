@@ -99,3 +99,9 @@ The problem: import/export flows are one way only.
 ![[Pasted image 20210622185739.png]]
 
 ![[Pasted image 20210622185938.png]]
+
+![[Pasted image 20210622190022.png]]
+
+What's needed?
+
+![[Pasted image 20210622190059.png]]
