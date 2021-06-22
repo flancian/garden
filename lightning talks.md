@@ -54,4 +54,8 @@ Models and anti-model. Anti-mode: word documents floating around without version
 
 ![[Pasted image 20210622183300.png]]
 
+![[Pasted image 20210622183328.png]]
+
+Single powerful idea: let's 
+
 Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
