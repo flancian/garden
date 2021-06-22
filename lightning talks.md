@@ -106,4 +106,4 @@ What's needed? Commitment, protocol, APIs, conventions, services and clients.
 
 ![[Pasted image 20210622190059.png]]
 
-[[conaw]] is next.
+[[conaw]] is next. "roam is not about note taking". The landing page said that, but it was a matter of s
