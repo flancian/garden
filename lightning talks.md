@@ -22,4 +22,8 @@ You are not succesful if you are not being copied. Who cares if the idea is succ
 
 A place in your mind to create: different from just 'remembering' things. Creating collaboratively is amazing.
 
-The most common markup is text + double square brackets.
+The most common markup is text + double square brackets. But would like to branch out to many more complex formats; mind maps for example (might have gotten the term wrong here).
+
+[[sami husseni]] freeic.org (in chat)
+
+Descriptions of intention. Intentions being indep
