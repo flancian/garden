@@ -48,7 +48,7 @@
 			- curse of xanadu is alive
 			- solve problems in the order you need to solve them to set up 
 			- there is a world in which roam ends up open source
-		
+		- [[oliver sauter]] +1 over-optimism and idealism bit us in the past
 		
 		
 		
