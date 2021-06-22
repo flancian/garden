@@ -35,5 +35,6 @@
 		- [[ward cunningham]] 
 			- (has "the algorithmic beauty of sea shells")
 			- backlinks can be overwhelming: how to express which subset of them you are interested in.
-		- [[oliver sauter]] how do we make it possible in the UX 
+		- [[oliver sauter]] how do we make it possible in the UX to trigger lookup flows for \[\[
+		- [[bastien guerry]] backlinks will be the default
 		
