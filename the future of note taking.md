@@ -50,6 +50,7 @@
 			- there is a world in which roam ends up open source
 		- [[oliver sauter]] +1 over-optimism and idealism bit us in the past
 			- interoperability is our biggest blocker
+		- [[daniel doyon]] been in this space for 5y now; as of a year or two ago there was an inflection point. lots more innovation, more focus.
 		
 		
 		
