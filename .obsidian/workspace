@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the interlace.md",
+                "file": "2021-06-22.md",
                 "mode": "source"
               }
             }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lightning talks.md",
+                "file": "2021-06-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lightning talks.md"
+                "file": "2021-06-22.md"
               }
             }
           },
@@ -238,17 +238,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf8d8524ad11eb6d",
+  "active": "535a68bac392f60f",
   "lastOpenFiles": [
+    "2021-06-22.md",
+    "the interlace.md",
     "lightning talks.md",
     "hathitrust.md",
     "i annotate 2021.md",
     "2021-06-21.md",
-    "the interlace.md",
     "frankenbook.md",
     "git.md",
     "i annotate.md",
-    "wiki.md",
-    "free annotations.md"
+    "wiki.md"
   ]
 }
