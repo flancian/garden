@@ -9,4 +9,5 @@
 				- web of alexandria (sp?): most durable knowledge storage is dna. it is constantly propagating.
 				- roam exports to json and md to make data durable/portable.
 				- memory diamonds (?)
+		- [[ward cunningham]] certainly decentralization is needed. json is nice -- they claim it's not going to be versioned 
 		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strength through diversity. cooperative efforts. effective altruism.
