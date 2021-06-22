@@ -4,5 +4,6 @@
 	- [[dan whaley]] starts with the [[25 years question]]: really durable technologies last >25y. web has that; wikis are almost there. What's most important to think about note taking?
 		- [[oliver sauter]] anything that lasts 25y requires sustained effort. an ability to iterate towards this.
 		- [[conaw]] what's motivating the question? there seems to be an unspoken assumption that web/wiki technology is 25y old.
-			- what would define the note taking apps we use in 25y? what's most important about what we're about to build?
-		- [[flancian]] "seeding" or bootstrapping problem. inclusivity. cooperative efforts. effective altruism.
+			- [[dan whaley]] what would define the note taking apps we use in 25y? what's most important about what we're about to build?
+			- durability is an interesting idea: we are all benefitting from vannevar bush's [[memex]] and the mother of all demos.
+		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strenght through diversity. cooperative efforts. effective altruism.
