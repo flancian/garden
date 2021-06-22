@@ -78,3 +78,4 @@ In the context of [[memex]], they identified the [[creator workflow]]: [[discove
 
 ![[Pasted image 20210622184938.png]]
 
+![[Pasted image 20210622185107.png]]
