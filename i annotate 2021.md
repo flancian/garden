@@ -23,3 +23,6 @@
 	
 ## [[2021-06-22]]
 - [[lightning talks]]
+	- 
+- [[panel]]
+	- [[the future of note taking]]
