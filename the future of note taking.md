@@ -36,5 +36,14 @@
 			- (has "the algorithmic beauty of sea shells")
 			- backlinks can be overwhelming: how to express which subset of them you are interested in.
 		- [[oliver sauter]] how do we make it possible in the UX to trigger lookup flows for \[\[
-		- [[bastien guerry]] backlinks will be the default. [[org mode]] doesn't have them, but [[org roam]] implements them. the secret of [[org mode]] is how well integrated it is with emacs, and how often
+		- [[bastien guerry]] backlinks will be the default. [[org mode]] doesn't have them, but [[org roam]] implements them. the secret of [[org mode]] is how well integrated it is with emacs, and how often people just live in emacs.
+		- [[ward cunningham]] our experience: if you ask for backlinks 
+		
+		
+		
+		
+		
+		
+		
+		
 		
