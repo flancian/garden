@@ -127,3 +127,7 @@ Inspiration: [[Doug engelbart]]
 ![[Pasted image 20210622191857.png]]
 
 [[logseq]] starts as a personal project by [[tienson qin]]. Draws inspiration from other tools like [[roam research]]; we thank all tools we learnt from.
+
+Privacy and data security is of utmost importance. Open source. It makes a tool for knowledge available to anyone!
+
+Web a
