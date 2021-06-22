@@ -13,6 +13,10 @@
 			- we wanted to do *work* in the wiki instead of just writing about it. we wanted to bundle data and processes.
 			- different kinds of things got different markup -- we tried keeping the number of markups to a minimum.
 		- [[conor white-sullivan]] keeping links outside the file will
-		- [[junyu zhan]]
+		- [[junyu zhan]] predicting the future is hard but we can learn from history. let's take the web: why is it still around?
+			- it's open
+			- it's accessible to everyone
+			- it evolves -- we have better browsers and protocols than before but the content remains
+			- note taking applications will always
 		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strength through diversity. cooperative efforts. effective altruism.
 		
