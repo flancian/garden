@@ -39,8 +39,11 @@
 		- [[bastien guerry]] backlinks will be the default. [[org mode]] doesn't have them, but [[org roam]] implements them. the secret of [[org mode]] is how well integrated it is with emacs, and how often people just live in emacs.
 		- [[ward cunningham]] our experience: if you ask for backlinks, you'll get them from your neighborhood. when you get past 10k, things got breaking.
 		- [[dan whaley]] points at one of the drawbacks: scaling issues.
-	- [[clos]]
-	- [[bastien guerry]] thank you all, appreciate the 
+	- [[closing thoughts]]
+		- [[flancian]] thank you / a call for collaboration
+		- [[bastien guerry]] thank you all, appreciate the conversation and want to try out some of this stuff :)
+		- [[ward cunningham]] will you invite us all back ne
+		
 		
 		
 		
