@@ -34,4 +34,6 @@ Very few people (<5%) of those that kept book highlights had a way of revisiting
 
 Value proposition evolved into being a place that makes it easy to get all your data/annotations into a single place.
 
-Next up: me! No notes here but slides are on [[go/agora-slides]].
+Belief: when the [[pc]] came out, it was immediately better for writing than anything that existed and was analogue
+
+Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
