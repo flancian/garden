@@ -93,3 +93,8 @@ Takeaway: let's prefer emergent patterns to top-down approches.
 ![[Pasted image 20210622185629.png]]
 
 ![[Pasted image 20210622185702.png]]
+
+The problem: import/export flows are one way only.
+
+![[Pasted image 20210622185739.png]]
+
