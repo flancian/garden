@@ -117,3 +117,5 @@ Moore's law. [[cognitive surplus]].
 Many Wikipedias left to be created.
 
 Flywheels and feedback loops.
+
+Inspiration: [[Doug engelbart]]
