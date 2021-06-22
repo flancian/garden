@@ -1,3 +1,4 @@
 - [[i annotate 2021]]
 	- followed [[lightning talks]], same speaker set
-	
+	- [[q&a]]
+	- [[dan whaley]] starts with the [[25 years question]]: really durable technologies last >25y. web has that; wikis are almost there. What's most important to think about note taking?
