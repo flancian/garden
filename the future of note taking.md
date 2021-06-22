@@ -42,7 +42,9 @@
 	- [[closing thoughts]]
 		- [[flancian]] thank you / a call for collaboration
 		- [[bastien guerry]] thank you all, appreciate the conversation and want to try out some of this stuff :)
-		- [[ward cunningham]] will you invite us all back ne
+		- [[ward cunningham]] Dan, will you invite us all back next year to discuss process? ;)
+			- [[dan]] the post-future of note taking!
+		- [[conaw]] thank you for i annotate daniel for "how to take smart notes"
 		
 		
 		
