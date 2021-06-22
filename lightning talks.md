@@ -125,3 +125,5 @@ Inspiration: [[Doug engelbart]]
 [[junyu zhan]] from [[logseq]] next!
 
 ![[Pasted image 20210622191857.png]]
+
+[[logseq]] starts as a personal project by [[tienson qin]]. Draws inspiration from other tools like [[roam research]]; we thank all tools we learnt from.
