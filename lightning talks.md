@@ -119,3 +119,5 @@ Many Wikipedias left to be created.
 Flywheels and feedback loops.
 
 Inspiration: [[Doug engelbart]]
+
+(technical difficulties)
