@@ -12,4 +12,7 @@
 		- [[ward cunningham]] certainly decentralization is needed. json is nice -- they claim it's not going to be versioned.
 			- we wanted to do *work* in the wiki instead of just writing about it. we wanted to bundle data and processes.
 			- different kinds of things got different markup -- we tried keeping the number of markups to a minimum.
+		- [[conor white-sullivan]] keeping links outside the file will
+		- [[junyu zhan]]
 		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strength through diversity. cooperative efforts. effective altruism.
+		
