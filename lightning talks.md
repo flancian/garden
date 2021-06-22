@@ -135,3 +135,5 @@ Web app and desktop app recently went through refactoring, resulting in a better
 "People around the world are sharing, collaborating and building communities around it."
 
 Interoperability between different note taking talks is a problem we can solve together by embracing open standards.
+
+Panel comes next! [[the future of note taking]]
