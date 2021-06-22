@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-22.md",
+                "file": "lightning talks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-22.md"
+                "file": "lightning talks.md"
               }
             }
           },
@@ -238,11 +238,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "535a68bac392f60f",
+  "active": "cf8d8524ad11eb6d",
   "lastOpenFiles": [
+    "lightning talks.md",
     "2021-06-22.md",
     "the interlace.md",
-    "lightning talks.md",
     "hathitrust.md",
     "i annotate 2021.md",
     "2021-06-21.md",
