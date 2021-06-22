@@ -56,6 +56,10 @@ Models and anti-model. Anti-mode: word documents floating around without version
 
 ![[Pasted image 20210622183328.png]]
 
-Single powerful idea: let's 
+Single powerful idea: let's write to-do items and notes with the same tool!
+
+![[Pasted image 20210622183447.png]]
+
+"org mode brought folding to the people"
 
 Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
