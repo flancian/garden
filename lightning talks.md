@@ -34,6 +34,6 @@ Very few people (<5%) of those that kept book highlights had a way of revisiting
 
 Value proposition evolved into being a place that makes it easy to get all your data/annotations into a single place.
 
-Belief: when the [[pc]] came out, it was immediately better for writing than anything that existed and was analogue
+Belief: when the [[pc]] came out, it was immediately better for writing than anything that existed and was analog. Software 'ate' the practice of writing, which includes note taking. What software *didn't* eat was reading; low resolution CRTs weren't better than printed material.
 
 Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
