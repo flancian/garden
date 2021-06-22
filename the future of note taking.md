@@ -22,6 +22,7 @@
 		- [[flancian]] "seeding" or bootstrapping problem. inclusivity, strength through diversity. I'd like whatever takes the place of the agora in 25y to be not only runnable but reimplementable by an interested 13yo with plenty of time. cooperative efforts. effective altruism.
 		- [[daniel doyon]] note taking typically takes place within an app right now. in the future note taking will be more integrated at the browser/OS level.
 		- [[oliver sauter]] interoperability is key; interoperability is what lets knowledge subsist.
-		- [[]]
-		
+		- [[conaw]] neuralink
+		- [[flancian]] +1, we don't know the nature of media/resources in the future; but 
+		- [[ward cunningham]] 
 		
