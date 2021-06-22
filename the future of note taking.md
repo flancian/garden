@@ -29,5 +29,6 @@
 		- [[ward cuningham]] translation
 		- [[bastien guerry]] inference from notes
 		- [[flancian]] 
-			- translation not only between 
+			- translation not only between natural languages but also mental models
+			- generative models on 
 		
