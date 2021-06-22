@@ -26,9 +26,11 @@
 		- [[flancian]] +1, we don't know the nature of media/resources in the future; but presumably the base problem of ownership of data/social graphs is orthogonal
 		- [[ward cunningham]] https broke the internet by the way
 	- Q: potential of [[ai]]
-		- [[ward cuningham]] translation
+		- [[ward cunningham]] translation
 		- [[bastien guerry]] inference from notes
 		- [[flancian]] 
 			- translation not only between natural languages but also mental models
-			- generative models on 
+			- generative models on group data
+	- [[bidirectionality]]
+		- [[ward cunningham]] 
 		
