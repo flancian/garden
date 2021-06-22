@@ -69,3 +69,5 @@ Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
 [[oliver sauter]] in the flow: a case for bespoke interoperability.
 
 "how our future note-taking infrastructure can serve us wherever we are, as a constant companion"
+
+
