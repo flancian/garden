@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "the interlace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate 2021.md"
+                "file": "the interlace.md"
               }
             }
           },
@@ -227,10 +227,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc077327f3aa5b4e",
+  "active": "535a68bac392f60f",
   "lastOpenFiles": [
-    "i annotate 2021.md",
     "the interlace.md",
+    "i annotate 2021.md",
     "frankenbook.md",
     "hathitrust.md",
     "git.md",
