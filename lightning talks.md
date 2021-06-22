@@ -36,7 +36,14 @@ Value proposition evolved into being a place that makes it easy to get all your 
 
 Belief: when the [[pc]] came out, it was immediately better for writing than anything that existed and was analog. Software 'ate' the practice of writing, which includes note taking. What software *didn't* eat was reading; low resolution CRTs weren't better than printed material.
 
+Next: [[bastien guerry]]. Missed the beginning due to technical problems.
 
-Next: [[bastien guerry]].
+Plato's written dialogues.
+
+![[Pasted image 20210622183029.png]]
+
+Writing: both a remedy and a poison.
+
+![[Pasted image 20210622183043.png]]
 
 Next up: me! Supposedly. No notes here but slides are on [[go/agora-slides]].
