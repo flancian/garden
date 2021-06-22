@@ -42,7 +42,11 @@ Plato's written dialogues.
 
 ![[Pasted image 20210622183029.png]]
 
-Writing: both a remedy and a poison.
+Writing: both a remedy and a poison. [[pharmakon]].
+
+Models and anti-model. Anti-mode: word documents floating around without versinion
+
+![[Pasted image 20210622183156.png]]
 
 ![[Pasted image 20210622183043.png]]
 
