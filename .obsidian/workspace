@@ -297,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longer stoa ids.md",
+                "file": "2021-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "longer stoa ids.md"
+                "file": "2021-06-23.md"
               }
             }
           },
@@ -370,10 +370,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2fd479dac4cc7f8",
+  "active": "27b2c468d389fdc6",
   "lastOpenFiles": [
-    "longer stoa ids.md",
     "2021-06-23.md",
+    "longer stoa ids.md",
     "wittgenstein protocol.md",
     "vera.md",
     "entities.md",
