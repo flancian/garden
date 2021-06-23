@@ -18,10 +18,9 @@
 		- or modify the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
 	- the [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
 		- the [[seed]] of this agora is [[go/agora/git]].
+			- [[agora server]], [[agora bridge]] and [[flancia collective]] are its keepers.
 		- this [[agora]] is being bootstrapped with a list of [[gardens]], that is, a set of [[personal knowledge graphs]] volunteered by [[users]].
-		- compatible [[agoras]] are expected to assemble into [[agora networks]] in the future.
-		- [[agora server]] is a reference implementation for a server based integrator/[[interlay]].
-			- the [[agora server]] repository is [[go/agora-server/git]]
+		- compatible [[agoras]] are expected to assemble into [[agora networks]] in the future, or build a [[hypha]].
 	- the goals of this agora are engineered by its community by contributing to the following nodes: [[goals]], [[do]], [[contract]], [[flancia collective]] and all [[pulled]].
 	- [[2020]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
 	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
