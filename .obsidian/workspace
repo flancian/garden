@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-21.md",
+                "file": "2021-06-23.md",
                 "mode": "source"
               }
             }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brandon toner.md",
+                "file": "2021-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "brandon toner.md"
+                "file": "2021-06-23.md"
               }
             }
           },
@@ -293,17 +293,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07e286a040d97b08",
+  "active": "5acf377a913f273a",
   "lastOpenFiles": [
-    "brandon toner.md",
+    "2021-06-23.md",
     "2021-06-21.md",
+    "2021-06-22.md",
+    "brandon toner.md",
     "private/test.md",
     "digital gardens.md",
     "digital gardeners.md",
-    "2021-06-23.md",
     "vera.md",
     "hashtags.md",
-    "i annotate 2021.md",
-    "lightning talks.md"
+    "i annotate 2021.md"
   ]
 }
