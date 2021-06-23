@@ -1,0 +1,3 @@
+- to [[look up]] an [[entity]] in the [[agora]], you can:
+	- search for it on https://anagora.org
+	- pass it to https://anagora.org by encoding it as a 

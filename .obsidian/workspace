@@ -30,6 +30,17 @@
             }
           },
           {
+            "id": "ccc2b5348a47b271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entities can be looked up in an agora.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "590578daf8557796",
             "type": "leaf",
             "state": {
@@ -308,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora protocol.md",
+                "file": "entities can be looked up in an agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora protocol.md"
+                "file": "entities can be looked up in an agora.md"
               }
             }
           },
@@ -381,17 +392,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "490904cce1505fba",
+  "active": "ccc2b5348a47b271",
   "lastOpenFiles": [
-    "agora protocol.md",
+    "entities can be looked up in an agora.md",
     "2021-06-23.md",
+    "agora protocol.md",
     "longer stoa ids.md",
     "wittgenstein protocol.md",
     "vera.md",
     "entities.md",
     "push.md",
     "stoa poikile.md",
-    "Ophir Lifshitz.md",
-    "researching social annotation in education.md"
+    "Ophir Lifshitz.md"
   ]
 }
