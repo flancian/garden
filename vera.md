@@ -20,3 +20,9 @@
 	- hashtags vs wikilinks
 	- what to do next?
 	- check out [[twitter]] themed repo in [[fedstoa]] 
+	- [[maui]]
+	- [[agora protocol]]
+		- [[wikilinks everywhere]]
+		- [[agora actions]]
+	- [[m prime]]
+		- we want specific examples, will keep an eye out for them
