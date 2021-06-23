@@ -2,4 +2,6 @@
 	- [[twitter]] https://twitter.com/brandontoner
 	- [[roam]] user
 		- [[multiplayer communities]]
-		- [[shared roam environments]
+		- [[shared roam environments]]
+			- even at work with people without roam experience
+		- [[second brain]] course
