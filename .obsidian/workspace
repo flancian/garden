@@ -19,23 +19,12 @@
             }
           },
           {
-            "id": "052c3e05f213da18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-23.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "4d2c9bb987354b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "annotation and the social prize of educational dignity.md",
                 "mode": "source"
               }
             }
@@ -253,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-23.md",
+                "file": "annotation and the social prize of educational dignity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-23.md"
+                "file": "annotation and the social prize of educational dignity.md"
               }
             }
           },
@@ -326,17 +315,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5acf377a913f273a",
+  "active": "4d2c9bb987354b46",
   "lastOpenFiles": [
-    "2021-06-23.md",
+    "annotation and the social prize of educational dignity.md",
     "i annotate 2021.md",
+    "2021-06-23.md",
     "massive wiki.md",
     "peter kaminski.md",
     "2021-06-21.md",
     "2021-06-22.md",
     "brandon toner.md",
     "private/test.md",
-    "digital gardens.md",
-    "digital gardeners.md"
+    "digital gardens.md"
   ]
 }
