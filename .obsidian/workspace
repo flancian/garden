@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "peter kaminski.md",
+                "file": "2021-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "peter kaminski.md"
+                "file": "2021-06-23.md"
               }
             }
           },
@@ -315,11 +315,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27b2c468d389fdc6",
+  "active": "5acf377a913f273a",
   "lastOpenFiles": [
+    "2021-06-23.md",
     "peter kaminski.md",
     "massive wiki.md",
-    "2021-06-23.md",
     "2021-06-21.md",
     "2021-06-22.md",
     "brandon toner.md",
