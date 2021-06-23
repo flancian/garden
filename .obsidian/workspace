@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "researching social annotation in education.md",
+                "file": "2021-06-23.md",
                 "mode": "source"
               }
             }
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stoa poikile.md",
+                "file": "2021-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stoa poikile.md"
+                "file": "2021-06-23.md"
               }
             }
           },
@@ -326,12 +326,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "490904cce1505fba",
+  "active": "5acf377a913f273a",
   "lastOpenFiles": [
-    "stoa poikile.md",
     "2021-06-23.md",
-    "peter kaminski.md",
     "researching social annotation in education.md",
+    "stoa poikile.md",
+    "peter kaminski.md",
     "i annotate 2021.md",
     "xinran zhu.md",
     "annotation and the social prize of educational dignity.md",
