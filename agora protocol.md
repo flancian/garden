@@ -1,11 +1,13 @@
 # Agora Protocol
 
 - a [[protocol]]
+	- [[plain teplus [[wikilinks]] as layer 0 (bootstrapping).
+		- successive layers are explicitly 
 	- this [[agora]] is a [[pro social]] [[distributed knowledge graph]].
-	- that seeks to achieve optimality w.r.t. exchange of knowledge in a [[social knowledge graph]].
-	- to see the communally maintained text of the protocol, please refer to the [[stoa]].
-		- [[stoa]] https://stoa.anagora.org/p/stoa
-			- or find it below :)
+		- that seeks to achieve optimality w.r.t. exchange of knowledge in a [[social knowledge graph]].
+		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
+			- [[stoa]] https://stoa.anagora.org/p/stoa
+				- or find it below :)
 	- for proposed [[extensions]], see [[agora rfcs]].
 - a set of [[conventions]]
 	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. Conventions can be optional or necessary and must be marked as such. The default for this protocol is [[optional]]. [[use must if you must]].
