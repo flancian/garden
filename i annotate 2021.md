@@ -22,6 +22,7 @@
 		- [[courtney mcclellan]]
 - [[panel]]
 	- [[discussing social annotation and digital literacies]]
+	- [[researching social annotation in education]]
 	
 ## [[2021-06-22]]
 - [[lightning talks]]
