@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "2021-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate 2021.md"
+                "file": "2021-06-23.md"
               }
             }
           },
@@ -326,10 +326,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d2c9bb987354b46",
+  "active": "5acf377a913f273a",
   "lastOpenFiles": [
-    "i annotate 2021.md",
     "2021-06-23.md",
+    "i annotate 2021.md",
     "massive wiki.md",
     "peter kaminski.md",
     "2021-06-21.md",
