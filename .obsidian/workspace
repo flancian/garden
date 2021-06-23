@@ -30,6 +30,17 @@
             }
           },
           {
+            "id": "e2fd479dac4cc7f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "longer stoa ids.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "490904cce1505fba",
             "type": "leaf",
             "state": {
@@ -286,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wittgenstein protocol.md",
+                "file": "longer stoa ids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wittgenstein protocol.md"
+                "file": "longer stoa ids.md"
               }
             }
           },
@@ -359,17 +370,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d346849c59daf3d4",
+  "active": "e2fd479dac4cc7f8",
   "lastOpenFiles": [
+    "longer stoa ids.md",
+    "2021-06-23.md",
     "wittgenstein protocol.md",
     "vera.md",
-    "2021-06-23.md",
     "entities.md",
     "push.md",
     "agora protocol.md",
     "stoa poikile.md",
     "Ophir Lifshitz.md",
-    "researching social annotation in education.md",
-    "peter kaminski.md"
+    "researching social annotation in education.md"
   ]
 }
