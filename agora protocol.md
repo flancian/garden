@@ -1,6 +1,7 @@
 # Agora Protocol
 
 - a [[protocol]]
+	- this [[agora]] is a [[pro social]] [[distributed knowledge graph]].
 	- that seeks to achieve optimality w.r.t. exchange of knowledge in a [[social knowledge graph]].
 	- [[stoa]] https://stoa.anagora.org/p/stoa
 		- or find it below :)
@@ -11,10 +12,9 @@
 	- for extensions
 		- please propose them in the stoa below
 		- or see the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
-	- the agora is a root that wants to grow into a [[tree]], and from there into a [[distributed]] network.
+	- the [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
 		- an [[agora]] starts with a list of [[gardens]], that is, [[personal knowledge graphs]] as volunteered by its users.
-		- compatible [[agoras]] are expected to assemble into [[agora networks]].
-		- this [[agora]] is a [[pro social]] [[distributed knowledge graph]].
+		- compatible [[agoras]] are expected to assemble into [[agora networks]] in the future.
 - you are reading this on a particular [[implementation]] of a tools that tries to build on the agora protocol. 
 	- that is, this is [[an agora]] -- but just one of many.
 	- its root repository is [[go/agora/git]]
