@@ -1,8 +1,9 @@
 # Agora Protocol
 
 - a [[protocol]]
-	- [[plain teplus [[wikilinks]] as layer 0 (bootstrapping).
-		- successive layers are explicitly 
+	- [[plain text]] plus [[wikilinks]] as layer 0 (bootstrapping layer).
+		- indented bulleted lists designate a [[heterarchy]].
+		- successive layers are explicitly designated through [[agora rfcs]].
 	- this [[agora]] is a [[pro social]] [[distributed knowledge graph]].
 		- that seeks to achieve optimality w.r.t. exchange of knowledge in a [[social knowledge graph]].
 		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
