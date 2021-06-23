@@ -8,9 +8,9 @@
 			- or find it below :)
 	- for proposed [[extensions]], see [[agora rfcs]].
 - a set of [[conventions]]
-	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. Conventions can be optional or necessary and must be marked as such. The default for this document is [[]]
-	- [[the agora is a markup convention]]
-	- the [[agora]] you're likely reading thi is just one possible implementation of a platform built on a simple protocol. The protocol is defined in this node as a [[stoa]] (shared document) plus a set of nodes pulled here from around the [[agora]]. 
+	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. Conventions can be optional or necessary and must be marked as such. The default for this protocol is [[optional]]. [[use must if you must]].
+	- the [[agora]] you're likely reading this in is just one possible implementation of a platform or [[framework]] built on a simple protocol. 
+		- [[the agora is a markup convention]]
 	- for extensions
 		- please propose them in the stoa below
 		- or see the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
