@@ -6,3 +6,5 @@
 		- [[shared roam environments]]
 			- even at work with people without roam experience
 		- [[second brain]] course
+	- pipeline
+		- private chaotic -> public chaotic -> public organized
