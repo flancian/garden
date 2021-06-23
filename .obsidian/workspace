@@ -8,14 +8,6 @@
         "type": "split",
         "children": [
           {
-            "id": "5acf377a913f273a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "4d2c9bb987354b46",
             "type": "leaf",
             "state": {
