@@ -19,6 +19,17 @@
             }
           },
           {
+            "id": "068a39b4bce2d1df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/test.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "535a68bac392f60f",
             "type": "leaf",
             "state": {
@@ -228,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brandon toner.md",
+                "file": "private/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "brandon toner.md"
+                "file": "private/test.md"
               }
             }
           },
@@ -301,8 +312,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07e286a040d97b08",
+  "active": "068a39b4bce2d1df",
   "lastOpenFiles": [
+    "private/test.md",
+    "2021-06-21.md",
     "brandon toner.md",
     "digital gardens.md",
     "digital gardeners.md",
@@ -310,8 +323,6 @@
     "vera.md",
     "hashtags.md",
     "i annotate 2021.md",
-    "lightning talks.md",
-    "hathitrust.md",
-    "frankenbook.md"
+    "lightning talks.md"
   ]
 }
