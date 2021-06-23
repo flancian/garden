@@ -11,11 +11,8 @@
             "id": "5acf377a913f273a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ophir Lifshitz.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -253,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ophir Lifshitz.md",
+                "file": "stoa poikile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ophir Lifshitz.md"
+                "file": "stoa poikile.md"
               }
             }
           },
@@ -326,12 +323,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5acf377a913f273a",
+  "active": "490904cce1505fba",
   "lastOpenFiles": [
+    "stoa poikile.md",
     "Ophir Lifshitz.md",
     "2021-06-23.md",
     "researching social annotation in education.md",
-    "stoa poikile.md",
     "peter kaminski.md",
     "i annotate 2021.md",
     "xinran zhu.md",
