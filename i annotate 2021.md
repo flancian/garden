@@ -26,3 +26,9 @@
 	- kick off by [[dan whaley]]
 - [[panel]] (same participants)
 	- [[the future of note taking]]
+	
+	## [[2021-06-22]]
+- [[lightning talks]]
+	- kick off by [[dan whaley]]
+- [[panel]] (same participants)
+	- [[the future of note taking]]
