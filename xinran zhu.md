@@ -1,3 +1,3 @@
 - a [[person]]
 	- [[researcher]]
-	- [[go]] xinran093.github.io
+	- [[go]] https://xinran093.github.io

@@ -13,29 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i annotate 2021.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "073f68c9aeb85557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "researching social annotation in education.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "39fe9e9cdc44bab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xinran zhu.md",
                 "mode": "source"
               }
             }
@@ -264,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xinran zhu.md",
+                "file": "researching social annotation in education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xinran zhu.md"
+                "file": "researching social annotation in education.md"
               }
             }
           },
@@ -337,11 +315,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39fe9e9cdc44bab0",
+  "active": "5acf377a913f273a",
   "lastOpenFiles": [
-    "xinran zhu.md",
     "researching social annotation in education.md",
     "i annotate 2021.md",
+    "xinran zhu.md",
     "peter kaminski.md",
     "2021-06-23.md",
     "annotation and the social prize of educational dignity.md",
