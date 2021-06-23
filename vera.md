@@ -16,4 +16,6 @@
 - plan for the day
 	- [[pr]] for ranking
 		- could probably be altered into client side auto pull
-	- [[clien]]
+	- [[client]] side pulls
+	- hashtags vs wikilinks
+	- what to do next?
