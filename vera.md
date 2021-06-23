@@ -28,3 +28,4 @@
 		- we want specific examples, will keep an eye out for them
 	- who we could talk to next
 		- [[nathan schneider]]
+		- [[logseq]]
