@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hashtags.md",
+                "file": "vera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hashtags.md"
+                "file": "vera.md"
               }
             }
           },
@@ -271,11 +271,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bac66ccb7c32479e",
+  "active": "0f3c971d81619db9",
   "lastOpenFiles": [
+    "vera.md",
     "hashtags.md",
     "2021-06-23.md",
-    "vera.md",
     "i annotate 2021.md",
     "lightning talks.md",
     "hathitrust.md",
