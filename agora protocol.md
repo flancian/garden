@@ -7,7 +7,10 @@
 	- for proposed [[extensions]], see [[agora rfcs]].
 - a set of [[conventions]]
 	- [[the agora is a markup convention]]
-	- the [[agora]] you're likely reading thi is just one possible implementation of a platform built on a simple protocol. The protocol is defined in this node as a [[stoa]] (shared document) as a list of [[agora rfcs]] as kept by a community agreeing to cooperate on such a list.
+	- the [[agora]] you're likely reading thi is just one possible implementation of a platform built on a simple protocol. The protocol is defined in this node as a [[stoa]] (shared document) plus a set of nodes pulled here from around the [[agora]]. 
+	- for extensions
+		- please propose them in the stoa below
+		- or see the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
 	- the agora is a root that wants to grow into a [[tree]], and from there into a [[distributed]] network.
 		- an [[agora]] starts with a list of [[gardens]], that is, [[personal knowledge graphs]] as volunteered by its users.
 		- compatible [[agoras]] are expected to assemble into [[agora networks]].
