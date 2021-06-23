@@ -1,0 +1,3 @@
+- a [[person]]
+	- [[researcher]]
+	- [[go]] xinran093.github.io
