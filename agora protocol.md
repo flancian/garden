@@ -3,10 +3,12 @@
 - a [[protocol]]
 	- this [[agora]] is a [[pro social]] [[distributed knowledge graph]].
 	- that seeks to achieve optimality w.r.t. exchange of knowledge in a [[social knowledge graph]].
-	- [[stoa]] https://stoa.anagora.org/p/stoa
-		- or find it below :)
+	- to see the communally maintained text of the protocol, please refer to the [[stoa]].
+		- [[stoa]] https://stoa.anagora.org/p/stoa
+			- or find it below :)
 	- for proposed [[extensions]], see [[agora rfcs]].
 - a set of [[conventions]]
+	- a [[protocol]] is a set of compulsory or optional conventions.
 	- [[the agora is a markup convention]]
 	- the [[agora]] you're likely reading thi is just one possible implementation of a platform built on a simple protocol. The protocol is defined in this node as a [[stoa]] (shared document) plus a set of nodes pulled here from around the [[agora]]. 
 	- for extensions
