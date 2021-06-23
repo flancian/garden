@@ -70,6 +70,17 @@
             }
           },
           {
+            "id": "07e286a040d97b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brandon toner.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "33e9e90f9a5b7266",
             "type": "leaf",
             "state": {
@@ -217,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital gardens.md",
+                "file": "brandon toner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "digital gardens.md"
+                "file": "brandon toner.md"
               }
             }
           },
@@ -290,8 +301,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a19585a5c1c5b141",
+  "active": "07e286a040d97b08",
   "lastOpenFiles": [
+    "brandon toner.md",
     "digital gardens.md",
     "digital gardeners.md",
     "2021-06-23.md",
@@ -300,7 +312,6 @@
     "i annotate 2021.md",
     "lightning talks.md",
     "hathitrust.md",
-    "frankenbook.md",
-    "speculative annotation.md"
+    "frankenbook.md"
   ]
 }

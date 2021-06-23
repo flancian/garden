@@ -1,9 +1,10 @@
 - a [[list]]
   - [[pull]] [[digital garden]]
-  - [[digital gardeners]] 
+  - [[pull]] [[digital gardeners]] 
   - [[logseq]] https://github.com/logseq/awesome-logseq#community-knowledge-gardens
   - [[obsidian]] https://forum.obsidian.md/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248
   - [[roam]] ?
+  	- probably ask [[brandon toner]]
   
 https://twitter.com/logseq/status/1375845119056773126
 https://twitter.com/tovissy/status/1377780968761745410
