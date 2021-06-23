@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-23.md",
+                "file": "Ophir Lifshitz.md",
                 "mode": "source"
               }
             }
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-23.md",
+                "file": "Ophir Lifshitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-23.md"
+                "file": "Ophir Lifshitz.md"
               }
             }
           },
@@ -328,6 +328,7 @@
   },
   "active": "5acf377a913f273a",
   "lastOpenFiles": [
+    "Ophir Lifshitz.md",
     "2021-06-23.md",
     "researching social annotation in education.md",
     "stoa poikile.md",
@@ -336,7 +337,6 @@
     "xinran zhu.md",
     "annotation and the social prize of educational dignity.md",
     "massive wiki.md",
-    "2021-06-21.md",
-    "2021-06-22.md"
+    "2021-06-21.md"
   ]
 }
