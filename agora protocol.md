@@ -1,13 +1,13 @@
 # Agora Protocol
 
 - a [[protocol]]
-	- that seeks to achieve optimality w.r..t exchange of knowledge in a [[social knowledge graph]].
+	- that seeks to achieve optimality w.r.t. exchange of knowledge in a [[social knowledge graph]].
 	- [[stoa]] https://stoa.anagora.org/p/stoa
-	- or find it below :)
+		- or find it below :)
 	- for proposed [[extensions]], see [[agora rfcs]].
 - a set of [[conventions]]
 	- [[the agora is a markup convention]]
-	- the [[agora]] you're likely reading this on is just one possible implementation of a platform built on a simple protocol. The protocol is defined as a list of [[agora rfcs]] as kept by a community agreeing to cooperate on such a list.
+	- the [[agora]] you're likely reading thi is just one possible implementation of a platform built on a simple protocol. The protocol is defined in this node as a [[stoa]] (shared document) as a list of [[agora rfcs]] as kept by a community agreeing to cooperate on such a list.
 	- the agora is a root that wants to grow into a [[tree]], and from there into a [[distributed]] network.
 		- an [[agora]] starts with a list of [[gardens]], that is, [[personal knowledge graphs]] as volunteered by its users.
 		- compatible [[agoras]] are expected to assemble into [[agora networks]].
