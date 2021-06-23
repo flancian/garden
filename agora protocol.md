@@ -3,14 +3,12 @@
 - a [[protocol]]
 	- [[plain text]] plus [[wikilinks]] as layer 0 (bootstrapping layer).
 		- indented bulleted lists designate a [[heterarchy]].
-		- successive layers are explicitly designated through [[agora rfcs]].
+		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called.
 		- agora protocol can be exchanged in a designated [[agora]].
-		- (this [[agora]] is a [[pro social]] [[distributed knowledge graph]]. see [[go/agora-slides]] for more.)
-		- that seeks to achieve optimality w.r.t. exchange of knowledge in a [[social knowledge graph]].
+		- (this [[agora]] is a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].)
+		- (see [[go/agora-slides]] for more.)
 		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
 			- [[stoa]] https://stoa.anagora.org/p/stoa
-				- or find it below :)
-	- for proposed [[extensions]], see [[agora rfcs]].
 - a set of [[conventions]]
 	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. Conventions can be optional or necessary and must be marked as such. The default for this protocol is [[optional]]. [[use must if you must]].
 	- the [[agora]] you're likely reading this in is just one possible implementation of a platform or [[framework]] built on a simple protocol. 
