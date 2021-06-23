@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora protocol.md",
+                "file": "2021-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora protocol.md"
+                "file": "2021-06-23.md"
               }
             }
           },
@@ -381,10 +381,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "590578daf8557796",
+  "active": "27b2c468d389fdc6",
   "lastOpenFiles": [
-    "agora protocol.md",
     "2021-06-23.md",
+    "agora protocol.md",
     "longer stoa ids.md",
     "wittgenstein protocol.md",
     "vera.md",
