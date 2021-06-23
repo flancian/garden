@@ -1,3 +1,4 @@
 - to [[look up]] an [[entity]] in the [[agora]], you can:
 	- search for it on https://anagora.org
-	- pass it to https://anagora.org by encoding it as a 
+	- pass it to https://anagora.org/ with spaces intact or replaced by hyphens: https://anagora.org/entities-can-be-looked-up-in-an-agora
+	- install [[agora search]] and type 
