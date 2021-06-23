@@ -19,17 +19,6 @@
             }
           },
           {
-            "id": "068a39b4bce2d1df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/test.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "535a68bac392f60f",
             "type": "leaf",
             "state": {
@@ -89,14 +78,6 @@
                 "file": "brandon toner.md",
                 "mode": "source"
               }
-            }
-          },
-          {
-            "id": "33e9e90f9a5b7266",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -239,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/test.md",
+                "file": "brandon toner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/test.md"
+                "file": "brandon toner.md"
               }
             }
           },
@@ -312,11 +293,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "068a39b4bce2d1df",
+  "active": "07e286a040d97b08",
   "lastOpenFiles": [
-    "private/test.md",
-    "2021-06-21.md",
     "brandon toner.md",
+    "2021-06-21.md",
+    "private/test.md",
     "digital gardens.md",
     "digital gardeners.md",
     "2021-06-23.md",
