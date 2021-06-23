@@ -13,3 +13,5 @@
   - [[email]] veronika.m.winters on google's mail
 
 ## [[2021-06-23]]
+- plan for the day
+	- [[pr]] for ranking
