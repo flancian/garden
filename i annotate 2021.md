@@ -6,6 +6,8 @@
 		- [[schedule]] https://iannotate.org/2021/program.html
 		- there will be an [[agora]] lightning talk on Tuesday
 	- [[feed]] https://hypothes.is/search?q=tag%3A%22%23IAnno21%22
+	- [[stoa]] https://stoa.anagora.org/p/i-annotate-2021
+		- or see below :)
 			
 ## [[2021-06-21]]
 - [[kick off]]
