@@ -59,6 +59,28 @@
             }
           },
           {
+            "id": "a19585a5c1c5b141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digital gardens.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "33e9e90f9a5b7266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "digital gardeners.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "bac66ccb7c32479e",
             "type": "leaf",
             "state": {
@@ -198,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera.md",
+                "file": "digital gardeners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vera.md"
+                "file": "digital gardeners.md"
               }
             }
           },
@@ -271,17 +293,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f3c971d81619db9",
+  "active": "33e9e90f9a5b7266",
   "lastOpenFiles": [
+    "digital gardeners.md",
+    "digital gardens.md",
+    "2021-06-23.md",
     "vera.md",
     "hashtags.md",
-    "2021-06-23.md",
     "i annotate 2021.md",
     "lightning talks.md",
     "hathitrust.md",
     "frankenbook.md",
-    "speculative annotation.md",
-    "2021-06-22.md",
-    "the future of note taking.md"
+    "speculative annotation.md"
   ]
 }
