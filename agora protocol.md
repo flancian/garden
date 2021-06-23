@@ -5,12 +5,13 @@
 		- indented bulleted lists designate a [[heterarchy]].
 		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]].
 			- agora protocol payloads may be exchanged for further knowledge for [[free]] in any designated [[agora]].
-		- (this [[agora]] is a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].)
-		- (see [[go/agora-slides]] for more.)
+			- (this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].)
+			- (see [[go/agora-slides]] for more.)
 		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
 			- [[stoa]] https://stoa.anagora.org/p/stoa
 - a set of [[conventions]]
-	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. Conventions can be optional or necessary and must be marked as such. The default for this protocol is [[optional]]. [[use must if you must]].
+	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. 
+		- conventions can be optional or necessary and must be marked as such. The default commitment level for this protocol is [[optional]]. [[use must if you must]].
 	- the [[agora]] you're likely reading this in is just one possible implementation of a platform or [[framework]] built on a simple protocol. 
 		- [[the agora is a markup convention]]
 	- for [[extensions]]
