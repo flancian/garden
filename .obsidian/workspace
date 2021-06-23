@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora protocol.md",
+                "file": "wittgenstein protocol.md",
                 "mode": "source"
               }
             }
@@ -319,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entities can be looked up in an agora.md",
+                "file": "wittgenstein protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entities can be looked up in an agora.md"
+                "file": "wittgenstein protocol.md"
               }
             }
           },
@@ -392,13 +392,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ccc2b5348a47b271",
+  "active": "490904cce1505fba",
   "lastOpenFiles": [
+    "wittgenstein protocol.md",
+    "agora protocol.md",
     "entities can be looked up in an agora.md",
     "2021-06-23.md",
-    "agora protocol.md",
     "longer stoa ids.md",
-    "wittgenstein protocol.md",
     "vera.md",
     "entities.md",
     "push.md",
