@@ -3,8 +3,8 @@
 - a [[protocol]]
 	- [[plain text]] plus [[wikilinks]] as layer 0 (bootstrapping layer).
 		- indented bulleted lists designate a [[heterarchy]].
-		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called.
-		- agora protocol can be exchanged in a designated [[agora]].
+		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]].
+			- agora protocol payloads may be exchanged for further knowledge for [[free]] in any designated [[agora]].
 		- (this [[agora]] is a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].)
 		- (see [[go/agora-slides]] for more.)
 		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
