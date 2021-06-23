@@ -29,3 +29,4 @@
 	- who we could talk to next
 		- [[nathan schneider]]
 		- [[logseq]]
+		- [[chris aldrich]]
