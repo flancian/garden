@@ -11,3 +11,9 @@
 ![[Pasted image 20210623182349.png]]
 
 ![[Pasted image 20210623183510.png]]
+
+[[frida silva]]
+
+![[Pasted image 20210623184044.png]]
+
+![[Pasted image 20210623184058.png]]
