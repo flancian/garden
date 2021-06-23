@@ -59,6 +59,17 @@
             }
           },
           {
+            "id": "bac66ccb7c32479e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hashtags.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "0f3c971d81619db9",
             "type": "leaf",
             "state": {
@@ -187,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vera.md",
+                "file": "hashtags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vera.md"
+                "file": "hashtags.md"
               }
             }
           },
@@ -260,17 +271,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f3c971d81619db9",
+  "active": "bac66ccb7c32479e",
   "lastOpenFiles": [
-    "vera.md",
+    "hashtags.md",
     "2021-06-23.md",
+    "vera.md",
     "i annotate 2021.md",
     "lightning talks.md",
     "hathitrust.md",
     "frankenbook.md",
     "speculative annotation.md",
     "2021-06-22.md",
-    "the future of note taking.md",
-    "the interlace.md"
+    "the future of note taking.md"
   ]
 }
