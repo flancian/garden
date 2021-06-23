@@ -12,9 +12,8 @@
 - a set of [[conventions]]
 	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. 
 		- conventions can be optional or necessary and must be marked as such. The default commitment level for this protocol is [[optional]]. [[use must if you must]].
-	- the [[agora]] you're likely reading this in is just one possible implementation of a platform or [[framework]] built on a simple protocol. 
 		- [[the agora is a markup convention]]
-	- for [[extensions]]
+	- for [[extensions]]:
 		- please propose them in the stoa below
 		- or modify the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
 	- the [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
@@ -27,7 +26,7 @@
 			- the [[agora server]] repository is [[go/agora-server/git]]
 	- the goals of this agora are engineered by its community by contributing to the following nodes: [[goals]], [[do]], [[contract]], [[flancia collective]] and all [[pulled]].
 	- [[2020]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
-	- [[2021]] see: this node, [[go/agora-slides]] and [[agora]].
+	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
 	
 https://twitter.com/flancian/status/1368586813254889475
 https://twitter.com/flancian/status/1373681988675190785
