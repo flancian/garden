@@ -7,7 +7,6 @@
 			- agora protocol payloads may be exchanged for knowledge for [[free]] in any designated [[agora]].
 			- this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]]. 
 			- see [[go/agora-slides]] for more.
-			- the [[seed]] of this agora is [[go/agora/git]].
 		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
 			- [[stoa]] https://stoa.anagora.org/p/stoa
 - a set of [[conventions]]
@@ -18,7 +17,8 @@
 		- please propose them in the stoa below
 		- or modify the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
 	- the [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
-		- an [[agora]] starts with a list of [[gardens]], that is, [[personal knowledge graphs]] as volunteered by its users.
+		- the [[seed]] of this agora is [[go/agora/git]].
+		- this [[agora]] is being bootstrapped with a list of [[gardens]], that is, a set of [[personal knowledge graphs]] volunteered by [[users]].
 		- compatible [[agoras]] are expected to assemble into [[agora networks]] in the future.
 		- [[agora server]] is a reference implementation for a server based integrator/[[interlay]].
 			- the [[agora server]] repository is [[go/agora-server/git]]
