@@ -5,7 +5,9 @@
 		- indented bulleted lists designate a [[heterarchy]].
 		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
 			- agora protocol payloads may be exchanged for knowledge for [[free]] in any designated [[agora]].
-			- this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].) -See [[go/agora-slides]] for more.)
+			- this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]]. 
+			- see [[go/agora-slides]] for more.
+			- the [[seed]] of this agora is [[go/agora/git]].
 		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
 			- [[stoa]] https://stoa.anagora.org/p/stoa
 - a set of [[conventions]]
@@ -18,9 +20,6 @@
 	- the [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
 		- an [[agora]] starts with a list of [[gardens]], that is, [[personal knowledge graphs]] as volunteered by its users.
 		- compatible [[agoras]] are expected to assemble into [[agora networks]] in the future.
-- you are reading this on a particular [[implementation]] of a tools that tries to build on the agora protocol. 
-	- that is, this is [[an agora]] -- but just one of many.
-	- its root repository is [[go/agora/git]]
 		- [[agora server]] is a reference implementation for a server based integrator/[[interlay]].
 			- the [[agora server]] repository is [[go/agora-server/git]]
 	- the goals of this agora are engineered by its community by contributing to the following nodes: [[goals]], [[do]], [[contract]], [[flancia collective]] and all [[pulled]].
