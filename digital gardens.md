@@ -1,6 +1,6 @@
 - a [[list]]
   - [[pull]] [[digital garden]]
-  - [[pull]] [[digital gardeners]] 
+  - [[digital gardeners]] 
   - [[logseq]] https://github.com/logseq/awesome-logseq#community-knowledge-gardens
   - [[obsidian]] https://forum.obsidian.md/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248
   - [[roam]] ?
