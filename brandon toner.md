@@ -2,6 +2,7 @@
 	- [[twitter]] https://twitter.com/brandontoner
 	- [[roam]] user
 		- [[multiplayer communities]]
+			- [[roam book club]] uses this
 		- [[shared roam environments]]
 			- even at work with people without roam experience
 		- [[second brain]] course
