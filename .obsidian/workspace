@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entities.md",
+                "file": "2021-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entities.md"
+                "file": "2021-06-23.md"
               }
             }
           },
@@ -348,10 +348,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "898872c0199461f5",
+  "active": "27b2c468d389fdc6",
   "lastOpenFiles": [
-    "entities.md",
     "2021-06-23.md",
+    "entities.md",
     "push.md",
     "agora protocol.md",
     "stoa poikile.md",
