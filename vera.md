@@ -15,3 +15,4 @@
 ## [[2021-06-23]]
 - plan for the day
 	- [[pr]] for ranking
+		- could probably be altered into client side auto pull
