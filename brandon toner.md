@@ -7,4 +7,4 @@
 			- even at work with people without roam experience
 		- [[second brain]] course
 	- pipeline
-		- private chaotic -> public chaotic -> public organized
+		- private chaotic -> public chaotic -> public polished (digital garden)
