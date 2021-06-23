@@ -19,3 +19,4 @@
 	- [[client]] side pulls
 	- hashtags vs wikilinks
 	- what to do next?
+	- [[twitter]] 
