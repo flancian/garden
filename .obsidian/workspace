@@ -41,6 +41,17 @@
             }
           },
           {
+            "id": "5a9137f8b11b1bb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "push.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "168e2760bc0ce560",
             "type": "leaf",
             "state": {
@@ -253,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora protocol.md",
+                "file": "push.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora protocol.md"
+                "file": "push.md"
               }
             }
           },
@@ -326,17 +337,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "168e2760bc0ce560",
+  "active": "5a9137f8b11b1bb8",
   "lastOpenFiles": [
-    "agora protocol.md",
+    "push.md",
     "2021-06-23.md",
+    "agora protocol.md",
     "stoa poikile.md",
     "Ophir Lifshitz.md",
     "researching social annotation in education.md",
     "peter kaminski.md",
     "i annotate 2021.md",
     "xinran zhu.md",
-    "annotation and the social prize of educational dignity.md",
-    "massive wiki.md"
+    "annotation and the social prize of educational dignity.md"
   ]
 }

@@ -1,11 +1,10 @@
-# Push
 
 - An [[action]].
-- It 'means' that a certain context is relevant for the target node and should perhaps be included in it ([[transclusion]]):
-  - [[push]] [[transclusion]]
-- Here's how you use it: you start a block with the [[push]] action, passing a target node as an argument. Then you attach as many sub blocks (indented list items) to the block; they will be included in the target as a subnode.
-- [[push]] [[agora twitter integration]]
-  - Push probably has good interactions with other [[agora]] sources such as [[twitter]].
+	- It 'means' that a certain context is relevant for the target node and should perhaps be included in it ([[transclusion]]):
+	  - [[push]] [[transclusion]]
+	- Here's how you use it: you start a block with the [[push]] action, passing a target node as an argument. Then you attach as many sub blocks (indented list items) to the block; they will be included in the target as a subnode.
+	- [[push]] [[agora twitter integration]]
+		- Push probably has good interactions with the [[fediverse]].
 - See also: [[pull]].
 
 
