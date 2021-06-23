@@ -41,6 +41,17 @@
             }
           },
           {
+            "id": "d346849c59daf3d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wittgenstein protocol.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "898872c0199461f5",
             "type": "leaf",
             "state": {
@@ -275,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-23.md",
+                "file": "wittgenstein protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-23.md"
+                "file": "wittgenstein protocol.md"
               }
             }
           },
@@ -348,8 +359,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "490904cce1505fba",
+  "active": "d346849c59daf3d4",
   "lastOpenFiles": [
+    "wittgenstein protocol.md",
     "2021-06-23.md",
     "entities.md",
     "push.md",
@@ -358,7 +370,6 @@
     "Ophir Lifshitz.md",
     "researching social annotation in education.md",
     "peter kaminski.md",
-    "i annotate 2021.md",
-    "xinran zhu.md"
+    "i annotate 2021.md"
   ]
 }
