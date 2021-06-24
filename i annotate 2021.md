@@ -32,4 +32,6 @@
 	
 ## [[2021-06-23]]
 - [[keynote]] [[annotation and the social prize of educational dignity]]
-- 
+
+## [[2021-06-24]]
+- [[keynote]] [[a conversation about annotation, literacy and learning]]
