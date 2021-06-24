@@ -1,3 +1,6 @@
 - a [[keynote]]
-	- [[i annotate 2021]]
+	- [[stoa]] [[i annotate 2021]]
 	- [[remi kalir]] [[antero garcia]]
+
+![[Pasted image 20210624180959.png]]
+![[Pasted image 20210624181009.png]]
