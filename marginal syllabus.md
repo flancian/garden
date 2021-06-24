@@ -1,2 +1,2 @@
-- [[go]] http://marginalsyllab.us/watch/](http://marginalsyllab.us/watch/)
-	- [[chris aldrich]]
+- [[go]] http://marginalsyllab.us/watch/
+	- [[chris aldrich]] recommended
