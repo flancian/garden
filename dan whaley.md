@@ -6,7 +6,9 @@
 
 ## [[2021-06-24]]
 - catch up
-- international dep 
+- q: international deployment 
+	- currently US and Canada mostly
+	- do provide this internationally though
 
 ## [[2021-02-22]]
 - Greetings!
