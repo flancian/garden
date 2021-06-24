@@ -4,6 +4,10 @@
 -  Drove from California to Argentina. 2003.
 -  canaryinacoalmine.org. One year!
 
+## [[2021-06-24]]
+- catch up
+- international dep 
+
 ## [[2021-02-22]]
 - Greetings!
 - [[fedstoa]]
