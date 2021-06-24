@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wittgenstein protocol.md",
+                "file": "2021-06-24.md",
                 "mode": "source"
               }
             }
@@ -319,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wittgenstein protocol.md",
+                "file": "2021-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wittgenstein protocol.md"
+                "file": "2021-06-24.md"
               }
             }
           },
@@ -394,6 +394,7 @@
   },
   "active": "490904cce1505fba",
   "lastOpenFiles": [
+    "2021-06-24.md",
     "wittgenstein protocol.md",
     "agora protocol.md",
     "entities can be looked up in an agora.md",
@@ -402,7 +403,6 @@
     "vera.md",
     "entities.md",
     "push.md",
-    "stoa poikile.md",
-    "Ophir Lifshitz.md"
+    "stoa poikile.md"
   ]
 }
