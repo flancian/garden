@@ -1,6 +1,7 @@
 - a [[person]]
 	- [[twitter]] https://twitter.com/brandontoner
 	- [[roam]] user
+	- met him over vc, it was great!
 		- [[multiplayer communities]]
 			- [[roam book club]] uses this
 		- [[shared roam environments]]

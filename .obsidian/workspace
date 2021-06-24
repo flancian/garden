@@ -30,6 +30,17 @@
             }
           },
           {
+            "id": "89d082d53714c4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brandon toner.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "590578daf8557796",
             "type": "leaf",
             "state": {
@@ -308,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-23.md",
+                "file": "brandon toner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-23.md"
+                "file": "brandon toner.md"
               }
             }
           },
@@ -381,8 +392,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27b2c468d389fdc6",
+  "active": "89d082d53714c4ef",
   "lastOpenFiles": [
+    "brandon toner.md",
     "2021-06-23.md",
     "entities can be looked up in an agora.md",
     "agora protocol.md",
@@ -391,7 +403,6 @@
     "hyperbee.md",
     "the timeless way of building.md",
     "internet in a box.md",
-    "wittgenstein protocol.md",
-    "vera.md"
+    "wittgenstein protocol.md"
   ]
 }
