@@ -63,6 +63,17 @@
             }
           },
           {
+            "id": "a40422121578e98a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music for programming.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "99faa5bee7cb9f37",
             "type": "leaf",
             "state": {
@@ -319,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-24.md",
+                "file": "music for programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-24.md"
+                "file": "music for programming.md"
               }
             }
           },
@@ -392,8 +403,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d91f474e4366f42",
+  "active": "a40422121578e98a",
   "lastOpenFiles": [
+    "music for programming.md",
     "2021-06-24.md",
     "dan whaley.md",
     "hashtags.md",
@@ -402,7 +414,6 @@
     "annotation.md",
     "i annotate 2021.md",
     "phil jones.md",
-    "wittgenstein protocol.md",
-    "entities.md"
+    "wittgenstein protocol.md"
   ]
 }
