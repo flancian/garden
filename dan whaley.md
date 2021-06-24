@@ -9,6 +9,7 @@
 - q: international deployment 
 	- currently US and Canada mostly
 	- do provide this internationally though
+	- delighted to talk to schools in new areas
 
 ## [[2021-02-22]]
 - Greetings!
