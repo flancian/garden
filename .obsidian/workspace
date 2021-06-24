@@ -174,7 +174,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hashtags.md",
+                "file": "2021-06-24.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f9a6248c33f43168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dan whaley.md",
                 "mode": "source"
               }
             }
@@ -308,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marginal syllabus.md",
+                "file": "dan whaley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marginal syllabus.md"
+                "file": "dan whaley.md"
               }
             }
           },
@@ -381,17 +392,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99faa5bee7cb9f37",
+  "active": "f9a6248c33f43168",
   "lastOpenFiles": [
-    "marginal syllabus.md",
+    "dan whaley.md",
     "2021-06-24.md",
+    "hashtags.md",
+    "marginal syllabus.md",
     "a conversation about annotation, literacy and learning.md",
     "annotation.md",
     "i annotate 2021.md",
     "phil jones.md",
     "wittgenstein protocol.md",
-    "entities.md",
-    "agora protocol.md",
-    "push.md"
+    "entities.md"
   ]
 }
