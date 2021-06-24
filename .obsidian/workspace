@@ -79,7 +79,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internet in a box.md",
+                "file": "2021-06-24.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b005365f452e3547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the timeless way of building.md",
                 "mode": "source"
               }
             }
@@ -330,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internet in a box.md",
+                "file": "the timeless way of building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internet in a box.md"
+                "file": "the timeless way of building.md"
               }
             }
           },
@@ -403,17 +414,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b11c7452f86a591b",
+  "active": "b005365f452e3547",
   "lastOpenFiles": [
-    "internet in a box.md",
+    "the timeless way of building.md",
     "2021-06-24.md",
+    "internet in a box.md",
     "wittgenstein protocol.md",
     "agora protocol.md",
     "entities can be looked up in an agora.md",
     "2021-06-23.md",
     "longer stoa ids.md",
     "vera.md",
-    "entities.md",
-    "push.md"
+    "entities.md"
   ]
 }
