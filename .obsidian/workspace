@@ -63,6 +63,17 @@
             }
           },
           {
+            "id": "99faa5bee7cb9f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "marginal syllabus.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "f3e15fe27749a7da",
             "type": "leaf",
             "state": {
@@ -297,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a conversation about annotation, literacy and learning.md",
+                "file": "marginal syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a conversation about annotation, literacy and learning.md"
+                "file": "marginal syllabus.md"
               }
             }
           },
@@ -370,17 +381,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84a21c379723d47b",
+  "active": "99faa5bee7cb9f37",
   "lastOpenFiles": [
+    "marginal syllabus.md",
+    "2021-06-24.md",
     "a conversation about annotation, literacy and learning.md",
     "annotation.md",
-    "2021-06-24.md",
     "i annotate 2021.md",
     "phil jones.md",
     "wittgenstein protocol.md",
     "entities.md",
     "agora protocol.md",
-    "push.md",
-    "speculative annotation.md"
+    "push.md"
   ]
 }
