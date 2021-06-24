@@ -297,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "annotation.md",
+                "file": "a conversation about annotation, literacy and learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "annotation.md"
+                "file": "a conversation about annotation, literacy and learning.md"
               }
             }
           },
@@ -370,12 +370,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3e15fe27749a7da",
+  "active": "84a21c379723d47b",
   "lastOpenFiles": [
+    "a conversation about annotation, literacy and learning.md",
     "annotation.md",
     "2021-06-24.md",
     "i annotate 2021.md",
-    "a conversation about annotation, literacy and learning.md",
     "phil jones.md",
     "wittgenstein protocol.md",
     "entities.md",

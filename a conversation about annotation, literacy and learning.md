@@ -13,3 +13,5 @@
 ![[Pasted image 20210624182655.png]]
 ![[Pasted image 20210624183529.png]]
 ![[Pasted image 20210624183806.png]]
+
+my Q: ![[Pasted image 20210624185531.png]]
