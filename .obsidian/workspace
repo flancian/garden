@@ -46,11 +46,23 @@
           {
             "id": "581d84130b684ec4",
             "type": "leaf",
-            "dimension": 16.81521093285799,
+            "dimension": 8.407605466428995,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "memedelperro.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b437c4853909cd39",
+            "type": "leaf",
+            "dimension": 8.407605466428995,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "memedelperro bot.md",
                 "mode": "source"
               }
             }
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memedelperro.md",
+                "file": "memedelperro bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memedelperro.md"
+                "file": "memedelperro bot.md"
               }
             }
           },
@@ -286,8 +298,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "581d84130b684ec4",
+  "active": "b437c4853909cd39",
   "lastOpenFiles": [
+    "memedelperro bot.md",
     "memedelperro.md",
     "2021-06-20.md",
     "2021-06-25.md",
@@ -296,7 +309,6 @@
     "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
     "2021-06-19.md",
     "nixos.md",
-    "sutty.md",
-    "facttic.md"
+    "sutty.md"
   ]
 }
