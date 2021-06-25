@@ -41,17 +41,6 @@
             }
           },
           {
-            "id": "b11c7452f86a591b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-25.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "d98c2e9bc17c8db2",
             "type": "leaf",
             "state": {
@@ -191,34 +180,12 @@
             }
           },
           {
-            "id": "bac66ccb7c32479e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-24.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "f9a6248c33f43168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "dan whaley.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0f3c971d81619db9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vera.md",
                 "mode": "source"
               }
             }
@@ -341,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora bot.md",
+                "file": "dan whaley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora bot.md"
+                "file": "dan whaley.md"
               }
             }
           },
@@ -414,8 +381,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d98c2e9bc17c8db2",
+  "active": "f9a6248c33f43168",
   "lastOpenFiles": [
+    "dan whaley.md",
+    "vera.md",
     "agora bot.md",
     "2021-06-25.md",
     "agorabot.md",
@@ -423,8 +392,6 @@
     "cliqhop.md",
     "cliq hop.md",
     "longer stoa ids.md",
-    "music for programming.md",
-    "dan whaley.md",
-    "hashtags.md"
+    "music for programming.md"
   ]
 }
