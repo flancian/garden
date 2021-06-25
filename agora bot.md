@@ -7,4 +7,4 @@
 	- [[mastodon]] https://botsin.space/@agora
 	- [[twitter]] https://twitter.com/an_agora
 
-
+![[Pasted image 20210625144520.png]]
