@@ -230,11 +230,23 @@
           {
             "id": "bb82155223123138",
             "type": "leaf",
-            "dimension": 26.461168935148116,
+            "dimension": 13.230584467574058,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2021-06-25.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "423b078478e42fb7",
+            "type": "leaf",
+            "dimension": 13.230584467574058,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vera.md",
                 "mode": "source"
               }
             }
@@ -361,7 +373,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-25.md",
+                "file": "vera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-25.md"
+                "file": "vera.md"
               }
             }
           },
@@ -434,8 +446,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb82155223123138",
+  "active": "423b078478e42fb7",
   "lastOpenFiles": [
+    "vera.md",
     "2021-06-25.md",
     "libretexts.md",
     "social learning across content.md",
@@ -444,7 +457,6 @@
     "chris kervina.md",
     "cliqhop.md",
     "mark graham.md",
-    "wayback machine.md",
-    "marginal syllabus.md"
+    "wayback machine.md"
   ]
 }
