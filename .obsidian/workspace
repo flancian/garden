@@ -210,7 +210,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mark graham.md",
+                "file": "internet archive.md",
                 "mode": "source"
               }
             }
@@ -337,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mark graham.md",
+                "file": "internet archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mark graham.md"
+                "file": "internet archive.md"
               }
             }
           },
@@ -412,6 +412,7 @@
   },
   "active": "bb82155223123138",
   "lastOpenFiles": [
+    "internet archive.md",
     "mark graham.md",
     "social learning across content.md",
     "i annotate 2021.md",
@@ -420,7 +421,6 @@
     "marginal syllabus.md",
     "building annotation into browsers.md",
     "lightning talks.md",
-    "agora bot.md",
-    "digital gardens.md"
+    "agora bot.md"
   ]
 }
