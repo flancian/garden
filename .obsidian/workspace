@@ -182,7 +182,7 @@
           {
             "id": "cf8d8524ad11eb6d",
             "type": "leaf",
-            "dimension": 10.741482965931864,
+            "dimension": 7.914523149980214,
             "state": {
               "type": "markdown",
               "state": {
@@ -194,7 +194,7 @@
           {
             "id": "f7ea52c649b950ec",
             "type": "leaf",
-            "dimension": 8.016032064128256,
+            "dimension": 7.914523149980214,
             "state": {
               "type": "markdown",
               "state": {
@@ -204,9 +204,21 @@
             }
           },
           {
+            "id": "bb82155223123138",
+            "type": "leaf",
+            "dimension": 45.310645033636725,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "social learning across content.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "24eff1ed32e0f862",
             "type": "leaf",
-            "dimension": 51.42284569138277,
+            "dimension": 9.418282548476455,
             "state": {
               "type": "markdown",
               "state": {
@@ -218,7 +230,7 @@
           {
             "id": "5257defb68122b92",
             "type": "leaf",
-            "dimension": 8.016032064128256,
+            "dimension": 7.914523149980214,
             "state": {
               "type": "markdown",
               "state": {
@@ -230,7 +242,7 @@
           {
             "id": "9d824460cfbb9b1e",
             "type": "leaf",
-            "dimension": 8.016032064128256,
+            "dimension": 7.914523149980214,
             "state": {
               "type": "markdown",
               "state": {
@@ -242,7 +254,7 @@
           {
             "id": "ad9f8a4c030a8a46",
             "type": "leaf",
-            "dimension": 13.7875751503006,
+            "dimension": 13.612979817965968,
             "state": {
               "type": "markdown",
               "state": {
@@ -325,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wayback machine.md",
+                "file": "social learning across content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -342,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wayback machine.md"
+                "file": "social learning across content.md"
               }
             }
           },
@@ -398,17 +410,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "980c89f10d36ef35",
+  "active": "bb82155223123138",
   "lastOpenFiles": [
+    "social learning across content.md",
+    "i annotate 2021.md",
     "wayback machine.md",
     "2021-06-25.md",
     "marginal syllabus.md",
     "building annotation into browsers.md",
-    "i annotate 2021.md",
     "lightning talks.md",
     "agora bot.md",
     "digital gardens.md",
-    "dan whaley.md",
-    "vera.md"
+    "dan whaley.md"
   ]
 }

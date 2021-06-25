@@ -38,4 +38,5 @@
 
 ## [[2021-06-25]]
 - [[keynote]] [[building annotation into browsers]]
+- [[panel]] [[social learning across content]]
 
