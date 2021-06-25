@@ -1,7 +1,8 @@
 # Agora Bot
 
-- A [[project]] with [[s5bug]].
-- [[pull]] [[an agora]].
-- Part of [[agora bridge]].
+- A [[bot]] 
+	- could be a [[project]] with [[s5bug]].
+	- part of [[agora bridge]].
+	- [[pull]] [[an agora]].
 
 

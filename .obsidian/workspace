@@ -52,6 +52,17 @@
             }
           },
           {
+            "id": "d98c2e9bc17c8db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora bot.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "dfc2f541eefdae1b",
             "type": "leaf",
             "state": {
@@ -330,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-25.md",
+                "file": "agora bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-25.md"
+                "file": "agora bot.md"
               }
             }
           },
@@ -403,17 +414,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b11c7452f86a591b",
+  "active": "d98c2e9bc17c8db2",
   "lastOpenFiles": [
+    "agora bot.md",
     "2021-06-25.md",
+    "agorabot.md",
     "2021-06-24.md",
     "cliqhop.md",
     "cliq hop.md",
     "longer stoa ids.md",
     "music for programming.md",
     "dan whaley.md",
-    "hashtags.md",
-    "marginal syllabus.md",
-    "a conversation about annotation, literacy and learning.md"
+    "hashtags.md"
   ]
 }
