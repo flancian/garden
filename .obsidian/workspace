@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cliqhop.md",
+                "file": "2021-06-25.md",
                 "mode": "source"
               }
             }
@@ -337,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internet archive.md",
+                "file": "2021-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internet archive.md"
+                "file": "2021-06-25.md"
               }
             }
           },
@@ -410,17 +410,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb82155223123138",
+  "active": "dfc2f541eefdae1b",
   "lastOpenFiles": [
+    "2021-06-25.md",
+    "cliqhop.md",
     "internet archive.md",
     "mark graham.md",
     "social learning across content.md",
     "i annotate 2021.md",
     "wayback machine.md",
-    "2021-06-25.md",
     "marginal syllabus.md",
     "building annotation into browsers.md",
-    "lightning talks.md",
-    "agora bot.md"
+    "lightning talks.md"
   ]
 }
