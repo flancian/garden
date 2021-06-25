@@ -4,56 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3bfe038a60be769c",
+        "id": "b0a62e0bd6f30307",
         "type": "split",
         "children": [
           {
-            "id": "4d2c9bb987354b46",
+            "id": "1c3e63745fbefd6f",
             "type": "leaf",
+            "dimension": 11.883541295306001,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "annotation and the social prize of educational dignity.md",
+                "file": "do.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "590578daf8557796",
+            "id": "89a7352a0395d613",
             "type": "leaf",
+            "dimension": 11.883541295306001,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agora protocol.md",
+                "file": "2021-06-16.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "e2fd479dac4cc7f8",
+            "id": "511386288550f440",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "longer stoa ids.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d98c2e9bc17c8db2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora bot.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "dfc2f541eefdae1b",
-            "type": "leaf",
+            "dimension": 11.883541295306001,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,252 +44,100 @@
             }
           },
           {
-            "id": "7d91f474e4366f42",
+            "id": "581d84130b684ec4",
             "type": "leaf",
+            "dimension": 16.81521093285799,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cliq hop.md",
+                "file": "memedelperro.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "99faa5bee7cb9f37",
+            "id": "9ea98f23e54d7734",
             "type": "leaf",
+            "dimension": 11.883541295306001,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-25.md",
+                "file": "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "0bbe8bf907adf9e2",
+            "id": "93063ea8776ee9f8",
             "type": "leaf",
+            "dimension": 11.883541295306001,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robert haisfield.md",
+                "file": "receive.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "980c89f10d36ef35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wayback machine.md",
-                "mode": "source"
+            "id": "d407fbfa22a48bda",
+            "type": "split",
+            "dimension": 11.883541295306001,
+            "children": [
+              {
+                "id": "b7b8a1f5a0af6991",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora fediverse integration.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "052ae04af14c47b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "twitter bridge.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "f3e15fe27749a7da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "annotation.md",
-                "mode": "source"
+            "id": "56bdd2b5a09241be",
+            "type": "split",
+            "dimension": 11.883541295306001,
+            "children": [
+              {
+                "id": "7abcb8972baaed4d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian embeds.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "9d1767dbb6c4ba74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "break glass.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "84a21c379723d47b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a conversation about annotation, literacy and learning.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "6c8b0352d22ed545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "phil jones.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d346849c59daf3d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wittgenstein protocol.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "898872c0199461f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entities.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "168e2760bc0ce560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora protocol.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "77364a0d4ddc7532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "speculative annotation.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "d3f385bce0528452",
-        "type": "split",
-        "children": [
-          {
-            "id": "cf8d8524ad11eb6d",
-            "type": "leaf",
-            "dimension": 8.00640512409928,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-25.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f7ea52c649b950ec",
-            "type": "leaf",
-            "dimension": 13.350680544435548,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "i annotate 2021.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3616f77ac4f832e3",
-            "type": "leaf",
-            "dimension": 6.675340272217774,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "social learning across content.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2be0d01305125f7c",
-            "type": "leaf",
-            "dimension": 6.675340272217774,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "libretexts.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bb82155223123138",
-            "type": "leaf",
-            "dimension": 13.230584467574058,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-25.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "423b078478e42fb7",
-            "type": "leaf",
-            "dimension": 13.230584467574058,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vera.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "24eff1ed32e0f862",
-            "type": "leaf",
-            "dimension": 9.407526020816654,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building annotation into browsers.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "5257defb68122b92",
-            "type": "leaf",
-            "dimension": 8.00640512409928,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the future of note taking.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "9d824460cfbb9b1e",
-            "type": "leaf",
-            "dimension": 8.00640512409928,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hathitrust.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ad9f8a4c030a8a46",
-            "type": "leaf",
-            "dimension": 13.410728582866293,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frankenbook.md",
-                "mode": "source"
-              }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -338,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyperbee",
+                "query": "plesmasquerade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -384,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robert haisfield.md",
+                "file": "memedelperro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robert haisfield.md"
+                "file": "memedelperro.md"
               }
             }
           },
@@ -457,17 +286,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0bbe8bf907adf9e2",
+  "active": "581d84130b684ec4",
   "lastOpenFiles": [
-    "robert haisfield.md",
+    "memedelperro.md",
+    "2021-06-20.md",
     "2021-06-25.md",
-    "vera.md",
-    "libretexts.md",
-    "social learning across content.md",
-    "i annotate 2021.md",
-    "internet archive.md",
-    "chris kervina.md",
-    "cliqhop.md",
-    "mark graham.md"
+    "2021-06-18.md",
+    "2021-06-16.md",
+    "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
+    "2021-06-19.md",
+    "nixos.md",
+    "sutty.md",
+    "facttic.md"
   ]
 }
