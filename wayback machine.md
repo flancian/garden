@@ -1,3 +1,4 @@
 - a [[tool]].
-- an [[extension]].
-	- [[firefox]] 
+	- by [[internet archive]]
+- a [[web extension]].
+	- [[firefox]] https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/
