@@ -182,7 +182,7 @@
           {
             "id": "cf8d8524ad11eb6d",
             "type": "leaf",
-            "dimension": 7.914523149980214,
+            "dimension": 8.00640512409928,
             "state": {
               "type": "markdown",
               "state": {
@@ -194,7 +194,7 @@
           {
             "id": "f7ea52c649b950ec",
             "type": "leaf",
-            "dimension": 7.914523149980214,
+            "dimension": 13.350680544435548,
             "state": {
               "type": "markdown",
               "state": {
@@ -204,13 +204,37 @@
             }
           },
           {
-            "id": "bb82155223123138",
+            "id": "3616f77ac4f832e3",
             "type": "leaf",
-            "dimension": 45.310645033636725,
+            "dimension": 6.675340272217774,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internet archive.md",
+                "file": "social learning across content.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2be0d01305125f7c",
+            "type": "leaf",
+            "dimension": 6.675340272217774,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "libretexts.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "bb82155223123138",
+            "type": "leaf",
+            "dimension": 26.461168935148116,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-25.md",
                 "mode": "source"
               }
             }
@@ -218,7 +242,7 @@
           {
             "id": "24eff1ed32e0f862",
             "type": "leaf",
-            "dimension": 9.418282548476455,
+            "dimension": 9.407526020816654,
             "state": {
               "type": "markdown",
               "state": {
@@ -230,7 +254,7 @@
           {
             "id": "5257defb68122b92",
             "type": "leaf",
-            "dimension": 7.914523149980214,
+            "dimension": 8.00640512409928,
             "state": {
               "type": "markdown",
               "state": {
@@ -242,7 +266,7 @@
           {
             "id": "9d824460cfbb9b1e",
             "type": "leaf",
-            "dimension": 7.914523149980214,
+            "dimension": 8.00640512409928,
             "state": {
               "type": "markdown",
               "state": {
@@ -254,7 +278,7 @@
           {
             "id": "ad9f8a4c030a8a46",
             "type": "leaf",
-            "dimension": 13.612979817965968,
+            "dimension": 13.410728582866293,
             "state": {
               "type": "markdown",
               "state": {
@@ -337,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-25.md",
+                "file": "libretexts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-25.md"
+                "file": "libretexts.md"
               }
             }
           },
@@ -410,17 +434,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfc2f541eefdae1b",
+  "active": "2be0d01305125f7c",
   "lastOpenFiles": [
-    "2021-06-25.md",
-    "chris kervina.md",
-    "cliqhop.md",
-    "internet archive.md",
-    "mark graham.md",
+    "libretexts.md",
     "social learning across content.md",
     "i annotate 2021.md",
+    "2021-06-25.md",
+    "internet archive.md",
+    "chris kervina.md",
+    "cliqhop.md",
+    "mark graham.md",
     "wayback machine.md",
-    "marginal syllabus.md",
-    "building annotation into browsers.md"
+    "marginal syllabus.md"
   ]
 }
