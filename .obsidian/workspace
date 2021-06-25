@@ -395,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev.md",
+                "file": "2021-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +412,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev.md"
+                "file": "2021-06-25.md"
               }
             }
           },
@@ -468,10 +468,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89ccf75c06aa65f3",
+  "active": "dfc2f541eefdae1b",
   "lastOpenFiles": [
-    "dev.md",
     "2021-06-25.md",
+    "dev.md",
     "cliq hop.md",
     "robert haisfield.md",
     "vera.md",
