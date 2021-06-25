@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-24.md",
+                "file": "2021-06-25.md",
                 "mode": "source"
               }
             }
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cliqhop.md",
+                "file": "2021-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cliqhop.md"
+                "file": "2021-06-25.md"
               }
             }
           },
@@ -403,17 +403,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfc2f541eefdae1b",
+  "active": "b11c7452f86a591b",
   "lastOpenFiles": [
-    "cliqhop.md",
+    "2021-06-25.md",
     "2021-06-24.md",
+    "cliqhop.md",
     "cliq hop.md",
     "longer stoa ids.md",
     "music for programming.md",
     "dan whaley.md",
     "hashtags.md",
     "marginal syllabus.md",
-    "a conversation about annotation, literacy and learning.md",
-    "annotation.md"
+    "a conversation about annotation, literacy and learning.md"
   ]
 }
