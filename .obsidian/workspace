@@ -169,34 +169,37 @@
         "type": "split",
         "children": [
           {
-            "id": "a19585a5c1c5b141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "digital gardens.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f9a6248c33f43168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dan whaley.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "cf8d8524ad11eb6d",
             "type": "leaf",
+            "dimension": 12.505010020040082,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lightning talks.md",
+                "file": "2021-06-25.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f7ea52c649b950ec",
+            "type": "leaf",
+            "dimension": 6.252505010020041,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "i annotate 2021.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "24eff1ed32e0f862",
+            "type": "leaf",
+            "dimension": 6.252505010020041,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "building annotation into browsers.md",
                 "mode": "source"
               }
             }
@@ -204,6 +207,7 @@
           {
             "id": "5257defb68122b92",
             "type": "leaf",
+            "dimension": 25.010020040080164,
             "state": {
               "type": "markdown",
               "state": {
@@ -215,6 +219,7 @@
           {
             "id": "9d824460cfbb9b1e",
             "type": "leaf",
+            "dimension": 24.96993987975951,
             "state": {
               "type": "markdown",
               "state": {
@@ -226,6 +231,7 @@
           {
             "id": "ad9f8a4c030a8a46",
             "type": "leaf",
+            "dimension": 25.010020040080164,
             "state": {
               "type": "markdown",
               "state": {
@@ -308,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dan whaley.md",
+                "file": "building annotation into browsers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dan whaley.md"
+                "file": "building annotation into browsers.md"
               }
             }
           },
@@ -381,17 +387,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9a6248c33f43168",
+  "active": "24eff1ed32e0f862",
   "lastOpenFiles": [
+    "building annotation into browsers.md",
+    "i annotate 2021.md",
+    "2021-06-25.md",
+    "lightning talks.md",
+    "agora bot.md",
+    "digital gardens.md",
     "dan whaley.md",
     "vera.md",
-    "agora bot.md",
-    "2021-06-25.md",
     "agorabot.md",
-    "2021-06-24.md",
-    "cliqhop.md",
-    "cliq hop.md",
-    "longer stoa ids.md",
-    "music for programming.md"
+    "2021-06-24.md"
   ]
 }

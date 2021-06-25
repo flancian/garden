@@ -35,3 +35,7 @@
 
 ## [[2021-06-24]]
 - [[keynote]] [[a conversation about annotation, literacy and learning]]
+
+## [[2021-06-25]]
+- [[keynote]] [[building annotation into browsers]]
+
