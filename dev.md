@@ -6,7 +6,7 @@
   - [[go]] devprotocol.xyz
   - [[twitter]] twitter.com/devprtcl
   - a token for open source funding and governance
-- [[agora]] https
+- [[agora]] http://dev.anagora.org
   
 
 
