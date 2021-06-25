@@ -210,7 +210,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social learning across content.md",
+                "file": "mark graham.md",
                 "mode": "source"
               }
             }
@@ -337,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social learning across content.md",
+                "file": "mark graham.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "social learning across content.md"
+                "file": "mark graham.md"
               }
             }
           },
@@ -412,6 +412,7 @@
   },
   "active": "bb82155223123138",
   "lastOpenFiles": [
+    "mark graham.md",
     "social learning across content.md",
     "i annotate 2021.md",
     "wayback machine.md",
@@ -420,7 +421,6 @@
     "building annotation into browsers.md",
     "lightning talks.md",
     "agora bot.md",
-    "digital gardens.md",
-    "dan whaley.md"
+    "digital gardens.md"
   ]
 }
