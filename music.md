@@ -21,9 +21,17 @@
 			- [[edIT]]
 		- [[ethan hamilton]]
 			- [[terekke]]
-			- [[max cooper]]
+			- [[max cooper]] 
+				- https://twitter.com/ethanshamilton/status/1408100737331220483
 			- [[kaitlyn aurelia smith]]
 			- [[rival consoles]]
-			- 
+			- [[marconi union]]
+		- [[font of augurs]]
+			- [[the orb]]
+			- [[tangerine dream]]
+		- [[steve parkes]]
+			- [[ozric tentacles]]
+			- [[eat static]]
+		- [[karan su]]
 
 
