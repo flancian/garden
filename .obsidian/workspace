@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrumental electronic music.md",
+                "file": "2021-06-26.md",
                 "mode": "source"
               }
             }
@@ -384,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrumental electronic music.md",
+                "file": "2021-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +401,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrumental electronic music.md"
+                "file": "2021-06-26.md"
               }
             }
           },
@@ -459,10 +459,10 @@
   },
   "active": "a55acac86a1abe3b",
   "lastOpenFiles": [
+    "2021-06-26.md",
     "instrumental electronic music.md",
     "music for hacking.md",
     "music.md",
-    "2021-06-26.md",
     "nathanael gould.md",
     "true names.md",
     "amsomniac.md",
