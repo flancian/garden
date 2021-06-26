@@ -63,6 +63,17 @@
             }
           },
           {
+            "id": "0f1f62cb23a13a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nathanael gould.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "f2e6147dbff32040",
             "type": "leaf",
             "state": {
@@ -351,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-26.md",
+                "file": "nathanael gould.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -368,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-26.md"
+                "file": "nathanael gould.md"
               }
             }
           },
@@ -424,8 +435,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfc2f541eefdae1b",
+  "active": "0f1f62cb23a13a53",
   "lastOpenFiles": [
+    "nathanael gould.md",
     "2021-06-26.md",
     "true names.md",
     "amsomniac.md",
@@ -434,7 +446,6 @@
     "a conversation about annotation, literacy and learning.md",
     "annotation.md",
     "robert haisfield.md",
-    "dev.md",
-    "anarchism.md"
+    "dev.md"
   ]
 }

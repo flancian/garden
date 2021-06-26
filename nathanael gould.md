@@ -1,0 +1,3 @@
+- a [[person]]
+	- [[twitter]] https://twitter.com/nathanael_gould
+	- different background and positions, but willing to dialogue
