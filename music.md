@@ -32,6 +32,11 @@
 		- [[steve parkes]]
 			- [[ozric tentacles]]
 			- [[eat static]]
-		- [[karan su]]
+		- [[karan vasudeva]]
+			- [[carbon based lifeforms]]
+		- [[codex]]
+			- [[ray lynch]]
+			- [[olivier messiaen]]
+				- https://twitter.com/codexeditor/status/1408032004562591748
 
 
