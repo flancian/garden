@@ -351,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "true names.md",
+                "file": "2021-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -368,7 +368,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "true names.md"
+                "file": "2021-06-26.md"
               }
             }
           },
@@ -424,11 +424,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2e6147dbff32040",
+  "active": "dfc2f541eefdae1b",
   "lastOpenFiles": [
+    "2021-06-26.md",
     "true names.md",
     "amsomniac.md",
-    "2021-06-26.md",
     "wayback machine.md",
     "phil jones.md",
     "a conversation about annotation, literacy and learning.md",
