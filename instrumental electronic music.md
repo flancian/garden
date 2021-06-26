@@ -1,1 +1,39 @@
 - [[push]] [[music for hacking]]
+- a [[poll]].
+	- [[mastodon]] https://social.coop/web/statuses/106465555338422072
+		- [[neil]]
+			- [[boris brejcha]] 
+			- [[pantha du prince]] https://social.coop/web/statuses/106467348102224025
+		- [[cat]]
+			- [[the black dog]]
+			- [[5f-x]]
+	- [[twitter]] https://twitter.com/flancian/status/1408029481021939714
+		- [[aphex twin]] > [[plaid]] > [[autechre]]
+		- [[007bistromath]] 
+			- [[master boot record]]
+		- [[strongreduction]]
+			- [[disparition]]
+			- [[cristobal tapia de veer]]
+		- [[mcorliss]]
+			- [[edIT]]
+		- [[ethan hamilton]]
+			- [[terekke]]
+			- [[max cooper]] 
+				- https://twitter.com/ethanshamilton/status/1408100737331220483
+			- [[kaitlyn aurelia smith]]
+			- [[rival consoles]]
+			- [[marconi union]]
+		- [[font of augurs]]
+			- [[the orb]]
+			- [[tangerine dream]]
+		- [[steve parkes]]
+			- [[ozric tentacles]]
+			- [[eat static]]
+		- [[karan vasudeva]]
+			- [[carbon based lifeforms]]
+		- [[codex]]
+			- [[ray lynch]]
+			- [[olivier messiaen]]
+				- https://twitter.com/codexeditor/status/1408032004562591748
+
+
