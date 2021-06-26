@@ -1,8 +1,11 @@
 # Music
 
 - a [[list]]
-	- I intend to mostly [[push]] stuff I'm listening to here, a la awkward [[scrobbling]] :)
-	- of music that's been recommended to me or that I'm some
-	- here as items
+	- of music that's been recommended to me or that I'm otherwise listening
+		- I intend to [[push]] stuff I'm listening to here, a la awkward [[scrobbling]] :)
+	- [[mastodon]] https://social.coop/web/statuses/106465555338422072
+		- [[neil]]
+			- [[boris brejcha]] 
+			- [[pantha du prince]] https://social.coop/web/statuses/106467348102224025
 
 
