@@ -63,6 +63,17 @@
             }
           },
           {
+            "id": "cc6bd96d8868adeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "0f1f62cb23a13a53",
             "type": "leaf",
             "state": {
@@ -362,7 +373,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nathanael gould.md",
+                "file": "music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nathanael gould.md"
+                "file": "music.md"
               }
             }
           },
@@ -435,17 +446,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f1f62cb23a13a53",
+  "active": "cc6bd96d8868adeb",
   "lastOpenFiles": [
-    "nathanael gould.md",
+    "music.md",
     "2021-06-26.md",
+    "nathanael gould.md",
     "true names.md",
     "amsomniac.md",
     "wayback machine.md",
     "phil jones.md",
     "a conversation about annotation, literacy and learning.md",
     "annotation.md",
-    "robert haisfield.md",
-    "dev.md"
+    "robert haisfield.md"
   ]
 }
