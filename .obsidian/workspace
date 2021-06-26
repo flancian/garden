@@ -57,7 +57,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-25.md",
+                "file": "2021-06-26.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "454eb078d1d12137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anarchism.md",
                 "mode": "source"
               }
             }
@@ -395,7 +406,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-25.md",
+                "file": "anarchism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-25.md"
+                "file": "anarchism.md"
               }
             }
           },
@@ -468,8 +479,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfc2f541eefdae1b",
+  "active": "454eb078d1d12137",
   "lastOpenFiles": [
+    "anarchism.md",
+    "2021-06-26.md",
     "2021-06-25.md",
     "dev.md",
     "cliq hop.md",
@@ -477,8 +490,6 @@
     "vera.md",
     "libretexts.md",
     "social learning across content.md",
-    "i annotate 2021.md",
-    "internet archive.md",
-    "chris kervina.md"
+    "i annotate 2021.md"
   ]
 }
