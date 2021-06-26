@@ -10,5 +10,13 @@
 		- [[cat]]
 			- [[the black dog]]
 			- [[5f-x]]
+	- [[twitter]] https://twitter.com/flancian/status/1408029481021939714
+		- [[aphex twin]] > [[plaid]] > [[autechre]]
+		- [[007bistromath]] 
+			- [[master boot record]]
+		- [[strongreduction]]
+			- [[disparition]]
+			- [[cristobal tapia de veer]]
+		
 
 
