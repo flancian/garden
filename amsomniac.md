@@ -1,0 +1,2 @@
+- a [[person]]
+	- [[mastodon]] https://mastodon.mit.edu/@amsomniac
