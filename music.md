@@ -20,6 +20,10 @@
 		- [[mcorliss]]
 			- [[edIT]]
 		- [[ethan hamilton]]
+			- [[terekke]]
+			- [[max cooper]]
+			- [[kaitlyn aurelia smith]]
+			- [[rival consoles]]
 			- 
 
 
