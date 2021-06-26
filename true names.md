@@ -1,7 +1,7 @@
 # True Names
 
 - a [[novella]].
-	- [[by]] [[vernor vinge]]
+	- by [[vernor vinge]]
 	- [[go]] https://en.wikipedia.org/wiki/True_Names
 - a [[short story]].
 	- by [[benjamin rosenbaum]] and [[cory doctorow]]
