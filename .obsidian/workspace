@@ -74,6 +74,17 @@
             }
           },
           {
+            "id": "a55acac86a1abe3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "instrumental electronic music.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "0f1f62cb23a13a53",
             "type": "leaf",
             "state": {
@@ -373,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music.md",
+                "file": "instrumental electronic music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +401,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music.md"
+                "file": "instrumental electronic music.md"
               }
             }
           },
@@ -446,8 +457,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc6bd96d8868adeb",
+  "active": "a55acac86a1abe3b",
   "lastOpenFiles": [
+    "instrumental electronic music.md",
     "music.md",
     "2021-06-26.md",
     "nathanael gould.md",
@@ -456,7 +468,6 @@
     "wayback machine.md",
     "phil jones.md",
     "a conversation about annotation, literacy and learning.md",
-    "annotation.md",
-    "robert haisfield.md"
+    "annotation.md"
   ]
 }
