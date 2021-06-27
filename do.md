@@ -17,12 +17,18 @@
 		- improve [[agora graphs]]
 			- what does this *mean*?
 			- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
-		- [[wikilinks everywhere]] ==
-			- aka [[agora ext]]
+		- [[wikilinks everywhere]] -> [[agora ext]]
 			- I really want to move wikilinking to on-demand (push button/ctrl-shift-l) or cronjob-like behaviour but right now it just wikilinks everything every time you click, and some sites break
 				- this is already better after a quick PR to linkify on *click* instead of mouse movement
 				- twitter still sort of breaks though
+	- [[agora social media integration]]
+		- write [[agora bot]] for [[mastodon]]
+		- test [[vera]]'s code for pulling tweets and toots
+		- depends on [[agora bridge api]]
+	- [[agora bridge api]]
+		- we need to 
 	- [[write]]
+		- [[after the pandemic]], or [[an open letter to an open nation]]
 		- [[on cringe]] / [[agora polls]]
 			- about explicit rational (mathematical) modelling of group dynamics through social media discourse
 			- is [[hack the planet]] cringe? should it be?
