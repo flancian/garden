@@ -1,7 +1,7 @@
 - an [[intent]]
 	- [[pull]] [[intents]] [[later]] [[todo]] [[pomodoro]]
-	- catch up with inbox 
-	- do a run over [[do]] (cleanup/prioritization/integration)
+	- [[probing]]
+		
 	- configure [[probing]] for [[moa]]
 	- configure [[probing]] for [[anagora]]
 	- review [[go/moa/bugs]]
