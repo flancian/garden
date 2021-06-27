@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 11.883541295306001,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "89a7352a0395d613",
             "type": "leaf",
-            "dimension": 11.883541295306001,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "511386288550f440",
             "type": "leaf",
-            "dimension": 11.883541295306001,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,9 +44,21 @@
             }
           },
           {
+            "id": "c4886bfcc0b178f5",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rice cooker.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "581d84130b684ec4",
             "type": "leaf",
-            "dimension": 8.407605466428995,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "b437c4853909cd39",
             "type": "leaf",
-            "dimension": 8.407605466428995,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "9ea98f23e54d7734",
             "type": "leaf",
-            "dimension": 11.883541295306001,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +94,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 11.883541295306001,
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +106,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 11.883541295306001,
+            "dimension": 10,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -124,7 +136,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 11.883541295306001,
+            "dimension": 10,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-27.md",
+                "file": "rice cooker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-27.md"
+                "file": "rice cooker.md"
               }
             }
           },
@@ -298,8 +310,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "511386288550f440",
+  "active": "c4886bfcc0b178f5",
   "lastOpenFiles": [
+    "rice cooker.md",
     "2021-06-27.md",
     "2021-06-25.md",
     "memedelperro bot.md",
@@ -308,7 +321,6 @@
     "2021-06-18.md",
     "2021-06-16.md",
     "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
-    "2021-06-19.md",
-    "nixos.md"
+    "2021-06-19.md"
   ]
 }
