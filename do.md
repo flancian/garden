@@ -28,7 +28,7 @@
 	- [[agora bridge api]]
 		- I'll probably add a [[flask]] based api to [[agora bridge]] to:
 			- request new git integrations (e.g. mount git repo X in path Y)
-			
+			- accept other inputs? like perhaps subnodes, which could go into a managed repo.
 	- [[write]]
 		- [[after the pandemic]], or [[an open letter to an open nation]]
 		- [[on cringe]] / [[agora polls]]

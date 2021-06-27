@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "f730fac55b14b2af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "client side pulling.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "0ef40e060311ea98",
         "type": "leaf",
         "state": {
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do.md",
+                "file": "client side pulling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "do.md"
+                "file": "client side pulling.md"
               }
             }
           },
@@ -170,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ef40e060311ea98",
+  "active": "f730fac55b14b2af",
   "lastOpenFiles": [
-    "do.md",
+    "client side pulling.md",
     "2021-06-27.md",
+    "do.md",
     "agora.md",
     "longer stoa ids.md",
     "agora protocol.md",
     "the future of note taking.md",
     "hathitrust.md",
     "frankenbook.md",
-    "speculative annotation.md",
-    "entities.md"
+    "speculative annotation.md"
   ]
 }
