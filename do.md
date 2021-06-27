@@ -1,8 +1,10 @@
 - an [[intent]]
 	- [[pull]] [[intents]] [[later]] [[todo]] [[pomodoro]]
 	- [[probing]]
-		
-	- configure [[probing]] for [[moa]]
+		- I never get to this, can you tell it reminds me of work? :)
+		- I need to just set a pomodoro and do this, but I feel like running the agora at low slo is OK. It's supposed to rely on distribution later on for reliability gains.
+		- Doesn't really apply as an argument to [[moa]] though -- although for [[moa]] we have [[sentry]] set up so that seems reasonable.
+		- configure [[probing]] for [[moa]]
 	- configure [[probing]] for [[anagora]]
 	- review [[go/moa/bugs]]
 	- [[agora]]
