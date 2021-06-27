@@ -4,13 +4,16 @@
 		- I never get to this, can you tell it reminds me of work? :)
 		- I need to just set a pomodoro and do this, but I feel like running the agora at low slo is OK. It's supposed to rely on distribution later on for reliability gains.
 		- Doesn't really apply as an argument to [[moa]] though -- although for [[moa]] we have [[sentry]] set up so that seems reasonable.
-		- configure [[probing]] for [[moa]]
-	- configure [[probing]] for [[anagora]]
-	- review [[go/moa/bugs]]
+			- [ ] set up [[probing]] for [[moa]]
+			- [ ] set up [[probing]] for [[anagora]]
+	- [[moa]]
+		- [ ] review [[go/moa/bugs]]
 	- [[agora]]
-		- implement [[auto push]]
-		- add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
+		- [ ] implement [[auto push]]
+		- [ ] add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
 			- doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
+				- done! just replaced the stoa with a pull button always for now.
+			
 		- improve [[agora graphs]]
 			- what does this *mean*?
 			- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
