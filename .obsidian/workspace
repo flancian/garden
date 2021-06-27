@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-27.md",
+                "file": "fungal empire.md",
                 "mode": "source"
               }
             }
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-27.md",
+                "file": "fungal empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-27.md"
+                "file": "fungal empire.md"
               }
             }
           },
@@ -312,15 +312,15 @@
   },
   "active": "511386288550f440",
   "lastOpenFiles": [
+    "fungal empire.md",
     "2021-06-27.md",
+    "2021-06-16.md",
+    "memedelperro.md",
     "rice cooker.md",
     "2021-06-25.md",
     "memedelperro bot.md",
-    "memedelperro.md",
     "2021-06-20.md",
     "2021-06-18.md",
-    "2021-06-16.md",
-    "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
-    "2021-06-19.md"
+    "wikilinks amount to a lightweight universal standard for knowledge interoperability.md"
   ]
 }
