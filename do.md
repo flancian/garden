@@ -11,16 +11,17 @@
 	- [[agora]]
 		- [ ] implement [[auto push]]
 		- [ ] add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
-			- doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
+			- [x] doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
 				- done! just replaced the stoa with a pull button always for now.
-			
+		- [ ] client side pulling
 		- improve [[agora graphs]]
 			- what does this *mean*?
 			- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
-		- [[wikilinks everywhere]]
+		- [[wikilinks everywhere]] ==
 			- aka [[agora ext]]
-			- [[vera]] is on this, extension is a bit buggy but already super useful
 			- I really want to move wikilinking to on-demand (push button/ctrl-shift-l) or cronjob-like behaviour but right now it just wikilinks everything every time you click, and some sites break
+				- this is already better after a quick PR to linkify on *click* instead of mouse movement
+				- twitter still sort of breaks though
 	- [[write]]
 		- [[on cringe]] / [[agora polls]]
 			- about explicit rational (mathematical) modelling of group dynamics through social media discourse
