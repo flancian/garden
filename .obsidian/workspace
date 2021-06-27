@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rice cooker.md",
+                "file": "2021-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rice cooker.md"
+                "file": "2021-06-27.md"
               }
             }
           },
@@ -310,10 +310,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4886bfcc0b178f5",
+  "active": "511386288550f440",
   "lastOpenFiles": [
-    "rice cooker.md",
     "2021-06-27.md",
+    "rice cooker.md",
     "2021-06-25.md",
     "memedelperro bot.md",
     "memedelperro.md",
