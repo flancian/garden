@@ -8,17 +8,6 @@
         "type": "split",
         "children": [
           {
-            "id": "4d2c9bb987354b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "annotation and the social prize of educational dignity.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "590578daf8557796",
             "type": "leaf",
             "state": {
@@ -39,149 +28,6 @@
                 "mode": "source"
               }
             }
-          },
-          {
-            "id": "d98c2e9bc17c8db2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora bot.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "dfc2f541eefdae1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-26.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "cc6bd96d8868adeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "music.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a55acac86a1abe3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-26.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0f1f62cb23a13a53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nathanael gould.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f2e6147dbff32040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "true names.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "99faa5bee7cb9f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-25.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0bbe8bf907adf9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robert haisfield.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "980c89f10d36ef35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wayback machine.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d346849c59daf3d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wittgenstein protocol.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "898872c0199461f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entities.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "168e2760bc0ce560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora protocol.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "77364a0d4ddc7532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "speculative annotation.md",
-                "mode": "source"
-              }
-            }
           }
         ],
         "direction": "horizontal"
@@ -191,93 +37,9 @@
         "type": "split",
         "children": [
           {
-            "id": "cf8d8524ad11eb6d",
-            "type": "leaf",
-            "dimension": 8.00640512409928,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-25.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f7ea52c649b950ec",
-            "type": "leaf",
-            "dimension": 13.350680544435548,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "i annotate 2021.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3616f77ac4f832e3",
-            "type": "leaf",
-            "dimension": 6.675340272217774,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "social learning across content.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2be0d01305125f7c",
-            "type": "leaf",
-            "dimension": 6.675340272217774,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "libretexts.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bb82155223123138",
-            "type": "leaf",
-            "dimension": 13.230584467574058,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-25.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "423b078478e42fb7",
-            "type": "leaf",
-            "dimension": 13.230584467574058,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vera.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "24eff1ed32e0f862",
-            "type": "leaf",
-            "dimension": 9.407526020816654,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building annotation into browsers.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "5257defb68122b92",
             "type": "leaf",
-            "dimension": 8.00640512409928,
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
@@ -289,23 +51,11 @@
           {
             "id": "9d824460cfbb9b1e",
             "type": "leaf",
-            "dimension": 8.00640512409928,
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "hathitrust.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ad9f8a4c030a8a46",
-            "type": "leaf",
-            "dimension": 13.410728582866293,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frankenbook.md",
                 "mode": "source"
               }
             }
@@ -385,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i annotate 2021.md",
+                "file": "the future of note taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -402,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i annotate 2021.md"
+                "file": "the future of note taking.md"
               }
             }
           },
@@ -458,17 +208,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7ea52c649b950ec",
+  "active": "5257defb68122b92",
   "lastOpenFiles": [
-    "i annotate 2021.md",
-    "2021-06-26.md",
-    "instrumental electronic music.md",
-    "music for hacking.md",
-    "music.md",
-    "nathanael gould.md",
-    "true names.md",
-    "amsomniac.md",
-    "wayback machine.md",
-    "phil jones.md"
+    "the future of note taking.md",
+    "agora protocol.md",
+    "longer stoa ids.md",
+    "frankenbook.md",
+    "speculative annotation.md",
+    "entities.md",
+    "wittgenstein protocol.md",
+    "agora bot.md",
+    "building annotation into browsers.md",
+    "libretexts.md"
   ]
 }
