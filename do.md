@@ -26,7 +26,9 @@
 		- test [[vera]]'s code for pulling tweets and toots
 		- depends on [[agora bridge api]]
 	- [[agora bridge api]]
-		- we need to 
+		- I'll probably add a [[flask]] based api to [[agora bridge]] to:
+			- request new git integrations (e.g. mount git repo X in path Y)
+			
 	- [[write]]
 		- [[after the pandemic]], or [[an open letter to an open nation]]
 		- [[on cringe]] / [[agora polls]]
