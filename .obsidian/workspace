@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "granary.io.md",
+                "file": "chris aldrich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "granary.io.md"
+                "file": "chris aldrich.md"
               }
             }
           },
@@ -192,10 +192,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61fbb8b43dfe1438",
+  "active": "f730fac55b14b2af",
   "lastOpenFiles": [
-    "granary.io.md",
     "chris aldrich.md",
+    "granary.io.md",
     "pin13.net.md",
     "micropub.md",
     "2021-06-28.md",
