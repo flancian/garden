@@ -18,4 +18,8 @@
 		- [[wordpress]]
 		- [[wikimedia]] site
 		- [[drupal]]
+		- day to day notes in [[obsidian]]
+		- [[wikilinks]] rendering from obsidian?
+			- could be static site more than obsidian hosted
+		- targetting [[indieweb]] friendl
 	
