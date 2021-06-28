@@ -28,4 +28,6 @@
 		- the [[web mentions]] standard supports edit and update
 		- [[micropub]] can range from medium-like posts (full blog posts) to bookmark posting
 		- [[indieauth]] is an extension of [[oauth2]]
+	- [[q]] what about static sites?
+		- 
 	
