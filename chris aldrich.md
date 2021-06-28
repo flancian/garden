@@ -21,5 +21,6 @@
 		- day to day notes in [[obsidian]]
 		- [[wikilinks]] rendering from obsidian?
 			- could be static site more than obsidian hosted
-		- targetting [[indieweb]] friendl
+		- targetting [[indieweb]] friendly if not compatible
+			- they're into their fourth or fifth standard w/w3c
 	
