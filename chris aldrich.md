@@ -28,6 +28,7 @@
 		- the [[web mentions]] standard supports edit and update
 		- [[micropub]] can range from medium-like posts (full blog posts) to bookmark posting
 		- [[indieauth]] is an extension of [[oauth2]]
+	- [[micro.blog]]
 	- [[q]] what about static sites?
 		- see [[indieweb wiki]]
 		- when you do something with [[micropub]] or [[web mentions]] and static sites, you might need to trigger a rebuild
@@ -35,5 +36,7 @@
 		- [[kevin marks]]
 		- [[jeremy keith]] literally teaches people how to write html if you need to
 	- is there something like the notion of a [[wikilink]] in these standards?
-		- not that I'm aware of; all of this 
+		- not that I'm aware of; all of this assumes html as a minimum starting set
+		- [[microformats]]
+		- [[pin13.net]]
 	
