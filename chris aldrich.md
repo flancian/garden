@@ -34,4 +34,6 @@
 		- [[aaron parecki]] (oauth2 space, in w3c groups)
 		- [[kevin marks]]
 		- [[jeremy keith]] literally teaches people how to write html if you need to
+	- is there something like the notion of a [[wikilink]] in these standards?
+		- not that I'm aware of; all of this 
 	
