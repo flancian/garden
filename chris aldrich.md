@@ -10,3 +10,5 @@
 ## [[2021-06-28]]
 - [[ward cunningham]] started it all 10y ago
 - [[integrations]]
+	- [[smallest federated wiki]]
+	- [[wordpress]]
