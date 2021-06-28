@@ -33,4 +33,5 @@
 		- when you do something with [[micropub]] or [[web mentions]] and static sites, you might need to trigger a rebuild
 		- [[aaron parecki]] (oauth2 space, in w3c groups)
 		- [[kevin marks]]
+		- [[jeremy keith]] literally teaches people how to write html if you need to
 	
