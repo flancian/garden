@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-06-28.md",
+            "file": "chris aldrich.md",
             "mode": "source"
           }
         }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-28.md",
+                "file": "chris aldrich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-28.md"
+                "file": "chris aldrich.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "f730fac55b14b2af",
   "lastOpenFiles": [
+    "chris aldrich.md",
     "2021-06-28.md",
     "2021-06-27.md",
     "testing.md",
@@ -191,7 +192,6 @@
     "agora.md",
     "longer stoa ids.md",
     "agora protocol.md",
-    "the future of note taking.md",
-    "hathitrust.md"
+    "the future of note taking.md"
   ]
 }

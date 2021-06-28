@@ -7,3 +7,6 @@
     - [[commonplace book]] https://twitter.com/ChrisAldrich/status/1392583610582986752
 
 
+## [[2021-06-28]]
+- [[ward cunningham]] started it all 10y ago
+- [[integrations]]
