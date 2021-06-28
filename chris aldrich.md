@@ -26,4 +26,5 @@
 		- [[maggie appleton]] has been talking about preferring transclusion
 			- but link rot makes it so that data just disappears this way
 		- the [[web mentions]] standard supports edit and update
+		- [[micropub]]
 	
