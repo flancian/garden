@@ -24,5 +24,6 @@
 		- targetting [[indieweb]] friendly if not compatible
 			- they're into their fourth or fifth standard w/w3c
 			- ping
-		- [[maggie appleton]] has been talking about preferring transclusion, but link
+		- [[maggie appleton]] has been talking about preferring transclusion
+			- but link rot makes it so that data just disappears this way
 	
