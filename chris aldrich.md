@@ -30,4 +30,5 @@
 		- [[indieauth]] is an extension of [[oauth2]]
 	- [[q]] what about static sites?
 		- see [[indieweb wiki]]
+	- 
 	
