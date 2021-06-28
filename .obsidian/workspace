@@ -35,17 +35,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "0ef40e060311ea98",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "do.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"

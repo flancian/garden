@@ -30,5 +30,6 @@
 		- [[indieauth]] is an extension of [[oauth2]]
 	- [[q]] what about static sites?
 		- see [[indieweb wiki]]
-	- 
+		- when you do something with [[micropub]] or [[web mentions]] and static sites, you might need to trigger a rebuild
+		- [[aa]]
 	
