@@ -1,0 +1,3 @@
+- a [[translator]]
+	- for [[social web]]
+- [[go]] https://granary.io

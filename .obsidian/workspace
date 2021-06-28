@@ -26,6 +26,17 @@
         }
       },
       {
+        "id": "61fbb8b43dfe1438",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "granary.io.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "6a97dc3b5853ff56",
         "type": "leaf",
         "state": {
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chris aldrich.md",
+                "file": "granary.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chris aldrich.md"
+                "file": "granary.io.md"
               }
             }
           },
@@ -181,8 +192,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f730fac55b14b2af",
+  "active": "61fbb8b43dfe1438",
   "lastOpenFiles": [
+    "granary.io.md",
     "chris aldrich.md",
     "pin13.net.md",
     "micropub.md",
@@ -191,7 +203,6 @@
     "testing.md",
     "client side pulling.md",
     "do.md",
-    "agora.md",
-    "longer stoa ids.md"
+    "agora.md"
   ]
 }
