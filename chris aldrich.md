@@ -12,3 +12,10 @@
 - [[integrations]]
 	- [[smallest federated wiki]]
 	- [[wordpress]]
+		- [[basic]], some
+- [[stack]]
+	- [[chris aldrich]]
+		- [[wordpress]]
+		- [[wikimedia]] site
+		- [[drupal]]
+	
