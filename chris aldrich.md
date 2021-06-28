@@ -31,5 +31,6 @@
 	- [[q]] what about static sites?
 		- see [[indieweb wiki]]
 		- when you do something with [[micropub]] or [[web mentions]] and static sites, you might need to trigger a rebuild
-		- [[aa]]
+		- [[aaron parecki]] (oauth2 space, in w3c groups)
+		- [[kevin marks]]
 	
