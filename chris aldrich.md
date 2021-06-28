@@ -23,4 +23,6 @@
 			- could be static site more than obsidian hosted
 		- targetting [[indieweb]] friendly if not compatible
 			- they're into their fourth or fifth standard w/w3c
+			- ping
+		- [[maggie appleton]] has been talking about preferring transclusion, but link
 	
