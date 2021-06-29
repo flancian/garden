@@ -144,7 +144,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "micropub.md",
+            "file": "2021-06-29.md",
             "mode": "source"
           }
         }
@@ -294,12 +294,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "267bd84cc0b7b9a1",
+  "active": "6a97dc3b5853ff56",
   "lastOpenFiles": [
     "2021-06-29.md",
+    "micropub.md",
     "future of note taking.md",
     "the future of note taking.md",
-    "micropub.md",
     "searx.md",
     "qwant.md",
     "cybersyn.md",
