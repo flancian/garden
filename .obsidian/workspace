@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "searx.md",
+                "file": "2021-06-29.md",
                 "mode": "source"
               }
             }
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "searx.md",
+                "file": "2021-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "searx.md"
+                "file": "2021-06-29.md"
               }
             }
           },
@@ -274,8 +274,8 @@
   },
   "active": "d7cbec0a993be7f0",
   "lastOpenFiles": [
-    "searx.md",
     "2021-06-29.md",
+    "searx.md",
     "qwant.md",
     "cybersyn.md",
     "synco.md",
