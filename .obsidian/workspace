@@ -183,6 +183,28 @@
         }
       },
       {
+        "id": "a926a3249d7d637c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-06-29.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f3562790a5cec103",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "agora social media integration.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "c07f4ec4416ed981",
         "type": "leaf",
         "state": {
@@ -338,17 +360,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a97dc3b5853ff56",
+  "active": "a926a3249d7d637c",
   "lastOpenFiles": [
     "2021-06-29.md",
+    "agora twitter integration.md",
+    "agora social media integration.md",
     "future of note taking.md",
     "tools for thought interchange.md",
     "2021-06-27.md",
     "agora exchange format.md",
     "agora protocol.md",
     "the future of note taking.md",
-    "micropub.md",
-    "searx.md",
-    "qwant.md"
+    "micropub.md"
   ]
 }
