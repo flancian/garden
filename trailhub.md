@@ -1,7 +1,5 @@
 # Trailhub
 
-- [[pull]] [[trailhub1]] [[trail hub]] [
+- [[pull]] [[trailhub1]] [[trail hub]] [[trailmarks]]
 - a [[project]]
-	-  by [[gyur
-
-
+	-  by [[gyuri lajos]]

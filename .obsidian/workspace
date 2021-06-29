@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 12.15066828675577,
+            "dimension": 12.322858903265557,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "13af3efa3f7cd062",
             "type": "leaf",
-            "dimension": 12.15066828675577,
+            "dimension": 12.322858903265557,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "c4886bfcc0b178f5",
             "type": "leaf",
-            "dimension": 12.15066828675577,
+            "dimension": 12.322858903265557,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +46,7 @@
           {
             "id": "8e5eb86f378aef3c",
             "type": "leaf",
-            "dimension": 14.945321992709598,
+            "dimension": 13.739987677141096,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +58,7 @@
           {
             "id": "9ea98f23e54d7734",
             "type": "leaf",
-            "dimension": 12.15066828675577,
+            "dimension": 12.322858903265557,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +70,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 12.15066828675577,
+            "dimension": 12.322858903265557,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,7 +82,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 12.15066828675577,
+            "dimension": 12.322858903265557,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -112,7 +112,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 12.15066828675577,
+            "dimension": 12.322858903265557,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -289,6 +289,7 @@
   "active": "8e5eb86f378aef3c",
   "lastOpenFiles": [
     "trailhub.md",
+    "trail hub.md",
     "2021-06-29.md",
     "memedelperro.md",
     "iem.md",
@@ -296,7 +297,6 @@
     "2021-06-27.md",
     "2021-06-16.md",
     "rice cooker.md",
-    "2021-06-25.md",
-    "memedelperro bot.md"
+    "2021-06-25.md"
   ]
 }
