@@ -1,6 +1,8 @@
 - a [[project]]
-	- [[cybernetic]]
+	- [[cybernetic]] [[economy]]
 	- by [[salvador allende]]'s government
 	- [[wp]] https://en.wikipedia.org/wiki/Project_Cybersyn
 		- [[go]] [[wp]]
 		- "distributed [decision support system](https://en.wikipedia.org/wiki/Decision_support_system "Decision support system") to aid in the management of the national economy."
+		- [[cybersyn]] == [[cybernetic]] [[synergy]]
+		- [[pull]] [[synco]]

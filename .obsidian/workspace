@@ -70,6 +70,17 @@
             }
           },
           {
+            "id": "c8e0f3ce8b7dd77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "synco.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "32ac6e1822cb86d7",
             "type": "leaf",
             "state": {
@@ -166,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybersyn.md",
+                "file": "synco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cybersyn.md"
+                "file": "synco.md"
               }
             }
           },
@@ -239,8 +250,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd5092099e07046b",
+  "active": "c8e0f3ce8b7dd77b",
   "lastOpenFiles": [
+    "synco.md",
     "cybersyn.md",
     "cybersin.md",
     "2021-06-29.md",
@@ -249,7 +261,6 @@
     "2021-06-27.md",
     "go/font-video.md",
     "granary.io.md",
-    "chris aldrich.md",
-    "pin13.net.md"
+    "chris aldrich.md"
   ]
 }
