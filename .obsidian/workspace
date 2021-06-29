@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the future of note taking.md",
+                "file": "micropub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the future of note taking.md"
+                "file": "micropub.md"
               }
             }
           },
@@ -217,8 +217,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32ac6e1822cb86d7",
+  "active": "6a97dc3b5853ff56",
   "lastOpenFiles": [
+    "micropub.md",
     "the future of note taking.md",
     "2021-06-29.md",
     "2021-06-27.md",
@@ -226,7 +227,6 @@
     "granary.io.md",
     "chris aldrich.md",
     "pin13.net.md",
-    "micropub.md",
     "2021-06-28.md",
     "testing.md"
   ]
