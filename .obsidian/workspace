@@ -199,7 +199,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "agora social bridge.md",
+            "file": "2021-06-29.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8f2c4f5385d2241c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "events.md",
             "mode": "source"
           }
         }
@@ -298,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora social bridge.md",
+                "file": "events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora social bridge.md"
+                "file": "events.md"
               }
             }
           },
@@ -371,17 +382,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1460847ab08b906f",
+  "active": "8f2c4f5385d2241c",
   "lastOpenFiles": [
-    "agora social bridge.md",
+    "events.md",
     "2021-06-29.md",
+    "agora social bridge.md",
     "agora twitter integration.md",
     "agora social media integration.md",
     "future of note taking.md",
     "tools for thought interchange.md",
     "2021-06-27.md",
     "agora exchange format.md",
-    "agora protocol.md",
-    "the future of note taking.md"
+    "agora protocol.md"
   ]
 }
