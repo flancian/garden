@@ -48,6 +48,17 @@
             }
           },
           {
+            "id": "267bd84cc0b7b9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "qwant.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "e3ea0909483f0f4f",
             "type": "leaf",
             "state": {
@@ -177,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybersyn.md",
+                "file": "qwant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cybersyn.md"
+                "file": "qwant.md"
               }
             }
           },
@@ -250,17 +261,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd5092099e07046b",
+  "active": "267bd84cc0b7b9a1",
   "lastOpenFiles": [
+    "qwant.md",
+    "2021-06-29.md",
     "cybersyn.md",
     "synco.md",
     "cybersin.md",
-    "2021-06-29.md",
     "micropub.md",
     "the future of note taking.md",
     "2021-06-27.md",
     "go/font-video.md",
-    "granary.io.md",
-    "chris aldrich.md"
+    "granary.io.md"
   ]
 }
