@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 10,
+            "dimension": 12.15066828675577,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,33 +20,9 @@
             }
           },
           {
-            "id": "89a7352a0395d613",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-16.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "511386288550f440",
-            "type": "leaf",
-            "dimension": 5,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-29.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "13af3efa3f7cd062",
             "type": "leaf",
-            "dimension": 5,
+            "dimension": 12.15066828675577,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +34,7 @@
           {
             "id": "c4886bfcc0b178f5",
             "type": "leaf",
-            "dimension": 10,
+            "dimension": 12.15066828675577,
             "state": {
               "type": "markdown",
               "state": {
@@ -68,25 +44,13 @@
             }
           },
           {
-            "id": "581d84130b684ec4",
+            "id": "8e5eb86f378aef3c",
             "type": "leaf",
-            "dimension": 10,
+            "dimension": 14.945321992709598,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-29.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b437c4853909cd39",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-27.md",
+                "file": "trailhub.md",
                 "mode": "source"
               }
             }
@@ -94,7 +58,7 @@
           {
             "id": "9ea98f23e54d7734",
             "type": "leaf",
-            "dimension": 10,
+            "dimension": 12.15066828675577,
             "state": {
               "type": "markdown",
               "state": {
@@ -106,7 +70,7 @@
           {
             "id": "93063ea8776ee9f8",
             "type": "leaf",
-            "dimension": 10,
+            "dimension": 12.15066828675577,
             "state": {
               "type": "markdown",
               "state": {
@@ -118,7 +82,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 10,
+            "dimension": 12.15066828675577,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -148,7 +112,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 10,
+            "dimension": 12.15066828675577,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -249,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-29.md",
+                "file": "trailhub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-29.md"
+                "file": "trailhub.md"
               }
             }
           },
@@ -322,8 +286,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "581d84130b684ec4",
+  "active": "8e5eb86f378aef3c",
   "lastOpenFiles": [
+    "trailhub.md",
     "2021-06-29.md",
     "memedelperro.md",
     "iem.md",
@@ -332,7 +297,6 @@
     "2021-06-16.md",
     "rice cooker.md",
     "2021-06-25.md",
-    "memedelperro bot.md",
-    "2021-06-20.md"
+    "memedelperro bot.md"
   ]
 }
