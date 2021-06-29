@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "future of note taking.md",
+                "file": "2021-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "future of note taking.md"
+                "file": "2021-06-29.md"
               }
             }
           },
@@ -338,10 +338,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c07f4ec4416ed981",
+  "active": "6a97dc3b5853ff56",
   "lastOpenFiles": [
-    "future of note taking.md",
     "2021-06-29.md",
+    "future of note taking.md",
     "tools for thought interchange.md",
     "2021-06-27.md",
     "agora exchange format.md",
