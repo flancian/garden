@@ -6,3 +6,4 @@
 		- "distributed [decision support system](https://en.wikipedia.org/wiki/Decision_support_system "Decision support system") to aid in the management of the national economy."
 		- [[cybersyn]] == [[cybernetic]] [[synergy]]
 		- [[pull]] [[synco]]
+	- [[jacobin]] https://jacobinlat.com/2021/06/24/lecciones-tecnologicas-desde-los-setenta/

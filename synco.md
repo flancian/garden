@@ -1,1 +1,2 @@
 - El nombre de [[cybersyn]] en Español.
+	- [[pull]] [[cybersyn]]

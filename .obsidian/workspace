@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "synco.md",
+                "file": "cybersyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synco.md"
+                "file": "cybersyn.md"
               }
             }
           },
@@ -250,10 +250,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8e0f3ce8b7dd77b",
+  "active": "cd5092099e07046b",
   "lastOpenFiles": [
-    "synco.md",
     "cybersyn.md",
+    "synco.md",
     "cybersin.md",
     "2021-06-29.md",
     "micropub.md",
