@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "micropub.md",
+                "file": "2021-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "micropub.md"
+                "file": "2021-06-29.md"
               }
             }
           },
@@ -217,11 +217,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a97dc3b5853ff56",
+  "active": "61fbb8b43dfe1438",
   "lastOpenFiles": [
+    "2021-06-29.md",
     "micropub.md",
     "the future of note taking.md",
-    "2021-06-29.md",
     "2021-06-27.md",
     "go/font-video.md",
     "granary.io.md",
