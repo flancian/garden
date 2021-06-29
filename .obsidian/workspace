@@ -181,6 +181,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "c07f4ec4416ed981",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "future of note taking.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -254,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-29.md",
+                "file": "future of note taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-29.md"
+                "file": "future of note taking.md"
               }
             }
           },
@@ -327,8 +338,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a97dc3b5853ff56",
+  "active": "c07f4ec4416ed981",
   "lastOpenFiles": [
+    "future of note taking.md",
     "2021-06-29.md",
     "tools for thought interchange.md",
     "2021-06-27.md",
@@ -336,7 +348,6 @@
     "agora protocol.md",
     "the future of note taking.md",
     "micropub.md",
-    "future of note taking.md",
     "searx.md",
     "qwant.md"
   ]
