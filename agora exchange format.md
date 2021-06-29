@@ -1,0 +1,3 @@
+- the other leg of [[agora protocol]]
+	- determining a storage format that facilitates exch
+	- [[hypothesis]] https://hyp.is/i3iUMtOSEeudHIML10vbwQ/iannotate.org/2021/program.html

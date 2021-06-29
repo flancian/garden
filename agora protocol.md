@@ -1,6 +1,7 @@
 # Agora Protocol
 
 - a [[protocol]]
+	- see also [[agora exchange format]].
 	- [[plain text]] plus [[wikilinks]] as layer 0 (bootstrapping layer).
 		- indented bulleted lists designate a [[heterarchy]].
 		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
