@@ -1,3 +1,9 @@
 - the other leg of [[agora protocol]]
-	- determining a storage format that facilitates exch
+	- the agora wants to support a variety of storage formats that facilitate exchange between [[tools for thought]]
+		- [[markdown]] plus [[wikilinks]] is the current default
+		- supported too:
+			- [[plain text]]
+			- [[hashtags]]
+			- [[org mode]]
+			- [[edn]] (planned)
 	- [[hypothesis]] https://hyp.is/i3iUMtOSEeudHIML10vbwQ/iannotate.org/2021/program.html
