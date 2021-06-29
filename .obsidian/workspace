@@ -42,7 +42,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "go/font-video.md",
+            "file": "2021-06-29.md",
             "mode": "source"
           }
         }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/font-video.md",
+                "file": "2021-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go/font-video.md"
+                "file": "2021-06-29.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "32ac6e1822cb86d7",
   "lastOpenFiles": [
-    "go/font-video.md",
     "2021-06-29.md",
+    "go/font-video.md",
     "granary.io.md",
     "chris aldrich.md",
     "pin13.net.md",
