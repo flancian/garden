@@ -4,8 +4,7 @@
 		- includes both lightning talks and panel discussion
 		- [[go/font-video]] also works
 	- my take after this session: https://hyp.is/i3iUMtOSEeudHIML10vbwQ/iannotate.org/2021/program.html, after a great suggestion by [[chris aldrich]].
-	- notes
-	- [[q&a]]
+	- notes start at  [[q&a]]
 	- [[dan whaley]] starts with the [[25 years question]]: really durable technologies last >25y. web has that; wikis are almost there. What's most important to think about note taking?
 		- [[oliver sauter]] anything that lasts 25y requires sustained effort. an ability to iterate towards this.
 		- [[conaw]] what's motivating the question? there seems to be an unspoken assumption that web/wiki technology is 25y old.
