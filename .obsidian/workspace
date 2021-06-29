@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "future of note taking.md",
+                "file": "2021-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "future of note taking.md"
+                "file": "2021-06-29.md"
               }
             }
           },
@@ -294,11 +294,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b53f37533e1646b",
+  "active": "267bd84cc0b7b9a1",
   "lastOpenFiles": [
+    "2021-06-29.md",
     "future of note taking.md",
     "the future of note taking.md",
-    "2021-06-29.md",
     "micropub.md",
     "searx.md",
     "qwant.md",
