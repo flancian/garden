@@ -4,48 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "e2fd479dac4cc7f8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-06-27.md",
-            "mode": "source"
+        "id": "3b4e13489b8a9fde",
+        "type": "split",
+        "children": [
+          {
+            "id": "e2fd479dac4cc7f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-27.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f730fac55b14b2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chris aldrich.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "f730fac55b14b2af",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chris aldrich.md",
-            "mode": "source"
+        "id": "31bfeb5315ccbd7a",
+        "type": "split",
+        "children": [
+          {
+            "id": "61fbb8b43dfe1438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-29.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "32ac6e1822cb86d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the future of note taking.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "61fbb8b43dfe1438",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-06-29.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "32ac6e1822cb86d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-06-29.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "6a97dc3b5853ff56",
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-29.md",
+                "file": "the future of note taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-29.md"
+                "file": "the future of note taking.md"
               }
             }
           },
@@ -205,15 +219,15 @@
   },
   "active": "32ac6e1822cb86d7",
   "lastOpenFiles": [
+    "the future of note taking.md",
     "2021-06-29.md",
+    "2021-06-27.md",
     "go/font-video.md",
     "granary.io.md",
     "chris aldrich.md",
     "pin13.net.md",
     "micropub.md",
     "2021-06-28.md",
-    "2021-06-27.md",
-    "testing.md",
-    "client side pulling.md"
+    "testing.md"
   ]
 }
