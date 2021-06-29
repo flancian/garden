@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools for thought interchange.md",
+                "file": "2021-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools for thought interchange.md"
+                "file": "2021-06-29.md"
               }
             }
           },
@@ -327,10 +327,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3db8d7cab419fd76",
+  "active": "6a97dc3b5853ff56",
   "lastOpenFiles": [
-    "tools for thought interchange.md",
     "2021-06-29.md",
+    "tools for thought interchange.md",
     "2021-06-27.md",
     "agora exchange format.md",
     "agora protocol.md",
