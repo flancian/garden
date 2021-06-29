@@ -1,0 +1,6 @@
+- a [[search engine]]
+	- [[open source]] [[distributed]]
+	- [[project]] https://searx.me
+	- [[git]] https://github.com/searx/searx
+	- [[go]] https://searx.bar/
+		- this is just one of many instances
