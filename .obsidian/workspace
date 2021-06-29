@@ -4,12 +4,85 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4e13489b8a9fde",
+        "id": "b0a62e0bd6f30307",
         "type": "split",
         "children": [
           {
-            "id": "e2fd479dac4cc7f8",
+            "id": "1c3e63745fbefd6f",
             "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "do.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "89a7352a0395d613",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-16.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "511386288550f440",
+            "type": "leaf",
+            "dimension": 5,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-29.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "13af3efa3f7cd062",
+            "type": "leaf",
+            "dimension": 5,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "iem.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c4886bfcc0b178f5",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rice cooker.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "581d84130b684ec4",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-29.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b437c4853909cd39",
+            "type": "leaf",
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,135 +92,91 @@
             }
           },
           {
-            "id": "f730fac55b14b2af",
+            "id": "9ea98f23e54d7734",
             "type": "leaf",
+            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chris aldrich.md",
+                "file": "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "93063ea8776ee9f8",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "receive.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d407fbfa22a48bda",
+            "type": "split",
+            "dimension": 10,
+            "children": [
+              {
+                "id": "b7b8a1f5a0af6991",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "agora fediverse integration.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "052ae04af14c47b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "twitter bridge.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "56bdd2b5a09241be",
+            "type": "split",
+            "dimension": 10,
+            "children": [
+              {
+                "id": "7abcb8972baaed4d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian embeds.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "9d1767dbb6c4ba74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "break glass.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "31bfeb5315ccbd7a",
-        "type": "split",
-        "children": [
-          {
-            "id": "61fbb8b43dfe1438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-29.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "31b366a3fa59045b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the future of note taking.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0b53f37533e1646b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "future of note taking.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "267bd84cc0b7b9a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-29.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d7cbec0a993be7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-29.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "e3ea0909483f0f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cybersin.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "cd5092099e07046b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cybersyn.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c8e0f3ce8b7dd77b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "synco.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "32ac6e1822cb86d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the future of note taking.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "6a97dc3b5853ff56",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-06-29.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -174,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyperbee",
+                "query": "plesmasquerade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "afe2921ea1b550bb",
@@ -294,17 +322,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a97dc3b5853ff56",
+  "active": "581d84130b684ec4",
   "lastOpenFiles": [
     "2021-06-29.md",
-    "micropub.md",
-    "future of note taking.md",
-    "the future of note taking.md",
-    "searx.md",
-    "qwant.md",
-    "cybersyn.md",
-    "synco.md",
-    "cybersin.md",
-    "2021-06-27.md"
+    "memedelperro.md",
+    "iem.md",
+    "fungal empire.md",
+    "2021-06-27.md",
+    "2021-06-16.md",
+    "rice cooker.md",
+    "2021-06-25.md",
+    "memedelperro bot.md",
+    "2021-06-20.md"
   ]
 }
