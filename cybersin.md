@@ -1,0 +1,5 @@
+- a [[project]]
+	- [[cybernetic]]
+	- by [[salvador allende]]'s government
+	- [[wp]] https://en.wikipedia.org/wiki/Project_Cybersyn
+		- [[go]] [[wp]]
