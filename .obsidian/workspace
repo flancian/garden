@@ -4,179 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a62e0bd6f30307",
-        "type": "split",
-        "children": [
-          {
-            "id": "1c3e63745fbefd6f",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "do.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "89a7352a0395d613",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-16.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "511386288550f440",
-            "type": "leaf",
-            "dimension": 5,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-29.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "13af3efa3f7cd062",
-            "type": "leaf",
-            "dimension": 5,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iem.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c4886bfcc0b178f5",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rice cooker.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "581d84130b684ec4",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memedelperro.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b437c4853909cd39",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-27.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "9ea98f23e54d7734",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "93063ea8776ee9f8",
-            "type": "leaf",
-            "dimension": 10,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "receive.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d407fbfa22a48bda",
-            "type": "split",
-            "dimension": 10,
-            "children": [
-              {
-                "id": "b7b8a1f5a0af6991",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora fediverse integration.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "052ae04af14c47b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "twitter bridge.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "56bdd2b5a09241be",
-            "type": "split",
-            "dimension": 10,
-            "children": [
-              {
-                "id": "7abcb8972baaed4d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian embeds.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "9d1767dbb6c4ba74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "break glass.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
+        "id": "e2fd479dac4cc7f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-06-27.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "f730fac55b14b2af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chris aldrich.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "61fbb8b43dfe1438",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-06-29.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "32ac6e1822cb86d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "go/font-video.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6a97dc3b5853ff56",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "micropub.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -203,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plesmasquerade",
+                "query": "hyperbee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "afe2921ea1b550bb",
@@ -249,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iem.md",
+                "file": "go/font-video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iem.md"
+                "file": "go/font-video.md"
               }
             }
           },
@@ -322,17 +203,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13af3efa3f7cd062",
+  "active": "32ac6e1822cb86d7",
   "lastOpenFiles": [
-    "iem.md",
+    "go/font-video.md",
     "2021-06-29.md",
-    "fungal empire.md",
+    "granary.io.md",
+    "chris aldrich.md",
+    "pin13.net.md",
+    "micropub.md",
+    "2021-06-28.md",
     "2021-06-27.md",
-    "2021-06-16.md",
-    "memedelperro.md",
-    "rice cooker.md",
-    "2021-06-25.md",
-    "memedelperro bot.md",
-    "2021-06-20.md"
+    "testing.md",
+    "client side pulling.md"
   ]
 }
