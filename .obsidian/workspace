@@ -48,6 +48,28 @@
             }
           },
           {
+            "id": "31b366a3fa59045b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the future of note taking.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0b53f37533e1646b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "future of note taking.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "267bd84cc0b7b9a1",
             "type": "leaf",
             "state": {
@@ -199,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-29.md",
+                "file": "future of note taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-29.md"
+                "file": "future of note taking.md"
               }
             }
           },
@@ -272,17 +294,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7cbec0a993be7f0",
+  "active": "0b53f37533e1646b",
   "lastOpenFiles": [
+    "future of note taking.md",
+    "the future of note taking.md",
     "2021-06-29.md",
+    "micropub.md",
     "searx.md",
     "qwant.md",
     "cybersyn.md",
     "synco.md",
     "cybersin.md",
-    "micropub.md",
-    "the future of note taking.md",
-    "2021-06-27.md",
-    "go/font-video.md"
+    "2021-06-27.md"
   ]
 }
