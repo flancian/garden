@@ -1,6 +1,6 @@
 - a [[coop]]
+	- [[web sites]] [[activism]] [[publisher]]
 	- [[argentina]]
-	- [[web sites]] [[activism]]
 	- [[go]] https://sutty.nl
 	- [[twitter]] https://twitter.com/suttyweb
 	- [[miembros]]
