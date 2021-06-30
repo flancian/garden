@@ -13,7 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-29.md",
+                "file": "2021-06-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8c2022fad8939f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "p5.js.md",
                 "mode": "source"
               }
             }
@@ -172,45 +183,12 @@
         "direction": "horizontal"
       },
       {
-        "id": "6a97dc3b5853ff56",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-06-29.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a926a3249d7d637c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-06-29.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "f3562790a5cec103",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "agora social media integration.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c07f4ec4416ed981",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "future of note taking.md",
             "mode": "source"
           }
         }
@@ -287,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora social media integration.md",
+                "file": "p5.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora social media integration.md"
+                "file": "p5.js.md"
               }
             }
           },
@@ -360,17 +338,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3562790a5cec103",
+  "active": "8c2022fad8939f74",
   "lastOpenFiles": [
-    "agora social media integration.md",
+    "p5.js.md",
+    "2021-06-30.md",
     "2021-06-29.md",
+    "agora social media integration.md",
     "events.md",
     "agora social bridge.md",
     "agora twitter integration.md",
     "future of note taking.md",
     "tools for thought interchange.md",
-    "2021-06-27.md",
-    "agora exchange format.md",
-    "agora protocol.md"
+    "2021-06-27.md"
   ]
 }
