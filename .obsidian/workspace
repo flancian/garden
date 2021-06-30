@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-29.md",
+                "file": "agora social media integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-29.md"
+                "file": "agora social media integration.md"
               }
             }
           },
@@ -360,13 +360,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a926a3249d7d637c",
+  "active": "f3562790a5cec103",
   "lastOpenFiles": [
+    "agora social media integration.md",
     "2021-06-29.md",
     "events.md",
     "agora social bridge.md",
     "agora twitter integration.md",
-    "agora social media integration.md",
     "future of note taking.md",
     "tools for thought interchange.md",
     "2021-06-27.md",
