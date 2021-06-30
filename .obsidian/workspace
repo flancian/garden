@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 12.322858903265558,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "13af3efa3f7cd062",
             "type": "leaf",
-            "dimension": 6.161429451632779,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +34,7 @@
           {
             "id": "0695f8a99cebcae7",
             "type": "leaf",
-            "dimension": 6.161429451632779,
+            "dimension": 8.333333333333334,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,49 +44,25 @@
             }
           },
           {
-            "id": "c4886bfcc0b178f5",
+            "id": "306ca3ef4e61733f",
             "type": "leaf",
-            "dimension": 12.322858903265558,
+            "dimension": 8.333333333333334,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rice cooker.md",
+                "file": "kris kaminski.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "8e5eb86f378aef3c",
+            "id": "bd53c4b7996faea8",
             "type": "leaf",
-            "dimension": 13.739987677141096,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trailhub.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "9ea98f23e54d7734",
-            "type": "leaf",
-            "dimension": 12.322858903265558,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wikilinks amount to a lightweight universal standard for knowledge interoperability.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "93063ea8776ee9f8",
-            "type": "leaf",
-            "dimension": 12.322858903265558,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "receive.md",
+                "file": "kris kaminsky.md",
                 "mode": "source"
               }
             }
@@ -94,7 +70,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 12.322858903265558,
+            "dimension": 16.666666666666668,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -124,7 +100,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 12.322858903265558,
+            "dimension": 16.666666666666668,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -225,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "twitter embeds without tracking.md",
+                "file": "kris kaminski.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "twitter embeds without tracking.md"
+                "file": "kris kaminski.md"
               }
             }
           },
@@ -298,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0695f8a99cebcae7",
+  "active": "306ca3ef4e61733f",
   "lastOpenFiles": [
+    "kris kaminski.md",
     "twitter embeds without tracking.md",
+    "kris kaminsky.md",
     "2021-06-30.md",
     "iem.md",
     "trailhub.md",
     "trail hub.md",
     "2021-06-29.md",
     "memedelperro.md",
-    "fungal empire.md",
-    "2021-06-27.md",
-    "2021-06-16.md"
+    "fungal empire.md"
   ]
 }
