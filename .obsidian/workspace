@@ -188,7 +188,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "x-frame-options.md",
+            "file": "2021-06-30.md",
             "mode": "source"
           }
         }
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x-frame-options.md",
+                "file": "2021-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x-frame-options.md"
+                "file": "2021-06-30.md"
               }
             }
           },
@@ -351,9 +351,9 @@
   },
   "active": "fe6d51c421a6dec7",
   "lastOpenFiles": [
+    "2021-06-30.md",
     "x-frame-options.md",
     "doubleloop.md",
-    "2021-06-30.md",
     "sutty.md",
     "agora social media integration.md",
     "hedgedoc.md",
