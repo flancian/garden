@@ -1,7 +1,13 @@
+- a [[coop]]
+	- [[argentina]]
 - a [[publisher]]
-	- [[web sites]] [[activistm]]
+	- [[web sites]] [[activism]]
 	- [[go]] https://sutty.nl
-	- [[fauno]]
+	- [[twitter]] https://twitter.com/suttyweb
+	- [[miembros]]
+		- [[fauno]]
+		- [[elio]]
+		- ?
 	
 ## [[2021-06-16]]
 - meeting: [[fauno]], [[elio]]
