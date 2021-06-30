@@ -262,6 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +278,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021-06-30.md"
+              }
             }
           },
           {
@@ -332,10 +335,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c2022fad8939f74",
+  "active": "e2fd479dac4cc7f8",
   "lastOpenFiles": [
-    "p5.js.md",
     "2021-06-30.md",
+    "p5.js.md",
     "2021-06-29.md",
     "agora social media integration.md",
     "events.md",
