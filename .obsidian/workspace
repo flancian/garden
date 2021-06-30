@@ -188,7 +188,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-06-30.md",
+            "file": "hedgedoc wikilinks.md",
             "mode": "source"
           }
         }
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-30.md",
+                "file": "hedgedoc wikilinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-30.md"
+                "file": "hedgedoc wikilinks.md"
               }
             }
           },
@@ -351,6 +351,7 @@
   },
   "active": "fe6d51c421a6dec7",
   "lastOpenFiles": [
+    "hedgedoc wikilinks.md",
     "2021-06-30.md",
     "x-frame-options.md",
     "doubleloop.md",
@@ -359,7 +360,6 @@
     "hedgedoc.md",
     "2021-06-29.md",
     "p5.js.md",
-    "events.md",
-    "agora social bridge.md"
+    "events.md"
   ]
 }
