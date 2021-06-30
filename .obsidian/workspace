@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-30.md",
+                "file": "hedgedoc.md",
                 "mode": "source"
               }
             }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-30.md",
+                "file": "hedgedoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-30.md"
+                "file": "hedgedoc.md"
               }
             }
           },
@@ -329,6 +329,7 @@
   },
   "active": "e2fd479dac4cc7f8",
   "lastOpenFiles": [
+    "hedgedoc.md",
     "2021-06-30.md",
     "2021-06-29.md",
     "p5.js.md",
@@ -337,7 +338,6 @@
     "agora social bridge.md",
     "agora twitter integration.md",
     "future of note taking.md",
-    "tools for thought interchange.md",
-    "2021-06-27.md"
+    "tools for thought interchange.md"
   ]
 }
