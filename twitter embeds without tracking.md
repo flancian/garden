@@ -1,0 +1,2 @@
+- [[go]] https://swizec.com/blog/twitter-embeds-without-javascript-pt1-codewithswiz-29/
+- recommended by 
