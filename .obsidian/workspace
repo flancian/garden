@@ -183,6 +183,17 @@
         }
       },
       {
+        "id": "fe6d51c421a6dec7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "doubleloop.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "c0c0bea3aa9b57e6",
         "type": "leaf",
         "state": {
@@ -265,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sutty.md",
+                "file": "2021-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sutty.md"
+                "file": "2021-06-30.md"
               }
             }
           },
@@ -338,17 +349,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c0c0bea3aa9b57e6",
+  "active": "f3562790a5cec103",
   "lastOpenFiles": [
-    "sutty.md",
     "2021-06-30.md",
+    "doubleloop.md",
+    "sutty.md",
     "agora social media integration.md",
     "hedgedoc.md",
     "2021-06-29.md",
     "p5.js.md",
     "events.md",
     "agora social bridge.md",
-    "agora twitter integration.md",
-    "future of note taking.md"
+    "agora twitter integration.md"
   ]
 }
