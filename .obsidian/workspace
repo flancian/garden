@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-30.md",
+                "file": "agora social media integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-30.md"
+                "file": "agora social media integration.md"
               }
             }
           },
@@ -327,13 +327,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2fd479dac4cc7f8",
+  "active": "f3562790a5cec103",
   "lastOpenFiles": [
+    "agora social media integration.md",
     "2021-06-30.md",
     "hedgedoc.md",
     "2021-06-29.md",
     "p5.js.md",
-    "agora social media integration.md",
     "events.md",
     "agora social bridge.md",
     "agora twitter integration.md",
