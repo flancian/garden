@@ -36,6 +36,7 @@
 	- [[interlace]] is a multiverse; a superset. doesn't have governance.
 		- negative space for interlay
 			-  as you develop reputations, governance, integration approaches for an interlay you may run across things where a decision isn't clear and it feels restrictive (once made) -- you know that one way to address it is to fork
+			- pun on *interlays*
 	
 
 ## [[2021-05-22]]
