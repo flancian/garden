@@ -30,7 +30,7 @@
 		- [[q]] if there is a governance layer, is it in the interlay? I believe so
 			- all layers could have governance components
 	- example: an underlay that is a star catalogue
-		- 
+		- a single collaborative dataset
 
 ## [[2021-05-22]]
 - ahoy!
