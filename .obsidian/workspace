@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,11 +22,23 @@
           {
             "id": "13af3efa3f7cd062",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 8.333333333333336,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-30.md",
+                "file": "2021-07-01.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6a64d5eeb3a42c2a",
+            "type": "leaf",
+            "dimension": 8.333333333333336,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metasj.md",
                 "mode": "source"
               }
             }
@@ -34,7 +46,7 @@
           {
             "id": "0695f8a99cebcae7",
             "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 8.333333333333336,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +58,7 @@
           {
             "id": "306ca3ef4e61733f",
             "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 8.333333333333336,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,7 +70,7 @@
           {
             "id": "bd53c4b7996faea8",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "state": {
               "type": "markdown",
               "state": {
@@ -70,7 +82,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -100,7 +112,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-01.md",
+                "file": "metasj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-07-01.md"
+                "file": "metasj.md"
               }
             }
           },
@@ -274,17 +286,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd53c4b7996faea8",
+  "active": "6a64d5eeb3a42c2a",
   "lastOpenFiles": [
+    "metasj.md",
     "2021-07-01.md",
+    "2021-06-30.md",
     "kris kaminsky.md",
     "kris kaminski.md",
     "twitter embeds without tracking.md",
-    "2021-06-30.md",
     "iem.md",
     "trailhub.md",
     "trail hub.md",
-    "2021-06-29.md",
-    "memedelperro.md"
+    "2021-06-29.md"
   ]
 }
