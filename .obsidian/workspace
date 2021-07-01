@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kris kaminsky.md",
+                "file": "2021-07-01.md",
                 "mode": "source"
               }
             }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kris kaminski.md",
+                "file": "2021-07-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kris kaminski.md"
+                "file": "2021-07-01.md"
               }
             }
           },
@@ -274,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "306ca3ef4e61733f",
+  "active": "bd53c4b7996faea8",
   "lastOpenFiles": [
+    "2021-07-01.md",
+    "kris kaminsky.md",
     "kris kaminski.md",
     "twitter embeds without tracking.md",
-    "kris kaminsky.md",
     "2021-06-30.md",
     "iem.md",
     "trailhub.md",
     "trail hub.md",
     "2021-06-29.md",
-    "memedelperro.md",
-    "fungal empire.md"
+    "memedelperro.md"
   ]
 }
