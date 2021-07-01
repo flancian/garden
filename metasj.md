@@ -13,7 +13,8 @@
 	- ahs search prefix
 	- https://oadoi.org
 		- non API version that just works:
-	- it should take any version of a DOI indicator, either in URL form
+	- it should take any version of a DOI indicator, either in URL form or not
+	- you want it to return the URL of a world readable PDF
 - [[sociofesto]]
 
 ## [[2021-05-22]]
