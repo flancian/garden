@@ -12,6 +12,7 @@
 - [[cascading]] searches
 	- ahs search prefix
 	- https://oadoi.org
+		- non API version that just works: 
 - [[sociofesto]]
 
 ## [[2021-05-22]]
