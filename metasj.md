@@ -22,6 +22,8 @@
 	- [[debris]]
 	- [[helios]] group is its own data collective, US based
 - how to assemble good collective ontologies
+- [[interlay]] vs [[interlace]]
+	- [[interlay]]: the universe of what's av
 
 ## [[2021-05-22]]
 - ahoy!
