@@ -35,7 +35,7 @@
 		- needs coordination, e.g. how to do timestamps; how to sequence observations; how to handle a variety of sensors. these all yield rules that could be interpreted as governance.
 	- [[interlace]] is a multiverse; a superset. doesn't have governance.
 		- negative space for interlay
-			-  as you develop reputations, governance, integration approaches for an interlay you may 
+			-  as you develop reputations, governance, integration approaches for an interlay you may run across things where a decision isn't clear and it feels restrictive (once made) -- you know that one way to address it is to fork
 	
 
 ## [[2021-05-22]]
