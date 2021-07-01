@@ -42,7 +42,12 @@
 		- a standard schema could be: naming a source and describing its properties
 			- aside: catalogue like
 		- unsure now because people that care about granular knowledge and compile huge datasets get easily distracted about format questions
-			- better to define it in terms of a namespace
+			- better to define it in terms of a namespace perhaps
+			- it has at least a human readable name, perhaps an autogen machine readable name
+			- describes which formats are available
+				- structured data
+				- human readabl
+				- 
 	
 
 ## [[2021-05-22]]
