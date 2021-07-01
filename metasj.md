@@ -17,6 +17,9 @@
 	- it should take any version of a DOI indicator, either in URL form or not
 	- you want it to return the URL of a world readable PDF
 - [[sociofesto]]
+- [[space]]
+	- [[weather]]
+	- [[debris]]
 
 ## [[2021-05-22]]
 - ahoy!
