@@ -11,8 +11,8 @@
 ## [[2021-07-01]]
 - [[cascading]] searches
 	- ahs search prefix
+	- https://oadoi.org
 - [[sociofesto]]
-	- hthttp://oadoi.org]]
 
 ## [[2021-05-22]]
 - ahoy!
