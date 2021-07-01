@@ -46,8 +46,7 @@
 			- it has at least a human readable name, perhaps an autogen machine readable name
 			- describes which formats are available
 				- structured data
-				- human readabl
-				- 
+				- human readable text
 	
 
 ## [[2021-05-22]]
