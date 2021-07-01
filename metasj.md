@@ -12,7 +12,8 @@
 - [[cascading]] searches
 	- ahs search prefix
 	- https://oadoi.org
-		- non API version that just works: 
+		- non API version that just works:
+	- it should take any version of a DOI indicator, either in URL form
 - [[sociofesto]]
 
 ## [[2021-05-22]]
