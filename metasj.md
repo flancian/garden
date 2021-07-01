@@ -13,7 +13,7 @@
 	- ahs search prefix
 	- https://oadoi.org
 		- non API version that just works: see telegram
-		- API seems good
+		- API seems good though
 	- it should take any version of a DOI indicator, either in URL form or not
 	- you want it to return the URL of a world readable PDF
 - [[sociofesto]]
