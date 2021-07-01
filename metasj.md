@@ -28,7 +28,9 @@
 		- fast feedback loop, discoverability
 		- we have stopped at the second rung of a high ladder
 		- [[q]] if there is a governance layer, is it in the interlay? I believe so
-			- 
+			- all layers could have governance components
+	- example: an underlay that is a star catalogue
+		- 
 
 ## [[2021-05-22]]
 - ahoy!
