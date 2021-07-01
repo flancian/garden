@@ -23,7 +23,10 @@
 	- [[helios]] group is its own data collective, US based
 - how to assemble good collective ontologies
 - [[interlay]] vs [[interlace]]
-	- [[interlay]]: the universe of what's av
+	- [[interlay]]: the universe of what's available. how to deal with reputation, visibility, governance.
+		- has the feel of a search engine. search engines were the first interlays :)
+		- fast feedback loop, discoverability
+		- we have stopped at the second rung of a high ladder
 
 ## [[2021-05-22]]
 - ahoy!
