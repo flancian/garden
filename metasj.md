@@ -20,6 +20,7 @@
 - [[space]]
 	- [[weather]]
 	- [[debris]]
+	- [[helios]] group is its own data collective, US based
 
 ## [[2021-05-22]]
 - ahoy!
