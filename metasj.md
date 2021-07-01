@@ -34,6 +34,8 @@
 		- social aspects
 		- needs coordination, e.g. how to do timestamps; how to sequence observations; how to handle a variety of sensors. these all yield rules that could be interpreted as governance.
 	- [[interlace]] is a multiverse; a superset. doesn't have governance.
+		- negative space for interlay
+			-  as you develop reputations, governance, integration approaches for an interlay you may 
 	
 
 ## [[2021-05-22]]
