@@ -21,6 +21,7 @@
 	- [[weather]]
 	- [[debris]]
 	- [[helios]] group is its own data collective, US based
+- how to assemble good collective ontologies
 
 ## [[2021-05-22]]
 - ahoy!
