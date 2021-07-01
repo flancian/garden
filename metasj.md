@@ -27,6 +27,8 @@
 		- has the feel of a search engine. search engines were the first interlays :)
 		- fast feedback loop, discoverability
 		- we have stopped at the second rung of a high ladder
+		- [[q]] if there is a governance layer, is it in the interlay? I believe so
+			- 
 
 ## [[2021-05-22]]
 - ahoy!
