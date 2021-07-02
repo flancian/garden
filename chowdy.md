@@ -1,3 +1,4 @@
 - a [[person]]
 	- [[tech]] [[indie games]]
-	- [[twitter]] https://anagora.org/ccopprell
+	- [[twitter]] https://twitter.com/ccopprell
+	- [[go]] https://chowdy.tumblr.com/
