@@ -1,33 +1,34 @@
 # Flancian
 
-- [[identity]]
+- An [[identity]].
 	- [[go]] https://flancia.org
 	- [[email]] 0@flancia.org
 	- [[calendly]] https://calendly.com/flancian
 	- [[agora]] https://anagora.org
+	  - ***[[contract]]***
 	- [[twitter]] https://twitter.com/flancian
 	- [[mastodon]]
 	  - [[social.coop]] https://social.coop/@flancian
 	  - [[merveilles]] https://merveilles.town/@flaneur
 	- [[garden]] https://github.com/flancian/garden
-	- [[git]] [[]] 
+	- [[git]]
 		- [[github]] https://github.com/flancian
 	- [[matrix]] @flancian:matrix.org
 	- [[telegram]] @Flancian
-	- [[anar.chi.st]] https://anar.chi.st/Flancian
 	- [[ctzn]] https://ctznry.com/flancian@ctzn.one
+	- [[anar.chi.st]] https://anar.chi.st/Flancian
 	- [[chess]] https://chess.com/member/flancian
 	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
 - A [[person]].
   - My [[self]] :).
-  - I'm trying to build, an [[Agora]].
+- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]]. 
+  - I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
+  - The [[agora]] is an [[experimental]] [[social network]] in which I try to express my full identity.
+- I'm trying to build an [[Agora]].
 	  - There are many [[Agoras]]. [[This Agora is just an agora]].
 	  - ***See [[contract]]***.
 	  - https://twitter.com/flancian/status/1349070105402105856
 	  - https://twitter.com/flancian/status/1254149494209499138
-- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]]. 
-  - I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
-  - The [[agora]] is an [[experimental]] [[social network]] in which I try to express my full identity.
 - I practice [[open source]] and [[open ethics]] as much as I can.
   - This [[agora]] is, and will always be, [[free]] and [[open source]].
   - I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
