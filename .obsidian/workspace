@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metasj.md",
+                "file": "2021-07-02.md",
                 "mode": "source"
               }
             }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metasj.md",
+                "file": "2021-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metasj.md"
+                "file": "2021-07-02.md"
               }
             }
           },
@@ -288,6 +288,7 @@
   },
   "active": "6a64d5eeb3a42c2a",
   "lastOpenFiles": [
+    "2021-07-02.md",
     "metasj.md",
     "2021-07-01.md",
     "2021-06-30.md",
@@ -296,7 +297,6 @@
     "twitter embeds without tracking.md",
     "iem.md",
     "trailhub.md",
-    "trail hub.md",
-    "2021-06-29.md"
+    "trail hub.md"
   ]
 }
