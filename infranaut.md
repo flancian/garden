@@ -1,4 +1,5 @@
 - a [[person]]
 	- [[tech]] [[agorist]] 
-	- [[infragora]]
+	- [[pull]] [[infragora]]
 	- [[twitter]] https://twitter.com/infra_naut
+		- [[pull]] [[infra naut]]
