@@ -4,19 +4,20 @@
 	- [[go]] https://flancia.org
 	- [[email]] 0@flancia.org
 	- [[calendly]] https://calendly.com/flancian
+	- [[agora]] https://anagora.org
 	- [[twitter]] https://twitter.com/flancian
-	- [[fediverse]] == [[federation]] == [[mastodon]]
+	- [[mastodon]]
 	  - [[social.coop]] https://social.coop/@flancian
 	  - [[merveilles]] https://merveilles.town/@flaneur
 	- [[garden]] https://github.com/flancian/garden
-	- [[github]] https://github.com/flancian
+	- [[git]] [[]] 
+		- [[github]] https://github.com/flancian
 	- [[matrix]] @flancian:matrix.org
 	- [[telegram]] @Flancian
 	- [[anar.chi.st]] https://anar.chi.st/Flancian
 	- [[ctzn]] https://ctznry.com/flancian@ctzn.one
 	- [[chess]] https://chess.com/member/flancian
 	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
-	- [[agora]] anagora.org
 - A [[person]].
   - My [[self]] :).
   - I'm trying to build, an [[Agora]].
