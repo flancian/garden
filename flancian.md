@@ -22,23 +22,23 @@
 - A [[person]].
 	- My [[self]] :).
 	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]]. 
-  - I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
-  - The [[agora]] is an [[experimental]] [[social network]] in which I try to express my full identity.
-- I'm trying to build an [[Agora]].
-	  - There are many [[Agoras]]. [[This Agora is just an agora]].
-	  - https://twitter.com/flancian/status/1349070105402105856
-	  - https://twitter.com/flancian/status/1254149494209499138
-- I practice [[open source]] and [[open ethics]] as much as I can.
-  - This [[agora]] is, and will always be, [[free]] and [[open source]].
-  - I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
-  - I try to be open with my way of living as it has an [[ethical impact]]. This includes being open about how I spend my [[time]] and [[money]].
-    - I work for [[Google]] as an [[sre]]
-    - I was born in [[Argentina]] and I live in [[Switzerland]].
-    - I am a member of [[effective altruism]].
-    - I am a member of [[social.coop]].
-- In my [[free time]] I practice [[utopian thinking]]; I am an [[amateur utopian]]. 
-	- [[Utopias]] are also a genre of [[literature]].
-	- I call my [[protopia]] (our [[protopia]]!) [[Flancia]], but the name isn't important.
-	- I am a Flancian and this [[agora]] contains my [[manifesto]].
-	- I intend to bring facets of [[Flancia]] into the real world, only as far as they also benefit others, without unilaterally imposing my will.
-		- [[flancia collective]]
+		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
+		- The [[agora]] is an [[experimental]] [[social network]] in which I try to express my integrated identity.
+	- I practice [[open source]] and [[open ethics]] as much as I can.
+	  - This [[agora]] is, and will always be, [[free]] and [[open source]].
+	  - I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
+	  - I try to be open with my way of living as it has an [[ethical impact]]. This includes being open about how I spend my [[time]] and [[money]].
+		- I work for [[Google]] as an [[sre]]
+		- I was born in [[Argentina]] and I live in [[Switzerland]].
+		- I am a member of [[effective altruism]].
+		- I am a member of [[social.coop]].
+	- In my [[free time]] I practice [[utopian thinking]]; I am an [[amateur utopian]]. 
+		- [[Utopias]] are also a genre of [[literature]].
+		- I call my [[protopia]] (our [[protopia]]!) [[Flancia]], but the name isn't important.
+		- I am a Flancian and this [[agora]] contains my [[manifesto]].
+		- I intend to bring facets of [[Flancia]] into the real world, only as far as they also benefit others, without unilaterally imposing my will.
+			- [[flancia collective]]
+		- I'm trying to build an [[Agora]].
+			- There are many [[Agoras]]. [[This Agora is just an agora]].
+			- https://twitter.com/flancian/status/1349070105402105856
+			- https://twitter.com/flancian/status/1254149494209499138
