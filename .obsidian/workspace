@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "d1c849ed94fc7559",
+        "id": "7f163f62fde9ebf7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-02.md",
+            "file": "agora server.md",
             "mode": "source"
           }
         }
@@ -32,39 +32,6 @@
           "type": "markdown",
           "state": {
             "file": "2021-07-02.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5a8837ded93e8e87",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-02.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b2fb8a4b2174e27c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "infranaut.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "755dc006c00f6179",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "argh.md",
             "mode": "source"
           }
         }
@@ -152,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "argh.md",
+                "file": "agora server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "argh.md"
+                "file": "agora server.md"
               }
             }
           },
@@ -225,17 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "755dc006c00f6179",
+  "active": "7f163f62fde9ebf7",
   "lastOpenFiles": [
-    "argh.md",
-    "infranaut.md",
+    "agora server.md",
     "2021-07-02.md",
+    "infranaut.md",
+    "argh.md",
     "zeno of elea.md",
     "zeno.md",
     "zeno's paradoxes.md",
     "infragora.md",
     "chowdy.md",
-    "ontology.md",
-    "flancian.md"
+    "ontology.md"
   ]
 }
