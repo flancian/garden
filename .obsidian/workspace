@@ -4,155 +4,216 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a62e0bd6f30307",
+        "id": "3b4e13489b8a9fde",
         "type": "split",
         "children": [
           {
-            "id": "1c3e63745fbefd6f",
+            "id": "e2fd479dac4cc7f8",
             "type": "leaf",
-            "dimension": 16.666666666666664,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "do.md",
+                "file": "2021-06-30.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "13af3efa3f7cd062",
+            "id": "3db8d7cab419fd76",
             "type": "leaf",
-            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-07-01.md",
+                "file": "tools for thought interchange.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "6a64d5eeb3a42c2a",
+            "id": "f730fac55b14b2af",
             "type": "leaf",
-            "dimension": 4.166666666666666,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-07-02.md",
+                "file": "chris aldrich.md",
                 "mode": "source"
               }
             }
-          },
-          {
-            "id": "85b42fa43f10c362",
-            "type": "leaf",
-            "dimension": 4.166666666666666,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "big list of naughty strings.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0695f8a99cebcae7",
-            "type": "leaf",
-            "dimension": 8.333333333333332,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "twitter embeds without tracking.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "306ca3ef4e61733f",
-            "type": "leaf",
-            "dimension": 8.333333333333332,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kris kaminski.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "bd53c4b7996faea8",
-            "type": "leaf",
-            "dimension": 16.666666666666664,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-07-01.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d407fbfa22a48bda",
-            "type": "split",
-            "dimension": 16.666666666666664,
-            "children": [
-              {
-                "id": "b7b8a1f5a0af6991",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "agora fediverse integration.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "052ae04af14c47b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "twitter bridge.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "56bdd2b5a09241be",
-            "type": "split",
-            "dimension": 16.666666666666664,
-            "children": [
-              {
-                "id": "7abcb8972baaed4d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian embeds.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "9d1767dbb6c4ba74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "break glass.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
+      },
+      {
+        "id": "31bfeb5315ccbd7a",
+        "type": "split",
+        "children": [
+          {
+            "id": "61fbb8b43dfe1438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-30.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "31b366a3fa59045b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-29.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "4b7f01df55991a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora protocol.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "25094b341fb4e38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agora exchange format.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0b53f37533e1646b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "future of note taking.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "267bd84cc0b7b9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-29.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d7cbec0a993be7f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-29.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e3ea0909483f0f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cybersin.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "cd5092099e07046b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cybersyn.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c8e0f3ce8b7dd77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "synco.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "32ac6e1822cb86d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the future of note taking.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "f3562790a5cec103",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-06-30.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fe6d51c421a6dec7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-02.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7e02e76cecb23b03",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ontology.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c0c0bea3aa9b57e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sutty.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -179,7 +240,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plesmasquerade",
+                "query": "hyperbee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "afe2921ea1b550bb",
@@ -225,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "big list of naughty strings.md",
+                "file": "ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "big list of naughty strings.md"
+                "file": "ontology.md"
               }
             }
           },
@@ -298,17 +360,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85b42fa43f10c362",
+  "active": "7e02e76cecb23b03",
   "lastOpenFiles": [
-    "big list of naughty strings.md",
+    "ontology.md",
     "2021-07-02.md",
-    "metasj.md",
-    "2021-07-01.md",
+    "hedgedoc wikilinks.md",
     "2021-06-30.md",
-    "kris kaminsky.md",
-    "kris kaminski.md",
-    "twitter embeds without tracking.md",
-    "iem.md",
-    "trailhub.md"
+    "x-frame-options.md",
+    "doubleloop.md",
+    "sutty.md",
+    "agora social media integration.md",
+    "hedgedoc.md",
+    "2021-06-29.md"
   ]
 }
