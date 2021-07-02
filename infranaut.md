@@ -1,0 +1,5 @@
+- a [[person]]
+	- [[tech]] [[agorist]] 
+	- [[infragora]]
+	- [[go]] https://infragora.org
+	- [[git]]
