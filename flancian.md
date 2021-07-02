@@ -1,10 +1,29 @@
 # Flancian
 
+- [[identity]]
+	- [[go]] https://flancia.org
+	- [[email]] 0@flancia.org
+	- [[calendly]] https://calendly.com/flancian
+	- [[twitter]] https://twitter.com/flancian
+	- [[fediverse]] == [[federation]] == [[mastodon]]
+	  - [[social.coop]] https://social.coop/@flancian
+	  - [[merveilles]] https://merveilles.town/@flaneur
+	- [[garden]] https://github.com/flancian/garden
+	- [[github]] https://github.com/flancian
+	- [[matrix]] @flancian:matrix.org
+	- [[telegram]] @Flancian
+	- [[anar.chi.st]] https://anar.chi.st/Flancian
+	- [[ctzn]] https://ctznry.com/flancian@ctzn.one
+	- [[chess]] https://chess.com/member/flancian
+	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
+	- [[agora]] anagora.org
 - A [[person]].
   - My [[self]] :).
-  - I found, or I'm trying to build, an [[Agora]].
+  - I'm trying to build, an [[Agora]].
 	  - There are many [[Agoras]]. [[This Agora is just an agora]].
 	  - ***See [[contract]]***.
+	  - https://twitter.com/flancian/status/1349070105402105856
+	  - https://twitter.com/flancian/status/1254149494209499138
 - I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]]. 
   - I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
   - The [[agora]] is an [[experimental]] [[social network]] in which I try to express my full identity.
@@ -22,19 +41,3 @@
     - I am a Flancian and this is my [[manifesto]].
     - There are other [[Flancians]].
   - I intend to bring facets of [[Flancia]] into the real world, only as far as they also benefit others, without unilaterally imposing my will.
-- [[website]] [[go]] https://flancia.org
-- [[email]] 0@flancia.org
-- [[calendly]] https://calendly.com/flancian
-- [[twitter]] https://twitter.com/flancian
-- [[fediverse]] == [[federation]] == [[mastodon]]
-  - [[social.coop]] https://social.coop/@flancian
-  - [[merveilles]] https://merveilles.town/@flaneur
-- [[garden]] https://github.com/flancian/garden
-- [[github]] https://github.com/flancian
-- [[matrix]] @flancian:matrix.org
-- [[telegram]] @Flancian
-- [[anar.chi.st]] https://anar.chi.st/Flancian
-- [[ctzn]] https://ctznry.com/flancian@ctzn.one
-- [[chess]] https://chess.com/member/flancian
-- [[urbit]] danfen-socsum (unavailable for now, see note for more)
-- [[agora]] anagora.org
