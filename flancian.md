@@ -2,8 +2,9 @@
 
 - A [[person]].
   - My [[self]] :).
-  - I found, or I'm trying to build, an [[Agora]]: https://twitter.com/flancian/status/1349070105402105856
-  - There are many [[Agoras]]. [[This Agora is just an agora]].
+  - I found, or I'm trying to build, an [[Agora]].
+	  - There are many [[Agoras]]. [[This Agora is just an agora]].
+	  - ***See [[contract]]***.
 - I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]]. 
   - I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
   - The [[agora]] is an [[experimental]] [[social network]] in which I try to express my full identity.
@@ -37,5 +38,3 @@
 - [[chess]] https://chess.com/member/flancian
 - [[urbit]] danfen-socsum (unavailable for now, see note for more)
 - [[agora]] anagora.org
-
-

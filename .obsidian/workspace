@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "me.md",
+            "file": "flancian.md",
             "mode": "source"
           }
         }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology.md",
+                "file": "flancian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology.md"
+                "file": "flancian.md"
               }
             }
           },
@@ -170,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32ac6e1822cb86d7",
+  "active": "d9ea409464f5016f",
   "lastOpenFiles": [
+    "flancian.md",
+    "me.md",
     "ontology.md",
     "2021-07-02.md",
-    "me.md",
     "the future of note taking.md",
     "synco.md",
     "cybersyn.md",
     "cybersin.md",
     "2021-06-29.md",
-    "future of note taking.md",
-    "agora protocol.md"
+    "future of note taking.md"
   ]
 }
