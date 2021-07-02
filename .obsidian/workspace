@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-02.md",
+            "file": "ontology.md",
             "mode": "source"
           }
         }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "me.md",
+                "file": "ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "me.md"
+                "file": "ontology.md"
               }
             }
           },
@@ -170,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9ea409464f5016f",
+  "active": "32ac6e1822cb86d7",
   "lastOpenFiles": [
-    "me.md",
+    "ontology.md",
     "2021-07-02.md",
+    "me.md",
     "the future of note taking.md",
     "synco.md",
     "cybersyn.md",
     "cybersin.md",
     "2021-06-29.md",
     "future of note taking.md",
-    "agora protocol.md",
-    "agora exchange format.md"
+    "agora protocol.md"
   ]
 }
