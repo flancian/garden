@@ -1,0 +1,1 @@
+- [[pull]]  https://en.wikipedia.org/wiki/Zeno_of_Elea
