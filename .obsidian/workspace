@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology.md",
+                "file": "2021-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology.md"
+                "file": "2021-07-02.md"
               }
             }
           },
@@ -360,10 +360,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e02e76cecb23b03",
+  "active": "fe6d51c421a6dec7",
   "lastOpenFiles": [
-    "ontology.md",
     "2021-07-02.md",
+    "ontology.md",
     "hedgedoc wikilinks.md",
     "2021-06-30.md",
     "x-frame-options.md",
