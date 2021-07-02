@@ -8,6 +8,47 @@
 	- [[guo]]
 	- [[paul frazee]]
 
+## [[2021-07-01]]
+- [[cascading]] searches
+	- ahs search prefix
+	- https://oadoi.org
+		- non API version that just works: see telegram
+		- API seems good though
+	- it should take any version of a DOI indicator, either in URL form or not
+	- you want it to return the URL of a world readable PDF
+- [[sociofesto]]
+- [[space]]
+	- [[weather]]
+	- [[debris]]
+	- [[helios]] group is its own data collective, US based
+- how to assemble good collective ontologies
+- [[interlay]] vs [[interlace]]
+	- [[interlay]]: the universe of what's available around a topic. how to deal with reputation, visibility, governance.
+		- has the feel of a search engine. search engines were the first interlays :)
+		- fast feedback loop, discoverability
+		- we have stopped at the second rung of a high ladder
+		- [[q]] if there is a governance layer, is it in the interlay? I believe so
+			- all layers could have governance components
+	- example: an underlay that is a star catalogue
+		- a single collaborative dataset
+		- social aspects
+		- needs coordination, e.g. how to do timestamps; how to sequence observations; how to handle a variety of sensors. these all yield rules that could be interpreted as governance.
+	- [[interlace]] is a multiverse; a superset. doesn't have governance.
+		- negative space for interlay
+			-  as you develop reputations, governance, integration approaches for an interlay you may run across things where a decision isn't clear and it feels restrictive (once made) -- you know that one way to address it is to fork
+			- pun on *interlays*
+	- have you thought about exchange formats / interop standards
+		- interlay: a collection of statements with some default schema
+		- a standard schema could be: naming a source and describing its properties
+			- aside: catalogue like
+		- unsure now because people that care about granular knowledge and compile huge datasets get easily distracted about format questions
+			- better to define it in terms of a namespace perhaps
+			- it has at least a human readable name, perhaps an autogen machine readable name
+			- describes which formats are available
+				- structured data
+				- human readable text
+	
+
 ## [[2021-05-22]]
 - ahoy!
 - [[wikidata hackathon]] used [[big blue button]]

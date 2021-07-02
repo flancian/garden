@@ -10,7 +10,7 @@
           {
             "id": "1c3e63745fbefd6f",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.666666666666664,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,11 +22,35 @@
           {
             "id": "13af3efa3f7cd062",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-30.md",
+                "file": "2021-07-01.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6a64d5eeb3a42c2a",
+            "type": "leaf",
+            "dimension": 4.166666666666666,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-07-02.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "85b42fa43f10c362",
+            "type": "leaf",
+            "dimension": 4.166666666666666,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "big list of naughty strings.md",
                 "mode": "source"
               }
             }
@@ -34,7 +58,7 @@
           {
             "id": "0695f8a99cebcae7",
             "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,7 +70,7 @@
           {
             "id": "306ca3ef4e61733f",
             "type": "leaf",
-            "dimension": 8.333333333333334,
+            "dimension": 8.333333333333332,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,11 +82,11 @@
           {
             "id": "bd53c4b7996faea8",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 16.666666666666664,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kris kaminsky.md",
+                "file": "2021-07-01.md",
                 "mode": "source"
               }
             }
@@ -70,7 +94,7 @@
           {
             "id": "d407fbfa22a48bda",
             "type": "split",
-            "dimension": 16.666666666666668,
+            "dimension": 16.666666666666664,
             "children": [
               {
                 "id": "b7b8a1f5a0af6991",
@@ -100,7 +124,7 @@
           {
             "id": "56bdd2b5a09241be",
             "type": "split",
-            "dimension": 16.666666666666668,
+            "dimension": 16.666666666666664,
             "children": [
               {
                 "id": "7abcb8972baaed4d",
@@ -201,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kris kaminski.md",
+                "file": "big list of naughty strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kris kaminski.md"
+                "file": "big list of naughty strings.md"
               }
             }
           },
@@ -274,17 +298,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "306ca3ef4e61733f",
+  "active": "85b42fa43f10c362",
   "lastOpenFiles": [
+    "big list of naughty strings.md",
+    "2021-07-02.md",
+    "metasj.md",
+    "2021-07-01.md",
+    "2021-06-30.md",
+    "kris kaminsky.md",
     "kris kaminski.md",
     "twitter embeds without tracking.md",
-    "kris kaminsky.md",
-    "2021-06-30.md",
     "iem.md",
-    "trailhub.md",
-    "trail hub.md",
-    "2021-06-29.md",
-    "memedelperro.md",
-    "fungal empire.md"
+    "trailhub.md"
   ]
 }
