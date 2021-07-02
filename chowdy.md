@@ -1,0 +1,3 @@
+- a [[person]]
+	- [[tech]] [[indie games]]
+	- [[twitter]] https://anagora.org/ccopprell

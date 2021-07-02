@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ontology.md",
+            "file": "2021-07-02.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d1c849ed94fc7559",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chowdy.md",
             "mode": "source"
           }
         }
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flancian.md",
+                "file": "chowdy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flancian.md"
+                "file": "chowdy.md"
               }
             }
           },
@@ -170,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9ea409464f5016f",
+  "active": "d1c849ed94fc7559",
   "lastOpenFiles": [
+    "chowdy.md",
+    "2021-07-02.md",
+    "ontology.md",
     "flancian.md",
     "me.md",
-    "ontology.md",
-    "2021-07-02.md",
     "the future of note taking.md",
     "synco.md",
     "cybersyn.md",
     "cybersin.md",
-    "2021-06-29.md",
-    "future of note taking.md"
+    "2021-06-29.md"
   ]
 }
