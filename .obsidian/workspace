@@ -31,7 +31,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "infranaut.md",
+            "file": "2021-07-02.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5a8837ded93e8e87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zeno.md",
             "mode": "source"
           }
         }
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infranaut.md",
+                "file": "zeno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infranaut.md"
+                "file": "zeno.md"
               }
             }
           },
@@ -192,17 +203,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c627e1fa0cf007d",
+  "active": "5a8837ded93e8e87",
   "lastOpenFiles": [
+    "zeno.md",
+    "2021-07-02.md",
     "infranaut.md",
     "infragora.md",
-    "2021-07-02.md",
     "chowdy.md",
     "ontology.md",
     "flancian.md",
     "me.md",
     "the future of note taking.md",
-    "synco.md",
-    "cybersyn.md"
+    "synco.md"
   ]
 }
