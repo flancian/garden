@@ -1,3 +1,3 @@
 - an [[aether]] [[universe]]
-	- [[go]] [[aethereans]] https://app.aether.app/#/universe_c36dif5nbgrjjutf7kk0/subs/all
-		- [[welcome]] https://app.aether.app/#/universe_c36dif5nbgrjjutf7kk0/board/df0fcea07bbbf65f4e38595ee82b0511847ff2d35f6ebecb1712db7421c7deb8/chat
+	- [[go]] https://app.aether.app/#/universe_c36dif5nbgrjjutf7kk0/subs/all
+	- [[welcome]] https://app.aether.app/#/universe_c36dif5nbgrjjutf7kk0/board/df0fcea07bbbf65f4e38595ee82b0511847ff2d35f6ebecb1712db7421c7deb8/chat
