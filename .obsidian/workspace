@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-03.md",
+            "file": "ed summers.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-03.md",
+                "file": "ed summers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-07-03.md"
+                "file": "ed summers.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   },
   "active": "e809587c9798c4d3",
   "lastOpenFiles": [
+    "ed summers.md",
     "2021-07-03.md",
     "ocell.md",
     "flancian.md",
-    "ed summers.md",
     "2021-07-02.md",
     "chiasm.md",
     "agora editor.md",
