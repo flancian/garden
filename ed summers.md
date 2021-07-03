@@ -1,0 +1,3 @@
+- a [[person]]
+	- in [[social coop]]
+	- [[go]] https://inkdro

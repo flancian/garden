@@ -1,0 +1,3 @@
+- an [[article]]
+	- by [[mike caulfield]]
+	- [[go]] https://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/
