@@ -1,0 +1,2 @@
+- a foc
+- often goes hand in hand with [[walled gardens]].

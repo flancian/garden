@@ -59,6 +59,17 @@
             }
           },
           {
+            "id": "969063057c58f983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vendor lock-in.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "d15c56ebef12fa25",
             "type": "leaf",
             "state": {
@@ -184,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agora editor.md",
+                "file": "vendor lock-in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agora editor.md"
+                "file": "vendor lock-in.md"
               }
             }
           },
@@ -257,8 +268,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8c0eb756c997bde",
+  "active": "969063057c58f983",
   "lastOpenFiles": [
+    "vendor lock-in.md",
     "agora editor.md",
     "2021-07-03.md",
     "chiasm.md",
@@ -267,7 +279,6 @@
     "2021-07-02.md",
     "ed summers.md",
     "edsu.md",
-    "agora server.md",
-    "conflict-files-obsidian-git.md"
+    "agora server.md"
   ]
 }
