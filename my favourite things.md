@@ -1,5 +1,7 @@
 # My Favourite Things
 
-- A great [[jazz]] [[standard]].
-- Love the [[john coltrane]] version.
+- A [[jazz]] [[standard]].
+	- Great.
+	- Love the [[john coltrane]] version.
+	- Also [[charlie parker]]'s.
 
