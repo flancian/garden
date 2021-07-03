@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ocell.md",
+                "file": "federated education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ocell.md"
+                "file": "federated education.md"
               }
             }
           },
@@ -290,8 +290,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "940f885023f95a69",
+  "active": "32ac6e1822cb86d7",
   "lastOpenFiles": [
+    "federated education.md",
     "ocell.md",
     "2021-07-03.md",
     "lady burup.md",
@@ -300,7 +301,6 @@
     "vendor lock-in.md",
     "agora editor.md",
     "chiasm.md",
-    "federated education.md",
     "2021-07-02.md"
   ]
 }
