@@ -42,7 +42,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-03.md",
+            "file": "federated education.md",
             "mode": "source"
           }
         }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-03.md",
+                "file": "federated education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-07-03.md"
+                "file": "federated education.md"
               }
             }
           },
@@ -227,11 +227,11 @@
   },
   "active": "429170d870afc90c",
   "lastOpenFiles": [
+    "federated education.md",
     "2021-07-03.md",
     "edsu.md",
     "ed summers.md",
     "agora server.md",
-    "federated education.md",
     "2021-07-02.md",
     "argh.md",
     "conflict-files-obsidian-git.md",
