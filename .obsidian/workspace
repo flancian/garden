@@ -37,6 +37,17 @@
         }
       },
       {
+        "id": "429170d870afc90c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "edsu.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "2c627e1fa0cf007d",
         "type": "leaf",
         "state": {
@@ -141,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ed summers.md",
+                "file": "edsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ed summers.md"
+                "file": "edsu.md"
               }
             }
           },
@@ -214,8 +225,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6116494016d181bc",
+  "active": "429170d870afc90c",
   "lastOpenFiles": [
+    "edsu.md",
     "ed summers.md",
     "2021-07-03.md",
     "agora server.md",
@@ -224,7 +236,6 @@
     "argh.md",
     "conflict-files-obsidian-git.md",
     "chowdy.md",
-    "infranaut.md",
-    "zeno of elea.md"
+    "infranaut.md"
   ]
 }
