@@ -46,6 +46,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "5872ea74d337ebc3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "aethereans.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -156,8 +167,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "914fd86630e9d97b",
+  "active": "5872ea74d337ebc3",
   "lastOpenFiles": [
+    "aethereans.md",
     "aether.md",
     "2021-07-03.md",
     "obsidian better tiling.md",
@@ -166,7 +178,6 @@
     "friend.md",
     "neil.md",
     "my favourite things.md",
-    "ocell.md",
-    "lady burup.md"
+    "ocell.md"
   ]
 }
