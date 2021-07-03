@@ -9,7 +9,51 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ed summers.md",
+            "file": "2021-07-03.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "09f604be70295684",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ontologies.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6d4d6d600decf960",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "agora editor.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f4a077e264870996",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "neil.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f17d346629a960c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ocell.md",
             "mode": "source"
           }
         }
@@ -86,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ed summers.md",
+                "file": "ontologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ed summers.md"
+                "file": "ontologies.md"
               }
             }
           },
@@ -159,17 +203,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e809587c9798c4d3",
+  "active": "09f604be70295684",
   "lastOpenFiles": [
-    "ed summers.md",
+    "ontologies.md",
     "2021-07-03.md",
+    "agora editor.md",
+    "neil.md",
     "ocell.md",
+    "ed summers.md",
+    "edsu.md",
     "flancian.md",
     "2021-07-02.md",
-    "chiasm.md",
-    "agora editor.md",
-    "vendor lock-in.md",
-    "lady burup.md",
-    "federated education.md"
+    "chiasm.md"
   ]
 }
