@@ -1,3 +1,5 @@
-- an [[app]]
+- an [[app]].
 	- [[twitter]] https://twitter.com/knovigator
-	- [[go]] https://www.knovigator.com/
+	- [[go]] https://www.knovigator.com
+		- "[[write]] with re-usable knowledge building blocks for effortless [[creativity]] and [[collaboration]]"
+	- [[reddy2go]] https://twitter.com/reddy2go/status/1411415832484225028
