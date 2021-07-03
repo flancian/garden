@@ -42,7 +42,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "edsu.md",
+            "file": "2021-07-03.md",
             "mode": "source"
           }
         }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edsu.md",
+                "file": "2021-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edsu.md"
+                "file": "2021-07-03.md"
               }
             }
           },
@@ -227,9 +227,9 @@
   },
   "active": "429170d870afc90c",
   "lastOpenFiles": [
+    "2021-07-03.md",
     "edsu.md",
     "ed summers.md",
-    "2021-07-03.md",
     "agora server.md",
     "federated education.md",
     "2021-07-02.md",
