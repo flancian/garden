@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-03.md",
+            "file": "book.md",
             "mode": "source"
           }
         }
@@ -125,11 +125,11 @@
   },
   "active": "dfca63b6438bb043",
   "lastOpenFiles": [
+    "book.md",
     "2021-07-03.md",
     "aethereans.md",
     "meta.md",
     "manifesto.md",
-    "book.md",
     "on building bridges.md",
     "knovigator.md",
     "aether.md",

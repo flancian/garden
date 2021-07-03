@@ -1,7 +1,7 @@
 # Book
 
 - A [[thing]].
-  - A [[bag of holding]].
+  - A [[bag of holding]] of [[beauty]] and .
   - [[convergent]] with or perhaps [[equivalent]] to the stuff and knowledge in it carried or transitively derived.
 
 I'm trying to write a book. I call it [[Flancia]]. I have lofty aspirations, as per usual, but it is really only a rough [[draft]].
