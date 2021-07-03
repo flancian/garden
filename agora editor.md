@@ -7,9 +7,9 @@
 - As of [[2021-05-07]], the recommended Agora editor is:
 	- [[foam]], if you want open source hosted locally.
 		- [[foam]] is a [[vscode]] [[extension]].
-		- [[foam]] is less straightforward to set up than the next option.
-	- [[logseq]], if you want open source and the convenience of a hosted setup *and* use [[chrome]] or a [[chromium based browser]] (any browser but [[firefox]], essentially).
-	- [[obsidian]] if you don't mind using closed software from ethical companies, in particular a small one with a vibrant open source extension community. 
+		- [[foam]] is less straightforward to set up than the next options.
+	- [[logseq]], if you want open source, value the convenience of a hosted setup, *and* use [[chrome]] or a [[chromium based browser]] (any browser but [[firefox]], essentially).
+	- [[obsidian]] if you don't mind using closed software from a small ethical company, in particular a small one with a vibrant open source extension community. 
 		- You need at least also the [[obsidian git]] plugin.  See [[obsidian plugins]] for more.
 		- [[install obsidian]] by visiting https://obsidian.md and then follow [[vault backup]] to set up backup to [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line.
 		- Then follow the procedure below to add your vault or [[digital garden]] to the [[agora]].
@@ -17,8 +17,7 @@
 	  - [[dendron]], which should be a drop-in [[foam]] replacement in [[vscode]].
 	  - [[roam]] plus [[roam2agora]]
 	  - [[org mode]]
-	  - [[jekyll]] and other static site generators
-	  - In essence, all you really need to use the [[Agora]] is the capability to produce text in some format and make it publicly available somewhere. 
+	  - In essence, all you really need to use the [[Agora]] is the capability to produce text in some format and make it publicly available somewhere. Plain text would suffice.
 - After getting yourself a [[digital garden]], you need to let an [[agora]] know about it so it can be pulled and integrated. 
 	- Please send a [[pr]] adding your garden to [[gardens yaml]], accepting the agora's [[contract]] and indicating your desired username; or reach out to signup@anagora.org, [[flancian]] or [[vera]] with information about your use case. We'll do our best to make it work! We want the [[agora]] to be maximally inclusive.
 	- All [[agora]] users must agree to its [[contract]] as defined by the system account. 
