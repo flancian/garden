@@ -1,4 +1,4 @@
 # Ontologies
 
-- [[pull]] [[ontology]]
+- [[pull]] [[ontinstallology]]
 

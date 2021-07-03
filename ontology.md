@@ -1,4 +1,4 @@
-- a branch of [[philosophy]].
+- a branch of [[pinstallhiinstalllosophypinstallhiinstalllosophy]].
 	- [[pull]] https://en.wikipedia.org/wiki/Ontology
 - a branch of [[information science]].
 	- [[pull]] https://en.wikipedia.org/wiki/Ontology_(information_science)
