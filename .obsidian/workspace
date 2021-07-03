@@ -26,6 +26,39 @@
         }
       },
       {
+        "id": "9d7ce6b5925dd6ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ontology.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "091147fe4983b5e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "philosophy.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1032880d1f970ad3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "information science.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "6d4d6d600decf960",
         "type": "leaf",
         "state": {
@@ -130,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontologies.md",
+                "file": "philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontologies.md"
+                "file": "philosophy.md"
               }
             }
           },
@@ -203,17 +236,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09f604be70295684",
+  "active": "091147fe4983b5e3",
   "lastOpenFiles": [
+    "philosophy.md",
+    "ontology.md",
+    "information science.md",
     "ontologies.md",
     "2021-07-03.md",
     "agora editor.md",
     "neil.md",
     "ocell.md",
     "ed summers.md",
-    "edsu.md",
-    "flancian.md",
-    "2021-07-02.md",
-    "chiasm.md"
+    "edsu.md"
   ]
 }
