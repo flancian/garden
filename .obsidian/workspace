@@ -31,7 +31,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian better tiling.md",
+            "file": "2021-07-03.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "914fd86630e9d97b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "aether.md",
             "mode": "source"
           }
         }
@@ -145,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "677ddd39af63982f",
+  "active": "914fd86630e9d97b",
   "lastOpenFiles": [
-    "obsidian better tiling.md",
+    "aether.md",
     "2021-07-03.md",
+    "obsidian better tiling.md",
     "obsidian.md",
     "favourites.md",
     "friend.md",
     "neil.md",
     "my favourite things.md",
     "ocell.md",
-    "lady burup.md",
-    "john coltrane.md"
+    "lady burup.md"
   ]
 }
