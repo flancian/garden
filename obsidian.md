@@ -13,6 +13,7 @@
 		- [[obsidian git]] is a great [[vault]] backup solution and open source. It replaces proprietary [[cloud sync]] -- which you need to pay for if you get it from [[obsidian]] directly.
 	 
 https://twitter.com/flancian/status/1390757242786533384
+
 https://twitter.com/flancian/status/1310487321767219200
 
 
