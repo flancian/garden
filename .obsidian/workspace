@@ -9,7 +9,51 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "john coltrane.md",
+            "file": "2021-07-03.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "af85bddb8dd91f41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "lady burup.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6b62f68104eb30f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ocell.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2ee25ad4be075910",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "friend.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f52bcb61cdcc7ce9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "favourites.md",
             "mode": "source"
           }
         }
@@ -123,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfca63b6438bb043",
+  "active": "f52bcb61cdcc7ce9",
   "lastOpenFiles": [
+    "favourites.md",
+    "friend.md",
+    "ocell.md",
+    "lady burup.md",
+    "2021-07-03.md",
     "john coltrane.md",
     "my favourite things.md",
     "thing.md",
-    "2021-07-03.md",
     "person.md",
-    "being.md",
-    "ocell.md",
-    "mastodon.md",
-    "chiasm.md",
-    "living.md"
+    "being.md"
   ]
 }
