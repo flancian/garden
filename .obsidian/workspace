@@ -64,7 +64,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "person.md",
+            "file": "2021-07-03.md",
             "mode": "source"
           }
         }
@@ -214,8 +214,8 @@
   },
   "active": "19a35208af066c90",
   "lastOpenFiles": [
-    "person.md",
     "2021-07-03.md",
+    "person.md",
     "being.md",
     "entity.md",
     "my favourite things.md",
