@@ -20,10 +20,10 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 - [[On building bridges]].
 - [[In Flancia there is no violence]].
 - [[In Flancia there are no rulers]].
-- [[Towards Caramel City]].
+- [[Caramel City]].
 - [[Against gag orders]].
-- [[In an Agora there are many Stoas]].
-- [[Protopoi Space]].
+- [[Stoas]].
+- [[Protopoi]].
 - [[Open Ethics]].
 - [[On the Pedagogy of the Revolution]].
 
