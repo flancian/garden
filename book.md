@@ -22,9 +22,9 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 - [[Towards Caramel City]].
 - [[Against gag orders]].
 - [[In an Agora there are many Stoas]].
-- [[Open Ethics]].
 - [[Protopoi Space]].
-- [[On the pedagogy of the revolution]].
+- [[Open Ethics]].
+- [[On the Pedagogy of the Revolution]].
 
 Please consider this an offering to the [[people]].
 

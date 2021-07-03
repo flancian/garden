@@ -1,2 +1,1 @@
-# Meta
-
+- [[go]] https://flancia.org/meta

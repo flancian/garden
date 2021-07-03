@@ -64,7 +64,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "book.md",
+            "file": "manifesto.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1d723a3cfea71c19",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "meta.md",
             "mode": "source"
           }
         }
@@ -191,15 +202,15 @@
   },
   "active": "044a7e592c9acfc7",
   "lastOpenFiles": [
+    "manifesto.md",
     "book.md",
+    "meta.md",
     "on building bridges.md",
     "2021-07-03.md",
     "knovigator.md",
     "aether.md",
     "aethereans.md",
     "obsidian better tiling.md",
-    "obsidian.md",
-    "favourites.md",
-    "friend.md"
+    "obsidian.md"
   ]
 }
