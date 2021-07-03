@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-02.md",
+            "file": "2021-07-03.md",
             "mode": "source"
           }
         }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-02.md",
+                "file": "2021-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-07-02.md"
+                "file": "2021-07-03.md"
               }
             }
           },
@@ -205,10 +205,10 @@
   },
   "active": "32ac6e1822cb86d7",
   "lastOpenFiles": [
+    "2021-07-03.md",
     "2021-07-02.md",
     "argh.md",
     "conflict-files-obsidian-git.md",
-    "2021-07-03.md",
     "chowdy.md",
     "agora server.md",
     "infranaut.md",
