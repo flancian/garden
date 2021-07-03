@@ -18,8 +18,9 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 - [[In Flancia there is no poverty]].
 - [[In Flancia there is no privilege]].
 - [[In Flancia there is no violence]].
-- [[In Flancia there are no walled gardens]].
-- [[In Flancia there are digital heterarchies]].
+- [[In Flancia there are few walled gardens]].
+- [[In Flancia there are many cooperatives]].
+- [[In Flancia government is a cooperative led by digital heterarchy]].
 - [[In Flancia we will one day meet]].
 - [[Caramel City]].
 - [[Against gag orders]].

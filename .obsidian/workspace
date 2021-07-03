@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "138a34d00d1a88b0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "In Flancia there are few walled gardens.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -123,8 +134,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfca63b6438bb043",
+  "active": "138a34d00d1a88b0",
   "lastOpenFiles": [
+    "In Flancia there are few walled gardens.md",
     "book.md",
     "In Flancia there are digital heterarchies.md",
     "in flancia there are no walled gardens.md",
@@ -133,7 +145,6 @@
     "aethereans.md",
     "meta.md",
     "manifesto.md",
-    "on building bridges.md",
-    "knovigator.md"
+    "on building bridges.md"
   ]
 }
