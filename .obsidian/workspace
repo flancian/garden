@@ -59,28 +59,6 @@
         }
       },
       {
-        "id": "044a7e592c9acfc7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "manifesto.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1d723a3cfea71c19",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "meta.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "5872ea74d337ebc3",
         "type": "leaf",
         "state": {
@@ -200,16 +178,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "044a7e592c9acfc7",
+  "active": "5872ea74d337ebc3",
   "lastOpenFiles": [
+    "aethereans.md",
+    "2021-07-03.md",
+    "meta.md",
     "manifesto.md",
     "book.md",
-    "meta.md",
     "on building bridges.md",
-    "2021-07-03.md",
     "knovigator.md",
     "aether.md",
-    "aethereans.md",
     "obsidian better tiling.md",
     "obsidian.md"
   ]
