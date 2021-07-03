@@ -1,3 +1,3 @@
 - a [[person]].
-	- [[mastodon]] https://mastodon.online/@chiasm
 	- [[scientist]] [[academic]] [[science fiction]]
+	- [[mastodon]] https://mastodon.online/@chiasm
