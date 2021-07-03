@@ -3,3 +3,4 @@
 	- [[go]] https://www.knovigator.com
 		- "[[write]] with re-usable knowledge building blocks for effortless [[creativity]] and [[collaboration]]"
 	- [[reddy2go]] https://twitter.com/reddy2go/status/1411415832484225028
+	- [[demo]] https://twitter.com/knovigator/status/1411417318438096896
