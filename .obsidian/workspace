@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "loas a buda.md",
+                "file": "2021-07-03.md",
                 "mode": "source"
               }
             }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loas a buda.md",
+                "file": "2021-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loas a buda.md"
+                "file": "2021-07-03.md"
               }
             }
           },
@@ -281,8 +281,8 @@
   },
   "active": "940f885023f95a69",
   "lastOpenFiles": [
-    "loas a buda.md",
     "2021-07-03.md",
+    "loas a buda.md",
     "argh.md",
     "vendor lock-in.md",
     "agora editor.md",
