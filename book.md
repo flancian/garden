@@ -18,8 +18,9 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 - [[In Flancia there is no poverty]].
 - [[In Flancia there is no privilege]].
 - [[In Flancia there is no violence]].
-- [[In Flancia we will one day meet]]
-- [[In Flancia there are no rulers]].
+- [[In Flancia there is global liquid democracy]].
+- [[In Flancia there is global liquid democracy]].
+- [[In Flancia we will one day meet]].
 - [[Caramel City]].
 - [[Against gag orders]].
 - [[Stoas]].
