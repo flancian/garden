@@ -8,18 +8,20 @@ I'm trying to write a book. I call it [[Flancia]]. I have lofty aspirations, as 
 
 In lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm putting together as a gift for [[you]].
 
-These are the chapters of [[Flancia]]:
+[[Flancia]], or [[building bridges]]:
 
-- [[meta]]
-- [[manifesto]]
-
+- [[Meta]]
+- [[Manifesto]]
+- [[In Flancia we share clear goals]]
+- [[In Flancia there is an Agora]]
+- [[In Flancia there is no poverty]].
+- [[In Flancia there is no privilege]].
 - [[On building bridges]].
-- [[In Flancia there is an Agora]].
 - [[In Flancia there is no violence]].
 - [[In Flancia there are no rulers]].
-- [[In an Agora there are many Stoas]].
 - [[Towards Caramel City]].
 - [[Against gag orders]].
+- [[In an Agora there are many Stoas]].
 - [[Open Ethics]].
 - [[Protopoi Space]].
 - [[On the pedagogy of the revolution]].
