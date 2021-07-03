@@ -1,3 +1,7 @@
 - a [[person]]
 	- in [[social coop]]
-	- [[go]] https://inkdro
+	- [[go]] https://inkdroid.org
+	- [[mastodon]] https://social.coop/@edsu
+	- [[git]] https://github.com/edsu
+	- [[matrix]] @edsu:matrix.org
+	- 
