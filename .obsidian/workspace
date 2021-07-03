@@ -33,15 +33,33 @@
         "direction": "horizontal"
       },
       {
-        "id": "4e6d9aa1f6b87ed7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "animal.md",
-            "mode": "source"
+        "id": "bf2891d9f8c3fbb8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4e6d9aa1f6b87ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "animal.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b47e28f04042459c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "living.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "19ca8316ccb426eb",
@@ -49,7 +67,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "entity.md",
+            "file": "2021-07-03.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a76fd270e463a4d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ocell.md",
             "mode": "source"
           }
         }
@@ -105,17 +134,6 @@
           "type": "markdown",
           "state": {
             "file": "my favourite things.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b47e28f04042459c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "living.md",
             "mode": "source"
           }
         }
@@ -194,8 +212,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9852b3b70c9ace3c",
@@ -230,17 +247,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b47e28f04042459c",
+  "active": "19ca8316ccb426eb",
   "lastOpenFiles": [
-    "living.md",
+    "2021-07-03.md",
+    "person.md",
     "ocell.md",
+    "entity.md",
     "being.md",
+    "living.md",
     "pers![[Pasted image 20210703185115.png.md",
     "pers![[Pasted imag![[Pasted image 20210703185116.png.md",
     "Pasted image 20210703185118 1.png",
-    "person.md",
-    "2021-07-03.md",
-    "entity.md",
     "my favourite things.md"
   ]
 }
