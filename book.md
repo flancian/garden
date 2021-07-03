@@ -11,14 +11,14 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 
 [[Flancia]], or [[building bridges]]:
 
-- [[Meta]]
-- [[Manifesto]]
-- [[In Flancia we share clear goals]]
-- [[In Flancia there is an Agora]]
+- [[Meta]].
+- [[Manifesto]].
+- [[In Flancia we share clear goals]].
+- [[In Flancia there is an Agora]].
 - [[In Flancia there is no poverty]].
 - [[In Flancia there is no privilege]].
-- [[On building bridges]].
 - [[In Flancia there is no violence]].
+- [[In Flancia we will one day meet]]
 - [[In Flancia there are no rulers]].
 - [[Caramel City]].
 - [[Against gag orders]].
