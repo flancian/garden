@@ -1,4 +1,5 @@
 - an [[app]].
+	- [[social zettelkasten]]
 	- [[twitter]] https://twitter.com/knovigator
 	- [[go]] https://www.knovigator.com
 		- "[[write]] with re-usable knowledge building blocks for effortless [[creativity]] and [[collaboration]]"
