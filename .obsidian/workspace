@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d3cc603febacef2",
-        "type": "split",
-        "children": [
-          {
-            "id": "c55f747dc046480c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ocell.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c71e5ba36a65fd0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cat.md",
-                "mode": "source"
-              }
-            }
+        "id": "c71e5ba36a65fd0d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cat.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
         "id": "bf2891d9f8c3fbb8",
@@ -42,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "animal.md",
+                "file": "2021-07-03.md",
                 "mode": "source"
               }
             }
@@ -84,15 +66,33 @@
         }
       },
       {
-        "id": "e76d2a59e6cb06d2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "mastodon.md",
-            "mode": "source"
+        "id": "ec0701b57fb1710c",
+        "type": "split",
+        "children": [
+          {
+            "id": "e76d2a59e6cb06d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mastodon.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c55f747dc046480c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ocell.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "a76fd270e463a4d6",
@@ -269,17 +269,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e76d2a59e6cb06d2",
+  "active": "4e6d9aa1f6b87ed7",
   "lastOpenFiles": [
-    "mastodon.md",
-    "chiasm.md",
     "2021-07-03.md",
-    "person.md",
+    "animal.md",
     "ocell.md",
+    "mastodon.md",
+    "living.md",
+    "chiasm.md",
+    "person.md",
     "entity.md",
     "being.md",
-    "living.md",
-    "pers![[Pasted image 20210703185115.png.md",
-    "pers![[Pasted imag![[Pasted image 20210703185116.png.md"
+    "pers![[Pasted image 20210703185115.png.md"
   ]
 }
