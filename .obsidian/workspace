@@ -13,61 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "cae6cabaa0fd10f2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-03.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "677ddd39af63982f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-03.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "914fd86630e9d97b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-03.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bf79b1e2dcbc3b0b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-03.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5872ea74d337ebc3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "aethereans.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -178,10 +123,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5872ea74d337ebc3",
+  "active": "dfca63b6438bb043",
   "lastOpenFiles": [
-    "aethereans.md",
     "2021-07-03.md",
+    "aethereans.md",
     "meta.md",
     "manifesto.md",
     "book.md",
