@@ -1,8 +1,9 @@
 # Agora Editor
 
 - In a nutshell: you need to host your notes (more generally, [[resources]], defaulting to [[markdown]] plus [[wikilinks]]), somewhere online. And then let the [[agora]] know about it.
-	- Most users currently host [[git]] repositories on https://github.com and https://gitlab.com. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
-	- Note this format also lets you easily publish your [[blog]] or [[digital garden]] independently online.
+	- The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; in the process interlinking your data with that of other users.
+	- Most users currently host [[git]] repositories on https://github.com or https://gitlab.com. 
+	- Note using the default format (Markdown) lets you also easily publish your [[blog]] or [[digital garden]] independently online with tools such as [[jekyll]], [[gatsby]] or [[n.
 - As of [[2021-05-07]], the recommended Agora editor is 
 	- [[foam]], if you want open source.
 		- [[foam]] is a [[vscode]] [[extension]].
