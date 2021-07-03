@@ -48,6 +48,17 @@
             }
           },
           {
+            "id": "d15c56ebef12fa25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chiasm.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "6116494016d181bc",
             "type": "leaf",
             "state": {
@@ -162,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "federated education.md",
+                "file": "chiasm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "federated education.md"
+                "file": "chiasm.md"
               }
             }
           },
@@ -235,17 +246,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32ac6e1822cb86d7",
+  "active": "d15c56ebef12fa25",
   "lastOpenFiles": [
+    "chiasm.md",
+    "2021-07-03.md",
     "federated education.md",
     "argh.md",
     "2021-07-02.md",
     "ed summers.md",
-    "2021-07-03.md",
     "edsu.md",
     "agora server.md",
     "conflict-files-obsidian-git.md",
-    "chowdy.md",
-    "infranaut.md"
+    "chowdy.md"
   ]
 }
