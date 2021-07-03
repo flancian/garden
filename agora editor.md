@@ -3,11 +3,12 @@
 - In a nutshell: you need to host your notes (more generally, [[resources]], defaulting to [[markdown]] plus [[wikilinks]]), somewhere online. And then let the [[agora]] know about it.
 	- The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; in the process interlinking your data with that of other users.
 	- Most users currently host [[git]] repositories on https://github.com or https://gitlab.com. 
-	- Note using the default format (Markdown) lets you also easily publish your [[blog]] or [[digital garden]] independently online with tools such as [[jekyll]], [[gatsby]] or [[n.
-- As of [[2021-05-07]], the recommended Agora editor is 
-	- [[foam]], if you want open source.
+	- Note using the default format (Markdown) lets you also easily publish your [[blog]] or [[digital garden]] independently online with tools such as [[jekyll]], [[gatsby]] or [[nikola]].
+- As of [[2021-05-07]], the recommended Agora editor is:
+	- [[foam]], if you want open source hosted locally.
 		- [[foam]] is a [[vscode]] [[extension]].
 		- [[foam]] is less straightforward to set up than the next option.
+	- [[logseq]], if you want open source and the convenience of a hosted setup *and* use [[chrome]] or a [[chromium based browser]] (any browser but [[firefox]], essentially).
 	- [[obsidian]] if you don't mind using closed software from ethical companies, in particular a small one with a vibrant open source extension community. 
 		- You need at least also the [[obsidian git]] plugin.  See [[obsidian plugins]] for more.
 		- [[install obsidian]] by visiting https://obsidian.md and then follow [[vault backup]] to set up backup to [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line.
