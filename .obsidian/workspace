@@ -4,81 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "32ac6e1822cb86d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "federated education.md",
-            "mode": "source"
+        "id": "5df7bfa87773b97c",
+        "type": "split",
+        "children": [
+          {
+            "id": "32ac6e1822cb86d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "federated education.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2c627e1fa0cf007d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-07-02.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "7f163f62fde9ebf7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-03.md",
-            "mode": "source"
+        "id": "8247edc7685c8620",
+        "type": "split",
+        "children": [
+          {
+            "id": "7f163f62fde9ebf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-07-03.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6116494016d181bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ed summers.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "6116494016d181bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ed summers.md",
-            "mode": "source"
+        "id": "c26fe6b2100ae193",
+        "type": "split",
+        "children": [
+          {
+            "id": "1f94d8e6aef3ebfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "argh.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d9ea409464f5016f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flancian.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "429170d870afc90c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "federated education.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2c627e1fa0cf007d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-02.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1f94d8e6aef3ebfe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "argh.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d9ea409464f5016f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "flancian.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "federated education.md",
+                "file": "2021-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "federated education.md"
+                "file": "2021-07-02.md"
               }
             }
           },
@@ -225,14 +235,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "429170d870afc90c",
+  "active": "2c627e1fa0cf007d",
   "lastOpenFiles": [
+    "2021-07-02.md",
+    "ed summers.md",
     "federated education.md",
     "2021-07-03.md",
     "edsu.md",
-    "ed summers.md",
     "agora server.md",
-    "2021-07-02.md",
     "argh.md",
     "conflict-files-obsidian-git.md",
     "chowdy.md",
