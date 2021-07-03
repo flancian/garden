@@ -13,72 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "96cd66c30bab0bb2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ocell.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2f4c40fcfa957c4a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "my favourite things.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "be1e36f24018f217",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "neil.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2ee25ad4be075910",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "friend.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f52bcb61cdcc7ce9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "favourites.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "485b53a1c613dd18",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-03.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -192,11 +126,11 @@
   "active": "dfca63b6438bb043",
   "lastOpenFiles": [
     "2021-07-03.md",
+    "favourites.md",
+    "friend.md",
+    "neil.md",
     "my favourite things.md",
     "ocell.md",
-    "neil.md",
-    "friend.md",
-    "favourites.md",
     "lady burup.md",
     "john coltrane.md",
     "thing.md",
