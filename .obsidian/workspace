@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-07-03.md",
+                "file": "federated education.md",
                 "mode": "source"
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-07-03.md",
+                "file": "mastodon.md",
                 "mode": "source"
               }
             }
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "federated education.md",
+                "file": "mastodon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "federated education.md"
+                "file": "mastodon.md"
               }
             }
           },
@@ -290,17 +290,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32ac6e1822cb86d7",
+  "active": "1f94d8e6aef3ebfe",
   "lastOpenFiles": [
-    "federated education.md",
-    "ocell.md",
+    "mastodon.md",
+    "ed summers.md",
     "2021-07-03.md",
+    "federated education.md",
+    "mike caulfield.md",
+    "ocell.md",
     "lady burup.md",
     "loas a buda.md",
     "argh.md",
-    "vendor lock-in.md",
-    "agora editor.md",
-    "chiasm.md",
-    "2021-07-02.md"
+    "vendor lock-in.md"
   ]
 }
