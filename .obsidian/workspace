@@ -73,6 +73,28 @@
         }
       },
       {
+        "id": "b3860e093c15524e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chiasm.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e76d2a59e6cb06d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mastodon.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "a76fd270e463a4d6",
         "type": "leaf",
         "state": {
@@ -247,8 +269,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19ca8316ccb426eb",
+  "active": "e76d2a59e6cb06d2",
   "lastOpenFiles": [
+    "mastodon.md",
+    "chiasm.md",
     "2021-07-03.md",
     "person.md",
     "ocell.md",
@@ -256,8 +280,6 @@
     "being.md",
     "living.md",
     "pers![[Pasted image 20210703185115.png.md",
-    "pers![[Pasted imag![[Pasted image 20210703185116.png.md",
-    "Pasted image 20210703185118 1.png",
-    "my favourite things.md"
+    "pers![[Pasted imag![[Pasted image 20210703185116.png.md"
   ]
 }
