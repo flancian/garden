@@ -22,5 +22,5 @@
 	- Please send a [[pr]] adding your garden to [[gardens yaml]], accepting the agora's [[contract]] and indicating your desired username; or reach out to signup@anagora.org, [[flancian]] or [[vera]] with information about your use case. We'll do our best to make it work! We want the [[agora]] to be maximally inclusive.
 	- All [[agora]] users must agree to its [[contract]] as defined by the system account. 
 		- The contracts of other users can optionally be a [[endorsed]].
-- My proposal to you now is that we think together of ways to use the internet-given capability of sharing text and media with others at effectively zero cost and agree on a protocol to cooperate optimally in projects of [[public utility]].
+- My proposal to you now is that we use the capability of sharing and discovering context-relevant media at effectively zero cost and agree on a protocol to cooperate optimally in projects of [[public utility]].
    - [[the agora is a markup convention]]
