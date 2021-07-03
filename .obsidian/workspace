@@ -115,7 +115,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-07-03.md",
+                "file": "ocell.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "922ff08e10568f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lady burup.md",
                 "mode": "source"
               }
             }
@@ -206,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-03.md",
+                "file": "ocell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-07-03.md"
+                "file": "ocell.md"
               }
             }
           },
@@ -281,15 +292,15 @@
   },
   "active": "940f885023f95a69",
   "lastOpenFiles": [
+    "ocell.md",
     "2021-07-03.md",
+    "lady burup.md",
     "loas a buda.md",
     "argh.md",
     "vendor lock-in.md",
     "agora editor.md",
     "chiasm.md",
     "federated education.md",
-    "2021-07-02.md",
-    "ed summers.md",
-    "edsu.md"
+    "2021-07-02.md"
   ]
 }
