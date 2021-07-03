@@ -4,158 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c71e5ba36a65fd0d",
+        "id": "dfca63b6438bb043",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cat.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bf2891d9f8c3fbb8",
-        "type": "split",
-        "children": [
-          {
-            "id": "4e6d9aa1f6b87ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-07-03.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "b47e28f04042459c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "living.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "19ca8316ccb426eb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-03.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b3860e093c15524e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chiasm.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ec0701b57fb1710c",
-        "type": "split",
-        "children": [
-          {
-            "id": "e76d2a59e6cb06d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mastodon.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c55f747dc046480c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ocell.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "a76fd270e463a4d6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ocell.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "454b2bcb962176ea",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "being.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f50b951c87f5eb03",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "person.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "19a35208af066c90",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-07-03.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a9a4f76cc03dadf4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "thing.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "08b9a5f873bd585d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "my favourite things.md",
+            "file": "john coltrane.md",
             "mode": "source"
           }
         }
@@ -269,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e6d9aa1f6b87ed7",
+  "active": "dfca63b6438bb043",
   "lastOpenFiles": [
+    "john coltrane.md",
+    "my favourite things.md",
+    "thing.md",
     "2021-07-03.md",
-    "animal.md",
+    "person.md",
+    "being.md",
     "ocell.md",
     "mastodon.md",
-    "living.md",
     "chiasm.md",
-    "person.md",
-    "entity.md",
-    "being.md",
-    "pers![[Pasted image 20210703185115.png.md"
+    "living.md"
   ]
 }
