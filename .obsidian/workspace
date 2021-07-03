@@ -104,7 +104,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "argh.md",
+                "file": "2021-07-03.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "940f885023f95a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "loas a buda.md",
                 "mode": "source"
               }
             }
@@ -195,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vendor lock-in.md",
+                "file": "loas a buda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vendor lock-in.md"
+                "file": "loas a buda.md"
               }
             }
           },
@@ -268,17 +279,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "969063057c58f983",
+  "active": "940f885023f95a69",
   "lastOpenFiles": [
+    "loas a buda.md",
+    "2021-07-03.md",
+    "argh.md",
     "vendor lock-in.md",
     "agora editor.md",
-    "2021-07-03.md",
     "chiasm.md",
     "federated education.md",
-    "argh.md",
     "2021-07-02.md",
     "ed summers.md",
-    "edsu.md",
-    "agora server.md"
+    "edsu.md"
   ]
 }
