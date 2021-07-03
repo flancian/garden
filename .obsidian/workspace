@@ -59,6 +59,44 @@
         }
       },
       {
+        "id": "8d0a982924b16bfe",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "6287d6818414478d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "734099983a1344d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pers![[Pasted image 20210703185115.png.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f50b951c87f5eb03",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "person.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "19a35208af066c90",
         "type": "leaf",
         "state": {
@@ -212,17 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19a35208af066c90",
+  "active": "734099983a1344d6",
   "lastOpenFiles": [
-    "2021-07-03.md",
-    "person.md",
+    "pers![[Pasted image 20210703185115.png.md",
+    "pers![[Pasted imag![[Pasted image 20210703185116.png.md",
+    "Pasted image 20210703185118 1.png",
     "being.md",
+    "person.md",
+    "2021-07-03.md",
     "entity.md",
     "my favourite things.md",
     "thing.md",
-    "animal.md",
-    "living.md",
-    "cat.md",
-    "ocell.md"
+    "animal.md"
   ]
 }
