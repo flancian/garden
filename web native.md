@@ -1,1 +1,1 @@
-- a tool or app that runs in a [[cloud computer]]
+- a tool or app that runs in a [[cloud computer]], needing no specific server components.

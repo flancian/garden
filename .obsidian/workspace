@@ -70,6 +70,17 @@
         }
       },
       {
+        "id": "54b3b17b599c494f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cloud computer.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "471e8d5ffc499afd",
         "type": "leaf",
         "state": {
@@ -233,8 +244,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd5278bb18646798",
+  "active": "54b3b17b599c494f",
   "lastOpenFiles": [
+    "cloud computer.md",
     "web native.md",
     "deta.md",
     "2021-07-04.md",
@@ -243,7 +255,6 @@
     "agora bridge js.md",
     "the future of note taking.md",
     "book.md",
-    "future of note taking.md",
-    "lightning talks.md"
+    "future of note taking.md"
   ]
 }
