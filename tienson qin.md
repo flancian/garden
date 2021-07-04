@@ -29,7 +29,7 @@
 - q: how should platforms integrate with logseq?
 	- ...
 - [[agora]] vision
-	- social media int
+	- social media integration
 		
 ## Example of free form section
 This would be an example of a non-outliner section.
