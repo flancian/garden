@@ -2,6 +2,7 @@
 	- [[coder]]
 		- [[logseq]]
 	- [[twitter]] https://twitter.com/tiensonqin
+	- [[roadmap]] https://trello.com/b/8txSM12G/logseq-roadmap 
 
 ## [[2021-07-04]]
 - huge fan!
@@ -20,4 +21,5 @@
 	- was personally using [[org mode]] and [[tiddlywiki]]
 		- q: how difficult it is to support logseq with both org mode and markdown?
 		- not very hard as they both get converted to [[datascript]]
+- q: do you plan to go beyond [[outliner]] mode?
 	
