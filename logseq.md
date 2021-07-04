@@ -1,8 +1,10 @@
 # Logseq
 
 - a [[tool]] 
-	- [[pkm]], [[roam like]] (but didn't set out to be a clone)
-	- by [[tienson qin]]
+	- [[note taking]]
+		- [[pkm]]
+		- [[roam like]] (but didn't set out to be a clone)
+	- by [[tienson qin]], [[junyu zhan]]
 	- [[twitter]]: https://twitter.com/logseq
 	- [[go]] https://logseq.com.
 	- could be a better default [[agora editor]] than [[foam]]

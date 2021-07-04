@@ -1,0 +1,2 @@
+- a [[person]].
+	- works on [[logseq]].
