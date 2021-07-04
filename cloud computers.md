@@ -1,0 +1,6 @@
+- a [[list]].
+	- [[pull]] [[cloud computer]]
+	- [[pull]] [[fission]]
+	- [[pull]] [[deta]]
+	- [[pull]] [[urbit]]
+		- disclaimer: a [[friend]] told me to stay away from urbit.

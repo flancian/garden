@@ -1,6 +1,2 @@
-- a [[distributed]] computer with no fixed serv
-- [[pull]] [[web native]]
-- [[pull]] [[fission]]
-- [[pull]] [[deta]]
-- [[pull]] [[urbit]]
-	- disclaimer: a [[friend]] told me to stay away from urbit.
+- a [[distributed]] computer with no differentiated [[server]] components.
+	- [[pull]] [[cloud computers]]
