@@ -86,7 +86,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cloud computers.md",
+            "file": "2021-07-04.md",
             "mode": "source"
           }
         }
@@ -257,11 +257,11 @@
   },
   "active": "253742e9df381de2",
   "lastOpenFiles": [
+    "2021-07-04.md",
     "cloud computers.md",
     "cloud computer.md",
     "web native.md",
     "deta.md",
-    "2021-07-04.md",
     "agora bot.md",
     "agora social media integration.md",
     "agora bridge js.md",
