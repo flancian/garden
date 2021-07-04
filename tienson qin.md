@@ -24,6 +24,8 @@
 - q: do you plan to go beyond [[outliner]] mode?
 	- fan of [[whimsical]], but commercial/not open source
 	- want to have different modes, not only outliner
-	
+- q: are you interested
+	- [[fission]] and [[deta]]
+		
 ## Example of free form section
 This would be an example of a non-outliner section.
