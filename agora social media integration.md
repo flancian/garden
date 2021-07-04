@@ -1,3 +1,2 @@
-- [[go]] https://gitlab.com/fedstoa/agora-bridge-js
-	- unsure how to run this :)
-	- asked [[vera]]
+- [[pull]] [[agora bridge js]]
+- [[pull]] [[agora bot]]

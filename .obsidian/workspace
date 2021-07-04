@@ -37,6 +37,17 @@
         }
       },
       {
+        "id": "a9652862b141b584",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "agora bot.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "471e8d5ffc499afd",
         "type": "leaf",
         "state": {
@@ -200,17 +211,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f8a26d73243fcd4",
+  "active": "a9652862b141b584",
   "lastOpenFiles": [
+    "agora bot.md",
     "agora social media integration.md",
+    "agora bridge js.md",
     "2021-07-04.md",
     "the future of note taking.md",
     "book.md",
     "future of note taking.md",
     "lightning talks.md",
     "tienson qin.md",
-    "junyu zhan.md",
-    "logseq.md",
-    "Untitled 5.md"
+    "junyu zhan.md"
   ]
 }
