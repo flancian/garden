@@ -7,9 +7,11 @@
 - huge fan!
 - what does [[logseq]] need/how are you doing?
 	- five people
-		- [[tie]]
+		- [[tienson qin]] is in [[hangzhou]]
 		- met [[junyu zhan]] as well
 	- funding from friends
 	- [[note taking]] app, but in the future would like to develop a [[platform]] to exchange knowledge
 	- vision: [[open knowledge]] and [[free knowledge]] for everyone
+- why [[logseq]] was written
+	- worked for [[streamlabs]]
 	
