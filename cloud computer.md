@@ -1,3 +1,5 @@
+- a [[distributed]] computer with no fixed serv
+- [[pull]] [[web native]]
 - [[pull]] [[fission]]
 - [[pull]] [[deta]]
 - [[pull]] [[urbit]]
