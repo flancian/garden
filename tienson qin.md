@@ -7,8 +7,9 @@
 - huge fan!
 - what does [[logseq]] need/how are you doing?
 	- five people
-		- 
+		- [[tie]]
+		- met [[junyu zhan]] as well
 	- funding from friends
 	- [[note taking]] app, but in the future would like to develop a [[platform]] to exchange knowledge
-	- [[open knowledge]] and [[free knowledge]] for everyone
+	- vision: [[open knowledge]] and [[free knowledge]] for everyone
 	
