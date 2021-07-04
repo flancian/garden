@@ -24,10 +24,10 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 - [[In Flancia government is a digital heterarchy]].
 - [[Caramel City]].
 - [[Against gag orders]].
-- [[Against C]]
+- [[Against copyright]].
 - [[Protopoi]].
-- [[Open Ethics]].
-- [[On the Pedagogy of the Revolution]].
+- [[Open ethics]].
+- [[On the pedagogy of the revolution]].
 
 Please consider this an offering to the [[people]].
 
