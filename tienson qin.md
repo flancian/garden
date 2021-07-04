@@ -27,6 +27,9 @@
 - q: are you interested in cross-platform login/signup
 	- [[fission]] and [[deta]]
 - q: how should platforms integrate with logseq?
+	- ...
+- [[agora]] vision
+	- social media int
 		
 ## Example of free form section
 This would be an example of a non-outliner section.
