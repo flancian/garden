@@ -17,5 +17,5 @@
 	- been doing [[clojure]] for 10y (!)
 		- started with php many years ago :)
 		- completely rewrote in clojure
-	- 
+	- was personally using [[org mode]] and [[tiddlywiki]]
 	
