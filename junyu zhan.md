@@ -1,2 +1,3 @@
 - a [[person]].
 	- works on [[logseq]].
+	- met them in [[i annotate 2021]].
