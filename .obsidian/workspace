@@ -103,6 +103,17 @@
         }
       },
       {
+        "id": "ffee18e4b059aea4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "poll.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "471e8d5ffc499afd",
         "type": "leaf",
         "state": {
@@ -266,8 +277,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e37fe7256c0fa8db",
+  "active": "ffee18e4b059aea4",
   "lastOpenFiles": [
+    "poll.md",
     "wikipedia.md",
     "2021-07-04.md",
     "cloud computers.md",
@@ -276,7 +288,6 @@
     "deta.md",
     "agora bot.md",
     "agora social media integration.md",
-    "agora bridge js.md",
-    "the future of note taking.md"
+    "agora bridge js.md"
   ]
 }
