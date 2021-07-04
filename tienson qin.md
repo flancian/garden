@@ -19,4 +19,5 @@
 		- completely rewrote in clojure
 	- was personally using [[org mode]] and [[tiddlywiki]]
 		- q: how difficult it is to support logseq with both org mode and markdown?
+		- not very hard as they both get converted to [[datascript]]
 	
