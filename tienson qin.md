@@ -18,4 +18,5 @@
 		- started with php many years ago :)
 		- completely rewrote in clojure
 	- was personally using [[org mode]] and [[tiddlywiki]]
+		- q: how difficult it is to support logseq with both org mode and markdown?
 	
