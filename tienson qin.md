@@ -14,4 +14,8 @@
 	- vision: [[open knowledge]] and [[free knowledge]] for everyone
 - why [[logseq]] was written
 	- worked for [[streamlabs]]
+	- been doing [[clojure]] for 10y (!)
+		- started with php many years ago :)
+		- completely rewrote in clojure
+	- 
 	
