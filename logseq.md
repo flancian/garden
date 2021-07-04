@@ -3,7 +3,7 @@
 - a [[tool]] 
 	- [[note taking]]
 		- [[pkm]]
-		- [[roam like]] (but didn't set out to be a clone)
+		- [[roam like]], but didn't set out to be a clone
 	- by [[tienson qin]], [[junyu zhan]]
 	- [[twitter]]: https://twitter.com/logseq
 	- [[go]] https://logseq.com.
