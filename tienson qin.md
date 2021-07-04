@@ -22,4 +22,5 @@
 		- q: how difficult it is to support logseq with both org mode and markdown?
 		- not very hard as they both get converted to [[datascript]]
 - q: do you plan to go beyond [[outliner]] mode?
+	- fan of [[whimsical]], but commercial/not open source
 	
