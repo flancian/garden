@@ -26,6 +26,7 @@
 	- want to have different modes, not only outliner
 - q: are you interested in cross-platform login/signup
 	- [[fission]] and [[deta]]
+- q: how should platforms integrate with logseq?
 		
 ## Example of free form section
 This would be an example of a non-outliner section.
