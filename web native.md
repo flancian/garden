@@ -1,0 +1,1 @@
+- a tool or app that runs in a [[cloud computer]]
