@@ -24,6 +24,61 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "471e8d5ffc499afd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "the future of note taking.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "59db8db05b79c3fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "future of note taking.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7fa69ee82c4e4e81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "lightning talks.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7c09fce25fc1a2ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "junyu zhan.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a153b20f56786261",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "logseq.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -134,17 +189,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "daf2cbd4f904097f",
+  "active": "7c09fce25fc1a2ac",
   "lastOpenFiles": [
+    "junyu zhan.md",
+    "lightning talks.md",
+    "future of note taking.md",
+    "the future of note taking.md",
     "2021-07-04.md",
+    "logseq.md",
     "Untitled 5.md",
     "book.md",
     "In Flancia there are few walled gardens.md",
-    "In Flancia there are digital heterarchies.md",
-    "in flancia there are no walled gardens.md",
-    "In Flancia there are no hierarchies.md",
-    "2021-07-03.md",
-    "aethereans.md",
-    "meta.md"
+    "In Flancia there are digital heterarchies.md"
   ]
 }
