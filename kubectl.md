@@ -1,0 +1,1 @@
+- [[go]] https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
