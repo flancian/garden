@@ -1,3 +1,5 @@
 - a [[hotel]].
 	- sort of.
-	- actually more of 
+	- actually more of a cooperative residence.
+	- [[pull]] https://en.wikipedia.org/wiki/Hotel_Chelsea
+	- [[medium]] 
