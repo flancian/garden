@@ -1,0 +1,3 @@
+- a [[hotel]].
+	- sort of.
+	- actually more of 

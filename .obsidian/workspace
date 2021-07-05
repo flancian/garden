@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "7050f5d245741dcd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chelsea hotel.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "ac5f7b266c2a5153",
         "type": "leaf",
         "state": {
@@ -37,70 +48,12 @@
         }
       },
       {
-        "id": "e57d5c03b124762d",
-        "type": "split",
-        "children": [
-          {
-            "id": "73171b185cad148c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7f163f62fde9ebf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agora server.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "fb083c1ec8c2f40d",
-        "type": "split",
-        "children": [
-          {
-            "id": "2c627e1fa0cf007d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-07-02.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "1f94d8e6aef3ebfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "argh.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "d9ea409464f5016f",
+        "id": "1f94d8e6aef3ebfe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "flancian.md",
+            "file": "argh.md",
             "mode": "source"
           }
         }
@@ -177,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pyinstrument.md",
+                "file": "chelsea hotel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pyinstrument.md"
+                "file": "chelsea hotel.md"
               }
             }
           }
@@ -206,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26c9647cf3a2b0e4",
+  "active": "7050f5d245741dcd",
   "lastOpenFiles": [
+    "chelsea hotel.md",
+    "2021-07-05.md",
     "pyinstrument.md",
     "beyond cprofile.md",
-    "2021-07-05.md",
     "kubectl.md",
     "conflict-files-obsidian-git.md",
     "pinstallhiinstalllosophy.md",
     "flancian.md",
     "2021-07-02.md",
-    "argh.md",
-    "chowdy.md"
+    "argh.md"
   ]
 }
