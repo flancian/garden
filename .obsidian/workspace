@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0c89ff652c39414e",
-        "type": "split",
-        "children": [
-          {
-            "id": "32ac6e1822cb86d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-07-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "63f809452cff7c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kubectl.md",
-                "mode": "source"
-              }
-            }
+        "id": "63f809452cff7c43",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "kubectl.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
         "id": "e57d5c03b124762d",
@@ -180,7 +162,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -193,53 +175,9 @@
                 "file": "conflict-files-obsidian-git.md"
               }
             }
-          },
-          {
-            "id": "eaa7f99b4cf5444a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "49a0eb72df05c98e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "9852b3b70c9ace3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba82168a0acbacba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "297c54846b597552",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35550c211233c6a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,14 +187,14 @@
   "active": "73171b185cad148c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "pinstallhiinstalllosophy.md",
+    "2021-07-05.md",
     "flancian.md",
     "kubectl.md",
-    "2021-07-05.md",
     "2021-07-02.md",
     "argh.md",
     "chowdy.md",
     "agora server.md",
-    "infranaut.md",
-    "zeno of elea.md"
+    "infranaut.md"
   ]
 }
