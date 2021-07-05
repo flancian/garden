@@ -1,13 +1,15 @@
 # Agora Editor
 
-- In a nutshell: you need to host your notes (more generally, [[resources]]), defaulting to [[markdown]] plus [[wikilinks]], somewhere else online. And then let the [[agora]] know about it.
-	- Most users currently host [[git]] repositories on https://github.com and https://gitlab.com. The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; it interlinks your data with that of other users as you wish.
-	- Note this format also lets you easily publish your [[blog]] or [[digital garden]] independently online.
-- As of [[2021-05-07]], the recommended Agora editor is 
-	- [[foam]], if you want open source.
+- In a nutshell: you need to host your notes (more generally, [[resources]], defaulting to [[markdown]] plus [[wikilinks]]), somewhere online. And then let the [[agora]] know about it.
+	- The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; in the process interlinking your data with that of other users.
+	- Most users currently host [[git]] repositories on https://github.com or https://gitlab.com. 
+	- Note using the default format (Markdown) lets you also easily publish your [[blog]] or [[digital garden]] independently online with tools such as [[jekyll]], [[gatsby]] or [[nikola]].
+- As of [[2021-05-07]], the recommended Agora editor is:
+	- [[foam]], if you want open source hosted locally.
 		- [[foam]] is a [[vscode]] [[extension]].
-		- [[foam]] is less straightforward to set up than the next option.
-	- [[obsidian]] if you don't mind using closed software from ethical companies, in particular a small one with a vibrant open source extension community. 
+		- [[foam]] is less straightforward to set up than the next options.
+	- [[logseq]], if you want open source, value the convenience of a hosted setup, *and* use [[chrome]] or a [[chromium based browser]] (any browser but [[firefox]], essentially).
+	- [[obsidian]] if you don't mind using closed software from a small ethical company, in particular a small one with a vibrant open source extension community. 
 		- You need at least also the [[obsidian git]] plugin.  See [[obsidian plugins]] for more.
 		- [[install obsidian]] by visiting https://obsidian.md and then follow [[vault backup]] to set up backup to [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line.
 		- Then follow the procedure below to add your vault or [[digital garden]] to the [[agora]].
@@ -15,11 +17,10 @@
 	  - [[dendron]], which should be a drop-in [[foam]] replacement in [[vscode]].
 	  - [[roam]] plus [[roam2agora]]
 	  - [[org mode]]
-	  - [[jekyll]] and other static site generators
-	  - In essence, all you really need to use the [[Agora]] is the capability to produce text in some format and make it publicly available somewhere. 
+	  - In essence, all you really need to use the [[Agora]] is the capability to produce text in some format and make it publicly available somewhere. Plain text would suffice even.
 - After getting yourself a [[digital garden]], you need to let an [[agora]] know about it so it can be pulled and integrated. 
 	- Please send a [[pr]] adding your garden to [[gardens yaml]], accepting the agora's [[contract]] and indicating your desired username; or reach out to signup@anagora.org, [[flancian]] or [[vera]] with information about your use case. We'll do our best to make it work! We want the [[agora]] to be maximally inclusive.
 	- All [[agora]] users must agree to its [[contract]] as defined by the system account. 
 		- The contracts of other users can optionally be a [[endorsed]].
-- My proposal to you now is that we use the internet to think together of -given capability of sharing text and media with others at effectively zero cost and agree on a protocol to cooperate optimally in projects of [[public utility]].
-   - [[the agora is a markup convention]]
+- My proposal to you now is that we use the capability of sharing and discovering context-relevant media at effectively zero cost for the greater good: let's agree on a protocol to escape [[vendor lock-in]] and cooperate optimally on projects of [[public utility]].
+	- [[agora protocol]]

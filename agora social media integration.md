@@ -1,1 +1,2 @@
-- [[go]] https://gitlab.com/fedstoa/agora-bridge-js
+- [[pull]] [[agora bridge js]]
+- [[pull]] [[agora bot]]

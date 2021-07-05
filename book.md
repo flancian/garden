@@ -1,27 +1,34 @@
 # Book
 
 - A [[thing]].
-  - A [[bag of holding]].
-  - [[equivalent]] to or [[convergent]] with all the knowledge, art and beauty potentially contained therein or transitively derived.
+	- [[pull]] [[books]].
+- A [[bag of holding]].
+	- [[conducive]] or [[convergent]] to the stuff and knowledge that in it you can carry or you can transitively derive.
 
-I'm trying to write a book. It's titled [[Flancia]]. I have lofty aspirations, as per usual, but it is really only a rough [[draft]].
+I'm trying to write a book. I call it [[Flancia]]. I have lofty aspirations, as usual, but it is really only a rough [[draft]].
 
-In lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm putting together as a gift for [[you]].
+In lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm trying to put together as a gift.
 
-These are the chapters of [[Flancia]]:
+[[Flancia]], or [[building bridges]]:
 
-- [[On building bridges]].
-- [[In Flancia there is an Agora]].
-- [[In Flancia there is no violence]].
-- [[In Flancia there are no rulers]].
-- [[In an Agora there are many Stoas]].
-- [[Towards Caramel City]].
-- [[Against gag orders]].
-- [[Open Ethics]].
-- [[Protopoi Space]].
-- [[On the pedagogy of the revolution]].
+- [[Meta]].
 - [[Manifesto]].
+- [[In Flancia we share clear goals]].
+- [[In Flancia there is an Agora]].
+- [[In Flancia there is no poverty]].
+- [[In Flancia there is no privilege]].
+- [[In Flancia there is no violence]].
+- [[In Flancia we will one day meet]].
+- [[In Flancia there are few walled gardens]].
+- [[In Flancia there are many cooperatives]].
+- [[In Flancia government is a digital heterarchy]].
+- [[Caramel City]].
+- [[Against gag orders]].
+- [[Against copyright]].
+- [[Protopoi]].
+- [[Open ethics]].
+- [[On the pedagogy of the revolution]].
 
 Please consider this an offering to the [[people]].
 
-Have a nice day! And I hope you [[thrive]].
+Have a nice day! I hope you [[thrive]].

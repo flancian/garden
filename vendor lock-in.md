@@ -1,0 +1,2 @@
+- a force that opposes the [[free internet]].
+- often goes hand in hand with [[walled gardens]].

@@ -1,0 +1,5 @@
+- a [[feature request]]
+	- possibly an [[extension]]?
+	- [[go]] https://forum.obsidian.md/t/better-tiling-pane-arrangement/20383
+		- https://twitter.com/flancian/status/1411292860788482049
+		- https://twitter.com/flancian/status/1401182347316412416

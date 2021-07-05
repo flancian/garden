@@ -1,0 +1,2 @@
+- a [[distributed]] computer with no differentiated [[server]] components.
+	- [[pull]] [[cloud computers]]
