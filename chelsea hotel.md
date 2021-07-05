@@ -1,5 +1,6 @@
 - a [[hotel]].
 	- sort of.
 	- actually more of a cooperative residence.
-	- [[pull]] https://en.wikipedia.org/wiki/Hotel_Chelsea
-	- [[medium]] 
+	- [[go]] https://en.wikipedia.org/wiki/Hotel_Chelsea
+	- [[medium]] https://medium.com/@bagelboy/make-america-bohemian-again-de846e35d757
+		- see on [[hn]]: https://news.ycombinator.com/item?id=27734277
