@@ -1,0 +1,5 @@
+- an [[article]]
+	- on [[python speed]]
+	- [[go]] https://pythonspeed.com/articles/beyond-cprofile/
+	- [[eliot]]
+	- [[pyinstrument]]

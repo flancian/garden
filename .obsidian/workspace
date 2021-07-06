@@ -136,6 +136,17 @@
         }
       },
       {
+        "id": "d24f662c6da69482",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "471e8d5ffc499afd",
         "type": "leaf",
         "state": {
@@ -299,8 +310,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07ab9c32e6c5777d",
+  "active": "d24f662c6da69482",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "would you agree.md",
     "the future of note taking.md",
     "future of note taking.md",
@@ -309,7 +321,6 @@
     "wikipedia.md",
     "cloud computer.md",
     "poll.md",
-    "cloud computers.md",
-    "web native.md"
+    "cloud computers.md"
   ]
 }
