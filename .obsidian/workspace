@@ -28,6 +28,17 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "6bf5733da4a61bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -144,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chelsea hotel.md",
+                "file": "pyinstrument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chelsea hotel.md"
+                "file": "pyinstrument.md"
               }
             }
           }
@@ -173,14 +184,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7050f5d245741dcd",
+  "active": "26c9647cf3a2b0e4",
   "lastOpenFiles": [
+    "pyinstrument.md",
+    "conflict-files-obsidian-git.md",
     "chelsea hotel.md",
     "beyond cprofile.md",
     "2021-07-05.md",
-    "pyinstrument.md",
     "kubectl.md",
-    "conflict-files-obsidian-git.md",
     "pinstallhiinstalllosophy.md",
     "flancian.md",
     "2021-07-02.md",
