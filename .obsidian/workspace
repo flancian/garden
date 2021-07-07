@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beyond cprofile.md",
+                "file": "watching.md",
                 "mode": "source"
               }
             }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beyond cprofile.md",
+                "file": "watching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beyond cprofile.md"
+                "file": "watching.md"
               }
             }
           }
@@ -186,6 +186,8 @@
   },
   "active": "ac5f7b266c2a5153",
   "lastOpenFiles": [
+    "watching.md",
+    "watch.md",
     "beyond cprofile.md",
     "pyinstrument.md",
     "conflict-files-obsidian-git.md",
@@ -193,8 +195,6 @@
     "2021-07-05.md",
     "kubectl.md",
     "pinstallhiinstalllosophy.md",
-    "flancian.md",
-    "2021-07-02.md",
-    "argh.md"
+    "flancian.md"
   ]
 }
