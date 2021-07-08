@@ -25,3 +25,7 @@
 - [[bryan]]
 	- undergrad in architecture
 	- got a job building homes for the mega rich, didn't like it
+	- worked for smaller offices after that
+	- came back to [[iowa]]
+	- trying to figure out how to work remotely, would like to work 3-4h a day
+	- like also working with leather, clay; ornamental building
