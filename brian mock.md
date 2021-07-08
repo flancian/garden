@@ -30,4 +30,8 @@
 	- trying to figure out how to work remotely, would like to work 3-4h a day
 	- like also working with [[leather]], [[clay]]; ornamental building
 - [[flancian]]
-- [[]]
+- interested in:
+	- [[flancia]]
+	- [[agora]]
+	- what do you do about bad actors?
+	- what about 
