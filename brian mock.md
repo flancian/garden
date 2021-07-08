@@ -39,3 +39,5 @@
 	- what about people that want to take over?
 - [[bryan]]
 	- mad about how the world is, but still hopeful
+	- have tried a few times to get people together
+	- dream is now 
