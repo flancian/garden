@@ -46,3 +46,5 @@
 	- village life
 	- [[bolo bolo]]
 	- [[sutty]]
+- [[patterning]] == [[reading alexander]]
+	- [[building beauty]]
