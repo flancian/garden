@@ -48,3 +48,4 @@
 	- [[sutty]]
 - [[patterning]] == [[reading alexander]]
 	- [[building beauty]]
+- [[opening design]]
