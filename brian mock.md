@@ -10,4 +10,5 @@
 	- exploring the US
 	- spent seven months in Italy (Sorrento!)
 - [[sorrento]]: [[building beauty]]
-	- about [[christopher alexander]]'s work, hands on b
+	- about [[christopher alexander]]'s work, hands on building
+	- 50 fundamental transformation
