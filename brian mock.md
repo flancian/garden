@@ -41,3 +41,4 @@
 	- mad about how the world is, but still hopeful
 	- have tried a few times to get people together
 	- dream is now to build a prototype for an ornamental building
+- village life
