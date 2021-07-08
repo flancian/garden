@@ -141,7 +141,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "opening design.md",
+            "file": "brian mock.md",
             "mode": "source"
           }
         }
@@ -334,8 +334,8 @@
   },
   "active": "c74f05c0266decce",
   "lastOpenFiles": [
-    "opening design.md",
     "brian mock.md",
+    "opening design.md",
     "bmock.md",
     "2021-07-08.md",
     "2021-07-06.md",

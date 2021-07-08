@@ -1,2 +1,2 @@
 - an [[architectural studio]]
-- [[go]] http://openingdesign.com/
+	- [[go]] http://openingdesign.com/
