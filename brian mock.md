@@ -44,4 +44,4 @@
 - finding people that want similar living arrangements
 	- [[twitter]]
 	- village life
-	- 
+	- [[bolo bolo]]
