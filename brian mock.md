@@ -15,4 +15,7 @@
 	- [[the nature of order]]
 		- fourth volume is more religious
 		- "breaks down god and then builds it back up"
-	- some solipsism in it 
+	- some solipsism in it though
+		- "I stuff"
+	- starts up in book one
+		- 
