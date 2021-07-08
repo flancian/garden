@@ -22,3 +22,6 @@
 		- wants to build an objective definition of beauty (?)
 		- [[degrees of life]]
 	- [[gate maker]]
+- [[bryan]]
+	- undergrad in architecture
+	- got a job building homes for the mega rich, didn't like it
