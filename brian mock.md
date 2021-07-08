@@ -18,5 +18,6 @@
 	- some solipsism in it though
 		- "I stuff"
 	- starts up in book one
-		- "mirror of the self"
+		- [[mirror of the self]]
 		- wants to build an objective definition of beauty (?)
+		- [[degrees of life]]
