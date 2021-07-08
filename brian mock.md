@@ -1,0 +1,4 @@
+- a [[person]]
+	- [[twitter]] https://twitter.com/bmock
+	- likes [[christopher alexander]]
+	- interested in []
