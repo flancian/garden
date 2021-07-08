@@ -32,6 +32,8 @@
 - [[flancian]]
 - interested in:
 	- [[flancia]]
+		- started as a [[utopia]]
+		- [[protopia]]
 	- [[agora]]
 	- what do you do about bad actors?
 	- what about 
