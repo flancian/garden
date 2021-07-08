@@ -36,4 +36,6 @@
 		- [[protopia]]
 	- [[agora]]
 	- what do you do about bad actors?
-	- what about 
+	- what about people that want to take over?
+- [[bryan]]
+	- mad about how the world is, but still hopeful
