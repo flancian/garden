@@ -21,3 +21,4 @@
 		- [[mirror of the self]]
 		- wants to build an objective definition of beauty (?)
 		- [[degrees of life]]
+	- [[gate maker]]
