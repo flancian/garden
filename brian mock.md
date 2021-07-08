@@ -13,3 +13,6 @@
 	- about [[christopher alexander]]'s work, hands on building
 	- 50 fundamental transformation
 	- [[the nature of order]]
+		- fourth volume is more religious
+		- "breaks down god and then builds it back up"
+	- some solipsism in it 
