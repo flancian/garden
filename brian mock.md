@@ -12,3 +12,4 @@
 - [[sorrento]]: [[building beauty]]
 	- about [[christopher alexander]]'s work, hands on building
 	- 50 fundamental transformation
+	- [[the nature of order]]
