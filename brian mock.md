@@ -7,3 +7,4 @@
 ## [[2021-07-08]]
 - greetings!
 	- dialing in from Iowa
+	- exploring the US
