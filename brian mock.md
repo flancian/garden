@@ -29,4 +29,5 @@
 	- came back to [[iowa]]
 	- trying to figure out how to work remotely, would like to work 3-4h a day
 	- like also working with [[leather]], [[clay]]; ornamental building
-	- 
+- [[flancian]]
+- [[]]
