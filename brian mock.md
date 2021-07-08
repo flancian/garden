@@ -36,7 +36,7 @@
 		- [[protopia]]
 	- [[agora]]
 	- what do you do about bad actors?
-	- what about people that want to take over?
+	- what about people that want to take over? or want to own intellectual property
 - [[bryan]]
 	- mad about how the world is, but still hopeful
 	- have tried a few times to get people together
