@@ -8,3 +8,6 @@
 - greetings!
 	- dialing in from Iowa
 	- exploring the US
+	- spent seven months in Italy (Sorrento!)
+- [[sorrento]]: [[building beauty]]
+	- about [[christopher alexander]]'s work, hands on b
