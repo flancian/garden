@@ -11,8 +11,9 @@
 	  - [[social.coop]] https://social.coop/@flancian
 	  - [[merveilles]] https://merveilles.town/@flaneur
 	- [[garden]] https://github.com/flancian/garden
-	- [[git]]
-		- [[github]] https://github.com/flancian
+	- [[github]] https://github.com/flancian
+		- [[git]] [[github]]
+	- [[gitlab]] https://gitlab.com/flancian
 	- [[matrix]] @flancian:matrix.org
 	- [[telegram]] @Flancian
 	- [[ctzn]] https://ctznry.com/flancian@ctzn.one
