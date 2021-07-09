@@ -1,6 +1,7 @@
-# Luciana
-
 - A [[person]].
-- In the [[Agora]]: https://anagora.org/@luciana.
-- Using [[foam]].
+	- a [[flancian]]
+	- [[push]] [[flancian]]
+	- [[agora]] [[agora]]: https://anagora.org/
+		- [[pull]] [[@luciana]]
+	- [[obsidian]].
 
