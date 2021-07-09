@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sundar pichai.md",
+                "file": "moondog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sundar pichai.md"
+                "file": "moondog.md"
               }
             }
           }
@@ -206,11 +206,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "490263fbb1804ee5",
+  "active": "55e7708b4a1b5ace",
   "lastOpenFiles": [
+    "moondog.md",
     "sundar pichai.md",
     "2021-07-09.md",
-    "moondog.md",
     "argh.md",
     "watching.md",
     "watch.md",
