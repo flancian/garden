@@ -115,6 +115,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "c9cab91c10439f0b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "human rights.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -188,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "what about human rights.md",
+                "file": "human rights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "what about human rights.md"
+                "file": "human rights.md"
               }
             }
           }
@@ -217,8 +228,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c6ff7bb411b67a6",
+  "active": "c9cab91c10439f0b",
   "lastOpenFiles": [
+    "human rights.md",
     "what about human rights.md",
     "moondog.md",
     "sundar pichai.md",
@@ -227,7 +239,6 @@
     "watching.md",
     "watch.md",
     "beyond cprofile.md",
-    "pyinstrument.md",
-    "conflict-files-obsidian-git.md"
+    "pyinstrument.md"
   ]
 }
