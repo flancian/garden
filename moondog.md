@@ -1,1 +1,2 @@
 - [[pull]] https://www.youtube.com/watch?v=-dLPsw3i_P8
+- [[pull]] [[what about human rights]]

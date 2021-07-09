@@ -104,6 +104,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "4c6ff7bb411b67a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "what about human rights.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moondog.md",
+                "file": "what about human rights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moondog.md"
+                "file": "what about human rights.md"
               }
             }
           }
@@ -206,8 +217,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55e7708b4a1b5ace",
+  "active": "4c6ff7bb411b67a6",
   "lastOpenFiles": [
+    "what about human rights.md",
     "moondog.md",
     "sundar pichai.md",
     "2021-07-09.md",
@@ -216,7 +228,6 @@
     "watch.md",
     "beyond cprofile.md",
     "pyinstrument.md",
-    "conflict-files-obsidian-git.md",
-    "chelsea hotel.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
