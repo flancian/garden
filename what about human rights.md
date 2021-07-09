@@ -1,2 +1,2 @@
 - a [[song]] https://www.youtube.com/watch?v=-dLPsw3i_P8
-	- [[rights]]
+	- [[human]] [[rights]] 
