@@ -4,46 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "11cbe105accfc77d",
-        "type": "split",
-        "children": [
-          {
-            "id": "63f809452cff7c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-07-05.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "7050f5d245741dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chelsea hotel.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "6bf5733da4a61bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source"
-              }
-            }
+        "id": "dfca63b6438bb043",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "book.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
+<<<<<<< HEAD
         "id": "102fe6accb268a77",
         "type": "split",
         "children": [
@@ -79,61 +51,248 @@
                 "mode": "source"
               }
             }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "1f94d8e6aef3ebfe",
+=======
+        "id": "daf2cbd4f904097f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+            "file": "2021-07-04.md",
+            "mode": "source"
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
+          }
+        }
+      },
+      {
+        "id": "8f8a26d73243fcd4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "agora social media integration.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a9652862b141b584",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-04.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e35c7985c4116762",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "deta.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bd5278bb18646798",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "web native.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "54b3b17b599c494f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cloud computer.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "253742e9df381de2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-04.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e37fe7256c0fa8db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "wikipedia.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ffee18e4b059aea4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-07.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "dc48b62f3dfe1e38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+<<<<<<< HEAD
             "file": "2021-07-09.md",
+=======
+            "file": "2021-07-06.md",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
             "mode": "source"
           }
         }
       },
       {
+<<<<<<< HEAD
         "id": "58c67cff51ac0208",
+=======
+        "id": "339f9c924bf4e2fb",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "luciana.md",
+=======
+            "file": "2021-07-08.md",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
             "mode": "source"
           }
         }
       },
       {
+<<<<<<< HEAD
         "id": "55e7708b4a1b5ace",
+=======
+        "id": "c74f05c0266decce",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "moondog.md",
+=======
+            "file": "brian mock.md",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
             "mode": "source"
           }
         }
       },
       {
+<<<<<<< HEAD
         "id": "4c6ff7bb411b67a6",
+=======
+        "id": "e91d03c32f5dc547",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "what about human rights.md",
+=======
+            "file": "agora bot.md",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
             "mode": "source"
           }
         }
       },
       {
+<<<<<<< HEAD
         "id": "c9cab91c10439f0b",
+=======
+        "id": "07ab9c32e6c5777d",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "human rights.md",
+=======
+            "file": "would you agree.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "471e8d5ffc499afd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "the future of note taking.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "59db8db05b79c3fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "future of note taking.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7fa69ee82c4e4e81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "lightning talks.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a2ef93a32f0a482b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tienson qin.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a153b20f56786261",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "logseq.md",
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
             "mode": "source"
           }
         }
@@ -173,14 +332,6 @@
             }
           },
           {
-            "id": "8af6596dc98ffa6b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "aa0f3e910050164c",
             "type": "leaf",
             "state": {
@@ -205,9 +356,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30e969c9166f9896",
+            "id": "eaa7f99b4cf5444a",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "backlink",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
@@ -219,26 +371,63 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
             }
           },
           {
-            "id": "a62fc60423ac06f4",
+            "id": "49a0eb72df05c98e",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "outline",
               "state": {
                 "file": "conflict-files-obsidian-git.md"
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "9852b3b70c9ace3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82168a0acbacba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "297c54846b597552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35550c211233c6a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "6bf5733da4a61bdc",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -251,5 +440,19 @@
     "sundar pichai.md",
     "argh.md",
     "watching.md"
+=======
+  "active": "c74f05c0266decce",
+  "lastOpenFiles": [
+    "brian mock.md",
+    "opening design.md",
+    "bmock.md",
+    "2021-07-08.md",
+    "2021-07-06.md",
+    "2021-07-07.md",
+    "agora bot.md",
+    "would you agree.md",
+    "conflict-files-obsidian-git.md",
+    "2021-07-04.md"
+>>>>>>> 4677d9bcb0010ca2470f43b4dde0c58fc64b5d3c
   ]
 }

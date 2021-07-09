@@ -1,0 +1,51 @@
+- a [[person]]
+	- [[twitter]] https://twitter.com/bmock
+	- likes [[christopher alexander]]
+	- interested in [[sustainability]], [[utopias]] (and their dangers)
+	
+	
+## [[2021-07-08]]
+- greetings!
+	- dialing in from Iowa
+	- exploring the US
+	- spent seven months in Italy (Sorrento!)
+- [[sorrento]]: [[building beauty]]
+	- about [[christopher alexander]]'s work, hands on building
+	- 50 fundamental transformation
+	- [[the nature of order]]
+		- fourth volume is more religious
+		- "breaks down god and then builds it back up"
+	- some solipsism in it though
+		- "I stuff"
+	- starts up in book one
+		- [[mirror of the self]]
+		- wants to build an objective definition of beauty (?)
+		- [[degrees of life]]
+	- [[gate maker]]
+- [[bryan]]
+	- undergrad in architecture
+	- got a job building homes for the mega rich, didn't like it
+	- worked for smaller offices after that
+	- came back to [[iowa]]
+	- trying to figure out how to work remotely, would like to work 3-4h a day
+	- like also working with [[leather]], [[clay]]; ornamental building
+- [[flancian]]
+- interested in:
+	- [[flancia]]
+		- started as a [[utopia]]
+		- [[protopia]]
+	- [[agora]]
+	- what do you do about bad actors?
+	- what about people that want to take over? or want to own intellectual property
+- [[bryan]]
+	- mad about how the world is, but still hopeful
+	- have tried a few times to get people together
+	- dream is now to build a prototype for an ornamental building
+- finding people that want similar living arrangements
+	- [[twitter]]
+	- village life
+	- [[bolo bolo]]
+	- [[sutty]]
+- [[patterning]] == [[reading alexander]]
+	- [[building beauty]]
+	- [[opening design]]
