@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moondog.md",
+                "file": "2021-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moondog.md"
+                "file": "2021-07-09.md"
               }
             }
           }
@@ -195,10 +195,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55e7708b4a1b5ace",
+  "active": "ac5f7b266c2a5153",
   "lastOpenFiles": [
-    "moondog.md",
     "2021-07-09.md",
+    "moondog.md",
     "argh.md",
     "watching.md",
     "watch.md",
