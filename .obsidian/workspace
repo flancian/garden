@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "watching.md",
+                "file": "2021-07-09.md",
                 "mode": "source"
               }
             }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "watching.md",
+                "file": "2021-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "watching.md"
+                "file": "2021-07-09.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "ac5f7b266c2a5153",
   "lastOpenFiles": [
+    "2021-07-09.md",
     "watching.md",
     "watch.md",
     "beyond cprofile.md",
@@ -194,7 +195,6 @@
     "chelsea hotel.md",
     "2021-07-05.md",
     "kubectl.md",
-    "pinstallhiinstalllosophy.md",
-    "flancian.md"
+    "pinstallhiinstalllosophy.md"
   ]
 }
