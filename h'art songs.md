@@ -1,0 +1,4 @@
+- an [[album]]
+	- by [[moondog]]
+	- [[1978]]
+	- [[wp]] https://en.wikipedia.org/wiki/H%27art_Songs

@@ -1,5 +1,6 @@
 - a [[song]]
 	- by [[moondog]]
+	- [[album]] [[h'art songs]]
 	- [[lyrics]] https://genius.com/Moondog-do-your-thing-annotated
 	- [[youtube]] https://www.youtube.com/watch?v=p7Bq_MvkUtU
 		- [[go]] [[youtube]]
