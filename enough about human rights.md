@@ -1,5 +1,6 @@
 - a [[song]]
 	- by [[moondog]]
+	- [[album]] [[h'art songs]]
 	- [[go]] https://www.youtube.com/watch?v=-dLPsw3i_P8
 	- [[mondegreen]] [[what about human rights]]
 	- [[lyrics]] https://genius.com/Moondog-enough-about-human-rights-annotated
