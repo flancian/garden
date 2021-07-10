@@ -1,1 +1,2 @@
-- an [[acrony]]
+- [[pull]] [[video conference]]
+- [[pull]] [[venture capital]]
