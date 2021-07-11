@@ -1,4 +1,5 @@
 - a [[video]]
-	- by [[flan rafael]]
+	- [[dielectric stacks]]
+	- by [[juan rafael álvarez]] and [[]]
 	- [[yt]] https://www.youtube.com/watch?v=ADXKFdpzwR0&feature=youtu.be
 		- [[go]] [[yt]]
