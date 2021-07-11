@@ -1,4 +1,7 @@
 - [[go]] https://gitlab.com/fedstoa/agora-bridge-js
-	- unsure how to run this :)
-	- asked [[vera]]
+	- asked [[vera]] how to run this, should add it to the readme:
+		- install typescript:
+			- `npm install --global typscript`
+		- install... something:
+			- `npm i --save-dev @types/node`
 		- `tsc app.ts && node app.js`
