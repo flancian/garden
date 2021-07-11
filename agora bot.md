@@ -14,6 +14,5 @@
 			- follows back
 		- [[planned]]
 			- reply to @mentions with resolved wikilinks for whole threads
-			- 
 
 ![[Pasted image 20210625144520.png]]
