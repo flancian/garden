@@ -21,4 +21,4 @@
 	 - [[simon]] sounds good. july works for me.
 	 - [[lorand]] summer sounds more certain than fall; unclear what commitments will be like in fall.
 	 - [[armengol]] uncertainty about august.
-		 - interested in summarizi
+		 - interested in summarizing the experience, some meta.
