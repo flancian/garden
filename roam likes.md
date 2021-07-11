@@ -6,7 +6,7 @@
   - [[obsidian]]
   - [[logseq]]
   - [[dendron]]
-  - [[athens research]]
+  - [[athens]]
   - [[remnote]]
   - [[org mode]]
   - [[tiddlyroam]]
