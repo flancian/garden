@@ -1,6 +1,7 @@
 - a [[bot]] 
 	- part of [[agora bridge]] component of the [[agora]].
 		- [[pull]] [[agora bridge]]
+		- in control of the [[system account]] in supported platforms.
 	- interacts with existing networks, starting with Mastodon and Twitter.
 		- see [[agora social media integration]].
 		- [[mastodon]] https://botsin.space/@agora
