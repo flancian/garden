@@ -11,7 +11,9 @@
 	- [[functionality]]
 		- [[current]]
 			- replies to @mentions if the tweet/toot contains [[wikilinks]] with links to anagora.org
+			- follows back
 		- [[planned]]
-			- reply to @mentions with resolved wikil
+			- reply to @mentions with resolved wikilinks for whole threads
+			- 
 
 ![[Pasted image 20210625144520.png]]
