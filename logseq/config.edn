@@ -80,4 +80,5 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
    :markdown/version 2
-   :date-formatter "yyyy-MM-dd"}
+   :date-formatter "yyyy-MM-dd"
+   :editor/logical-outdenting? true}
