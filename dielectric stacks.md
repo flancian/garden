@@ -1,5 +1,6 @@
 - a [[video]]
-	- [[dielectric stacks]]
-	- by [[juan rafael álvarez]] and [[]]
+	- on [[dielectric]] [[stacks]]
+	- by [[juan rafael álvarez]] and [[astghik saharyan]]
 	- [[yt]] https://www.youtube.com/watch?v=ADXKFdpzwR0&feature=youtu.be
 		- [[go]] [[yt]]
+	- [[pull]] [[light-matter interaction in open cavities with dielectric stacks]]
