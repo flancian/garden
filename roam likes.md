@@ -11,7 +11,7 @@
   - [[org mode]]
   - [[tiddlyroam]]
   - [[workflowy]]
-  - [[transno]]]]
+  - [[transno]]
   - [[dynalist]]
   - [[mubu]]
   - [[lark]]
