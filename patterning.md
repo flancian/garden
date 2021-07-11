@@ -23,4 +23,4 @@
 	 - [[armengol]] uncertainty about august.
 		 - interested in summarizing the experience, some meta.
 	 - could explore:
-		 - writing some
+		 - writing something together/individually
