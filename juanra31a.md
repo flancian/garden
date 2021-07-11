@@ -1,4 +1,7 @@
 # Juanra31a
-- A [[person]] on [[twitter]]: https://twitter.com/juanra31a
-- Seems interested in Flancia, has a sense of humour.
+- a [[person]] 
+	- [[twitter]] https://twitter.com/juanra31a
+	- [[friend]]
+	- [[pull]] [[flan raf]]
+	- Seems interested in Flancia, has a sense of humour.
 
