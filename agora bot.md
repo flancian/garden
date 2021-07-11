@@ -8,5 +8,10 @@
 			- see `bots/mastodon` in [[go/agora-bridge]].
 		- [[twitter]] https://twitter.com/an_agora
 			- see `bots/twitter` in [[go/agora-bridge]].
+	- [[functionality]]
+		- [[current]]
+			- replies to @mentions if the tweet/toot contains [[wikilinks]] with links to anagora.org
+		- [[planned]]
+			- reply to @mentions with resolved wikil
 
 ![[Pasted image 20210625144520.png]]
