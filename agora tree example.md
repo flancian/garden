@@ -11,4 +11,4 @@
 	- [[pull]] [[patterns]]
 	
 ## [[2021-07-11]]
-- discus
+- discussed this node as a test case for an [[agora ast]] with [[vera]].
