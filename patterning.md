@@ -19,3 +19,5 @@
  - [[armengol]] [[lorand]] [[simon]] [[flancian]]
 	 - [[flancian]] proposal: meet a few more times but perhaps more spaced out?
 	 - [[simon]] sounds good. july works for me.
+	 - [[lorand]] summer sounds more certain than fall; unclear what commitments will be like in fall.
+	 - [[armengol]] uncertainty about august
