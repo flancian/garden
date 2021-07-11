@@ -16,4 +16,6 @@
   - [[dropbox]] https://www.dropbox.com/sh/5rf0aq0hky456nz/AAAZi2LtJBWxHr7t-pFmuk-Pa?dl=0
   
  ## [[2021-07-11]]
- - [[armengol]] [[lorand]] [[simon]]
+ - [[armengol]] [[lorand]] [[simon]] [[flancian]]
+	 - [[flancian]] proposal: meet a few more times but perhaps more spaced out?
+	 - [[simon]] sounds good. july works for me.
