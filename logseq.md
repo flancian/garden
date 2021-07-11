@@ -1,9 +1,7 @@
 # Logseq
 
-- a [[tool]] 
-	- [[note taking]]
-		- [[pkm]]
-		- [[roam like]], but didn't set out to be a clone
+- a [[pkm tool]] 
+	- [[roam like]], but didn't set out to be a clone as [[athens]] apparent
 	- by [[tienson qin]], [[junyu zhan]]
 	- [[twitter]]: https://twitter.com/logseq
 	- [[go]] https://logseq.com.
