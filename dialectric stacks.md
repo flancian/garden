@@ -1,0 +1,4 @@
+- a [[video]]
+	- by [[flan ra]]
+- [[yt]] https://www.youtube.com/watch?v=ADXKFdpzwR0&feature=youtu.be
+	- [[go]] [[yt]]
