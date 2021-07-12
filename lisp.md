@@ -1,2 +1,3 @@
 
-- [[hhttps://news.ycombinator.com/item?id=27805059
+- [[hn]] https://news.ycombinator.com/item?id=27805905
+
