@@ -1,0 +1,5 @@
+- a [[person]].
+	- [[computer scientist]]
+	- first recipient of the turing award
+	- [[push]] [[programming epigrams]] 
+		- [[go]] https://cpsc.yale.edu/epigrams-programming
