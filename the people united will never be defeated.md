@@ -5,5 +5,5 @@
 	- [[yt]] https://www.youtube.com/watch?v=h6-MhlBSBrM
 	- [[go]] [[yt]] 
 - a [[motto]].
-	- [[flancia ]]
-	- [[flancia]] is a [[pro social]] [[protopia]].
+	- [[flancia]]'s.
+		- [[flancia]] is a [[pro social]] [[protopia]].
