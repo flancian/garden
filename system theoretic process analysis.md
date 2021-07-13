@@ -1,0 +1,4 @@
+- a [[technique]]
+	- for [[hazard analysis]]
+	- by [[nancy leveson]]
+	- [[pull]] [[stpa]]
