@@ -1,3 +1,6 @@
 - a [[person]]
-	- [[computer scien]]
-- [[conmmemoration]] https://via.hypothes.is/https://www.cs.utexas.edu/users/EWD/commemoration/EWD-commemoration-2021.pdf
+	- [[computer scientist]] [[dutch]]
+	- [[pull]] [[dijkstra]] [[edsger w. dijkstra]]
+	- wrote a number of [[ewds]]
+	- [[wp]] https://en.wikipedia.org/wiki/Edsger_W._Dijkstra 
+	- [[conmmemoration]] https://via.hypothes.is/https://www.cs.utexas.edu/users/EWD/commemoration/EWD-commemoration-2021.pdf
