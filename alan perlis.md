@@ -1,0 +1,6 @@
+- a [[person]].
+	- [[computer scientist]]
+	- first recipient of the [[turing award]]
+	- [[wp]] https://en.wikipedia.org/wiki/Alan_Perlis
+	- [[push]] [[programming epigrams]] 
+		- [[go]] https://cpsc.yale.edu/epigrams-programming

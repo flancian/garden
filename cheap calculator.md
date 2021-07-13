@@ -1,0 +1,2 @@
+- [[push]] [[casio fx 115espls2]]
+	- [[go]] https://www.amazon.com/Casio-fx-115ESPLS2-Advanced-Scientific-Calculator/dp/B086Z79HXS/

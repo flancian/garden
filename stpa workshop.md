@@ -1,0 +1,1 @@
+- I'm taking part of an [[stpa]] workshop for 2w in [[july 2021]].
