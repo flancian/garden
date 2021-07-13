@@ -1,0 +1,3 @@
+- a [[person]]
+	- [[computer scien]]
+- [[conmmemoration]] https://via.hypothes.is/https://www.cs.utexas.edu/users/EWD/commemoration/EWD-commemoration-2021.pdf
