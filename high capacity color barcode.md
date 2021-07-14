@@ -1,0 +1,2 @@
+- [[wp]] https://en.wikipedia.org/wiki/High_Capacity_Color_Barcode
+	- [[go]] [[wp]]

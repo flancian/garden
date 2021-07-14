@@ -1,1 +1,1 @@
-- [[pull]] 
+- [[pull]] [[high capacity color barcode]]
