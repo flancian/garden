@@ -1,0 +1,2 @@
+- you can think of me as the [[village idiot]]. I don't mind.
+	- https://twitter.com/flancian/status/1415400263335219207
