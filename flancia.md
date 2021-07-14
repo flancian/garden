@@ -3,7 +3,7 @@
 - A [[book]] we're trying to write.
   - [[pull]] [[book]].
 - One of many [[places]] in our mind.
-  - Its [[class]] is [[protopia]].
+  - A [[space]] dense with [[protopias]].
   - The world of the [[Flancians]]. A world similar to ours, but [[incrementally better]].
   - I am a [[Flancian]] and this is my manifesto:
     - In [[Flancia]] there is no [[poverty]].
