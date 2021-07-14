@@ -7,16 +7,16 @@
 	- The world of the [[Flancians]] is similar to ours, and tends to become [[incrementally better]].
 		- I am a [[Flancian]] and this is my manifesto:
 			- In [[Flancia]] there is no [[poverty]].
-		- In [[Flancia]] we are all this [[privileged]].
-		- In [[Flancia]] we may one day [[meet]].
-	- In Flancia there is an [[Agora]].
-  - Flancians strive to be [[honest]], [[charitable]], [[compassive]], [[solidary]], [[ethical]], [[prosocial]].
-	  - I strive to be a [[rational]] [[cooperativist]], but you don't have to play the same class.
-	  - [[In my Flancia, people dedicate a meaningful fraction of their free time and resources to help others]].
-	  - I posit that Flancia is a place where everybody [[thrives]].
-	  - [[In my Flancia we cooperate our way to an international liquid democratic federation]]. 
-			- default policy is [[heterarchy]] through [[distributed]] [[liquid democracy]].
-	  - [[In my Flancia cooperatives win late capitalism]].
+			- In [[Flancia]] there is no [[violence]].
+			- In [[Flancia]] we will one day [[meet]].
+	- Flancians strive to be [[honest]], [[charitable]], [[compassive]], [[solidary]], [[ethical]], [[prosocial]].
+		- In Flancia there is an [[Agora]].
+		- I strive to be a [[rational]] [[cooperativist]], but you don't have to play the same class.
+		- [[In my Flancia, people dedicate a meaningful fraction of their free time and resources to help others]].
+		- In Flancia everybody [[thrives]].
+	- [[In my Flancia we cooperate our way to an international liquid democratic federation]]. 
+		- default policy is [[heterarchy]] through [[distributed]] [[liquid democracy]].
+		- [[In my Flancia cooperatives win late capitalism]].
 - an [[organization]].
   - [[go]] https://flancia.org
   - [[pull]] [[flancia collective]]
