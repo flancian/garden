@@ -14,3 +14,4 @@
 			- follows back
 		- [[planned]]
 			- reply to @mentions with resolved wikilinks for whole threads
+- https://twitter.com/flancian/status/1415398630731681793
