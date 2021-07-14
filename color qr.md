@@ -1,0 +1,3 @@
+- [[qr codes]] are black and white only, but there are some colorful alternatives:
+	- [[jab code]]
+	- [[hcc]]
