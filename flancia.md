@@ -6,8 +6,8 @@
 	- A [[space]] dense with [[protopias]].
 	- The world of the [[Flancians]] is similar to ours, and tends to become [[incrementally better]].
 		- I am a [[Flancian]] and this is my manifesto:
-		- In [[Flancia]] there is no [[poverty]].
-		- In [[Flancia]] there is no [[privilege]].
+			- In [[Flancia]] there is no [[poverty]].
+		- In [[Flancia]] we are all this [[privileged]].
 		- In [[Flancia]] we may one day [[meet]].
 	- In Flancia there is an [[Agora]].
   - Flancians strive to be [[honest]], [[charitable]], [[compassive]], [[solidary]], [[ethical]], [[prosocial]].
