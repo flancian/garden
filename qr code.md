@@ -1,0 +1,3 @@
+- [[pull]] [[quick response code]]
+	- [[wp]] https://en.wikipedia.org/wiki/QR_code
+		- invented in [[1994]] by [[denso wave]]
