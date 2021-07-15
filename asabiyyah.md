@@ -1,0 +1,4 @@
+- an [[idea]]
+	- [[social solidarity]]
+	- [[wp]] https://en.wikipedia.org/wiki/Asabiyyah
+		- [[go]] [[wp]]
