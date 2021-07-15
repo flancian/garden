@@ -1,4 +1,5 @@
-- an [[idea]]
-	- [[social solidarity]]
+- a [[concept]]
+	- [[social solidarity]] [[group cohesion]] 
+		- [[islam]]
 	- [[wp]] https://en.wikipedia.org/wiki/Asabiyyah
 		- [[go]] [[wp]]
