@@ -1,6 +1,8 @@
 - a [[book]].
 	- by [[charles murray]].
-	- [[polemic]].
+		- [[polemic]].
+	- [[wp]] https://en.wikipedia.org/wiki/The_Bell_Curve
 - a [[video]]
 	- [[yt]] https://www.youtube.com/watch?v=UBc7qBS1Ujo&t=1s
 		- [[go]] [[yt]]
+		- https://twitter.com/pauserrano/status/1416118487387357184
