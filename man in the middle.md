@@ -1,2 +1,3 @@
-- a potential [[attack]].
-	- that can 
+- a [[process]].
+	- to subrepticiously intercept and forward someone's communications for a purpose. 
+	- a potential [[attack]].
