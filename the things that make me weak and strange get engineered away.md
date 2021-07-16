@@ -1,0 +1,4 @@
+- a [[short story]].
+	- by [[cory doctorow]].
+	- [[push]] [[weak and strange]]
+		- [[go]] https://www.tor.com/2008/08/06/weak-and-strange/
