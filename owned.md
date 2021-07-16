@@ -1,0 +1,4 @@
+- [[things]] can be owned.
+- [[people]] can be owned.
+	- [[pull]] [[mitm]]
+	- [[pull]] 

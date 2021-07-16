@@ -1,2 +1,1 @@
-- a [[process]].
-	- [[pull]] [[man in the middle]]
+- [[pull]] [[man in the middle]]
