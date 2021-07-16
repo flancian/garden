@@ -1,4 +1,6 @@
 - a [[character]].
 	- [[push]] [[monkey island]]
-		- [[the curse of monkey island]]
-	
+		- [[pull]] [[the curse of monkey island]]
+- a [[person]].
+	- [[push]] [[iq]]
+		- [[pull]] [[charles murray]]
