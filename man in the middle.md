@@ -1,0 +1,4 @@
+- a [[process]].
+	- to subrepticiously intercept and forward someone's communications for a purpose. 
+	- a potential [[attack]].
+	- to be [[mitm'd]] is to be [[owned]] by someone.

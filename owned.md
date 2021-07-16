@@ -1,0 +1,5 @@
+- [[things]] can be owned.
+- [[people]] can be owned.
+	- [[pull]] [[slavery]]
+- in [[hacker dialect]], to be bested by someone.
+	- [[pull]] [[mitm]]
