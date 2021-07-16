@@ -1,0 +1,6 @@
+- a [[book]].
+	- by [[charles murray]].
+	- [[polemic]].
+- a [[video]]
+	- [[yt]] https://www.youtube.com/watch?v=UBc7qBS1Ujo&t=1s
+		- [[go]] [[yt]]
