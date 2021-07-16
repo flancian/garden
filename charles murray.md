@@ -1,3 +1,4 @@
 - a [[person]].
 	- a [[political scientist]].
-	- 
+	- wrote [[the bell curve]].
+		- [[polemic]].
