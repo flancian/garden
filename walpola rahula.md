@@ -1,0 +1,2 @@
+- a [[person]].
+	- I have to asume a [[buddha]].
