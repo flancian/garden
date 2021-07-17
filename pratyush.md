@@ -4,5 +4,8 @@
 	- [[category theory]] [[computation]]
 	- [[push]] [[prabros]]
 		- [[prabrothers]]
+		- https://twitter.com/prathyvsh/status/1416517073572974599
+		- https://twitter.com/prathyvsh/status/1416521418200780800
+		- https://twitter.com/prathyvsh/status/1416522932294139904
 	- [[metathread]] https://twitter.com/prathyvsh/status/1288176143221350400 
 	- [[side a]] [[side b]] https://twitter.com/prathyvsh/status/1416521418200780800
