@@ -14,12 +14,13 @@
 - reach out to a member of the collective if you are interested in joining!
 	- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
 - if you are otherwise interested with [[cooperating]] with the [[flancia collective]], we are very interested! We strive to be [[prosocial]].
-	- Please reach out to [[flancian]] or [[vera]].
+	- Please reach out to [[vera]] or [[flancian]] or any of the other members.
   - our [[goals]]:
 	- [[public utility]]
     - [[effective altruism]]
   - our [[projects]]:
     - [[agora]]
+		- if you want to join the [[agora]], please write to [[vera]] [[flancian]].
     - [[promnesia]]
     - [[wikilinks everywhere]]
     - [[moa]]
