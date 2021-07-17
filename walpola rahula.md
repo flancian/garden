@@ -1,2 +1,5 @@
 - a [[person]].
-	- I have to asume a [[buddha]].
+	- [[buddhist]] 
+		- [[theravada]]
+	- [[go]] https://en.wikipedia.org/wiki/Walpola_Rahula_Thero
+	- wrote [[what the buddha taught]]
