@@ -1,4 +1,4 @@
-- [[flancia]] is a [[collective]]. 
+- a [[collective]]. 
   - [[go]] https://opencollective.com/flancia
 	  - [[open collective]].
     - within the [[flancia collective]] we track [[projects]] as a team and execute them in the open. we [[work in public]]
@@ -24,4 +24,6 @@
     - [[promnesia]]
     - [[wikilinks everywhere]]
     - [[moa]]
-- [[pull]] [[flancia]]
+	- your project could be here!
+- [[push]] [[flancia]]
+	- a [[thing]] in [[flancia]].
