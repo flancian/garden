@@ -1,0 +1,2 @@
+- el trabajo de mi mamá en [[entel]].
+	- un algoritmo de [[scheduling]]
