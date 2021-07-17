@@ -1,2 +1,6 @@
 - el trabajo de mi mamá en [[entel]].
-	- un algoritmo de [[scheduling]]
+	- un algoritmo de [[scheduling]], solución al problema de asignaciones telefónicas (incluido provisionamiento)
+		- [[swaps]]
+		- [[nexus]] cajas de 
+		- carta a abonado
+		- [[ordenes del estado]]
