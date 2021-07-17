@@ -2,9 +2,9 @@
 
 - an [[activity]].
 	- I practice.
-	- I started on meditat
-	- [[pull]] [[buddha]] 
-- [[shinzen young]] 
-- [[sam harris]]
+	- [[pull]] [[buddhism]] [[hinduism]] [[christianism]] [[[[religion]]
+	- I finally gave meditation a try back in [[2018]] or so because of [[sam harris]].
+	- [[shinzen young]] 
+	- [[sam harris]]
 
 
