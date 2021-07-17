@@ -1,10 +1,8 @@
 - [[flancia]] is a [[collective]]. 
   - [[go]] https://opencollective.com/flancia
 	  - [[open collective]].
-    - within the [[flancia collective]] we track [[projects]] as a team and execute them in the open.
-    - we [[work in public]]
-      - [[open source]]
-      - [[open ethics]]
+    - within the [[flancia collective]] we track [[projects]] as a team and execute them in the open. we [[work in public]]
+      - [[pull]] [[open source]] [[open ethics]]
       - [[matrix]] https://matrix.to/#/#flancia:matrix.org?via=matrix.org
       - [[telegram]] https://web.telegram.org/#/im?p=g421619990
   - [[members]] (in order of joining)
@@ -13,10 +11,10 @@
     - [[karlicoss]]
     - [[metasj]]
     - [[abstract fairy]]
-    - reach out to a member of the collective if you are interested in joining!
-		- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
-	- if you are interested with [[cooperating]] with [[flancia collective]], we are very interested! We strive to be [[prosocial]].
-		- Please consult the member pages to find personal contact information.
+- reach out to a member of the collective if you are interested in joining!
+	- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
+- if you are otherwise interested with [[cooperating]] with the [[flancia collective]], we are very interested! We strive to be [[prosocial]].
+	- Please reach out to [[flancian]] or [[vera]].
   - our [[goals]]:
 	- [[public utility]]
     - [[effective altruism]]
