@@ -1,3 +1,4 @@
 - [[pull]] [[en]] [[in flancia there are no walled gardens]] [[jardín cerrado]]
 - [[flancia]] es un futuro en el que [[internet]] es [[libre]].
 	- en [[flancia]] hay un [[agora]].
+- [[asignaciones]]
