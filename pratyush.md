@@ -1,4 +1,5 @@
-- a [[person]]
+- a [[person]].
 	- [[twitter]] https://twitter.com/pratyvsh
 	- [[category theory]] [[computation]]
-	- https://twitter.com/prathyvsh/status/1288176143221350400 
+	- [[metathread]] https://twitter.com/prathyvsh/status/1288176143221350400 
+	- [[side a]] [[side b]] https://twitter.com/prathyvsh/status/1416521418200780800
