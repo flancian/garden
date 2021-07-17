@@ -1,2 +1,3 @@
-- [[pull]] [[stpa]]
-- [[pull]] [[processes]] i na 
+- [[wholes]] integrated out of interacting [[components]].
+	- can be modelled as a graph of [[processes]]
+		- [[pull]] [[stpa]]
