@@ -1,0 +1,2 @@
+- whatever you practice, you get better at. 
+	- you often get even better if you are into system modeling.
