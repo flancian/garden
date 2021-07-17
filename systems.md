@@ -1,0 +1,2 @@
+- [[pull]] [[stpa]]
+- [[pull]] [[processes]] i na 
