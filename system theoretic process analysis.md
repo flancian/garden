@@ -1,7 +1,11 @@
 - a [[technique]]
 	- for [[hazard analysis]]
 	- by [[nancy leveson]] and [[john thomas]]
+	- [[pull]] [[stpa handbook]] [[stpa workshop]]
 	- [[push]] [[stpa]]
-	- [[pull]] [[stpa handbook]]
-	- [[pull]] [[stpa workshop]]
-- 
+	- [[steps]]
+		- 1
+		- 2
+		- 3
+		- 4
+	- [[hazards]] + [[environmental conditions]] -> 
