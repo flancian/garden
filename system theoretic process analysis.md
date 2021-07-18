@@ -5,6 +5,7 @@
 	- [[push]] [[stpa]]
 		- i love how STPA defers key steps to a later stage so they can be done systemically, once partial but complete initial modeling has taken place.
 		- can be applied recursively.
+		- It could be argued that because STPA can be applied recursively the cost of abstraction is minimized or at least bound.
 	- 4 [[steps]]
 		- 1. define the purpose of the analysis, including [[losses]], [[scope]], [[hazards]], [[constraints]] (optionally derived also from [[sub hazards]]).
 		- 2. model the control structure
