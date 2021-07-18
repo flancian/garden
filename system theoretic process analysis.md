@@ -1,4 +1,6 @@
 - a [[technique]]
 	- for [[hazard analysis]]
-	- by [[nancy leveson]]
-	- [[pull]] [[stpa]]
+	- by [[nancy leveson]] and [[john thomas]]
+	- [[push]] [[stpa]]
+	- [[pull]] [[stpa handbook]]
+	- [[pull]] [[stpa workshop]]
