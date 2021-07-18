@@ -4,8 +4,8 @@
 	- [[pull]] [[stpa handbook]] [[stpa workshop]]
 	- [[push]] [[stpa]]
 	- 4 [[steps]]
-		- start with the [[losses]]
+		- start with the [[losses]], which are 
 		- continue by defining the scope of the system
 	- can be applied recursively
 	- [[hazards]] + [[environmental conditions]] -> [[losses]]
-	- [[hazards]] are 
+	- [[hazards]] are states or conditions to be prevented.
