@@ -3,6 +3,7 @@
 	- by [[nancy leveson]] and [[john thomas]]
 	- [[pull]] [[stpa handbook]] [[stpa workshop]]
 	- [[push]] [[stpa]]
+		- I love how STPA defers key steps to a later stage so they can be done systemically, once partial but complete initial modeling has taken place.
 	- 4 [[steps]]
 	- step one
 		- start with the [[losses]], which involve something of value to stakeholders
