@@ -39,3 +39,9 @@ Definition of [[system]]:
 The heart of STPA: the control loop. 
 
 ![[Pasted image 20210718234343.png]]
+
+Refining control structures:
+
+![[Pasted image 20210719000525.png]]
+
+![[Pasted image 20210719000516.png]]
