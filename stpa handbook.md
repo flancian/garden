@@ -55,3 +55,7 @@ Refining control structures:
 On [[control]] proper:
 
 ![[Pasted image 20210719005502.png]]
+
+tips to prevent common mistakes in a control structure: 
+
+![[Pasted image 20210719010243.png]]

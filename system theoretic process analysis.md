@@ -25,4 +25,3 @@
 			- vertical axis represents a hierarchy ([[heterarchy]]? perhaps in voting systems)
 		- [[responsibilities]] can be assigned to each control structure entity; they are refinements of [[system level constraints]]
 		- [[feedback]] can be derived from [[responsibilities]] (which information does the process model need to contain?)
-		- tips to prevent common mistakes in a control struc![[Pasted image 20210719010243.png]]
