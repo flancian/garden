@@ -1,0 +1,12 @@
+- `git clone https://github.com/flancian/garden.git`
+- open as [[obsidian]] vault
+- install:
+	- [[obsidian git]]
+	- natural language dates
+- enable in core extensions list:
+	- [[vim keys]]
+	- [[daily notes]]
+- define hotkeys for:
+	- daily note -> alt-d
+	- ctrl-shift-s -> safe all
+	- ctrl-] -> open note in new pane
