@@ -33,3 +33,5 @@ Definition of [[system]]:
 ![[Pasted image 20210718162616.png]]
 
 [[hazards]] + [[environmental conditions]] = [[losses]]
+
+![[Pasted image 20210718231941.png]]
