@@ -35,3 +35,7 @@ Definition of [[system]]:
 [[hazards]] + [[environmental conditions]] = [[losses]]
 
 ![[Pasted image 20210718231941.png]]
+
+The heart of STPA: 
+
+![[Pasted image 20210718234343.png]]
