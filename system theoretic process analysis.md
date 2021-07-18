@@ -8,7 +8,9 @@
 	- 4 [[steps]]
 		- 1. define the purpose of the analysis, including [[losses]], [[scope]], [[hazards]], [[constraints]] (optionally derived also from [[sub hazards]]).
 		- 2. model the control structure
-	- step one: define the purpose of the analysis
+		- 3. identify unsafe control actions
+		- 4. identify loss scenarios
+	- step one: [[define the purpose of the analysis]]
 		- start with the [[losses]], which involve something of value to stakeholders
 		- continue by defining the [[scope]] of the system
 		- find [[hazards]], which are systemic states or conditions to be prevented, and which together with (worst-case) environmental conditions lead to [[losses]].
@@ -17,7 +19,7 @@
 			- they can look like [[hazards]], inverted.
 			- or define how the system must [[minimize losses]] in case the hazards occur.
 		- optionally find [[sub hazards]], which might also help define further constraints
-	- step two: model the control structure
+	- step two: [[model the control structure]]
 		- ![[Pasted image 20210718234132.png]]
 		- a control structure is a system model that is composed of feedback control loops.
 			- a good control structure will enforce the system level constraints.
@@ -25,4 +27,6 @@
 			- vertical axis represents a hierarchy ([[heterarchy]]? perhaps in voting systems)
 		- [[responsibilities]] can be assigned to each control structure entity; they are refinements of [[system level constraints]]
 		- [[feedback]] can be derived from [[responsibilities]] (which information does the process model need to contain?)
-	- step three: identify unsafe control actions]]
+	- step three: [[identify unsafe control actions]]
+		- an [[unsafe control action]] is 
+	
