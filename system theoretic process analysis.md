@@ -6,8 +6,8 @@
 		- i love how STPA defers key steps to a later stage so they can be done systemically, once partial but complete initial modeling has taken place.
 		- can be applied recursively.
 	- 4 [[steps]]
-		- define the purpose of the analysis, including [[losses]], [[scope]], [[hazards]], [[constraints]] (optionally derived also from [[sub hazards]]).
-		- model the control structure
+		- 1. define the purpose of the analysis, including [[losses]], [[scope]], [[hazards]], [[constraints]] (optionally derived also from [[sub hazards]]).
+		- 2. model the control structure
 	- step one: define the purpose of the analysis
 		- start with the [[losses]], which involve something of value to stakeholders
 		- continue by defining the [[scope]] of the system
@@ -17,3 +17,6 @@
 			- they can look like [[hazards]], inverted.
 			- or define how the system must [[minimize losses]] in case the hazards occur.
 		- optionally find [[sub hazards]], which might also help define further constraints
+	- step two: model the control structure
+		- ![[Pasted image 20210718234132.png]]
+		- a control structure is a system model that is composed of feedb
