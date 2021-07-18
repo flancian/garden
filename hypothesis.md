@@ -1,11 +1,12 @@
 a [[tool]]
+  - for [[annotation]]
+	  - you can annotate anything on the [[web]] by installing the hypothes.is browser extension or passing a URL to https://via.hypothes.is
   - [[pull]] [[hypothes.is]]
   - [[go]] htts://hypothes.is
   - [[wp]] https://en.wikipedia.org/wiki/Hypothesis
 - a [[tool]]
 	- for [[reasoning]]
+	- in [[formal logic]], the [[antecedent]] of a [[proposition]].
 	- [[pull]] [[hypotheses]]
 		- "A hypothesis (plural hypotheses) is a proposed explanation for a phenomenon. For a hypothesis to be a scientific hypothesis, the scientific method requires that one can test it."
 		- "A working hypothesis is a provisionally accepted hypothesis proposed for further research, in a process beginning with an educated guess or thought."
-	- In [[formal logic]], the [[antecedent]] of a [[proposition]].
-- 
