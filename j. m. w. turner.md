@@ -1,0 +1,4 @@
+- a [[person]]
+	- [[painter]] [[english]] [[romantic]]
+	- [[wp]] https://en.m.wikipedia.org/wiki/J._M._W._Turner
+		- [[go]] [[wp]]
