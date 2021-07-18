@@ -36,6 +36,6 @@ Definition of [[system]]:
 
 ![[Pasted image 20210718231941.png]]
 
-The heart of STPA: 
+The heart of STPA: the control loop. 
 
 ![[Pasted image 20210718234343.png]]
