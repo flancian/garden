@@ -1,4 +1,4 @@
 - a [[book]].
-	- perhaps it changed my [[life]].
 	- by [[walpola rahula]].
+	- it likely influenced my [[life]] more than most.
 	- [[go]] http://www.ahandfulofleaves.org/documents/What%20the%20Buddha%20Taught_Rahula.pdf
