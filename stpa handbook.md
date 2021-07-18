@@ -51,3 +51,7 @@ Refining control structures:
 ![[Pasted image 20210719003446.png]]
 
 ![[Pasted image 20210719003520.png]]
+
+On [[control]] proper:
+
+![[Pasted image 20210719005502.png]]
