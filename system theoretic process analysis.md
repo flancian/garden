@@ -9,4 +9,5 @@
 		- continue by defining the scope of the system
 		- find [[hazards]], which are systemic states or conditions to be prevented, and which together with (worst-case) environmental conditions lead to [[losses]].
 			- [[hazards]] + [[environmental conditions]] -> [[losses]]
+		- find [[]]
 	- can be applied recursively
