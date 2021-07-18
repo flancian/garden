@@ -59,3 +59,7 @@ On [[control]] proper:
 tips to prevent common mistakes in a control structure: 
 
 ![[Pasted image 20210719010243.png]]
+
+Step three:
+
+![[Pasted image 20210719010634.png]]
