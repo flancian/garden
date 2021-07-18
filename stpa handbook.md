@@ -10,9 +10,13 @@ Good overall summary in the first page:
 
 ![[Pasted image 20210718144905.png]]
 
+I wonder what the formalism is in this diagram. It is not an STPA diagram in the "main" sense as it doesn't model control loops explicitly, but is it part of the STPA framework?
+
+![[Pasted image 20210718150828.png]]
+
 First step: defining the purpose of the analysis.
 
-
+![[Pasted image 20210718150742.png]]
 
 Loss:
 
