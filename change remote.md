@@ -1,0 +1,2 @@
+- [[git]]
+	- `git remote set-url origin git@github.com:flancian/garden.git`
