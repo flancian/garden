@@ -1,0 +1,3 @@
+- [[stpa]]
+	- ```a system is a set of components that act together as a whole to achieve some common goal, objective, or end. A system may co
+- ![[Pasted image 20210718162620.png]]
