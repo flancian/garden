@@ -19,4 +19,6 @@
 		- optionally find [[sub hazards]], which might also help define further constraints
 	- step two: model the control structure
 		- ![[Pasted image 20210718234132.png]]
-		- a control structure is a system model that is composed of feedb
+		- a control structure is a system model that is composed of feedback control loops.
+			- a good control structure will enforce the system level constraints.
+		- 
