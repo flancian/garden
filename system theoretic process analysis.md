@@ -7,6 +7,6 @@
 	- step one
 		- start with the [[losses]], which involve something of value to stakeholders
 		- continue by defining the scope of the system
-		- find [[hazards]]  - [[hazards]] are systemic states or conditions to be prevented.
+		- find [[hazards]], which are systemic states or conditions to be prevented.
 		- [[hazards]] + [[environmental conditions]] -> [[losses]]
 	- can be applied recursively
