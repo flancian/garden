@@ -5,9 +5,9 @@
 	- [[push]] [[stpa]]
 		- I love how STPA defers key steps to a later stage so they can be done systemically, once partial but complete initial modeling has taken place.
 	- 4 [[steps]]
-		- define the purpose of the analysis, including [[scope]], [[losses]], [[hazards]], 
-		- model the  control structurs
-	- step one
+		- define the purpose of the analysis, including [[scope]], [[losses]], [[hazards]], [[constraints]] (optionally derived also from [[sub hazards]]).
+		- model the control structure
+	- step one: define the purpose of the analysis
 		- start with the [[losses]], which involve something of value to stakeholders
 		- continue by defining the scope of the system
 		- find [[hazards]], which are systemic states or conditions to be prevented, and which together with (worst-case) environmental conditions lead to [[losses]].
