@@ -21,4 +21,6 @@
 		- ![[Pasted image 20210718234132.png]]
 		- a control structure is a system model that is composed of feedback control loops.
 			- a good control structure will enforce the system level constraints.
-		- 
+		- control goes down, feedback goes up
+			- vertical axis represents a hierarchy ([[heterarchy]]? perhaps in voting systems)
+		- responsibilities can be assigned to each control structure entity; they are refinements of system level constraints
