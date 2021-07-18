@@ -1,4 +1,4 @@
-- a [[process]]
-- - [[system theoretic process analysis]]
+- a [[
+- [[system theoretic process analysis]]
 	- [[pull]] [[stpa handbook]]
 	- [[pull]] [[stpa workshop]]
