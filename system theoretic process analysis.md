@@ -3,8 +3,8 @@
 	- by [[nancy leveson]] and [[john thomas]]
 	- [[pull]] [[stpa handbook]] [[stpa workshop]]
 	- [[push]] [[stpa]]
-		- I love how STPA defers key steps to a later stage so they can be done systemically, once partial but complete initial modeling has taken place.
-	- can be applied recursively
+		- i love how STPA defers key steps to a later stage so they can be done systemically, once partial but complete initial modeling has taken place.
+		- can be applied recursively.
 	- 4 [[steps]]
 		- define the purpose of the analysis, including [[losses]], [[scope]], [[hazards]], [[constraints]] (optionally derived also from [[sub hazards]]).
 		- model the control structure
@@ -16,4 +16,4 @@
 		- find [[system level constraints]]. 
 			- they can look like [[hazards]], inverted.
 			- or define how the system must [[minimize losses]] in case the hazards occur.
-		- find [[sub hazards]], which
+		- optionally find [[sub hazards]], which might also help define further constraints
