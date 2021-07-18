@@ -9,5 +9,7 @@
 		- continue by defining the scope of the system
 		- find [[hazards]], which are systemic states or conditions to be prevented, and which together with (worst-case) environmental conditions lead to [[losses]].
 			- [[hazards]] + [[environmental conditions]] -> [[losses]]
-		- find [[system level constraints]]. they tend to look like [[hazards]], inverted.
+		- find [[system level constraints]]. 
+			- they can look like [[hazards]], inverted.
+			- or define how the system must [[minimize losses]] in case the hazards occur.
 	- can be applied recursively
