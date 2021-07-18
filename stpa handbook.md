@@ -18,9 +18,11 @@ First step: defining the purpose of the analysis.
 
 ![[Pasted image 20210718150742.png]]
 
-Loss:
+[[Losses]]:
 
 ![[Pasted image 20210718150713.png]]
+
+![[Pasted image 20210718155038.png]]
 
 [[Stakes]] are [[values]]:
 
