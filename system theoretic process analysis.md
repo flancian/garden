@@ -3,9 +3,7 @@
 	- by [[nancy leveson]] and [[john thomas]]
 	- [[pull]] [[stpa handbook]] [[stpa workshop]]
 	- [[push]] [[stpa]]
-	- [[steps]]
-		- 1
-		- 2
-		- 3
-		- 4
-	- [[hazards]] + [[environmental conditions]] -> [[losses]]
+	- 4 [[steps]]
+		- start with the [[losses]]
+		- continue by defining the scope of the system
+		- [[hazards]] + [[environmental conditions]] -> [[losses]]
