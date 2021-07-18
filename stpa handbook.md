@@ -28,6 +28,8 @@ First step: defining the purpose of the analysis.
 
 ![[Pasted image 20210718151545.png]]
 
-[[system]]:
+Definition of [[system]]:
 
 ![[Pasted image 20210718162616.png]]
+
+[[hazards]] + [[environmental conditions]] = [[losses]]
