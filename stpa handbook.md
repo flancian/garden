@@ -49,4 +49,5 @@ Refining control structures:
 ![[Pasted image 20210719001721.png]]
 
 ![[Pasted image 20210719003446.png]]
-- ![[Pasted image 20210719003436.png]]
+
+![[Pasted image 20210719003520.png]]
