@@ -9,3 +9,11 @@
 Good overall summary in the first page:
 
 ![[Pasted image 20210718144905.png]]
+
+First step: defining the purpose of the analysis.
+
+
+
+Loss:
+
+![[Pasted image 20210718150713.png]]
