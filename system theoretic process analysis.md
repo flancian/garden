@@ -8,4 +8,4 @@
 		- 2
 		- 3
 		- 4
-	- [[hazards]] + [[environmental conditions]] -> 
+	- [[hazards]] + [[environmental conditions]] -> [[losses]]
