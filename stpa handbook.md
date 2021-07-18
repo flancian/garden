@@ -27,4 +27,3 @@ First step: defining the purpose of the analysis.
 [[Stakes]] are [[values]]:
 
 ![[Pasted image 20210718151545.png]]
-![[Recording 20210718155044.webm]]

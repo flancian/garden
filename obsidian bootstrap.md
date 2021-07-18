@@ -4,8 +4,9 @@
 	- [[obsidian git]]
 	- natural language dates
 - enable in core extensions list:
-	- [[vim keys]]
 	- [[daily notes]]
+	- starred notes
+- enable [[vim keys]] in editor
 - define hotkeys for:
 	- daily note -> alt-d
 	- ctrl-shift-s -> safe all
