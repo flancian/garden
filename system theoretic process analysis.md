@@ -6,5 +6,6 @@
 	- 4 [[steps]]
 		- start with the [[losses]]
 		- continue by defining the scope of the system
-		- [[hazards]] + [[environmental conditions]] -> [[losses]]
 	- can be applied recursively
+	- [[hazards]] + [[environmental conditions]] -> [[losses]]
+	- [[hazards]] are 
