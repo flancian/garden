@@ -31,5 +31,7 @@
 		- an [[unsafe control action]] is one that, in a particular context, will lead to a [[hazard]].
 		- it must include the actual (real) context in which the control action is unsafe, instead of controller beliefs; and it must be linked to a hazard.
 		- define [[controller constraints]]: behaviours that need to be satisfied to prevent UCAs. they can usually be derived from negations of the UCAs.
+	- step four: [[identify loss scenarios]]
+		- a [[loss scenario]] describes the [[causal factors that can lead to the [[unsafe control actions]] and to [[hazards]].
 		
 	
