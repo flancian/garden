@@ -33,5 +33,6 @@
 		- define [[controller constraints]]: behaviours that need to be satisfied to prevent UCAs. they can usually be derived from negations of the UCAs.
 	- step four: [[identify loss scenarios]]
 		- a [[loss scenario]] describes the [[causal factors]] that can lead to the [[unsafe control actions]] and to [[hazards]].
-		- 
+		- 4a: write scenarios which cause UCAs
+		- 4b: write scenarios whe
 	
