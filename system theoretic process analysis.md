@@ -29,5 +29,6 @@
 		- [[feedback]] can be derived from [[responsibilities]] (which information does the process model need to contain?)
 	- step three: [[identify unsafe control actions]]
 		- an [[unsafe control action]] is one that, in a particular context, will lead to a [[hazard]].
+		- it must include the actual (real) context in which the control action is unsafe; and it must be linked to a hazard. it shouldn't depend on
 		
 	
