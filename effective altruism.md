@@ -6,6 +6,7 @@
 - a [[project]]
 	- [[go]] www.effectivealtruism.org
 	- I [[donate]] [[monthly]] to the [[Global Health and Development Fund]]
-	-  [[push]] [[do]] write about the Agora in the EA forums.
-	- The EA Forums might be an [[Agora]].
+	-  [[push]] [[do]] 
+		-  [[write]] about the Agora in the [[EA forum]].
+		- the [[EA Forums]] themselves are an [[agora]].
 
