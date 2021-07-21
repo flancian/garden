@@ -1,3 +1,5 @@
+- a [[thing]]
+	- [[medium]]
 - a [[tool]]
 	- [[site]] https://aether.app/
 	- [[go]] https://app.aether.app/
