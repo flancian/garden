@@ -1,0 +1,4 @@
+- a [[conference]]
+	- [[unconference]]
+	- by [[psionica]]
+	- [[pull]] [[augment minds 2021]]
