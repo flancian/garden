@@ -1,0 +1,3 @@
+- a [[tool]]
+	- [[go]] https://en.wikipedia.org/wiki/Michelson_interferometer
+	- [[reighleyc]] https://twitter.com/reighleyc/status/1417920314814521344
