@@ -1,9 +1,8 @@
 # Effective Altruism
 
 - a [[thing]]
-	- a [[movement]]
-	- I consider myself part of it.
-- a [[project]]
+	- a [[movement]] or [[project]]
+		- I consider myself part of it.
 	- [[go]] www.effectivealtruism.org
 	- I [[donate]] [[monthly]] to the [[Global Health and Development Fund]]
 	-  [[push]] [[do]] 
