@@ -1,5 +1,5 @@
 - a [[person]]
-	- [[physicist]]
+	- [[physicist]] [[nobel prize]] [[manhattan project]] [[qed]] [[feynman diagrams]]
 	- [[pull]] [[feynman lectures]]
 	- loved:
 		- [[surely you're joking]]
