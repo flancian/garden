@@ -1,6 +1,9 @@
 - a [[person]]
 	- [[physicist]]
 	- [[pull]] [[feynman lectures]]
-	- [[wp]] https://en.wikipedia.org/Richard_Fey
+	- loved:
+		- [[surely you're joking]]
+		- [[six easy pieces]]
+	- [[wp]] https://en.wikipedia.org/Richard_Feynman
 		- [[go]] [[wp]]
 
