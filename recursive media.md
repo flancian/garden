@@ -1,0 +1,4 @@
+- a [[podcast]]
+	- [[steven fan]] [[turlingb]]
+	- https://twitter.com/_StevenFan/status/1418677554584514560
+	- https://twitter.com/flancian/status/1418685221814341633
