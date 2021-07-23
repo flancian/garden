@@ -5,3 +5,5 @@
 	- [[lex fridman]]
 	- [[deconstructing yourself]]
 	- [[mindscape]]
+	- [[80000 hours]]
+	- [[feminist frequency]]
