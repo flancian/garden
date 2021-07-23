@@ -1,5 +1,5 @@
 - [[pull]] [[podcasts]]
-	- I want to [[start a podcast]].
-- [[go]] https://twitter.com/flancian/status/1345836333865037833
+	- I want to [[start a podcast]]. 
+		- https://twitter.com/flancian/status/1345836333865037833
 
 
