@@ -8,3 +8,4 @@
 	- push/pull API planned
 	- business model?
 		- event organization + ticketing and related
+		- a free platform with value-added services
