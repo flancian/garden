@@ -1,4 +1,5 @@
 - an [[app]]
 	- [[apple]] https://apps.apple.com/us/app/circles-world/id1476168698 
 	- [[android]] https://play.google.com/store/apps/details?id=world.circles 
-	- not open source
+	- not open source right now, plans to open source the frontend but not the backend
+	- 
