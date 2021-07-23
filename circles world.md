@@ -10,7 +10,7 @@
 		- event organization + ticketing and related
 		- a free platform with value-added services
 	- feedback
-		- the demo was great but it would work better with more recent timestamps (showing how you actually use it in your organization)
+		- the beginning of the demo was great but it would work better with more recent timestamps (showing how you actually use it in your organization) -- like you did later :)
 		
 	![[Pasted image 20210723191851.png]]
 	
