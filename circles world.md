@@ -6,4 +6,5 @@
 	- not open source right now, plans to open source the frontend but not the backend
 	- ability to export right now
 	- push/pull API planned
-	- business model
+	- business model?
+		- event organization + ticketing and related
