@@ -9,3 +9,6 @@
 	- business model?
 		- event organization + ticketing and related
 		- a free platform with value-added services
+		
+		
+	![[Pasted image 20210723191851.png]]
