@@ -10,6 +10,10 @@
 		- event organization + ticketing and related
 		- a free platform with value-added services
 		
-		
 	![[Pasted image 20210723191851.png]]
+	
 	![[Pasted image 20210723192041.png]]
+	
+	Resources section / knowledge base like:
+	
+	![[Pasted image 20210723192119.png]]
