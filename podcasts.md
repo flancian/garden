@@ -2,3 +2,6 @@
 	- [[making sense]]
 	- [[philosophize this]]
 	- [[reply all]]
+	- [[lex fridman]]
+	- [[deconstructing yourself]]
+	- [[mindscape]]
