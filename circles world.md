@@ -1,3 +1,3 @@
 - an [[app]]
 	- [[apple]] https://apps.apple.com/us/app/circles-world/id1476168698 
-	- [[android]]
+	- [[android]] https://play.google.com/store/apps/details?id=world.circles 
