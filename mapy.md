@@ -1,0 +1,1 @@
+- [[go]] https://en.mapy.cz
