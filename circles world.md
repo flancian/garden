@@ -17,3 +17,7 @@
 	Resources section / knowledge base like:
 	
 	![[Pasted image 20210723192119.png]]
+	
+	Circles:
+	
+	![[Pasted image 20210723192758.png]]
