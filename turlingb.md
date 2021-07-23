@@ -1,2 +1,2 @@
 - a [[person]]
-	- [[twitter]] ht
+	- [[twitter]] https://twitter.com/turtlingb
