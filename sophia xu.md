@@ -1,3 +1,5 @@
 - a [[person]]
+	- [[math]] [[coder]] [[graphs]] [[knowledge]]
+	- [[mcgill university]]
 	- [[twitter]] https://twitter.com/thesophiaxu
 	- [[unigraph]]
