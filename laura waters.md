@@ -1,1 +1,2 @@
-- [[go]] https://www.linkedin.com/in/laura-waters-watersedge
+- a [[person]]
+	- [[go]] https://www.linkedin.com/in/laura-waters-watersedge
