@@ -1,3 +1,4 @@
-a-
-- [[go]] [[wp]]
-- [[wp]]  https://en.wikipedia.org/wiki/Shantideva
+a [[person]]
+	- [[bodhisattva]]
+	- [[wp]]  https://en.wikipedia.org/wiki/Shantideva
+		- [[go]] [[wp]]
