@@ -1,5 +1,6 @@
 - an [[unconference]]
 	- [[go]] https://opencollective.com/augment-minds-7d13842a
+	- [[schedule]] https://docs.google.com/spreadsheets/d/1rtpaUb_MMpPXy2Ko-Xjt65fu1CvzuQ6hlkFY0jUe5wA/edit#gid=0
 	- notes by participants can be pulled here. see also the stoa below.
 	- [[kick off]]
 		- [[paul bricman]] starts it off.
