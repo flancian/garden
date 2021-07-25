@@ -12,3 +12,4 @@
 		- [[regina ponciano]] on the limitations of [[zettelkasten]]
 		- [[adam wiggins]] on [[muse]]
 		- [[jungwon]] on [[elicit]]
+		- [[linus lee]] on [[thesephis]]
