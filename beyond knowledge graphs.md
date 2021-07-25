@@ -21,6 +21,8 @@
 		- no timestamp involved in at least [[obsidian]] vaults
 		- there might be many situations where storing the timestamp of a document could be very useful
 		- take the ML space: [[transformer]] happened and it took over a chunk of the space.
+		- you get a dimension of understanding when adding the time dimension to your analysis of a space
+	- 
 		
 ![[Pasted image 20210725190339.png]]
 ![[Pasted image 20210725191304.png]]
