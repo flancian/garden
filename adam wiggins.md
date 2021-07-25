@@ -1,0 +1,4 @@
+- a [[person]]
+	- [[go]] https://adamwiggins.com/
+	- [[muse]]
+	- [[podcast]] [[metamuse]]
