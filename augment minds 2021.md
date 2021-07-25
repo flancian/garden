@@ -13,3 +13,6 @@
 		- [[adam wiggins]] on [[muse]]
 		- [[jungwon]] on [[elicit]]
 		- [[linus lee]] on [[thesephist]]
+	- tracks
+		- four rooms, 1h and 30m slots
+		- [[beyond knowledge graphs]]: [[designing semantic spacetimes in five mechanics]]
