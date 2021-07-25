@@ -1,0 +1,6 @@
+- a [[person]]
+	- [[romanian]] [[netherlands]]
+	- [[machine learning]] [[cognitive enhancement]]
+	- [[go]] https://paulbricman.com/
+	- [[psionica]]
+	- [[beyond knowledge graphs]]
