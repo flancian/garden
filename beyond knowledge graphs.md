@@ -8,5 +8,7 @@
 	- some mechanics
 		- location-based addressing vs content-based addressing
 		- conceptual parallels -> geometrics parallels
+	- [[loca]]
 		
 	![[Pasted image 20210725190339.png]]
+	![[Pasted image 20210725191304.png]]
