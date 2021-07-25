@@ -19,6 +19,7 @@
 	- [[mastodon]] https://botsin.space/@agora 
 	- [[twitter]] https://twitter.com/an_agora
 
+The following section works as an example of the optional [[agora protocol]].
 - an [[agora]].
 	- [[push]] [[agoras]]
 	- [[git]] https://github.com/flancian/agora
