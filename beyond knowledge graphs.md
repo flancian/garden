@@ -9,7 +9,8 @@
 	- some mechanics
 		- [[location-based addressing]] vs [[content-based addressing]]
 		- if you have an error in your location-based address, that's usually a hard error
-		- [[content baed ad]]
+		- [[content based addressing]] is very search-engine-like
+		- what if we didn't even add t
 		
 	![[Pasted image 20210725190339.png]]
 	![[Pasted image 20210725191304.png]]
