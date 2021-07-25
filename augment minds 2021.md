@@ -15,4 +15,4 @@
 		- [[linus lee]] on [[thesephist]]
 	- tracks
 		- four rooms, 1h and 30m slots
-		- [[beyond knowledge graphs]]: [[designing semantic spacetimes in five mechanics]]
+		- [[beyond knowledge graphs]]
