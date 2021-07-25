@@ -1,0 +1,4 @@
+- a [[person]]
+	- [[researcher]] [[english literature]]
+	- [[pull]] [[regina martínez]] [[regina m ponciano]]
+	- [[go]] https://martinezponciano.es/
