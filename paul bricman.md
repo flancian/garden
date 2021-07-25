@@ -2,5 +2,6 @@
 	- [[romanian]] [[netherlands]]
 	- [[machine learning]] [[cognitive enhancement]]
 	- [[go]] https://paulbricman.com/
+	- [[git]] https://github.com/paulbricman
 	- [[psionica]]
 	- [[beyond knowledge graphs]]

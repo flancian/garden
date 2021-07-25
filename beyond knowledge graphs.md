@@ -26,10 +26,11 @@
 		- if you keep editing mutable entries you need to first search/retrieve/manage changes
 		- instead you could *just* add immutable items
 		- this is very much like the motivation for [[push]] in the [[agora]], or at least goes very well with it
-	- [[contextual retrievaljjj]]
+	- [[contextual retrieval]]
 		
 ![[Pasted image 20210725190339.png]]
 ![[Pasted image 20210725191304.png]]
 ![[Pasted image 20210725191910.png]]
 ![[Pasted image 20210725192533.png]]	
 ![[Pasted image 20210725193123.png]]
+![[Pasted image 20210725193413.png]]
