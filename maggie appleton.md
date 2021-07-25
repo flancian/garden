@@ -1,3 +1,3 @@
 - a [[person]]
-- [[go]] https://maggieappleton.com/
+	- [[go]] https://maggieappleton.com/
 	- [[brain]] https://maggieappleton.com/basb
