@@ -18,13 +18,11 @@
   - The [[agora]] is in the [[social media]]. 
 	- [[mastodon]] https://botsin.space/@agora 
 	- [[twitter]] https://twitter.com/an_agora
- 
-The following section works as an example of the optional [[agora protocol]].
 
 - an [[agora]].
 	- [[push]] [[agoras]]
 	- [[git]] https://github.com/flancian/agora
-		- #go [[git]]
+		- [[go]] [[git]]
 	- [[server]] https://github.com/flancian/agora-server
 	- [[bridge]] https://github.com/flancian/agora-bridge
 	- [[bugs]] https://github.com/flancian/agora/issues
