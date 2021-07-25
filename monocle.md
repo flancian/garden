@@ -1,0 +1,3 @@
+- an [[app]]
+	- [[linux]]
+	- reminded me of [[promnesia]] when I learnt of it
