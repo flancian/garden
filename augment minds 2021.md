@@ -8,5 +8,6 @@
 		- [[paul bricman]] starts it off.
 	- [[lightning talks]] (see the stoa below for notes)
 		- [[maggie appleton]] on [[tools for thought]]
+		- [[slim lim]] on [[programming languages as user interfaces]]
 		
 	![[Pasted image 20210725172843.png]]
