@@ -6,11 +6,7 @@
 	- notes by participants can be pulled here. see also the stoa below.
 	- [[kick off]]
 		- [[paul bricman]] starts it off.
-	- [[lightning talks]]
+	- [[lightning talks]] (see the stoa below for notes)
 		- [[maggie appleton]] on [[tools for thought]]
-			- most tools for thought precede computation by thousands of years
-			- writing, carvings, songs, patterns; we've had these for many years
-			- "thinking in collaboration with objects" is something we've done forever
-			- [[extended mind hypothesis]]
 		
 	![[Pasted image 20210725172843.png]]
