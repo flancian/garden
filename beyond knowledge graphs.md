@@ -10,7 +10,7 @@
 		- [[location-based addressing]] vs [[content-based addressing]]
 		- if you have an error in your location-based address, that's usually a hard error
 		- [[content based addressing]] is very search-engine-like
-		- what if we didn't even add t
+		- what if we didn't even add titles to our notes (blocks)? perhaps the content itself is the best addressing mechanism
 		
 	![[Pasted image 20210725190339.png]]
 	![[Pasted image 20210725191304.png]]
