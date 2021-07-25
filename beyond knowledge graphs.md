@@ -15,7 +15,7 @@
 			- (very agora like!)
 	- [[static linking]] vs [[dynamic linking]] (perhaps a bit of a stretch)
 		- static linking: you use [[wikilinks]] in a tool like [[roam]] to link out to particular notes
-		- dynamic linking: 
+		- dynamic linking: you select a fragment of this note
 		
 	![[Pasted image 20210725190339.png]]
 	![[Pasted image 20210725191304.png]]
