@@ -11,5 +11,3 @@
 		- [[slim lim]] on [[programming languages as user interfaces]]
 		- [[regina ponciano]] on the limitations of [[zettelkasten]]
 		- [[adam wiggins]] on [[muse]]
-		
-	![[Pasted image 20210725172843.png]]
