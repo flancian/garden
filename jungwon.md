@@ -1,0 +1,4 @@
+- a [[person]]
+	- [[COO]] [[ought]]
+	- [[elicit]]
+	- [[twitter]] https://twitter.com/jungofthewon
