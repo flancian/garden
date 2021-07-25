@@ -1,0 +1,5 @@
+- a [[person]]
+	- [[tool maker]]
+	- [[thesephist]]
+	- [[twitter]] https://twitter.com/thesephist
+	- [[monocle]]
