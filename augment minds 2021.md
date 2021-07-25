@@ -9,5 +9,6 @@
 	- [[lightning talks]] (see the stoa below for notes)
 		- [[maggie appleton]] on [[tools for thought]]
 		- [[slim lim]] on [[programming languages as user interfaces]]
+		- [[regina ponciano]] on the limitations of [[zettelkasten]]
 		
 	![[Pasted image 20210725172843.png]]
