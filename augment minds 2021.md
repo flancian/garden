@@ -7,4 +7,7 @@
 	- [[kick off]]
 		- [[paul bricman]] starts it off.
 	- [[lightning talks]]
-		- [[maggie appleton]]
+		- [[maggie appleton]] on [[tools for thought]]
+			- most tools for thought precede computation by thousa
+		
+	![[Pasted image 20210725172843.png]]
