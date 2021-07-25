@@ -6,3 +6,5 @@
 	- notes by participants can be pulled here. see also the stoa below.
 	- [[kick off]]
 		- [[paul bricman]] starts it off.
+	- [[lightning talks]]
+		- [[maggie appleton]]
