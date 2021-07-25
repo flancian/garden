@@ -22,9 +22,12 @@
 		- there might be many situations where storing the timestamp of a document could be very useful
 		- take the ML space: [[transformer]] happened and it took over a chunk of the space.
 		- you get a dimension of understanding when adding the time dimension to your analysis of a space
-	- 
+	- [[mutable entries]] vs [[inmutable entries]]
+		- you can *just* add items
+		- this is very much like the motivation for [[push]] in the [[agora]]
 		
 ![[Pasted image 20210725190339.png]]
 ![[Pasted image 20210725191304.png]]
 ![[Pasted image 20210725191910.png]]
 ![[Pasted image 20210725192533.png]]	
+![[Pasted image 20210725193123.png]]
