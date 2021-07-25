@@ -8,6 +8,6 @@
 		- [[paul bricman]] starts it off.
 	- [[lightning talks]]
 		- [[maggie appleton]] on [[tools for thought]]
-			- most tools for thought precede computation by thousa
+			- most tools for thought precede computation by thousands of years
 		
 	![[Pasted image 20210725172843.png]]
