@@ -1,0 +1,2 @@
+- a [[company]]
+	- [[go]] https://egghead.io
