@@ -1,4 +1,4 @@
-- an [[unconference]]
+- an [[unconference]].
 	- [[go]] https://opencollective.com/augment-minds-7d13842a
 	- [[useful links]] https://opencollective.com/augment-minds-7d13842a/updates/few-hours-left-final-tips-useful-links
 	- [[schedule]] https://docs.google.com/spreadsheets/d/1rtpaUb_MMpPXy2Ko-Xjt65fu1CvzuQ6hlkFY0jUe5wA/edit#gid=0
