@@ -23,9 +23,10 @@
 		- take the ML space: [[transformer]] happened and it took over a chunk of the space.
 		- you get a dimension of understanding when adding the time dimension to your analysis of a space
 	- [[mutable entries]] vs [[immutable entries]]
-		- if you 
-		- you can *just* add immutable items
-		- this is very much like the motivation for [[push]] in the [[agora]]
+		- if you keep editing mutable entries you need to first search/retrieve/manage changes
+		- instead you could *just* add immutable items
+		- this is very much like the motivation for [[push]] in the [[agora]], or at least goes very well with it
+	- [[contextual retrievaljjj]]
 		
 ![[Pasted image 20210725190339.png]]
 ![[Pasted image 20210725191304.png]]
