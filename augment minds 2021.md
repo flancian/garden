@@ -1,1 +1,5 @@
-- [[go]] https://opencollective.com/augment-minds-7d13842a
+- an [[unconference]]
+	- [[go]] https://opencollective.com/augment-minds-7d13842a
+	- notes by participants can be pulled here.
+	- [[kick off]]
+		- [[paul bric]]
