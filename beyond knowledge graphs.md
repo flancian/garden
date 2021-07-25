@@ -13,7 +13,9 @@
 	- what if we didn't even add titles to our notes (blocks)? perhaps the content itself is the best addressing mechanism
 		- embed each document semantically, then work within a radius
 			- (very agora like!)
-	- 
+	- [[static linking]] vs [[dynamic linking]] (perhaps a bit of a stretch)
+		- static linking: you use [[wikilinks]] in a tool like [[roam]] to link out to particular notes
+		- dynamic linking: 
 		
 	![[Pasted image 20210725190339.png]]
 	![[Pasted image 20210725191304.png]]
