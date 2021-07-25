@@ -1,3 +1,5 @@
 - an [[app]]
-	- [[linux]]
+	- [[linus lee]]
 	- reminded me of [[promnesia]] when I learnt of it
+	- [[git]] https://github.com/thesephist/monocle
+	- [[go]] [[git]]

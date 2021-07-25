@@ -13,4 +13,3 @@
 		- [[adam wiggins]] on [[muse]]
 		- [[jungwon]] on [[elicit]]
 		- [[linus lee]] on [[thesephist]]
-			- building
