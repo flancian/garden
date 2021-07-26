@@ -1,0 +1,1 @@
+- [[go]] https://www.coolmathgames.com/0-worlds-hardest-game
