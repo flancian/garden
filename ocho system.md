@@ -1,1 +1,4 @@
-- https://www.instagram.com/ochosystem/
+- a [[person]]
+	- [[pull]] [[joe holder]]
+	- [[go]] https://www.instagram.com/ochosystem/
+	- [[instagram]] https://www.instagram.com/ochosystem/
