@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[pull]] [[ocho system]]
+	- [[medium]] https://joeholder.medium.com/what-is-the-ocho-system-anyway-by-joe-holder-95c155df4979
