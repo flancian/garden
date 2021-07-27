@@ -1,1 +1,1 @@
-- [[go]] https://www.instagram.com/ochosystem/
+- [[pull]] [[ocho system]]
