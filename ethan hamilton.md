@@ -1,0 +1,4 @@
+- a [[person]]
+	- [[pull]] [[ethanshamilton]]
+	- [[underrated]] 
+	- [[potato optimal]] https://twitter.com/ethanshamilton/status/1420447850941587457
