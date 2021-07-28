@@ -1,4 +1,4 @@
 - a [[thing]]
 	- [[go]] https://therooster.com/blog/cannabis-and-coffee-hippie-speedball-has-been-perfected
-	- [[cannabis]] [[]]
+	- [[cannabis]] [[caffeine]]
 	- [[poly drug]] [[synergy]]
