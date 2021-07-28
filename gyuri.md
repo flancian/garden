@@ -1,1 +1,1 @@
-- [[pull]] [[g]]
+- [[pull]] [[gyuri lajos]]
