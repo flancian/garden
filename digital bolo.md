@@ -1,2 +1,1 @@
-- [[pull]] [[digital]] [[bolo]]
-- 
+- [[pull]] [[digital]] [[bolo]] [[digital bolos]]
