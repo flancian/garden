@@ -1,7 +1,7 @@
 - a [[protocol]]
 	- [[messaging]] [[jabber]] [[gtalk]]
 	- [[phryk]]
-		- https://social.coop/web/statuses/106657559981579340
+		- https://mastodon.social/@phryk/106657559906866441
 		- https://social.coop/web/statuses/106657561819979729
 		- https://social.coop/web/statuses/106657589248955588
 		- https://social.coop/web/statuses/106657611506398805
