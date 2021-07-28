@@ -1,4 +1,5 @@
 - a [[tool]]
 	- [[org mode]] to [[markdown]] converter
 	- by [[neil]]
-	- the current best way to publish [[org mode]] to the [[agora]
+	- the current best way to publish [[org mode]] to the [[agora]]; generates intermediate [[markdown]]
+	- see also [[publish-agora.el]]
