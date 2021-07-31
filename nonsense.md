@@ -1,0 +1,3 @@
+- a [[quality]]
+	- [[go]] https://en.wikipedia.org/wiki/Nonsense
+		- perhaps also a [[tradition]].
