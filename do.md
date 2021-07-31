@@ -9,21 +9,31 @@
 	- [[moa]]
 		- [ ] review [[go/moa/bugs]]
 	- [[agora]]
-		- [ ] implement [[auto push]]
 		- [ ] add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
 			- [x] doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
 				- done! just replaced the stoa with a pull button always for now.
+		- [ ] implement [[auto pull]]
+		- [ ] implement [[auto push]]
 		- [ ] client side pulling
+			- done for: mastodon, twitter
+			- need to add [[wikipedia]]
+		- [[agora bot]]
+			- [ ] fix twitter so it doesn't keep re-replying
+  			- the API doesn't feel great, I wonder if I'm missing something
+			- [ ] refactor mastodon<->twitter so they share code? I don't want to implement everything twice, and I certainly don't want the mastodon version to suffer because I'm addicted to twitter (great people there as well, and there are more of them)
 		- improve [[agora graphs]]
-			- what does this *mean*?
 			- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
+			- could get inspiration from some diagrams in [[a rosetta stone]]
 		- [[wikilinks everywhere]] -> [[agora ext]]
 			- I really want to move wikilinking to on-demand (push button/ctrl-shift-l) or cronjob-like behaviour but right now it just wikilinks everything every time you click, and some sites break
 				- this is already better after a quick PR to linkify on *click* instead of mouse movement
 				- twitter still sort of breaks though
+				- [[vera]] is on this though
 	- [[agora social media integration]]
-		- write [[agora bot]] for [[mastodon]]
-		- test [[vera]]'s code for pulling tweets and toots
+		- [x] write [[agora bot]] for [[mastodon]]
+		- [ ] test [[vera]]'s code for pulling tweets and toots
+			- [ ] only pulled *some* for some reason
+			- [ ] figure out what's up, try again and get the context back
 		- depends on [[agora bridge api]]
 	- [[agora bridge api]]
 		- I'll probably add a [[flask]] based api to [[agora bridge]] to:
