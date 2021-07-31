@@ -23,16 +23,16 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyCharacter": "NONE",
-    "vim.handleKeys": {
-      "[": false,
-      "]": false,
-    }
-    "[markdown]": {
-        "editor.tabSize": 2
-    },
-    "editor.quickSuggestions": {
-        "other": true,
-        "comments": true,
-        "strings": true
-    }
+  "vim.handleKeys": {
+    "[": false,
+    "]": false
+  },
+  "[markdown]": {
+      "editor.tabSize": 2
+  },
+  "editor.quickSuggestions": {
+      "other": true,
+      "comments": true,
+      "strings": true
+  }
 }
