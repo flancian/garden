@@ -35,57 +35,64 @@
 			- [ ] only pulled *some* for some reason
 			- [ ] figure out what's up, try again and get the context back
 		- depends on [[agora bridge api]]
+			- could be flask, included in [[agora bridge]] repo, copy/paste from [[agora server]] to begin with?
+			- one risk is them actually needing to share more than I expect
+			- but hopefully they can just communicate through yaml? or perhaps set up and write to sqlite to begin with
+			- thought of consolidating everything into [[agora server]], but it feels cleaner to have writers and readers split. should scale better; if the write path goes down, the agora keeps serving just fine without having to do anything special.
+  			- probably keeps it simple to run a read only agora (mirror).
 	- [[agora bridge api]]
 		- I'll probably add a [[flask]] based api to [[agora bridge]] to:
 			- request new git integrations (e.g. mount git repo X in path Y)
 			- accept other inputs? like perhaps subnodes, which could go into a managed repo.
+			- configure sources from social media (from agora bot)
 	- [[write]]
-		- [[after the pandemic]], or [[an open letter to an open nation]]
+    - [[patterns]]
+		- [[after the pandemic]], or [[an open letter to the agora]]
 		- [[on cringe]] / [[agora polls]]
 			- about explicit rational (mathematical) modelling of group dynamics through social media discourse
 			- is [[hack the planet]] cringe? should it be?
+			- why is it cringe to talk about virtue?
 	- [[read]] 
 		- what [[will walker]] told me about
 			- link it here
-		- [[reading protopoi]]
 	- run [[weekly review]]
-		- I'm doing it now
-- [[push]] [[agora actions]]
-	- do is an [[action]]
-		- I try to automate recurrent [[actions]] in the [[agora]].
-		- This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
-		- [[daily]], I try to check for pending [[work]] in all known sources of truth.
-		- check the context in more specific actions and push relevant items here or to [[next action]]:
-		- what should I [[read]] next
-		- [[write]]
-			- [[flancia]]
-				- [[book]]
-				- [[an open letter for an open society]]
-			- to [[a. p.]] asking for a recommendation
-		- [[unblock]] people who are waiting for me
-	- [[research]]
-		- [[ipfs]]
-		- [[ipld]]
-		- [[fission]]
-		- [[hypercore-proto]]
-		- [[launchlet]]
-		- [[urbit]]
-			- [[rosano]]
-		- [[support]]
-			- [[effective altruism]]
-			- [[flancia collective]]
-			- [[open source]]
-			- [[friends]]
-			- [[public utility]]
-		- [[code]]
-			- [[agora server]]
-				- add particles to [[agora search]]
-					- particles again.
-			- [[wikilinks everywhere]] / [[agora ext]]
-				- could [[d3]] replace [[jquery]]? it would make it easy to also include a graph tool directly in the library. it's 200kb though.
-					- ask [[vera]]
-			- a more flexible [[actions]] system
-- Please tell me what you think I should do next below or via any of the channels listed in [[flancian]]. All feedback is welcome!
+		- I'm doing it now... still :) it turns out I come to this node weekly at best, so this *is* my weekly. I'd love to make it daily though. perhaps I could auto-pull [[do]] from the journal page? just the subnode for the 'active' user.
+- an [[agora action]]
+	- I try to automate recurrent [[actions]] in the [[agora]].
+	- This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
+	- [[daily]], I try to check for pending [[work]] in all known sources of truth.
+	- check the context in more specific actions and push relevant items here or to [[next action]]:
+	- what should I [[read]] next
+	- [[write]]
+		- [[flancia]]
+			- [[book]]
+			- [[an open letter for an open society]]
+		- to [[a. p.]] asking for a recommendation
+	- [[unblock]] people who are waiting for me
+- [[research]]
+	- [[ipfs]]
+	- [[ipld]]
+	- [[fission]]
+	- [[hypercore-proto]]
+	- [[launchlet]]
+	- [[urbit]]
+		- [[rosano]]
+	- [[support]]
+		- [[effective altruism]]
+		- [[flancia collective]]
+		- [[open source]]
+		- [[friends]]
+		- [[public utility]]
+	- [[code]]
+		- [[agora server]]
+			- add particles to [[agora search]]
+				- particles again.
+		- [[wikilinks everywhere]] / [[agora ext]]
+			- could [[d3]] replace [[jquery]]? it would make it easy to also include a graph tool directly in the library. it's 200kb though.
+				- ask [[vera]]
+		- a more flexible [[actions]] system
+- a place for [[feedback]]
+	- Please tell me what you think I should do next below or via any of the channels listed in [[flancian]]. All feedback is welcome!
 - [[push]] [[done]]
 	- implement [[ack]]
 	- [[agora yaml]]
