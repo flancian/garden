@@ -6,10 +6,11 @@
   - Some changes to [[keybindings.json]] in your global (user scope) ```.config/Code/User/``` directory so that you can use shortcuts such as ```ctrl-alt-s``` (save all changes locally) and ```ctrl-shift-a) (push changes to the [[agora]]).
   - Optional additional [[git config]] to make submitting to your git hosted digital garden (and transitively to the [[agora]]) easier/less work.
     - In particular, a [[commit template]] so that you don't need to write a change description every time you want to push to the [[agora]].
-- [[push]] [[settings.json]]: a [[file]]
+- [[push]] [[settings.json]]: `.vscode/settings` in your garden
 ```
 "foam.openDailyNote.directory": "journal",
 "vscodeMarkdownNotes.newNoteDirectory": "WORKSPACE_ROOT",
+"vscodeMarkdownNotes.slugifyCharacter": "NONE",
 ```
 
 - [[push]] [[commit-template]]: a [[file]]
