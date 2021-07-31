@@ -1,3 +1,3 @@
 - a [[list]].
 	- [[go]] https://funds.effectivealtruism.org/
-		- [[pull]] [[global health and development fund]] [[animal welware fund]] [[long term future fund]] [[effective altruism infrastruc]]
+		- [[pull]] [[global health and development fund]] [[animal welware fund]] [[long term future fund]] [[effective altruism infrastructure fund]]
