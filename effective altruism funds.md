@@ -1,0 +1,3 @@
+- a [[list]].
+	- [[pull]] [[effective altruism fund]]
+	- [[global health and development fund]]
