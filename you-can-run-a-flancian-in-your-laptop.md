@@ -6,6 +6,7 @@
   - git repositories with code and data I use
   - VMs
   - window manager state, including which programs I'm running and (pending program support) which content it's loaded in them
-  - currently also include browser tabs.
+    - currently including browser tabs.
+  - state at different levels can be restored optionally
 - [[pull]] [[project snapshot]]
 
