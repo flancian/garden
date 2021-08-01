@@ -61,6 +61,7 @@
     - classic project by [[alejandro aravena]]: https://www.archdaily.com/797779/half-a-house-builds-a-whole-community-elementals-controversial-social-housing 
     - it's hard to know the needs of the future, so he built half a house and left the other half up to the user
     - [[japanese]] architecture doesn't value longevity the same way
+- [[requirements elicitation]]
 
  ## [[2021-07-11]]
  - [[armengol]] [[lorand]] [[simon]] [[flancian]]
