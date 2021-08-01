@@ -12,6 +12,8 @@
 		- [[current]]
 			- replies to @mentions if the tweet/toot contains [[wikilinks]] with links to anagora.org
 			- follows back
-		- [[planned]]
-			- reply to @mentions with resolved wikilinks for whole threads
-- https://twitter.com/flancian/status/1415398630731681793
+	- a [[project]]
+		- [x] use the convention
+		- [x] reply to @mentions 
+		- reply to @mentions with resolved wikilinks for whole threads
+		- https://twitter.com/flancian/status/1415398630731681793
