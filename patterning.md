@@ -58,7 +58,7 @@
     - buildings that are built with a very specific use, e.g. a fashion center when the fashion industry is moving away
     - hard to adapt office to residential and residential to office
   - are there any projects that are designed to have a short timespan, or need continuous updating?
-    - classic project by [[]]
+    - classic project by [[alejandro aravena]]: https://www.archdaily.com/797779/half-a-house-builds-a-whole-community-elementals-controversial-social-housing 
     - it's hard to know the needs of the future, so he built half a house and left the other half up to the user
     - [[japanese]] architecture doesn't value longevity the same way
 
