@@ -15,6 +15,7 @@
   },
   "foam.edit.linkReferenceDefinitions": "off",
   "foam.openDailyNote.directory": "journal",
+  "vscodeMarkdownNotes.newNoteDirectory": "WORKSPACE_ROOT",
   "foam.openDailyNote.titleFormat": "yyyy-mm-dd",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
