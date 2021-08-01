@@ -62,6 +62,9 @@
     - it's hard to know the needs of the future, so he built half a house and left the other half up to the user
     - [[japanese]] architecture doesn't value longevity the same way
 - [[requirements elicitation]]
+- Q: would patterns of pattern connectivity be interesting?
+  - seems like something to keep in mind but it would quickly get too abstract?
+  - [[simon]] reminds me of the diagrams at the end of [[notsof]]
 
  ## [[2021-07-11]]
  - [[armengol]] [[lorand]] [[simon]] [[flancian]]
