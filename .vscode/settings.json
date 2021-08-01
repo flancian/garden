@@ -3,9 +3,6 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "[markdown]": {
-    "editor.quickSuggestions": true
-  },
   "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true
@@ -17,6 +14,7 @@
   "foam.openDailyNote.directory": "journal",
   "vscodeMarkdownNotes.newNoteDirectory": "WORKSPACE_ROOT",
   "foam.openDailyNote.titleFormat": "yyyy-mm-dd",
+  "vscodeMarkdownNotes.newNoteDirectory": "WORKSPACE_ROOT",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
@@ -25,17 +23,17 @@
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "NONE",
-    "vim.handleKeys": {
-      "[": false,
-      "]": false,
-    }
-    "[markdown]": {
-        "editor.tabSize": 2
-    },
-    "editor.quickSuggestions": {
-        "other": true,
-        "comments": true,
-        "strings": true
-    }
+  "vscodeMarkdownNotes.slugifyCharacter": "NONE",
+  "vim.handleKeys": {
+    "[": false,
+    "]": false
+  },
+  "[markdown]": {
+      "editor.tabSize": 2
+  },
+  "editor.quickSuggestions": {
+      "other": true,
+      "comments": true,
+      "strings": true
+  }
 }
