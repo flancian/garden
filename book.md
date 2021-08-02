@@ -32,3 +32,7 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 Please consider this an offering to the [[people]].
 
 Have a nice day! I hope you [[thrive]].
+
+# Towards Flancia
+
+- [[tweets]]
