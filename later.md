@@ -19,6 +19,9 @@
 			- auto pull makes 'or' behaviour of search trivially implementable
 			- auto pulls are [[action code]] that implements a [[morphism]]
 			- any search policy/ranking can be expressed as a composition of morphisms
+	- see if there's a way to color/annotate panes in [[vscode]]
+		- could aid mnemonically
+		- [[matrix]] view, does it exist?
 - [[done]] 
   - [[listen]] audio messages
 		- [[jonathan]]
