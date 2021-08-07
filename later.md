@@ -23,6 +23,8 @@
 		- see if there's a way to color/annotate panes in [[vscode]]
 		- could aid mnemonically
 		- [[matrix]] view, does it exist?
+	- [[push]] [[project snapshot]]
+		- [[clipboard sync]]
 - [[done]] 
   - [[listen]] audio messages
 		- [[jonathan]]
