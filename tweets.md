@@ -41,3 +41,7 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 
 - I sort of was hoping for [[wayland]] to be in [[rust]], but it's [[c]]: https://github.com/wayland-project/wayland/tree/main/src.
     - there's https://github.com/Smithay/wayland-rs though
+
+- I think I need to learn [[oauth]].
+
+- I think I need to do [[agora bridge api]] in [[node]]/[[typescript]].
