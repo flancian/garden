@@ -19,10 +19,11 @@
 			- auto pull makes 'or' behaviour of search trivially implementable
 			- auto pulls are [[action code]] that implements a [[morphism]]
 			- any search policy/ranking can be expressed as a composition of morphisms
-- [[listen]] audio messages
-	- [[jonathan]]
-	- [[friends]]
-	- [[family]]
+- [[done]] 
+  - [[listen]] audio messages
+		- [[jonathan]]
+		- [[friends]]
+		- [[family]]
 		
 
 
