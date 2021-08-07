@@ -26,3 +26,7 @@ One incantation to enter the Agora is: sudo su - agora
 Me parece que encontré la forma de simularme a mí mismo, al menos cuando estoy frente a una computadora.
 
 I think I might have found the way to simulate myself, at least while I'm sitting in front of a computer.
+
+- I'm writing a command I've named [[become]].
+  - `become thecla [[agora bot]]`, you'll be able to say, and it'll teleport you into the [[agora bot]] development environment in host [[thecla]].
+  - `become $HOST` connects to the host in question with your preferred method (ssh, mosh) and attaches to tmux/screen or creates a new session if needed.
