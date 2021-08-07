@@ -34,3 +34,7 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 - If in doubt, go to [[zero]].
   - In many contexts at first it feels like it's out of bounds. In those, what does it mean?
   - I think of it as starting over, now with improved awareness.
+
+- I'd like to [[keylog]] myself.
+  - Perhaps [[screenlog]], if that's a thing.
+    - [[record]] [[project snapshot]]

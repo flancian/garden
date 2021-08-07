@@ -26,7 +26,8 @@
 		- [[matrix]] view, does it exist?
 	- [[push]] [[project snapshot]]
 		- [[clipboard sync]]
-	- [[tweet]]
+	- [[tweets]]
+	- [[wayland]]
 - [[done]] 
   - [[listen]] audio messages
 		- [[jonathan]]
