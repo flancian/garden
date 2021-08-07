@@ -38,3 +38,4 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 - I'd like to [[keylog]] myself.
   - Perhaps [[screenlog]], if that's a thing.
     - [[record]] [[project snapshot]]
+
