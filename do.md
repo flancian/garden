@@ -1,14 +1,21 @@
-- an [[intent]]
-	- [[pull]] [[intents]] [[later]] [[todo]] [[pomodoro]]
-	- [[probing]]
+- a [[list]].
+	- [[irregular]].
+		- could be [[todos]]
+  - actions for which I want to express an [[intent]].
+		- [[pull]] [[ought]]
+		- [[pull]] [[intent]] [[later]] [[todo]] [[now]] [[next]] [[some day]] 
+		- [[pull]] [[flancia]] [[agora]]
+		- [[meditate]] now.
+	- do [[pomodoros]]
+	- configure [[probing]]
 		- I never get to this, can you tell it reminds me of work? :)
 		- I need to just set a pomodoro and do this, but I feel like running the agora at low slo is OK. It's supposed to rely on distribution later on for reliability gains.
 		- Doesn't really apply as an argument to [[moa]] though -- although for [[moa]] we have [[sentry]] set up so that seems reasonable.
 			- [ ] set up [[probing]] for [[moa]]
 			- [ ] set up [[probing]] for [[anagora]]
-	- [[moa]]
+	- [[push]] [[moa]]
 		- [ ] review [[go/moa/bugs]]
-	- [[agora]]
+	- [[push]] [[agora]]
 		- [ ] add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
 			- [x] doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
 				- done! just replaced the stoa with a pull button always for now.
@@ -29,12 +36,19 @@
 				- this is already better after a quick PR to linkify on *click* instead of mouse movement
 				- twitter still sort of breaks though
 				- [[vera]] is on this though
-	- [[agora social media integration]]
-		- [x] write [[agora bot]] for [[mastodon]]
-		- [ ] test [[vera]]'s code for pulling tweets and toots
-			- [ ] only pulled *some* for some reason
-			- [ ] figure out what's up, try again and get the context back
-		- depends on [[agora bridge api]]
+	- [[push]] [[agora interlace]]
+		- [[agora social media integration]]
+			- [x] write [[agora bot]] for [[mastodon]]
+			- [ ] write [[agora bot]] for [[twitter]]
+				- [ ] fix auth
+					- [ ] restore context
+						- [[next action]]
+				- [ ] fix deduping 
+			- [ ] test [[vera]]'s code for pulling tweets and toots
+				- [ ] only pulled *some* for some reason
+				- [ ] figure out what's up, try again and get the context back
+		- depends on [[agora bridge api]] for the storing posts in the agora.
+			- we want to create a git repository for each calling users, which the users could then [[claim]].
 			- could be flask, included in [[agora bridge]] repo, copy/paste from [[agora server]] to begin with?
 			- one risk is them actually needing to share more than I expect
 			- but hopefully they can just communicate through yaml? or perhaps set up and write to sqlite to begin with
