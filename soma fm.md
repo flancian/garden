@@ -1,8 +1,11 @@
 # Soma.fm
 
-- One of my favourite [[online radio]]s.
-- [[go]] somafm.com
-- My favourite stations:
-  - [[defcon radio]]
+- a [[radio]]
+  - [[online radio]]
+  - [[go]] somafm.com
+  - with many [[stations]]
+    - [[defcon radio]]
+    - [[groove salad]]
+    - [[deep space one]]
 
 
