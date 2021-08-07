@@ -1,6 +1,7 @@
 # later
 
-- [[push]] [[do]]
+- a [[list]].
+	- [[irregular]]
   - Thoughts that come up while I was doing [[pomodoro]].
     - Write about [[excursion]].
 		- [[onkyo volume]]
