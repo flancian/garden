@@ -39,3 +39,5 @@ I think I might have found the way to simulate myself, at least while I'm sittin
   - Perhaps [[screenlog]], if that's a thing.
     - [[record]] [[project snapshot]]
 
+- I sort of was hoping for [[wayland]] to be in [[rust]], but it's [[c]]: https://github.com/wayland-project/wayland/tree/main/src.
+    - there's https://github.com/Smithay/wayland-rs though
