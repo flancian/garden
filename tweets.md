@@ -45,3 +45,5 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 - I think I need to learn [[oauth]].
 
 - I think I need to do [[agora bridge api]] in [[node]]/[[typescript]].
+
+- Added backoff to agora bot, improved loggin
