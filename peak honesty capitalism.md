@@ -1,4 +1,4 @@
 # peak honesty capitalism
 
-- https://twitter.com/nasgyc/status/1423145703887474691
+- [[bairn ashtrit]] https://twitter.com/nasgyc/status/1423145703887474691
 
