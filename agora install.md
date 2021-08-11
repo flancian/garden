@@ -12,7 +12,11 @@ As of the time of writing the [[Agora]] consists of three distinct repositories:
 - The [[agora server]], which is designed as a [[read interface]] to the [[agora]] and which you are likely browsing these instructions in (unless you're reading them on [[github]]).
 - The [[agora bridge]], which is designed as a [[write interface]] to the [[agora]], tasked with maintaining the Agora's configuration and running fetch/update tasks.
 
-You need to set up *all three* to run a fully functioning Agora, but you only need to set up the first two to run a read only mirror.
+You need to set up *all three* to run a fully functioning Agora, but you only need to set up the first two to run a read only mirror:
+
+```
+git clone
+```
 
 The following instructions assume you run all services under the same user in a Unix-like system (anagora.org runs on Debian GNU/Linux). We suggest `agora`:
 
