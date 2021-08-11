@@ -1,5 +1,9 @@
 # Agora Editor
 
+- To contribute to the [[Agora]], you need to write down notes or posts in one of the [[supported formats]] and upload your notes to a ***git repository*** of your choice. These steps are expanded below.
+  - Get a [[github]] account if you don't have a git host already: <https://github.com>.
+    - Install [[git]] if needed: <https://git-scm.com/download>. It should be installed by default in [[linux]], comes bundled with [[mac os]].
+  - See [[agora signup]] for more details on the process.
 - In a nutshell: you need to host your notes (more generally, [[resources]], defaulting to [[markdown]] plus [[wikilinks]]), somewhere online. And then let the [[agora]] know about it.
 	- The Agora doesn't host your data, but rather pulls it from a location *you* control and renders it for you and other users; in the process interlinking your data with that of other users.
 	- Most users currently host [[git]] repositories on https://github.com or https://gitlab.com. 
