@@ -1,8 +1,11 @@
 # Fediverse.party
 
 - a [[map]]
-  - [[lightone]] https://social.coop/web/statuses/106581097292734631
+  - of the [[fediverse]]
   - [[go]] https://fediverse.party
-  - [[push]] [[fediverse]]
+  - [[git]] https://git.feneas.org/feneas/fediverse/
+  - [[wiki]] https://git.feneas.org/feneas/fediverse/-/wikis/home
+  - [[lightone]] https://social.coop/web/statuses/106581097292734631
+  - [[map of the internet]]
 
 
