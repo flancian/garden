@@ -46,4 +46,10 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 
 - I think I need to do [[agora bridge api]] in [[node]]/[[typescript]].
 
-- Added backoff to agora bot, improved loggin
+- Added backoff to agora bot, improved logging.
+
+- [[flow]]
+
+- On my Lenovo laptop when you hold the middle trackpad button you can scroll using the trackpoint. TIL.
+
+- Lady Burup fixed my trackpad by walking over my laptop and shutting it down (hard). I had tried rebooting earlier and that hadn't worked, a full power down was needed somehow (unsure why I didn't think of this, but I didn't have to thanks to Lady Burup).
