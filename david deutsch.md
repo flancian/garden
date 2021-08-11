@@ -2,7 +2,6 @@
 
 - a [[person]]
   - [[physicist]] [[writer]] [[quantum computation]]
-  - [[wp]] https://en.wikipedia.org/wiki/David_Deutsch
-    - [[go]] [[wp]]
+  - [[pull]] https://en.wikipedia.org/wiki/David_Deutsch
   - [[wrote]] [[the beginning of infinity]]
     - [[loved]] it
