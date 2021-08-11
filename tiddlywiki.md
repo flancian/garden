@@ -1,7 +1,8 @@
 # tiddlywiki
 
 - a [[wiki]]
-  - one of the OGs of the [[tools for thought]] space.
+  - [[single file]]
+  - one of the OGs in the [[tools for thought]] space.
   - by [[jeremy ruston]]
   - [[go]] https://tiddlywiki.com
 
