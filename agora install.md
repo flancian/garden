@@ -65,7 +65,7 @@ You need to create a Python virtual environment, install packages from `requirem
 
 You need to create a Python virtual environment, install packages from `requirements.txt`, then run `./run-prod.sh` either on a shell or as a [[systemd service]]. This will pull from all sources in the root repository's `gardens.yaml` in a loop.
 
-You can also optionally run a number of bots that will interact with people in supported platforms. See the `bots` directory and https://github.com/flancian/agora-bridge for more.
+You can also optionally run a number of bots that will interact with people in supported platforms. See the `bots` directory and https://github.com/flancian/agora-bridge#install for more.
 
 ## And now?
 

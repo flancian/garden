@@ -12,4 +12,7 @@ You'll need these three repos:
 - [[agora server]]
 - [[agora bridge]]
 
+Read on for more:
+
+- [[pull]] [[agora install]]
 
