@@ -34,11 +34,22 @@ You need to clone *all three* to run a fully functioning Agora. Because the firs
 
 ### Agora
 
-- `gardens.yaml` contains the list of sources.
+- `gardens.yaml` contains the list of sources for this Agora.
+  - may be renamed `sources.yaml`
+  - (if the agora is a filesystem, this is the [[fstab]])
+  - [[gardens yaml]]
 
+### [[Agora Server]]
+- [[python]] backend, [[flask]] based.
+- [[typescript]] frontend, no framework for now.
 
-### Agora Server
-### Agora Server
+### Agora Bridge
+- [[python]] 
+  - [[gardens py]]
+- [[yaml]]
+  - [[gardens yaml]]
+  - [[agora bot yaml]]
+- [[typescript]]
 
 ## And now?
 
