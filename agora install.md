@@ -38,11 +38,17 @@ You need to clone *all three* to run a fully functioning Agora. Because the firs
   - may be renamed `sources.yaml`
   - (if the agora is a filesystem, this is the [[fstab]])
   - [[gardens yaml]]
+- `CONTRACT.md` contains the Agora system account's public commitment to the ecosystem.
+
+You need to edit `gardens.yaml` if you want to carry a different set of sources. The Agora comes with defaults.
+
+If you edit the [[CONTRACT]], your Agora might become incompatible with the Agora you forked from. Conflict resolution is part of [[agora protocol]] but currently not specified.
 
 ### [[Agora Server]]
 - [[python]] backend, [[flask]] based.
 - [[typescript]] frontend, no framework for now.
 
+First you X, then you Y, then you add a [[systemd service]].
 ### Agora Bridge
 - [[python]] 
   - [[gardens py]]
@@ -50,6 +56,8 @@ You need to clone *all three* to run a fully functioning Agora. Because the firs
   - [[gardens yaml]]
   - [[agora bot yaml]]
 - [[typescript]]
+
+First you X, then you Y, then you add a [[systemd service]].
 
 ## And now?
 
