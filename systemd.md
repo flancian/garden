@@ -5,3 +5,7 @@
 - Scripts go in .config/systemd/user/, add an example.service file and then: 
   - systemctl --user enable example
   - systemctl --user start example
+- If you get any bus errors, you may need to:
+  - `export XDG_RUNTIME_DIR=/run/user/\`id -u\``
+- Before you can run enable above, you may need to enable lingering for the user in question. As root:
+  - `loginctl enable-linger username`
