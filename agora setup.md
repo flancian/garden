@@ -8,11 +8,9 @@ The gist of it is: if you try to run an [[agora]] of your own and fail, please r
 
 You'll need these three repos:
 
-- [[agora]]
-- [[agora server]]
-- [[agora bridge]]
+- [[go/agora]]
+- [[go/agora-server]]
+- [[go/agora-bridge]]
 
-Read on for more:
-
-- [[pull]] [[agora install]]
+Read on for more: [[pull]] [[agora install]].
 
