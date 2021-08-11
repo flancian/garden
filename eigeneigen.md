@@ -1,5 +1,5 @@
 # eigeneigen
 
 - https://twitter.com/generativist/status/1425479797220601863
-  - [[pull]] [[eigen]] [[self own]]
+  - [[pull]] [[eigen]] [[eigen eigen]] [[self own]]
 
