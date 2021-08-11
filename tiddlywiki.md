@@ -7,4 +7,5 @@
   - [[go]] https://tiddlywiki.com
   - [[git]] https://github.com/Jermolene/TiddlyWiki5
     - > Welcome to TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation.
-
+    - [[gitter]] https://gitter.im/TiddlyWiki/public
+    - [[discord]] https://discord.gg/HFFZVQ8
