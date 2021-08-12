@@ -1,2 +1,5 @@
 - an [[open collective]]
-	- [[go]] https://opencollective.com/psionica
+	- "on a mission to [[augment thought]] for all"
+	- [[go]] https://psionica.org/
+	- [[collective]] https://opencollective.com/psionica
+	- [[project]] [[dual]]
