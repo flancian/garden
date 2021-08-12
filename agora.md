@@ -11,9 +11,9 @@
   - The [[agora]] is in the [[social media]]. 
 	- [[mastodon]] https://botsin.space/@agora 
 	- [[twitter]] https://twitter.com/an_agora
-
-- Agoras are spaces by communities with [[good intent]] expressing explicit [[goals]] and [[protocols]]. 
-	- This section, made up of items in a [[markdown]] list, is an example of [[agora protocol]]. The Agora protocol is a set of simple conventions on top of [[plain text]] or other [[supported formats]].
+- Agoras are spaces kept by communities with [[good intent]] while expressing explicit [[goals]] and open [[protocols]]. 
+	- This section, made up of items in a [[markdown]] list, is an example of an Agora protocol. 
+	- This [[agora protocol]] is a set of simple conventions on top of [[plain text]] or other [[supported formats]].
 - [[push]] [[agoras]] [[schelling point]]
 	- [[pull]] [[agora howto]] [[an agora]]
 - [[git]] https://github.com/flancian/agora
