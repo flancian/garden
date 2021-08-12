@@ -12,13 +12,13 @@
 	- [[mastodon]] https://botsin.space/@agora 
 	- [[twitter]] https://twitter.com/an_agora
 
-- This section works as an example of the optional [[agora protocol]], which can be seen as a set of simple conventions on top of [[plain text]] or other [[supported formats]].
-- [[pull]] [[agora howto]] [[an agora]]
-	- [[push]] [[agoras]] [[schelling point]]
-	- [[git]] https://github.com/flancian/agora
-		- [[go]] [[git]]
+- Agoras are spaces by communities with [[good intent]] expressing explicit [[goals]] and [[protocols]]. 
+	- This section, made up of items in a [[markdown]] list, is an example of [[agora protocol]]. The Agora protocol is a set of simple conventions on top of [[plain text]] or other [[supported formats]].
+- [[push]] [[agoras]] [[schelling point]]
+	- [[pull]] [[agora howto]] [[an agora]]
+- [[git]] https://github.com/flancian/agora
+	- [[go]] [[git]]
 	- [[server]] https://github.com/flancian/agora-server
 	- [[bridge]] https://github.com/flancian/agora-bridge
 	- [[bugs]] https://github.com/flancian/agora/issues
 	- [[bug]] https://github.com/flancian/agora/issues/new
-	- [[push]] [[schelling points]]
