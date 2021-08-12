@@ -53,3 +53,7 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 - On my Lenovo laptop when you hold the middle trackpad button you can scroll using the trackpoint. TIL.
 
 - Lady Burup fixed my trackpad by walking over my laptop and shutting it down (hard). I had tried rebooting earlier and that hadn't worked, a full power down was needed somehow (unsure why I didn't think of this, but I didn't have to thanks to Lady Burup).
+
+- There is a word for an entity that embeds itself in another, takes energy or information and doesn't give back in kind.  It's also a hit 2019 movie.
+
+- 
