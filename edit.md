@@ -3,6 +3,8 @@
 - an [[action]]
   - I want to execute it at least [[weekly]].
   - [[push]] [[do]]
+    - open flancia.org in a designated tile now and start reading
+    - open [[book]] in a designated tile now and choose one section
 - a [[journal]]
   - that I try to keep while editing
   - see also [[pushes]] here
