@@ -50,9 +50,9 @@ If you edit the [[CONTRACT]], your Agora might become incompatible with the Agor
 
 If you installed in non-standard paths (i.e. your repos are not in `/home/<user>/<repo>`), edit `app/config.py`.
 
-You need to create a Python virtual environment, install packages from `requirements.txt`, then run the Agora either on a shell or as a [[systemd service]].
+You need to create a Python virtual environment, install packages from `requirements.txt`. run `./setup.sh` and it'll at least try to point you in the right direction :)
 
- You can `./run-dev.sh` (for development) or `./run-prod.sh` (if you want to serve to the outside world). If you do the latter, you may want to set up [[uwsgi]] in [[nginx]] and make it stick as a [[systemd service]] using `agora-server.service` as an example.  Please refer to https://github.com/flancian/agora-server#to-develop for details.
+ You can then `./run-dev.sh` (for development) or `./run-prod.sh` (if you want to serve to the outside world). If you do the latter, you may want to set up [[uwsgi]] in [[nginx]] and make it stick as a [[systemd service]] using `agora-server.service` as an example.  Please refer to https://github.com/flancian/agora-server#to-develop for details.
 
 ### Agora Bridge
 
@@ -62,8 +62,9 @@ You need to create a Python virtual environment, install packages from `requirem
   - [[gardens yaml]]
   - [[agora bot yaml]]
 - [[typescript]]
+You need to create a Python virtual environment, install packages from `requirements.txt`. run `./setup.sh` and it'll at least try to point you in the right direction :)
 
-You need to create a Python virtual environment, install packages from `requirements.txt`, then run `./run-prod.sh` either on a shell or as a [[systemd service]]. This will pull from all sources in the root repository's `gardens.yaml` in a loop.
+Then run `./run-prod.sh` either on a shell or as a [[systemd service]]. This will pull from all sources in the root repository's `gardens.yaml` in a loop.
 
 You can also optionally run a number of bots that will interact with people in supported platforms. See the `bots` directory and https://github.com/flancian/agora-bridge#install for more.
 
