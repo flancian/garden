@@ -2,7 +2,7 @@
 
 - a [[project]]
   - by [[brent]]
-    - by way of [[0x]]
+    - by way of [[x]]
 - [[go]] https://canonizer.com/
 
 
