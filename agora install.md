@@ -54,6 +54,16 @@ You need to create a Python virtual environment, install packages from `requirem
 
  You can then `./run-dev.sh` (for development) or `./run-prod.sh` (if you want to serve to the outside world). If you do the latter, you may want to set up [[uwsgi]] in [[nginx]] and make it stick as a [[systemd service]] using `agora-server.service` as an example.  Please refer to https://github.com/flancian/agora-server#to-develop for details.
 
+ You can add an nginx virtual host with [[certbot]]: `certbot --nginx -d example.anagora.org`. Then use the following as an example to forward traffic in that virtual host to Agora Server over UWSGI:
+
+```
+   location / {
+        include uwsgi_params;
+        # /home/agora/agora-server/run-prod.sh to run.
+        uwsgi_pass unix:/tmp/agora-uwsgi.sock;
+    }   
+```
+
 ### Agora Bridge
 
 - [[python]] 
