@@ -41,11 +41,13 @@
 		- [[clipboard sync]]
 	- [[tweets]]
 	- [[wayland]]
-- [[done]] 
+- [[push]] [[done]] 
   - [[listen]] audio messages
 		- [[jonathan]]
 		- [[friends]]
 		- [[family]]
+- push done should elide from source, clean up, collapse/zip 
+
 		
 
 

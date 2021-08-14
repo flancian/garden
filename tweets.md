@@ -56,4 +56,4 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 
 - There is a word for an entity that embeds itself in another, takes energy or information and doesn't give back in kind.  It's also a hit 2019 movie.
 
-- 
+- Whenever I find something, I ask myself: how can we use this to [[slay moloch]]?
