@@ -1,6 +1,6 @@
 # nginx caching
 
-- [[2021-08-14]]
+- [[push]] [[agora server]]
   - added this to nginx.conf in http scope:
 
 ```
@@ -8,7 +8,7 @@
   uwsgi_cache_path /tmp/agora-cache keys_zone=agora-cache:1000m;
 ```
 
-- [[2021-08-14]]
+- [[push]] [[agora server]]
   - and this is what the [[agora]]'s `location` looks like in the virtual host:
 
 ```
