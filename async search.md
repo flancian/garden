@@ -7,6 +7,7 @@
   - `ab -n 100 -c 10 https://1.anagora.org/index`
     - ~10 seconds overall, 50% ~0.6 seconds, 99% ~2 seconds
   - on localhost (dev instance) the 99% goes up to 50-60 seconds, there are clear hangs.
+  - [[before and after cache]]
 - testing after disabling full text search:
   - on localhost (dev instance) the 99% goes down to 3-6s (!). as expected, but nice to see.
 
