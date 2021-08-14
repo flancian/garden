@@ -3,8 +3,16 @@
 - a [[list]].
 	- [[irregular]]
   - Thoughts that come up while I was doing [[pomodoro]].
-    - Write about [[excursion]].
-		- [[onkyo volume]]
+	- [[slay moloch]]
+	- [[sorting pushes]]
+	- [[pull arbitrary urls]]
+		- pull wikipedia works
+	- [[write]] [[topology]]
+	- [[write]] [[on building bridges]]
+		- [[topology]]
+	- Write about [[excursion]].
+	- [[onkyo volume]]
+  	- ? meh
 	- Write about [[music mouse]].
     - Write a post about my [[virtual desktop setup]].
     - [[pull]] means [[uprank]]
