@@ -1,6 +1,7 @@
 # nginx caching
 
 - [[push]] [[agora server]]
+  - [[pull]] [[before and after cache]]
   - added this to nginx.conf in http scope:
 
 ```
