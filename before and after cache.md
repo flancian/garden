@@ -1,6 +1,6 @@
 # before and after cache
 
-- before [[cache]]
+- before [[cache]] as of [[2021-08-14]]:
 ```
 This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
@@ -49,7 +49,7 @@ Percentage of the requests served within a certain time (ms)
  100%   2497 (longest request)
 ```
 
-- after [[nginx caching]]
+- after adding [[nginx caching]] / [[uwsgi caching]]:
 ```
 flancian@paramita:/etc/nginx/sites-enabled$ ab -n 100 -c 10 https://1.anagora.org/index
 This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
@@ -99,7 +99,7 @@ Percentage of the requests served within a certain time (ms)
  100%    364 (longest request)
 ```
 
-- in [[thecla]], before and after for same config change, with [[async search]] already deployed 
+- in [[thecla]], before and after for same config change, with [[async search]] already deployed:
 
 ```
 flancian@paramita:/etc/nginx/sites-enabled$ ab -n 100 -c 10 https://anagora.org/index
