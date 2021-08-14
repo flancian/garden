@@ -3,8 +3,21 @@
 - a [[list]].
 	- [[irregular]]
   - Thoughts that come up while I was doing [[pomodoro]].
-    - Write about [[excursion]].
-		- [[onkyo volume]]
+	- [[slay moloch]]
+	- [[sorting pushes]]
+	- [[pull arbitrary urls]]
+		- pull wikipedia works
+  - fix duplicate [[go links]] behaviour
+	- [[write]] [[on building bridges]]
+		- [[write]] [[topology]]
+	- [[read]] [[category theory]]
+		- measures/metrics for 'distance to isomorphism'?
+		- e.g. measures of information loss in transforms
+		- seems to map to complexity of convergence in computation / difficulty to [[merge]]
+		- [[topology]]
+	- Write about [[excursion]].
+	- [[onkyo volume]]
+  	- ? meh
 	- Write about [[music mouse]].
     - Write a post about my [[virtual desktop setup]].
     - [[pull]] means [[uprank]]
@@ -28,11 +41,13 @@
 		- [[clipboard sync]]
 	- [[tweets]]
 	- [[wayland]]
-- [[done]] 
+- [[push]] [[done]] 
   - [[listen]] audio messages
 		- [[jonathan]]
 		- [[friends]]
 		- [[family]]
+- push done should elide from source, clean up, collapse/zip 
+
 		
 
 

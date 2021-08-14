@@ -56,4 +56,8 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 
 - There is a word for an entity that embeds itself in another, takes energy or information and doesn't give back in kind.  It's also a hit 2019 movie.
 
-- 
+- Whenever I find something, I ask myself: how can we use this to [[slay moloch]]?
+
+- on [[building]].
+  - I think we should [[build more bridges]].
+  - I think we should [[build pyramids]], but under one condition only: each unit block we add to them (Minecraft like) maps to a human being that died without having gotten the necessary living conditions to [[thrive]] in some region of the universe.

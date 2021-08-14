@@ -1,1 +1,11 @@
+- a [[technology]]
 - [[pull]] [[arcologies]]
+- [[wp]] https://en.wikipedia.org/wiki/Arcology
+	- [[go]] [[wp]]
+- ever since I played [[simcity 2000]] I have liked them.
+- [[solarpunk]]
+- [[cyberpunk]]
+- [[sci fi]]
+- [[paolo soleri]]
+- [[kenzo tange]]
+
