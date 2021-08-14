@@ -7,8 +7,13 @@
 	- [[sorting pushes]]
 	- [[pull arbitrary urls]]
 		- pull wikipedia works
-	- [[write]] [[topology]]
+  - fix duplicate [[go links]] behaviour
 	- [[write]] [[on building bridges]]
+		- [[write]] [[topology]]
+	- [[read]] [[category theory]]
+		- measures/metrics for 'distance to isomorphism'?
+		- e.g. measures of information loss in transforms
+		- seems to map to complexity of convergence in computation / difficulty to [[merge]]
 		- [[topology]]
 	- Write about [[excursion]].
 	- [[onkyo volume]]
