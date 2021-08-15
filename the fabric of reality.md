@@ -2,7 +2,7 @@
 
 - a [[book]]
   - by [[david deutsch]]
-  - [[wp]] https://en.wikipedia.org/The_Fabric_of_Reality
+  - [[wp]] https://en.wikipedia.org/wiki/The_Fabric_of_Reality
     - [[go]] [[wp]]
 
 
