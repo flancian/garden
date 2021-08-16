@@ -41,6 +41,7 @@
   - [[flancian]]
   - [[yarrow]]
     - [[radicle]] https://radicle.xyz
+      - [[decentralized git]]
     - 'symmathesized' content (symmathesy -- "together" , "to learn" --to learn together)
   - [[paul mullins]]
     - https://gitlab.com/dentropy/dentropydaemon-wiki
