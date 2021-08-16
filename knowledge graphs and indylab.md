@@ -20,4 +20,6 @@
     - building tools
       - exporter from social media to elastic search
       - keybase
+- [[asides]]
+  - do you know [[promnesia]]?
 
