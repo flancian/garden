@@ -60,3 +60,6 @@
     - This team needs a clear perception of the goal of the Hackathon, and this introduction must be clearly articulated so that people who are new to the project and the technology. Primary focus: What is IndieLab?
 - [[push]] [[ipfs]]
   - [[ipfs search]]
+- [[push]] [[paul mullins]]
+  - [[did]] -- could we define a did format for all note taking tools in this space using markdown/wiki-like?
+  - @dentropy:matrix.org
