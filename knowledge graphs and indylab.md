@@ -21,7 +21,13 @@
       - exporter from social media to elastic search
       - keybase
     - "I should be able to query the daemon for people I know instead of going on web search"
-- [[asides]]
-  - do you know [[promnesia]]?
-  - [[agora search]]
+  - [[robert best]]
+    - interested in this space since ~2012, come mostly from virtual online communities and how they can curate their knowledge and conversations
+    - open source project [[metamaps]]
+    - [[push]] [[metamaps]]
+      - [[go]] https://metamaps.cc
+- [[q]]
+  - for [[paul mullins]]:
+    - do you know [[promnesia]]?
+    - [[agora search]] is a simple take on the same 'search my friend's state' approach
 
