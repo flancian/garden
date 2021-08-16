@@ -55,3 +55,8 @@
 - [[indylab]]
   - no auth needed
   - [[ipfs]] [[orbitdb]] [[fission]]
+  - [[yarrow]]
+    - Action: Develop draft of Hackathon Introduction: https://github.com/IndyVerse/indylab/edit/main/README.md
+    - This team needs a clear perception of the goal of the Hackathon, and this introduction must be clearly articulated so that people who are new to the project and the technology. Primary focus: What is IndieLab?
+- [[push]] [[ipfs]]
+  - [[ipfs search]]
