@@ -31,6 +31,8 @@
     - recently involved with [[fedwiki]]!
   - [[gyuri lajos]]
     - would like to do for [[web3]] what [[ward cunninghman]] did for [[web2]]
+- [[yarrow]]
+  - progression from individual contributions to documents that represent the best of a community's thinking
 - [[q]]
   - for [[paul mullins]]:
     - do you know [[promnesia]]?
