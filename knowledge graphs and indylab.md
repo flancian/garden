@@ -20,6 +20,8 @@
     - building tools
       - exporter from social media to elastic search
       - keybase
+    - "I should be able to query the daemon for people I know instead of going on web search"
 - [[asides]]
   - do you know [[promnesia]]?
+  - [[agora search]]
 
