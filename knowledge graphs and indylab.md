@@ -42,3 +42,5 @@
   - for [[paul mullins]]:
     - do you know [[promnesia]]?
     - [[agora search]] is a simple take on the same 'search my friend's state' approach
+  - for everybody:
+    - [[meta]] how to use the tools we want to build to build them? :) or, that is, improve on them.
