@@ -14,9 +14,10 @@
     - interested in knowledge management
     - read [[homo deus]], was a trigger
     - why have we separated our consciousness in many platforms? can we replace platforms with protocols?
-    - https://wiki.dentropydaemon.io
-      - [[dendron]] based
-      - tried [[org mode]] too
+    - [[push]] [[dentropy daemon]]
+      - https://wiki.dentropydaemon.io
+        - [[dendron]] based
+        - tried [[org mode]] too
     - building tools
       - exporter from social media to elastic search
       - keybase
@@ -26,6 +27,8 @@
     - open source project [[metamaps]]
     - [[push]] [[metamaps]]
       - [[go]] https://metamaps.cc
+    - fractal/federated layer for communities
+    - recently involved with [[fedwiki]]!
 - [[q]]
   - for [[paul mullins]]:
     - do you know [[promnesia]]?
