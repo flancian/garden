@@ -4,5 +4,8 @@
 	- [[go]] https://hedgedoc.org 
 	- [[example]] https://demo.hedgedoc.org/p5-fOIzSS26BbR5AAN7XDw?both
 - a [[stoa]]
+	- https://docs.hedgedoc.org/setup/manual-setup/
 	- defaults to using UUIDs as urls for docs, but `allowFreeURL` replicates [[etherpad]] behaviour (entering a non-existent doc URL creates a doc with that alias)
+		- https://docs.hedgedoc.org/configuration/#users-and-privileges
+	- had to `yarn add babel-runtime` separately to make an error go away while installing
 
