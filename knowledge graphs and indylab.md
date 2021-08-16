@@ -39,8 +39,11 @@
       - [[contextualization]]
       - [[truth reconciliation]]
   - [[flancian]]
-  - [[paul mullins]]
+  - [[yarrow]]
     - [[radicle]] https://radicle.xyz
+    - 'symmathesized' content (symmathesy -- "together" , "to learn" --to learn together)
+  - [[paul mullins]]
+    - https://gitlab.com/dentropy/dentropydaemon-wiki
 - [[q]]
   - for [[paul mullins]]:
     - do you know [[promnesia]]?
