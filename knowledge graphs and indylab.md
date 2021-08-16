@@ -15,4 +15,6 @@
     - read [[homo deus]], was a trigger
     - why have we separated our consciousness in many platforms? can we replace platforms with protocols?
     - https://wiki.dentropydaemon.io
+      - [[dendron]] based
+      - tried [[org mode]] too
 
