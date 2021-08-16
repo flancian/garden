@@ -17,4 +17,7 @@
     - https://wiki.dentropydaemon.io
       - [[dendron]] based
       - tried [[org mode]] too
+    - building tools
+      - exporter from social media to elastic search
+      - keybase
 
