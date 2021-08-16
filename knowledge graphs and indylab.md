@@ -63,3 +63,6 @@
 - [[push]] [[paul mullins]]
   - [[did]] -- could we define a did format for all note taking tools in this space using markdown/wiki-like?
   - @dentropy:matrix.org
+  - @dentropy on keybase
+  - @dentropy on telegram
+  - note https://code.nsa.gov/skills-docs/
