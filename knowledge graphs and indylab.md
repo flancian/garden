@@ -38,9 +38,13 @@
       - enabling [[human dignity]]
       - [[contextualization]]
       - [[truth reconciliation]]
+  - [[flancian]]
+  - [[paul mullins]]
+    - [[radicle]] https://radicle.xyz
 - [[q]]
   - for [[paul mullins]]:
     - do you know [[promnesia]]?
+      - tried it, had to go with [[activitywatch]] instead for now
     - [[agora search]] is a simple take on the same 'search my friend's state' approach
   - for everybody:
     - [[meta]] how to use the tools we want to build to build them? :) or, that is, improve on them.
