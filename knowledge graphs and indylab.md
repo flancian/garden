@@ -29,8 +29,9 @@
       - [[go]] https://metamaps.cc
     - fractal/federated layer for communities
     - recently involved with [[fedwiki]]!
+  - [[gyuri lajos]]
+    - would like to do for [[web3]] what [[ward cunninghman]] did for [[web2]]
 - [[q]]
   - for [[paul mullins]]:
     - do you know [[promnesia]]?
     - [[agora search]] is a simple take on the same 'search my friend's state' approach
-
