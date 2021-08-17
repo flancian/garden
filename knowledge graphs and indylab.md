@@ -1,0 +1,68 @@
+# knowledge graphs and indylab
+
+- [[gyuri lajos]], [[yarrow]], [[robert best]], [[paul mullins]]
+- [[yarrow]]
+  - hackathon due date: next thursday
+  - [[indylab]] https://github.com/IndyVerse/indylab
+  - [[hackathon]] https://browsers3000.devpost.com/
+- [[intros]]
+  - [[gyuri lajos]] quick intro: started in this space ~2003. been doing personal knowledge graphs with collaborative convergence
+    - key idea: building on [[trust]]
+    - open, common based, peer produced, new interpersonal layer over the decentralized web
+    - a bridge through people
+  - [[paul mullins]]
+    - interested in knowledge management
+    - read [[homo deus]], was a trigger
+    - why have we separated our consciousness in many platforms? can we replace platforms with protocols?
+    - [[push]] [[dentropy daemon]]
+      - https://wiki.dentropydaemon.io
+        - [[dendron]] based
+        - tried [[org mode]] too
+    - building tools
+      - exporter from social media to elastic search
+      - keybase
+    - "I should be able to query the daemon for people I know instead of going on web search"
+  - [[robert best]]
+    - interested in this space since ~2012, come mostly from virtual online communities and how they can curate their knowledge and conversations
+    - open source project [[metamaps]]
+    - [[push]] [[metamaps]]
+      - [[go]] https://metamaps.cc
+    - fractal/federated layer for communities
+    - recently involved with [[fedwiki]]!
+  - [[gyuri lajos]]
+    - would like to do for [[web3]] what [[ward cunninghman]] did for [[web2]]
+  - [[yarrow]]
+    - progression from individual contributions to documents that represent the best of a community's thinking
+    - [[cooperative journalism]]
+    - "an idea whose time has come"
+      - enabling [[human dignity]]
+      - [[contextualization]]
+      - [[truth reconciliation]]
+  - [[flancian]]
+  - [[yarrow]]
+    - [[radicle]] https://radicle.xyz
+      - [[decentralized git]]
+    - 'symmathesized' content (symmathesy -- "together" , "to learn" --to learn together)
+  - [[paul mullins]]
+    - https://gitlab.com/dentropy/dentropydaemon-wiki
+- [[q]]
+  - for [[paul mullins]]:
+    - do you know [[promnesia]]?
+      - tried it, had to go with [[activitywatch]] instead for now
+    - [[agora search]] is a simple take on the same 'search my friend's state' approach
+  - for everybody:
+    - [[meta]] how to use the tools we want to build to build them? :) or, that is, improve on them.
+- [[indylab]]
+  - no auth needed
+  - [[ipfs]] [[orbitdb]] [[fission]]
+  - [[yarrow]]
+    - Action: Develop draft of Hackathon Introduction: https://github.com/IndyVerse/indylab/edit/main/README.md
+    - This team needs a clear perception of the goal of the Hackathon, and this introduction must be clearly articulated so that people who are new to the project and the technology. Primary focus: What is IndieLab?
+- [[push]] [[ipfs]]
+  - [[ipfs search]]
+- [[push]] [[paul mullins]]
+  - [[did]] -- could we define a did format for all note taking tools in this space using markdown/wiki-like?
+  - @dentropy:matrix.org
+  - @dentropy on keybase
+  - @dentropy on telegram
+  - note https://code.nsa.gov/skills-docs/
