@@ -1,4 +1,4 @@
 # liguria
 
-Perhaps it was in Liguria that the Flancians slayed Moloch.
+Perhaps it was in Liguria that a Flancian slayed Moloch.
 
