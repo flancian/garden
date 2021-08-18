@@ -7,7 +7,7 @@
     - `loginctl enable-linger username`
   - If you get any bus errors, you may need to:
     - `export XDG_RUNTIME_DIR=/run/user/\`id -u\``
-  - Scripts go in `.config/systemd/user/`, add an example.service file and then: 
+  - Scripts go in `.config/systemd/user/`, add an `example.service` file and then: 
     - `systemctl --user start example`
     - `systemctl --user enable example`
   - See `agora-server.service` in [[go/agora-server]] as an example.
