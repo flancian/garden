@@ -1,5 +1,5 @@
 # dying earth
 
-- a [[cycle]]
+- a [[series]]
   - [[go]] https://en.wikipedia.org/wiki/Dying_Earth
 
