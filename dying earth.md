@@ -1,4 +1,5 @@
 # dying earth
 
-- [[go]] https://en.wikipedia.org/wiki/Dying_Earth
+- a [[cycle]]
+  - [[go]] https://en.wikipedia.org/wiki/Dying_Earth
 
