@@ -4,8 +4,8 @@
   - [ ] passport
   - [ ] wallet
   - [ ] print tickets
-  - [ ] chargers
-  - [ ] notebook
+  - [ ] phone chargers
+  - [ ] notebook chargers
   - [ ] usb keyboard
     - [ ] charge
   - [ ] kindle
@@ -23,5 +23,4 @@
 - around the house
   - [ ] water plants
   - [ ] check remote access
-
-
+  - [ ] pick up loose money in the right currency if we have it
