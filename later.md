@@ -48,6 +48,8 @@
 		- [[family]]
 - [[push]] [[done]] 
   - that is, pushing to the node [[done]], should: elide from source, clean up, collapse/zip 
+- [[push]] [[do]]
+	- 
 
 		
 
