@@ -16,10 +16,8 @@
   - [ ] n+2 pairs of socks
   - [ ] lightweight jacket
   - [ ] shorts
-  - [ ] short jeans
   - [ ] jeans
-  - [ ] sandals
-  - [ ] slippers
+  - [ ] sandals or slippers
 - around the house
   - [ ] water plants
   - [ ] check remote access
