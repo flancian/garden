@@ -104,7 +104,24 @@
     - [[robert gangeware]] "American poets seldom portray the happy marriage of technology and the natural world. Thus the optimism of the following poem is somewhat unique—unless the reader detects [[irony]], in which case the poem joins [[the mainstream of antitechnological American verse]]."
     - [[charles perry]] "The [[robots will do all the work]] vision of [[utopia]] was certainly widesread, the subject for instance of Richard Brautigan's famous poem, 'All Watched Over by Machines of Loving Grace' and one of the recurring ideas in the [[Leary-Snyder]] debate in [[Oracle No. 7]]."
       - this seems like a reference to [[san francisco oracle]]
-  - and more :)
+    - [[a good-talking candle]]
+      - "listened to its comfortable voice of light" 
+      - [[kasina]]
+    - [[nine things]]
+      - "knows four other things / one is the color of your hair" 
+    - [[a lady]]
+      - [[highway 101]]
+    - [[let's voyage into the new american house]]
+      - [[doors]]
+        - "that want to be free from their hinges to fly with perfect clouds"
+      - [[windows]]
+        - "that want to be releases from their frames to run with the deer through back country meadows"
+      - [[walls]]
+        - "that want to prowl with the mountains through the early morning dusk"
+      - [[floors]]
+        - "that want to digest their furniture into flowers and trees"
+      - [[roofs]]
+        - "that want to travel gracefully with the starts through circles of darkness"
 - a [[film]]
   - by [[adam curtis]]
   - https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)
