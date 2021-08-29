@@ -3,4 +3,5 @@
 - a [[book]]
   - by [[richard brautigan]]
   - [[go]] http://www.brautigan.net/pill.html
+  - dedicated to [[marcia pacaud]] 
 

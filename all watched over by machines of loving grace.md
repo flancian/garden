@@ -5,9 +5,9 @@
   - part of the [[poetry collection]] of the same title
   - see subnode by [[neil]] for the full text
 - a [[poetry collection]]
+  - a [[subset]] of [[The Pill versus The Springhill Mine Disaster]]
   - [[list]]
   - [[wp]] https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(poetry_collection)
-  - maybe a [[subset]] of [[The Pill versus The Springhill Mine Disaster]]?
   - [[go]] http://www.brautigan.net/machines.html
     - with the titular [[poem]] in it and 31 others
     - might 32 (2^5) have significance?
@@ -37,7 +37,7 @@
     - seems there's an ironic vein, as this poem is about not-loving
   - [[I lie here in a strange girl's apartment]]
     - [[ladies man]] strikes again
-    - 
+    - dedicated to [[marcia pacaud]] 
 
 - a [[film]]
   - by [[adam curtis]]
