@@ -68,11 +68,42 @@
   - [[it's going down]]
     - "magic is the color of the thing you wear"
   - [[albion breakfast]]
+    - written to go with a [[found object]]
     - [[susan morgan]]
       - http://www.brautigan.net/nonfiction.html#morgan
     - [[ladies man]]
       - lived without a refrigerator
       - "physically he was none too attractive, but he was [[charming]]"
+  - [[comets]]
+    - "there are comets / connected to chemicals / that telescope / down out tongues / to burn out against / the air"
+  - [[the pomegranate circus]]
+    - "I feel like a drowned king / at the pomegranate circus"
+  - [[my nose is growing old]]
+    - "I'm 31 / and my nose is growing old"
+  - [[at the california institute of technology]]
+    - [[bored]] on a rainy day while poet-in-residence
+    - clearly pre internet 
+  - [[your catfish friend]]
+    - pre [[catfishing]]
+    - "I'd love you and be your catfish friend"
+  - [[karma repair kit: items 1-4]]
+    - liked it
+    - 1. "get enough food to eat, and eat it"
+    - 2. "find a place to sleep where it is quiet, and sleep there"
+    - 3. "reduce intellectual activity and emotional noise until you arrive at the silence of yourself, and listen to it"
+    - 4. 
+  - [[all watched over by machines of loving grace]]
+    - a [[banger]]
+      - taken straight (without irony), it embodies technological optimism and makes me think of the [[agora]]
+    - [[cybernetic meadow]]
+      - [[programming harmony]]
+    - [[cybernetic forest]]
+      - "where deer stroll peacefully / past computers / as if they were flowers / with spinning blossoms"
+    - [[cybernetic ecology]]
+      - [[free of our labors]]
+    - [[robert gangeware]] "American poets seldom portray the happy marriage of technology and the natural world. Thus the optimism of the following poem is somewhat unique—unless the reader detects [[irony]], in which case the poem joins [[the mainstream of antitechnological American verse]]."
+    - [[charles perry]] "The [[robots will do all the work]] vision of [[utopia]] was certainly widesread, the subject for instance of Richard Brautigan's famous poem, 'All Watched Over by Machines of Loving Grace' and one of the recurring ideas in the [[Leary-Snyder]] debate in [[Oracle No. 7]]."
+      - this seems like a reference to [[san francisco oracle]]
   - and more :)
 - a [[film]]
   - by [[adam curtis]]
