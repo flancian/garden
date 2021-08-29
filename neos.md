@@ -1,3 +1,4 @@
 - a [[metaverse]]
 	- [[go]] https://neos.com/
 		- [[pull]] [[neos vr]]
+  - [[steam]] https://store.steampowered.com/app/740250/Neos_VR/

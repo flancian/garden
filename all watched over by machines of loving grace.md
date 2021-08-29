@@ -1,0 +1,129 @@
+# all watched over by machines of loving grace
+
+- a [[poem]]
+  - by [[richard brautigan]]
+  - part of the [[poetry collection]] of the same title
+  - see subnode by [[neil]] for the full text
+- a [[poetry collection]]
+  - a [[subset]] of [[The Pill versus The Springhill Mine Disaster]]
+  - [[list]]
+  - [[wp]] https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(poetry_collection)
+  - [[go]] http://www.brautigan.net/machines.html
+    - with the titular [[poem]] in it and 31 others
+    - might 32 (2^5) have significance?
+  - [[meta]] the following section assumes [[auto push]], which I haven't implemented yet :)
+    - once it's implemented, each node in the following list should get the children blocks automatically transcluded
+  - [[the beautiful poem]]
+    - [[phallocentric]]
+    - didn't find it beautiful, but hey, at least it's honest
+    - sexual in nature
+  - [[december 24]]
+    - didn't get it, but I like how these are short
+  - [[milk for the duck]]
+    - sexual in nature
+    - seems to be about lack of self confidence after not having sex for 20 days
+  - [[november 3]]
+    - echoes of [[frank o'hara]]?
+    - "there's a pretty girl I want to look at" -- [[richard brautigan]] was all about the ladies
+  - [[flowers for those you love]]
+    - about [[venereal diseases]]
+    - a bit like a [[psa]]
+  - [[san francisco]]
+    - [[found object]]
+  - [[star hole]]
+    - I like this one
+    - "I sit here / on the perfect end / of a star / watching light / pour itself toward me"
+  - [[love poem]]
+    - seems there's an ironic vein, as this poem is about not-loving
+  - [[I lie here in a strange girl's apartment]]
+    - [[ladies man]] strikes again
+    - dedicated to [[marcia pacaud]] 
+  - [[it's raining in love]]
+    - I like this one
+    - "or perhaps i start to examine, evaluate, compute what I am saying"
+    - "in other words / I get a little creepy"
+    - "it's raining somwhere, programming flowers / and keeping snails happy"
+  - [[hey! this is what it's all about]]
+    - "it makes me want to write poetry"
+  - [[our beautiflu west coast thing]]
+    - [[the mamas and the papas]]
+      - [[california dreamin']]
+      - [[i saw her again]]
+  - [[widow's lament]]
+    - short
+  - [[december 30]]
+    - about a [[fart]]
+  - [[lovers]]
+    - "put her in a low brass bed"
+    - women aren't very active in many of these, perhaps I'm biased by the phallocentric opener but Brautigan feels a bit objectifying?
+  - [[a mid-february sky dance]]
+    - I liked this one, this feels more participative (a proper dance)
+    - "dance toward me, please, as if you were a star / with light-years piled on top of your hair, smiling"
+  - [[hey, bacon!]]
+    - [[desire]]
+  - [[after halloween slump]]
+    - [[magic]]
+  - [[hollywood]]
+    - [[jefferson airplane]]
+  - [[it's going down]]
+    - "magic is the color of the thing you wear"
+  - [[albion breakfast]]
+    - written to go with a [[found object]]
+    - [[susan morgan]]
+      - http://www.brautigan.net/nonfiction.html#morgan
+    - [[ladies man]]
+      - lived without a refrigerator
+      - "physically he was none too attractive, but he was [[charming]]"
+  - [[comets]]
+    - "there are comets / connected to chemicals / that telescope / down out tongues / to burn out against / the air"
+  - [[the pomegranate circus]]
+    - "I feel like a drowned king / at the pomegranate circus"
+  - [[my nose is growing old]]
+    - "I'm 31 / and my nose is growing old"
+  - [[at the california institute of technology]]
+    - [[bored]] on a rainy day while poet-in-residence
+    - clearly pre internet 
+  - [[your catfish friend]]
+    - pre [[catfishing]]
+    - "I'd love you and be your catfish friend"
+  - [[karma repair kit: items 1-4]]
+    - liked it
+    - 1. "get enough food to eat, and eat it"
+    - 2. "find a place to sleep where it is quiet, and sleep there"
+    - 3. "reduce intellectual activity and emotional noise until you arrive at the silence of yourself, and listen to it"
+    - 4. 
+  - [[all watched over by machines of loving grace]]
+    - a [[banger]]
+      - taken straight (without irony), it embodies technological optimism and makes me think of the [[agora]]
+    - [[cybernetic meadow]]
+      - [[programming harmony]]
+    - [[cybernetic forest]]
+      - "where deer stroll peacefully / past computers / as if they were flowers / with spinning blossoms"
+    - [[cybernetic ecology]]
+      - [[free of our labors]]
+    - [[robert gangeware]] "American poets seldom portray the happy marriage of technology and the natural world. Thus the optimism of the following poem is somewhat unique—unless the reader detects [[irony]], in which case the poem joins [[the mainstream of antitechnological American verse]]."
+    - [[charles perry]] "The [[robots will do all the work]] vision of [[utopia]] was certainly widesread, the subject for instance of Richard Brautigan's famous poem, 'All Watched Over by Machines of Loving Grace' and one of the recurring ideas in the [[Leary-Snyder]] debate in [[Oracle No. 7]]."
+      - this seems like a reference to [[san francisco oracle]]
+    - [[a good-talking candle]]
+      - "listened to its comfortable voice of light" 
+      - [[kasina]]
+    - [[nine things]]
+      - "knows four other things / one is the color of your hair" 
+    - [[a lady]]
+      - [[highway 101]]
+    - [[let's voyage into the new american house]]
+      - [[doors]]
+        - "that want to be free from their hinges to fly with perfect clouds"
+      - [[windows]]
+        - "that want to be releases from their frames to run with the deer through back country meadows"
+      - [[walls]]
+        - "that want to prowl with the mountains through the early morning dusk"
+      - [[floors]]
+        - "that want to digest their furniture into flowers and trees"
+      - [[roofs]]
+        - "that want to travel gracefully with the starts through circles of darkness"
+- a [[film]]
+  - by [[adam curtis]]
+  - https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)
+  - https://twitter.com/flancian/status/1397323805899608067
+  - https://twitter.com/flancian/status/1397321398369062916
