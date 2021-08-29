@@ -9,6 +9,8 @@
   - [[go]] http://www.brautigan.net/machines.html
   - with the titular [[poem]] in it and 31 others
     - might 32 (2^5) have significance?
+  - [[meta]] the following section assumes [[auto push]], which I haven't implemented yet :)
+    - once it's implemented, each node in the following list should get the children blocks automatically transcluded
   - [[the beautiful poem]]
     - didn't find it beautiful, but hey, at least it's honest
     - sexual in nature
