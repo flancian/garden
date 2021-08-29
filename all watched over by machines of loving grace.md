@@ -9,3 +9,6 @@
   - by [[adam curtis]]
   - https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)
 
+## [[poem]]
+- [[pull]] 
+## [[film]]
