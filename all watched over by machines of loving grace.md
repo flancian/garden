@@ -38,7 +38,16 @@
   - [[I lie here in a strange girl's apartment]]
     - [[ladies man]] strikes again
     - dedicated to [[marcia pacaud]] 
-
+  - [[it's raining in love]]
+    - I like this one
+    - "or perhaps i start to examine, evaluate, compute what I am saying"
+    - "in other words / I get a little creepy"
+    - "it's raining somwhere, programming flowers / and keeping snails happy"
+  - [[hey! this is what it's all about]]
+    - "it makes me want to write poetry"
+  - [[our beautiflu west coast thing]]
+    - [[the mamas and the papas]]
+  - and more :)
 - a [[film]]
   - by [[adam curtis]]
   - https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)
