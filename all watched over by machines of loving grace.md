@@ -8,7 +8,5 @@
 - a [[film]]
   - by [[adam curtis]]
   - https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)
-
-## [[poem]]
-- [[pull]] 
-## [[film]]
+  - [[pull]] https://twitter.com/flancian/status/1397323805899608067
+  - [[pull]] https://twitter.com/flancian/status/1397321398369062916
