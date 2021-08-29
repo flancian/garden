@@ -1,6 +1,8 @@
 # Full Throttle
 
 - A [[game]].
-- [[lucasarts]].
-- I [[like]] it a lot.
+  - by [[tim schaffer]]
+    - [[lucasarts]].
+    - [[doublefine]]
+  - I [[like]] it a lot.
 
