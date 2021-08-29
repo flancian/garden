@@ -13,6 +13,7 @@
   - [[meta]] the following section assumes [[auto push]], which I haven't implemented yet :)
     - once it's implemented, each node in the following list should get the children blocks automatically transcluded
   - [[the beautiful poem]]
+    - [[phallocentric]]
     - didn't find it beautiful, but hey, at least it's honest
     - sexual in nature
   - [[december 24]]
@@ -29,6 +30,12 @@
   - [[san francisco]]
     - [[found object]]
   - [[star hole]]
+    - I like this one
+    - "I sit here / on the perfect end / of a star / watching light / pour itself toward me"
+  - [[love poem]]
+    - seems there's an ironic vein, as this poem is about not-loving
+  - [[I lie here in a strange girl's apartment]]
+    - [[ladies man]] strikes again
     - 
 
 - a [[film]]
