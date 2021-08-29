@@ -5,9 +5,10 @@
   - part of the [[poetry collection]] of the same title
   - see subnode by [[neil]] for the full text
 - a [[poetry collection]]
+  - [[list]]
   - [[wp]] https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(poetry_collection)
   - [[go]] http://www.brautigan.net/machines.html
-  - with the titular [[poem]] in it and 31 others
+    - with the titular [[poem]] in it and 31 others
     - might 32 (2^5) have significance?
   - [[meta]] the following section assumes [[auto push]], which I haven't implemented yet :)
     - once it's implemented, each node in the following list should get the children blocks automatically transcluded
@@ -19,6 +20,16 @@
   - [[milk for the duck]]
     - sexual in nature
     - seems to be about lack of self confidence after not having sex for 20 days
+  - [[november 3]]
+    - echoes of [[frank o'hara]]?
+    - "there's a pretty girl I want to look at" -- [[richard brautigan]] was all about the ladies
+  - [[flowers for those you love]]
+    - about [[venereal diseases]]
+    - a bit like a [[psa]]
+  - [[san francisco]]
+    - [[found object]]
+  - [[star hole]]
+    - 
 
 - a [[film]]
   - by [[adam curtis]]
