@@ -9,5 +9,6 @@
 			- [[querylinks]] ([[qlinks]]?): as they essentially behave as queries in the agora. queries return relevant subnodes/resources.
 			- [[nodelinks]] as they map to nodes in the agora.
 				- [[edges]]?
+		- [[neil]] [[hyphalinks]]
 
 	![[Pasted image 20210621164333.png]]
