@@ -64,7 +64,15 @@
   - [[after halloween slump]]
     - [[magic]]
   - [[hollywood]]
-    - 
+    - [[jefferson airplane]]
+  - [[it's going down]]
+    - "magic is the color of the thing you wear"
+  - [[albion breakfast]]
+    - [[susan morgan]]
+      - http://www.brautigan.net/nonfiction.html#morgan
+    - [[ladies man]]
+      - lived without a refrigerator
+      - "physically he was none too attractive, but he was [[charming]]"
   - and more :)
 - a [[film]]
   - by [[adam curtis]]
