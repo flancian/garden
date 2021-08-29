@@ -56,6 +56,15 @@
   - [[lovers]]
     - "put her in a low brass bed"
     - women aren't very active in many of these, perhaps I'm biased by the phallocentric opener but Brautigan feels a bit objectifying?
+  - [[a mid-february sky dance]]
+    - I liked this one, this feels more participative (a proper dance)
+    - "dance toward me, please, as if you were a star / with light-years piled on top of your hair, smiling"
+  - [[hey, bacon!]]
+    - [[desire]]
+  - [[after halloween slump]]
+    - [[magic]]
+  - [[hollywood]]
+    - 
   - and more :)
 - a [[film]]
   - by [[adam curtis]]
