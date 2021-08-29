@@ -7,6 +7,7 @@
 - a [[poetry collection]]
   - [[list]]
   - [[wp]] https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(poetry_collection)
+  - maybe a [[subset]] of [[The Pill versus The Springhill Mine Disaster]]?
   - [[go]] http://www.brautigan.net/machines.html
     - with the titular [[poem]] in it and 31 others
     - might 32 (2^5) have significance?
