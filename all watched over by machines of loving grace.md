@@ -47,6 +47,15 @@
     - "it makes me want to write poetry"
   - [[our beautiflu west coast thing]]
     - [[the mamas and the papas]]
+      - [[california dreamin']]
+      - [[i saw her again]]
+  - [[widow's lament]]
+    - short
+  - [[december 30]]
+    - about a [[fart]]
+  - [[lovers]]
+    - "put her in a low brass bed"
+    - women aren't very active in many of these, perhaps I'm biased by the phallocentric opener but Brautigan feels a bit objectifying?
   - and more :)
 - a [[film]]
   - by [[adam curtis]]
