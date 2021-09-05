@@ -9,5 +9,7 @@
 		- add more colour
 		- make it so graphs show up in 'empty' nodes, as they might have backlinks
 	- support embeds (e.g. obsidian attachments) like the one precisely below :)
+  - [[dashtop]] 
+    - do not show square brackets in anagora.org: https://social.coop/web/statuses/106872621147811863
 
 ![[Pasted image 20210516171838.png]]
