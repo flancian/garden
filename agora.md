@@ -2,8 +2,7 @@
 
 - **The Agora is a distributed knowledge graph and experimental social network.**
 	- See [[go/agora-slides]] if you'd like a 10' introduction to the key concepts.
-	- The [[agora]] I'm writing this in, `anagora.org`, is just one of many. 
-  	- [[pull]] [[an agora]].
+	- The [[agora]] you're likely reading this in, `anagora.org`, is just one of many. 
 - Anyone can run an Agora of their own if they so desire. This Agora is [[open source]]: [[go/agora]].
 	- To [[sign up]] for the Agora, which means volunteering your writing and media to it, please consult [[agora editor]].
 	  
