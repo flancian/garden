@@ -32,7 +32,6 @@
 	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
 	- [[the agora is a markup convention]]
 - [[twitter]]
-	- https://twitter.com/flancian/status/1368586813254889475
 	- https://twitter.com/flancian/status/1373681988675190785
 	- https://twitter.com/flancian/status/1393271063224754184
 	- https://twitter.com/flancian/status/1401526897121574916
