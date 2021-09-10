@@ -4,6 +4,15 @@
   - Drove from California to Argentina. 2003.
     - canaryinacoalmine.org. One year!
   - [[calendly]] https://calendly.com/dwhly
+
+## [[2021-09-10]]
+- [[demo]] / [[walkthrough]]
+- next features to ship
+  - social media import, per post
+  - social media import, bulk
+  - arbitrary repo import
+  - ipfs support
+
 ## [[2021-06-24]]
 - catch up
 - q: international deployment 

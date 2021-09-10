@@ -31,10 +31,9 @@
 	- [[2020]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
 	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
 	- [[the agora is a markup convention]]
-	
-https://twitter.com/flancian/status/1368586813254889475
-https://twitter.com/flancian/status/1373681988675190785
-https://twitter.com/flancian/status/1393271063224754184
-https://twitter.com/flancian/status/1401526897121574916
+- https://twitter.com/flancian/status/1368586813254889475
+- https://twitter.com/flancian/status/1373681988675190785
+- https://twitter.com/flancian/status/1393271063224754184
+- https://twitter.com/flancian/status/1401526897121574916
 
 
