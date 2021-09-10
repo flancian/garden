@@ -1,6 +1,6 @@
 # Dan Whaley
 - A [[person]].
-  - [[twitter]] https://twitter.com/dwhley
+  - [[twitter]] https://twitter.com/dwhly
   - [[2003]] Drove from California to Argentina.
     - https://canaryinacoalmine.org. 
     - took one year!
