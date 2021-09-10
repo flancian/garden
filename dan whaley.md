@@ -1,12 +1,19 @@
 # Dan Whaley
 - A [[person]].
-  - [[twitter]] twitter.com/dwhley
-  - Drove from California to Argentina. 2003.
-    - canaryinacoalmine.org. One year!
+  - [[twitter]] https://twitter.com/dwhley
+  - [[2003]] Drove from California to Argentina.
+    - https://canaryinacoalmine.org. 
+    - took one year!
   - [[calendly]] https://calendly.com/dwhly
 
 ## [[2021-09-10]]
 - [[demo]] / [[walkthrough]]
+- nodes
+- stoa
+- actions
+  - [[go]]
+  - [[push]]
+  - [[pull]]
 - next features to ship
   - social media import, per post
   - social media import, bulk
