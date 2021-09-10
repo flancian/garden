@@ -5,6 +5,8 @@
     - https://canaryinacoalmine.org. 
     - took one year!
   - [[calendly]] https://calendly.com/dwhly
+  - [[project]] [[hypothes.is]]
+  - [[pull]] [[the revolution will be annotated]]
 
 ## [[2021-09-10]]
 - [[demo]] / [[walkthrough]]
