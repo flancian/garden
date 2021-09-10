@@ -14,9 +14,9 @@
 		- I strive to be a [[rational]] [[cooperativist]], but you don't have to play the same class.
 		- [[In my Flancia, people dedicate a meaningful fraction of their free time and resources to help others]].
 		- In Flancia everybody [[thrives]].
-	- [[In my Flancia we cooperate our way to an international liquid democratic federation]]. 
-		- default policy is [[heterarchy]] through [[distributed]] [[liquid democracy]].
-		- [[In my Flancia cooperatives win late capitalism]].
+	- [[In Flancia we cooperate our way to an international liquid democratic federation]]. 
+		- Our default policy is [[heterarchy]] as defined through [[distributed]] [[liquid democracy]].
+		- In my Flancia, [[cooperatives and collectives upgrade capitalism]].
 - an [[organization]].
   - [[go]] https://flancia.org
   - [[pull]] [[flancia collective]]
