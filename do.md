@@ -1,12 +1,9 @@
 - a [[list]].
 	- [[irregular]].
-		- could be [[todos]]
-  - actions for which I want to express an [[intent]].
-		- [[pull]] [[ought]]
+		- of my [[intents]]
 		- [[pull]] [[intent]] [[later]] [[todo]] [[now]] [[next]] [[some day]] 
-		- [[pull]] [[flancia]] [[agora]]
-		- [[meditate]] now.
-	- do [[pomodoros]]
+	- [[meditate]] now.
+	- process inbox (pushes to this node).
 	- configure [[probing]]
 		- I never get to this, can you tell it reminds me of work? :)
 		- I need to just set a pomodoro and do this, but I feel like running the agora at low slo is OK. It's supposed to rely on distribution later on for reliability gains.

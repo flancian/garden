@@ -10,5 +10,6 @@
 			- [[nodelinks]] as they map to nodes in the agora.
 				- [[edges]]?
 		- [[neil]] [[hyphalinks]]
+- [[tweet]] https://twitter.com/flancian/status/1437079541860769803
 
 	![[Pasted image 20210621164333.png]]
