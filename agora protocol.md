@@ -1,5 +1,6 @@
 # Agora Protocol
 
+- ***Agora Protocol in a nutshell***: https://twitter.com/flancian/status/1437079533253976066
 - a [[convention]].
 	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
 	- you can [[use wikilinks]]. this expresses the intention to use the [[wiki protocol]], of which the Agora is a special case.
