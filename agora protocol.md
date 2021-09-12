@@ -1,6 +1,6 @@
 # Agora Protocol
 
-- ***Agora Protocol in a nutshell***: https://twitter.com/flancian/status/1437079533253976066
+- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
 - a [[convention]].
 	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
 	- you can [[use wikilinks]]. this expresses the intention to use the [[wiki protocol]], of which the Agora is a special case.
@@ -18,7 +18,6 @@
 			- see [[go/agora-slides]] for more.
 		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
 			- [[stoa]] https://stoa.anagora.org/p/stoa
-- a set of [[conventions]]
 	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. 
 		- conventions can be optional or necessary and must be marked as such. The default commitment level for this protocol is [[optional]]. [[use must if you must]].
 	- for [[extensions]]:
@@ -33,6 +32,7 @@
 	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
 	- [[the agora is a markup convention]]
 - [[twitter]]
+  - https://twitter.com/flancian/status/1437079533253976066
 	- https://twitter.com/flancian/status/1373681988675190785
 	- https://twitter.com/flancian/status/1393271063224754184
 	- https://twitter.com/flancian/status/1401526897121574916
