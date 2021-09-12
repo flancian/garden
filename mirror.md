@@ -1,4 +1,4 @@
 # mirror
 
-- a [[morphism]].
+- a [[thing]] that applies a [[morphism]]: [[reflect]].
 
