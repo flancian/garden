@@ -5,8 +5,8 @@
   - [[wp]] https://en.wikipedia.org/wiki/Moloch
     - [[go]] [[wwp]]
   - [[pull]] [[meditations on moloch]]
-  - The social evil of missed opportunities and local optima.
-  - An unnecessary vector against our desired gradient in [[protopoi]], often taking the form of [[unsolved]] [[coordination problems]].
+  - An unnecessary vector against our desired gradient in [[protopoi]], often taking the form of [[coordination problems]].
+  - Seems to imply social evils due to missed opportunities or idiosyncratic equilibriums / local optima.
   - [[cringe?]] [[some days I feel like slaying moloch]] 
   - [[twitter]] https://flancia.org/t/moloch
 
