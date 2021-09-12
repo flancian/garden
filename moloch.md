@@ -1,6 +1,7 @@
 # Moloch
 
-- a [[thing]]
+- a [[being]]
+  - apologies for calling it a [[thing]] at some point
   - [[wp]] https://en.wikipedia.org/wiki/Moloch
     - [[go]] [[wwp]]
   - [[pull]] [[meditations on moloch]]
