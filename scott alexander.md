@@ -1,7 +1,8 @@
 # Scott Alexander
 
 - A [[person]].
-- [[writer]] [[rationalist]] [[pseudonymous]].
-- [[meditations on moloch]] influenced the [[agora]] a lot.
+  - [[writer]] [[rationalist]] [[pseudonymous]].
+  - [[pull]] [[slate star codex]]
+    - [[meditations on moloch]] influenced the [[agora]] a lot.
 
 
