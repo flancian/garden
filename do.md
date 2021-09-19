@@ -18,7 +18,7 @@
 		- [ ] client side pulling
 			- [x] done for: mastodon, twitter, wikipedia
 			- [ ] need to test general URL pulling, see how many sites allow iframes
-				- [ ] test with https://flancia.org
+				- [ ] test with flancia.org
 		- improve [[agora graphs]]
 			- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
 			- could get inspiration from some diagrams in [[a rosetta stone]]
@@ -74,6 +74,7 @@
 			- [[building bridges]]
 			- [[finding isomorphisms]]
 				- measuring distance to an isomorphism? there must be a term for this
+		- [[node club]]
     - [[patterns]]
 		- [[after the pandemic]], or [[an open letter to the agora]], or [[an open letter to an open nation]]
 		- [[on cringe]] / [[agora polls]]
