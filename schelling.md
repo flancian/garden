@@ -1,11 +1,12 @@
 # Schelling
 
 - [[go]] shelling.pt
- - [[quote]] a [[schelling point]] for those who seek one
-- Part of [[mastodon]].
-- [[admin]] https://schelling.pt/@locus
-- [[push]] [[pee-zombie]] 
-  - [[schelling]] https://schelling.pt/@pee_zombie
-  - He recommended [[moa.party]].
+  - [[quote]] a [[schelling point]] for those who seek one
+  - [[pull]] [schelling points]]
+  - Part of [[mastodon]].
+  - [[admin]] https://schelling.pt/@locus
+  - [[push]] [[pee-zombie]] 
+    - [[schelling]] https://schelling.pt/@pee_zombie
+    - He recommended [[moa.party]].
 
 
