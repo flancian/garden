@@ -10,8 +10,6 @@
 		- Doesn't really apply as an argument to [[moa]] though -- although for [[moa]] we have [[sentry]] set up so that seems reasonable.
 			- [ ] set up [[probing]] for [[moa]]
 			- [ ] set up [[probing]] for [[anagora]]
-	- [[push]] [[moa]]
-		- [ ] review [[go/moa/bugs]]
 	- [[push]] [[agora]]
 		- [ ] add toggle switch for [[auto pull]] (stoa, linked nodes, backlinks?)
 			- [x] doing this for [[stoa]] stops it from stealing focus which is really irksome :) fixing it in etherpad would take me long as I'm bad at js
@@ -19,12 +17,8 @@
 		- [ ] implement [[auto pull]]
 		- [ ] implement [[auto push]]
 		- [ ] client side pulling
-			- done for: mastodon, twitter
-			- need to add [[wikipedia]]
-		- [[agora bot]]
-			- [ ] fix twitter so it doesn't keep re-replying
-  			- the API doesn't feel great, I wonder if I'm missing something
-			- [ ] refactor mastodon<->twitter so they share code? I don't want to implement everything twice, and I certainly don't want the mastodon version to suffer because I'm addicted to twitter (great people there as well, and there are more of them)
+			- [x] done for: mastodon, twitter, wikipedia
+			- [ ] need to test general URL pulling, see how many sites allow iframes
 		- improve [[agora graphs]]
 			- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
 			- could get inspiration from some diagrams in [[a rosetta stone]]
@@ -36,29 +30,38 @@
 	- [[push]] [[agora interlace]]
 		- [[agora social media integration]]
 			- [x] write [[agora bot]] for [[mastodon]]
-			- [ ] write [[agora bot]] for [[twitter]]
-				- [ ] fix auth
+			- [x] write [[agora bot]] for [[twitter]]
+				- [x] fix auth
 					- [ ] restore context
-						- [[next action]]
+  					- this could be a great workaround for the worse of the re-replying behaviour, and probably will be needed even if I want to support zero state best effort
 				- [ ] fix deduping 
-			- [ ] test [[vera]]'s code for pulling tweets and toots
-				- [ ] only pulled *some* for some reason
+					- need to do this again
+			- [x] test [[vera]]'s code for pulling tweets and toots
+				- only pulled *some* for some reason
 				- [ ] figure out what's up, try again and get the context back
-		- depends on [[agora bridge api]] for the storing posts in the agora.
-			- we want to create a git repository for each calling users, which the users could then [[claim]].
-			- could be flask, included in [[agora bridge]] repo, copy/paste from [[agora server]] to begin with?
-			- one risk is them actually needing to share more than I expect
-			- but hopefully they can just communicate through yaml? or perhaps set up and write to sqlite to begin with
-			- thought of consolidating everything into [[agora server]], but it feels cleaner to have writers and readers split. should scale better; if the write path goes down, the agora keeps serving just fine without having to do anything special.
-  			- probably keeps it simple to run a read only agora (mirror).
-	- [[agora bridge api]]
-		- I'll probably add a [[flask]] based api to [[agora bridge]] to:
+		- [[agora bot]]
+			- [ ] fix twitter so it doesn't keep re-replying
+  			- the API doesn't feel great, I wonder if I'm missing something
+				- I thought I'd done this but it's still failing in some cases, [[s5bug]] gave me a test case, I think I put it in [[agora twitter bug]]
+			- [ ] refactor mastodon<->twitter so they share code? I don't want to implement everything twice, and I certainly don't want the mastodon version to suffer because I'm addicted to twitter (great people there as well, and there are more of them)
+		- [[push]] [[agora bridge api]]
+			- [ ] build/release [[agora bridge api]] for the storing posts in the agora.
+				- we want to create a git repository for each calling users, which the users could then [[claim]].
+				- could be flask, included in [[agora bridge]] repo, copy/paste from [[agora server]] to begin with?
+					- nope, it is typescript thanks to [[vera]], looking forward to set this up :)
+				- but hopefully they can just communicate through yaml? or perhaps set up and write to sqlite to begin with
+				- thought of consolidating everything into [[agora server]], but it feels cleaner to have writers and readers split. should scale better; if the write path goes down, the agora keeps serving just fine without having to do anything special.
+					- probably keeps it simple to run a read only agora (mirror).
+			- yes, going with [[read]] ([[agora server]]) and [[write]] ([[agora bridge]]) apis
 			- request new git integrations (e.g. mount git repo X in path Y)
 			- accept other inputs? like perhaps subnodes, which could go into a managed repo.
 			- configure sources from social media (from agora bot)
+			- in general this unlocks better [[signup]]
+	- [[push]] [[moa]]
+		- [ ] review [[go/moa/bugs]]
 	- [[write]]
     - [[patterns]]
-		- [[after the pandemic]], or [[an open letter to the agora]]
+		- [[after the pandemic]], or [[an open letter to the agora]], or [[an open letter to an open nation]]
 		- [[on cringe]] / [[agora polls]]
 			- about explicit rational (mathematical) modelling of group dynamics through social media discourse
 			- is [[hack the planet]] cringe? should it be?
@@ -66,12 +69,16 @@
 	- [[read]] 
 		- what [[will walker]] told me about
 			- link it here
-	- run [[weekly review]]
-		- I'm doing it now... still :) it turns out I come to this node weekly at best, so this *is* my weekly. I'd love to make it daily though. perhaps I could auto-pull [[do]] from the journal page? just the subnode for the 'active' user.
+			- this is past due
+	- [[push]] [[weekly]]
+		- [x] run [[weekly review]]
+		- it turns out I do a run through [[do]] weekly at best as of late, so this *is* my weekly. I'd love to make it daily though. perhaps I could auto-pull [[do]] from the journal page? just the subnode for the 'active' user.
+		- promote [[do]] to nav item?
+		- we could also have 'this week', 'this month', 'this year' in the agora, have it rank top nodes in time scope, allow users to pull specific nodes from each view
 - an [[agora action]]
-	- I try to automate recurrent [[actions]] in the [[agora]].
-	- This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
-	- [[daily]], I try to check for pending [[work]] in all known sources of truth.
+	- I try to automate recurrent [[actions]] in the [[agora]]. This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
+	- [[daily]], I try to check here for pending [[work]] in all known sources of truth.
+	- [[weekly]], I try to run [[weekly review]] and [[garbage collect]]
 	- check the context in more specific actions and push relevant items here or to [[next action]]:
 	- what should I [[read]] next
 	- [[write]]
