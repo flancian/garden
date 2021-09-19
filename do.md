@@ -65,6 +65,10 @@
 	- [[slay moloch]]
 		- [[chase moloch]]
 	- [[write]]
+  	- [[flancia]]
+    	- [[book]]
+			- choose [[top 5]] nodes to expand on
+			- edit https://flancia.org
 		- [[iremos juntos hasta el final de la noche]]
 		- [[slaying moloch]]
 			- [[building bridges]]
@@ -130,7 +134,11 @@
 		- [[project snapshot]]
 			- model my digital existence as a sequence of computational snapshots
 			- what complexity class is this in generally?
-- Please tell me what you think I should [[do]] next below in the Stoa or via any of the channels listed in [[flancian]]. All feedback is welcome!
+			- what is the [[zero]]? as in, the starting state.
+  			- probably [[browser tabs]]
+  			- then more generally programs running, including optionally their context
+				- could make it easier to actually dedicate one workspace for every project -- the dream of [[richard francis burton]] IIRC?
+- Please tell me what you think I should [[do]] next (or instead of the things I'm doing or planning to do) below in the Stoa, via social media, or via any of the channels listed in [[flancian]]. All feedback is welcome!
 	- https://twitter.com/flancian/status/1386048603496529925
 	- https://twitter.com/flancian/status/1374462566395617286
 - [[push]] [[done]]
