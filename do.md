@@ -27,6 +27,9 @@
 				- this is already better after a quick PR to linkify on *click* instead of mouse movement
 				- twitter still sort of breaks though
 				- [[vera]] is on this though
+		- [[agora server]]
+  		- [ ] parse agora protocol
+    		- [ ] recognize (match) and style differently
 	- [[push]] [[agora interlace]]
 		- [[agora social media integration]]
 			- [x] write [[agora bot]] for [[mastodon]]
@@ -60,6 +63,9 @@
 	- [[push]] [[moa]]
 		- [ ] review [[go/moa/bugs]]
 	- [[write]]
+  	- [[building bridges]]
+		- [[iremos juntos hasta el final de la noche]]
+		- [[slaying moloch]]
     - [[patterns]]
 		- [[after the pandemic]], or [[an open letter to the agora]], or [[an open letter to an open nation]]
 		- [[on cringe]] / [[agora polls]]
