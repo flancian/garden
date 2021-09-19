@@ -1,10 +1,10 @@
 # Ward Cunningham
 
 - A [[person]].
-- [[twitter]] https://twitter.com/wardcunningham
-- The [[OG]]. 
-- The inventor of the [[wiki]].
-- See also: [[c2]].
+  - [[twitter]] https://twitter.com/wardcunningham
+  - The inventor of the [[wiki]].
+    - The [[OG]]. 
+  - [[pull]] [[c2]].
 
 ## [[social-knowledge-graphs-discussion]]
 
