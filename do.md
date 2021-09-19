@@ -79,13 +79,14 @@
 	- I try to automate recurrent [[actions]] in the [[agora]]. This node is the root of my [[getting things done]] graph, which I try to use to model my [[intents]].
 	- [[daily]], I try to check here for pending [[work]] in all known sources of truth.
 	- [[weekly]], I try to run [[weekly review]] and [[garbage collect]]
-	- check the context in more specific actions and push relevant items here or to [[next action]]:
-	- what should I [[read]] next
-	- [[write]]
+	- [[monthly]], I try to check the context in more specific actions/nodes and push relevant items here or to [[next action]]:
+	- what should I [[read]] next?
+	- what should I [[write]]?
 		- [[flancia]]
 			- [[book]]
-			- [[an open letter for an open society]]
+			- [[an open letter for an open society]] (this has many titles)
 		- to [[a. p.]] asking for a recommendation
+			- hmm, I don't know what this means :) as in, I don't know who I meant by [[a. p.]]
 	- [[unblock]] people who are waiting for me
 - [[research]]
 	- [[ipfs]]
