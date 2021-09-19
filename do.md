@@ -62,10 +62,14 @@
 			- in general this unlocks better [[signup]]
 	- [[push]] [[moa]]
 		- [ ] review [[go/moa/bugs]]
+	- [[slay moloch]]
+		- [[chase moloch]]
 	- [[write]]
-  	- [[building bridges]]
 		- [[iremos juntos hasta el final de la noche]]
 		- [[slaying moloch]]
+			- [[building bridges]]
+			- [[finding isomorphisms]]
+				- measuring distance to an isomorphism? there must be a term for this
     - [[patterns]]
 		- [[after the pandemic]], or [[an open letter to the agora]], or [[an open letter to an open nation]]
 		- [[on cringe]] / [[agora polls]]
@@ -115,12 +119,17 @@
 	- [[code]]
 		- [[agora server]]
 			- add particles to [[agora search]]
+			- [[browse as]]
+			- parse [[agora protocol]] (see below)
 		- [[wikilinks everywhere]] / [[agora ext]]
 			- could [[d3]] replace [[jquery]]? it would make it easy to also include a graph tool directly in the library. it's 200kb though.
 			- but we could just add [[force graph]], in general have the client side code from [[agora server]] be also there and potentially work in every agora/every place with wikilnks or links (pulling could be useful on every site)
 		- a more flexible [[actions]] system
 			- what does this mean? :)
 			- write something better or remove on next collect
+		- [[project snapshot]]
+			- model my digital existence as a sequence of computational snapshots
+			- what complexity class is this in generally?
 - Please tell me what you think I should [[do]] next below in the Stoa or via any of the channels listed in [[flancian]]. All feedback is welcome!
 	- https://twitter.com/flancian/status/1386048603496529925
 	- https://twitter.com/flancian/status/1374462566395617286
