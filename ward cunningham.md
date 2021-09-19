@@ -1,9 +1,11 @@
 # Ward Cunningham
 
 - A [[person]].
+  - [[programmer]] [[hacker]]
   - [[twitter]] https://twitter.com/wardcunningham
   - The inventor of the [[wiki]].
     - The [[OG]]. 
+  - [[fedwiki]]
   - [[pull]] [[c2]].
 
 ## [[social-knowledge-graphs-discussion]]
