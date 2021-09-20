@@ -5,7 +5,7 @@
 	- by [[tienson qin]], [[junyu zhan]]
 	- [[twitter]] https://twitter.com/logseq
 	- [[go]] https://logseq.com
-	- [[git]]https://github.com/logseq/logseq
+	- [[git]] https://github.com/logseq/logseq
 		- [[bugs]] https://github.com/logseq/logseq/issues
 	- could be a better default [[agora editor]] than [[foam]]
 		- easier to use
