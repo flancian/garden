@@ -1,7 +1,7 @@
 # transition town
 
 - a [[place]]
-  - [[grassroot]] [[community project]]
+  - or [[grassroot]] [[community project]]
   - [[wp]] https://en.wikipedia.org/wiki/Transition_town
     - based around local self-managed communities
     - [[alternate currencies]]
