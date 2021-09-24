@@ -5,6 +5,11 @@
   - [[wp]] https://en.wikipedia.org/wiki/Transition_town
     - based around local self-managed communities
     - [[alternate currencies]]
+      - these remind me a bit of [[club del trueque]] currency in [[argentina]]
+      - [[totnes pound]]
+      - [[lewes pound]]
+      - [[stroud pound]]
+      - [[brixton pound]]
     - big in the UK
       - [[totnes]] serves as inspiration
       - [[transition network]] is a UK charity
