@@ -31,7 +31,7 @@ Welcome to [[Flancia]], or [[building bridges]]:
 - [[Open ethics]].
 - [[On the pedagogy of the revolution]].
 
-Please consider this an offering to the [[people]].
+Please consider this an offering to all [[good people]].
 
 Have a nice day! I hope you [[thrive]].
 
