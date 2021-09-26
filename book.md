@@ -20,20 +20,20 @@ Welcome to [[Flancia]], or [[building bridges]]:
 - [[In Flancia there is no privilege]].
 - [[In Flancia there is no violence]].
 - [[In Flancia everybody thrives]].
-- [[In Flancia we will one day meet]].
+- [[In Flancia there is no copyright]].
 - [[In Flancia there are few walled gardens]].
 - [[In Flancia there are many cooperatives]].
 - [[In Flancia government is a digital heterarchy]].
+- [[In Flancia we will one day meet]].
 - [[Caramel City]].
 - [[Against gag orders]].
-- [[Against copyright]].
 - [[Protopoi]].
 - [[Open ethics]].
 - [[On the pedagogy of the revolution]].
 
 Please consider this an offering to all [[good people]].
 
-Have a nice day! I hope you [[thrive]].
+Have a nice day! And I hope you [[thrive]].
 
 # Towards Flancia
 
