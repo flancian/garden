@@ -3,11 +3,12 @@
 - A [[thing]].
 	- [[pull]] [[books]].
 - A [[bag of holding]].
-	- [[conducive]] or [[convergent]] to the stuff and knowledge that in it you can carry or you can transitively derive.
+	- [[conducive]] or [[convergent]] with the material reality and knowledge that in it you can carry or you can transitively derive.
+	- In this bag you have: [[our mathematical universe]].
 
-I'm trying to write a book. I call it [[Flancia]]. I have lofty aspirations, as usual, but it is really only a rough [[draft]].
+I'm trying to write this book. I call it [[Flancia]]. It is currently only a rough [[draft]].
 
-In lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm trying to put together as a gift.
+Because I'm slow and I'm dumb, in lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm trying to put together as a gift.
 
 [[Flancia]], or [[building bridges]]:
 
