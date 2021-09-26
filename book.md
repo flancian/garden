@@ -8,9 +8,9 @@
 
 I'm trying to write this book. I call it [[Flancia]]. It is currently only a rough [[draft]].
 
-Because I'm slow and I'm dumb, in lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm trying to put together as a gift.
+Because I'm slow and I'm dumb, in place of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow. 
 
-[[Flancia]], or [[building bridges]]:
+Welcome to [[Flancia]], or [[building bridges]]:
 
 - [[Meta]].
 - [[Manifesto]].
@@ -19,6 +19,7 @@ Because I'm slow and I'm dumb, in lieu of the book, you'll have to accept this: 
 - [[In Flancia there is no poverty]].
 - [[In Flancia there is no privilege]].
 - [[In Flancia there is no violence]].
+- [[In Flancia everybody thrives]].
 - [[In Flancia we will one day meet]].
 - [[In Flancia there are few walled gardens]].
 - [[In Flancia there are many cooperatives]].
