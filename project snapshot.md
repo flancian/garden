@@ -9,7 +9,7 @@
   - Oh, interesting, it was as a [[pushed]] subnode so I didn't see it in [[foam]]. This surfaces the annoyance that foam is not [[agora protocol aware]]
   - (Well, the whole of [[agora protocol]] is meta really, but this second level I guess.)
 
-The idea is to have a simple way for users, initially perhaps knowledge workers but with an intent for ever greater user friendliness and inclusivity, to be able to store and restore digital workspaces: contexts they were operating on when working on a particular task and that could be useful at a later time when attempting to resume working on the same task or one related.
+The idea is to have a [[free software]] way for users, initially perhaps knowledge workers but with an intent for ever greater user friendliness and inclusivity, to be able to store and restore digital workspaces: contexts they were operating on when working on a particular task and that could be useful at a later time when attempting to resume working on the same task or one related.
 
 I would like to support all OSes/distributions/device types but I started with what I use the most: [[gnu linux]]. I intend to do work towards integrating tools that help interested users achieve this goal in whichever way they want. Partly for this purpose I'm developing the [[agora]]: to facilitate the exchange of [[gardens]], [[siphons]] and [[bridges]] and other useful [[tools]] and integrate all contexts that users are willing to share with others.
 
