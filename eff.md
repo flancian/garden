@@ -1,5 +1,7 @@
 # EFF
 
-- [[aka]] [[electronic frontier foundation]]
-- [[push]] [[electronic frontier foundation]]
+- a [[project]]
+  - I am a [[fan]].
+  - [[pull]] [[electronic frontier foundation]]
+  - [[go]] https://eff.org
 

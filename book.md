@@ -3,13 +3,14 @@
 - A [[thing]].
 	- [[pull]] [[books]].
 - A [[bag of holding]].
-	- [[conducive]] or [[convergent]] to the stuff and knowledge that in it you can carry or you can transitively derive.
+	- [[conducive]] or [[convergent]] with the material reality and knowledge that in it you can carry or you can transitively derive.
+	- In this bag you have: [[our mathematical universe]].
 
-I'm trying to write a book. I call it [[Flancia]]. I have lofty aspirations, as usual, but it is really only a rough [[draft]].
+I'm trying to write this book. I call it [[Flancia]]. It is currently only a rough [[draft]].
 
-In lieu of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow as you find them embedded in this sometimes awkward medium, which I'm trying to put together as a gift.
+Because I'm slow and I'm dumb, in place of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow. 
 
-[[Flancia]], or [[building bridges]]:
+Welcome to [[Flancia]], or [[building bridges]]:
 
 - [[Meta]].
 - [[Manifesto]].
@@ -18,20 +19,22 @@ In lieu of the book, you'll have to accept this: this note you're reading, and t
 - [[In Flancia there is no poverty]].
 - [[In Flancia there is no privilege]].
 - [[In Flancia there is no violence]].
-- [[In Flancia we will one day meet]].
+- [[In Flancia everybody thrives]].
+- [[In Flancia there is no copyright]].
 - [[In Flancia there are few walled gardens]].
-- [[In Flancia there are many cooperatives]].
-- [[In Flancia government is a digital heterarchy]].
-- [[Caramel City]].
+- [[In Flancia there is a public utility commons]].
+- [[In Flancia there is a basic income]].
+- [[In Flancia we will one day meet]].
+- [[In Flancia world government is bootstrapped through a global social network implementing liquid democracy and rational heterarchies]].
 - [[Against gag orders]].
-- [[Against copyright]].
 - [[Protopoi]].
+- [[Caramel City]].
 - [[Open ethics]].
 - [[On the pedagogy of the revolution]].
 
-Please consider this an offering to the [[people]].
+Please consider this an offering to all [[good people]].
 
-Have a nice day! I hope you [[thrive]].
+Have a nice day! And I hope you [[thrive]].
 
 # Towards Flancia
 
