@@ -11,7 +11,7 @@
 
 The idea is to have a [[free software]] way for users, initially perhaps knowledge workers but with an intent for ever greater user friendliness and inclusivity, to be able to store and restore digital workspaces: contexts they were operating on when working on a particular task and that could be useful at a later time when attempting to resume working on the same task or one related.
 
-I would like to support all OSes/distributions/device types but I started with what I use the most: [[gnu linux]]. I intend to do work towards integrating tools that help interested users achieve this goal in whichever way they want. Partly for this purpose I'm developing the [[agora]]: to facilitate the exchange of [[gardens]], [[siphons]] and [[bridges]] and other useful [[tools]] and integrate all contexts that users are willing to share with others.
+I would like to support all OSes/distributions/device types but I started with what I use the most: [[gnu linux]]. I intend to do work towards integrating tools that help other interested users achieve this goal in whichever way they want. Partly for this purpose I'm developing the [[agora]]: to facilitate the exchange of [[gardens]], [[siphons]] and [[bridges]] and other useful [[tools]] and optionally integrate all contexts that users are willing to share with others sharing their intents.
 
 Currently [[i3 resurrect]] does most of the heavy lifting, which says about the idiosyncrasy of the solution, but I am interested in adopting all useful general conventions. I take ample [[screenshots]] to annotate moments in time, and publish a subset of my photos and thoughts here in the [[agora]].
 
