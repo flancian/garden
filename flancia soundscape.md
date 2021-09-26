@@ -1,5 +1,4 @@
 # flancia soundscape
 
-- [[pebble beach]]  
-- plus [[go]] 
+- [[pebble beach]] plus [[japanese garden]].
 
