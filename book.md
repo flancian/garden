@@ -22,8 +22,9 @@ Welcome to [[Flancia]], or [[building bridges]]:
 - [[In Flancia everybody thrives]].
 - [[In Flancia there is no copyright]].
 - [[In Flancia there are few walled gardens]].
-- [[In Flancia there are many cooperatives]].
-- [[In Flancia government is a digital heterarchy]].
+- [[In Flancia there is a public utility commons]].
+- [[In Flancia there is a basic income]].
+- [[In Flancia world government is bootstrapped through a global social network implementing liquid democracy and rational heterarchies]].
 - [[In Flancia we will one day meet]].
 - [[Caramel City]].
 - [[Against gag orders]].
