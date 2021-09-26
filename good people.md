@@ -1,0 +1,4 @@
+# good people
+
+- [[pull]] [[friends]]
+
