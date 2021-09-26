@@ -1,3 +1,4 @@
-- a [[space]]
-	- [[sound]] https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php
-		- [[go]] [[sound]]
+
+- a [[soundscape]].
+	- [[mynoise]]
+	- [[go]] https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php
