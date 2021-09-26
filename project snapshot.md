@@ -10,5 +10,7 @@
 
 The idea is to have a simple way for users, initially perhaps knowledge workers but with an intent for user friendliness, to be able to store and restore digital workspaces: contexts they were operating on when working on a particular task, say, and could be usefully restore to resume working on the same task or a continuation. 
 
-I would like to support all OS/distribution/device types but I started with what I use. I intend to dedicate work to integrating tools that help users achieve this goal in whichever way they want, no matter the kind of device they are operating on. For this purpose I'm developing the [[agora]]: to facilitate the exchange of [[gardens]], [[siphons]] and [[bridges]] that integrate all contexts that users are willing to share with others.
+I would like to support all OS/distribution/devices but I started with what I use. I intend to dedicate work to integrating tools that help users achieve this goal in whichever way they want, no matter the kind of device they are operating on. For this purpose I'm developing the [[agora]]: to facilitate the exchange of [[gardens]], [[siphons]] and [[bridges]] that integrate all contexts that users are willing to share with others.
+
+Currently [[i3 resurrect]] does most of the heavy lifting, which says to the idiosyncrasy of the solution, but I am interested in adopting all useful general conventions.
 
