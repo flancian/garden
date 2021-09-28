@@ -40,7 +40,12 @@
 			- [[prioritization]]
 			- [[curation]]
 			- [[moderation]]
-			- [[knovigator]] does quadratic voting
+			- [[knovigator]] does [[quadratic voting]]
 		- [[synthesis]]
 		- [[convergence]]
 		- [[integration]]
+
+## Next
+- [[knovigator]]
+- [[intentional programming]]
+- [[data structures]]
