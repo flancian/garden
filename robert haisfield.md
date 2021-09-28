@@ -11,6 +11,7 @@
 - [[thegraph]] thegraph.com
 	- information on the blockchain
 	- [[graphql schemas]]
+	- [[grt token]]
 - consult with products w.r.t. strategy / gamification
   - people often don't use products the "right" way -- they haven't been told what to use a product to
 	- focused on [[intention behavior gap]]
@@ -26,3 +27,5 @@
 - could [[outliner]] mode influence people towards other ways of thinking? e.g. divergent thinking
 	- how to push people towards [[synthesis]]?
 - academic background in [[behavioral economics]]
+- [[agora]]
+- how do you get the people that are asking the people that are asking X in the same room together, if they are not using the same words?
