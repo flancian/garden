@@ -11,3 +11,6 @@
 - [[thegraph]] thegraph.com
 	- information on the blockchain
 	- [[graphql schemas]]
+- consult with products w.r.t. strategy / gamification
+  - people often don't use products the "right" way -- they haven't been told what to use a product to
+	- focused on [[intention behavior gap]]
