@@ -15,3 +15,11 @@
   - people often don't use products the "right" way -- they haven't been told what to use a product to
 	- focused on [[intention behavior gap]]
 	- for example [[twitter]] could have been designed to disincentivize e.g. misinformation and incentivize other behavoirs
+- [[tristan harris]]
+	- admiration for what he's doing
+	- no such thing as a neutral design
+	- [[misaligned incentives]]
+- [[guided track]]
+	- one of rob's favourite jobs
+	- imagine a domain specific language for building forms
+- could [[outliner]] mode influence people towards other ways of thinking? e.g. divergent thinking
