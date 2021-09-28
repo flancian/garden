@@ -35,11 +35,11 @@
 		- [[stoa]]
 		- [[meca]]
 			- is there a term for this? there probably is :)
-			- [[user involvement]] is what rob uses
-			- [[prioritization]]
-			- [[curation]]
-			- [[moderation]]
-			- [[knovigator]] does [[quadratic voting]]
+				- [[user involvement]] is what rob uses
+				- [[prioritization]]
+				- [[curation]]
+				- [[moderation]]
+				- [[knovigator]] does [[quadratic voting]]
 		- [[synthesis]]
 		- [[convergence]]
 		- [[integration]]
@@ -49,3 +49,4 @@
 - [[intentional programming]]
 - [[data structures]]
 	- [[limits of outliner mode]]
+- [[what sort of structure are people implicitly putting into their notes]]
