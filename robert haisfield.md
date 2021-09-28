@@ -23,3 +23,4 @@
 	- one of rob's favourite jobs
 	- imagine a domain specific language for building forms
 - could [[outliner]] mode influence people towards other ways of thinking? e.g. divergent thinking
+- academic background in [[behavioral economics]]
