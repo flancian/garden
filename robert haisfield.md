@@ -29,3 +29,10 @@
 - academic background in [[behavioral economics]]
 - [[agora]]
 - how do you get the people that are asking the people that are asking X in the same room together, if they are not using the same words?
+- relationships between people
+	- [[social functions]]
+  	- arguments for one: claim, multiple participants
+		- [[node club]]
+		- [[stoa]]
+		- [[meca]]
+			- is there a term for this? there probably is :)
