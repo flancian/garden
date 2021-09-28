@@ -36,3 +36,11 @@
 		- [[stoa]]
 		- [[meca]]
 			- is there a term for this? there probably is :)
+			- [[user involvement]] is what rob uses
+			- [[prioritization]]
+			- [[curation]]
+			- [[moderation]]
+			- [[knovigator]] does quadratic voting
+		- [[synthesis]]
+		- [[convergence]]
+		- [[integration]]
