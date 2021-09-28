@@ -7,7 +7,6 @@
 	- https://twitter.com/RobertHaisfield/status/1407694191329615878
 
 ## [[2021-09-28]]
-
 - [[thegraph]] thegraph.com
 	- information on the blockchain
 	- [[graphql schemas]]
@@ -49,3 +48,4 @@
 - [[knovigator]]
 - [[intentional programming]]
 - [[data structures]]
+	- [[limits of outliner mode]]
