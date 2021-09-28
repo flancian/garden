@@ -50,3 +50,5 @@
 - [[data structures]]
 	- [[limits of outliner mode]]
 - [[what sort of structure are people implicitly putting into their notes]]
+	- [[markdown query]]
+	- [[tree query]]
