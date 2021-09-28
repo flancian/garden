@@ -14,3 +14,4 @@
 - consult with products w.r.t. strategy / gamification
   - people often don't use products the "right" way -- they haven't been told what to use a product to
 	- focused on [[intention behavior gap]]
+	- for example [[twitter]] could have been designed to disincentivize e.g. misinformation and incentivize other behavoirs
