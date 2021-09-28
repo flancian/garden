@@ -22,5 +22,7 @@
 - [[guided track]]
 	- one of rob's favourite jobs
 	- imagine a domain specific language for building forms
+	- [[learnable programming]]
 - could [[outliner]] mode influence people towards other ways of thinking? e.g. divergent thinking
+	- how to push people towards [[synthesis]]?
 - academic background in [[behavioral economics]]
