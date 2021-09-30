@@ -2,7 +2,7 @@
 
 - a [[person]]
   - [[feminist]] [[thinker]]
-  - [[wp]] https://en.wikipedia.org/w/Roxanne_Gay
+  - [[wp]] https://en.wikipedia.org/wiki/Roxanne_Gay
   - [[writer]]
     - [[bad feminist]]
 
