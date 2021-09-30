@@ -1,6 +1,6 @@
 # An Agora
 
-- an [[agora]]
+- this particular [[agora]] is just [[an agora]].
 	- [[push]] [[schelling point]] [[agoras]]
   - [[go]] https://anagora.org
   - This is just one particular [[agora]]. I hope there will be many like it or better.
