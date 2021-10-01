@@ -10,6 +10,7 @@
       - [[agora social media integration]]
       - ui fixes/improvements
       - [[node club]]
+      - think of [[november session]]
     - [[flancia]]
       - [[write]]
         - [[an open letter to the agora]]
