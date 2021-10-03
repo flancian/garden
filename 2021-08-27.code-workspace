@@ -17,6 +17,7 @@
 		"vim.handleKeys": {
 			"[": false,
 			"]": false
-		}
+		},
+		"gitdoc.enabled": true
 	}
 }
