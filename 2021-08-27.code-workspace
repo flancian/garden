@@ -18,6 +18,7 @@
 			"[": false,
 			"]": false
 		},
-		"gitdoc.enabled": true
+		"gitdoc.enabled": true,
+		"todo-tree.tree.scanMode": "workspace"
 	}
 }
