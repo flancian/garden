@@ -28,7 +28,11 @@
 	- interest in alternate modes of organization
 	- https://coops.tech
 - [[disco]]
+- [[four types of anti capitalism]]
+- [[walkaway]]
 - [[fedwiki]]
+	- [[the chorus of voices]]
+	- [[free, fair and alive]]
 - [[indie web]]
 
 
