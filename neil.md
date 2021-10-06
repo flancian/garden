@@ -27,6 +27,7 @@
 - [[cooperative movement]]
 	- interest in alternate modes of organization
 	- https://coops.tech
+- [[disco]]
 - [[fedwiki]]
 - [[indie web]]
 
