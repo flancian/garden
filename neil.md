@@ -19,6 +19,11 @@
 		- [[top of mind]]
 		- simple spaced repetition by [[anne-laure le cunff]] https://nesslabs.com/spaced-repetition-roam-research
 - [[the restart project]]
+	- is there a good book to get started in the repair movement?
+	- https://wiki.restarters.net
+- [[push]] [[2021-10-16]]
+	- [[open repair]]
+	- [[repair day 2021]]
 - [[fedwiki]]
 - [[indie web]]
 
