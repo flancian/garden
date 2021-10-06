@@ -24,6 +24,9 @@
 - [[push]] [[2021-10-16]]
 	- [[open repair]]
 	- [[repair day 2021]]
+- [[cooperative movement]]
+	- interest in alternate modes of organization
+	- https://coops.tech
 - [[fedwiki]]
 - [[indie web]]
 
