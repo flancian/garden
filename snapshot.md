@@ -8,5 +8,4 @@
     - actually just uses [[tabfs]] for the interesting part, that of interacting with your browser
     - [[go]] [[git]]
   
-[[https://twitter.com/flancian/status/1379795795973640197]]
-
+https://twitter.com/flancian/status/1379795795973640197
