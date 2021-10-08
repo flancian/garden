@@ -36,3 +36,5 @@
 - [[indie web]]
 	- has a fantastic wiki, [[media wiki]] based
 - [[theories of change]]
+	- [[community of practice]]
+- 
