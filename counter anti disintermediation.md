@@ -11,4 +11,7 @@
       - [[fission]]
   - [[neil]] https://social.coop/web/statuses/107071940849631302
   - Although the [[agora]] is currently based on a server platform it is opposed to anti-disintermediation. It is run for the public good and not for profit.
+    - [[building bridges]]
+      - [[agora bridge]]
+      - [[moa]] 
 
