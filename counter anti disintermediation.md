@@ -9,5 +9,5 @@
       - [[decentralized web]]
       - [[serverless]]
         - [[fission]]
-    - Although anagora.org is as an server-side platform that is opposed to anti-disintermediation. that is run for free because we can.
+    - Although the [[agora]] is currently based on a server platform it is opposed to anti-disintermediation. It is run for the public good and not for profit.
 
