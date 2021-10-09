@@ -1,2 +1,4 @@
 # Idea
 
+- [[pull]] [[ideas]].
+
