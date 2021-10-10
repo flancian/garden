@@ -41,6 +41,7 @@
 		- [[clipboard sync]]
 	- [[tweets]]
 	- [[wayland]]
+	- install [[maubot]] and [[maya]]'s matrix voice messages transcription service
 - [[push]] [[done]] 
   - [[listen]] audio messages
 		- [[jonathan]]
