@@ -1,7 +1,8 @@
 # counter anti disintermediation
 
 - a [[doctrine]]
-  - [[counter]] [[anti disintermediation]]
+  - [[against]] [[anti disintermediation]]
+    - says that [[distributed systems]] and [[web 3]] are likely the best tools to counteract [[anti disintermediation]] as effected by profit-seeking centralizing entities
   - [[go]] http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation
     - [[quote]] Centralization is required to capture profit. Disintermediating platforms were ultimately reintermediated by way of capitalist investors dictating that communications systems be designed to capture profit.
     - [[quote]] Users of e-mail and Usenet, the two most common platforms, did not generally operate their own servers on their own local computers, but were dependent on servers run by others. But servers require upkeep. Operators need to finance hosting and administration. As the Internet grew beyond its relatively small early base, Internet service came to be provided by capitalist corporations, rather than public institutions, small businesses, or universities. Open, decentralized services came to be replaced by private, centralized platforms. The profit interests of the platform financiers drove [[anti-disintermediation]]. 
