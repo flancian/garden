@@ -3,5 +3,5 @@
 - a [[meeting]]
   - [[pull]] [[federated wiki video chat]]
   - [[ward cunningham]]
-  - [[go]] https://zoom.us/j/619897150?pwd=M1d3WjJYc2x3NEcwQnZyWDYwaHhsQT09#success
+  - [[go]] https://zoom.us/j/619897150?pwd=M1d3WjJYc2x3NEcwQnZyWDYwaHhsQT09
 
