@@ -9,6 +9,8 @@
     - [[quote]] End-to-End principle: platforms must not depend on servers and admins, even when cooperatively run, but must, to the greatest degree possible, run on the computers of the platform’s users.   
   - [[web 3]] is a possible answer, being a set of tools to drive a serverless internet
     - [[decentralized web]]
+    - [[ipfs]]?
+    - [[hypercore]]?
     - [[fission]]?
   - [[neil]] https://social.coop/web/statuses/107071940849631302
   - Although the [[agora]] is currently based on a server platform it is opposed to anti-disintermediation. It is run for the public good and not for profit.
