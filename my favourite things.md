@@ -2,7 +2,7 @@
 
 - A [[jazz]] [[standard]].
 	- Great.
-	- Love the [[john coltrane]] version.
-	- Also [[charlie parker]]'s.
-- a [[list]].
+	- Love the versions by [[john coltrane]] and [[charlie parker]] version.
+- a [[set]].
+	- of [[things]]
 
