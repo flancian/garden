@@ -11,3 +11,4 @@
 
 I don't enter flow as often as I would like and that usually frustrates me; it's low key frustration but frustation nevertheless, and it builds up the longer it is sustained. It's like a part of my brain knows that we should get back to it, but life gets in the way; or, most often, I just procrastinate on triggering the right conditions.
 
+Sometimes I like to get into flow with a [[quick fix]].

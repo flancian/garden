@@ -61,3 +61,6 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 - on [[building]].
   - I think we should [[build more bridges]].
   - I think we should [[build pyramids]], but under one condition only: each unit block we add to them (Minecraft like) maps to a human being that died without having gotten the necessary living conditions to [[thrive]] in some region of the universe.
+
+- Some days I "tweet" here in the Agora instead of live on Twitter/Mastodon. I will eventually make it so that blocks here are auto-tweeted/tooted, but for now honestly it's also fine as it is.
+- [[meditations on procrastination]] 
