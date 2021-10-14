@@ -9,7 +9,8 @@
 
 ## [[2021-10-13]]
 - [[push]] [[hypha 2021-10-13]]
-	- [[ben]] [[udit]] [[vera]] [[flancian]]?
+	- [[ben]] [[udit]] [[vera]] [[flancian]]
+	- [[hypha started in 2018]] [[udit]] has been since the beginning
 	- cooperative and collective endeavours that seek to improve the world for others
 	- [[web rings]]
 	- [[reading lists]]
