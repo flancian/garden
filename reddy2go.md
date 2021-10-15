@@ -7,7 +7,11 @@
   - [[zoom games]] 
 
 ## [[2021-10-15]]
-- nice to meet!
+- nice to meet! intros
+- [[games]]
+- [[education]]
 - [[protopias]]
-- [[flanbridge]]
-- [[flanbook]]
+- [[flancia]]
+  - [[agora]]
+  - [[flanbridge]]
+  - [[flanbook]]
