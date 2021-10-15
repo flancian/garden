@@ -4,5 +4,5 @@
   - [[friend]].
   - [[mathematician]] [[computer scientist]]
   - [[pull]] [[pesho ivanov]]
-  - [[go]] https://pesho-ivanov.github.io/
+    - [[go]] https://pesho-ivanov.github.io/
 
