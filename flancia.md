@@ -4,8 +4,8 @@
   - [[push]] [[book]].
 		- [[Flancia]], or with a little help from my [[friends]].
 - A [[place]] in our minds.
-	- A [[space]] dense with [[protopias]].
-	- The world of the [[Flancians]] could be said to be similar to ours, the result of evolution over a space that can allow for things to be made better with effort put on the exercise of the [[incrementally good]].
+	- A [[protopia]].
+	- The world of the [[Flancians]] could be said to be similar to ours, the result of evolution over a material relity that sometimes allows for things to be made better with the application of effort towards achieving an [[incremental improvement]].
 		- I am a [[Flancian]] and this is my manifesto:
 			- In [[Flancia]] there is no [[poverty]].
 			- In [[Flancia]] there is no [[violence]].
