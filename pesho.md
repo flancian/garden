@@ -1,0 +1,5 @@
+# pesho
+
+- a [[person]].
+  - [[friend]]
+
