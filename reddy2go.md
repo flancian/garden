@@ -33,7 +33,12 @@
   - [[agora protocol]] concept
   - [[debate]] vs [[impro]]
   - playmates, playbooks and playgrounds
+- how to keep out evil elements from a playground -- osmosis
+  - option 1: a bouncer
+  - option 2: a buddha
 - [[education]]
+- [[governance]]
+  - [[dao]]
 - [[protopias]]
 - [[flancia]]
   - [[agora]]
