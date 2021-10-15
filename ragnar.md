@@ -1,5 +1,6 @@
 # ragnar
 
 - a [[person]]
-  - my [[friend]]
+  - [[friend]]
+  - [[mathematician]] [[computer scientist]]
 

@@ -1,6 +1,6 @@
 # pesho
 
 - a [[person]].
-  - [[friend]]
+  - [[friend]].
   - [[mathematician]] [[computer scientist]]
 
