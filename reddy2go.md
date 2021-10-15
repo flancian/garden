@@ -29,6 +29,10 @@
   - [[meditation]] framed as [[playing with your thoughts]]
 - [[philosophy]] and [[religion]]
   - movements mostly seem to be [[competing with each other]]
+- games to promote joyful conversations between people
+  - [[agora protocol]] concept
+  - [[debate]] vs [[impro]]
+  - playmates, playbooks and playgrounds
 - [[education]]
 - [[protopias]]
 - [[flancia]]
