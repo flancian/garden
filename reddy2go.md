@@ -26,6 +26,8 @@
     - which are sometimes as free as the previous
   - vision: libraries and playgrounds -- with playgrounds in the center
   - [[a safe space to be irreverent]]
+- [[philosophy]] and [[religion]]
+  - movements mostly seem to be [[competin with each other]]
 - [[education]]
 - [[protopias]]
 - [[flancia]]
