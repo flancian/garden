@@ -6,4 +6,4 @@
 		- In Flancia we will one day [[meet]].
 		- In [[Flancia]] there is an [[Agora]].
 	- [[pull]] [[friends]]
-	- [[go]] https://flancia.org/
+	- [[go]] https://flancia.org/manifesto
