@@ -17,5 +17,3 @@ See you on the other side, my [[friends]]!
 [[Juntos Venceremos a Moloch]].
 
 [[Iremos juntos hasta el fin de la noche]].
-
-@an_agora @agora@botsin.space
