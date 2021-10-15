@@ -6,6 +6,9 @@
     - [[facebook]]
     - [[twitter]]
     - [[instagram]]
+  - [[knowledge]]
+    - [[elsevier]]
+    - [[jstor]]
 - [[in flancia there are no walled gardens]]
 
 
