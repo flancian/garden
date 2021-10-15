@@ -1,5 +1,6 @@
 # Stoa
 
+- A URL that allows [[iframes]] or other means of embedding or composing.
 - A [[place]] to meet others with the intent of [[cooperating]].
 - A covered spot, usually a [[porch]], within an [[agora]].
   - A [[semi public]] [[space]].
