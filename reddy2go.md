@@ -8,3 +8,5 @@
 
 ## [[2021-10-15]]
 - nice to meet!
+- [[flanbridge]]
+- [[flanbook]]
