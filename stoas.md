@@ -2,6 +2,9 @@
 
 - a [[list]]
   - [[pull]] [[stoa]] 
-  - [[default]] https://doc.anagora.org
+  - the [[agora]] contains many [[stoas]]
+    - [[default]] https://doc.anagora.org
+  - [[wikipedia]]
+    - [[wikis]]
 
 

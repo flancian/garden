@@ -1,6 +1,6 @@
 # Stoa
 
-- A URL that allows [[iframes]] or announces other means of embedding or composing.
+- A URL that allows [[iframes]] or announces other means of embedding or composing, ideally with a default intent of cooperation.
 - A [[place]] to meet others with the intent of [[cooperating]].
 - A covered spot, usually a [[porch]], within an [[agora]].
   - A [[semi public]] [[space]].
