@@ -12,8 +12,10 @@
   - driving idea: "we should all come together"
   - is there some way to go back to childhood
   - what people need is connection
+- [[games]]
 - [[reddy]]
   - about to release a [[book]]!
+    - a [[playbook]]
   - idea of the book is to put the ideas out there
   - play is *not* gamification
   - play like a child:
@@ -24,8 +26,6 @@
     - which are sometimes as free as the previous
   - vision: libraries and playgrounds -- with playgrounds in the center
   - [[a safe space to be irreverent]]
-- [[games]]
-  - 
 - [[education]]
 - [[protopias]]
 - [[flancia]]
