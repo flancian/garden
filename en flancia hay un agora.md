@@ -1,7 +1,6 @@
 # En Flancia Hay Un Agora
 
-- [[pull]] [[flancés]]
-- [[pull]] [[manifesto]]
-  - [[push]] [[es]]
+- [[pull]] [[in flancia there is an agora]] [[flancés]] [[manifesto]]
+  - [[es]]
 
 
