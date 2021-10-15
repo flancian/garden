@@ -1,7 +1,8 @@
 # Per Aspera Ad Astra
 
-- [[pull]] [[ad astra per aspera]]
+- the default [[agora]] or [[flancia]] motto? it's perhaps a bit [[cliche]] but it's got good bones.
 - [[go]] https://en.wikipedia.org/wiki/Per_aspera_ad_astra
-- [[by]] [[john ingalls]]
+  - [[pull]] [[ad astra per aspera]]
+  - [[by]] [[john ingalls]]
 
 
