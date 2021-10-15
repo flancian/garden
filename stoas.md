@@ -1,5 +1,6 @@
 # Stoas
 
-- [[push]] [[stoa]] 
+- a [[list]]
+  - [[pull]] [[stoa]] 
 
 
