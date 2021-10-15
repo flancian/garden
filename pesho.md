@@ -2,6 +2,7 @@
 
 - a [[person]].
   - [[friend]].
-  - [[pull]] [[pesho ivanov]]
   - [[mathematician]] [[computer scientist]]
+  - [[pull]] [[pesho ivanov]]
+  - [[go]] https://pesho-ivanov.github.io/
 
