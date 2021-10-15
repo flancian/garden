@@ -6,4 +6,5 @@
 - Designs [[games]].
   - [[zoom games]] 
 
-
+## [[2021-10-15]]
+- nice to meet!
