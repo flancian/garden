@@ -39,6 +39,8 @@
 - [[education]]
 - [[governance]]
   - [[dao]]
+    - as platform for liquid democracy?
+    - perhaps self-destruct after five years
 - [[protopias]]
 - [[flancia]]
   - [[agora]]
