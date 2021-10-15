@@ -9,9 +9,10 @@
 	- Flancia is, I believe, a place that exists as an hypothetical shared future. Flancia exists in the [[multiverse]].
 - a [[thing]].
   - [[go]] https://flancia.org
-  - [[pull]] [[flancia collective]]
-	- I am a [[flancian]] and the [[Agora]] contains my [[manifesto]].
-  - Flancia existed before the [[agora]] but is in the limit defined by how the Agora is put to an use towards a specific purpose by the members of the collective, that runs the reference Agora.
+  - I am a [[flancian]] and the [[Agora]] contains my [[manifesto]].
+		- Flancia existed before this [[agora]] but is in the limit defined by how it can be put to use towards a state of higher [[public utility]] by the [[flancians]].
+	- [[pull]] [[flancia collective]]
+		- runs the [[reference agora]].
 	- a [[set]].
 		- of [[people]] and [[things]].
 		- a [[subset]].
