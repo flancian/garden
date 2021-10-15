@@ -5,7 +5,8 @@
 		- [[Flancia]], or with a little help from my [[friends]].
 - A [[place]] in our minds.
 	- A [[protopia]].
-	- The world of the [[Flancians]] could be said to be similar to ours, the result of evolution over a material relity that sometimes allows for things to be made better with the application of effort towards achieving an [[incremental improvement]].
+	- The world of the [[Flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
+	- Flancia is, I believe, a place that exists as an hypothetical shared future.
 		- I am a [[Flancian]] and this is my manifesto:
 			- In [[Flancia]] there is no [[poverty]].
 			- In [[Flancia]] there is no [[violence]].
