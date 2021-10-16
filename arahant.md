@@ -2,6 +2,6 @@
 
 - a [[person]]
   - [[conscious]] [[being]]
-  - [[pull]] [[arahants]]
+  - [[pull]] [[arahants]] [[arhat]]
     - someone who has achieved [[insight]] and [[nirvana]]
 
