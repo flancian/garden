@@ -32,14 +32,17 @@
   - mostly funded by doctors (!)
   - [[inclusive stakeholding]]
   - [[hie of one]] is also in this space: https://hieofone.com/
+  - some [[open source]] components
 - founded [[evercred]]
 - how do you manage [[governance]]?
   - right now the only decentralized part is identity/certification checking
   - token incentives, moderation protocol
   - will be tested properly when a few thousand people are around
+- would like to hire a [[cto]]
 - [[counter anti disintermediation]]
 - [[liquid democracy]]
   - [[holacracy]]
   - [[quadratic voting]]
+- [[radical ones]]
 
 

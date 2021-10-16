@@ -2,5 +2,6 @@
 
 - a [[person]]
   - [[friend]]
-  - [[mathematician]] [[computer scientist]]
+  - [[mathematician]] [[computational biologist]]
+  - [[go]] https://research.curiouscoding.nl
 
