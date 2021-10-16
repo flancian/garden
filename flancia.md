@@ -1,9 +1,6 @@
 # Flancia
 
-- A [[book]] we're trying to write.
-  - [[push]] [[book]].
-		- [[Flancia]], or with a little help from my [[friends]].
-- A [[place]] in our minds.
+- A [[place]] in my mind.
 	- A [[protopia]].
 	- The world of the [[Flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
 	- Flancia is, I believe, a place that exists as an hypothetical shared future. Flancia exists in the [[multiverse]].
@@ -20,6 +17,9 @@
 		- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 		- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
 			- [[space]] [[gather]]
+- A [[book]] we're trying to write.
+  - [[push]] [[book]]
+		- [[Flancia]], or with a little help from my [[friends]].
 
 https://twitter.com/flancian/status/1298701482997538822
 https://twitter.com/flancian/status/1298708974364024832
