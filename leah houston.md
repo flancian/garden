@@ -31,6 +31,7 @@
   - in the end is [[for profit]] but it'll be a [[dao]]
   - mostly funded by doctors (!)
   - [[inclusive stakeholding]]
+  - [[hie of one]] is also in this space: https://hieofone.com/
 - how do you manage [[governance]]?
   - right now the only decentralized part is identity/certification checking
   - token incentives, moderation protocol
