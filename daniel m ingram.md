@@ -1,4 +1,7 @@
 # daniel m ingram
 
-- [[pull]] [[daniel ingram]]
+- a [[person]].
+  - [[pull]] [[daniel ingram]]
+  - [[go]] https://www.integrateddaniel.info/
+  - [[twitter]] https://twitter.com/danielmingram
 

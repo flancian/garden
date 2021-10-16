@@ -1,4 +1,6 @@
 # arahant
 
-- [[pull]] [[arahants]]
+- a [[person]]
+  - [[pull]] [[arahants]]
+  - someone who has achieved [[insight]] and [[nirvana]]
 

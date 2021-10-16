@@ -2,6 +2,6 @@
 
 - a [[person]].
   - [[arahant]].
-  - [[friend]].
   - [[pull]] [[mctb]]
+  - [[friend]].
 
