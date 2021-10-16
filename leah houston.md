@@ -2,7 +2,7 @@
 
 - a [[person]].
   - [[physician]] [[emergency doctor]]
-  - founder [[hpec]]
+  - founder [[hpec]] [[evercred]]
   - interested in [[dao]]
 
 ## [[2021-10-16]]
@@ -32,6 +32,7 @@
   - mostly funded by doctors (!)
   - [[inclusive stakeholding]]
   - [[hie of one]] is also in this space: https://hieofone.com/
+- founded [[evercred]]
 - how do you manage [[governance]]?
   - right now the only decentralized part is identity/certification checking
   - token incentives, moderation protocol
