@@ -13,6 +13,7 @@
     - [[abstract fairy]]
     - [[neil]]
     - [[mohammed]]
+    - [[luciana]]
 - reach out to a member of the collective if you are interested in joining!
 	- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
 - if you are otherwise interested with [[cooperating]] with the [[flancia collective]], we are very interested! We strive to be [[prosocial]].

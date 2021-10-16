@@ -1,7 +1,7 @@
 - A [[person]].
-	- a [[flancian]]
-	- [[push]] [[flancian]]
-	- [[agora]] [[agora]]: https://anagora.org/
-		- [[pull]] [[@luciana]]
-	- [[obsidian]].
+	- [[friend]] [[partner]].
+	- [[luciana]] was in [[flancia]] since the beginning.
+		- she's a [[flancian]].
+	- [[agora]] [[@luciana]]
+		- uses [[obsidian]].
 
