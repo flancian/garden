@@ -36,5 +36,8 @@
   - token incentives, moderation protocol
   - will be tested properly when a few thousand people are around
 - [[counter anti disintermediation]]
+- [[liquid democracy]]
+  - [[holacracy]]
+  - [[quadratic voting]]
 
 
