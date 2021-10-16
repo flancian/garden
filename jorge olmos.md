@@ -1,3 +1,0 @@
-# jorge olmos
-
-- a [[person]]
