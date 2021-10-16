@@ -13,12 +13,10 @@
   - I should use the extension more often :)
   - This extension could be seen as an [[agora client]]: [[agora hypothesis integration]].
   - [[diegodlh]] has experience with it: https://diegodlh.github.io/hfeed/
-
-## Agora
-- [[agora hypothesis integration]]
   - https://web.hypothes.is/for-publishers/#embedding
 
 ## Open questions
+- ask [[dan whaley]]
 - What is their longer term vision?
   - "We’re a on a mission to bring an open conversation over the whole web. Use Hypothesis right now to hold discussions, read socially, organize your research, and take personal notes."
   - [[see also]] [[the revolution will be annotated]]
