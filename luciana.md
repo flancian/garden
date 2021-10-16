@@ -1,4 +1,4 @@
-- A [[person]].
+- a beautiful [[person]].
 	- [[friend]] [[partner]].
 	- [[luciana]] was in [[flancia]] since the beginning.
 		- she's also a [[flancian]].
