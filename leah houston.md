@@ -1,5 +1,6 @@
 # leah houston
 
 - a [[person]].
-  - [[hpec]]
+  - [[physician]] 
+  - founder [[hpec]]
 
