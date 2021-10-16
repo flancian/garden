@@ -2,7 +2,7 @@
 
 - an [[intent]]
   - [[pull]] [[slay moloch]] 
-  - despise the gruesome picture it may evoke, it is actually about [[building bridges]] -- a constructive isomorphism to slaying [[moloch]]
+  - despite the gruesome picture it may evoke, it is actually about [[building bridges]] -- a constructive path to slaying [[moloch]]
   - [[some days I feel like slaying moloch]]
     - might trigger [[cringe]]
     - I mean to [[write]] a proper [[essay]] 
