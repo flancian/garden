@@ -3,5 +3,5 @@
 - a [[person]].
   - [[tech]]
   - [[twitter]] https://twitter.com/doOwnDD
-  - [[lucid]] [[mairmintco]]
+  - [[lucid]] [[fairmintco]]
 
