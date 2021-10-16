@@ -2,4 +2,5 @@
 
 - a [[person]].
   - [[arahant]].
+  - [[friend]].
 
