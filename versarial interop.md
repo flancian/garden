@@ -1,5 +1,5 @@
 # 'versarial interop
 
 - [[adversarial [[interoperatibility]]] ]
-  - (adversarial(interoperability))
+  - (adversarial(interoperability)) will set the internet [[free]].
 
