@@ -1,4 +1,5 @@
-# versarial interop
+# 'versarial interop
 
-- [[adversarial [[interoperatibility]]]]
+- [[adversarial [[interoperatibility]]] ]
+  - (adversarial(interoperability))
 
