@@ -5,5 +5,6 @@
   - by [[interstar]]
   - [[git]] https://github.com/interstar/cardigan-bay
     - [[go]] [[git]]
+    - [[clojure]]
   - https://twitter.com/interstar/status/1450565926819090437
 
