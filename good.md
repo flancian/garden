@@ -11,5 +11,5 @@
     - [[open ethics]]
     - [[projects]] and [[groups]] that try to increase [[public utility]].
   - What is [[good]] for you? 
-    - Please tell us in the [[Stoa]].
+    - You can write in the [[Stoa]] below.
 
