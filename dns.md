@@ -1,6 +1,7 @@
 # dns
 
 - a [[system]].
+  - [[hierarchical]] [[decentralized]]
   - [[domain name system]]
     - [[wp]] https://en.wikipedia.org/wiki/Domain_Name_System
 - a [[thing]].
