@@ -1,4 +1,4 @@
 # character class
 
-- [[pull]] [[rpg classes]]
+- [[pull]] [[character classes]] [[rpg classes]]
 
