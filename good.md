@@ -4,12 +4,14 @@
   - These are my beliefs.
   - What is good? To be good to others.
   - The following are [[good]]:
-    - [[effective altruism]]
-    - [[rationality]]
-    - [[compassion]]
-    - [[open source]]
-    - [[open ethics]]
-    - [[projects]] and [[groups]] that try to increase [[public utility]].
+    - [[rationality]].
+    - [[honesty]].
+    - [[compassion]].
+    - [[effective altruism]].
+    - [[open ethics]].
+    - [[open source]].
+    - [[groups]] that try to do [[good]].
+    - [[projects]] that try to increase [[public utility]].
   - What is [[good]] for you? 
     - You can write in the [[Stoa]] below.
 
