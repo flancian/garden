@@ -1,4 +1,5 @@
 # character class
 
-- [[pull]] [[character classes]] [[rpg classes]]
+- I prefer [[classless systems]], but...
+  - [[pull]] [[character classes]] [[rpg classes]]
 
