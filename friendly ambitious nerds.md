@@ -2,4 +2,7 @@
 
 - a [[list]].
   - [[pull]] [[visakanv]]
+  - [[victor hugo]]
+  - [[flancian]]
+  - who else?
 
