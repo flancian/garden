@@ -1,7 +1,8 @@
 # dns
 
 - a [[system]].
-  - [[w]]
+  - [[domain name system]]
+    - [[wp]] https://en.wikipedia.org/wiki/Domain_Name_System
 - a [[thing]].
   - [[pull]] [[servers]] [[domains]]
   - I use [[namecheap]].
