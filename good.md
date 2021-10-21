@@ -2,7 +2,7 @@
 
 - I try to be [[good]], but I'm only [[well meaning]].
   - These are my beliefs:
-  - What is good? To try to be good to others.
+  - What is good? To be good to others.
   - I believe [[open ethics]] is good.
   - [[Effective Altruism]] is good.
     - [[Give Directly]] is good.
