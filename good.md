@@ -12,6 +12,7 @@
     - [[open source]].
     - [[groups]] that try to do [[good]].
     - [[projects]] that try to increase [[public utility]].
+    - [[freedom]].
   - What is [[good]] for you? 
     - You can write in the [[Stoa]] below.
 
