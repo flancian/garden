@@ -8,5 +8,6 @@
    - [[effective altruism]]
    - [[rationalism]] is good.
    - [[Compassion]] is good.
-  - What is good for you? Please feel free to tell us below in the Stoa.
+  - What is [[good]] for you? 
+    - Please tell us in the [[Stoa]].
 
