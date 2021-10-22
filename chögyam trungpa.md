@@ -1,5 +1,8 @@
 # chögyam trungpa
 
-- I've been reading [[cutting through spiritual materialism]] and enjoying it a lot.
+- a [[person]]
+  - [[bodhisattva]]
+  - [[shambhala]]
+  - I loved [[cutting through spiritual materialism]].
   - https://twitter.com/flancian/status/1353858333480873985
 
