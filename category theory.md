@@ -4,7 +4,7 @@
 	- [[wp]] https://en.wikipedia.org/Category_Theory
 		- [[go]] [[wp]]
 	- [[pull]] [[mini curriculum on applied category theory and engineering design]]
-		- [[seven sketches]] is an introductory book on category theory from a unique applied perspective
+		- [[seven sketches in compositionality]] is an introductory book on category theory from a unique applied perspective
 			- At Cambridge University Press: https://www.cambridge.org/core/books/an-invitation-to-applied-category-theory/D4C5E5C2B019B2F9B8CE9A4E9E84D6BC
 			- ArXiv free version: https://arxiv.org/pdf/1803.05316.pdf
 			- Pirated final version: http://library.lol/main/C61E1736381D70DB2E3EE27829D00012
