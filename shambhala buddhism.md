@@ -10,4 +10,5 @@
     - read [[cutting through spiritual materialism]]
     - will read [[the sacred path of the warrior]]
     - will read [[reports of misconduct]]
+  - [[naropa university]]
 
