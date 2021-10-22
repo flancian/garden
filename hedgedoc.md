@@ -8,4 +8,5 @@
 	- defaults to using UUIDs as urls for docs, but `allowFreeURL` replicates [[etherpad]] behaviour (entering a non-existent doc URL creates a doc with that alias)
 		- https://docs.hedgedoc.org/configuration/#users-and-privileges
 	- had to `yarn add babel-runtime` separately to make an error go away while installing
+	- [[nginx]] https://docs.hedgedoc.org/guides/reverse-proxy/#nginx
 
