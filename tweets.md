@@ -64,3 +64,5 @@ I think I might have found the way to simulate myself, at least while I'm sittin
 
 - Some days I "tweet" here in the Agora instead of live on Twitter/Mastodon. I will eventually make it so that blocks here are auto-tweeted/tooted, but for now honestly it's also fine as it is.
 - [[meditations on procrastination]] 
+
+- The Agora Server code is feeling hackier and hackier, I really need to dedicate some time to fixing TODOs and moving to some better abstractions.
