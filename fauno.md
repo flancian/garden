@@ -1,5 +1,7 @@
+
 - a [[person]]
 	- [[pirate]]
 		- likes [[monkey island]]
+	- in [[sutty]]
 	- [[go]] https://fauno.endefensadelsl.org/
 		- [[en]] https://fauno.endefensadelsl.org/en/
