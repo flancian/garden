@@ -8,4 +8,11 @@
   - [[agora]]
   - [[keybase]]
   - [[social networks]]
+- [[code]]
+  - [[github]]
+  - [[gitlab]]
+  - [[codeberg]]
+  - [[gitea]]?
+- [[unix]]
+  - [[proc]]
 
