@@ -8,5 +8,6 @@
     - @eris@merveilles.town
       - tech oriented
   - [[matrix]] @eris:chat.unix.lgbt
+  - [[tools for conviviality]]
 
 
