@@ -28,4 +28,8 @@
   - in stack overflow there are no checked sources
   - [[lucid]] has a [[database]] of reliable resources
     - example: SCs for companies provides the database as the mvp is about capital markets
-
+- [[twitter]]
+  - [[thread helper]]
+- [[annotations]]
+  - [[hypothesis]]
+  - [[memex]]
