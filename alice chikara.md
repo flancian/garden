@@ -18,7 +18,7 @@
       - twitter
       - substack
     - no way to discover, manage and learn from it in a collaborative way
-    - [[lucid]]
+      - -> [[lucid]]
     - [[collaborative learning]]
       - [[annotations]]
   - on a micro level:
