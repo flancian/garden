@@ -33,3 +33,4 @@
 - [[annotations]]
   - [[hypothesis]]
   - [[memex]]
+- [[agora]]
