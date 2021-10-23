@@ -44,3 +44,5 @@
     - lucid tries to have better search
   - tried [[memex]], better UX, unsure about their approach to profit/open source
   - Alice's vision: give equity to the community
+    - [[
+    - exit to community]]
