@@ -30,7 +30,10 @@
     - example: SCs for companies provides the database as the mvp is about capital markets
 - [[twitter]]
   - [[thread helper]]
+    - what if this approach could be extended to link to other (domain specific) databases
 - [[annotations]]
   - [[hypothesis]]
   - [[memex]]
 - [[agora]]
+  - [[agora search]]
+  - [[go links]]
