@@ -48,3 +48,6 @@
 - [[next time]] / discuss:
   - [[codex]]
   - [[leah houston]]
+  - [[digital gardeners]]
+  - shared [[directories]]
+  - higher level knowledge federation / [[agora]]
