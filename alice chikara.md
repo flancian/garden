@@ -6,8 +6,8 @@
   - [[lucid]] [[fairmint]]
 
 ## [[2021-10-23]]
-- [[digital nomads]]
 - [[san francisco]] [[oxford]]
+  - [[digital nomad]]
 - [[capital markets]]
   - [[information discovery]] [[collaborative learning]]
 - interested in [[agora]] cooperation/convergence
@@ -42,3 +42,5 @@
     - search is meh
     - twitter search is also broken
     - lucid tries to have better search
+  - tried [[memex]], better UX, unsure about their approach to profit/open source
+  - Alice's vision: give equity to the community
