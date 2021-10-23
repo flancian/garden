@@ -1,6 +1,7 @@
 # Flancian
 
 - A [[person]].
+	- My [[self]] :).
 	- [[go]] https://flancia.org
 	- [[email]] 0@flancia.org
 	- [[calendly]] https://calendly.com/flancian
@@ -19,7 +20,6 @@
 	- [[anar.chi.st]] https://anar.chi.st/Flancian
 	- [[chess]] https://chess.com/member/flancian
 	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
-	- My [[self]] :).
 	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]]. 
 		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
 		- The [[agora]] is an [[experimental]] [[social network]] in which I try to express my integrated identity.
