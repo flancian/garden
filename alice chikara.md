@@ -37,3 +37,8 @@
 - [[agora]]
   - [[agora search]]
   - [[go links]]
+- Alice uses [[notion]]
+  - tried [[hypothesis]] but didn't like the UX too much
+    - search is meh
+    - twitter search is also broken
+    - lucid tries to have better search
