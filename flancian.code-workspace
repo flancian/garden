@@ -17,6 +17,7 @@
 		"vim.handleKeys": {
 			"[": false,
 			"]": false
-		}
+		},
+		"workbench.editor.closeEmptyGroups": false
 	}
 }
