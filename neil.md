@@ -14,7 +14,8 @@
 - [[repair day]]
 - previously a [[software developer]], now [[tech lead]]
 - [[agora]]
-  - sidebar
+  - moving context/sidebar to the side
+  - light mode improvements
 
 ## [[2021-10-06]]
 - [[cumbria]]
