@@ -28,6 +28,7 @@
 		- [[monocle]] on web
 		- [[all together now]] https://alltogethernow.io
 		- [[aperture]] microsub server
+		- [[brid.gy]]
 
 ## [[2021-10-06]]
 - [[cumbria]]
