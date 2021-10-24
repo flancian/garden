@@ -16,7 +16,13 @@
 - [[agora]]
   - moving context/sidebar to the side
   - light mode improvements
+- default [[agora editor]] -- something that could be offered by us to users that don't have a digital garden already 
 - [[bangle]]
+- [[fedwiki]]
+  - how to make it play well with other platforms?
+  - [[markdown export]]?
+- [[indieweb]]
+	- [[generations]] https://indieweb.org/generations
 
 ## [[2021-10-06]]
 - [[cumbria]]
