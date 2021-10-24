@@ -23,7 +23,11 @@
   - [[markdown export]]?
 - [[indieweb]]
 	- [[generations]] https://indieweb.org/generations
-- [[social feed]] reader
+	- [[social feed reader]]
+		- [[indigeneous]] on mobile
+		- [[monocle]] on web
+		- [[all together now]] https://alltogethernow.io
+		- [[aperture]] microsub server
 
 ## [[2021-10-06]]
 - [[cumbria]]
