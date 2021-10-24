@@ -16,6 +16,7 @@
 - [[agora]]
   - moving context/sidebar to the side
   - light mode improvements
+- [[bangle]]
 
 ## [[2021-10-06]]
 - [[cumbria]]
