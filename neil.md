@@ -29,6 +29,7 @@
 		- [[all together now]] https://alltogethernow.io
 		- [[aperture]] microsub server
 		- [[brid.gy]]
+- [[two ways to post to the agora from social media]]
 
 ## [[2021-10-06]]
 - [[cumbria]]
