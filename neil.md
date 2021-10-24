@@ -23,6 +23,7 @@
   - [[markdown export]]?
 - [[indieweb]]
 	- [[generations]] https://indieweb.org/generations
+- [[social feed]] reader
 
 ## [[2021-10-06]]
 - [[cumbria]]
