@@ -1,4 +1,4 @@
 # rpg
 
-- I'm into [[rpgs]], are you surprised.
+- I'm into [[rpgs]], are you [[surprised]].
 
