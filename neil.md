@@ -9,6 +9,11 @@
 	- Uses [[org-roam]]. 
 	- [[matrix]] @doubleloop:matrix.org
 
+## [[2021-10-24]]
+- [[agora development]]
+- [[repair day]]
+- previously a [[software developer]], now [[tech lead]]
+
 ## [[2021-10-06]]
 - [[cumbria]]
 	- [[lakes district]]
