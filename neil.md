@@ -13,6 +13,8 @@
 - [[agora development]]
 - [[repair day]]
 - previously a [[software developer]], now [[tech lead]]
+- [[agora]]
+  - sidebar
 
 ## [[2021-10-06]]
 - [[cumbria]]
