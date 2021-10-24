@@ -9,6 +9,28 @@
 	- Uses [[org-roam]]. 
 	- [[matrix]] @doubleloop:matrix.org
 
+## [[2021-10-24]]
+- [[agora development]]
+- [[repair day]]
+- previously a [[software developer]], now [[tech lead]]
+- [[agora]]
+  - moving context/sidebar to the side
+  - light mode improvements
+- default [[agora editor]] -- something that could be offered by us to users that don't have a digital garden already 
+- [[bangle]]
+- [[fedwiki]]
+  - how to make it play well with other platforms?
+  - [[markdown export]]?
+- [[indieweb]]
+	- [[generations]] https://indieweb.org/generations
+	- [[social feed reader]]
+		- [[indigeneous]] on mobile
+		- [[monocle]] on web
+		- [[all together now]] https://alltogethernow.io
+		- [[aperture]] microsub server
+		- [[brid.gy]]
+- [[two ways to post to the agora from social media]]
+
 ## [[2021-10-06]]
 - [[cumbria]]
 	- [[lakes district]]
