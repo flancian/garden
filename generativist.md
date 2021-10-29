@@ -11,3 +11,19 @@
 
 ## [[2021-10-29]]
 - greetings!
+- sorry for the linux audio induced delay :)
+- [[hack the planet]]!
+- [[agora]]
+  - how it started
+  - how it's going :)
+- [[johnny]]
+  - used [[roam]] for a bit
+	- now been playing with [[obsidian]]
+		- issues with having to wait for typing
+	- [[jupyter notebooks]]
+- [[indieweb]]
+	- sometimes broken but vibrant/reinvigorating
+- interested in 
+	- [[disinformation]] [[misinformation]] [[abuse]]
+	- the ability for central mediation is going away
+	- the technology is now out to make further central meditation not practicable
