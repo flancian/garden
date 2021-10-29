@@ -28,10 +28,14 @@
 	- the ability for central mediation is going away
 	- the technology is now out to make further central meditation not practicable
 	- [[users should be fully in control of the content they see]]
-	- trying to build a user-controlled recommendation system for a social network
+	- trying to build a user-controlled recommendation system for social networks
 - the tool vs the application
   - in the end it seems there is a class of tool, a problem space, which is not a priori bad or good but is made so by the type of user that makes use of it
 - interacting with people you *mostly* align with
 - the danger of [[block lists]]
 - [[commons]]
 	- [[liquid democracy]]
+- [[bridges]]
+  - [[moa party]]
+  - the [[social routing]] problem
+    - [[paul frazee]]
