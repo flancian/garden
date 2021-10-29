@@ -39,3 +39,5 @@
   - [[moa party]]
   - the [[social routing]] problem
     - [[paul frazee]]
+- [[push]] [[do]] 
+	- read [[probabilistic p2p content moderation]]
