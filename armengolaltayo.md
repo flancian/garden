@@ -18,6 +18,10 @@
 	- [[working in public]]
 	- pros y cons
 
+## [[2021-10-29]]
+- de vuelta en [[barcelona]]!
+- [[yoga]]
+
 ## [[2021-05-08]]
 
 - [[night person]] como arquetipo al que uno conforma
