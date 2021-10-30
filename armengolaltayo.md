@@ -24,6 +24,9 @@
   - convivencia
 - [[dando clases]]
   - [[diseño]]: [[diseño crítico del comportamiento digital]]
+    - conocí hace poco a:
+      - [[robert haisfield]]
+      - [[generativist]] 
 - [[yoga]]
 
 ## [[2021-05-08]]
