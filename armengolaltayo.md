@@ -21,6 +21,9 @@
 ## [[2021-10-29]]
 - de vuelta en [[barcelona]]!
   - pueblo / campo en contraste con la [[gran ciudad]]
+  - convivencia
+- [[dando clases]]
+  - [[diseño]]: [[diseño crítico del comportamiento digital]]
 - [[yoga]]
 
 ## [[2021-05-08]]
