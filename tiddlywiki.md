@@ -10,4 +10,5 @@
     - [[gitter]] https://gitter.im/TiddlyWiki/public
     - [[discord]] https://discord.gg/HFFZVQ8
   - https://twitter.com/flancian/status/1454464250555023368
-  
+  - [[node server]]
+  - [[tiddlywiki markdown]]
