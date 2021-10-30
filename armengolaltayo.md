@@ -39,8 +39,9 @@
 - [[forzarse]] vs [[esforzarse]]
 - [[agora]]
   - [[patterns]]
-  - [[social media]]
+  - [[agora social media integration]]
     - backups vs [[integración]] / interlinking
+    - [[meca]]
 - [[yoga]]
 
 ## [[2021-05-08]]
