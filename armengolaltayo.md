@@ -36,6 +36,10 @@
       - intención
         - rediseñar un comportamiento existente
     - [[project snapshot]] sería mi proyecto final (?)
+- [[forzarse]] vs [[esforzarse]]
+- [[agora]]
+  - [[patterns]]
+  - [[social media]]
 - [[yoga]]
 
 ## [[2021-05-08]]
