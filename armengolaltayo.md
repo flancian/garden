@@ -20,6 +20,7 @@
 
 ## [[2021-10-29]]
 - de vuelta en [[barcelona]]!
+  - pueblo / campo en contraste con la [[gran ciudad]]
 - [[yoga]]
 
 ## [[2021-05-08]]
