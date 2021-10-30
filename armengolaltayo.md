@@ -17,6 +17,9 @@
 - transparencia radical
 	- [[working in public]]
 	- pros y cons
+- [[copyright]]
+- [[retina]]
+- [[mitm]]
 
 ## [[2021-10-29]]
 - de vuelta en [[barcelona]]!
