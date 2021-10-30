@@ -42,6 +42,8 @@
   - [[agora social media integration]]
     - backups vs [[integración]] / interlinking
     - [[meca]]
+      - microinteracción
+    - salto de integración al bien colectivo
 - [[yoga]]
 
 ## [[2021-05-08]]
