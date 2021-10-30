@@ -24,9 +24,18 @@
   - convivencia
 - [[dando clases]]
   - [[diseño]]: [[diseño crítico del comportamiento digital]]
-    - conocí hace poco a:
+    - quizás relevante, conocí hace poco a:
       - [[robert haisfield]]
       - [[generativist]] 
+    - un trimestre
+    - observar comportamientos en el plano digital
+      - gestos (ejemplo)
+        - scroll infinito
+      - comportamiento (ejemplo)
+        - entrar de forma compulsiva en una red social
+      - intención
+        - rediseñar un comportamiento existente
+    - [[project snapshot]] sería mi proyecto final (?)
 - [[yoga]]
 
 ## [[2021-05-08]]
