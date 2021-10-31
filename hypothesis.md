@@ -1,4 +1,4 @@
-a [[tool]]
+- a [[tool]]
   - for [[annotation]]
 	  - you can annotate anything on the [[web]] by installing the hypothes.is browser extension or passing a URL to https://via.hypothes.is
   - [[pull]] [[hypothes.is]]

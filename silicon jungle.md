@@ -9,6 +9,7 @@
   - case: link to ai / existential risk
 - [[hypothesis]]
   - [[the revolution will be annotated]]
+  
 
 ## [[2021-10-31]]
 - started programming at nine
