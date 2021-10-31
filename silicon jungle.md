@@ -37,8 +37,10 @@
     - [[counter anti disintermediation]]
   - [[interoperability]] seems key
 - [[moderators]] or a [[democractic approach]]?
+  - [[liquid democracy]]/[[heterarchies]] in moderation?
 - venues to [[interoperability]]
-  - [[adversarial]]
+  - [[adversarial interoperability]]
+    - [[eff]]
   - [[bridges]]
   - [[siphons]] 
   - [[rising tide]]
