@@ -6,5 +6,5 @@
   - [[matrix]] #fedwiki:matrix.org
     - https://matrix.to/#/#fedwiki:matrix.org
   - [[go]] http://fed.wiki.org
-    - [[http]]
+    - [[http preferred]]
 
