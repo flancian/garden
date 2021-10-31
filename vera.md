@@ -10,7 +10,7 @@
   - [[mastodon]] https://freethinkers.lgbt/users/vera
   - [[anar.chi.st]] https://anar.chi.st/vera
   - [[vroid]] https://hub.vroid.com/en/characters/2670027622321195005/models/606184801700681978
-	- [[wiki]] https://vera.wiki.anagora.org
+	- [[wiki]] http://vera.wiki.anagora.org
   - [[email]] veronika.m.winters on google's mail
 
 ## [[2021-06-23]]
