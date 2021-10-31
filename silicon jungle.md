@@ -7,6 +7,9 @@
 ## [[next]]
 - post for [[effective altruism forums]] on [[freeing the internet]]
   - case: link to ai / existential risk
+- [[hypothesis]]
+  - [[the revolution will be annotated]]
+
 ## [[2021-10-31]]
 - started programming at nine
   - silicon jungle: a play on [[concrete jungle]] at the time of the internet
