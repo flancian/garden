@@ -25,5 +25,15 @@
   - [[fission]]
   - [[moa]]
 - [[humane technology australia]]
+- a future we want to live in:
+  - one that tries to align how we are as humans and technology
+  - more solarpunk than cyberpunk
+- [[flancia]] started as a utopia, but
+  - "my utopia is your dystopia"
+  - precisely
+- tribes -> countries -> globalization
+  - [[the expanding circle]]
+  - individuals have ammassed too much power due to [[anti disintermediation]]
+  - interoperability seems key
 
 
