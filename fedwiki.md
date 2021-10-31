@@ -5,5 +5,6 @@
   - [[ward cunningham]]
   - [[matrix]] #fedwiki:matrix.org
     - https://matrix.to/#/#fedwiki:matrix.org
-  - [[go]] https://fed.wiki.org
+  - [[go]] http://fed.wiki.org
+    - [[http]]
 
