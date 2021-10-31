@@ -4,6 +4,9 @@
   - [[twitter]] https://twitter.com/JungleSilicon
   - [[james]]
 
+## [[next]]
+- post for [[effective altruism forums]] on [[freeing the internet]]
+  - case: link to ai / existential risk
 ## [[2021-10-31]]
 - started programming at nine
   - silicon jungle: a play on [[concrete jungle]] at the time of the internet
@@ -52,4 +55,5 @@
     - do you know of [[ctzn]] / [[hypercore]]?
   - tied to that, a [[resource hub]] which lets it interop with a bunch of services. each community chooses which services it hooks up with
     - group membership propragates to other services as possible
-- I think we're probably both trying to build an [[interlay]]
+- I think we're probably both trying to build an [[interlay]]?
+- the working name for James's project is [[spaces]] but that probably won't work
