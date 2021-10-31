@@ -34,6 +34,12 @@
 - tribes -> countries -> globalization
   - [[the expanding circle]]
   - individuals have ammassed too much power due to [[anti disintermediation]]
-  - interoperability seems key
-
+    - [[counter anti disintermediation]]
+  - [[interoperability]] seems key
+- [[moderators]] or a [[democractic approach]]?
+- venues to [[interoperability]]
+  - [[adversarial]]
+  - [[bridges]]
+  - [[siphons]] 
+  - [[rising tide]]
 
