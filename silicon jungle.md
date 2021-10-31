@@ -51,3 +51,5 @@
   - going to look a lot like a facebook group, a feed of posts
     - do you know of [[ctzn]] / [[hypercore]]?
   - tied to that, a [[resource hub]] which lets it interop with a bunch of services. each community chooses which services it hooks up with
+    - group membership propragates to other services as possible
+- I think we're probably both trying to build an [[interlay]]
