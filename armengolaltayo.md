@@ -17,6 +17,38 @@
 - transparencia radical
 	- [[working in public]]
 	- pros y cons
+- [[copyright]]
+- [[retina]]
+- [[mitm]]
+- [[matrix]]
+
+## [[2021-10-29]]
+- de vuelta en [[barcelona]]!
+  - pueblo / campo en contraste con la [[gran ciudad]]
+  - convivencia
+- [[dando clases]]
+  - [[diseño]]: [[diseño crítico del comportamiento digital]]
+    - quizás relevante, conocí hace poco a:
+      - [[robert haisfield]]
+      - [[generativist]] 
+    - un trimestre
+    - observar comportamientos en el plano digital
+      - gestos (ejemplo)
+        - scroll infinito
+      - comportamiento (ejemplo)
+        - entrar de forma compulsiva en una red social
+      - intención
+        - rediseñar un comportamiento existente
+    - [[project snapshot]] sería mi proyecto final (?)
+- [[forzarse]] vs [[esforzarse]]
+- [[agora]]
+  - [[patterns]]
+  - [[agora social media integration]]
+    - backups vs [[integración]] / interlinking
+    - [[meca]]
+      - microinteracción
+    - salto de integración al bien colectivo
+- [[yoga]]
 
 ## [[2021-05-08]]
 

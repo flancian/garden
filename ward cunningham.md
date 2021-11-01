@@ -5,8 +5,9 @@
   - [[twitter]] https://twitter.com/wardcunningham
   - The inventor of the [[wiki]].
     - The [[OG]]. 
-  - [[fedwiki]]
-  - [[pull]] [[c2]].
+  - [[http preferred]]
+  - [[pull]] [[fedwiki]]
+    - [[pull]] [[c2]].
 
 ## [[social-knowledge-graphs-discussion]]
 
