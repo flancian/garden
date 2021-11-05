@@ -2,6 +2,7 @@
 
 - una [[persona]]
   - [[filósofo]] [[docente]] [[periodista]] [[ensayista]]
+  - [[go]] https://www.pablocapanna.com.ar/
   - [[wp]] https://es.wikipedia.org/wiki/Pablo_Capanna
   - [[es]]
       - [[firenze]] [[josé c. paz]]
