@@ -4,7 +4,7 @@
 	- a term used by [[ward cunningham]] to refer to wikilinks 
 	- inspired by [[christopher alexander]]
 - a [[list]].
-	- ([[push]] here to add an item to this list).
+	- [[pull]] [[pattern]]
 	- [[pull]] [[a pattern language]]
 		- [[towns]]
 			- [[independent regions]]
