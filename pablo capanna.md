@@ -7,4 +7,6 @@
     - [[firenze]] [[josé c. paz]]
   - [[bernardo]] lo conoce.
   - fue mi profesor en la [[utn]].
+  - [[philip dick]]
+  - [[russel wallace]]
 
