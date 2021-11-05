@@ -1,6 +1,7 @@
 # Ubi
 
 - [[pull]] [[universal basic income]]
+- [[go]] https://www.givedirectly.org/ubi-study/
 - for
   - [[utopia for realists]]
   - great potential to reduce suffering for many
