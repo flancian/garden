@@ -1,0 +1,4 @@
+# öcalan
+
+- [[pull]] [[Abdullah Öcalan]
+
