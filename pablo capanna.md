@@ -1,11 +1,10 @@
 # pablo capanna
 
-- una [[persona]]
+- una [[persona]].
   - [[filósofo]] [[docente]] [[periodista]] [[ensayista]]
   - [[go]] https://www.pablocapanna.com.ar/
   - [[wp]] https://es.wikipedia.org/wiki/Pablo_Capanna
-  - [[es]]
-      - [[firenze]] [[josé c. paz]]
-  - fue mi profesor en la [[utn]]
+    - [[firenze]] [[josé c. paz]]
   - [[bernardo]] lo conoce.
+  - fue mi profesor en la [[utn]].
 
