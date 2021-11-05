@@ -1,5 +1,6 @@
 # patterns
 
+- [[pull]] [[wikilinks]]
 - a [[list]].
 	- [[push]] here to add an item to this list.
 	- [[push]] [[a pattern language]]
