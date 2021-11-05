@@ -6,8 +6,6 @@
 - a [[list]].
 	- [[pull]] [[pattern]]
 	- [[pull]] [[a pattern language]]
-		- [[towns]]
-			- [[independent regions]]
 				- #1 [[independent regions]]
 				- #2 [[the distribution of towns]]
 				- #3 [[city  country fingers]]
