@@ -35,6 +35,11 @@ This node might deal with development of any and all of them. We will try to lis
   - need to have [[agora mastodon bot]] automatically respond to toots with [[patterns]] from followers
 - [[patterns everywhere]]
   - new name for [[wikilinks everywhere]], [[vera]] leading
+- [[flancia]]
+  - need to work more on [[building bridges]]
+  - [[flancia collective]]
+    - need to explore [[governance]]
+    - [[vera]] started [[flancia social impact]]
 
 ## Previously
 
