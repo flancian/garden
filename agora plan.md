@@ -18,8 +18,9 @@ As you might know by now, an Agora is a beast with multiple legs:
  - A web server and associated client code, which the [[flancia collective]] runs on https://anagora.org. It is kept in the [[go/agora-server]] repo.
  - A set of bridges to connect other platforms to the [[agora]], and the Agora to to [[other platforms]]. These are kept in the [[go/agora-bridge]] repository.
 
-This node might deal with development of any and all of them. We will try to list past major developments below, but this node should perhaps be kept [[future focused]].
+This node might deal with development of any and all of them. We will try to list past major developments below, but this node will try to also be [[future focused]].
 
+## Next
 ## Latest
 
 - On [[2021-11-06]]:
