@@ -2,7 +2,7 @@
 
 ## Introducion
 
-The Agora is a pretty wide ranging project, so it takes a minute to explain what it's all about, and what the vision this plan tries to advance is.
+The [[Agora]] is a project with a large [[scope]], so it takes a minute to explain what it's all about, and what the vision this plan tries to advance is.
 
 If you'd like a quick introduction to the Agora as of mid 2021, please check out [[go/agora-slides]].
 
