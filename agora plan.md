@@ -6,17 +6,19 @@ The Agora is a pretty wide ranging project, so it takes a minute to explain what
 
 If you'd like a quick introduction to the Agora as of mid 2021, please check out [[go/agora-slides]].
 
-You can also refer to [[go/agora]], documentation on the [[root repository]] currently hosted on [[github]].
+You can also refer to [[go/agora]], that is the documentation in this [[root repository]] currently hosted on [[github]].
 
 ## What this node is for
 
-I'll use this as a sort of inline project page for the [[agora]] implementation you're likely reading this in now: <https://anagora.org>.
+This node is used as a project planning page for the [[Agora]] implementation you're likely reading this in now: <https://anagora.org>.
 
 As you might know by now, an Agora is a beast with multiple legs:
 
  - A [[knowledge graph]]. This is the heart of the [[Agora]]. It is kept in the [[go/agora]] repo, and includes pointers to other repositories.
  - A web server and associated client code, which the [[flancia collective]] runs on https://anagora.org. It is kept in the [[go/agora-server]] repo.
  - A set of bridges to connect other platforms to the [[agora]], and the Agora to to [[other platforms]]. These are kept in the [[go/agora-bridge]] repository.
+
+This node might deal with development of any and all of them. We will try to list major developments below.
 
 ## Latest
 
