@@ -1,16 +1,27 @@
 # Agora Plan
 
+## Introducion
+
+The Agora is a pretty wide ranging project, so it takes a minute to explain what it's all about, and what the vision this plan tries to advance is.
+
+If you'd like a quick introduction to the Agora as of mid 2021, please check out [[go/agora-slides]].
+
+You can also refer to [[go/agora]], documentation on the [[root repository]] currently hosted on [[github]].
+
+## What this node is for
+
 I'll use this as a sort of inline project page for the [[agora]] implementation you're likely reading this in now: <https://anagora.org>.
 
 As you might know by now, an Agora is a beast with multiple legs:
 
- - A knowledge garden. This is the heart of the [[Agora]]. It is kept in the <https://flancia.org/go/agora> repo.
- - A web renderer, which I run on anagora.org. This is [[Agora Server]]. It is kept in the <https://flancia.org/go/agora-server> repo.
-
-This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
+ - A [[knowledge graph]]. This is the heart of the [[Agora]]. It is kept in the [[go/agora]] repo, and includes pointers to other repositories.
+ - A web server and associated client code, which the [[flancia collective]] runs on https://anagora.org. It is kept in the [[go/agora-server]] repo.
+ - A set of bridges to connect other platforms to the [[agora]], and the Agora to to [[other platforms]]. These are kept in the [[go/agora-bridge]] repository.
 
 ## Latest
 
+- On [[2021-11-06]]:
+  - Lots have happened. I gave up trying to maintain this for a while, instead using my journals and a transitive subset of the [[Agora]] to document the development process.
 - On [[2021-01-30]]
   - onboarded [[enki]]
   - [[nodes]] are now color coded:
