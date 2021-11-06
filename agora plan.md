@@ -21,10 +21,11 @@ As you might know by now, an Agora is a beast with multiple legs:
 This node might deal with development of any and all of them. We will try to list past major developments below, but this node will try to also be [[future focused]].
 
 ## Next
-## Latest
+## Previously
 
 - On [[2021-11-06]]:
   - Lots have happened. I gave up trying to maintain this for a while, instead using my journals and a transitive subset of the [[Agora]] to document the development process.
+  - See [[flancia collective]], [[journals]].
 - On [[2021-01-30]]
   - onboarded [[enki]]
   - [[nodes]] are now color coded:
