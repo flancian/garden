@@ -31,8 +31,10 @@ This node might deal with development of any and all of them. We will try to lis
     - blocks [[auto push]]?
       - perhaps not for inline (same line) pushes
 - [[agora bridge]]
+  - need to have [[agora twitter bot]] call out to [[repo api]] to store nodes per-user
+  - need to have [[agora mastodon bot]] automatically respond to toots with [[patterns]] from followers
 - [[patterns everywhere]]
-  - [[vera]] leds
+  - new name for [[wikilinks everywhere]], [[vera]] leading
 
 ## Previously
 
