@@ -1,5 +1,6 @@
 
 - a [[cat]].
-  - I [[love]] [[them]].
+  - [[friend]].
+    - I [[love]] [[them]].
   - [[pull]] [[ocell]]
 
