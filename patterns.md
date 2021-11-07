@@ -1,10 +1,11 @@
 # patterns
 
+- [[pull]] [[wikilinks]]
+	- a term used by [[ward cunningham]] to refer to wikilinks 
+	- inspired by [[christopher alexander]]
 - a [[list]].
-	- [[push]] here to add an item to this list.
-	- [[push]] [[a pattern language]]
-		- [[towns]]
-			- [[independent regions]]
+	- [[pull]] [[pattern]]
+	- [[pull]] [[a pattern language]]
 				- #1 [[independent regions]]
 				- #2 [[the distribution of towns]]
 				- #3 [[city  country fingers]]

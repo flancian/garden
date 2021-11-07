@@ -1,6 +1,8 @@
 # Open Street Map
 
-- [[pull]] [[openstreetmap]] [[osm]]
-- [[go]] openstreetmap.org
+- a [[project]]
+  - [[pull]] [[openstreetmap]] [[osm]]
+  - [[go]] openstreetmap.org
+  - [[agora osm]]
 
 

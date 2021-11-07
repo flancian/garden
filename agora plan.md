@@ -1,16 +1,51 @@
 # Agora Plan
 
-I'll use this as a sort of inline project page for the [[agora]] implementation you're likely reading this in now: <https://anagora.org>.
+## Introducion
+
+The [[Agora]] is a project with a large [[scope]], so it takes a minute to explain what it's all about, and what the vision this plan tries to advance is.
+
+If you'd like a quick introduction to the Agora as of mid 2021, please check out [[go/agora-slides]].
+
+You can also refer to [[go/agora]], that is the documentation in this [[root repository]] currently hosted on [[github]].
+
+## What this node is for
+
+This node is used as a project planning page for the [[Agora]] implementation you're likely reading this in now: <https://anagora.org>.
 
 As you might know by now, an Agora is a beast with multiple legs:
 
- - A knowledge garden. This is the heart of the [[Agora]]. It is kept in the <https://flancia.org/go/agora> repo.
- - A web renderer, which I run on anagora.org. This is [[Agora Server]]. It is kept in the <https://flancia.org/go/agora-server> repo.
+ - A [[knowledge graph]]. This is the heart of the [[Agora]]. It is kept in the [[go/agora]] repo, and includes pointers to other repositories.
+ - A web server and associated client code, which the [[flancia collective]] runs on https://anagora.org. It is kept in the [[go/agora-server]] repo.
+ - A set of bridges to connect other platforms to the [[agora]], and the Agora to to [[other platforms]]. These are kept in the [[go/agora-bridge]] repository.
 
-This page is about both, although it's probably going to be [[Agora Server]] heavy as I'm currently focused on developing features for it.
+This node might deal with development of any and all of them. We will try to list past major developments below, but this node will try to also be [[future focused]].
 
-## Latest
+## Next
 
+- [[agora]]
+  - new users are trickling into the community, although the signup process is still manual; need to ship the repo api in [[agora bridge]] to improve the sinup flow.
+  - considering [[logseq]] and [[tiddlywiki]] as recommended web clients.
+- [[agora server]]
+  - looking better than six months ago, but needs work
+  - [[better parsing]]
+    - blocks [[auto push]]?
+      - perhaps not for inline (same line) pushes
+- [[agora bridge]]
+  - need to have [[agora twitter bot]] call out to [[repo api]] to store nodes per-user
+  - need to have [[agora mastodon bot]] automatically respond to toots with [[patterns]] from followers
+- [[patterns everywhere]]
+  - new name for [[wikilinks everywhere]], [[vera]] leading
+- [[flancia]]
+  - need to work more on [[building bridges]]
+  - [[flancia collective]]
+    - need to explore [[governance]]
+    - [[vera]] started [[flancia social impact]]
+
+## Previously
+
+- On [[2021-11-06]]:
+  - Lots have happened. I gave up trying to maintain this for a while, instead using my journals and a transitive subset of the [[Agora]] to document the development process.
+  - See [[flancia collective]], [[agora discuss]], [[journals]].
 - On [[2021-01-30]]
   - onboarded [[enki]]
   - [[nodes]] are now color coded:
