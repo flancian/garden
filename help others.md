@@ -1,5 +1,6 @@
 # Help Others
 
+- To help others is to love them.
 - I'd like to [[explore]], [[embody]], put in [[practice]]:
   - [[effective altruism]]
     - Read [[The Effective Altruism Handbook]]
