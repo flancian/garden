@@ -1,8 +1,9 @@
 # Revolution
 
 - a [[thing]]
-  - [[political action]]
-- [[go]] https://en.wikipedia.org/wiki/Revolution
+  - [[political action]] [[disruptive]]
+    - my proposal for the revolution is the [[flancian revolution]]
+  - [[go]] https://en.wikipedia.org/wiki/Revolution
   - [[quote]] a revolution (Latin: revolutio, "a turn around") is a [[fundamental]] and [[relatively sudden]] change in [[political power]] and political organization which occurs [[when the population revolts against the government]], typically due to perceived [[oppression]] (political, social, economic) or political incompetence.
   - [[aristotle]] describes two types of [[political revolution]]:
     - [[complete change]] from one [[constitution]] to another
