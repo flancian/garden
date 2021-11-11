@@ -3,6 +3,7 @@
 - a [[tool]]
   - [[pkm]] [[roam like]] [[hierarchical]]
     - A [[vscode]] extension -- like [[foam]].
+    - perhaps [[taxonomical]] would be more correct
   - [[github]] https://github.com/dendronhq/dendron
     - 1.1k stars, 40 forks as of [[2021-01-04]].
     - by [[kevinslin]] [[jonesian]]
