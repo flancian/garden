@@ -1,18 +1,14 @@
 # patterns
 
-- [[pull]] [[wikilinks]]
-	- a term used by [[ward cunningham]] to refer to wikilinks 
-	- inspired by [[christopher alexander]]
 - a [[list]].
 	- [[pull]] [[pattern]]
-	- [[pull]] [[a pattern language]]
-				- #1 [[independent regions]]
-				- #2 [[the distribution of towns]]
-				- #3 [[city  country fingers]]
-				- #4 [[agricultural valleys]]
-				- #5 [[lace of country streets]]
-				- #6 [[country towns]]
-				- #7 [[the countryside]]
+			- #1 [[independent regions]]
+			- #2 [[the distribution of towns]]
+			- #3 [[city  country fingers]]
+			- #4 [[agricultural valleys]]
+			- #5 [[lace of country streets]]
+			- #6 [[country towns]]
+			- #7 [[the countryside]]
 			- [[city]] 
 				- #8 [[mosaic of subcultures]]
 				- [[scattered work]]
@@ -162,3 +158,7 @@
 				- #135 [[tapestry of light and dark]]
 			- #wip it goes to 253
 		- [[filtered light]]
+- [[pull]] [[wikilinks]]
+	- a term used by [[ward cunningham]] to refer to wikilinks 
+	- inspired by [[christopher alexander]]
+	- [[pull]] [[a pattern language]]
