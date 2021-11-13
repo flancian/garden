@@ -1,9 +1,5 @@
 # patterns
 
-- [[pull]] [[wikilinks]]
-	- a term used by [[ward cunningham]] to refer to wikilinks 
-	- inspired by [[christopher alexander]]
-	- [[pull]] [[a pattern language]]
 - a [[list]].
 	- [[pull]] [[pattern]]
 			- #1 [[independent regions]]
@@ -162,3 +158,7 @@
 				- #135 [[tapestry of light and dark]]
 			- #wip it goes to 253
 		- [[filtered light]]
+- [[pull]] [[wikilinks]]
+	- a term used by [[ward cunningham]] to refer to wikilinks 
+	- inspired by [[christopher alexander]]
+	- [[pull]] [[a pattern language]]
