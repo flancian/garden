@@ -1,8 +1,12 @@
 # Schelling
 
-- [[go]] shelling.pt
-  - [[quote]] a [[schelling point]] for those who seek one
-  - [[pull]] [schelling points]]
+- a [[person]].
+  - [[pull]] [[friedrich wilhelm joseph von schelling]]
+- an [[instance]].
+  - [[mastodon]]
+  - [[go]] https://shelling.pt
+    - [[quote]] a [[schelling point]] for those who seek one
+  - [[pull]] [[schelling points]]
   - Part of [[mastodon]].
   - [[admin]] https://schelling.pt/@locus
   - [[push]] [[pee-zombie]] 
