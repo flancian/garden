@@ -2,6 +2,7 @@
 
 - a [[list]].
 	- [[pull]] [[pattern]]
+  - [[push]] [[a pattern language]]
 			- #1 [[independent regions]]
 			- #2 [[the distribution of towns]]
 			- #3 [[city  country fingers]]
