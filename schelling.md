@@ -2,6 +2,10 @@
 
 - a [[person]].
   - [[pull]] [[friedrich wilhelm joseph von schelling]]
+  - [[engels]]
+    - [[pull]] [[schelling and revelation]]
+- a [[person]].
+  - [[pull]] [[thomas schelling]]
 - an [[instance]].
   - [[mastodon]]
   - [[go]] https://shelling.pt
