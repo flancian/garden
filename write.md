@@ -8,5 +8,7 @@
   - [[write]] to [[hawns widmer]]
   - [[write]] [[agora protocol]]
   - [[write]] [[book]]
+  - [[write]] [[building bridges]]
+  - [[remember]] to also [[edit]]
 
 
