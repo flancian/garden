@@ -1,0 +1,4 @@
+# privado
+
+- [[pull]] [[private]]
+
