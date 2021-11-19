@@ -2,6 +2,8 @@
 
 - a [[list]].
   - [[pull]] [[friend]]
+    - You can be my [[friend]] essentially just by being interested on being one of them and being a well-intentioned person.
+    - I assume all are [[well intentioned]] by [[default]].
   - I like to think of [[flancia]] as an interactive book dedicated to my [[friends]].
 - I like to think of [[Flancia]] as a [[book]] dedicated to my [[friends]].
   - See you on the other side, my [[friends]]!
