@@ -1,6 +1,6 @@
 # Agora Plan
 
-## Introducion
+## Introduction
 
 The [[Agora]] is a project with a large [[scope]], so it takes a minute to explain what it's all about, and what the vision this plan tries to advance is.
 
