@@ -1,6 +1,6 @@
 # privado
 
-- [[pull]] [[private]]
+- == [[private]]
 
 Voy y vengo y voy y vengo, y lo que me hace falta es escribir; a veces me hace falta escribir en español, y no me doy cuenta; entonces lo postergo. Para dejar de postergarlo empecé a escribir esta nota.
 
