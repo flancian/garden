@@ -1,7 +1,7 @@
 # nfts
 
 - a [[list]].
-  - [[push]] here if you want to add an item to this list.
-  - [[pull]] [[nft]]
+  - [[push]] here if you want to add an [[nft]] to this list.
+    - [[pull]] [[nft]]
 
 
