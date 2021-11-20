@@ -1,0 +1,6 @@
+# pipe alias
+
+- a [[feature]]
+  - [[markdown extension]]
+  - [[pull]] [[pipe aliases]] [[bar renaming]]
+  - [[s5bug]] https://twitter.com/Fish_CTO/status/1462144240377499653
