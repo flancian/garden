@@ -1,6 +1,6 @@
 
 - a [[cat]].
-  - [[pull]] [[ocell]]
-    - [[pseudonymous]]
   - [[friend]]
+  - [[pseudonym]] 
+    - [[pull]] [[ocell]]
 
