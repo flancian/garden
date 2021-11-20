@@ -1,11 +1,11 @@
 # Ocell
 
-- a [[cat]]
+- a [[cat]].
 	- [[friend]]
+		- I [[love]] them.
  	- [[twitter]] https://flancia.org/t/ocell
-	- I [[love]] them.
 	- She lives with us: 
-  	- [[flancian]] https://twitter.com/flancian/status/1325024046346539008
+		- [[flancian]] https://twitter.com/flancian/status/1325024046346539008
 		- Previously in a shelter in [[granada]]. We adopted her when she was a bit over a year old.
 		- We picked her up in Brugg on [[2020-11-07]].
 		- Technically her name is masculine (it means "bird" in Catalan) but I don't think she cares about grammatical gender.
