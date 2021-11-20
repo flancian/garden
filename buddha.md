@@ -1,10 +1,11 @@
 # Buddha
 
 - A [[person]].
-- A [[role model]].
-- A [[philosopher]].
-- There is such a thing as [[buddha nature]].
-- I consider myself part of the [[secular buddhism]] and [[rationality]] movements.
-- [[meta]] Ha, I can't believe I hadn't noded him until [[2020-12-11]].
+  - [[philosopher]] [[role model]].
+  - [[pull]] [[buddha nature]].
+  - I consider myself a [[rational]] [[buddhist]].
+  - [[meta]] 
+    - Ha, I can't believe I hadn't noded him until [[2020-12-11]].
+    - As of [[2021-11-20]] this was still clearly a stub.
 
 
