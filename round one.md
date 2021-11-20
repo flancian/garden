@@ -2,7 +2,7 @@
 
 - a [[thing]].
   - a [[step]] in a [[process]]
-  - a [[time lapse]]
-  - often one of many
-    - [[pull]] [[round]]
+    - often one of many.
+    - [[time lapse]]
+  - [[push]] [[rounds]]
 
