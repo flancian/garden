@@ -1,4 +1,6 @@
 # hark, a vagrant
 
-- [[go]] http://www.harkavagrant.com/
+- a [[web comic]]
+  - [[kate beaton]]
+  - [[go]] http://www.harkavagrant.com/
 
