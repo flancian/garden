@@ -2,7 +2,9 @@
 
 - A [[person]].
   - [[philosopher]] [[bodhisattva]] [[arahant]]
-  - [[pull]] [[buddha nature]] [[shakyamuni]]
+  - [[pull]] [[buddha nature]] 
+  - [[shakyamuni]]
+    - I'm not sure about my thoughts on many earlier and later [[buddhas]], but I do believe there are many apart from [[siddharta gautama]].
   - I consider myself a [[rational]] [[buddhist]].
     - [[meta]] 
       - Ha, I can't believe I hadn't noded him until [[2020-12-11]].
