@@ -1,6 +1,8 @@
 # round one
 
 - a [[thing]].
-  - [[time lapse]]
-  - often one of many.
+  - a [[step]] in a [[process]]
+  - a [[time lapse]]
+  - often one of many
+    - [[pull]] [[round]]
 
