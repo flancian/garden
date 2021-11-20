@@ -1,8 +1,10 @@
 # Feedback
 
-- Ping me anytime on any of the supported platforms: [[flancian]].
-- [[go]] twitter.com/flancian
+- Please feel free to send me a message me anytime on any of the supported platforms: [[flancian]].
+- [[twitter]] https://twitter.com/flancian
   - DMs are open.
+- [[mastodon]] https://social.coop/@flancian
+  - I believe in the huge potential of the [[fediverse]] and the [[knowledge metaverse]].
 - This is feedback I've gotten.
   - [[flancia]]
     - Improve the slogans. "In Flancia there is no poverty" sounds a bit "save the world", generic, a platitude; but the idea behind Flancia *is* to write a plan together to at least try to "[[change the world]]"; it could communicate that. I should in general make it clearer that it's an action-based rational, creative movement.
