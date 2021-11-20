@@ -1,1 +1,3 @@
-- [[go]] https://flancia.org/meta
+
+- a [[post]].
+  - [[go]] https://flancia.org/meta
