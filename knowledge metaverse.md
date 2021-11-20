@@ -1,4 +1,4 @@
 # knowledge metaverse
 
-- [[pull]]
+- [[pull]] [[knowledge commons]]
 
