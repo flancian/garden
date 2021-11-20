@@ -7,4 +7,4 @@
     - https://twitter.com/Fish_CTO/status/1462144240377499653
     - https://twitter.com/Fish_CTO/status/1462151964322459654
 - [[push]] [[do]]
-  - implement
+  - implement this and [[equals]]
