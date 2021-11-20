@@ -1,5 +1,5 @@
 # Conscious Beings
 
-- [[pull]] [[person]]
+- [[pull]] [[person]] [[dog]] [[cat]] [[cow]] [[all conscious beings]]
 
 
