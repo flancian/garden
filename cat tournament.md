@@ -1,6 +1,6 @@
 # cat tournament
 
-- a [[tournament]]
+- a [[tournament]].
   - [[pull]] [[cats]]
   - organized by [[mechanical monk]]
   - [[go]] https://twitter.com/mechanical_monk/status/1461765427214929927
