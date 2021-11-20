@@ -2,7 +2,7 @@
 
 - A [[person]].
   - [[philosopher]] [[role model]].
-  - [[pull]] [[buddha nature]].
+  - [[pull]] [[buddha nature]] [[shakyamuni]].
   - I consider myself a [[rational]] [[buddhist]].
   - [[meta]] 
     - Ha, I can't believe I hadn't noded him until [[2020-12-11]].
