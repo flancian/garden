@@ -1,6 +1,6 @@
 # Agora Ext
 
-- a [[browser extens  ion]] 
+- a [[browser extension]] 
   - it makes [[wikilinks]] clickable on your browser on arbitrary websites.
   - [[firefox]] https://addons.mozilla.org/en-US/firefox/addon/agora/
   - [[chrome]] pending
