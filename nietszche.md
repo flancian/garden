@@ -1,4 +1,4 @@
 # nietszche
 
-- [[pull]] [[friedrich nietzsche]] [[federico nietzsche]]
+- [[pull]] [[friedrich nietzsche]] == [[federico nietzsche]]
 
