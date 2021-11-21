@@ -1,6 +1,7 @@
 # Revolution
 
 - a [[thing]]
+  - [[pull]] [[revolutions]]
   - [[political action]] 
   - ocassionally, but not necessarily in the end, [[disruptive]]
     - my proposal for the revolution is the [[flancian revolution]], which is designed to be reasonably all-optional
@@ -9,11 +10,11 @@
   - [[aristotle]] describes two types of [[political revolution]]:
     - [[complete change]] from one [[constitution]] to another
     - [[modification]] of an existing constitution.
-- [[protopoi]] might be the [[space]] of composable [[atomic revolutions]].
-  - I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
+- I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
+  - [[protopoi]] might be the [[space]] of composable [[atomic revolutions]].
   - I am a [[flancian]] and this [[agora]] is meant to be a [[manifesto]].
   - [[pull]] [[fourth international]] [[fifth international]] [[sixth international]]
   - https://twitter.com/flancian/status/1368252143338192898
-- [[pull]] [[revolutions]]
+  - https://twitter.com/flancian/status/1462091524985045001
 
 
