@@ -20,7 +20,7 @@
 		- [[Flancia]], or [[building bridges]].
 	- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
-  - [[flancian]] https://twitter.com/flancian/status/1298701482997538822
-  - [[flancian]] https://twitter.com/flancian/status/1298708974364024832
-  - [[flancian]] https://twitter.com/flancian/status/1355193365046898689
-  - [[flancian]] https://twitter.com/flancian/status/1373677818312278016
+- [[flancian]] https://twitter.com/flancian/status/1298701482997538822
+- [[flancian]] https://twitter.com/flancian/status/1298708974364024832
+- [[flancian]] https://twitter.com/flancian/status/1355193365046898689
+- [[flancian]] https://twitter.com/flancian/status/1373677818312278016
