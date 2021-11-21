@@ -1,7 +1,8 @@
 # Flancia
 
-- A [[place]] in my mind.
-	- A [[protopia]].
+- a [[place]].
+	- [[protopia]].
+		- in [[my mind]].
 	- The world after the [[Flancian revolution]].
 	- The world of the [[Flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
 	- Flancia is, I believe, a place that exists as an hypothetical shared future. Flancia exists in the [[multiverse]].
