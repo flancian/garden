@@ -1,21 +1,22 @@
 # Flancia
 
 - a [[place]].
-	- [[protopia]].
-		- in [[my mind]].
-	- The world after the [[Flancian revolution]].
-	- The world of the [[Flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
-	- Flancia is, I believe, a place that exists as an hypothetical shared future. Flancia exists in the [[multiverse]].
+	- [[protopia]] 
+		- in my [[my mind]].
+	- The world after the [[flancian revolution]].
+		- The world of the [[flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
+		- Flancia is, I believe, a place that exists as an hypothetical shared future. 
+		- At the very least Flancia exists in the [[multiverse]].
 - a [[thing]].
-  - [[go]] https://flancia.org
-  - I am a [[flancian]] and the [[Agora]] contains my [[manifesto]].
-	- Flancia existed before this [[agora]] but is in the limit defined by how it can be put to use towards a state of higher [[public utility]] by the [[flancians]].
+	- [[project]].
+		- [[go]] https://flancia.org
+		- I am a [[Flancian]] and this [[Agora]] has my [[manifesto]].
+		- Flancia existed before the Agora but is in the limit defined by how the [[agora]] can be put to use towards the [[thriving]] of all [[conscious beings]] via the exercise of [[altruism]] and the incremental unlocking of [[public utility]].
 	- [[pull]] [[flancia collective]]
 		- runs the [[reference agora]].
 - a [[set]].
 	- of [[people]] and [[things]].
 	- the [[agora]] is in it.
-- a [[project]].
   - [[book]]
 		- [[Flancia]], or with a little help from my [[friends]].
 		- [[Flancia]], or [[building bridges]].

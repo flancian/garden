@@ -1,0 +1,4 @@
+# altruism
+
+- [[pull]] [[effective altruism]]
+
