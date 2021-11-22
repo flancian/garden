@@ -1,28 +1,28 @@
 # Flancia
 
-- A [[place]] in my mind.
-	- A [[protopia]].
-	- The world after the [[Flancian revolution]].
-	- The world of the [[Flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
-	- Flancia is, I believe, a place that exists as an hypothetical shared future. Flancia exists in the [[multiverse]].
+- a [[place]].
+	- [[protopia]] 
+		- in my [[my mind]].
+	- The world after the [[flancian revolution]].
+		- The world of the [[flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
+		- Flancia is, I believe, a place that exists as an hypothetical shared future. 
+		- At the very least Flancia exists in the [[multiverse]].
 - a [[thing]].
-  - [[go]] https://flancia.org
-  - I am a [[flancian]] and the [[Agora]] contains my [[manifesto]].
-		- Flancia existed before this [[agora]] but is in the limit defined by how it can be put to use towards a state of higher [[public utility]] by the [[flancians]].
-	- [[pull]] [[flancia collective]]
-		- runs the [[reference agora]].
-	- a [[set]].
-		- of [[people]] and [[things]].
-		- a [[subset]].
-		- of the [[agora]].
-		- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
-		- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
-			- [[space]] [[gather]]
-- A [[book]] we're trying to write.
-  - [[push]] [[book]]
+	- a [[project]].
+		- [[go]] https://flancia.org
+		- I am a [[Flancian]] and this [[Agora]] contains my [[manifesto]].
+		- Flancia existed before the Agora but is, I believe, defined in the limit by how the [[Agora]] is put to use towards maximizing [[thriving]] for all [[conscious beings]] via the incremental unlocking of [[public utility]] and the practice of [[altruism]].
+		- [[flancia collective]] runs the [[reference agora]].
+- a [[set]].
+	- of [[people]] and [[things]].
+  	- (the [[Agora]] is in it.)
+	- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
+- a [[book]].
+	- (or perhaps a piece of [[performance art]]?)
 		- [[Flancia]], or with a little help from my [[friends]].
-
-https://twitter.com/flancian/status/1298701482997538822
-https://twitter.com/flancian/status/1298708974364024832
-https://twitter.com/flancian/status/1355193365046898689
-https://twitter.com/flancian/status/1373677818312278016
+		- [[Flancia]], or [[building bridges]].
+- [[flancian]] https://twitter.com/flancian/status/1298701482997538822
+- [[flancian]] https://twitter.com/flancian/status/1298708974364024832
+- [[flancian]] https://twitter.com/flancian/status/1355193365046898689
+- [[flancian]] https://twitter.com/flancian/status/1373677818312278016
