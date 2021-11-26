@@ -3,7 +3,7 @@
 - A [[project]].
 	- [[roam like]]. A [[vscode]] extension.
 	- [[go]] https://foambubble.github.io/foam/
-	  - By [[jevakallio]].
+	  - By [[jevakallio]], [[riccardo ferretti]].
 	  - Notable contributors / people I've met in the [[discord]]: [[ingalless]] [[scottjoe]] [[riccardo]] [[mathieudutour]].
 	- As of [[2021-01-04]], my personal [[agora client]].
 	  - See [[foam settings]], which describes my setup.
