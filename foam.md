@@ -8,8 +8,7 @@
 	- As of [[2021-01-04]], my personal [[agora client]].
 	  - See [[foam settings]], which describes my setup.
 	  - Update [[2021-05-07]]: left for [[obsidian]].
-
-To use foam:
+  - To use foam:
     - Fork its template repository: <https://github.com/foambubble/foam-template/>. You can use any name you desire for your repository.
     - Install [[vscode]] if necessary: <https://code.visualstudio.com/download>. Launch it.
     - Select 'clone repository' -- if you're using [[github]], log in with [[github]]. Authorize [[vscode]] to make changes to your account. It sometimes requires you to retry once for some reason.
