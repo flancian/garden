@@ -2,8 +2,10 @@
 
 - a [[list]].
   - [[pull]] [[convolute]]
-  - https://jahsonic.com/Convolute.html
+  - [[go]] https://jahsonic.com/Convolute.html
   - [[convolute n]]
+
+From the link above:
 
 ```There are 36 convolutes. A convolute can be described best as a section, chapter or category. Convolute N is the most revealing about the Arcades Project itself.
 
