@@ -5,4 +5,5 @@
     - It is [[open source]]. Content is [[crowd sourced]]. That is, it is what you, [[reader]] or [[writer]], want to make of it.
       - It is inspired by [[infocom]] and [[lucasfilm games]].
   - https://twitter.com/flancian/status/1381298426416087041
-  - [[lorand]] made [[kaleido]].
+  - [[matrix bot]]
+  - [[lorand]] [[go/kaleido]].
