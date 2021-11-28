@@ -1,6 +1,8 @@
+
 - a [[project]].
-	- one of [[humanity's best]].
+	- [[internet]] [[free]] [[encyclopedia]] 
 	- by [[wikimedia foundation]].
+	- one of [[humanity's best]].
 	- [[pull]] https://wikipedia.org
 		- in the [[agora]], you can usually [[pull]] (transclude) Wikipedia.
 		- [[go]] [[pull]]
