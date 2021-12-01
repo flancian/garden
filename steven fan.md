@@ -21,5 +21,7 @@
     - most are built on dominance, hierarchies, nationalism
 - some companies like Twitter are relatively successful at fostering community
   - [[media that allows people to vibe]]
+- [[exit to community]]
+- [[compost]]
 - shared [[goals]]?
 
