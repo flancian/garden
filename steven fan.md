@@ -29,7 +29,7 @@
   - we need [[organizations]] that are willing and able to act this way
     - most are built on dominance, hierarchies, nationalism
 - some companies like Twitter are relatively successful at fostering community
-  - [[media that allows people to vibe]]
+  - growing media that allows people to [[vibe]]
 - [[exit to community]]
 - [[compost]]
 - shared [[goals]]?
