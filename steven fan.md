@@ -8,5 +8,7 @@
 
 ## [[2021-12-01]]
 - Greetings finally!
-- [[mapping]]
+- [[mapping]] the space together.
+- shared [[goals]]?
+- Longer term vision.
 
