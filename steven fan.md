@@ -8,7 +8,16 @@
 
 ## [[2021-12-01]]
 - Greetings finally!
+  - [[background]]
+    - [[steven fan]] biochemistry and mathematics
+      - work experience in biology labs
+      - founded a [[maker space]]
+      - in [[portland]]
+      - tried a startup
+      - working as a PM currently
 - [[mapping]] the space together.
+  - learnt the potential of mapping through analyzing organizations
+  - see https://learnwardleymapping.com
 - Longer term vision.
   - [[push]] [[steven simple future map]]
     - [[miro]] https://miro.com/app/board/o9J_lj6DdTc=/?invite_link_id=106365960220
