@@ -6,3 +6,7 @@
   - A [[meditator]].
   - Part of [[abstract fairy]]'s [[zulip]].
 
+## [[2021-12-01]]
+- Greetings finally!
+- [[mapping]]
+
