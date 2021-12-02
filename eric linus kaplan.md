@@ -1,5 +1,7 @@
 # Eric Linus Kaplan
-- recommended [[Hubert Dreyfus]] to me: https://twitter.com/ericlinuskaplan/status/1285253684734029824?s=09
-- a [[person]] on [[twitter]]: twitter.com/ericlinuskaplan
-- [[writer]] of [[sitcoms]] (and other things).
+
+- a [[person]].
+  - [[writer]] [[sitcoms]]
+  - [[twitter]] https://twitter.com/ericlinuskaplan
+  - recommended [[Hubert Dreyfus]] to me: https://twitter.com/ericlinuskaplan/status/1285253684734029824?s=09
 

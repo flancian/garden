@@ -1,4 +1,7 @@
 # Mapping the Fediverse
 
-- [[red oak]] is interested.
+- a [[project]].
+  - [[map]] [[fediverse]]
+  - [[red oak]] is interested.
+  - [[fediverse party]] [[fediverse space]] could be part of this.
 
