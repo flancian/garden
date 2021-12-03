@@ -32,5 +32,8 @@
   - growing media that allows people to [[vibe]]
 - [[exit to community]]
 - [[compost]]
-- shared [[goals]]?
+- shared [[goals]]? next steps?
+  - [[maps]]
+    - [[mapping the fediverse]]?
+  - [[timeline of the future]]
 
