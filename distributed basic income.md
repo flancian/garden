@@ -1,4 +1,5 @@
 # distributed basic income
 
-- [[universal basic income]] in the [[limit]].
+- a [[scheme]].
+  - [[pull]] [[universal basic income]] in the [[limit]].
 
