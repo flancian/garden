@@ -27,4 +27,6 @@
   - [[agora protocol]], old doc, has some on this
 - [[philosophical questions]]
 - [[game]] [[humankind]]
+- something we could disagree on
+  - the role of [[money]]?
 
