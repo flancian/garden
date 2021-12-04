@@ -1,7 +1,7 @@
 # xiq
 
 - a [[person]].
-  - [[pull]] [[@xiq]]
   - [[friend]]
-  - [[flancia collective]] is my party. it meets with others in [[guilds]].
+  - [[pull]] [[@xiq]]
+  - [[flancia collective]] is likely not my party, but more generally a guild I meet as often as I can.
 
