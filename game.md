@@ -8,3 +8,4 @@
       - You can imagine it as a multimedia adventure as inspired by [[infocom]], [[lucasfilm games]] -- and [[open source]] culture.
   - https://twitter.com/flancian/status/1381298426416087041
   - [[lorand]] [[go/kaleido]].
+  - [[would you like to play?]]
