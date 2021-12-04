@@ -18,6 +18,7 @@
     - [[jhana inflation]]
   - [[andres gomez emilson]]
     - [[qualia computing]]
+- [[meditation]] and [[memory]]
 - [[flancia]]
   - [[agora]]
 
