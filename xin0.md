@@ -34,4 +34,6 @@
     - less likely to be low hanging fruit in the for profit space
     - to some extent the distinction is unclear if the organization has a good intent (e.g. it will forward profit to good causes)
     - it might be a tax code distinction at root?
+- [[democracy]]
+  - [[exit, voice and loyalty]]
 
