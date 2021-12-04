@@ -21,4 +21,6 @@
 - [[meditation]] and [[memory]]
 - [[flancia]]
   - [[agora]]
+- how to make [[an agora]] better
+- [[philosophical questions]]
 
