@@ -16,7 +16,7 @@
       - The one in [[viral]], I guess, is mine; currently my most popular post on social media. I *may* be remembered for it if I don't do any better before I die.
       - I'd rather be remembered for a better thing, though, which is why I started [[Flancia]].
       - Which of you would you like to share? Tell me over [[matrix]] and I'll read you gladly.
-    - In Flancia [[you]] and [[me]] can join a [[gentle revolution]].
+    - In Flancia [[you]] and [[I]] both can join a [[gentle revolution]].
 
 
 
