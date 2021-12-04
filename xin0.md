@@ -22,5 +22,9 @@
 - [[flancia]]
   - [[agora]]
 - how to make [[an agora]] better
+  - would it be better if the agora focused also on finding *mis* aligned values, instead of focusing on shared goals and values?
+  - totally!
+  - [[agora protocol]], old doc, has some on this
 - [[philosophical questions]]
+- [[game]] [[humankind]]
 
