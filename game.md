@@ -1,7 +1,8 @@
 # game
 
 - a [[device]].
-  - We're slowly building a game. The [[agora]] can be seen as its [[engine]].
+  - [[Flancia]] is a [[game]].
+    - We're slowly building a game. The [[agora]] can be seen as part of its [[engine]], which is the [[internet]].
     - It is [[open source]]. Content is [[crowd sourced]]. That is, it is what you, [[reader]] or [[writer]], want to make of it.
       - It is inspired by [[infocom]], [[lucasfilm games]] and [[wiki]] culture.
       - [[matrix bot]]
