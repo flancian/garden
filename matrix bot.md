@@ -5,7 +5,7 @@
   - [[vera]]
     - found [[hemppa]], which looks like a good [[template]]
   - [[maya]]
-    - also [[maubot]] , recommended by [[ve]]
+    - also [[maubot]]
   - could be based on [[agora bot]] (for social media currently).
 
 
