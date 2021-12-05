@@ -19,6 +19,8 @@
 	- like when you go up a hill or mountain and you realize that there's another similar excursion you can start from up top (to the next hill/high)
 	- but now apparently out of this! a good time to look back/down, revisit, consider, [[demo]]
 	- [[indiehub]] is the main account of Gyuri in the [[fediverse]]
+	- [[trailhub]] is the old name for the old approach -- [[indiehub]] is like [[indieweb]] but serverless / highly distributed
+		- [[ipfs]], [[hypercore]] and [[holochain]]
 - [[flancian]] agora updates
   - [[agora bot]] -> social media integration
   - community growing, feeling nice!
