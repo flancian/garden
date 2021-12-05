@@ -21,6 +21,8 @@
 	- [[indiehub]] is the main account of Gyuri in the [[fediverse]]
 	- [[trailhub]] is the old name for the old approach -- [[indiehub]] is like [[indieweb]] but serverless / highly distributed
 		- [[ipfs]], [[hypercore]] and [[holochain]]
+			- all building on [[dhts]]
+		- [[named data networking]] is the predecessor to these distributed systems
 - [[flancian]] agora updates
   - [[agora bot]] -> social media integration
   - community growing, feeling nice!
