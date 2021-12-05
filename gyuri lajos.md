@@ -44,6 +44,8 @@
 - [[wiky]]
 	- https://wiky.fission.app/rte/index.html?t=t%20-%20d4
 	- reminds me of: 0x's project (name?). [[braid]].
+- [[open learning commons]]
+- [[web3 storage]] https://web3.storage
 
 ## [[2021-06-12]]
 - greetings!
