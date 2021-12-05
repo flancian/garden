@@ -27,22 +27,23 @@
   - [[agora bot]] -> social media integration
   - community growing, feeling nice!
 - [[log]]
-
-```https://social.coop/@indiehub
-https://botsin.space/@agora
-Testing [[agora bot]] functionality
-Testing using the [[agora]] from Mastodon by using [[wikilinks]] after following @agora@botsin.space.
-Testing [[indiehub]] - [[agora]] integration :)
-https://en.wikipedia.org/wiki/Named_data_networking#annotations:74j9_EpAEey7ePNgUpMfDQ
-[[free, fair and alive]]
-https://anagora.org/free-fair-and-alive
-https://anagora.org/wikilinks-everywhere```
-
+ - https://social.coop/@indiehub
+ - https://botsin.space/@agora
+ - Testing [[agora bot]] functionality
+ - Testing using the [[agora]] from Mastodon by using [[wikilinks]] after following @agora@botsin.space.
+ - Testing [[indiehub]] - [[agora]] integration :)
+ - https://en.wikipedia.org/wiki/Named_data_networking#annotations:74j9_EpAEey7ePNgUpMfDQ
+ - [[free, fair and alive]]
+ - https://anagora.org/free-fair-and-alive
+ - https://anagora.org/wikilinks-everywhere```
 - [[gyuri]] helped me find a bug in [[agora bot]] for mastodon!
 	- the 'watching' list is not being updated correctly
 - [[orbitdb]]
 	- distributed database, append semantics but with removal
 	- isomorphic to: distributed [[pubsub]]
+- [[wiky]]
+	- https://wiky.fission.app/rte/index.html?t=t%20-%20d4
+	- reminds me of: 0x's project (name?). [[braid]].
 
 ## [[2021-06-12]]
 - greetings!
