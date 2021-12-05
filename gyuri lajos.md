@@ -16,6 +16,7 @@
 ## [[2021-12-05]]
 - [[leg district]]
 	- like when you go up a hill or mountain and you realize that there's another similar excursion you can start from up top (to the next hill/high)
+	- but now apparently out of this! a good time to look back/down, revisit, consider, [[demo]]
 
 ## [[2021-06-12]]
 - greetings!
