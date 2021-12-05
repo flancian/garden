@@ -13,6 +13,10 @@
 		- [[building augmented knowledge architectures]] 
 		- [[wikinizer]]
 
+## [[2021-12-05]]
+- [[leg district]]
+	- like when you go up a hill or mountain and you realize that there's another similar excursion you can start from up top (to the next hill/high)
+
 ## [[2021-06-12]]
 - greetings!
 	- [[gyuri]]
