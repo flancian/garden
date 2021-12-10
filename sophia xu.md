@@ -23,3 +23,8 @@
 		- left [[logseq]] in [[october 2020]] (!)
 			- in good terms!
 			- they are very focused on one use case / note taking in outliner mode
+- potential for cooperation / ideas from the agora that could be reused
+  - [[wikilinks everywhere]]
+	- [[go links]]
+- projects that could be relevant
+	- [[karlicoss]] -> [[promnesia]]
