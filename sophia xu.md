@@ -28,3 +28,5 @@
 	- [[go links]]
 - projects that could be relevant
 	- [[karlicoss]] -> [[promnesia]]
+- how could I help?
+	- raising angel round
