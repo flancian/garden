@@ -17,6 +17,7 @@
 	- includes a rich type system
 	- typescript based
 	- react
+	- [[mit]] license
 	- demo!
 - cooperation with other startups?
 	- [[merging]]
@@ -29,4 +30,9 @@
 - projects that could be relevant
 	- [[karlicoss]] -> [[promnesia]]
 - how could I help?
-	- raising angel round
+	- [[follow up]] raising angel round for ~1.5y of runway
+- [[rss3]] https://twitter.com/rss3_
+- [[dryden]] https://twitter.com/drydenwtbrown
+  - [[praxis society]]
+- how does [[unigraph]] fit into the commons/social functionality
+	- [[unigraph]] is a way to share context with each other
