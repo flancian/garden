@@ -1,5 +1,5 @@
 # solve poverty
 
-- a [[solution]].
+- a [[program]].
   - [[solve]] [[poverty]]
 
