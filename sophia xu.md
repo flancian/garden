@@ -33,6 +33,6 @@
 	- [[follow up]] raising angel round for ~1.5y of runway
 - [[rss3]] https://twitter.com/rss3_
 - [[dryden]] https://twitter.com/drydenwtbrown
-  - [[praxis society]]
+  - [[praxis society]] https://twitter.com/praxissociety
 - how does [[unigraph]] fit into the commons/social functionality
 	- [[unigraph]] is a way to share context with each other
