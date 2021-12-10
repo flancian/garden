@@ -5,7 +5,6 @@
 	- [[unigraph]]
 
 ## [[2021-12-10]]
-- left [[logseq]] in [[october 2020]]
 - trying to get a [[cofounder]]
 	- hard to find someone with passion, capability
 	- code base is [[mit]] but probably going to go after a startup model
@@ -15,5 +14,12 @@
 - met [[conaw]]
 	- got the vision of someone very idealistic, eccentric, academy like environment
 - [[unigraph]]
+	- includes a rich type system
+	- typescript based
+	- react
+	- demo!
 - cooperation with other startups?
 	- [[merging]]
+		- left [[logseq]] in [[october 2020]] (!)
+			- in good terms!
+			- they are very focused on one use case / note taking in outliner mode
