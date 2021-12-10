@@ -3,3 +3,36 @@
 	- [[mcgill university]]
 	- [[twitter]] https://twitter.com/thesophiaxu
 	- [[unigraph]]
+
+## [[2021-12-10]]
+- trying to get a [[cofounder]]
+	- hard to find someone with passion, capability
+	- code base is [[mit]] but probably going to go after a startup model
+- ceo/cfo structure or something different?
+  - yes, but not necessarily top-down
+  - would like to experiment with company democracy, employees could get a number of votes
+- met [[conaw]]
+	- got the vision of someone very idealistic, eccentric, academy like environment
+- [[unigraph]]
+	- includes a rich type system
+	- typescript based
+	- react
+	- [[mit]] license
+	- demo!
+- cooperation with other startups?
+	- [[merging]]
+		- left [[logseq]] in [[october 2020]] (!)
+			- in good terms!
+			- they are very focused on one use case / note taking in outliner mode
+- potential for cooperation / ideas from the agora that could be reused
+  - [[wikilinks everywhere]]
+	- [[go links]]
+- projects that could be relevant
+	- [[karlicoss]] -> [[promnesia]]
+- how could I help?
+	- [[follow up]] raising angel round for ~1.5y of runway
+- [[rss3]] https://twitter.com/rss3_
+- [[dryden]] https://twitter.com/drydenwtbrown
+  - [[praxis society]] https://twitter.com/praxissociety
+- how does [[unigraph]] fit into the commons/social functionality
+	- [[unigraph]] is a way to share context with each other
