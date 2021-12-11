@@ -60,6 +60,8 @@
 	- [[question]] is there a micropub endpoint provider that just writes resources to a git repository?
 	- [[push]] [[indieweb]]
 		- [[posse]] [[pesos]]
+- [[push]] [[write]]
+  - something with [[flancia collective]] for [[compost]]!
 
 ## [[2021-10-24]]
 - [[agora development]]
