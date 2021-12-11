@@ -9,6 +9,15 @@
 	- Uses [[org-roam]]. 
 	- [[matrix]] @doubleloop:matrix.org
 
+## [[2021-12-11]]
+- ahoy!
+	- https://meet.jit.si/DoubleloopFlancian
+- [[neil]] the internet is on fire due to [[log4j]]
+	- [[xkcd]] https://xkcd.com/2347/
+- [[bob haugen]]
+	- [[value flows]]
+- [[patterns of commoning]]
+	- [[flancia collective]] is a group of [[commoners]]
 ## [[2021-10-24]]
 - [[agora development]]
 - [[repair day]]
