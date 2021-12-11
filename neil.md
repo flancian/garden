@@ -31,6 +31,10 @@
 		- could be a direction
 			- linked to [[m prime]], [[protopoi]]
 - [[smart contracts]]
+	- [[free, fair and alive]]
+		- ([[choose commons friendly financing]])
+- [[patterns]]
+	- [[notsof]] == [[notes on the synthesis of form]]
 
 ## [[2021-10-24]]
 - [[agora development]]
