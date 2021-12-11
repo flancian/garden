@@ -39,6 +39,7 @@
 			- more focus on [[commoning]] as an activity
 - [[patterns]]
 	- [[notsof]] == [[notes on the synthesis of form]]
+	- would like to make this into a 'root node' for all known patterns -- or repositories of patterns transitively
 ## [[2021-10-24]]
 - [[agora development]]
 - [[repair day]]
