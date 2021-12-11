@@ -33,9 +33,12 @@
 - [[smart contracts]]
 	- [[free, fair and alive]]
 		- ([[choose commons friendly financing]])
+	- [[mike hales]]
+		- [[ostrom]] was more descriptive
+		- [[free, fair and alive]] is more political
+			- more focus on [[commoning]] as an activity
 - [[patterns]]
 	- [[notsof]] == [[notes on the synthesis of form]]
-
 ## [[2021-10-24]]
 - [[agora development]]
 - [[repair day]]
