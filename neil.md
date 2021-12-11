@@ -40,6 +40,15 @@
 - [[patterns]]
 	- [[notsof]] == [[notes on the synthesis of form]]
 	- would like to make this into a 'root node' for all known patterns -- or repositories of patterns transitively
+- [[snow crash]]
+	- [[info daemons]]
+	- [[robofriend]]
+	- [[socrates]]
+- [[conversations]]
+  - with books
+- [[huginn]]
+- [[information theory]] -> [[conversation theory]]
+
 ## [[2021-10-24]]
 - [[agora development]]
 - [[repair day]]
