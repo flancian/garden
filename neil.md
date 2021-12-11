@@ -51,6 +51,13 @@
 		- [[anarchist cybernetics]]
 			- goes back to how to integrate the thoughts of a whole community for determining the direction we want to take as commoners
 - [[solve poverty]]
+- [[demo]] of [[neil]]'s workflow
+  - [[org mode]]
+  - [[micropub]] endpoint
+		- set up by wordspress plugin
+	- post ends up in https://doubleloop.net and social media (social.coop)
+		- [[quill]]
+	- [[question]] is there a micropub endpoint provider that just writes resources to a git repository?
 
 ## [[2021-10-24]]
 - [[agora development]]
