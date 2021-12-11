@@ -1,8 +1,8 @@
 # Agora Bridge
 
-- A [[service]] run by the [[fedstoa]].
+- A [[service]] run by the [[flancia collective]]].
   - [[git]] https://github.com/flancian/agora-bridge
-  - [[go]] [[git]]
+    - [[go]] [[git]]
   - An [[integration hub]] that hosts [[bots]], [[clients]] and [[siphons]]; any [[bridges]] of [[public utility]]. 
   - It tries to assist its users first and foremost; optionally it allows any [[agora]] to interact with [[social networks]], the [[fediverse]] and the internet at large -- always as is the intent of its users.
   - Bridges are configured with [[yaml]].
