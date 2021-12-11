@@ -44,10 +44,13 @@
 	- [[info daemons]]
 	- [[robofriend]]
 	- [[socrates]]
+	- [[huginn]]
 - [[conversations]]
   - with books
-- [[huginn]]
-- [[information theory]] -> [[conversation theory]]
+	- [[information theory]] -> [[conversation theory]]
+		- [[anarchist cybernetics]]
+			- goes back to how to integrate the thoughts of a whole community for determining the direction we want to take as commoners
+- [[solve poverty]]
 
 ## [[2021-10-24]]
 - [[agora development]]

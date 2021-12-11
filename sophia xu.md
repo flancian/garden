@@ -39,3 +39,7 @@
 - has been working on [[unigraph]] solo for only 1y
 - knows [[licat]] from [[obsidian]]
   - reach out via discord
+- [[solve poverty]]
+	- [[patterns for problem solving]]
+	- [[second level patterns]]
+	- [[a rosetta stone]]
