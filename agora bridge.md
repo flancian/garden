@@ -3,6 +3,8 @@
 - A [[service]] run by the [[flancia collective]]].
   - [[git]] https://github.com/flancian/agora-bridge
     - [[go]] [[git]]
+  - Provides the [[write]] function in [[an agora]].
+    - It ingests content into the Agora.
   - An [[integration hub]] that hosts [[bots]], [[clients]] and [[siphons]]; any [[bridges]] of [[public utility]]. 
   - It tries to assist its users first and foremost; optionally it allows any [[agora]] to interact with [[social networks]], the [[fediverse]] and the internet at large -- always as is the intent of its users.
   - Bridges are configured with [[yaml]].
