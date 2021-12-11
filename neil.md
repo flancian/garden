@@ -15,9 +15,23 @@
 - [[neil]] the internet is on fire due to [[log4j]]
 	- [[xkcd]] https://xkcd.com/2347/
 - [[bob haugen]]
-	- [[value flows]]
+	- [[value flows]] -> [[node club]]
 - [[patterns of commoning]]
 	- [[flancia collective]] is a group of [[commoners]]
+		- [[flancian]] [[fedstoa]]
+	- [[ritualized togetherness]]
+	- [[node club]]
+- to cooperate perhaps you need:
+  - a point (coordination) -- [[node]]
+  - and optionally but very usefully a direction
+- [[zettelkasten]] patterns
+	- [[free, fair and alive]]
+	- [[notions]]
+		- could be a question
+		- could be a direction
+			- linked to [[m prime]], [[protopoi]]
+- [[smart contracts]]
+
 ## [[2021-10-24]]
 - [[agora development]]
 - [[repair day]]
