@@ -62,6 +62,7 @@
 		- [[posse]] [[pesos]]
 - [[push]] [[write]]
   - something with [[flancia collective]] for [[compost]]!
+- [[at mention followers]]
 
 ## [[2021-10-24]]
 - [[agora development]]
