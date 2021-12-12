@@ -10,4 +10,4 @@
     - poll cross posting through [[moa.party]]
     - embedding of poll instances in different social networks in a shared [[context]]
     - poll [[boosting]]
-    - [[repeating polls]]
+    - [[repeating polls]] work around 7d limits on [[mastodon]] and [[twitter]]
