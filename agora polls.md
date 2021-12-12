@@ -1,7 +1,6 @@
 # agora polls
 
 - a [[project]].
-  - [[pull]] [[girlpool]] [[on cringe]]
   - the [[agora]] can track [[polling]] intents across social networks, and integrate them.
     - [[social media]] provides an ideal platform for opinion polling leading to governance
     - it is under-exploited due to the [[walled garden]] problem
@@ -11,3 +10,5 @@
     - embedding of poll instances in different social networks in a shared [[context]]
     - poll [[boosting]]
     - [[repeating polls]] work around 7d limits on [[mastodon]] and [[twitter]]
+  - implementation in [[agora server]] ([[vera]]) and [[agora bridge]] ([[flancian]])
+  - [[pull]] [[girlpool]] [[on cringe]]
