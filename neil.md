@@ -9,6 +9,61 @@
 	- Uses [[org-roam]]. 
 	- [[matrix]] @doubleloop:matrix.org
 
+## [[2021-12-11]]
+- ahoy!
+	- https://meet.jit.si/DoubleloopFlancian
+- [[neil]] the internet is on fire due to [[log4j]]
+	- [[xkcd]] https://xkcd.com/2347/
+- [[bob haugen]]
+	- [[value flows]] -> [[node club]]
+- [[patterns of commoning]]
+	- [[flancia collective]] is a group of [[commoners]]
+		- [[flancian]] [[fedstoa]]
+	- [[ritualized togetherness]]
+	- [[node club]]
+- to cooperate perhaps you need:
+  - a point (coordination) -- [[node]]
+  - and optionally but very usefully a direction
+- [[zettelkasten]] patterns
+	- [[free, fair and alive]]
+	- [[notions]]
+		- could be a question
+		- could be a direction
+			- linked to [[m prime]], [[protopoi]]
+- [[smart contracts]]
+	- [[free, fair and alive]]
+		- ([[choose commons friendly financing]])
+	- [[mike hales]]
+		- [[ostrom]] was more descriptive
+		- [[free, fair and alive]] is more political
+			- more focus on [[commoning]] as an activity
+- [[patterns]]
+	- [[notsof]] == [[notes on the synthesis of form]]
+	- would like to make this into a 'root node' for all known patterns -- or repositories of patterns transitively
+- [[snow crash]]
+	- [[info daemons]]
+	- [[robofriend]]
+	- [[socrates]]
+	- [[huginn]]
+- [[conversations]]
+  - with books
+	- [[information theory]] -> [[conversation theory]]
+		- [[anarchist cybernetics]]
+			- goes back to how to integrate the thoughts of a whole community for determining the direction we want to take as commoners
+- [[solve poverty]]
+- [[demo]] of [[neil]]'s workflow
+  - [[org mode]]
+  - [[micropub]] endpoint
+		- set up by wordspress plugin
+	- post ends up in https://doubleloop.net and social media (social.coop)
+		- [[quill]]
+	- [[question]] is there a micropub endpoint provider that just writes resources to a git repository?
+	- [[push]] [[indieweb]]
+		- [[posse]] [[pesos]]
+- [[push]] [[write]]
+  - something with [[flancia collective]] for [[compost]]!
+- [[at mention followers]]
+
 ## [[2021-10-24]]
 - [[agora development]]
 - [[repair day]]
