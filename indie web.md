@@ -1,4 +1,4 @@
 # Indie Web
 
-- [[push]] [[indieweb]]
+- [[pull]] [[indieweb]]
 
