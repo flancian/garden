@@ -15,7 +15,7 @@
 - nice to meet!
   - intros
 - conference about [[requisite agility]] just last week
-  - [[luis gallardoo]] [[happiness]] at the individual level
+  - [[luis gallardo]] [[happiness]] at the individual level
     - also at company level
-    - [[society level]]
+    - [[society level]] -> [[world happiness foundation]]
 
