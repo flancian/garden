@@ -19,4 +19,6 @@
     - also at company level
     - [[society level]] -> [[world happiness foundation]]
 - a tenet of happiness: confidence in your own decision making
+  - [[digital gardens]] build up confidence in the relations and notes one develops over time -- confidence in your modelling
+  - an [[agora]] (a group of people) can be built on top of confidence on each other's models
 
