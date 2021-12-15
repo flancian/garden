@@ -6,7 +6,16 @@
     - [[agile]] is inward looking, small (small feedback loops), short term results
     - focused on [[requisite agility]] (what comes after [[agile]])
       - a group of like-minded people working out a framework for interaction that takes us to better ends at a society
-      - [[go]] https://www.requisiteagility.org
+      - [[luis gallardo]] was at a related conference
+        - was a [[ceo]], moved to societal level
   - last name sounds like 'kit'
   - [[structures of work]] https://twitter.com/geordiekeitt/status/1287743034491314176
+
+## [[2021-12-15]]
+- nice to meet!
+  - intros
+- conference about [[requisite agility]] just last week
+  - [[luis gallardoo]] [[happiness]] at the individual level
+    - also at company level
+    - [[society level]]
 
