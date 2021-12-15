@@ -18,4 +18,5 @@
   - [[luis gallardo]] [[happiness]] at the individual level
     - also at company level
     - [[society level]] -> [[world happiness foundation]]
+- a tenet of happiness: confidence in your own decision making
 
