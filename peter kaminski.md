@@ -1,2 +1,4 @@
 - a [[person]]
 	- started [[massive wiki]]
+	- [[twitter]]? 
+  	- Are they https://twitter.com/peterkaminski? Unsure as of yet
