@@ -30,6 +30,9 @@
         - [[copiamos]]
         - [[transformamos]]
         - [[combinamos]]
+      - este proceso podría ser asistido
+        - [[cyberiad]]
+      - https://sergioalbiac.com
     - [[evolución]]
 - el argumento del [[teleportador]]
   - [[derek parfit]]
