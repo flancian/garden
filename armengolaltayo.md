@@ -16,13 +16,14 @@
 ## [[next]]
 
 ## [[2021-12-18]]
+- [[retina]]
+  - [[snapshot]]  
+- [[matrix]]
 - transparencia radical
 	- [[working in public]]
 	- pros y cons
 - [[copyright]]
-- [[retina]]
 - [[mitm]]
-- [[matrix]]
 
 ## [[2021-10-29]]
 - de vuelta en [[barcelona]]!
