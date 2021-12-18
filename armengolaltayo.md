@@ -24,6 +24,8 @@
     - el uso o fin de la información
   - [[funes el memorioso]]
   - [[copyright]]
+  - [[everything is a remix]]
+    - [[kirby ferguson]]
 - el argumento del [[teleportador]]
   - [[derek parfit]]
 - [[matrix]]
