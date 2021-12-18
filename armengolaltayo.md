@@ -14,6 +14,8 @@
   "As cybernetics would say, it is time to steer the ship, because “if you do not change direction, you may end up where you are heading”. It is time to iterate the Web, and therefore, our relationship with it."
 
 ## [[next]]
+
+## [[2021-12-18]]
 - transparencia radical
 	- [[working in public]]
 	- pros y cons
