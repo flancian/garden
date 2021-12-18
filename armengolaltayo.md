@@ -17,13 +17,16 @@
 
 ## [[2021-12-18]]
 - [[retina]]
+  - [[mitm]]
   - [[snapshot]]  
+  - [[armengol]] dos aspectos:
+    - saltearse capas
+    - el uso o fin de la información
 - [[matrix]]
 - transparencia radical
 	- [[working in public]]
 	- pros y cons
 - [[copyright]]
-- [[mitm]]
 
 ## [[2021-10-29]]
 - de vuelta en [[barcelona]]!
