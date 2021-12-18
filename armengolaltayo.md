@@ -46,7 +46,7 @@
   - [[derek parfit]]
 - [[matrix]]
 - [[push]] [[copyright]]
-  - 
+  - I don't believe in copyright as it exists nowadays; definitely not for [[digital goods]].
 
 ## [[2021-10-29]]
 - de vuelta en [[barcelona]]!
