@@ -37,6 +37,8 @@
         - https://sergioalbiac.com
           - [[gan]] https://www.sergioalbiac.com/wall/latent-empathy.html
     - [[evolución]]
+    - [[compensación]]
+      - [[effective altruism]] -> [[embracing piracy]]
 - el argumento del [[teleportador]]
   - [[derek parfit]]
 - [[matrix]]
