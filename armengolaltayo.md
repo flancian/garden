@@ -14,7 +14,9 @@
     "As cybernetics would say, it is time to steer the ship, because “if you do not change direction, you may end up where you are heading”. It is time to iterate the Web, and therefore, our relationship with it."
 
 ## [[next]]
-
+- transparencia radical
+	- [[working in public]]
+	- pros y cons
 ## [[2021-12-18]]
 - [[retina]]
   - [[mitm]]
@@ -43,10 +45,8 @@
 - el argumento del [[teleportador]]
   - [[derek parfit]]
 - [[matrix]]
-- transparencia radical
-	- [[working in public]]
-	- pros y cons
-- [[copyright]]
+- [[push]] [[copyright]]
+  - 
 
 ## [[2021-10-29]]
 - de vuelta en [[barcelona]]!
