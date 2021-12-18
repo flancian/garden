@@ -1,13 +1,14 @@
 # Exgenesis
 
 - A [[person]] on [[twitter]].
-- [[twitter]] twitter.com/exgenesis
-  - "Friendly [[shamanpunk]]".
-- Interested in [[Browser extensions]]
-- [[project]] [[threadhelper]]
-- [[thesis]] [[recommendation systems]]
-  - [[misaligment problem]]
-  - [[evolutionary game theory]]
+  - [[twitter]] https://twitter.com/exgenesis
+    - "Friendly [[shamanpunk]]".
+    - [[pull]] [[xiq]]
+  - Interested in [[Browser extensions]]
+  - [[project]] [[threadhelper]]
+  - [[thesis]] [[recommendation systems]]
+    - [[misaligment problem]]
+    - [[evolutionary game theory]]
 
 ## [[2020-12-19]]
 - [[social dilemma]]
