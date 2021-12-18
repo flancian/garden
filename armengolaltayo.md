@@ -1,17 +1,17 @@
 # Armengolaltayo
 
-- A [[person]] 
-- [[twitter]] https://twitter.com/armengolaltayo
-- [[github]] https://github.com/danielarmengolaltayo
-  - [[git]] [[github]]
-- [[go]] https://armengol-altayo.com/
-- [[pull]] [[armengol]]
-- Founder of [[vewpoint]].
-- Used to work on [[interplanetary mind map]].
-- Interested in the [[meta problem]]: https://github.com/vewpoint/meeting-point
-  - "How do we collect and organize the information about how we collect and organize information when we do not have the tools we need to collect and organize information?"
-- Likely interested in [[agora]], [[agora go links integration]]: https://danielarmengolaltayo.github.io/hyperlink/capsules/unidirectionality-of-links.html, see also [[the hyperlink delusion]].
-  "As cybernetics would say, it is time to steer the ship, because “if you do not change direction, you may end up where you are heading”. It is time to iterate the Web, and therefore, our relationship with it."
+- A [[person]].
+  - [[twitter]] https://twitter.com/armengolaltayo
+  - [[github]] https://github.com/danielarmengolaltayo
+    - [[git]] [[github]]
+  - [[go]] https://armengol-altayo.com/
+  - [[pull]] [[armengol]]
+  - Founder of [[vewpoint]].
+  - Used to work on [[interplanetary mind map]].
+  - Interested in the [[meta problem]]: https://github.com/vewpoint/meeting-point
+    - "How do we collect and organize the information about how we collect and organize information when we do not have the tools we need to collect and organize information?"
+  - Likely interested in [[agora]], [[agora go links integration]]: https://danielarmengolaltayo.github.io/hyperlink/capsules/unidirectionality-of-links.html, see also [[the hyperlink delusion]].
+    "As cybernetics would say, it is time to steer the ship, because “if you do not change direction, you may end up where you are heading”. It is time to iterate the Web, and therefore, our relationship with it."
 
 ## [[next]]
 
