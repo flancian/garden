@@ -24,6 +24,8 @@
     - el uso o fin de la información
   - [[funes el memorioso]]
   - [[copyright]]
+- el argumento del [[teleportador]]
+  - [[derek parfit]]
 - [[matrix]]
 - transparencia radical
 	- [[working in public]]
