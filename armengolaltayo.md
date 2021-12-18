@@ -22,6 +22,8 @@
   - [[armengol]] dos aspectos:
     - saltearse capas
     - el uso o fin de la información
+  - [[funes el memorioso]]
+  - [[copyright]]
 - [[matrix]]
 - transparencia radical
 	- [[working in public]]
