@@ -32,7 +32,10 @@
         - [[combinamos]]
       - este proceso podría ser asistido
         - [[cyberiad]]
-      - https://sergioalbiac.com
+          - [[stanislaw lem]]
+      - [[push]] [[sergio albiac]] 
+        - https://sergioalbiac.com
+          - [[gan]] https://www.sergioalbiac.com/wall/latent-empathy.html
     - [[evolución]]
 - el argumento del [[teleportador]]
   - [[derek parfit]]
