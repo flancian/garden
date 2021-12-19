@@ -1,4 +1,4 @@
 # diverse community of modelers
 
-- [[pull]] [[agora]] [[flancia collective]]
+- [[pull]] [[agora]] [[flancia collective]] [[protopoi]]
 
