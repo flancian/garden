@@ -16,8 +16,9 @@
 - a [[set]].
 	- of [[people]] and [[things]].
   	- (the [[Agora]] is in it.)
-	- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
-	- [[yt]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq&feature=share
+	- [[music]]
+		- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
+			- [[yt]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq&feature=share
 	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
 - a [[book]].
 		- [[Flancia]], or [[with a little help from my friends]].
