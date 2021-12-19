@@ -1,2 +1,6 @@
 - a [[person]]
 	- started [[massive wiki]]
+	- [[github]] https://github.com/peterkaminski
+	- [[twitter]] https://twitter.com/peterkaminski
+		- "[[Friendly]], [[helpful]] web [[technologist]] and entrepreneur."
+	- [[go]] http://peterkaminski.com/

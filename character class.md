@@ -1,5 +1,5 @@
 # character class
 
-- I prefer [[classless systems]], but...
-  - [[pull]] [[character classes]] [[rpg classes]]
+- I prefer to converge to a [[classless system]], but there's a usefulness to categorizing.
+  - [[pull]] [[character classes]] [[rpg class]] [[category theory]]
 

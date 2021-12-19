@@ -1,26 +1,54 @@
 # Armengolaltayo
 
-- A [[person]] 
-- [[twitter]] https://twitter.com/armengolaltayo
-- [[github]] https://github.com/danielarmengolaltayo
-  - [[git]] [[github]]
-- [[go]] https://armengol-altayo.com/
-- [[pull]] [[armengol]]
-- Founder of [[vewpoint]].
-- Used to work on [[interplanetary mind map]].
-- Interested in the [[meta problem]]: https://github.com/vewpoint/meeting-point
-  - "How do we collect and organize the information about how we collect and organize information when we do not have the tools we need to collect and organize information?"
-- Likely interested in [[agora]], [[agora go links integration]]: https://danielarmengolaltayo.github.io/hyperlink/capsules/unidirectionality-of-links.html, see also [[the hyperlink delusion]].
-  "As cybernetics would say, it is time to steer the ship, because “if you do not change direction, you may end up where you are heading”. It is time to iterate the Web, and therefore, our relationship with it."
+- A [[person]].
+  - [[twitter]] https://twitter.com/armengolaltayo
+  - [[github]] https://github.com/danielarmengolaltayo
+    - [[git]] [[github]]
+  - [[go]] https://armengol-altayo.com/
+  - [[pull]] [[armengol]]
+  - Founder of [[vewpoint]].
+  - Used to work on [[interplanetary mind map]].
+  - Interested in the [[meta problem]]: https://github.com/vewpoint/meeting-point
+    - "How do we collect and organize the information about how we collect and organize information when we do not have the tools we need to collect and organize information?"
+  - Likely interested in [[agora]], [[agora go links integration]]: https://danielarmengolaltayo.github.io/hyperlink/capsules/unidirectionality-of-links.html, see also [[the hyperlink delusion]].
+    "As cybernetics would say, it is time to steer the ship, because “if you do not change direction, you may end up where you are heading”. It is time to iterate the Web, and therefore, our relationship with it."
 
 ## [[next]]
 - transparencia radical
 	- [[working in public]]
 	- pros y cons
-- [[copyright]]
+## [[2021-12-18]]
 - [[retina]]
-- [[mitm]]
+  - [[mitm]]
+  - [[snapshot]]  
+  - [[armengol]] dos aspectos:
+    - saltearse capas
+    - el uso o fin de la información
+  - [[funes el memorioso]]
+  - [[copyright]]
+  - [[push]] [[everything is a remix]]
+    - [[kirby ferguson]]
+      - [[creatividad humana]]
+        - [[copiamos]]
+        - [[transformamos]]
+        - [[combinamos]]
+      - este proceso podría ser asistido
+        - [[cyberiad]]
+          - [[stanislaw lem]]
+      - [[push]] [[sergio albiac]] 
+        - https://sergioalbiac.com
+          - [[gan]] https://www.sergioalbiac.com/wall/latent-empathy.html
+    - [[evolución]]
+    - [[compensación]]
+      - [[effective altruism]] -> [[embracing piracy]]
+      - [[about unicorns in south america]]
+- el argumento del [[teleportador]]
+  - [[derek parfit]]
 - [[matrix]]
+- [[push]] [[copyright]]
+  - I don't believe in copyright as it exists nowadays; definitely not for [[digital goods]].
+  - [[mashups]]
+- [[demonetization]]
 
 ## [[2021-10-29]]
 - de vuelta en [[barcelona]]!
