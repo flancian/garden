@@ -10,5 +10,5 @@ Now let me tell you something. I think things are looking up on a few fronts.
 
 First, it's becoming evident that humanity needs to learn how to deal with global risk together. It is becoming unavoidable. It will happen, and it seems evident to me that the best way to tackle the problems at hand is to have nation states cooperate at high speed. Efficient pandemics handling is at stake if nation-states first, and arbitrary human groups later, can learn to solve coordination problems.
 
-Second, many died. People know people who died
+Second, many died. People know people who died.
 
