@@ -2,5 +2,5 @@
 
 - [[pull]] [[the garden of forking paths]]
 - a [[list]].
-  - [[pull]] [[fork]]
+  - [[pull]] [[forks]] [[fork]] [[path]]
 
