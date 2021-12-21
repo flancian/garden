@@ -1,5 +1,14 @@
 # Revolution
 
+- Flancia is a [[loving kindness]] revolution.
+  - I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
+    - [[protopoi]] is the [[space]] of composable [[atomic revolutions]]; rational changes for the better.
+    - we can [[explore]] it together
+  - I am a [[flancian]] and this [[agora]] is meant to be a [[manifesto]].
+  - [[pull]] [[fourth international]] [[fifth international]] [[sixth international]]
+  - https://twitter.com/flancian/status/1368252143338192898
+  - https://twitter.com/flancian/status/1462091524985045001
+
 - a [[thing]].
   - [[pull]] [[revolutions]]
   - [[political action]] 
@@ -10,11 +19,3 @@
   - [[aristotle]] describes two types of [[political revolution]]:
     - [[complete change]] from one [[constitution]] to another
     - [[modification]] of an existing constitution.
-- I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
-  - [[protopoi]] might be the [[space]] of composable [[atomic revolutions]].
-  - I am a [[flancian]] and this [[agora]] is meant to be a [[manifesto]].
-  - [[pull]] [[fourth international]] [[fifth international]] [[sixth international]]
-  - https://twitter.com/flancian/status/1368252143338192898
-  - https://twitter.com/flancian/status/1462091524985045001
-
-
