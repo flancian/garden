@@ -8,7 +8,6 @@
   - [[pull]] [[fourth international]] [[fifth international]] [[sixth international]]
   - https://twitter.com/flancian/status/1368252143338192898
   - https://twitter.com/flancian/status/1462091524985045001
-
 - a [[thing]].
   - [[pull]] [[revolutions]]
   - [[political action]] 
@@ -19,3 +18,4 @@
   - [[aristotle]] describes two types of [[political revolution]]:
     - [[complete change]] from one [[constitution]] to another
     - [[modification]] of an existing constitution.
+  - [[pull]] [[hannah arendt]] [[peter singer]] [[satyagraha]]
