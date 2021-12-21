@@ -12,3 +12,5 @@ First, it's becoming evident that humanity needs to learn how to deal with globa
 
 Second, many died. People know people who died.
 
+[[...]]
+
