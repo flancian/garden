@@ -1,10 +1,12 @@
 # Anagora
 
-- [[an]] [[agora]].
-- [[go]] https://anagora.org 
-  - a particular implementation of the [[Agora]] concept.
-  - has two core parts:
-    - [[agora server]]
-    - [[agora repository]]
-  - plus [[agora bridge]] for interop.
+- an [[agora]].
+  - [[pull]] [[an agora]].
+  - [[go]] https://anagora.org 
+    - a particular implementation.
+    - the [[Agora]] of [[Flancia]].
+  - currently modeled in three repos:
+    - [[agora]]
+      - [[agora server]]
+      - [[agora bridge]]
 

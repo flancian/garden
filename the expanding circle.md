@@ -5,10 +5,12 @@
   - [[peter singer]]
   - inspiration for [[flancia]].
 
-I've been meaning to take notes on [[the expanding circle]] but I haven't found the time to do it; I think I'd like to [[prioritize]] it.
+I've been meaning to take notes on [[the expanding circle]] but I haven't found the time to do it. I didn't take notes here as I was reading it as I did much of the reading at night, in my [[e reader]].
 
-I'll try to write my notes here free form.
+I'll now try to write my impressions here in free form as I can and as I reference it through the [[agora]].
 
-This is a hugely influential book for me but, wait for this, I haven't finished it yet. I sometimes take unreasonably long to finishing things; it is one of my traits. I am often context switching and have many side projects. But because this book describes a proposition that is inherently valuable to me (valuable as a scaffolding; not necessarily with all of the original author's take, as science ever advances), I consider it core to my thinking even if I haven't finished it yet. Let me tell you why perhaps, even before I get to finishing it.
+This is a hugely influential book for me but, wait for this, I only finished it on [[2021-12-21]] (I sometimes take unreasonably long to finishing things; it is one of my noticeable traits. In this case I left it at essentially 90% of the way through for no good reason but inefficiencies when scheduling it for reading.) 
+
+But because this book describes a proposition that I already believed, it felt valuable to me already. I considered it core to my thinking even if I hadn't finished it yet. It is a good [[distillation]] of the ideas of [[effective altruism]], or the ideas that led to the movement and represent, IMHO, its reasonable core.
 
 
