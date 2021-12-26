@@ -5,5 +5,7 @@
   - [[today]]
   - [[later]]
 
-9m30 into a 25' first pomodoro of the day, I've done mostly maintenance of todos: ranked tasks to be done (needed to be done, not procrastinating), committed to my plan of four pomodoros today by scheduling pomodoros 1 to 4.
+9m30 into a 25' first pomodoro of the day, I've done mostly maintenance of todos: ranked tasks to be done (needed to be done, not procrastinating), committed to my plan of four pomodoros today by scheduling pomodoros 1 to 4. Now with 14m20s left I move on and start on task 1.
+
+- [[empty nodes should auto pull stoa]]
 
