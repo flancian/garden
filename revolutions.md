@@ -1,7 +1,7 @@
 # Revolutions
 
 - A [[list]].
+  - [[pull]] [[revolution]] [[revolución]]
   - [[push]] to [[revolutions]] to add items.
-- [[pull]] [[revolution]]
-
+  - [[pull]] [[on revolution]]
 
