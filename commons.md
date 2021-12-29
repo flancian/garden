@@ -24,6 +24,9 @@
 		- of course Ostrom's work shows there are ways to avert this tragedy all around us
 		- in Britain, land [[enclosure]] worked over centuries to erode the commons
 		- [[peter barnes]] [[sky trust]]
+		- [[notable theoreists]] list is a banger
+		- [[contemporary commons movements]] too
+	- [[there is no commons without commoning]]
 - a [[list]].
 	- this [[agora]] is a [[digital commons]].
 	- add items by pushing here or writing in the [[stoa]] below.
