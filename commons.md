@@ -4,4 +4,5 @@
 	- [[pull]] [[elinor ostrom]] [[knowledge commons]]
 	- [[neil]]
   	- > beyond [[market]] and [[state]]
-		- I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets
+		- I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets.
+		- recommended [[free, fair and alive]], it's great
