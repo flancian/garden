@@ -1,6 +1,7 @@
 # virginia astley
 
 - a [[person]].
-  - [[musician]]
+  - [[musician]] 
+    - [[ambient]]
   - [[from gardens where we feel secure]]
 
