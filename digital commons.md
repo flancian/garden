@@ -7,5 +7,5 @@
     - whatever can be copied for free can be freely shared and is thus part of the [[commons]].
 - a [[list]].
   - the [[agora]].
-  - (push here to add items).
+  - (you can add items in the [[stoa]] below)
 
