@@ -3,9 +3,9 @@
 		- [[go]] [[wp]]
 	- [[pull]] [[elinor ostrom]] [[knowledge commons]]
 	- [[neil]]
-		- recommended [[free, fair and alive]], it's great.
   	- > beyond [[market]] and [[state]]
 			- I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets.
-		- [[social organisms]]
-		- about [[sharing]] plus creating systems that produce [[shareable things]]
+		- recommended [[free, fair and alive]], it's great.
+			- [[social organisms]]
+			- about [[sharing]] plus creating systems that produce [[shareable things]]
 	- this [[agora]] is a [[digital commons]].
