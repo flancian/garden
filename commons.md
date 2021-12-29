@@ -27,6 +27,7 @@
 		- [[notable theoreists]] list is a banger
 		- [[contemporary commons movements]] too
 	- [[there is no commons without commoning]]
+	- [[international journal of the commons]]
 - a [[list]].
 	- this [[agora]] is a [[digital commons]].
 	- add items by pushing here or writing in the [[stoa]] below.
