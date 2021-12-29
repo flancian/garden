@@ -5,4 +5,5 @@
 	- [[neil]]
   	- > beyond [[market]] and [[state]]
 		- I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets.
-		- recommended [[free, fair and alive]], it's great
+		- recommended [[free, fair and alive]], it's great.
+	- this [[agora]] is a [[digital commons]].
