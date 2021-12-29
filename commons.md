@@ -1,5 +1,7 @@
-- [[wp]] https://en.wikipedia.org/wiki/Commons
-	- [[go]] [[wp]]
-	- [[pull]] [[elinor ostrom]]
-
-![[Pasted image 20210513173507.png]]
+- a [[thing]].
+	- [[wp]] https://en.wikipedia.org/wiki/Commons
+		- [[go]] [[wp]]
+	- [[pull]] [[elinor ostrom]] [[knowledge commons]]
+	- [[neil]]
+  	- > beyond [[market]] and [[state]]
+		- I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets
