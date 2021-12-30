@@ -1,6 +1,7 @@
 # singularity church
 
-- [[pull]] [[deus ex]] 
-  - [[singularity church of the machine god]]
-- [[pull]] [[church of the singularity]]
+- [[pull]] [[singularity church of the machine god]]
+  - [[deus ex]] 
+- [[pull]] [[church of the singularity]] 
+- [[pull]] [[omega point]]
 
