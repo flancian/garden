@@ -2,7 +2,7 @@
 	- [[pull]] [[elinor ostrom]] [[knowledge commons]]
 	- [[go]] https://en.wikipedia.org/wiki/Commons
 	- [[neil]] (from notes below)
-  	- "beyond [[market]] and [[state]]"
+        - "beyond [[market]] and [[state]]"
 			- I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets.
 		- recommended [[free, fair and alive]], it's great. from his notes below:
 			- [[commons]] are [[social organisms]], [[social systems]], [[social forms]]
@@ -13,7 +13,7 @@
 			- they bring together solutions to social, political and economic challenges into an integrated whole
 		- [[pull]] [[commoning]] [[ontology]]
 	- [[vera]] (from wiki below)
-  	- "The commons is the cultural and natural [[resources]] [[accessible to all]] members of a society, including natural materials such as air, water, and a habitable earth. These resources are held in common, [[not owned privately]]."
+        - "The commons is the cultural and natural [[resources]] [[accessible to all]] members of a society, including natural materials such as air, water, and a habitable earth. These resources are held in common, [[not owned privately]]."
 		- [[pragmatix]]
 		- [[garrett hardin]]
   		- [[1968]] [[the tragedy of the commons]] 
