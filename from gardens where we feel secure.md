@@ -2,8 +2,6 @@
 
 - an [[album]].
   - [[virginia astley]]
-  - [[go]] https://www.youtube.com/watch?v=KNYW276VxPQ
-    - [[yt]]
   - [[wp]] https://en.wikipedia.org/wiki/From_Gardens_Where_We_Feel_Secure
 
 Side one ("Morning")
