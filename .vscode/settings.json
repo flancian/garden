@@ -35,5 +35,234 @@
       "other": true,
       "comments": true,
       "strings": true
-  }
+  },
+  "workbench.editor.closeEmptyGroups": false,
+  "saveEditorLayout.list": [
+    {
+      "name": "2021-12-31",
+      "orientation": 0,
+      "documents": [
+        {
+          "fsPath": "/home/flancian/garden/protopian cyberpunk.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/expanding circle.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/bhaugen.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/everything is a remix.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/kirby ferguson.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/attachments.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/armengolaltayo.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/exgenesis.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/shamanpunk.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/simpotus.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/massive wiki.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/git sync.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/indie web.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/agora polls.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/neil.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/at mention followers.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/exit, voice and loyalty.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/andres gomez emilson.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/flancia, or in the shadow of.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/ozymandias.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/ramesses ii.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/baby.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/mapping the fediverse.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/steven fan.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/foo bar.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/baz.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/spaces.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/fix spaces.md",
+          "column": 1
+        },
+        {
+          "fsPath": "/home/flancian/garden/in praise of idleness.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/journal/2021-11-26.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/uxntal.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/eric linus kaplan.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/journal/2021-11-27.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/journal/2021-11-28.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/301.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/journal/2021-12-02.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/criticism of effective altruism.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/five year plan.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/meme generator.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/makememe.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/maya.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/matrix bot.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/xiq.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/game.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/would you like to play?.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/yes.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/i.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/memeplex.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/chances.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/flancia procedure.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/wikipedia.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/the expanse ui design.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/magma collective.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/datd.md",
+          "column": 2
+        },
+        {
+          "fsPath": "/home/flancian/garden/neauoire.md",
+          "column": 2
+        }
+      ]
+    }
+  ]
 }
