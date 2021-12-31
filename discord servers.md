@@ -1,0 +1,4 @@
+# discord servers
+
+- a [[list]].
+
