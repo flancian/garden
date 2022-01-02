@@ -1,8 +1,8 @@
 # 2022 resolutions
 
 - a [[list]].
-  - [[learn]] more.
+  - [[pull]] [[2022-01-01]]
+    - [[learn]] more.
     - [[read]] more.
     - [[write]] more.
-  - [[help others]] more.
-
+    - [[help others]] more.
