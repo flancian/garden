@@ -3,5 +3,3 @@
 - an [[essay]].
   - [[pull]] [[commons]] [[knowledge commons]]
 
-
-
