@@ -7,3 +7,5 @@
   - [[pull]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit?usp=sharing
 - This is a [[wikidata]] URL that should be embedable:
   - [[pull]] https://www.wikidata.org/wiki/Q187909
+- This is a Markdown link pointing to Wikipedia that is currently problematic:
+  - [wikipedia article on Agora](https://en.wikipedia.org/wiki/Agora)
