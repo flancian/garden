@@ -1,6 +1,7 @@
 # the architecture of computer programming
 
 - an [[essay]].
+  - by [[claire l. evans]] == [[claire evans]]
   - [[go]] https://thereboot.com/the-architecture-of-computer-programming/
     - [[murs a pêches]]
     - [[push]] [[christopher alexander]]
