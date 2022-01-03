@@ -2,6 +2,7 @@
 
 - an [[essay]].
   - by [[claire l. evans]] == [[claire evans]]
+  - recommended by [[olofl]].
   - [[go]] https://thereboot.com/the-architecture-of-computer-programming/
     - [[murs a pêches]]
     - [[push]] [[christopher alexander]]
