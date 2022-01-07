@@ -1,4 +1,6 @@
 # flancia weekly
 
-- [[go]] https://meet.jit.si/SuccessiveUniversesTestifyYet
+- a [[meeting]].
+  - [[recurring]]
+  - [[go]] https://meet.jit.si/SuccessiveUniversesTestifyYet
 
