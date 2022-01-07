@@ -2,5 +2,6 @@
 
 - a [[meeting]].
   - [[recurring]]
-  - [[go]] https://meet.jit.si/SuccessiveUniversesTestifyYet
+  - [[push]] [[flancia call]]
+    - [[go]] https://meet.jit.si/SuccessiveUniversesTestifyYet
 
