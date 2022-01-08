@@ -13,7 +13,6 @@ But let me backtrack a bit. Let me tell you why I believe both us and the intern
 
 ## On distributed thought
 
-Thought is a [[non rivalrous good]]; thought can be efficiently encoded digitally; the internet makes a [[digital commons]] tractable [[peer governable]]. That's the heart of the matter.
+Thought is a [[non rivalrous good]]; thought can be efficiently encoded digitally; the internet makes a [[digital commons]] both tractable and [[peer governable]]. That's the heart of the matter.
 
-We have lived with [[wikis]] for thirty years now, but we lack
-
+We have lived with [[wikis]] for thirty years now, and [[wikipedia]] is clearly one of humanity's most important projects, but for some reason wikis aren't a big part of many people's lives; in some ways we haven't yet seen them come to fruition. As of the beginning of the [[2020s]], though, personal knowledge management systems like [[tiddlywiki]], [[org mode]], [[roam]], [[logseq]], [[obsidian]], [[athens]] and the like have come to prominence.
