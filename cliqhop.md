@@ -1,1 +1,2 @@
 - [[pull]] [[cliq hop]]
+- [[go]] https://somafm.com/player/#/now-playing/cliqhop
