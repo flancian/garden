@@ -2,4 +2,4 @@
 	- [[set]] [[commons]]
 	- [[wp]] https://en.wikipedia.org/wiki/Knowledge_commons
 	- [[go]] [[wp]]
-	- [[pull]] [[understanding knowledge as a commons]]
+	- [[pull]] [[understanding knowledge as a commons]] [[towards a knowledge commons]]
