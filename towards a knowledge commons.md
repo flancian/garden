@@ -13,3 +13,7 @@ But let me backtrack a bit. Let me tell you why I believe both us and the intern
 
 ## On distributed thought
 
+Thought is a [[non rivalrous good]]; and thought can be efficiently encoded digitally. That's the heart of the matter.
+
+We have lived with [[wikis]] for thirty years now, but we lack
+
