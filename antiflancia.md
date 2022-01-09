@@ -10,8 +10,8 @@
     - [[fascism]]
   - [[pull]] [[tenderloin]]
 
-It was in Antiflancia that I knew [[Moloch]]: I saw his true face in the corrupt beauty of those that ignored suffering even as it stared back; I saw them took shape in the rich that learnt (were raised) not to stray near the wrong places -- the places of suffering.
+It was in Antiflancia that I knew [[Moloch]]: I saw his true face in the corrupt beauty of those that ignored suffering even as it stared them back; I saw its [[egregore]] take shape in the rich that learnt (were raised, then taught) not to stray near the wrong places -- the places where suffering in hidden in plain view.
 
-The capital of Antiflancia is beautiful; they call it [[Omelas]].
+The capital of Antiflancia is not ugly, as you might expect, but rather beautiful; they call it [[Omelas]].
 
 
