@@ -7,6 +7,7 @@
   - [[pull]] [[photons]]
   - [[pull]] [[fire]]
     - it has been said before: [[come on baby light my fire]].
+  - [[beams of light]] seem correlated with [[free energy]]
 
 Every day I try to ask myself: where are my [[lights]]?
 
