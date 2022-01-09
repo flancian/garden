@@ -8,5 +8,7 @@
   - [[pull]] [[fire]]
     - it has been said before: [[come on baby light my fire]].
 
-Every day I try to ask myself: where is my [[light]]?
+Every day I try to ask myself: where are my [[lights]]?
+
+It is a question with many interesting answers.
 
