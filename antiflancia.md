@@ -2,13 +2,12 @@
 
 - a [[place]].
   - in [[cacotopoi]].
-  - if [[Flancia]] is a set, all that [[Flancia]] tries not to contain because of its ethical charge.
+  - if [[Flancia]] is a set, Antiflancia can be said to contain all that [[Flancia]] doesn't because of its ethical charge.
     - [[violence]] 
     - [[poverty]]
     - [[sexism]]
     - [[racism]]
     - [[fascism]]
-  - [[pull]] [[tenderloin]]
 
 It was in Antiflancia that I knew [[Moloch]]: I saw his true face in the corrupt beauty of those that ignored suffering even as it stared them back; I saw its [[egregore]] take shape in the rich that learnt (were raised, then taught) not to stray near the wrong places -- the places where suffering in hidden in plain view.
 
