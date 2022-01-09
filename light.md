@@ -11,5 +11,5 @@
 
 Every day I try to ask myself: where are my [[lights]]?
 
-It is a question with many interesting answers.
+It is a [[question]] with many interesting [[answers]].
 
