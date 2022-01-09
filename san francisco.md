@@ -1,6 +1,7 @@
 # san francisco
 
 - a [[place]].
-  - [[city]]
+  - [[city]] [[california]]
     - of contrasts.
+    - [[pull]] [[tenderloin]] [[hayes]] [[soma]] [[haight ashbury]]
 
