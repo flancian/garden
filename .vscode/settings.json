@@ -264,5 +264,12 @@
         }
       ]
     }
-  ]
+  ],
+  "foam.logging.level": "debug",
+  "git.autofetch": true,
+  "markdown-links.graphType": "obsidian",
+  "markdown-links.openColumn": "beside",
+  "vscodeMarkdownNotes.allowPipedWikiLinks": true,
+  "vscodeMarkdownNotes.pipedWikiLinksSyntax": "desc|file",
+  "merge-conflict.autoNavigateNextConflict.enabled": true
 }
