@@ -8,12 +8,11 @@
 		- The world of the [[flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
 		- Flancia is, I believe, a place that exists as an hypothetical shared future. 
 		- At the very least Flancia exists in the [[multiverse]].
-- a [[thing]].
-	- a [[project]].
-		- [[go]] https://flancia.org
-		- I am a [[Flancian]] and this [[Agora]] contains my [[manifesto]].
-		- Flancia existed before the Agora but is, I believe, defined in the limit by how the [[Agora]] is put to use towards maximizing [[thriving]] for all [[conscious beings]] via the incremental unlocking of [[public utility]] and the practice of [[altruism]].
-		- [[flancia collective]] runs the [[reference agora]].
+- a [[project]].
+	- [[go]] https://flancia.org
+	- I am a [[Flancian]] and this [[Agora]] contains my [[manifesto]].
+	- Flancia existed before the Agora but is, I believe, defined in the limit by how the [[Agora]] is put to use towards maximizing [[thriving]] for all [[conscious beings]] via the incremental unlocking of [[public utility]] and the practice of [[altruism]].
+	- [[flancia collective]] runs the [[reference agora]].
 - a [[set]].
 	- of [[people]] and [[things]].
   	- (the [[Agora]] is in it.)
@@ -22,6 +21,7 @@
 		- [[yt]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq&feature=share
 	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
 - a [[book]].
+	- a [[draft]] really.
 	- [[Flancia]], or [[with a little help from my friends]].
 	- [[Flancia]], or [[building bridges]].
 	- [[flancian]] https://twitter.com/flancian/status/1298701482997538822
