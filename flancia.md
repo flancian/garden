@@ -1,5 +1,6 @@
 # Flancia
 
+- In [[Flancia]] there is an [[Agora]]!
 - a [[place]].
 	- [[protopia]] 
 		- in my [[my mind]].
