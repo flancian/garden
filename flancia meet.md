@@ -8,6 +8,13 @@
 - [[transcriptions]]
   - [[otter.ai]]
   - [[jitsi]]
+    - supports [[transcripts]]
+  - [[maubot]]
+    - [[maya]]
+- [[agora]]
+  - [[wildcard domains]]
+    - downside: may make [[balancing]] harder
+  - [[foam]]
 
 
 
