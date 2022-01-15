@@ -12,7 +12,8 @@
   - [[maubot]]
     - [[maya]]
 - [[agora]]
-  - [[wildcard domains]]
+  - [[git]]
+    - [[wildcard domains]]
     - downside: may make [[balancing]] harder
   - [[foam]]
   - [[push]] [[vscode extension]]
