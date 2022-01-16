@@ -17,5 +17,6 @@
       - This Flancian seeks the insights of science.
       - This Flancian follows the [[eightfold path]].
   - [[pull]] There are several Flancians in [[Flancia Collective]].
+  - In [[Flancia]], the Flancians pulled off many [[revolutions]].
   - [[wiki]] https://anagora.org/wiki/Flancians
 
