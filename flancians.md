@@ -16,6 +16,6 @@
       - This Flancian believes in the importance of knowledge.
       - This Flancian seeks the insights of science.
       - This Flancian follows the [[eightfold path]].
+  - [[pull]] There are several Flancians in [[Flancia Collective]].
   - [[wiki]] https://anagora.org/wiki/Flancians
-  - [[pull]] there are several Flancians in [[flancia collective]]
 
