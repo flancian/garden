@@ -16,7 +16,8 @@
       - This Flancian believes in the importance of knowledge.
       - This Flancian seeks the insights of science.
       - This Flancian follows the [[eightfold path]].
-  - [[pull]] There are several Flancians in [[Flancia Collective]].
-  - In [[Flancia]], the Flancians pulled off many [[revolutions]].
+  - In [[Flancia]], the Flancians pulled off a kind-hearted [[revolution]].
+    - [[pull]] [[perhaps naive]]
   - [[wiki]] https://anagora.org/wiki/Flancians
+  - [[pull]] There are other Flancians in [[Flancia Collective]].
 
