@@ -8,7 +8,7 @@
     - [[project]] [[agora protocol]]
       - [[project]] [[wikilinks everywhere]]
 - A [[matrix]] channel.
-  - [[go]] https://app.element.io/?pk_vid=2aa9ef53afdcaeaf1609608427b036f4#/room/!LrSlpgPruzcRvucsiG:matrix.org
+  - [[go]] https://matrix.to/#/#anagora:matrix.org
 - See [[servers]].
 
 
