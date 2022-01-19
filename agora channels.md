@@ -1,4 +1,6 @@
 # agora channels
 
-- [[pull]] [[agora discuss]] [[agora development]] [[flancia collective]]
+- a [[list]].
+  - [[pull]] [[agora channel]]
+  - [[pull]] [[agora discuss]] [[agora development]] [[flancia collective]]
 
