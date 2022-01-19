@@ -12,3 +12,6 @@
   - https://twitter.com/flancian/status/1454464250555023368
   - [[node server]]
   - [[tiddlywiki markdown]]
+  - [[pipe alises]] == [[pipe links]]
+    - [[foo|bar]]
+
