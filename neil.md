@@ -4,6 +4,7 @@
 	- [[friend]]
 	- [[doubleloop]]
 	- I like his writing and really appreciate his presence in this [[agora]].
+	- [[pull]] [[@neil]]
 	- [[mastodon]] @neil@social.coop
 	- [[social coop]]
 	- Uses [[org-roam]]. 
