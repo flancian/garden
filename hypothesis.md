@@ -1,7 +1,7 @@
 - a [[tool]]
   - for [[annotation]]
 	  - you can annotate anything on the [[web]] by installing the hypothes.is browser extension or passing a URL to https://via.hypothes.is
-  - [[pull]] [[hypothes.is]]
+  - [[pull]] [[hypothes.is]] [[agora hypothesis]]
   - [[go]] htts://hypothes.is
   - [[wp]] https://en.wikipedia.org/wiki/Hypothesis
 - a [[tool]]
