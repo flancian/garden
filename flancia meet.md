@@ -1,7 +1,7 @@
 # flancia meet
 
 - a [[space]].
-  - [[go]] https://meet.jit.si/flancia-meet- 0-pBBbbu0-,blt
+  - [[go]] https://meet.jit.si/flancia-meet
   - or just [[pull]] the jitsi stoa in this node :)
 
 ## [[2022-01-15]]
