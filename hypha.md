@@ -1,7 +1,7 @@
 # hypha
 
 - a [[thing]].
-  - [[structure]]
+  - [[fungi]] [[structure]] that forms into [[mycelium]]
 	- [[wp]] https://en.wikipedia.org/wiki/Hypha
 - a [[thing]].
 	- [[content structure]] in [[mycorrhiza]]
