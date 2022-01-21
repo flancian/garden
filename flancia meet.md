@@ -2,10 +2,7 @@
 
 - a [[space]].
   - [[go]] https://meet.jit.si/flancia-meet- 0-pBBbbu0-,blt
-- [[take it easy
-- [[push]] [[nft
-  - [[eip 721]] 
-      - or just [[pull]] the jitsi stoa in this node :)
+  - or just [[pull]] the jitsi stoa in this node :)
 
 ## [[2022-01-15]]
 - [[transcriptions]]
