@@ -159,7 +159,6 @@
 				- #135 [[tapestry of light and dark]]
 			- #wip it goes to 253
 		- [[filtered light]]
-- [[pull]] [[wikilinks]]
-	- a term used by [[ward cunningham]] to refer to wikilinks 
-	- inspired by [[christopher alexander]]
+	- a term used by [[ward cunningham]] to refer to structure in the solution to a problem.
 	- [[pull]] [[a pattern language]]
+	- [[pull]] [[wikilinks]]
