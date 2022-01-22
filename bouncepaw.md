@@ -1,7 +1,7 @@
 # bouncepaw
 
 - a [[person]].
-  - [[pull]] [[timur ismagilov]]
-  - [[mycorrhiza]]
-  - [[github]] https://github.com/bouncepaw
+  - #pull [[timur ismagilov]] [[charistmatic shell]]
+  - #pull [[mycorrhiza]] [[melanocarpa]] [[cyberrachel]]
+  - #go [[git]] https://github.com/bouncepaw
 
