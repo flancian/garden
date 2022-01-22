@@ -1,4 +1,4 @@
 # awakening
 
-- [[pull]] [[enlightenment]]
+- #pull perhaps a better term than [[enlightenment]]
 
