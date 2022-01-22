@@ -1,11 +1,13 @@
 # flancia meet
 
 - a [[space]].
-  - [[go]] https://meet.jit.si/flancia-meet- 0-pBBbbu0-,blt
-- [[take it easy
-- [[push]] [[nft
-  - [[eip 721]] 
-      - or just [[pull]] the jitsi stoa in this node :)
+  - [[go]] https://meet.jit.si/flancia-meet
+  - or just [[pull]] the jitsi stoa in this node :)
+
+## [[2022-01-22]]
+- [[bouncepaw]] [[neil]] [[flancian]]
+- [[esperanto]]
+- see Stoa :)
 
 ## [[2022-01-15]]
 - [[transcriptions]]
