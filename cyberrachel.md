@@ -1,8 +1,8 @@
 # cyberrachel
 
 - [[bouncepaw]]'s private [[digital garden]].
-- [[pull]] https://melanocarpa.lesarbr.es/hypha/wikilinks_everywhere
-- [[mondegreens]]
+  - [[go]] https://communitywiki.org/wiki/CyberRachel
+  - [[mondegreens]]
   - [[rachelpunk]]
   - [[cryptorachel]]
 
