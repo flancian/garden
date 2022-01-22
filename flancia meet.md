@@ -4,6 +4,10 @@
   - [[go]] https://meet.jit.si/flancia-meet
   - or just [[pull]] the jitsi stoa in this node :)
 
+## [[2022-01-22]]
+- [[bouncepaw]] [[neil]] [[flancian]]
+- [[esperanto]]
+
 ## [[2022-01-15]]
 - [[transcriptions]]
   - [[otter.ai]]
