@@ -2,6 +2,6 @@
 
 - a [[person]].
   - #pull [[timur ismagilov]] [[charistmatic shell]]
-  - #pull [[mycorrhiza]] [[melanocarpa]] [[rachelpunk]]
+  - #pull [[mycorrhiza]] [[melanocarpa]] [[cyberrachel]]
   - #go [[git]] https://github.com/bouncepaw
 
