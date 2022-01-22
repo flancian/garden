@@ -7,6 +7,7 @@
 ## [[2022-01-22]]
 - [[bouncepaw]] [[neil]] [[flancian]]
 - [[esperanto]]
+- see Stoa :)
 
 ## [[2022-01-15]]
 - [[transcriptions]]
