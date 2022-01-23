@@ -9,7 +9,7 @@ The [[Agora]] is a project with a large [[scope]], so it takes a minute to expla
 
 If you'd like a quick introduction to the Agora as of mid 2021, please check out [[go/agora-slides]].
 
-You can also refer to [[go/agora]], that is the documentation in this [[root repository]] currently hosted on [[github]].
+You can also refer to [[go/agora]], that is the documentation in the [[root repository]] currently hosted on [[github]].
 
 ## What this node is for
 
