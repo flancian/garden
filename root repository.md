@@ -1,4 +1,5 @@
 # root repository
 
-- #pull [[agora/git]]
+- [[go/agora/git]] is the [[root repository]] of this Agora.
+  - #pull [[agora/git]]
 
