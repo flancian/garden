@@ -1,4 +1,4 @@
 # root repository
 
-#pull [[agora/git]]
+- #pull [[agora/git]]
 
