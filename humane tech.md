@@ -1,7 +1,8 @@
 # Humane Tech
 
-- A [[community]].
-- [[mastodon]] @humanetech@mastodon
-- [[by]] [[arnold schrijver]]
+- A [[project]].
+  - [[community]]
+  - [[mastodon]] @humanetech@mastodon
+  - #by [[arnold schrijver]]
 
 
