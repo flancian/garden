@@ -1,8 +1,9 @@
 # Node
 
-- You are currently visiting a node called 'node'.
-- a [[noun]]
-  - An [[agora]] node is like a crowdsourced [[sequential wiki]] page on a [[topic]] or [[entity]].
+- You are currently visiting a [[thing]] called 'node'.
+  - The [[Agora]] is about [[edges]] and [[nodes]].
+  - An [[agora]] node is a crowdsourced [[set]] of resources page on a [[topic]] or [[entity]].
+    - [[resources]] are known as [[subnodes]].
   - Nodes and edges are the heart of the [[agora]], which is in essence a [[distributed knowledge graph]].
     - A node maps to a [[wikilink]].
   - Nodes contain one or more [[subnodes]] volunteered by different [[users]] and [[sources]].
