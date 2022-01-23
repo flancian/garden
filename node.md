@@ -16,8 +16,8 @@
   - If you just got here from Twitter, consider [[agora twitter integration]].
     - [[tweet]] https://twitter.com/flancian/status/1342093633940561921
   - A node is one of the components of a [[graph]].
-- [[verb]]
-  - To add and maintain [[nodes]] in the [[agora]]; to contribute notes or other content.
-- [[pull]] [[sequential wiki]]
+- an [[action]]
+  - to [[maintain]] [[nodes]] in the [[agora]]; to contribute notes or other content.
+  - [[pull]] [[sequential wiki]] [[everything2]] [[livejournal]] [[medium]]
 
 
