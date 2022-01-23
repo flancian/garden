@@ -1,14 +1,14 @@
 # Write
 
 - An [[action]].
-  - See [[do]].
-- [[push]] [[do]].
-  - [[write]] to [[will walker]]
-  - [[write]] to [[jeff tang]]
-  - [[write]] to [[hawns widmer]]
-  - [[write]] [[agora protocol]]
-  - [[write]] [[book]]
-  - [[write]] [[building bridges]]
-  - [[remember]] to also [[edit]]
+  - [[push]] [[do]].
+    - [[write]] to [[will walker]]
+    - [[write]] to [[hans widmer]]
+    - [[write]] [[agora protocol]]
+    - [[write]] [[books]]
+      - [[in flancia there is an agora]]
+      - [[building bridges]]
+      - [[burning chromium]]
+    - [[pull]] [[edit]]
 
 
