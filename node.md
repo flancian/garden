@@ -4,8 +4,11 @@
   - The [[Agora]] is about [[edges]] and [[nodes]].
   - An [[agora]] node is a crowdsourced [[set]] of resources page on a [[topic]] or [[entity]].
     - [[resources]] are known as [[subnodes]].
-  - Nodes and edges are the heart of the [[agora]], which is in essence a [[distributed knowledge graph]].
-    - A node maps to a [[wikilink]].
+      - #push [[agora rfcs]]
+        - being [[nodes]], [[subnodes]] should have their own [[subnodes]].
+        - they currently don't; the Agora models one level only. but that could change.
+  - Nodes and edges are [[the heart of the agora]], which is, I believe, in essence a [[commons]] built upon a [[distributed knowledge graph]].
+    - A node maps to a [[wikilink]] or #hashtag.
   - Nodes contain one or more [[subnodes]] volunteered by different [[users]] and [[sources]].
     - Subnodes are currently plain Markdown notes stored somewhere on the internet.
     - Sources are those available through an [[agora client]].
