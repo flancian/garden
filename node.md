@@ -9,7 +9,7 @@
         - they currently don't; the Agora models one level only. but that could change.
   - Nodes and edges are [[the heart of the agora]], which is, I believe, in essence a [[commons]] built upon a [[distributed knowledge graph]].
     - A node maps to a [[wikilink]] or #hashtag.
-  - Nodes contain one or more [[subnodes]] volunteered by different [[users]] and [[sources]].
+    - Nodes are sets that contain [[subnodes]] volunteered by different [[users]] and tracked as [[sources]].
     - Subnodes are currently plain Markdown notes stored somewhere on the internet.
     - Sources are those available through an [[agora client]].
     - TLDR: If you volunteered a Markdown note called node.md to this Agora, it would show up here like mine.
