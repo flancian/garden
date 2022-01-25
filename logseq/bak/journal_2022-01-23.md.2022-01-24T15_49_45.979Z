@@ -1,0 +1,27 @@
+# 2022-01-23
+
+- watching [[paprika]]
+  - liking it, surprising, a bit trippy
+- [[yoga with x]]
+  - did [[fractal yoga]] yesterday for the first time, found it fun :)
+    - [[hall of mirrors]] 
+    - made me think of [[hofstadter]]
+- [[this]]
+- [[agora]]
+  - [[agora version]]
+  - liking [[random]]!
+  - seeing some sporadic server errors, please let me know if they are disruptive in [[agora development]] or [[agora discuss]]!
+- [[jayu]] wrote [[inserting wikilinks into quotes]]
+  - [[wikipedia integration]] volunteered [[hyperlink]]
+    - turns out [[wikilinks]] are [[fat links]]
+- I'm thinking of adding [[youtube]], [[spotify]], [[youtube music]] search links to the Agora.
+  - Anything else you'd like to see? [[peertube]]/more [[fediverse]]?
+- [[matrix bot]]
+  - [[maubot]] (thanks [[maya]] for the pointer)
+- [[agora protocol]]
+  - #push [[agora rfcs]] [[jayu]] suggested making actions hashtags, had good arguments. we already had limited support for #go-link only (thanks to [[vera]]); time to give the hashtag approach a proper try by extending it.
+  - make [[testing]] work:
+    - [x] #go links
+    - [ ] #pull 
+    - [ ] #push
+  - #push [[agora rfcs]] [[jayu]] suggested
