@@ -31,6 +31,9 @@
  :default-templates
  {:journals ""}
 
+ :pages-directory ""
+ :journals-directory "journal"
+
  ;; The app will show those queries in today's journal page,
  ;; the "NOW" query asks the tasks which need to be finished "now",
  ;; the "NEXT" query asks the future tasks.
@@ -81,4 +84,5 @@
  :macros {}
    :markdown/version 2
    :date-formatter "yyyy-MM-dd"
-   :editor/logical-outdenting? true}
+   :editor/logical-outdenting? true
+   :journal/page-title-format "yyyy-MM-dd"}
