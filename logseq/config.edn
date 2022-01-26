@@ -80,7 +80,8 @@
  :macros {}
    :markdown/version 2
    :date-formatter "yyyy-MM-dd"
-   :editor/logical-outdenting? true}
+   :editor/logical-outdenting? true
+ :favorites ["agora"]}
 
 ;; [[flancian]]
 :journal/page-title-format "yyyy-MM-dd"
