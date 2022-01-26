@@ -84,6 +84,7 @@
   :editor/logical-outdenting? false
 
 ;; [[flancian]]
-:journal/page-title-format "yyyy-MM-dd"}
+:journal/page-title-format "yyyy-MM-dd"
+ :favorites []}
 :pages-directory ""
 :journals-directory "journal"
