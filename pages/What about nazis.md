@@ -1,1 +1,2 @@
 - [[what about the nazis]] indeed
+	- [[free, fair and alive]] thinks about [[commons]] borders as selective [[membranes]]. I can relate to that.
