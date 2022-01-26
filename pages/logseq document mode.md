@@ -7,3 +7,5 @@
   ## This is another Markdown heading.
   
   This is a paragraph within that second heading.
+  
+  Hmm, judging from the error message this is more likely to be all somehow embedded in a single block (?).
