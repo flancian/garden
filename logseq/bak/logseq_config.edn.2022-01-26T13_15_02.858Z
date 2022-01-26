@@ -1,5 +1,10 @@
 {:journal-basis "daily" 
 
+;; [[flancian]]
+:journal/page-title-format "yyyy-MM-dd"
+:pages-directory ""
+:journals-directory "journal"
+
 :project {
           ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
           :name ""
@@ -71,12 +76,6 @@
 :commands
 []
 
-;; [[flancian]]
-:journal/page-title-format "yyyy-MM-dd"
-:pages-directory ""
-:journals-directory "journal"
-
-
 ;; Macros replace texts and will make you more productive.
 ;; For example:
 ;; Add this to the macros below:
@@ -85,6 +84,6 @@
 ;; becomes
 ;; Rose is red, violet's blue. Life's ordered: Org assists you.
 :macros {}
-:markdown/version 2
-:date-formatter "yyyy-MM-dd"
-:editor/logical-outdenting? false
+  :markdown/version 2
+  :date-formatter "yyyy-MM-dd"
+  :editor/logical-outdenting? false
