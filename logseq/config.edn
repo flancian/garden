@@ -81,3 +81,8 @@
    :markdown/version 2
    :date-formatter "yyyy-MM-dd"
    :editor/logical-outdenting? true}
+
+;; [[flancian]]
+:journal/page-title-format "yyyy-MM-dd"
+:pages-directory ""
+:journals-directory "journal"
