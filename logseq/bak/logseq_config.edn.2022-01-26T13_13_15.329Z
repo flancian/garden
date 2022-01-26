@@ -87,3 +87,5 @@
   :markdown/version 2
   :date-formatter "yyyy-MM-dd"
   :editor/logical-outdenting? false
+
+
