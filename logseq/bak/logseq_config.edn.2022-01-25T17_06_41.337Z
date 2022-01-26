@@ -1,4 +1,5 @@
-{:journal-basis "daily" 
+
+  {:journal-basis "daily" 
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
@@ -81,9 +82,4 @@
    :markdown/version 2
    :date-formatter "yyyy-MM-dd"
    :editor/logical-outdenting? true
- :favorites ["agora"]}
-
-;; [[flancian]]
-:journal/page-title-format "yyyy-MM-dd"
-:pages-directory ""
-:journals-directory "journal"
+   :journal/page-title-format "yyyy-MM-dd"}

@@ -1,4 +1,5 @@
-{:journal-basis "daily" 
+
+  {:journal-basis "daily" 
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
@@ -29,6 +30,9 @@
  ;; Example for Org mode users: "** [[Work]]\n***\n** [[Family]]\n***\n
  :default-templates
  {:journals ""}
+
+ :pages-directory ""
+ :journals-directory "journal"
 
  ;; The app will show those queries in today's journal page,
  ;; the "NOW" query asks the tasks which need to be finished "now",
@@ -80,10 +84,6 @@
  :macros {}
    :markdown/version 2
    :date-formatter "yyyy-MM-dd"
-   :editor/logical-outdenting? true
- :favorites ["agora"]}
+   :editor/logical-outdenting? false
 
-;; [[flancian]]
-:journal/page-title-format "yyyy-MM-dd"
-:pages-directory ""
-:journals-directory "journal"
+ :journal/page-title-format "yyyy-MM-dd"}

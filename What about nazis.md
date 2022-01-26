@@ -1,0 +1,4 @@
+- [[what about the nazis]] indeed
+	- [[free, fair and alive]] thinks about [[commons]] borders as selective [[membranes]]. I can get behind that.
+	- also brings me back to [[reddy2go]]'s comments about [[bouncers and buddhas]].
+	-
