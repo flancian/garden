@@ -7,6 +7,9 @@
     - #push [[test]]
       - an [[Agora]]!
   - This is a test of `[[foo|bar]]` links.
-    - Option 1: [[page name | an alias, perhaps in long form]]
-    - Option 2: [[long form, perhaps matching the previous sentence | page name]]
-    - Option 3: [[why don't we have both|por qué no los dos]]
+    - Option 1: `[[page name | an alias, perhaps in long form]]`
+      - [[page name | an alias, perhaps in long form]]
+    - Option 2: `[[long form, perhaps matching the previous sentence | page name]]`
+      - [[long form, perhaps matching the previous sentence | page name]]
+    - Option 3: `[[why don't we have both|por qué no los dos]]`
+      - [[why don't we have both|por qué no los dos]]
