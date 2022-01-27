@@ -1,0 +1,8 @@
+# 2022-01-27
+
+- [[test node]]
+  - I sometimes use that node for testing support of new features.
+  - Poll if you're interested: for piped links (of the form `[[foo|bar]]`, which order looks most natural to you?
+    - Option 1: [[page | an alias, perhaps in long form]]
+    - Option 2: [[long form, perhaps matching the previous sentence | canonical page]]
+    - Option 3: [[why don't we have both|por qué no los dos]] :)
