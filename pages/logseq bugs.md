@@ -1,0 +1,3 @@
+- Let's see if this note gets created in the right place :)
+- Nope it wasn't, logseq is ignoring my directory preference again :|
+	- Something to look into after work I guess :)
