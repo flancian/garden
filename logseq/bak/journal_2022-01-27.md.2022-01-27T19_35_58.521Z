@@ -1,0 +1,24 @@
+# 2022-01-27
+- [[testing]] [[pipe links]]
+	- Poll if you're interested: for piped links (of the form `[[foo|bar]]`, which order looks most natural to you?
+		- Option 1: `[[page name | an alias, perhaps in long form]]`
+		- Option 2: `[[long form, perhaps matching the previous sentence | page name]]`
+		- Option 3: `[[why don't we have both|por qué no los dos]]` :)
+- #push [[logseq bugs]]
+	- [[logseq]] sometimes 'snaps out' of my settings and goes back to writing pages in `pages/` and journals in the IMHO weird format `yyyy_MM_dd` and so on. Restarting seems to fix it?
+	- [[another try]]
+- now using [[foam]] in [[paramita]], [[logseq]] in [[nostromo]].
+  - I intend to keep it that way for a while I think?
+- worked quite a bit, but got some stuff done -- happy about it
+ learnt about [[gnu stow]] for managing [[dotfiles]].
+- [[agora]]
+- I need to get back to some threads over social media:
+  - [[stoa]]
+  - question from [[codex]]
+  - find that thread where someone was super kind and I just didn't answer them before losing the thread
+    - was it on [[mastodon]] or [[twitter]]?
+    - #push [[moa.party]]
+      - it would be cool not to have to wonder, to have an independent archive for both
+      - could also be [[agora bot]]
+  - NOW continue doing something with [[matrix bot]]?
+  - NOW ship [[pipe links]]
