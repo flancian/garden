@@ -1,7 +1,8 @@
 # snapshot
 
 - an explicit representation of a point in time
-- a [[tool]]
+- a [[tool]].
+  - capturing and annotating [[screenshots]] to begin with.
   - [[pull]] [[project snapshot]]
     - now actually exists, although in very lightweight manner
   - [[git]] https://gitlab.com/flancian

@@ -1,4 +1,4 @@
 # charismatic shell
 
-- [[pull]] [[bouncepaw]]
+- #pull [[bouncepaw]]
 
