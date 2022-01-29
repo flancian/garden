@@ -1,4 +1,5 @@
 # anchors
 
-- #pull https://github.com/flancian/agora-server/issues/38
+- [[bug]] https://github.com/flancian/agora-server/issues/38
+- #pull [[obsidian block anchors]]
 
