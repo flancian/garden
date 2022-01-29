@@ -1,0 +1,5 @@
+- a [[project]]
+	- by [[karl jones]]
+	- #go https://gnomonchronicles.com/wiki/Gnomon_Chronicles_Wiki:About_(nonfiction)
+	- reminded me of [[flancia]] in some ways
+	- I like the specific protocol to start playing
