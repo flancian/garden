@@ -1,5 +1,6 @@
 # Identity
 
-- [[go]] flancia.org/me
+- [[go]] https://flancia.org/
+- [[pull]] [[self]]
 
 
