@@ -1,0 +1,182 @@
+# Dej
+
+- [[pull]] [[armengolaltayo]]
+- [[pull]] [[flancian]]
+- [[pull]] [[jonathan-the-utopian]]
+- [[pull]] [[armengol-lorand]]
+- [[patterning glossary]]
+
+## [[2021-06-05]]
+- how to translate between conventions
+- [[agora protocol]]
+	- [[agora trees]]
+
+## [[2021-05-22]]
+- [[operands]]
+	- [[nested systems]]
+	- [[category theory for engineers]] 
+		- [https://applied-compositional-thinking.engineering/](https://applied-compositional-thinking.engineering/)
+		- [https://vimeo.com/551804154](https://vimeo.com/551804154)
+- [[intentions]] -- things we wanted to do but haven't done yet
+	- [[lorand]] wanted to write more notes on [[notes on synthesis of form]]
+		- with the intention of sharing in github space
+		- and practicing merging algorithms
+	- we could also do this for [[a pattern language]] and this week's "homework":
+		- introductory material at the front of the book
+		- then each person chooses a pattern to share
+	- decision
+		- let's do this first for a pattern language
+		- but also keep on trying with notes
+- other [[topics]]
+	- recap of conversation on [[2021-05-08]]: notes in [[armengol]].
+		- [[context]]
+	
+## [[2021-04-24]]
+- [[jonathan]] busy, lots to read for the masters
+  - now in the gallery scene ;)
+- [[armengol]] also busy, probably need a break
+  - [[workaholic mode]]
+  - sometimes feels like he's "lost the ability to have fun"
+  - [[2h30m]] away from [[barcelona]]
+  - when he goes he ends up meetings lots of people in a cluster/sequence
+  - (reminded me of my visits to buenos aires)
+  - when you're working too much, it's easy to become less efficience/diverge
+  - exploratory mode?
+- [[topics]]
+  - [[jonathan]] is there a simple way to get a git repository of markdown notes?
+    - [[flancian]] [[kaleido]] is looking nice!
+    - [[reading alexander]] repository could be an experiment
+      - [[two modes]] at least:
+        - conversation mode
+        - [[do]]
+          - shared document mode
+            - [[priority]]
+      - nice thing about [[etherpad]] in an activity yesterday is that it can be ephemeral; it can be unstructured; it can have structure
+  - ui / ux experiments
+  - [[roadmap]]
+    - [[goals]] plus [[timeframes]]
+    - see notebook
+  - [[push]] [[do]]
+    - incorporate reading alexander into the agora
+  - [[armengol]] how did you manage taking notes for [[reading alexander]]?
+    - [[jonathan]] mostly on paper; tried transferring later but couldn't make the time
+
+## [[2021-04-03]]
+- Vacaciones vs trabajo en modo freelance
+- [[push]] [[pointless]] 
+  - two weeks ago
+  - video on twitch
+  - edited version is coming
+- [[bitcoin]] -> altcoins -> ethereum -> [[icos]]
+  - [[nfts]]
+    - [[armengol]] gran potencial económico para muchos artistas
+- [[walter benjamin]]
+  - [[the work of art in the age of mechanical reproduction]]
+- [[hannah arendt]]
+- how to store [[context]] to recover mind states in the relatively distant future?
+- how do you handle todos/projects?
+  - [[jonathan-the-utopian]]
+    - [[todoist]]
+    - journaling in [[obsidian]]
+- encoding information in [[dna]]
+- [[recording app]]
+  - Why Would A Recording App Win “Best App of the Year”?: https://www.youtube.com/watch?v=TtfdWl10lN4
+- [[now]]: https://sive.rs/nowff
+- [[agora]]
+- [[jekyll]]
+- [[jonathan-the-utopian]] thesis update
+  - formats for groups processes
+  - have been participating in workshops
+  - doing reading
+    - [[roland barthes]]
+    - [[hannah arendt]]
+    - [[christopher alexander]]
+    - [[non violent communication]]
+    - [[victor papanek]]
+  - structuralism and vulnerability
+    - [[structure]], [[understanding]], [[interface]]?
+
+## [[2021-03-06]]
+- <https://anagora.org/go/meet>
+  - [[virtual spaces]], [[meeting points]], [[schelling point]]
+  - recuerda a [[discord]] y sus salas de voz
+  - what [[clubhouse]] is trying to exploit
+- [[meeting points]]
+  - [[zurich]] flea market in [[helvetiaplatz]]
+  - [[ritual]], going to a bar every second friday -- associated bar
+- [[big blue button]]
+  - [[meet.coop]]
+    - [[social.coop]] gets this at some tier
+- [[beeper]]
+  - could be a [[coop]]?
+  - jailbroken iphones: a joke?
+- [[ghost]] publishing, some of the profits 
+  - [[write freely]]
+- [[foam]]
+  - [[governance]]
+  - c.f. [[athens]]
+- [[ctzn]] is broken
+  - ctznry.com
+- [[agora]] governance
+  - users control it by coding nodes however they can
+  - users control it by proposing changes to its contract
+  - users control it by forking and merging agoras
+    - it should be one command essentially
+  - [[jonathan]]
+    - difference in skill between users means difference in power
+    - power is held by people who host?
+      - yes, I agree. reducing this power, making it easy to host, is a priority.
+  - two [[threads]]:
+    - what is stimulating from this vision
+    - reflecting on the dangers
+- how did the presentation for the masters go?!
+  - a lot of the discussion that happened with the jury, in particular a philosopher, was centered around 
+  - "this project seems like it's situated in [[social design]] and it's important to read works in this space, concerning in particular to risks"
+  - western / colonial gestures / white saviour complex
+- [[armengol]] the problem of getting things into [[shareable]] state
+  - [[flancian]] defaults to sharing all :)
+    - [[armengol]] tries to understand *why* he wants to say something, what's behind it; to process, filter, etc.
+  - example problem: where should we meet after this? been thinking about [[coordination problems]]; how we relate to [[digital information]].
+  - thought about [[rules]] and [[principles]]
+    - [[aside]] [[contract]], [[devine-lu-linvega]]'s [[a cheatsheet on discourse]]
+    - [[identity principle]] -- in a digital context you are your information as shared in the [[digital ecosystem]]
+    - [[fashion]]
+      - [[barthes]]
+  - if we are planning on sharing a [[space]], imposing [[rules]] can be a form of [[violence]]; you are limiting and bending other people's identities
+    - rules for the self converges to [[free will]]
+  - [[principles]] are a common understanding of something. they can be used in subsets with a purpose.
+    - principles could be in [[contract]]
+    - when people interact, they try to follow all [[contracts]]
+  - [[a cheatsheet on discourse]]
+    - three gates
+      - [[is it true]]
+        - relevant principles:
+          - there is no absolute truth
+          - reality can be described from many valid subjective perspectives
+- [[push]] [[armengol principles]] based on our relationship with information in a digital context
+  - [[identity]]
+    - [[you are your information as manifested]]
+  - [[individuality]]
+    - [[each individual has different needs]]
+  - [[linkage]] (connectivity?)
+    - [[we are a network]]
+  - [[contract]] (spatiality?) (commonality?)
+    - [[communication]] is only possible when you share common spaces
+      - (discussion about definitions of space and communication here)
+      - [[do]] discuss [[communication theory]]
+  - [[origin]] (synchronicity?)
+    - every piece of information has been created at a moment in time
+  - [[accumulation]] (historicity?)
+    - you can not change the past -- append only
+  - [[meaning]] (diachronicity?)
+    - you can only connect the dots looking backwards
+- [[push]] [[armengol rules]]
+  - we are used to working with markdown. it functions as a common space; it is not just the file, but the associated systems to deal with the files and link them.
+  - what if we have a place where we can work together on these files.
+    - [[stoa]]?
+  - if we override the words of others, this is invasive. but if we don't agree on a shared context, communication cannot happen.
+  - [[aside]] [[m prime]]
+
+
+
+
