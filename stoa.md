@@ -11,8 +11,8 @@
 -
 - In this [[agora]]:
 	- Most succinctly, URL that allows [[iframes]] or announces other means of embedding or composing, ideally with a default intent of cooperation.
-	- A [[stoa]] is a [[group]] with [[compatible]] [[worldviews]] and [[tools]] and [[interests]] conducive to [[cooperation]].
-		- In particular, well-working stoas are likely to be integrated by people with [[aligned]] or [[complementary]] [[goals]] and [[values]].
+	- A [[stoa]] is a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]] towards [[goals]].
+		- In particular, well-working stoas are likely to be integrated by people with [[aligned]], [[complementary]], [[diverse]] sets of [[goals]] and [[values]].
 	- I would like to propose a number of Stoas. Each one depends in some way on the output of the formers.
 		- The [[first stoa]] focuses on building and running an [[agora]].
 			- See [[agora development]], [[agora plan]], [[agora feature requests]].
