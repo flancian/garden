@@ -31,6 +31,7 @@
 - Most generally a [[stoa]] is a [[set]]
   collapsed:: true
 	- Of [[people]] and [[resources]]
+	-
 	- I believe well-working ("[[good]]") Stoas are likely to be integrated by people with [[aligned]],[[supplementary]] or [[complementary]] (but in any case [[diverse]]), sets of partially overlapping [[goals]] and [[values]].
 	- of [[things]] plus a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]].
 - a [[project]].
