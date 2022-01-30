@@ -23,8 +23,9 @@
 			- See [[fedstoa]] if you'd like to participate.
 		- The [[third stoa]] burns in the general direction of [[world improvement]]; I propose a default attitude of well-meaning [[protopianism]].
 			- This Stoa should be instantiated by default with [[agora discuss]], the [[matrix]] channel.
-			- This Stoa tries to run a [[commons]] while using state of the art tools and procedures to model the world and reason about possible improvements. nd its problems as seen and evaluated by [[all interested beings]] and then tries to execute incremental improvements.
+			- This Stoa tries to run a [[commons]] where [[interested people]] can use state of the art tools and procedures to model the world and reason about possible improvements together.
 			- Relevant topics:
+				- Agora (see also [[agora development]]).
 				- World improvement: [[humanitarian aid]], [[]][[protopoi]], [[m prime]].
 				- [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
 - Elsewhere:
