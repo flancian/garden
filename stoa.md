@@ -1,11 +1,12 @@
 - A [[place]].
-	- to meet [[others]] with a good intent.
-- In the [[historical agora]] of [[Athens]]:
-	- A covered spot, usually a [[porch]], within the [[agora]].
-		- So perhaps a [[semi public]] [[space]].
-	- [[stoa of attalos]]
-	- [[stoa poikile]]
-		- [[stoicism]]
+	- where you meet [[others]] with a good intent.
+	- In the [[historical agoras]]:
+		- A covered spot, usually a [[porch]], within an [[agora]].
+			- Perhaps a [[semi public]] [[space]].
+		- [[athens]]
+			- [[stoa of attalos]]
+			- [[stoa poikile]]
+				- [[stoicism]]
 - In this [[agora]]:
 	- Most succinctly, URL that allows [[iframes]] or announces other means of embedding or composing, ideally with a default intent of cooperation.
 	- A [[stoa]] is a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]] towards [[goals]].
