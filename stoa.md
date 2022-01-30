@@ -1,5 +1,3 @@
-# Stoa
--
 - A [[place]].
 	- to meet [[others]] with a good intent.
 - In the [[historical agora]] of [[Athens]]:
@@ -23,7 +21,7 @@
 			- See also the next Stoa, some of whose members belong to the second Stoa :)
 		- The [[third stoa]] moves (burns, in solarpunk terms) in the general direction of [[world improvement]]; I propose a default attitude of well-meaning [[protopianism]] and being out to do good.
 			- This Stoa should be instantiated by default with [[flancia collective]] and [[agora discuss]], the [[matrix]] channels.
-			- As of [[2022-01-30]] this Stoa tries to run a [[commons]] where [[interested people]] can use state of the art tools and procedures to model the world and reason about possible improvements together.
+			- As of [[2022-01-30]] [[flancia collective]] tries to run a [[commons]] where [[interested people]] can [[work in public]] using public tools and procedures to model the world together, and so reason about possible improvements.
 			- [[topics]]
 				- [[world improvement]]: [[humanism]], [[solidarity]], [[m prime]], [[protopoi]],
 				- [[agora]] (see also [[agora development]]).
