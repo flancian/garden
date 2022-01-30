@@ -21,9 +21,10 @@
 			- This stoa should be instantiated by default with [[agora development]], the [[matrix]] channel.
 		- The [[second stoa]] focuses on freeing, opening up and otherwise improving the [[internet]] using [[open source]] and [[open ethics]].
 			- See [[fedstoa]] if you'd like to participate.
-		- The [[third stoa]] focuses on general [[world improvement]]. It uses [[state of the art]] [[knowledge tools]] to model the world and its problems as seen and evaluated by [[all]] [[people]] and then tries to execute incremental improvements.
+		- The [[third stoa]] burns in the general direction of [[world improvement]] and [[protopianism]]. It uses [[state of the art]] [[knowledge tools]] to model the world and its problems as seen and evaluated by [[all]] [[people]] and then tries to execute incremental improvements.
 			- This Stoa should be instantiated by default with [[agora discuss]], the [[matrix]] channel.
-			- See [[protopoi]], [[m prime]].
+			- Relevant topics:
+				- World improvement: [[humanitarian aid]], [[]][[protopoi]], [[m prime]].
 				- [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
 - Elsewhere:
 	- [[thestoa.ca]] by [[peter limberg]].
