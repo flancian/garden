@@ -1,15 +1,13 @@
 # Stoa
 -
 - A [[place]].
-	- to meet [[]]others with the intent of [[cooperating]].
+	- to meet [[others]] with good intents.
 - A covered spot, usually a [[porch]], within an [[agora]].
 	- A [[semi public]] [[space]].
 - In the [[historical agora]] of [[Athens]]:
 	- [[stoa of attalos]]
 	- [[stoa poikile]]
-	  
-	  ![[Pasted image 20210512221900.png]]
--
+		- [[stoicism]]
 - In this [[agora]]:
 	- Most succinctly, URL that allows [[iframes]] or announces other means of embedding or composing, ideally with a default intent of cooperation.
 	- A [[stoa]] is a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]] towards [[goals]].
