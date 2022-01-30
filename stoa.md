@@ -24,10 +24,10 @@
 		- The [[third stoa]] burns in the general direction of [[world improvement]]; I propose a default attitude of well-meaning [[protopianism]].
 			- This Stoa should be instantiated by default with [[agora discuss]], the [[matrix]] channel.
 			- This Stoa tries to run a [[commons]] where [[interested people]] can use state of the art tools and procedures to model the world and reason about possible improvements together.
-			- Relevant topics:
-				- Agora (see also [[agora development]]).
-				- World improvement: [[humanitarian aid]], [[]][[protopoi]], [[m prime]].
+			- [[topics]]
+				- [[]world improvement]]: [[humanitarian aid]], [[protopoi]], [[m prime]].
 				- [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
+				- [[agora]] (see also [[agora development]]) (it's in the name of the channel).
 - Elsewhere:
 	- [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
