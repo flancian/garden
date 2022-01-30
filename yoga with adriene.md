@@ -4,5 +4,4 @@
 	- by [[adriene mishler]].
 	- It is essentially the base of our [[yoga]] practice.
 	- [[pull]] [[yoga with x]]
-		- is a side project I've been exploring.
-	- [[pull]] [[adriene mishler]]
+		- is a side project I've been exploring inspired by it :)
