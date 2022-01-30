@@ -28,7 +28,6 @@
 				- [[agora]] (see also [[agora development]]).
 					- The first goal of this Agora is to improve the world for others.
 					- The second goal of this Agora is to build a better [[Agora]] :)
--
 - Most generally a [[stoa]] is a [[set]]
   collapsed:: true
 	- Of [[people]] and [[resources]]
