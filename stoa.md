@@ -11,6 +11,7 @@
 	- in this [[agora]] every node might include one or more [[stoas]].
 		- Most succinctly, as of the time of writing, a Stoa is a website that allows [[iframes]] or announces other means of embedding or composing resources, ideally with a default intent of constructive cooperation. The Agora tries to embed any sites that the community has found to be useful and are willing to be embedded.
 		- These Stoas can be said to be willing to be integrated into the [[commons]].
+	- Note that a set of things defines a group: of people
 	- I would like to propose a number of Stoas. Each one depends in some way on the output of the formers.
 		- The [[first stoa]] focuses on building and running an [[agora]].
 			- See [[agora development]], [[agora plan]], [[agora feature requests]].
@@ -36,4 +37,4 @@
 	- [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
 	- https://twitter.com/flancian/status/1345818921836883968
-	  https://twitter.com/flancian/status/1349787957830496267
+	- https://twitter.com/flancian/status/1349787957830496267
