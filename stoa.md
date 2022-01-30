@@ -31,9 +31,10 @@
 - Most generally a [[stoa]] is a [[set]]
   collapsed:: true
 	- Of [[people]] and [[resources]]
-	-
+		- the set of stoas in a node (a [[context]]), and the people that have [[write access]] to them
 	- I believe well-working ("[[good]]") Stoas are likely to be integrated by people with [[aligned]],[[supplementary]] or [[complementary]] (but in any case [[diverse]]), sets of partially overlapping [[goals]] and [[values]].
-	- of [[things]] plus a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]].
+		- a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]].
+	-
 - a [[project]].
 	- [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
