@@ -25,9 +25,10 @@
 			- This Stoa should be instantiated by default with [[agora discuss]], the [[matrix]] channel.
 			- This Stoa tries to run a [[commons]] where [[interested people]] can use state of the art tools and procedures to model the world and reason about possible improvements together.
 			- [[topics]]
-				- [[]world improvement]]: [[humanitarian aid]], [[protopoi]], [[m prime]].
-				- [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
-				- [[agora]] (see also [[agora development]]) (it's in the name of the channel).
+				- [[world improvement]]: [[humanism]], [[solidarity]], [[m prime]], [[protopoi]],
+				- [[agora]] (see also [[agora development]]).
+					- The first goal of this Agora is to improve the world for others.
+					- The second goal of this Agora is to build a better Agora :)
 - Elsewhere:
 	- [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
