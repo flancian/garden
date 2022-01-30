@@ -1,6 +1,7 @@
 # Stoa
 -
-- A [[place]] to meet others with the intent of [[cooperating]].
+- A [[place]].
+	- to meet [[]]others with the intent of [[cooperating]].
 - A covered spot, usually a [[porch]], within an [[agora]].
 	- A [[semi public]] [[space]].
 - In the [[historical agora]] of [[Athens]]:
@@ -28,7 +29,7 @@
 				- [[world improvement]]: [[humanism]], [[solidarity]], [[m prime]], [[protopoi]],
 				- [[agora]] (see also [[agora development]]).
 					- The first goal of this Agora is to improve the world for others.
-					- The second goal of this Agora is to build a better Agora :)
+					- The second goal of this Agora is to build a better [[Agora]] :)
 - Elsewhere:
 	- [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
