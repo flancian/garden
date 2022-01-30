@@ -1,10 +1,10 @@
 # Stoa
 -
 - A [[place]].
-	- to meet [[others]] with good intents.
-- A covered spot, usually a [[porch]], within an [[agora]].
-	- A [[semi public]] [[space]].
+	- to meet [[others]] with a good intent.
 - In the [[historical agora]] of [[Athens]]:
+	- A covered spot, usually a [[porch]], within the [[agora]].
+		- So perhaps a [[semi public]] [[space]].
 	- [[stoa of attalos]]
 	- [[stoa poikile]]
 		- [[stoicism]]
