@@ -1,3 +1,2 @@
 - #pull [[juan josé saer]]
 	- #go https://docs.google.com/document/d/1gc1Uqt3W2EU8rAim5ET64NmwyVhLUEtzA1o9ctsz0FQ/edit
-	- ]]
