@@ -18,9 +18,11 @@
 			- See [[agora development]], [[agora plan]], [[agora feature requests]].
 				- Also [[wikilinks everywhere]], [[browser extensions]], [[agora twitter integration]] if you're interested in specific projects.
 			- See [[agora howto]] and [[agora client]] instead if you'd like to contribute to the [[agora]] as a [[user]].
+			- This stoa should be instantiated by default with [[agora development]], the [[matrix]] channel.
 		- The [[second stoa]] focuses on freeing, opening up and otherwise improving the [[internet]] using [[open source]] and [[open ethics]].
 			- See [[fedstoa]] if you'd like to participate.
 		- The [[third stoa]] focuses on general [[world improvement]]. It uses [[state of the art]] [[knowledge tools]] to model the world and its problems as seen and evaluated by [[all]] [[people]] and then tries to execute incremental improvements.
+			- This Stoa should be instantiated by default with [[agora discuss]], the [[matrix]] channel.
 			- See [[protopoi]], [[m prime]].
 				- [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
 - Elsewhere:
