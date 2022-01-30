@@ -4,3 +4,6 @@
 	- fix responses to messages with more than one wikilink. this is a typical [[greedy regex]] mistake :) this bug is of course not in the agora
 	- make it respond by starting a new thread so it doesn't take up too much space
 	- make it work with wikilinks that have already been resolved, like [[vera]]'s
+- #push [[agora mastodon bot]]
+	- sometimes goes down, systemd journal doesn't show anything useful
+	-
