@@ -21,9 +21,9 @@
 		- The [[second stoa]] focuses on freeing, opening up and otherwise improving the [[internet]] using [[open source]] and [[open ethics]].
 			- See [[fedstoa]] if you'd like to participate.
 			- See also the next Stoa, some of whose members belong to the second Stoa :)
-		- The [[third stoa]] burns in the general direction of [[world improvement]]; I propose a default attitude of well-meaning [[protopianism]].
-			- This Stoa should be instantiated by default with [[agora discuss]], the [[matrix]] channel.
-			- This Stoa tries to run a [[commons]] where [[interested people]] can use state of the art tools and procedures to model the world and reason about possible improvements together.
+		- The [[third stoa]] moves (burns, in solarpunk terms) in the general direction of [[world improvement]]; I propose a default attitude of well-meaning [[protopianism]] and being out to do good.
+			- This Stoa should be instantiated by default with [[flancia collective]] and [[agora discuss]], the [[matrix]] channels.
+			- As of [[2022-01-30]] this Stoa tries to run a [[commons]] where [[interested people]] can use state of the art tools and procedures to model the world and reason about possible improvements together.
 			- [[topics]]
 				- [[world improvement]]: [[humanism]], [[solidarity]], [[m prime]], [[protopoi]],
 				- [[agora]] (see also [[agora development]]).
