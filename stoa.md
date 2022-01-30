@@ -11,6 +11,12 @@
 	- in this [[agora]] every node might include one or more [[stoas]].
 		- Most succinctly, as of the time of writing, a Stoa is a website that allows [[iframes]] or announces other means of embedding or composing resources, ideally with a default intent of constructive cooperation. The Agora tries to embed any sites that the community has found to be useful and are willing to be embedded.
 		- These Stoas can be said to be willing to be integrated into the [[commons]].
+- Most generally a [[stoa]] is a [[set]]
+  collapsed:: true
+	- Of [[people]] and [[resources]]
+		- the set of stoas in a node (a [[context]]), and the people that have [[write access]] to them
+	- I believe well-working ("[[good]]") Stoas are likely to be integrated by people with [[aligned]],[[supplementary]] or [[complementary]] (but in any case [[diverse]]), sets of partially overlapping [[goals]] and [[values]].
+		- a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]].
 	- I would like to propose a number of Stoas. Each one depends in some way on the output of the formers.
 		- The [[first stoa]] focuses on building and running an [[agora]].
 			- See [[agora development]], [[agora plan]], [[agora feature requests]].
@@ -28,13 +34,6 @@
 				- [[agora]] (see also [[agora development]]).
 					- The first goal of this Agora is to improve the world for others.
 					- The second goal of this Agora is to build a better [[Agora]] :)
-- Most generally a [[stoa]] is a [[set]]
-  collapsed:: true
-	- Of [[people]] and [[resources]]
-		- the set of stoas in a node (a [[context]]), and the people that have [[write access]] to them
-	- I believe well-working ("[[good]]") Stoas are likely to be integrated by people with [[aligned]],[[supplementary]] or [[complementary]] (but in any case [[diverse]]), sets of partially overlapping [[goals]] and [[values]].
-		- a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]].
-	-
 - a [[project]].
 	- [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
