@@ -8,8 +8,8 @@
 			- [[stoa poikile]]
 				- [[stoicism]]
 - In this [[agora]]:
-	- Most succinctly, URL that allows [[iframes]] or announces other means of embedding or composing, ideally with a default intent of cooperation.
-	- A [[stoa]] is a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]] towards [[goals]].
+	- Most succinctly, as of the time of writing, a website that allows [[iframes]] or announces other means of embedding or composing resources, ideally with a default intent of constructive cooperation.
+	- Most gerally [[stoa]] is a set of [[things]] plus a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]] towards [[goals]].
 		- In particular, I believe well-working ("[[good]]") stoas are likely to be integrated by people with [[aligned]],[[supplementary]] or [[complementary]] (but in any case [[diverse]]), sets of [[goals]] and [[values]].
 	- I would like to propose a number of Stoas. Each one depends in some way on the output of the formers.
 		- The [[first stoa]] focuses on building and running an [[agora]].
