@@ -1,33 +1,41 @@
-# Stoa
-
-- A URL that allows [[iframes]] or announces other means of embedding or composing, ideally with a default intent of cooperation.
-- A [[place]] to meet others with the intent of [[cooperating]].
-- A covered spot, usually a [[porch]], within an [[agora]].
-  - A [[semi public]] [[space]].
-- In the [[historical agora]] of [[Athens]]:
-  - [[stoa of attalos]]
-  - [[stoa poikile]]
-  
-![[Pasted image 20210512221900.png]]
-
-- In this [[agora]]:
-  - A [[stoa]] is a [[group]] of [[people]] in an [[agora]] with [[compatible]] [[worldviews]] and [[tools]] and [[interests]] conducive to [[cooperation]].
-    - In particular, well-working stoas are likely to be integrated by people with [[aligned]] or [[complementary]] [[goals]] and [[values]].
-  - I would like to propose a number of Stoas. Each one depends in some way on the output of the formers.
-    - The [[first stoa]] focuses on building and running an [[agora]].
-      - See [[agora development]], [[agora plan]], [[agora feature requests]].
-        - Also [[wikilinks everywhere]], [[browser extensions]], [[agora twitter integration]] if you're interested in specific projects.
-      - See [[agora howto]] and [[agora client]] instead if you'd like to contribute to the [[agora]] as a [[user]].
-    - The [[second stoa]] focuses on freeing, opening up and otherwise improving the [[internet]] using [[open source]] and [[open ethics]].
-      - See [[fedstoa]] if you'd like to participate.
-    - The [[third stoa]] focuses on general [[world improvement]]. It uses [[state of the art]] [[knowledge tools]] to model the world and its problems as seen and evaluated by [[all]] [[people]] and then tries to execute incremental improvements.
-      - See [[protopoi]], [[m prime]].
-        - [[protopia]], [[eutopia]], [[world improvement]], [[flancia]].
-- Elsewhere:
-  - [[thestoa.ca]] by [[peter limberg]].
+- A [[place]].
+	- where you meet [[others]] with a good intent.
+	- In the [[historical agoras]]:
+		- A covered spot, usually a [[porch]], within an [[agora]].
+			- Perhaps a [[semi public]] [[space]].
+		- [[athens]]
+			- [[stoa of attalos]]
+			- [[stoa poikile]]
+				- [[stoicism]]
+- A [[resource]].
+	- in this [[agora]] every node might include one or more [[stoas]].
+		- Most succinctly, as of the time of writing, a Stoa is a website that allows [[iframes]] or announces other means of embedding or composing resources, ideally with a default intent of constructive cooperation. The Agora tries to embed any sites that the community has found to be useful and are willing to be embedded.
+		- These Stoas can be said to be willing to be integrated into the [[commons]].
+- Most generally a [[stoa]] is a [[set]]
+  collapsed:: true
+	- Of [[people]] and [[resources]]
+		- the set of stoas in a node (a [[context]]), and the people that have [[write access]] to them
+	- I believe well-working ("[[good]]") Stoas are likely to be integrated by people with [[aligned]],[[supplementary]] or [[complementary]] (but in any case [[diverse]]), sets of partially overlapping [[goals]] and [[values]].
+		- a [[group]] with [[compatible]] [[worldviews]] willing to engage in [[cooperation]].
+	- I would like to propose a number of Stoas. Each one depends in some way on the output of the formers.
+		- The [[first stoa]] focuses on building and running an [[agora]].
+			- See [[agora development]], [[agora plan]], [[agora feature requests]].
+				- Also [[wikilinks everywhere]], [[browser extensions]], [[agora twitter integration]] if you're interested in specific projects.
+			- See [[agora howto]] and [[agora client]] instead if you'd like to contribute to the [[agora]] as a [[user]].
+			- This stoa should be instantiated by default with [[agora development]], the [[matrix]] channel.
+		- The [[second stoa]] focuses on freeing, opening up and otherwise improving the [[internet]] using [[open source]] and [[open ethics]].
+			- See [[fedstoa]] if you'd like to participate.
+			- See also the next Stoa, some of whose members belong to the second Stoa :)
+		- The [[third stoa]] moves (burns, in solarpunk terms) in the general direction of [[world improvement]]; I propose a default attitude of well-meaning [[protopianism]] and being out to do good.
+			- This Stoa should be instantiated by default with [[flancia collective]] and [[agora discuss]], the [[matrix]] channels.
+			- As of [[2022-01-30]] [[flancia collective]] tries to run a [[commons]] where [[interested people]] can [[work in public]] using public tools and procedures to model the world together, and so reason about possible improvements.
+			- [[topics]]
+				- [[world improvement]]: [[humanism]], [[solidarity]], [[m prime]], [[protopoi]],
+				- [[agora]] (see also [[agora development]]).
+					- The first goal of this Agora is to improve the world for others.
+					- The second goal of this Agora is to build a better [[Agora]] :)
+- a [[project]].
+	- [[thestoa.ca]] by [[peter limberg]].
 - [[pull]] [[stoas]]
-
-https://twitter.com/flancian/status/1345818921836883968
-https://twitter.com/flancian/status/1349787957830496267
-
-
+	- https://twitter.com/flancian/status/1345818921836883968
+	- https://twitter.com/flancian/status/1349787957830496267

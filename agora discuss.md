@@ -1,9 +1,6 @@
 # Agora Discuss
-
 - a [[room]].
-  - [[chat]] [[agora rooms]]
-  - [[matrix]] https://matrix.to/#/#anagora:matrix.org
-    - [[go]] [[matrix]]
-  - Or just edit the document below and leave your opinion/thoughts :)
-
-
+	- #chat #matrix
+	- #go https://matrix.to/#/#anagora:matrix.org
+	- You can #push things here to make them known to the community :)
+		- You can always start by using the [[stoa]] below.

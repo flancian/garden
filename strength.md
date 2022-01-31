@@ -1,0 +1,4 @@
+- a [[yoga]] session.
+	- [[move]] https://www.youtube.com/watch?v=8CUzG_ny6sg&list=PLui6Eyny-Uzyp5P3Vcuv5qCHQOC8W6grN&index=28
+	- #go [[move]]
+-
