@@ -1,4 +1,4 @@
-- a [[bot]] 
+- a [[bot]]
 	- part of [[agora bridge]] component of the [[agora]].
 		- [[pull]] [[agora bridge]]
 		- in control of the [[system account]] in supported platforms.
@@ -8,12 +8,14 @@
 			- see `bots/mastodon` in [[go/agora-bridge]].
 		- [[twitter]] https://twitter.com/an_agora
 			- see `bots/twitter` in [[go/agora-bridge]].
+		- [[matrix]] [[agora matrix bot]]
+			-
 	- [[functionality]]
 		- [[current]]
 			- replies to @mentions if the tweet/toot contains [[wikilinks]] with links to anagora.org
 			- follows back
 	- a [[project]]
 		- [x] use the convention
-		- [x] reply to @mentions 
+		- [x] reply to @mentions
 		- reply to @mentions with resolved wikilinks for whole threads
 		- https://twitter.com/flancian/status/1415398630731681793
