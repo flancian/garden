@@ -9,11 +9,15 @@
 		- [[twitter]] https://twitter.com/an_agora
 			- see `bots/twitter` in [[go/agora-bridge]].
 		- [[matrix]] [[agora matrix bot]]
-			-
+			- see [[go/agora-matrix-bot]]
 	- [[functionality]]
 		- [[current]]
 			- replies to @mentions if the tweet/toot contains [[wikilinks]] with links to anagora.org
 			- follows back
+			- starts threads with its replies on [[matrix]]
+			- stores *links* to messages in the [[agora]]
+		- [[planned]]
+			- stores full
 	- a [[project]]
 		- [x] use the convention
 		- [x] reply to @mentions
