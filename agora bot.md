@@ -9,7 +9,7 @@
 		- [[twitter]] https://twitter.com/an_agora
 			- see `bots/twitter` in [[go/agora-bridge]].
 		- [[matrix]] [[agora matrix bot]]
-			- see [[go/agora-matrix-bot]]
+			- see [[go/agora-matrix-bot]], [[mit license]] so separate repo while we figure that out (the [[agora]] is [[apache license]], [[flancia]] is [[creative commons]] plus an [[agora contract]].)
 	- [[functionality]]
 		- [[current]]
 			- replies to @mentions if the tweet/toot contains [[wikilinks]] with links to anagora.org
@@ -24,6 +24,9 @@
 		  :LOGBOOK:
 		  CLOCK: [2022-02-01 Tue 20:49:42]
 		  :END:
-		-
+		- NOW store [[matrix]] messages from [[agora discuss]] and other rooms that opt in?
+		  :LOGBOOK:
+		  CLOCK: [2022-02-01 Tue 20:49:59]
+		  :END:
 		- LATER reply to @mentions with resolved wikilinks for whole threads
 		- https://twitter.com/flancian/status/1415398630731681793
