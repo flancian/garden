@@ -17,9 +17,13 @@
 			- starts threads with its replies on [[matrix]]
 			- stores *links* to messages in the [[agora]]
 		- [[planned]]
-			- stores full
+			- stores full messages in the [[agora]] for users that consent
+				- optionally offers to them [[gitea]] hosting, else forwards updates to a repository of their choice
 	- a [[project]]
-		- [x] use the convention
-		- [x] reply to @mentions
-		- reply to @mentions with resolved wikilinks for whole threads
+		- DONE reply to @mentions
+		  :LOGBOOK:
+		  CLOCK: [2022-02-01 Tue 20:49:42]
+		  :END:
+		-
+		- LATER reply to @mentions with resolved wikilinks for whole threads
 		- https://twitter.com/flancian/status/1415398630731681793
