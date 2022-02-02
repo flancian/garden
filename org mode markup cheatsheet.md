@@ -1,0 +1,3 @@
+- #push [[org mode]]
+	- #pull [[org mode cheatsheet]] [[org mode markup]]
+	- #go http://xahlee.info/emacs/emacs/emacs_org_markup.html
