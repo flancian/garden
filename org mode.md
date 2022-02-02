@@ -1,7 +1,6 @@
-# Org Mode
-
-- [[agora plan]] I should add org mode support to the [[Agora]].
-  - [[orgparse]]
-  - [[orgpython]]
-
-
+- a [[markup]].
+	- [[agora plan]] I should add better org mode support to the [[Agora]].
+		- [[orgparse]]
+		- [[orgpython]]
+		- or use neil's project
+		- or use [[pandoc]]
