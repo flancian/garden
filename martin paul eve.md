@@ -1,2 +1,3 @@
 - a [[person]].
 	- #pull [[warez]]
+	- His 2021 book, Warez, examines the pirate artefacts of the warez scene, arguing for the importance of understanding this culture's artforms.[17] He has further written about the pirate e-book archive, Library Genesis, and its technical infrastructures for Digital Humanities Quarterly.[18]
