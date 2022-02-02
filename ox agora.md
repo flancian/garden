@@ -1,5 +1,6 @@
 - a [[tool]]
-	- [[org mode]] to [[markdown]] converter
+	- #push [[org mode]]
+		- [[org mode]] to [[markdown]] converter
 	- by [[neil]]
 	- the current best way to publish [[org mode]] to the [[agora]]; generates intermediate [[markdown]]
 	- https://org-roam.discourse.group/t/package-dedicated-to-workflows-publishing-digital-garden-on-web/536/24
