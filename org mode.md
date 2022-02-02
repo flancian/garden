@@ -2,7 +2,7 @@
 	- #push [[agora plan]] I should add better org mode support to the [[Agora]].
 		- [[orgparse]]
 		- [[orgpython]]
-		- or use neil's project
+		- or use neil's project, [[ox agora]] (may be the best bet)
 		- or use [[pandoc]]
 	- #go https://orgmode.org/worg/dev/org-syntax.html
 	- #pull [[org mode markup cheatsheet]]
