@@ -1,1 +1,2 @@
-- a [[server]].#go https://discord.gg/QKZRqbESMm
+- a [[server]].
+	- #go https://discord.gg/QKZRqbESMm
