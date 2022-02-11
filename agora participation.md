@@ -1,1 +1,1 @@
-- To participate actively in the Agora is to write explicitly *for* the Agora. It is as easy as mentioning it, or otherwise using the concept in your
+- To participate actively in the Agora is to write explicitly *for* the Agora. It is as easy as mentioning it, or otherwise using the concept in your digital garden.
