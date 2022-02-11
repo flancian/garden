@@ -1,0 +1,43 @@
+- Back from one week in [[argentina]]!
+- [[logseq]]
+	- Keeps somehow misplacing/ignoring my settings, in particular surrounding the date format for my journal filenames. Mildly irksome, in particular given that it generates spurious warning messages while at it:
+		- ![image.png](../assets/image_1644599439384_0.png)
+	- LATER find bug report in [[go/logseq/bugs]] or file a new bug
+		- I think https://github.com/logseq/logseq/issues/3861 is this.
+- [[awesome wiki projects]]
+- [[decentralized identifier]]
+- I have a backlog of things I should do now that we're back
+	- NOW unpack
+	  collapsed:: false
+	  :LOGBOOK:
+	  CLOCK: [2022-02-11 Fri 13:13:37]--[2022-02-11 Fri 18:05:10] =>  04:51:33
+	  CLOCK: [2022-02-11 Fri 19:44:22]
+	  :END:
+	- NOW laundry
+	  collapsed:: false
+	  :LOGBOOK:
+	  CLOCK: [2022-02-11 Fri 13:13:16]--[2022-02-11 Fri 18:04:57] =>  04:51:41
+	  CLOCK: [2022-02-11 Fri 18:05:04]
+	  :END:
+	- NOW upload photos
+	  collapsed:: false
+	  :LOGBOOK:
+	  CLOCK: [2022-02-11 Fri 19:44:18]
+	  :END:
+	- DONE take a nap
+	  collapsed:: false
+	  :LOGBOOK:
+	  CLOCK: [2022-02-11 Fri 13:13:26]--[2022-02-11 Fri 16:57:51] =>  03:44:25
+	  :END:
+	- LATER unigraph review
+	  collapsed:: false
+	- LATER [[autopush]]
+		- [[autopush.sh]]
+		- add arbitrary triggers for [[push]] behaviour, NOW/LATER being obvious candidates
+		- make #push work without [[]]wikilinks
+	- LATER catch up with friends!
+	  collapsed:: false
+	- NOW [[flancia]]
+	  :LOGBOOK:
+	  CLOCK: [2022-02-11 Fri 19:44:13]
+	  :END:
