@@ -1,5 +1,1 @@
-# agora faqs
-
-- #pull [[agora]] [[frequently asked questions]]
-
-
+- #pull [[agora]] [[frequently asked questions]] [[agora faqs]] [[open agora questions]]
