@@ -1,2 +1,3 @@
 - a [[list]].
-- #go https://meta.wikimedia.org/wiki/Awesome_wiki_projects
+	- by [[metasj]]
+	- #go https://meta.wikimedia.org/wiki/Awesome_wiki_projects
