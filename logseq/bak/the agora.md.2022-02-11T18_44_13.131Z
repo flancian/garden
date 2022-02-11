@@ -1,0 +1,1 @@
+- There is [[an agora]] and there is [[the Agora]], an [[entelechy]].
