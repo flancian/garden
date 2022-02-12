@@ -1,2 +1,2 @@
-- #push [[fediverse]] [[agora]]
+- #push [[fediverse]] [[agora]] [[revolución]]
 	- #pull [[distributed federation]] [[knowledge commons]]
