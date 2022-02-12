@@ -1,6 +1,8 @@
 - a [[person]]
 	- [[friend]]
 	- [[twitter]] https://twitter.com/interstar
-	- #go [[twitter]]
+	- #go http://thoughtstorms.info/view/PhilJones
+		- "Guess I'm a typical [[online geek]]."
+		- [[web]] http://www.synaesmedia.net/
 	- [[interstar]] https://twitter.com/interstar/status/1408023292095700993
 	- [[wiki]] [[thought storms]]
