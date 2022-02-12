@@ -11,6 +11,7 @@
 	- [[nitter]]
 	- [[four futures]]
 	- [[arcologies]]
+- [[autopush.sh]]
 - #push [[interstar]] == [[phil jones]]
 	- #go http://thoughtstorms.info/view/PhilJones
 - [[do]]
@@ -18,11 +19,9 @@
 	  :LOGBOOK:
 	  CLOCK: [2022-02-12 Sat 16:50:58]
 	  :END:
-	- #push [[autopush]]
-		- [[autopush.sh]]
-		- NOW autopush: [[digital gardener taxonomy]] should result in gardener descriptions being autopushed to the target nodes (children get pushed to parents)
-		  :LOGBOOK:
-		  CLOCK: [2022-02-12 Sat 16:51:21]
-		  :END:
+	- NOW autopush: [[digital gardener taxonomy]] should result in gardener descriptions being autopushed to the target nodes (children get pushed to parents)
+	  :LOGBOOK:
+	  CLOCK: [2022-02-12 Sat 16:51:21]
+	  :END:
 - [[knowledge federation]]
 - [[revolución]] == [[revolution]]
