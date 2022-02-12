@@ -1,2 +1,2 @@
 - An old [[story]], perhaps misremembered.
-	- A person attends a conference during the [[cold war]] and is surprised to hear citizens of the different socialist republics talk to each other in [[english]] instead of [[russian]], questions them about it. Their answer: "Russian don't break so well.".
+	- A person attends a conference during the [[cold war]] and is surprised to hear people of different socialist republics talk to each other in [[english]] instead of [[russian]], questions them about it. Their answer: "Russian don't break so well.".
