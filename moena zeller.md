@@ -1,3 +1,5 @@
 - a [[person]].
 	- met her in the [[vegetarian fair]].
-	-
+	- #push [[buchbinderei]]
+		- www.buchbinderei.book-bind.ch
+		- book_bind@hotmail.com
