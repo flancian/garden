@@ -1,2 +1,2 @@
 - a [[person]].
-	- met her in the [[]]vegan fair.
+	- met her in the [[vegetarian fair]].
