@@ -1,4 +1,3 @@
 - [[pull]] [[revolution]]
-	- Flancia es la revolución en español para todo el mundo.
-	- Pero Flancia empezó en inglés porque me gustaría usar la lengua académica.
-	-
+	- [[Flancia es la revolución en todos los idiomas para todo el mundo]].
+	- Pero Flancia empezó en [[inglés]] por su alcance y porque me gustaría aprender a usar lenguaje académica.
