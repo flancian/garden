@@ -10,6 +10,4 @@
 	- [[kowloon walled city]]
 	- [[begich towers]]
 	- [[kraftwerk 1]]
-
-
-![[arcology.jpg]]
+	  ![[arcology.jpg]]
