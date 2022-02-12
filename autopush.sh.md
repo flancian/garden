@@ -1,0 +1,2 @@
+- a [[script]].
+	- `autopush.sh` in [[flancian garden]]
