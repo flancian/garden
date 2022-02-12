@@ -1,5 +1,6 @@
 - a [[person]]
+	- [[friend]]
 	- [[twitter]] https://twitter.com/interstar
-		- [[interstar]]
-		
-https://twitter.com/interstar/status/1408023292095700993
+	- #go [[twitter]]
+	- [[interstar]] https://twitter.com/interstar/status/1408023292095700993
+	- [[wiki]] [[thought storms]]
