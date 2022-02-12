@@ -1,3 +1,4 @@
 - a [[book]].
 	- [[peter frase]]
-	- #go
+	- [[amazon]] https://www.amazon.com/Four-Futures-After-Capitalism-Jacobin/dp/1781688133
+	- [[neil]] is liking it
