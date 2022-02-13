@@ -1,3 +1,3 @@
-- a [[poem]].
-	- I am a candle.
-	- I wish I were a [[spaceship]].
+- a [[micro poem]].
+	- i am a [[candle]]
+	- i wish i were a [[spaceship]]!
