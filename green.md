@@ -1,4 +1,7 @@
 - an [[album]].
-	- one of my favourite albums.
+	- [[ambient]]
 	- by [[hiroshi yoshimura]]
-	- [[go]] https://open.spotify.com/album/4lj4MVuqt0BXLhL7UsR1Eo?highlight=spotify:track:6RPQdkI8t1eaG2abymrYVK
+	- one of my [[favourites]]
+	- [[spotify]] https://open.spotify.com/album/4lj4MVuqt0BXLhL7UsR1Eo?highlight=spotify:track:6RPQdkI8t1eaG2abymrYVK
+	- [[youtube]] https://music.youtube.com/playlist?list=OLAK5uy_l9fkJDtInJPFN4xEqOqLNDfo-Rw6Qbzyo
+	- [[go]] https://music.youtube.com/playlist?list=OLAK5uy_l9fkJDtInJPFN4xEqOqLNDfo-Rw6Qbzyo
