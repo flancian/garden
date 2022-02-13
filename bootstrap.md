@@ -1,7 +1,7 @@
 # bootstrap
-
 - [[agora]]
-  - [[vscode]]
-    - [[foam]]
-  - [[garden]]
+	- [[vscode]]
+		- [[foam]]
+		-
+	- [[garden]]
 - [[monitor]]
