@@ -6,5 +6,6 @@
 	- It signals an [[intent]]. My intent is [[getting things done]] with [[good intent]] for [[public utility]].
 		- I'm trying to be explicit about it, a bit ritualistic even.
 		- Whenever I notice the risk of getting distracted from the task at hand, I dump thoughts in [[later]].
-	- My current running contexts or intents can be found in [[do]] (they expand into lists of todo items/trees/graphs depending on level of modelling).
-	- I also use a [[notebook]] for day planning and pomodoro tracking.
+	- My current running contexts or intents can be found in [[do]] (they expand into lists of todo items/trees/graphs depending on level of modelling) and, well, in this [[agora]].
+		- I am not particularly great at integrating tasks into a single place for organized ordering; to solve (or work around?) this issue it is in part that I started this Agora.
+	- I also use a [[paper notebook]] for day planning and tracking.
