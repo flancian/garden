@@ -1,0 +1,3 @@
+- a [[person]].
+	- #go https://hack-the-planet.neocities.org
+	- #mastodon @theruran@hackers.town

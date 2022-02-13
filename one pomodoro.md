@@ -1,0 +1,2 @@
+- #push [[pomodoro]]
+	- #go https://www.bigtimer.net/?minutes=25&repeat=false
