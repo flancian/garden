@@ -8,12 +8,12 @@
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
-           :name "flancian"
-           :alias "flancia"
+           :name ""
+           :alias ""
            ;; your twitter handle
-           :twitter "flancian"
+           :twitter ""
            ;; description supports both hiccup and html
-           :description "https://anagora.org/@flancian"}
+           :description ""}
 
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
