@@ -1,1 +1,3 @@
-- #pull [[radijo musikii]] [[dai]] [[greg]] [[oscar]]
+- a [[program]].
+	- [[radio]]
+	- #pull [[radijo musikii]] [[dai]] [[greg]] [[oscar]]
