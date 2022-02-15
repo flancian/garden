@@ -1,0 +1,1 @@
+- #pull every [[weekday]] comes with a [[weeknight]], until it doesn't
