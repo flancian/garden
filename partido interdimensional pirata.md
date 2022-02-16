@@ -1,3 +1,1 @@
-- #pull [[partido pirata]]
--
--
+- #pull [[partido pirata]] [[quiero ser pirata]]
