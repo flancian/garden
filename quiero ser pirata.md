@@ -1,1 +1,1 @@
-- #go https://utopia.partidopirata.com.ar/quiero_ser_pirata.html
+-
