@@ -1,2 +1,2 @@
-# ADHD
-	- See also: [[ADD]] [[efd]]
+- #push [[add]] [[efd]]
+	- https://www.additudemag.com/secrets-of-the-adhd-brain/
