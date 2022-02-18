@@ -1,1 +1,4 @@
-- #pull ]]
+- #push [[adhd]] [[add]] [[efd]]
+	- #pull [[interest]] [[challenge]] [[novelty]] [[urgency]]
+		- #go https://oaktreecounselor.com/blog/adult-adhd-lazy
+		-
