@@ -61,52 +61,52 @@
 		- something with [[flancia collective]] for [[compost]]!
 	- [[at mention followers]]
 ## [[2021-10-24]]
-- [[agora development]]
-- [[repair day]]
-- previously a [[software developer]], now [[tech lead]]
-- [[agora]]
-	- moving context/sidebar to the side
-	- light mode improvements
-- default [[agora editor]] -- something that could be offered by us to users that don't have a digital garden already
-- [[bangle]]
-- [[fedwiki]]
-	- how to make it play well with other platforms?
-	- [[markdown export]]?
-- [[indieweb]]
-	- [[generations]] https://indieweb.org/generations
-	- [[social feed reader]]
-		- [[indigeneous]] on mobile
-		- [[monocle]] on web
-		- [[all together now]] https://alltogethernow.io
-		- [[aperture]] microsub server
-		- [[brid.gy]]
-- [[two ways to post to the agora from social media]]
-## [[2021-10-06]]
-- [[cumbria]]
-	- [[lakes district]]
-- [[spaced repetition]]
-	- [[nowtions]]
-		- https://commonplace.doubleloop.net/nowtions
-		- inspired by [[andy matuschak]]
-		- [[top of mind]]
-		- simple spaced repetition by [[anne-laure le cunff]] https://nesslabs.com/spaced-repetition-roam-research
-- [[the restart project]]
-	- is there a good book to get started in the repair movement?
-	- https://wiki.restarters.net
-- [[push]] [[2021-10-16]]
-	- [[open repair]]
-	- [[repair day 2021]]
-- [[cooperative movement]]
-	- interest in alternate modes of organization
-	- https://coops.tech
-- [[disco]]
-- [[four types of anti capitalism]]
-- [[walkaway]]
-- [[fedwiki]]
-	- [[the chorus of voices]]
-	- [[free, fair and alive]]
-- [[indie web]]
-	- has a fantastic wiki, [[media wiki]] based
-- [[theories of change]]
-	- [[community of practice]]
--
+	- [[agora development]]
+	- [[repair day]]
+	- previously a [[software developer]], now [[tech lead]]
+	- [[agora]]
+		- moving context/sidebar to the side
+		- light mode improvements
+	- default [[agora editor]] -- something that could be offered by us to users that don't have a digital garden already
+	- [[bangle]]
+	- [[fedwiki]]
+		- how to make it play well with other platforms?
+		- [[markdown export]]?
+	- [[indieweb]]
+		- [[generations]] https://indieweb.org/generations
+		- [[social feed reader]]
+			- [[indigeneous]] on mobile
+			- [[monocle]] on web
+			- [[all together now]] https://alltogethernow.io
+			- [[aperture]] microsub server
+			- [[brid.gy]]
+	- [[two ways to post to the agora from social media]]
+- ## [[2021-10-06]]
+	- [[cumbria]]
+		- [[lakes district]]
+	- [[spaced repetition]]
+		- [[nowtions]]
+			- https://commonplace.doubleloop.net/nowtions
+			- inspired by [[andy matuschak]]
+			- [[top of mind]]
+			- simple spaced repetition by [[anne-laure le cunff]] https://nesslabs.com/spaced-repetition-roam-research
+	- [[the restart project]]
+		- is there a good book to get started in the repair movement?
+		- https://wiki.restarters.net
+	- [[push]] [[2021-10-16]]
+		- [[open repair]]
+		- [[repair day 2021]]
+	- [[cooperative movement]]
+		- interest in alternate modes of organization
+		- https://coops.tech
+	- [[disco]]
+	- [[four types of anti capitalism]]
+	- [[walkaway]]
+	- [[fedwiki]]
+		- [[the chorus of voices]]
+		- [[free, fair and alive]]
+	- [[indie web]]
+		- has a fantastic wiki, [[media wiki]] based
+	- [[theories of change]]
+		- [[community of practice]]
+	-
