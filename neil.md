@@ -1,15 +1,13 @@
-# Neil
-
- - A [[person]].
+- a [[person]].
 	- [[friend]]
-	- [[doubleloop]]
+	- #pull [[doubleloop]] [[neil]]
 	- I like his writing and really appreciate his presence in this [[agora]].
 	- [[pull]] [[@neil]]
 	- [[mastodon]] @neil@social.coop
 	- [[social coop]]
-	- Uses [[org-roam]]. 
+	- Uses [[org-roam]].
 	- [[matrix]] @doubleloop:matrix.org
-
+- A [[person]].
 ## [[2021-12-11]]
 - ahoy!
 	- https://meet.jit.si/DoubleloopFlancian
@@ -23,8 +21,8 @@
 	- [[ritualized togetherness]]
 	- [[node club]]
 - to cooperate perhaps you need:
-  - a point (coordination) -- [[node]]
-  - and optionally but very usefully a direction
+	- a point (coordination) -- [[node]]
+	- and optionally but very usefully a direction
 - [[zettelkasten]] patterns
 	- [[free, fair and alive]]
 	- [[notions]]
@@ -47,36 +45,35 @@
 	- [[socrates]]
 	- [[huginn]]
 - [[conversations]]
-  - with books
+	- with books
 	- [[information theory]] -> [[conversation theory]]
-		- [[anarchist cybernetics]]
-			- goes back to how to integrate the thoughts of a whole community for determining the direction we want to take as commoners
+	- [[anarchist cybernetics]]
+		- goes back to how to integrate the thoughts of a whole community for determining the direction we want to take as commoners
 - [[solve poverty]]
 - [[demo]] of [[neil]]'s workflow
-  - [[org mode]]
-  - [[micropub]] endpoint
-		- set up by wordspress plugin
+	- [[org mode]]
+	- [[micropub]] endpoint
+	- set up by wordspress plugin
 	- post ends up in https://doubleloop.net and social media (social.coop)
-		- [[quill]]
+	- [[quill]]
 	- [[question]] is there a micropub endpoint provider that just writes resources to a git repository?
 	- [[push]] [[indieweb]]
-		- [[posse]] [[pesos]]
+	- [[posse]] [[pesos]]
 - [[push]] [[write]]
-  - something with [[flancia collective]] for [[compost]]!
+	- something with [[flancia collective]] for [[compost]]!
 - [[at mention followers]]
-
 ## [[2021-10-24]]
 - [[agora development]]
 - [[repair day]]
 - previously a [[software developer]], now [[tech lead]]
 - [[agora]]
-  - moving context/sidebar to the side
-  - light mode improvements
-- default [[agora editor]] -- something that could be offered by us to users that don't have a digital garden already 
+	- moving context/sidebar to the side
+	- light mode improvements
+- default [[agora editor]] -- something that could be offered by us to users that don't have a digital garden already
 - [[bangle]]
 - [[fedwiki]]
-  - how to make it play well with other platforms?
-  - [[markdown export]]?
+	- how to make it play well with other platforms?
+	- [[markdown export]]?
 - [[indieweb]]
 	- [[generations]] https://indieweb.org/generations
 	- [[social feed reader]]
@@ -86,13 +83,12 @@
 		- [[aperture]] microsub server
 		- [[brid.gy]]
 - [[two ways to post to the agora from social media]]
-
 ## [[2021-10-06]]
 - [[cumbria]]
 	- [[lakes district]]
 - [[spaced repetition]]
-	- [[nowtions]] 
-  	- https://commonplace.doubleloop.net/nowtions
+	- [[nowtions]]
+		- https://commonplace.doubleloop.net/nowtions
 		- inspired by [[andy matuschak]]
 		- [[top of mind]]
 		- simple spaced repetition by [[anne-laure le cunff]] https://nesslabs.com/spaced-repetition-roam-research
@@ -115,4 +111,4 @@
 	- has a fantastic wiki, [[media wiki]] based
 - [[theories of change]]
 	- [[community of practice]]
-- 
+-
