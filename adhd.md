@@ -1,5 +1,2 @@
 # ADHD
-
- - See also: [[ADD]].
-
-
+	- See also: [[ADD]] [[efd]]
