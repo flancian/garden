@@ -1,0 +1,8 @@
+- [[agora bot]]
+	- LATER fix: [[agora bot mastodon]] keeps going offline
+	- LATER make [[agora bot matrix]] link messages
+	- LATER implement /random/n as returning a list of nodes?
+	- LATER implement go/<date>/move, redirecting to the right video, probably using [[virtual subnodes]]
+	- LATER clean the house
+	- LATER run collect over [[do]] and [[logseq]] tasks
+	- NOW
