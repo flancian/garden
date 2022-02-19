@@ -4,7 +4,8 @@
 	- or just [[pull]] the jitsi stoa in this node :)
 - [[2022-02-19]]
 	- [[bouncepaw]] [[vera]] [[flancian]] [[will]]
-	-
+	- [[bouncepaw]]
+		- will be missing next ~7 instances of this probably due to classes on Saturday morning
 ## [[2022-01-29]]
 - [[bouncepaw]] [[flancian]]
 - [[anchors]]
