@@ -1,0 +1,14 @@
+- [[agora bot]]
+	- LATER fix: [[agora bot mastodon]] keeps going offline
+	- LATER make [[agora bot matrix]] link messages
+	- LATER implement /random/n as returning a list of nodes?
+	- LATER implement go/<date>/move, redirecting to the right video, probably using [[virtual subnodes]]
+	- LATER clean the house
+	- LATER run collect over [[do]] and [[logseq]] tasks
+	- LATER review [[agora frs]], [[agora rfcs]]
+	- LATER implement 'add pull', perhaps by adding a line to the stoa? hmm.
+	- LATER write about 1..17 as they relate to my counting [[meditation practice]]
+	- NOW [[flancia meet]]
+	  :LOGBOOK:
+	  CLOCK: [2022-02-18 Fri 23:57:25]
+	  :END:
