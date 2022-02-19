@@ -9,7 +9,9 @@
 	- [[will]]
 		- doing ok
 	- [[vera]]
-		-
+		- [[birthday]] on [[wednesday]]
+		- happy birthday!
+	-
 ## [[2022-01-29]]
 - [[bouncepaw]] [[flancian]]
 - [[anchors]]
