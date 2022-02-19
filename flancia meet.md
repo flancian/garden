@@ -6,6 +6,10 @@
 	- [[bouncepaw]] [[vera]] [[flancian]] [[will]]
 	- [[bouncepaw]]
 		- will be missing next ~7 instances of this probably due to classes on Saturday morning
+	- [[will]]
+		- doing ok
+	- [[vera]]
+		-
 ## [[2022-01-29]]
 - [[bouncepaw]] [[flancian]]
 - [[anchors]]
