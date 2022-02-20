@@ -1,4 +1,4 @@
 - a [[course]].
 	- #go https://www.capracourse.net
-	- sounds amazing!
+	- sounds amazing! let's see :)
 	- #pull [[frijof capra]] [[patterns of connection]] [[systems and cybernetics]]
