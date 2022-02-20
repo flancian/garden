@@ -1,1 +1,4 @@
-- #pull [[dan dennett]]
+- a [[person]].
+	- [[philosopher]] [[writer]]
+	- #pull [[dan dennett]]
+	- [[friend]] [[douglas hofstadter]]
