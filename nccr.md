@@ -1,1 +1,2 @@
-- #go https://nccr-onthemove.ch/wp_live14/wp-content/uploads/2020/11/nccrotm-Migration-Mobility-Survey-2020.pdf
+- #pull [[national centers of competence in research]]
+	- #go https://nccr-onthemove.ch/wp_live14/wp-content/uploads/2020/11/nccrotm-Migration-Mobility-Survey-2020.pdf
