@@ -1,0 +1,5 @@
+- a [[book]].
+	- [[daniel dennett]]
+	- [[skyhooks]] vs [[cranes]]
+	- the [[library of mendel]] is in the [[library of babel]]
+	- [[the library of babel]] is in the [[library of mendel]]
