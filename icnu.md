@@ -1,4 +1,4 @@
-- #push [[adhd]] [[add]] [[efd]]
+- a [[framework]].
+	- #push [[adhd]] [[add]] [[efd]]
 	- #pull [[interest]] [[challenge]] [[novelty]] [[urgency]]
 		- #go https://oaktreecounselor.com/blog/adult-adhd-lazy
-		-
