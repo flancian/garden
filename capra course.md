@@ -7,3 +7,4 @@
 		- "After the last lecture is released on May 11, 2022, all 12 lectures will be accessible until June 22, 2022. The course will then be closed and alumni will be transferred to our Alumni Network."
 		- "Please watch the video for each lecture, read the lecture summary, and then head on over to the Forum for discussion."
 		- "You may begin by making connections with other students in the course any time using the forums or by reading the introduction to [[The Systems View of Life]] in preparation for the course."
+	- [[forum]] https://spring.capracourse.net/forum/
