@@ -1,0 +1,3 @@
+- a [[book]].
+	- [[fritjof capra]]
+	- [[introduction]] https://spring.capracourse.net/wp-content/uploads/2020/12/Introduction.pdf
