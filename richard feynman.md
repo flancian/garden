@@ -6,4 +6,4 @@
 		- [[surely you're joking]]
 			- I think also a second book in the same vein, forget its name, [[link]]
 		- [[six easy pieces]]
-	
+	- [[goof]] https://www.wm.edu/news/stories/2020/feynmans-advice-to-wm-student-resonates-45-years-later.php
