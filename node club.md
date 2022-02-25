@@ -1,4 +1,5 @@
 # node club
-- a [[program]].
+- a [[program]]
+	- [[steward]]
+		- [[neil]]
 	- [[flancia collective]]
-	- [[neil]] is our [[steward]]
