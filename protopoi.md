@@ -1,9 +1,4 @@
 # Protopoi
-- a [[morphism]]?
-	- [[pull]] [[category theory]]
-	- an [[operation]].
-		- [[incremental]] [[improvement]]
-		- [[flancian]] https://twitter.com/flancian/status/1401276470438371329
 - a [[space]].
 	- of possible [[protopias]].
 	- [[pull]] [[protopoi space]] [[protopia]].
@@ -14,4 +9,9 @@
 		- [[go]] [[playlist]]
 	- I dream of like minded people exploring [[m prime]] within the [[agora]] and any other tools and platforms well suited for [[modelling]] [[incremental improvements]] and running projects of [[public utility]].
 	- See also [[protopoi reading club]].
--
+- a [[morphism]]?
+	- [[pull]] [[category theory]]
+	- it *can* be thought of as an [[operation]].
+		- a [[state]] and an [[algorithm]] yielding [[incremental]] [[improvement]]
+		- a genetic process?
+		- [[flancian]] https://twitter.com/flancian/status/1401276470438371329
