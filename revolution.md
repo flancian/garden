@@ -2,14 +2,14 @@
 - a [[process]].
 	- #pull [[revolutions]]
 	- [[political action]] [[disruptive]]
-	- ocassionally, but not necessarily in the end, [[disruptive]]?
-		- my current best known proposal is the [[flancia revolution]], which is designed to be reasonably all-optional
+		- ocassionally, but not necessarily in the end, [[disruptive]]?
+			- my current best known proposal is the [[flancia revolution]], which is designed to be reasonably all-optional (see below)
 	- [[wp]] https://en.wikipedia.org/wiki/Revolution
 		- [[quote]] a revolution (Latin: revolutio, "a turn around") is a [[fundamental]] and [[relatively sudden]] change in [[political power]] and political organization which occurs [[when the population revolts against the government]], typically due to perceived [[oppression]] (political, social, economic) or political incompetence.
 	- [[aristotle]] describes two types of [[political revolution]]:
 		- [[complete change]] from one [[constitution]] to another
 		- [[modification]] of an existing constitution.
-	- [[pull]] [[hannah arendt]] [[peter singer]] [[satyagraha]]
+	- [[pull]] [[hannah arendt]] [[peter singer]] [[satyagraha]] [[frederick engels]]
 - Flancia is meant to be a [[loving kindness]] revolution.
 	- #push [[revolution in the twenty first century]]
 		- I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
