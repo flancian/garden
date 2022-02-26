@@ -1,2 +1,2 @@
 - a [[book]].
-	- #pull research
+	- #pull [[research]] [[patterns]]
