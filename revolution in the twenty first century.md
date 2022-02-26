@@ -1,11 +1,12 @@
 - a [[node club]] entry.
 	- #pull [[revolution in the 21st century]]
 	- I believe the twenty first century might be an amazing time to be alive. it is the time of a really big change.
-		- It is this simple: we will get to a better world through a series of well meaning cooperative revolutions.
-		- [[Flancia]] tries to define my proposal for one such revolution through a variety of means, from a set of viewpoints.
-			- These are my core beliefs: in [[Flancia]] there is no [[poverty]], in [[Flancia]] there is an [[Agora]], [[in Flancia one day we'll meet]].
-	- #pull [[2000s]] [[perhaps naive]]
+		- It is this simple: we will get to a better world through a series of well meaning cooperative revolutions -- those unlocked via solving [[coordination problems]], for example.
 - a [[list]].
 	- #pull [[21st century revolutions]]
 	- [[venezuela]]
 	- [[ocalan]]
+	- #push [[flancia]]
+		- [[Flancia]], in all its shapes, tries to define my proposal for one such well meaning revolution through a variety of means, from a set of viewpoints.
+			- These are my core beliefs: in [[Flancia]] there is no [[poverty]], in [[Flancia]] there is an [[Agora]], [[in Flancia one day we'll meet]].
+		- #pull [[2000s]] [[perhaps naive]]
