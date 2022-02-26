@@ -1,2 +1,2 @@
 - #pull [[poverty]]
--
+	- In Flancia they solved [[poverty]] by [[2030]].
