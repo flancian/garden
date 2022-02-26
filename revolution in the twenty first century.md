@@ -4,6 +4,6 @@
 	- It is this simple: we will get to a better world through a series of well meaning cooperative revolutions.
 	- [[Flancia]] tries to define my proposal for one such revolution through a variety of means, from a set of viewpoints.
 		- These are my core beliefs: in [[Flancia]] there is no [[poverty]], in [[Flancia]] there is an [[Agora]], [[in Flancia one day we'll meet]].
-	- #pull [[a timeline of the 21st century]] [[perhaps naive]]
+	- #pull [[2000s]] [[perhaps naive]]
 - a [[list]].
 	- #pull [[21st century revolutions]]
