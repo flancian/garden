@@ -1,3 +1,4 @@
-- my [[fave]] so far.
-- #pull [[twenty first century]] [[2000s]]
--
+- a [[century]].
+	- my [[favourite]] so far.
+	- #pull [[twenty first century]] [[2000s]]
+	- #pull [[revolution in the twenty first century]]
