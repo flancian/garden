@@ -2,6 +2,7 @@
 	- #pull [[revolution in the 21st century]]
 	- I believe the twenty first century might be amazing. it is the time of a really big change.
 	- It is this simple: we will get to a better world through a series of well meaning cooperative revolutions.
-	- [[Flancia]] tries to define my proposal for one such revolution through a variety of means and from a set of viewpoints.
+	- [[Flancia]] tries to define my proposal for one such revolution through a variety of means, from a set of viewpoints.
+		- These are my core beliefs: in [[Flancia]] there is no [[poverty]], and in [[Flancia]] there is an [[Agora]]!
 - a [[list]].
 	- #pull [[21st century revolutions]]
