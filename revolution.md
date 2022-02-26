@@ -1,6 +1,6 @@
 # Revolution
 - a [[thing]].
-	-
+	- #pull [[revolutions]]
 	- [[political action]] [[disruptive]]
 	- ocassionally, but not necessarily in the end, [[disruptive]]
 		- my proposal for the revolution is the [[flancian revolution]], which is designed to be reasonably all-optional
