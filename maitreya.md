@@ -1,0 +1,4 @@
+- a [[person]].
+	- or an [[egregore]].
+	- I believe [[maitreya]] will be the [[internet]], or the [[internet]] will be [[maitreya]]
+	-
