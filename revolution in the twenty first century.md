@@ -1,3 +1,3 @@
-- a [[node club]] instance.
+- a [[node club]].
 	- #pull [[revolution in the 21st century]]
 	-

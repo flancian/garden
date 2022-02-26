@@ -1,4 +1,4 @@
 - a [[century]].
-	- my [[favourite]] so far.
+	- my [[favorite]] so far.
 	- #pull [[twenty first century]] [[2000s]]
 	- #pull [[revolution in the twenty first century]]
