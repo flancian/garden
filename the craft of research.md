@@ -1,3 +1,4 @@
 - a [[book]].
 	- #pull [[research]] [[patterns]]
-	- [[portuguese]] [[Portuguese: A arte da pesquisa]]
+	- [[portuguese]] [[a arte da pesquisa]]
+	- [[español]] [[cómo convertirse en un hábil investigador]]
