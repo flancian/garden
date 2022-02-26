@@ -1,3 +1,5 @@
-- a [[node club]].
+- a [[node club]] entry.
 	- #pull [[revolution in the 21st century]]
-	-
+	- I believe the twenty first century might be amazing.
+- a [[list]].
+	- #pull [[21st century revolutions]]
