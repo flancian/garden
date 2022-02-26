@@ -1,0 +1,1 @@
+- I'm definitely getting to [[Flancia]] if I manage to pull it off, would you like to join me?
