@@ -3,7 +3,6 @@
 	- #go https://aeon.co/ideas/utopia-is-a-dangerous-ideal-we-should-aim-for-protopia
 	- #pull [[eutopia]] [[patterns]]
 	- [[Flancia]] tries to be an exploration of [[protopoi space]].
-		-
 		- It is an exploration of [[protopoi space]].
 		- #pull [[protopoi]]
 	-
