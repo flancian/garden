@@ -13,8 +13,10 @@
 - Flancia is meant to be a [[loving kindness]] revolution.
 	- #push [[revolution in the twenty first century]]
 		- I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
-			- [[protopoi]] is the [[space]] of composable [[atomic revolutions]]; rational changes for the better.
-			- we can [[explore]] it together
+			- [[protopoi]] is the [[space]] of composable [[atomic revolutions]]; rational and well meaning changes for the better.
+				- we can [[explore]] it together!
+			- In Flancia we build a [[commons]].
+				- #pull [[knowledge commons]]
 	- I am a [[flancian]] and this [[agora]] is meant to be a [[manifesto]].
 	- https://twitter.com/flancian/status/1368252143338192898
 	- https://twitter.com/flancian/status/1462091524985045001
