@@ -1,5 +1,7 @@
 - a [[node club]] entry.
 	- #pull [[revolution in the 21st century]]
-	- I believe the twenty first century might be amazing.
+	- I believe the twenty first century might be amazing. it is the time of a really big change.
+	- we will get to a better world through a well meaning cooperative revolution.
+	- [[flancia]] is my submission.
 - a [[list]].
 	- #pull [[21st century revolutions]]
