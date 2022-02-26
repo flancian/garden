@@ -1,3 +1,5 @@
 - #push [[revolutions]]
 	- #pull [[flancian revolution]] [[loving kindness revolution]]
+	- [[in flancia there is no poverty]]
 	- [[in flancia there are no walled gardens]]
+	- [[in flancia we all thrive]]
