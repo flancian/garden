@@ -8,5 +8,5 @@
 	- [[ocalan]]
 	- #push [[flancia]]
 		- [[Flancia]], in all its shapes, tries to define my proposal for a well meaning revolution -- for common good, through a variety of means, from public viewpoints.
-			- These are my core beliefs: in [[Flancia]] there is no [[poverty]], [[in Flancia we'll meet]], [[in Flancia there is an Agora]].
+			- These are my core beliefs: [[in Flancia there is no poverty]], [[in Flancia there is an Agora]], [[in Flancia we'll meet]].
 		- #pull [[2000s]] [[perhaps naive]]
