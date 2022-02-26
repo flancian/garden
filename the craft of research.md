@@ -1,2 +1,3 @@
 - a [[book]].
 	- #pull [[research]] [[patterns]]
+	- [[portuguese]] [[Portuguese: A arte da pesquisa]]
