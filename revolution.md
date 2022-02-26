@@ -9,7 +9,8 @@
 	- [[aristotle]] describes two types of [[political revolution]]:
 		- [[complete change]] from one [[constitution]] to another
 		- [[modification]] of an existing constitution.
-	- [[pull]] [[hannah arendt]] [[peter singer]] [[satyagraha]] [[frederick engels]]
+	- #pull  [[peter singer]] [[frederick engels]] [[karl marx]] [[hans widmer]]
+	- #pull [[buddha]] [[satyagraha]] [[non violence]]
 - Flancia is meant to be a [[loving kindness]] revolution.
 	- #push [[revolution in the twenty first century]]
 		- I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
