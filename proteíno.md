@@ -5,8 +5,12 @@
 		- I'm a fan
 	- [[coop]]
 		- #pull [[caramel city]] [[vanilla drive]] [[choco mountain]]
+		- produced by [[chiefs]]
 	- [[migros]]
 		- #pull [[caramel tasty]] [[vanilla flavour]] [[choco]]
 		- (they didn't put a lot into naming consistency)
+	- [[aldi]]
+		- these disappeared suddenly, just like [[caramel city]] in coop earlier
+		- this youtube video says they are produced by [[ehrmann]]: https://www.youtube.com/watch?app=desktop&v=Z2mMpiVG4Yg
 	- https://twitter.com/flancian/status/1391175842944987137
-	- [[aldi]] https://www.youtube.com/watch?app=desktop&v=Z2mMpiVG4Yg
+	-
