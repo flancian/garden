@@ -37,4 +37,4 @@
 - [[2022-02-27]]
 	- [[burnout]] last year
 	- studying [[data science]], then took a break to on a [[startup]]
-	- a startup has a [[culture]]
+	- a startup is a [[group]], has a [[culture]]
