@@ -1,0 +1,40 @@
+# 2022-01-29
+- [[agora]]
+	- [[agora server]]
+		- [[caching]] experiments
+- [[flancia meets]]
+	- [[flancia meet]]
+		- #push [[anchors]]
+			- I'd been thining about anchors due to [[obsidian block anchors]] and the topic came up again today; [[bouncepaw]] is thinking about many of the same things. We decided to try to work on [[anchors]] together; try to agree on shared conventions.
+			- [[anchors]] for me generalize to the problem of transmitting [[context]], [[scope]]. I've been exploring these problems with [[push]] and [[pull]].
+	- caught up with [[metasj]] in the evening too, about the [[commons]] and [[shared pools]].
+- [[agora discuss]]
+	- #push [[hubs]]
+		- [[mozilla hubs]]
+- [[flancia]]
+	- [[identity]]
+	- [[lady burup]]
+- #push [[taking a break]]
+	- https://twitter.com/flancian/status/1487452619710812167
+	- https://pinafore.social/statuses/107706639651632416 == https://social.coop/@flancian/107706638618523252
+- [[pomodoros]]
+	- [x] [[cleanup]]
+	- [x] [[chat]]
+	- [x] [[chat]]
+	- [x] [[matrix bot]]
+		- took a break, see above :)
+		- with ten minutes left, let's see...
+		- (now writing this in [[logseq]])
+		- #push [[maubot]]
+			- [[setup]] https://docs.mau.fi/maubot/usage/setup/index.html
+			- [[alembic]]
+			- liking the experience so far
+			- installed plugins:
+			  collapsed:: false
+				- https://github.com/maubot/rss
+				- https://github.com/maubot/ping
+				- #push [[agora bot matrix]]
+					- is now up and running in [[agora discuss]] and [[agora development]]
+					- based it on https://github.com/TomCasavant/RedditMaubot which is a bit of a joke bot, but as an example it was good enough ;) and MIT licensed
+					- in its own git repo for now, might just move all code to [[agora bridge]] so it coexists with social media bots though?
+- we bought a lot of chocolate today to bring as gift to family and friends :)
