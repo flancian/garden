@@ -3,9 +3,9 @@
 	- I believe the twenty first century might be an amazing time to be alive.
 		- It seems to me it will be a time of really big changes -- hopefully mostly for the better, in the sense as affecting most people for good.
 		- #push [[flancia]]
-			- [[Flancia]], in all its shapes, tries to define my proposal for a well meaning [[loving kindness]] revolution -- for the [[common good]], through a variety of means, from public viewpoints.
+			- [[Flancia]], in all its shapes, tries to define my proposal for a [[protopian]] [[loving kindness]] revolution -- for the [[common good]], through a variety of means, from public viewpoints.
 				- We will get (we have always gotten) to a better world through a series of well meaning cooperative reforms and revolutions -- those unlocked via solving [[coordination problems]].
-				- These are my core beliefs: [[in Flancia there is no poverty]], [[in Flancia there is no violence]], [[in Flancia there is an Agora]], [[in Flancia we'll meet]].
+				- These are my core beliefs: [[in Flancia there is no poverty]], [[in Flancia there is no violence]], [[in Flancia there is an Agora]], [[in Flancia we will meet]].
 			- #pull [[2000s]] [[timelines]] [[building bridges]] [[perhaps naive]]
 - a [[list]].
 	- #push [[21st century revolutions]]
