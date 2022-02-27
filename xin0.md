@@ -34,4 +34,6 @@
 		- it might be a tax code distinction at root?
 - [[democracy]]
 	- [[exit, voice and loyalty]]
-	-
+- [[2022-02-27]]
+	- [[burnout]] last year
+	- studying [[data science]]
