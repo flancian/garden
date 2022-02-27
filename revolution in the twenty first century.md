@@ -4,6 +4,7 @@
 		- It is this simple: we will get (we have always gotten) to a better world through a series of well meaning cooperative revolutions -- those unlocked via solving [[coordination problems]], for example.
 - a [[list]].
 	- #push [[21st century revolutions]]
+		- #pull [[internet revolution]]
 		- #pull [[venezuelan revolution]]
 		- #pull [[kurdish revolution]]
 		- #pull [[russian revolution of 2023]]
