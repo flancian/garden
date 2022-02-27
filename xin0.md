@@ -40,4 +40,6 @@
 	- a startup is a [[group]], has a [[culture]]
 	- [[unigraph]]
 	- [[agora]]
+		- is it a [[decentralized think tank]] plus a set of tools to optimize itself?
+		- yeah, pretty much :)
 		-
