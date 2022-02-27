@@ -4,7 +4,8 @@
 		- It is this simple: we will get (we have always gotten) to a better world through a series of well meaning cooperative revolutions -- those unlocked via solving [[coordination problems]], for example.
 - a [[list]].
 	- #pull [[21st century revolutions]]
-	- [[venezuela]]
+	- #pull [[russian revolution of 2023]]
+	- [[venezuelan revolution]]
 	- [[ocalan]]
 	- #push [[flancia]]
 		- [[Flancia]], in all its shapes, tries to define my proposal for a well meaning revolution -- for common good, through a variety of means, from public viewpoints.
