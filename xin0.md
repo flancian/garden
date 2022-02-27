@@ -38,3 +38,6 @@
 	- [[burnout]] last year
 	- studying [[data science]], then took a break to on a [[startup]]
 	- a startup is a [[group]], has a [[culture]]
+	- [[unigraph]]
+	- [[agora]]
+		-
