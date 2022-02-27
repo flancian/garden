@@ -6,9 +6,9 @@
 	- #pull [[21st century revolutions]]
 	- #pull [[russian revolution of 2023]]
 	- [[venezuelan revolution]]
-	- [[ocalan]])(((((((((((((((())))))))))))))))
-	- +#pull [[2000s+]z23333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333x54iu
-	- #pujjjJJJJJJJJJJJJJsh [[flancia]]
+	- [[ocalan]]
+	- #pull
+	- #push [[flancia]]
 		- [[Flancia]], in all its shapes, tries to define my proposal for a well meaning revolution -- for common good, through a variety of means, from public viewpoints.
 			- These are my core beliefs: [[in Flancia there is no poverty]], [[in Flancia there is an Agora]], [[in Flancia we'll meet]].
 		- #pull [[2000s]] [[perhaps naive]]
