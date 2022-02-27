@@ -1,4 +1,2 @@
 # protein pudding
-
-- [[pull]] [[proteíno]] [[caramel city]]
-
+- [[pull]] [[proteíno]] [[caramel city]] [[caramel tasty]]
