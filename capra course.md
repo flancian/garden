@@ -8,3 +8,4 @@
 		- "Please watch the video for each lecture, read the lecture summary, and then head on over to the Forum for discussion."
 		- "You may begin by making connections with other students in the course any time using the forums or by reading the introduction to [[The Systems View of Life]] in preparation for the course."
 	- [[forum]] https://spring.capracourse.net/forum/
+	- [[lecture 1 summary]] https://spring.capracourse.net/wp-content/uploads/2016/06/Lecture-1-Summary.pdf
