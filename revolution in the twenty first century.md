@@ -1,6 +1,7 @@
 - a [[node club]] entry.
 	- #pull [[revolution in the 21st century]]
-	- I believe the twenty first century might be an amazing time to be alive. it is the time of a really big change.
+	- I believe the twenty first century might be an amazing time to be alive.
+		- It seems to me it will be a time of really big change.
 		- It is this simple: we will get (we have always gotten) to a better world through a series of well meaning cooperative revolutions -- those unlocked via solving [[coordination problems]], for example.
 - a [[list]].
 	- #push [[21st century revolutions]]
