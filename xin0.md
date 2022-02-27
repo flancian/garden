@@ -44,4 +44,4 @@
 		- yeah, pretty much :)
 	- [[barrier of entry]]
 		- [[tech]] but also [[concepts]]
-		-
+		- [[xin0]] == xin-zero as in [[spanish]] == []
