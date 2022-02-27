@@ -3,11 +3,12 @@
 	- I believe the twenty first century might be an amazing time to be alive. it is the time of a really big change.
 		- It is this simple: we will get (we have always gotten) to a better world through a series of well meaning cooperative revolutions -- those unlocked via solving [[coordination problems]], for example.
 - a [[list]].
-	- #pull [[21st century revolutions]]
-	- #pull [[russian revolution of 2023]]
-	- [[venezuelan revolution]]
-	- [[ocalan]]
-	- #pull
+	- #push [[21st century revolutions]]
+		- #pull [[venezuelan revolution]]
+		- #pull [[kurdish revolution]]
+		- #pull [[russian revolution of 2023]]
+		- #pull [[flancian revolution of 2025]]
+		- #pull [[international revolution of 2030]]
 	- #push [[flancia]]
 		- [[Flancia]], in all its shapes, tries to define my proposal for a well meaning revolution -- for common good, through a variety of means, from public viewpoints.
 			- These are my core beliefs: [[in Flancia there is no poverty]], [[in Flancia there is an Agora]], [[in Flancia we'll meet]].
