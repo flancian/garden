@@ -36,4 +36,4 @@
 	- [[exit, voice and loyalty]]
 - [[2022-02-27]]
 	- [[burnout]] last year
-	- studying [[data science]]
+	- studying [[data science]], then took a break to on a [[startup]]
