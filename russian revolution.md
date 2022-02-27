@@ -1,0 +1,3 @@
+- #pull [[liquid democracy]]
+	- against [[tyranny]]
+	- https://social.coop/web/statuses/107870617018317599
