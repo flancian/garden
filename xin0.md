@@ -42,4 +42,3 @@
 	- [[agora]]
 		- is it a [[decentralized think tank]] plus a set of tools to optimize itself?
 		- yeah, pretty much :)
-		-
