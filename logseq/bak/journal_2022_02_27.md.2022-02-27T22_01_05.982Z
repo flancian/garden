@@ -1,0 +1,39 @@
+- [[revolution in the twenty first century]]
+	- [[flancia revolution]]
+- [[agora]]
+	- wrote more than I coded today :)
+		- it felt great though
+	- [[node club]]
+	- [[agora discuss]]
+	- [[agora matrix bot]]
+		- NOW improve link
+		  :LOGBOOK:
+		  CLOCK: [2022-02-27 Sun 15:39:12]
+		  :END:
+		- DONE set up systemd service
+		- LATER consider rendering as a markdown table instead?
+	- [[agora backups]]
+		- move backup to be full user -- best bang for the buck probably
+		- 12G currently
+	- #push [[agora mastodon bot]]
+		- didn't work for a while
+		- rate limited somehow?
+		- LATER need to work on [[catchup]] functionality
+- [[twitter]]
+- [[protein pudding]]
+- [[marie cecilia smith]]
+- [[xin0]]
+	- [[flancia meet]]
+- #push [[timelines]]
+	- [[2023]] [[russian revolution]]
+	- [[2025]] [[flancian revolution]]
+	- [[2030]] [[international revolution]]
+- [[did]]
+	- DONE order coffee
+	  :LOGBOOK:
+	  CLOCK: [2022-02-27 Sun 10:57:07]--[2022-02-27 Sun 10:57:08] =>  00:00:01
+	  :END:
+	- [[timelines]]
+	- migrated [[agora matrix bot]] to a more "prod like" setup, still a [[wip]] but definitely an improvement
+	- thought about [[markdown tables]] :)
+	- [[yoga]] -- it was heavy duty, loved it!
