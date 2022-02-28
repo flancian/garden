@@ -1,0 +1,1 @@
+- The digital nation of Flancia is calling for an election in Russia to take place via direct democracy online.
