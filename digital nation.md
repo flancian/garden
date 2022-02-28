@@ -1,2 +1,2 @@
-- #pull [[internet nation]] [[open nation]]
--
+- #pull [[internet nation]]
+	- [[flancia]] is digital first and is an [[open nation]].
