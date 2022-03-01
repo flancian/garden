@@ -1,0 +1,3 @@
+- a [[book]].
+	- #pull [[tasshin fogleman]]
+	- #go [[the path of love]] https://docs.google.com/document/d/1nrHi6vTRJI_MELW_gtTiEaaYwK8I82ytMIpHbmM0KNY/edit
