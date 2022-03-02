@@ -6,6 +6,4 @@ git config --global user.name "Flancian"
 git config --global user.email "0@flancia.org"
 ```
 - [[pull]] [[git alias]]
-
-
-
+- #pull [[git rere]]
