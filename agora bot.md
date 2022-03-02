@@ -24,9 +24,9 @@
 		  :LOGBOOK:
 		  CLOCK: [2022-02-01 Tue 20:49:42]
 		  :END:
-		- NOW store [[matrix]] messages from [[agora discuss]] and other rooms that opt in?
+		- DONE store [[matrix]] messages from [[agora discuss]] and other rooms that opt in?
 		  :LOGBOOK:
-		  CLOCK: [2022-02-01 Tue 20:49:59]
+		  CLOCK: [2022-02-01 Tue 20:49:59]--[2022-03-02 Wed 12:59:45] =>  688:09:46
 		  :END:
 		- LATER reply to @mentions with resolved wikilinks for whole threads
 		- https://twitter.com/flancian/status/1415398630731681793
