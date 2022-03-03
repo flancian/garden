@@ -1,1 +1,1 @@
-- I read in an article about [[törbel]]
+- I read in an article about [[törbel]] that [[elinor ostrom]] liked being called [[lin]].
