@@ -1,3 +1,3 @@
 - a [[town]].
-	- [[switzerland]] [[commons]]
+	- [[switzerland]] [[commons]] [[elinor ostrom]]
 	- https://lenews.ch/2016/12/13/the-swiss-commune-that-inspired-a-nobel-prize-winning-theory-on-communal-ownership/
