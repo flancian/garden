@@ -1,3 +1,4 @@
 - a [[coop]].
 	- [[music]] [[streaming]]
-	- became a [[co owner]] around [[2022-02-12]].
+	- became a [[co owner]] around [[2022-02-12]]
+	- would like to use it more often, will try to give it a longer try today
