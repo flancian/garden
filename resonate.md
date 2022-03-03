@@ -1,1 +1,3 @@
-- G
+- a [[coop]].
+	- [[music]] [[streaming]]
+	- became a [[co owner]] around [[2022-02-12]].
