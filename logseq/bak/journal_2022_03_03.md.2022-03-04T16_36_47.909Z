@@ -1,0 +1,12 @@
+- Yesterday I had the day off but ended up being sick :(
+	- Had a light fever, not too much though, about 37.5.
+	- After a good night's sleep I'm almost back to normal though (!), although tired. Perhaps this is what Covid feels like when you're fully vaccinated? Or perhaps I'm just relatively stressed and fighting back a regular cold.
+	- Now I'm back to work, but will try to take it easy.
+- [[resonate]]
+- [[agora]]
+	- [[agora development]]
+		- now that [[agora matrix bot]] improvements are done I'm considering what the next "push" should be
+		- either [[autopush]]/[[autopull]] (which I've been circling around for a while) or whatever is blocking sign-in using [[oauth]]? but the latter [[vera]] is working on.
+		- graph improvements could be fun and are always visible though, hmm. I tried pitching this as a community contribution but it didn't take for now; and I think I could give [[agora wide graphs]] a shot, or add [[nth order local graphs]] and see how they look.
+		- [[ui improvements]] in general are needed: e.g. we discussed multi-column layout (some sidebar for navigation to begin with?) a few times but I never really gave it a shot.
+		- if you are reading this and you have an opinion on what we should improve first, please let me know :)
