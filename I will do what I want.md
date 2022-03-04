@@ -2,6 +2,5 @@
 	- "I will do what I want,
 	- whenever I want,
 	- and you'll look on and like it (or not),
-	- based on interest,
-	- sometimes puzzling,
+	- based on interest, sometimes puzzling,
 	- often drifting."
