@@ -2,10 +2,7 @@
 - [[logseq]]
 	- Keeps somehow misplacing/ignoring my settings, in particular surrounding the date format for my journal filenames. Mildly irksome, in particular given that it generates spurious warning messages while at it:
 		- ![image.png](../assets/image_1644599439384_0.png)
-	- DONE find bug report in [[go/logseq/bugs]] or file a new bug
-	  :LOGBOOK:
-	  CLOCK: [2022-03-02 Wed 12:59:05]--[2022-03-02 Wed 12:59:05] =>  00:00:00
-	  :END:
+	- LATER find bug report in [[go/logseq/bugs]] or file a new bug
 		- I think https://github.com/logseq/logseq/issues/3861 is this.
 - [[agora discuss]]
 	- [[tarot for thought]]
@@ -36,20 +33,19 @@
 	  :LOGBOOK:
 	  CLOCK: [2022-02-11 Fri 13:13:26]--[2022-02-11 Fri 16:57:51] =>  03:44:25
 	  :END:
-	- DONE unigraph review
+	- LATER unigraph review
 	  collapsed:: false
 	  :LOGBOOK:
 	  CLOCK: [2022-02-11 Fri 19:46:31]--[2022-02-11 Fri 19:46:36] =>  00:00:05
-	  CLOCK: [2022-03-02 Wed 12:58:58]--[2022-03-02 Wed 12:58:59] =>  00:00:01
 	  :END:
 	- LATER [[autopush]]
 		- [[autopush.sh]]
 			- add photos sync to my hacky implementation, this could be cron central
 		- add arbitrary triggers for [[push]] behaviour, NOW/LATER being obvious candidates
 		- make #push work without [[wikilinks]] and make sure that it works with multiple nodes in arbitrary positions when you do use wikilinks
-	- DONE [[fix attribution]]
+	- NOW [[fix attribution]]
 	  :LOGBOOK:
-	  CLOCK: [2022-02-11 Fri 19:59:07]--[2022-03-02 Wed 12:58:50] =>  448:59:43
+	  CLOCK: [2022-02-11 Fri 19:59:07]
 	  :END:
 	- LATER [[fix ranking]]
 	- DONE catch up with friends!

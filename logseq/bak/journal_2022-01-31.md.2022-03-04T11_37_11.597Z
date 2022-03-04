@@ -16,10 +16,7 @@
 		  :END:
 		- I need to also try TODO/DOING/DONE though (I'm in mode NOW/LATER/DONE)
 - #push [[pomodoros]]
-	- DONE [[saer]]
-	  :LOGBOOK:
-	  CLOCK: [2022-03-02 Wed 12:59:08]--[2022-03-02 Wed 12:59:09] =>  00:00:01
-	  :END:
-	- DONE [[empoderadas]]
+	- LATER [[saer]]
+	- LATER [[empoderadas]]
 - [[daniel]]
 	- [[paperless ng]]

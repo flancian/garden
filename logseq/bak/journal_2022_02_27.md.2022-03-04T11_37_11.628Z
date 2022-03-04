@@ -14,10 +14,7 @@
 		  CLOCK: [2022-02-27 Sun 15:39:12]--[2022-02-27 Sun 23:00:32] =>  07:21:20
 		  :END:
 		- DONE set up systemd service
-		- DONE consider rendering as a markdown table instead?
-		  :LOGBOOK:
-		  CLOCK: [2022-03-02 Wed 12:54:18]--[2022-03-02 Wed 12:54:20] =>  00:00:02
-		  :END:
+		- LATER consider rendering as a markdown table instead?
 	- [[agora backups]]
 		- DONE move backup to be full user -- best bang for the buck probably
 		  :LOGBOOK:

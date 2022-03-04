@@ -20,10 +20,7 @@
 	  :LOGBOOK:
 	  CLOCK: [2022-02-13 Sun 14:05:01]--[2022-02-13 Sun 14:05:02] =>  00:00:01
 	  :END:
-	- DONE yoga
-	  :LOGBOOK:
-	  CLOCK: [2022-03-02 Wed 12:55:12]--[2022-03-02 Wed 12:55:13] =>  00:00:01
-	  :END:
+	- LATER yoga
 	- DONE [[one pomodoro]]
 	  :LOGBOOK:
 	  CLOCK: [2022-02-13 Sun 15:01:35]--[2022-02-13 Sun 18:29:46] =>  03:28:11

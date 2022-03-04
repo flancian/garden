@@ -1,13 +1,12 @@
 # later
-
 - a [[list]].
 	- [[irregular]]
-  - Thoughts that come up while I was doing [[pomodoro]].
+		- Thoughts that come up while I was doing [[pomodoro]].
 	- [[slay moloch]]
 	- [[sorting pushes]]
 	- [[pull arbitrary urls]]
 		- pull wikipedia works
-  - fix duplicate [[go links]] behaviour
+		- fix duplicate [[go links]] behaviour
 	- [[write]] [[on building bridges]]
 		- [[write]] [[topology]]
 	- [[read]] [[category theory]]
@@ -17,22 +16,22 @@
 		- [[topology]]
 	- Write about [[excursion]].
 	- [[onkyo volume]]
-  	- ? meh
+		- ? meh
 	- Write about [[music mouse]].
-    - Write a post about my [[virtual desktop setup]].
-    - [[pull]] means [[uprank]]
+		- Write a post about my [[virtual desktop setup]].
+		- [[pull]] means [[uprank]]
 	- implement [[autopull]] and [[autopush]]
-    - check out [[gtoolkit]]
-    - [[javascript subnodes]]. Think about how they interact with functionality like [[auto pull]], which I disabled by default due to performance issues and would prefer to make into an async call.
-	 - see [[js util]] by [[vera]]
-  	- [[push]] [[plurals auto pull]]
+		- check out [[gtoolkit]]
+		- [[javascript subnodes]]. Think about how they interact with functionality like [[auto pull]], which I disabled by default due to performance issues and would prefer to make into an async call.
+		- see [[js util]] by [[vera]]
+		- [[push]] [[plurals auto pull]]
 		- equals better treatment for [[lists]]
-	    - [[force directed graph]] must auto pull [[force directed graphs]]
-	    - that is, auto pull plurals
+			- [[force directed graph]] must auto pull [[force directed graphs]]
+			- that is, auto pull plurals
 		- fixes a common search case now broken (as we only do [[exact match]] plus resolution of user-specified, so explicit, [[pulls]])
-			- auto pull makes 'or' behaviour of search trivially implementable
-			- auto pulls are [[action code]] that implements a [[morphism]]
-			- any search policy/ranking can be expressed as a composition of morphisms
+		- auto pull makes 'or' behaviour of search trivially implementable
+		- auto pulls are [[action code]] that implements a [[morphism]]
+		- any search policy/ranking can be expressed as a composition of morphisms
 	- [[push]] [[vscode]] [[foam]]
 		- see if there's a way to color/annotate panes in [[vscode]]
 		- could aid mnemonically
@@ -42,14 +41,13 @@
 	- [[tweets]]
 	- [[wayland]]
 	- install [[maubot]] and [[maya]]'s matrix voice messages transcription service
-- [[push]] [[done]] 
-  - [[listen]] audio messages
-		- [[jonathan]]
-		- [[friends]]
-		- [[family]]
-- [[push]] [[done]] 
-  - that is, pushing to the node [[done]], should: elide from source, clean up, collapse/zip 
-
-		
-
-
+- [[push]] [[done]]
+	- DONE [[listen]] audio messages
+	  :LOGBOOK:
+	  CLOCK: [2022-03-02 Wed 12:52:00]--[2022-03-02 Wed 12:52:01] =>  00:00:01
+	  :END:
+	- [[jonathan]]
+	- [[friends]]
+	- [[family]]
+- [[push]] [[done]]
+	- that is, pushing to the node [[done]], should: elide from source, clean up, collapse/zip

@@ -25,9 +25,9 @@
 		  CLOCK: [2022-02-12 Sat 18:07:17]
 		  :END:
 			- Ideally easily self-hostable, the Agora points users in the right direction to set it up themselves?
-		- DONE autopush: [[matrix bot]] saves stream links in the Agora like other bots
+		- NOW autopush: [[matrix bot]] saves stream links in the Agora like other bots
 		  :LOGBOOK:
-		  CLOCK: [2022-02-13 Sun 00:41:38]--[2022-03-02 Wed 12:55:17] =>  420:13:39
+		  CLOCK: [2022-02-13 Sun 00:41:38]
 		  :END:
 	- NOW  pull: you should be able to #pull a user, like in [[jayu]] pulling [[@Jayu]]. 
 	  :LOGBOOK:
