@@ -1,5 +1,5 @@
-- a meditation on [[efd]] and perhaps [[free will]]
+- a free form meditation on [[efd]] and perhaps [[free will]].
 	- "I will do what I want,
 	- whenever I want,
-	- and you'll look and like it (or not),
-	- sometimes puzzled"
+	- and you'll look on and like it (or not),
+	- based on interest, sometimes puzzling."
