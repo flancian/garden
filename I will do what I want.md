@@ -1,0 +1,4 @@
+- a meditation on [[efd]] and perhaps [[free will]]
+	- "I will do what I want,
+	- whenever I want
+	- and you'll sta

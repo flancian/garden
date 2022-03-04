@@ -1,2 +1,3 @@
-- [[pull]] [[executive function disorder]] [[add]] [[adhd]]
--
+- #pull [[executive function disorder]] [[add]] [[adhd]]
+- #pull [[icnu]]
+	- #pull [[I will do what I want]]
