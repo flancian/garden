@@ -16,5 +16,7 @@
 					- [[119]] is known to be interesting, for example, because it was the first multiple of [[17]] which I found interesting in one particular run through this process.
 						- It was the first number that I couldn't decide as prime or composite based on some procedure simpler than knowing it was a multiple of 17.
 		- On occasion I find it useful to [[double time]].
-			- That means, to count up when
+			- That means, to count up both when [[inhaling]] and [[exhaling]].
+			- This can feel more engaging, which makes it easier to maintain focus.
+			- It also lets one make use of our body's natural [[parity bit]]: breathing in and out are symmetric but
 	-
