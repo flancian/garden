@@ -14,4 +14,4 @@
 		- [[discosolar]] https://discosolar.net
 		- now down
 	- trying to help people that were affected by the above
-		- [[solar games]]
+		- [[solar gains]]
