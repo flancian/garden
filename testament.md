@@ -1,2 +1,3 @@
 - I intend to leave half of my things to my partner and most of the other half to [[Flancia]] as it is defined in my writing and the best known source of truth, as of today https://anagora.org.
-	- [[friends]], [[flancians]] and other [[agorafolk]] can disambiguate through peer governance :)
+	- [[friends]], [[flancians]] and other [[agorafolk]] can disambiguate through peer governance as needed :)
+	- my default would be that all that goes to Flancia is redirected to [[effective altruism]], in particular to advance [[basic income]] programs like those trialed by [[give directly]] and [[flancia collective]].
