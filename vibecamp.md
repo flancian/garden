@@ -1,7 +1,8 @@
 - an [[event]].
+	- [[austin]] [[texas]]
+	- [[gptbrooke]]
 	- #pull [[vibe camp]]
 	- #go https://vibecamp.xyz/
-	- [[austin]] [[texas]]
 	- [[faq]] https://vibecamp.xyz/faq/
 	- [[discord]] https://discord.com/invite/PEvx7dbJCp
 	- [[list]] https://twitter.com/i/lists/1487845949858889731
