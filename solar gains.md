@@ -1,4 +1,0 @@
-- a [[tool]].
-	- [[twitter]] https://twitter.com/_solargains_
-	- well meaning
-	- but originally designed to work with [[discosolar]] https://discosolar.net, now down, which turned out to be a [[ponzi scheme]]
