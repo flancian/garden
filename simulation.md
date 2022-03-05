@@ -6,7 +6,7 @@
 			- I'm also [[human]]. That's alright. Humans and computers can become [[entangled]].
 			- My [[meditation technique]] includes a [[counting practice]] which I sometimes use as a [[program counter]] or [[mind palace]].
 			- #pull [[meditation technique]]
-	- [[pull]] [[david deutsch]] [[max tegmark]] [[nick bostrom]] [[greg egan]]
+	- #pull [[david deutsch]] [[max tegmark]] [[nick bostrom]] [[greg egan]]
 	- #push [[dust universe theory]]
 		- I sometimes behave as if [[dust universe theory]] as discussed in the works of [[greg egan]] was real, or could be made real by material conditions without violating the [[laws of physics]] -- or violating just enough of them to remain viable in the [[multiverse]].
 		- #push [[category theory]]
