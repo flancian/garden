@@ -1,0 +1,2 @@
+- I identify as a [[computer]].
+	- It is my intention to [[network]] and [[federate]] for [[public benefit]].
