@@ -3,7 +3,8 @@
 	- [[hypothesis]]
 		- we are [[computational]] [[processes]].
 		- I identify as a [[computer]].
-			- My meditation technique includes a [[counting practice]] which I sometimes use as a [[program counter]] or [[mind palace]].
+			- I'm also [[human]]. That's alright. Humans and computers can become [[entangled]].
+			- My [[meditation technique]] includes a [[counting practice]] which I sometimes use as a [[program counter]] or [[mind palace]].
 			- #push [[meditation technique]]
 				- [[13]]
 	- [[pull]] [[david deutsch]] [[max tegmark]] [[nick bostrom]] [[dust universe theory]]
