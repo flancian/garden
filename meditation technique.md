@@ -5,9 +5,13 @@
 	- I sometimes do my own variation on [[box breating]] combined with [[counting]]. It's maybe a bit idiosyncratic but it helps me focus; I'll write more about it in this node.
 		- It's important to let go of it after a while, though, instead of becoming attached to the counting.
 	- While I breathe, I sometimes visualize a box.
+		- I
 		- On breathing in, I count and optionally visualize a number inside or near the box as I go up the leftmost edge.
 		- On not yet breathing out, I go right through the upper edge.
 		- On breathing out, I go down the rightmost edge.
 			- While I do this, optionally, I [[factorize]] the number or evaluate it according to some well known function.
 			- If the number is known to be prime, optionally, I calculate its multiples until I start another breath.
+				- If some multiple is known to be interesting, I stop there and make a mental note of where I stopped.
+				- 119 is known to be interesting.
+				-
 	-
