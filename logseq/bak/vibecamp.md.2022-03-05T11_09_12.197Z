@@ -1,0 +1,4 @@
+- an [[event]].
+	- #pull [[vibe camp]]
+	- #go https://vibecamp.xyz/
+	- [[austin]] [[texas]]
