@@ -17,5 +17,6 @@
 						- It was the first number that I couldn't decide as prime or composite based on some procedure simpler than knowing it was a multiple of 17.
 					-
 					-
-		-
+		- On occasion I d it useful to fuse [[double time]].
+			- That means, to count up when
 	-
