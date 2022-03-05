@@ -10,8 +10,5 @@
 		- [[a fresh new morning has dawned]]
 		- [[schelling and revelation]]
 - [[2022-03-05]]
-	- reporting a [[ponzi scheme]]
-		- [[discosolar]] https://discosolar.net
-		- now down
+	- about [[ponzi schemes]]
 	- trying to help people that were affected by the above
-		- [[solar gains]]
