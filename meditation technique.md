@@ -15,8 +15,6 @@
 					- If some multiple is known to be interesting, I stop there and make a mental note of where I stopped.
 					- [[119]] is known to be interesting, for example, because it was the first multiple of [[17]] which I found interesting in one particular run through this process.
 						- It was the first number that I couldn't decide as prime or composite based on some procedure simpler than knowing it was a multiple of 17.
-					-
-					-
-		- On occasion I d it useful to fuse [[double time]].
+		- On occasion I find it useful to [[double time]].
 			- That means, to count up when
 	-
