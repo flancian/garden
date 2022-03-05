@@ -2,9 +2,10 @@
 - a [[process]].
 	- #pull [[samatha]] [[vipassana]]
 	- [[breath is the palace of buddha]]
-	- I sometimes do variations on [[box breathing]] combined with [[counting]]. It's maybe a bit idiosyncratic but it helps me focus; I'll write more about it in this node.
-		- It's important to let go of it after a while, though, instead of becoming attached to the counting.
-	- While I breathe, I sometimes visualize a box.
+	- While meditating I sometimes do variations on [[box breathing]] combined with [[counting]].
+		- It's maybe a bit idiosyncratic but it helps me focus; I'll write more about it in this node.
+		- It's important to let go of the process after a while, instead of becoming [[attached]] to the counting.
+	- While I [[breathe]], I sometimes visualize a box.
 		- I started by using [[single time]] to count with the help of this box.
 			- On breathing in, I count and optionally visualize a number inside or near the box as I go up the leftmost edge.
 			- On not yet breathing out, I go right through the upper edge.
@@ -16,4 +17,5 @@
 						- It was the first number that I couldn't decide as prime or composite based on some procedure simpler than knowing it was a multiple of 17.
 					-
 					-
+		-
 	-
