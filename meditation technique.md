@@ -20,5 +20,5 @@
 			- This can feel more engaging, which makes it easier to maintain focus.
 			- It also lets one make use of our body's natural [[parity bit]]: breathing in and out follow each other like odd and even numbers.
 			- I start counting at one, so odd numbers happen when inhaling and even numbers when exhaling.
-			-
+			- Interesting noting related to a number takes place on two consecutive edges.
 	-
