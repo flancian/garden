@@ -4,5 +4,7 @@
 	- [[austin]] [[texas]]
 	- [[faq]] https://vibecamp.xyz/faq/
 	- [[discord]] https://discord.com/invite/PEvx7dbJCp
-	- [[list]] https://twitter.com/netrunnernobody/status/1500172895909203968
+	- [[list]]
+		- https://twitter.com/i/lists/1487845949858889731
+		- https://twitter.com/netrunnernobody/status/1500172895909203968
 		- by [[netrunnernobody]]
