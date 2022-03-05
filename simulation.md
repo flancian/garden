@@ -6,4 +6,4 @@
 	- [[pull]] [[david deutsch]] [[max tegmark]] [[nick bostrom]] [[dust universe theory]]
 	- #push [[meditation technique]]
 		- [[13]]
-	- I sometimes behave as if [[dust universe theory]] was real, or could be made real
+	- I sometimes behave as if [[dust universe theory]] as discussed in the works of [[greg egan]] was real, or could be made real by material conditions without violating the laws of physics -- or violating just enough of them to remain viable in the [[multiverse]].
