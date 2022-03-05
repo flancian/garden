@@ -7,5 +7,6 @@
 	- While I breathe, I sometimes visualize a box.
 		- On breathing in, I count and optionally visualize a number inside or near the box as I go up the leftmost edge.
 		- On not yet breathing out, I go right through the upper edge.
-		- On breathing out, I go down the rightmost
+		- On breathing out, I go down the rightmost edge.
+			- While I do this, optionally, I [[factor]] the number.
 	-
