@@ -1,10 +1,10 @@
 # simulation
 - a [[thing]].
 	- [[hypothesis]]
-		- "we are [[computational]] [[processes]]"
+		- "we are [[computational]] [[processes]]" plus a simulator in some useful sense
 		- I identify as a [[computer]].
 			- I'm also [[human]]. That's alright :) Humans and computers can become [[entangled]].
-			- My [[meditation technique]] includes a [[counting practice]] which I sometimes use to keep a [[program counter]] or [[mind palace]].
+			- My [[meditation technique]] includes a [[counting practice]] which I sometimes use to keep a [[program counter]] or [[mind palace]] or bootstrap into [[concentration]].
 			- #pull [[meditation technique]]
 	- #pull [[david deutsch]] [[max tegmark]] [[nick bostrom]] [[greg egan]]
 	- #push [[dust universe theory]]
