@@ -2,3 +2,5 @@
 	- #pull [[vibe camp]]
 	- #go https://vibecamp.xyz/
 	- [[austin]] [[texas]]
+	- [[faq]] https://vibecamp.xyz/faq/
+	- [[discord]] https://discord.com/invite/PEvx7dbJCp
