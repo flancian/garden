@@ -1,8 +1,12 @@
 # yoga calendar
-
-- a [[calendar]]
-  - [[yoga with adriene]]
-  - [[go]] https://yogawithadriene.com/calendar/
-  - [[yoga september 2021]]
-  - [[october 2021]]
-
+- #push [[calendars]]
+	- a [[calendar]]
+		- [[yoga with adriene]]
+		- [[go]] https://yogawithadriene.com/calendar/
+		- [[yoga september 2021]]
+		- [[october 2021]]
+		- [[30 days of yoga]]
+			- good to get started, IIRC! will do it again soon
+		- [[move]]
+			- the [[state of the art]] in [[yoga months]] IMHO
+			- we do it by default; we play the episode matching the calendar day
