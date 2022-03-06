@@ -8,6 +8,7 @@
 			- [[september 2021]]
 			- [[october 2021]]
 		- #pull [[30 days of yoga]]
+		- #pull [[home]]
 			- good to get started, IIRC! will do it again soon.
 		- #pull [[move]]
 			- the [[state of the art]] in [[yoga months]] IMHO

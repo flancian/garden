@@ -1,0 +1,2 @@
+- a [[yoga calendar]].
+	- #go https://www.youtube.com/watch?v=KWBfQjuwp4E&list=PLui6Eyny-UzzFFfpiil94CUrWKVMaqmkm
