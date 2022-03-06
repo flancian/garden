@@ -1,7 +1,6 @@
 # melanocarpa
-
 - a [[garden]].
-  - #pull [[bouncepaw]] [[charismatic shell]]
-  - #go https://melanocarpa.lesarbr.es/
-  - #push [[wikilinks everywhere]] https://melanocarpa.lesarbr.es/hypha/wikilinks_everywhere
-
+	-
+	- #go https://melanocarpa.lesarbr.es/
+	- #git https://github.com/bouncepaw/melanocarpa
+	- #push [[wikilinks everywhere]] https://melanocarpa.lesarbr.es/hypha/wikilinks_everywhere
