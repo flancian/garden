@@ -1,5 +1,5 @@
 # yoga calendar
-- #push [[calendars]]
+- #push [[yoga calendars]]
 	- a [[calendar]]
 		- [[yoga with adriene]]
 		- [[go]] https://yogawithadriene.com/calendar/
