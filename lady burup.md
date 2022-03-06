@@ -1,4 +1,3 @@
 - a [[cat]].
 	- [[friend]]
-	- [[pseudonym]]
-		- [[pull]] [[ocell]]
+	- #pull [[ocell]] [[burup]]
