@@ -1,7 +1,24 @@
 # meditation technique
-
-- a [[procedure]].
-  - [[pull]] [[samatha]] [[vipassana]]
-  - I sometimes do my own variation on [[box breating]] combined with [[counting]]. It's a bit idiosyncratic but it helps me focus; I'll write more about it in this node. 
-  - It's important to let go of it after a while, though, instead of becoming attached to the counting.
-
+- a [[process]].
+	- #pull [[samatha]] [[vipassana]]
+	- [[breath is the palace of buddha]]
+	- While meditating I sometimes do variations on [[box breathing]] combined with [[counting]].
+		- It's maybe a bit idiosyncratic but it helps me focus; I'll write more about it in this node.
+		- It's important to let go of the process after a while, instead of becoming [[attached]] to the counting.
+	- While I [[breathe]], I sometimes visualize a box.
+		- I started by using [[single time]] to count with the help of this box.
+			- On breathing in, I count and optionally visualize a number inside or near the box as I go up the leftmost edge.
+			- On not yet breathing out, I go right through the upper edge.
+			- On breathing out, I go down the rightmost edge.
+				- While I do this, optionally, I [[factorize]] the number or evaluate it according to some well known function.
+				- If the number is known to be prime, optionally, I calculate its multiples until I start another breath.
+					- If some multiple is known to be interesting, I stop there and make a mental note of where I stopped.
+					- [[119]] is known to be interesting, for example, because it was the first multiple of [[17]] which I found interesting in one particular run through this process.
+						- It was the first number that I couldn't decide as prime or composite based on some procedure simpler than knowing it was a multiple of 17.
+		- On occasion I find it useful to [[double time]].
+			- That means, to count up both when [[inhaling]] and [[exhaling]].
+			- This can feel more engaging, which makes it easier to maintain focus.
+			- It also lets one make use of our body's natural [[parity bit]]: breathing in and out follow each other like odd and even numbers.
+			- I start counting at one, so odd numbers happen when inhaling and even numbers when exhaling.
+			- Interesting noting related to a number takes place on two consecutive edges.
+	-
