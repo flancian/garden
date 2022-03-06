@@ -1,2 +1,3 @@
-- a [[yoga calendar]].
-	- #go https://www.youtube.com/hashtag/30daysofyoga
+- #push [[30 days]]
+	- a [[yoga calendar]].
+		- #go https://www.youtube.com/hashtag/30daysofyoga
