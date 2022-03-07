@@ -10,8 +10,11 @@
 		- #pull [[30 days of yoga]]
 			- good to get started, IIRC! will do it again soon.
 			- the first two episodes are above 30 minutes, which might be challenging for beginners. but there's many shorter than that after that.
+		- #pull [[yoga camp]]
 		- #pull [[yoga revolution]]
 			- never done it, just heard of it, it sounds great obviously though so I'm queueing it
+		- #pull [[true]]
+			-
 		- #pull [[dedicate]]
 			- never done it so far
 		- #pull [[home]]
