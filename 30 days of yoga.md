@@ -1,3 +1,4 @@
 - #push [[30 days]]
 	- a [[yoga calendar]].
-		- #go https://www.youtube.com/hashtag/30daysofyoga
+		- #go https://www.youtube.com/watch?v=TXU591OYOHA&list=PLui6Eyny-UzwxbWCWDbTzEwsZnnROBTIL
+		- #hashtag https://www.youtube.com/hashtag/30daysofyoga
