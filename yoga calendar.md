@@ -10,7 +10,7 @@
 		- #pull [[30 days of yoga]]
 			- good to get started, IIRC! will do it again soon.
 		- #pull [[home]]
-			-
+			- we enjoyed this one but
 		- #pull [[move]]
 			- the [[state of the art]] in [[yoga months]] IMHO
 			- we do it by default; we just [[go/move]] and play the episode matching the current calendar day
