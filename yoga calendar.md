@@ -4,9 +4,9 @@
 	- #go https://yogawithadriene.com/calendar/
 		- always links to a calendar for the current month
 			- [[fwfg]] sessions might require membership, but there's always a full episode link for each day from the archives -- it works very well IMHO.
-		-
+	- apart from the "rolling calendars" above, [[adriene mishler]] has done several [[30 days of yoga]] programs. below are the ones I know about.
 	- #pull [[30 days of yoga]]
-		- good to get started, IIRC! will do it again soon.
+		- the first one. good to get started, IIRC! will do it again soon.
 		- the first two episodes are above 30 minutes, which might be challenging for beginners. but there's many shorter than that after that.
 	- #pull [[yoga camp]]
 	- #pull [[yoga revolution]]
