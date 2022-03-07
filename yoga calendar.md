@@ -1,24 +1,22 @@
 # yoga calendar
 - #push [[yoga calendars]]
-	- a [[calendar]]
-		- [[yoga with adriene]]
-		- [[go]] https://yogawithadriene.com/calendar/
-			- publishes a monthly calendar
-				- [[fwfg]] sessions might require membership, but there's always a full episode link for each day from the archives -- it works very well IMHO.
-			- [[september 2021]]
-			- [[october 2021]]
-		- #pull [[30 days of yoga]]
-			- good to get started, IIRC! will do it again soon.
-			- the first two episodes are above 30 minutes, which might be challenging for beginners. but there's many shorter than that after that.
-		- #pull [[yoga camp]]
-		- #pull [[yoga revolution]]
-			- never done it, just heard of it, it sounds great obviously though so I'm queueing it
-		- #pull [[true]]
-			- hmm, I think we might have done this one? need to check.
-		- #pull [[dedicate]]
-			- never done it so far
-		- #pull [[home]]
-			- we enjoyed this one. Adriene seemed to be going for more of a serious zen vibe -- but sometimes also seemed tired? in any case, solid.
-		- #pull [[move]]
-			- the [[state of the art]] in [[yoga calendars]] IMHO
-			- we do it by default; we just [[go/move]] and play the episode matching the current calendar day
+	- [[yoga with adriene]]
+	- #go https://yogawithadriene.com/calendar/
+		- always links to a calendar for the current month
+			- [[fwfg]] sessions might require membership, but there's always a full episode link for each day from the archives -- it works very well IMHO.
+		-
+	- #pull [[30 days of yoga]]
+		- good to get started, IIRC! will do it again soon.
+		- the first two episodes are above 30 minutes, which might be challenging for beginners. but there's many shorter than that after that.
+	- #pull [[yoga camp]]
+	- #pull [[yoga revolution]]
+		- never done it, just heard of it, it sounds great obviously though so I'm queueing it
+	- #pull [[true]]
+		- hmm, I think we might have done this one? need to check.
+	- #pull [[dedicate]]
+		- never done it so far
+	- #pull [[home]]
+		- we enjoyed this one. Adriene seemed to be going for more of a serious zen vibe -- but sometimes also seemed tired? in any case, solid.
+	- #pull [[move]]
+		- the [[state of the art]] in [[yoga calendars]] IMHO
+		- we do it by default; we just [[go/move]] and play the episode matching the current calendar day
