@@ -1,0 +1,42 @@
+- #push [[do]]
+	- [[agora]] [[2022-02-20]]
+	- [[agora bot]]
+	- LATER fix: [[agora bot mastodon]] keeps going offline
+	- DONE make [[agora bot matrix]] link messages
+	- LATER implement go/<date>/move, redirecting to the right video, probably using [[virtual subnodes]]
+	- DONE clean the house
+	  :LOGBOOK:
+	  CLOCK: [2022-02-19 Sat 23:25:37]--[2022-02-19 Sat 23:25:38] =>  00:00:01
+	  :END:
+	- LATER run collect over [[do]] and [[logseq]] tasks
+	- LATER review [[agora frs]], [[agora rfcs]]
+	- LATER implement 'add pull', perhaps by adding a line to the stoa? hmm.
+	- LATER write about 1..17 as they relate to my counting [[meditation practice]]
+	- LATER look into [[anchors]] in repo
+	- NOW integrate [[melanocarpa]]e
+	  :LOGBOOK:
+	  CLOCK: [2022-02-19 Sat 11:35:44]
+	  :END:
+		- blocks on [[direct attribution]] for subnodes
+- LATER implement /random/n as returning a list of nodes?
+- DONE [[flancia meet]]
+  :LOGBOOK:
+  CLOCK: [2022-02-18 Fri 23:57:25]--[2022-02-19 Sat 16:34:24] =>  16:36:59
+  :END:
+- [[neil]]
+	- [[nathan schneider]]
+		- https://hackernoon.com/hows-that-open-source-governance-working-for-you-mphv32ng on [[bfdls]]
+		- #push [[jo freeman]]
+			- [[tyranny of structurelessness]]
+- #push [[flancia collective]]
+	- I am sort of its dictator by default, and that's something that I would love to discuss with the community
+	- by this I mean I [[own]] anagora.org, protopoi.org and flancia.org
+	  :LOGBOOK:
+	  CLOCK: [2022-02-19 Sat 16:12:49]--[2022-02-19 Sat 16:12:50] =>  00:00:01
+	  :END:
+	- very interesting discussion about this in [[agora discuss]]
+	- let it be known that I abdicate by default if a subset of my [[friends]] want me to
+	- by default I abdicate to [[flancia collective]]
+	- by default I abdicate if prompted to abdicate by [[@neil]] [[vera]] or [[peter singer]]
+- #push [[gradient generator]]
+	- #go https://colordesigner.io/gradient-generator
