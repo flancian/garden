@@ -11,7 +11,9 @@
 			- good to get started, IIRC! will do it again soon.
 			- the first two episodes are above 30 minutes, which might be challenging for beginners. but there's many shorter than that after that.
 		- #go [[yoga revolution]]
-			- never done it
+			- never done it, just heard of it, it sounds great obviously though so I'm queueing it
+		- #pull [[dedicate]]
+			-
 		- #pull [[home]]
 			- we enjoyed this one, Adriene seemed to be going for more of a zen vibe -- but sometimes also seemed tired? in any case, solid.
 		- #pull [[move]]
