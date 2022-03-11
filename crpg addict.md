@@ -1,5 +1,5 @@
 - a [[blog]].
 	- #go http://crpgaddict.blogspot.com/
 - a [[person]].
-	- [[chester]]
+	- #pull [[chester bolingbroke]]
 	- [[writer]]
