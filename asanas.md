@@ -6,7 +6,7 @@
 	- [[warrior 2]]
 	- [[warrior 3]]
 	- [[peaceful warrior]]
-	- [[child's pose]]
+	- [[child's pose]] == [[balasana]]
 	- [[extended child's pose]]
 	- [[cat]]
 	- [[cow]]
@@ -20,6 +20,8 @@
 	- [[forward fold]]
 	- [[triangle]]
 	- [[hero]]
+	- [[cobbler's pose]]
+	-
 	- [[half lotus]]
 	- [[full lotus]]
 	-
