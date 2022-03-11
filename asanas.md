@@ -4,6 +4,7 @@
 	- [[warrior]] == [[warrior 1]] == [[virabhadrasana]]
 	- [[warrior 2]]
 	- [[warrior 3]]
+	- [[peaceful warrior]]
 	- [[child's pose]]
 	- [[extended child's pose]]
 	- [[cat]]
@@ -12,5 +13,8 @@
 	- [[downward facing dog]] == [[downward dog]]
 	- [[upward facing dog]] == [[urdhva mukha shvanasana]]
 	- [[cobra]] == [[bhujangasana]]
-	-
+	- [[pigeon]]
+	- [[bridge]]
+	- [[triangle]]
+	- [[downward fold]]
 	-
