@@ -18,5 +18,8 @@
 	- [[bridge]]
 	- [[triangle]]
 	- [[forward fold]]
-	- [[]]
+	- [[triangle]]
+	- [[hero]]
+	- [[half lotus]]
+	- [[full lotus]]
 	-
