@@ -1,6 +1,7 @@
 - a [[list]].
 	- #pull [[asana]]
 	- #pull https://en.wikipedia.org/wiki/List_of_asanas
+	-
 	- [[mountain]]
 	- [[warrior]] == [[warrior 1]] == [[virabhadrasana]]
 	- [[warrior 2]]
@@ -29,6 +30,7 @@
 	- [[cobbler's pose]]
 	- [[staff]] == [[dandasana]]
 	- [[mountain pose]] == [[tadasana]]
+	- [[tree pose]] == [[vrikshasana]]
 	- #push [[meditation]]
 		- [[half lotus]]
 		- [[lotus]] == [[padmasana]]

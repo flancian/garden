@@ -1,2 +1,2 @@
-- a form of [[shiva]].
+- a [[form]] of [[shiva]].
 	- https://en.wikipedia.org/wiki/Virabhadra
