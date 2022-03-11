@@ -25,11 +25,12 @@
 	- [[boat]]
 	- [[cobbler's pose]]
 	- [[staff]] == [[dandasana]]
+	- [[mountain pose]] == [[tadasana]]
 	- #push [[meditation]]
 		- [[half lotus]]
 		- [[lotus]] == [[padmasana]]
 		- [[siddhasana]]
 		- [[easy pose]] == [[sukhasana]]
 		- [[corpse]] == [[shavasana]]
-	- [[muktasana]]
+		- [[muktasana]]
 	-
