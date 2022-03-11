@@ -1,0 +1,5 @@
+- a [[blog]].
+	- #go http://crpgaddict.blogspot.com/
+- a [[person]].
+	- [[chester]]
+	- [[writer]]
