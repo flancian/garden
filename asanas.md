@@ -15,6 +15,7 @@
 	- [[upward facing dog]] == [[urdhva mukha shvanasana]]
 	- [[cobra]] == [[bhujangasana]]
 	- [[pigeon]]
+	- [[marichi's pose]]
 	- [[bridge]]
 	- [[triangle]]
 	- [[forward fold]]
@@ -25,4 +26,5 @@
 	- [[staff]] == [[dandasana]]
 	- [[half lotus]]
 	- [[full lotus]]
+	-
 	-
