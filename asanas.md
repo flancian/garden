@@ -21,6 +21,8 @@
 	- [[forward fold]] == [[uttanasana]]
 	- [[triangle]]
 	- [[hero]]
+	- [[plank]]
+	- [[side plank]] == [[vasishtasana]]
 	- [[chair pose]] == [[utkatasana]]
 	- [[eagle]]
 	- [[boat]]
