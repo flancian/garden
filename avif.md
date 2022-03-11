@@ -1,2 +1,3 @@
 - a [[codec]].
 	- [[lossy]] [[image]]
+	- #go https://jakearchibald.com/2020/avif-has-landed/
