@@ -1,4 +1,5 @@
 - a [[list]].
+	- #pull [[asana]]
 	- [[mountain]]
 	- [[warrior]] == [[warrior 1]] == [[virabhadrasana]]
 	- [[warrior 2]]
@@ -8,4 +9,6 @@
 	- [[cat]]
 	- [[cow]]
 	- [[tabletop]]
+	- [[downward facing dog]] == [[downward dog]]
+	- [[upward facing dog]]
 	-
