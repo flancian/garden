@@ -10,5 +10,6 @@
 	- [[cow]]
 	- [[tabletop]]
 	- [[downward facing dog]] == [[downward dog]]
-	- [[upward facing dog]]
+	- [[upward facing dog]] == [[urdhva mukha shvanasana]]
+	- [[cobra]] == [[bhujangasana]]
 	-
