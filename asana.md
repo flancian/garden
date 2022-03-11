@@ -1,2 +1,1 @@
-- a [[pose]].
-	- [[yoga]]
+- a [[yoga]] [[pose]].
