@@ -22,9 +22,11 @@
 	- [[triangle]]
 	- [[hero]]
 	- [[eagle]]
+	- [[boat]]
 	- [[cobbler's pose]]
 	- [[staff]] == [[dandasana]]
 	- [[half lotus]]
-	- [[full lotus]]
-	-
+	- [[lotus]] == [[padmasana]]
+	- [[muktasana]]
+	- [[corpse]]
 	-
