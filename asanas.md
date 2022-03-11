@@ -20,8 +20,9 @@
 	- [[forward fold]]
 	- [[triangle]]
 	- [[hero]]
+	- [[eagle]]
 	- [[cobbler's pose]]
-	-
+	- [[staff]] == [[dandasana]]
 	- [[half lotus]]
 	- [[full lotus]]
 	-
