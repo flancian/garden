@@ -1,7 +1,7 @@
 - a [[list]].
 	- #pull [[asana]]
 	- #pull https://en.wikipedia.org/wiki/List_of_asanas
-	-
+	- #pull [[sun salutation]] == [[surya namaskar]]
 	- [[mountain]]
 	- [[warrior]] == [[warrior 1]] == [[virabhadrasana]]
 	- [[warrior 2]]
@@ -38,4 +38,3 @@
 		- [[easy pose]] == [[sukhasana]]
 		- [[corpse]] == [[shavasana]]
 		- [[muktasana]]
-	-
