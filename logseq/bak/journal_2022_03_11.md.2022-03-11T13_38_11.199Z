@@ -1,0 +1,27 @@
+- #push [[avif]]
+	- is looking pretty good: https://jakearchibald.com/2020/avif-has-landed/
+	-
+- #push [[sundar day]]
+	- for the last 2y (since the pandemic started) we've been getting [[global reset days]] -- which people widely call [[sunday]] days after the CEO.
+	- will go on a short hike with my brother who is visiting
+	- also plan on doing some coding :)
+- [[agora]]
+	- #push [[go links in pushes]]
+		- testing
+		- #go https://flancia.org
+		- LATER does the above go link work at the destination? I think it should, and if it doesn't, it should be fixed :)
+			- it doesn't, it needs to be fixed :) on second thought it is not surprising as go links handling is quite hacky, doesn't reuse the basic node assembly logic we have for node rendering
+	- [[autopush]] has been a long time in the making
+		- after thinking it through I'm not sure there's a big issue with continuing to parse the html we produce while rendering subnodes as a way to extract structure that can be used for pushing
+		- the fact that this lets us have a single push implementation for all source formats that render similarly has a lot going for it?
+		- all in all I will probably try to implement this soon (finally!)
+	- [[autopull plurals]] seems like low hanging fruit now that we have other autopulls enabled
+	- I keep thinking about [[sqlite]] as an experiment to make the Agora faster.
+		- the filesystem is very fast (fast enough) for the core Agora functionality of gathering all resources matching a name, but is too slow to handle deeper relationships between resources (linking, pulls, pushes) as we scale up.
+		- storing relationships in sqlite seems like a reasonable experiment to run.
+		- we could keep the [[agora server is read only]] design principle by having [[agora bridge]] be the component that writes to sqlite, and having [[agora server]] just read.
+- [[tumper]] asked if there's a way of using [[mastodon]] from [[matrix]] -- good question
+	- https://pinafore.social/statuses/107913044603938676
+	- [[matrix mastodon bridge]] == [[mastodon matrix bridge]] -> [[matrix activitypub bridge]]
+- #push [[yoga]]
+	- [[asanas]]
