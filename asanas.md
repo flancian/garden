@@ -1,2 +1,11 @@
 - a [[list]].
+	- [[mountain]]
+	- [[warrior]] == [[warrior 1]] == [[virabhadrasana]]
+	- [[warrior 2]]
+	- [[warrior 3]]
+	- [[child's pose]]
+	- [[extended child's pose]]
+	- [[cat]]
+	- [[cow]]
+	- [[tabletop]]
 	-
