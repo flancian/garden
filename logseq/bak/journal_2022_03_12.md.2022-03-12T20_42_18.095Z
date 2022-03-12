@@ -1,0 +1,41 @@
+- [[flancia meet]]
+- [[agora]]
+	- this of how to better concentrate all todos in one page (or fewer pages?)
+	- #push [[agora matrix]]
+		- DONE [[agora matrix bot]] fix "cannot start threads from an event with a relation"
+		  :LOGBOOK:
+		  CLOCK: [2022-03-12 Sat 17:20:25]--[2022-03-12 Sat 17:20:26] =>  00:00:01
+		  :END:
+			- DONE https://github.com/flancian/agora-bot-matrix/commit/0a39ce86fd9fa92a2459d9099155ebf2994e7896 https://github.com/flancian/agora-bot-matrix/commit/12a8acf05e179d6fc1f041c3adc82d8837174e58
+		- [[maubot standalone]] https://docs.mau.fi/maubot/usage/standalone.html
+	- [[speed]] is becoming more of an issue -- [[sqlite]] experiment should probably be prioritized, same as [[docker]] just in case
+	- #push [[agora tiddlywiki]]
+		- want to support [[tiddlywiki]]
+			- markdown based mode -> just import the git repo
+			- default mode -> [[maya]] pointed out [[tiddlywiki static website generator]] https://nesslabs.com/tiddlywiki-static-website-generator
+	- #push [[agora mastodon]]
+		- NOW fix list handling `mastodon.Mastodon.MastodonAPIError: ('Mastodon API returned error', 422, 'Unprocessable Entity', 'Validation failed:
+		  :LOGBOOK:
+		  CLOCK: [2022-03-12 Sat 18:58:25]
+		  :END:
+		  You have reached the maximum amount of lists')`
+			- should really clean up lists as we use them, current code is essentially broken/could be thought of as having a [[resource leak]]
+		- LATER implement [[catch up]] / recover nicely
+- [[maya]]
+	- [[syntopicon]] https://maya.land/responses/2021/07/08/kicks-condor-hypertexting-syntopicon.html
+		- made me think of the [[atu fable index]] == [[aarne thompson uther]]
+			- [[vladimir propp]]
+		- #push [[glitch]]
+			- [[tiddlywiki]] https://glitch.com/~krystal-tiddlywiki
+			- [[twitter rss]] [[opml]] https://opml.glitch.me/
+			- [[tokimeki unfollow]] https://tokimeki-unfollow.glitch.me/
+			-
+- [[the work of art]]
+	- discussed [[the work of art in the age of mechanical reproduction]] with [[luciana]]
+		- [[the work of art in the age of nfts]] or [[the work of art in the age after nfts]]
+- [[meditation]]
+	- [[counting practice]] [[loving kindness]]
+	- [[primes]] [[composition]]
+- [[flancia]]
+	- [[schelling and revelation]]
+	- [[where's my light]]
