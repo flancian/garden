@@ -1,0 +1,1 @@
+- I like to think of my light as a compound of all lights in my life, whatever you can take that to mean.
