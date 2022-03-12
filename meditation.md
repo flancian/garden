@@ -5,4 +5,4 @@
 		- It essentially changed my life, as did [[yoga]] later.
 		- Flancia, I believe, would not be possible for me without meditation.
 	- #pull [[meditation practice]] [[meditation for programmers]]
-	- To focus (or "bootstrap"), I often make use of [[counting practice]]
+	- To [[focus]] (or "bootstrap"), I often make use of [[counting practice]].
