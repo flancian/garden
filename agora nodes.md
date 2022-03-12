@@ -1,2 +1,3 @@
 - #pull [[agora]] [[node]]
-	- In the Agora, each node is a [[concept]], or a thing, or a [[topic]].
+	- In the Agora, each node is a [[concept]], or a [[thing]], or a [[topic]].
+	- Links relate nodes to each other meaningfully.
