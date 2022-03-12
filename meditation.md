@@ -1,9 +1,6 @@
-
 - an [[activity]].
 	- [[awareness]] [[practice]]
 	- #pull [[buddhism]] [[hinduism]] [[christianism]] [[mysticism]] [[religion]]
 	- I finally gave meditation a try back in [[2018]] or so because of [[sam harris]].
+	-
 	- #pull [[meditation practice]] [[meditation for programmers]]
-
-
-
