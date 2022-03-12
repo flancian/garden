@@ -3,4 +3,6 @@
 	- #go https://glitch.com
 	- #wp https://en.wikipedia.org/wiki/Glitch_(company)
 - an [[application]].
+	- [[online ide]] [[hosting]]
+	- by the company with the same name.
 	- #go https://en.wikipedia.org/wiki/Glitch_(company)#Glitch_(application)
