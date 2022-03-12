@@ -10,5 +10,4 @@
 		- [[a fresh new morning has dawned]]
 		- [[schelling and revelation]]
 - [[2022-03-05]]
-	- about [[ponzi schemes]]
-	- would like to help people affected by the above
+	- would like to help people
