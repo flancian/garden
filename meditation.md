@@ -2,5 +2,7 @@
 	- [[awareness]] [[practice]]
 	- #pull [[buddhism]] [[hinduism]] [[christianism]] [[mysticism]] [[religion]]
 	- I finally gave meditation a try back in [[2018]] or so because of [[sam harris]].
-	-
+		- It essentially changed my life, as did [[yoga]] later.
+		- Flancia, I believe, would not be possible for me without meditation.
 	- #pull [[meditation practice]] [[meditation for programmers]]
+	- To focus (or "bootstrap"), I often make use of [[counting practice]]
