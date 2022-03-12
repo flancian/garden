@@ -1,1 +1,6 @@
-- a []
+- a [[company]].
+	- #pull [[fog creek software]]
+	- #go https://glitch.com
+	- #wp https://en.wikipedia.org/wiki/Glitch_(company)
+- an [[application]].
+	- #go https://en.wikipedia.org/wiki/Glitch_(company)#Glitch_(application)
