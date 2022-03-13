@@ -1,2 +1,4 @@
 - #go https://mastodonpy.readthedocs.io/en/stable/
 	- make_poll looks nice
+	- Mastodon.timeline_list looks like what we probably need to implement simple [[catchup]] functionality for [[agora bot mastodon]].
+		- returns a list of [[toot dicts]]
