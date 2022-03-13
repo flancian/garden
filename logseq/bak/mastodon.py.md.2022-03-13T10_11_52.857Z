@@ -1,0 +1,2 @@
+- #go https://mastodonpy.readthedocs.io/en/stable/
+	- make_poll looks nice
