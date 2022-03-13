@@ -9,4 +9,4 @@
 - I am torn on using [[mastodon]] or [[fediverse]] when I refer to, well, mostly [[mastodon]] currently for me.
 - [[pull]] [[mastodon instance]] [[mastodon instances]]
 - [[pull]] [[mastodon client]] [[mastodon clients]]
--
+- [[mastodon.py]]
