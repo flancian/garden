@@ -1,8 +1,8 @@
 - a [[recipe]].
 	- 500 harina
-	  10g sal
-	  200 agua
-	  100 manteca derretida
+	- 10g sal
+	- 200 agua
+	- 100 manteca derretida
 	- con los números de arriba salen dos bollos, cada uno da más o menos una docena de tapas de 14cm de diámetro.
-	- nosotros hacemos doble receta seguido y congelamos bollos en el freezer; para estirar a la noche los sacamos a la mañana a la heladera.
+	- nosotros hacemos doble receta seguido y congelamos bollos en el freezer; después para estirar a la noche los sacamos a la mañana a la heladera. funciona muy bien.
 	- cocción: 25' a 225 grados.
