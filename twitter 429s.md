@@ -1,2 +1,2 @@
 - #pull [[twitter]] keeps [[throttling]] [[agora bot]] for no obvious reason.
-- #pull [[https 429]]
+- #pull [[http 429]]
