@@ -1,9 +1,12 @@
 # Adriene Mishler
 - A [[person]].
+	- [[yoga teacher]] [[actress]] [[writer]] [[entrepreneur]].
 	- [[twitter]] twitter.com/yogawithadriene
-	- [[yogi]] [[actress]] [[writer]] [[entrepreneur]].
 	- [[project]] [[yoga with adriene]]
+		- [[foundations of yoga]]
+		- [[yoga calendar]]
 	- [[go]] yogawithadriene.com
 	- [[wikipedia]] https://en.wikipedia.org/wiki/Adriene_Mishler
 	- [[interview]] https://www.youtube.com/watch?v=S0SdILS6i5Q
 		- I'm not sure I like the interviewer a lot, but she seems to have good goals and gets them across
+	-
