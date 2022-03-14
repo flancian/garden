@@ -1,0 +1,4 @@
+- I brought https://anagora.org down for a bit via backfilling Twitter activity with [[wikilinks]] (mostly mine, but not all) :)
+	- [[agora bot]] activity seems to trigger *a lot* of bot activity, and the Agora doesn't currently react very well to spikes of load.
+	- LATER Need to prioritize: [[agora sqlite]] [[agora docker]].
+- [[worked]] today -- I was a bit tired after not sleeping that long
