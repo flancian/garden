@@ -1,8 +1,10 @@
-# Agora Protocol
-
-- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
+- # Agora Protocol
+- a [[document]].
+	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
 - a [[convention]].
+	- To communicate with each other with good intent.
 	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
+	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
 	- you can [[use wikilinks]]. this expresses the intention to use the [[wiki protocol]], of which the Agora is a special case.
 	- you can then use them with an explicit [[intention]], that of being in an Agora
 		- an Agora is a virtual space you can define in any way you want as long as it is [[explicit]] and by default [[public]].
@@ -14,11 +16,11 @@
 		- indented bulleted lists designate a [[heterarchy]].
 		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
 			- agora protocol payloads may be exchanged for knowledge for [[free]] in any designated [[agora]].
-			- this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]]. 
+			- this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].
 			- see [[go/agora-slides]] for more.
 		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
 			- [[stoa]] https://stoa.anagora.org/p/stoa
-	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose. 
+	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose.
 		- conventions can be optional or necessary and must be marked as such. The default commitment level for this protocol is [[optional]]. [[use must if you must]].
 	- for [[extensions]]:
 		- please propose them in the stoa below
@@ -32,9 +34,7 @@
 	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
 	- [[the agora is a markup convention]]
 - [[twitter]]
-  - https://twitter.com/flancian/status/1437079533253976066
+	- https://twitter.com/flancian/status/1437079533253976066
 	- https://twitter.com/flancian/status/1373681988675190785
 	- https://twitter.com/flancian/status/1393271063224754184
 	- https://twitter.com/flancian/status/1401526897121574916
-
-
