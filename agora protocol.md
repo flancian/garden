@@ -6,11 +6,10 @@
 	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
 	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
 	- You can use [[wikilinks]]. This expresses an intention to make use the [[wiki protocol]], of which the Agora is a special case.
-	-
-	- you can then use them with an explicit [[intention]], that of being in an Agora
-		- an Agora is a virtual space you can define in any way you want as long as it is [[explicit]] and by default [[public]].
-		- each Agora publishes a set of definitions of intention as expressed by its [[users]].
-		- this Agora is [[rational]], [[pro social]] and [[heterarchical]].
+		- The reference Agora, in which you are probably reading this, also has some limited [[hashtag]] support.
+		- An Agora is any virtual space you can define in any way you want as long as it is [[explicit]] and by default [[public]].
+			- Each Agora publishes a set of definitions of intention as expressed by its [[users]].
+			- This Agora is [[rational]], [[pro social]] and [[heterarchical]].
 - a [[protocol]]
 	- see also [[agora exchange format]].
 	- [[plain text]] plus [[wikilinks]] as layer 0 (bootstrapping layer).
