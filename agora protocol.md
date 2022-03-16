@@ -1,7 +1,7 @@
 - # Agora Protocol
 - a [[document]].
-	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
 	- Trying to define a high level [[protocol]], plus a roadmap for a platform or network making use of it.
+	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
 - a [[convention]].
 	- To communicate with each other with good intent.
 	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
@@ -23,7 +23,7 @@
 			- [[stoa]] https://stoa.anagora.org/p/stoa
 	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose.
 		- conventions can be optional or necessary and must be marked as such. The default commitment level for this protocol is [[optional]]. [[use must if you must]].
-	- for [[extensions]]:
+	- for [[extensions]]
 		- please propose them in the stoa below
 		- or modify the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
 	- the [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
@@ -35,6 +35,6 @@
 	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
 	- [[the agora is a markup convention]]
 	- https://twitter.com/flancian/status/1437079533253976066
-		- https://twitter.com/flancian/status/1373681988675190785
-		- https://twitter.com/flancian/status/1393271063224754184
-		- https://twitter.com/flancian/status/1401526897121574916
+	- https://twitter.com/flancian/status/1401526897121574916
+	- https://twitter.com/flancian/status/1393271063224754184
+	- https://twitter.com/flancian/status/1373681988675190785
