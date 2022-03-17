@@ -3,4 +3,4 @@
 		- recommended by [[neil]]
 		- a [[banger]].
 	- [[go]] https://www.freefairandalive.org/read-it
-	- [[es]]
+	- [[es]] [[libres, dignos, vivos]]
