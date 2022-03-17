@@ -1,3 +1,5 @@
 - a [[person]].
 	- [[writer]] [activist]] [[commons]]
-	-
+	- #go http://www.bollier.org/
+	- [[free, fair and alive]]
+	- [[frontiers of commoning]]
