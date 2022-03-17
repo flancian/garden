@@ -1,5 +1,6 @@
 - a [[book]].
-	- [[commons]]
+	- [[david bollier]] [[silke helfrich]]
+	- on [[commons]]
 		- recommended by [[neil]]
 		- a [[banger]].
 	- [[go]] https://www.freefairandalive.org/read-it
