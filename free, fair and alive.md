@@ -2,6 +2,6 @@
 	- [[david bollier]] [[silke helfrich]]
 	- on [[commons]]
 		- recommended by [[neil]]
-		- a [[banger]].
+		- a [[banger]] :)
 	- [[go]] https://www.freefairandalive.org/read-it
 	- [[es]] [[libres, dignos, vivos]]
