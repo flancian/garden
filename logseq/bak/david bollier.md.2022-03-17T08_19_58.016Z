@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[writer]] [activist]] [[commons]]
+	-
