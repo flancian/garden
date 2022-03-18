@@ -7,5 +7,10 @@
 			- [[la chaux de fonds]]
 			- [[gruyere]]
 			- [[montreux]]
+			- [[valais]]
 			- [[bisses]]
+			- [[törbel]]
+			- [[lugano]]
+			- [[bern]]
+			-
 			-

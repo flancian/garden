@@ -1,1 +1,2 @@
 - #pull [[bisse]]
+- #go https://www.valais.ch/en/activities/hiking/bisses
