@@ -1,13 +1,12 @@
 - a [[book]].
 	- sounds like a [[banger]].
 	- thank you [[neil]] for the pointer!
-		- Has a foreword from Ursula K. Le Guin.
-		  Essays
-		  The Communalist Project
-		  The Ecological Crisis and the Need to Remake Society,
-	- [[A Politics for the Twenty-First Century]]
-	- [[The Meaning of Confederalism]]
-	- [[Libertarian Municipalism: A Politics of Direct Democracy]]
-	- The essays “Nationalism and the ‘National Question’ ” and “Anarchism and Power in the Spanish Revolution” elucidate a libertarian perspective on questions of power, cultural identity, and politcal sovereignty.
-	- [[Anarchism and Power in the Spanish Revolution]]
-	- [[The Future of the Left]]
+		- Has a foreword from [[Ursula K. Le Guin]].
+		- [[The Communalist Project]]
+		- [[The Ecological Crisis and the Need to Remake Society,]]
+		- [[A Politics for the Twenty-First Century]]
+		- [[The Meaning of Confederalism]]
+		- [[Libertarian Municipalism: A Politics of Direct Democracy]]
+		- Nationalism and the ‘National Question’]]  and [[Anarchism and Power in the Spanish Revolution]] elucidate a libertarian perspective on questions of power, cultural identity, and politcal sovereignty.
+		- [[Anarchism and Power in the Spanish Revolution]]
+		- [[The Future of the Left]]
