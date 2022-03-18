@@ -12,5 +12,6 @@
 			- [[törbel]]
 			- [[lugano]]
 			- [[bern]]
-			-
+			- [[interlaken]]
+			- [[lauterbrunnen]]
 			-
