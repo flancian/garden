@@ -1,0 +1,2 @@
+- a [[society]].
+	- partially inspired by #pull [[stalker]]
