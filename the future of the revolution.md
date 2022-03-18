@@ -1,13 +1,11 @@
 - a [[book]].
 	- sounds like a [[banger]].
 	- thank you [[neil]] for the pointer!
-	- Has a foreword from Ursula K. Le Guin.
-	  Essays
-	  The Communalist Project
-	  The Ecological Crisis and the Need to Remake Society,
-	- The second essay, "The Ecological Crisis and the Need to Remake Society," elucidates the core insight of Bookchin’s social ecology—that the ecological and social crises are intertwined, indeed, that our domination of nature is a projection of domination of human by human in society. Rejecting ecological arguments that blame individual choices, technology, or population growth, Bookchin argues that the ecological crisis is caused by an irrational social system governed by the cancerous logic of capitalism, driven by its competitive grow-or-die imperative and its endless production directed not toward meeting human needs but accumulating profit. Arguing against the extremes of an authoritarian state or totally autonomous self-sufficiency, Bookchin offers Communalism as an emancipatory alternative capable of saving ourselves and nature at the same time.
+		- Has a foreword from Ursula K. Le Guin.
+		  Essays
+		  The Communalist Project
+		  The Ecological Crisis and the Need to Remake Society,
 	- A Politics for the Twenty-First Century
-	- The first outlines how confederated assemblies can assert popular control over the economy in order to abolish it as a separate social realm, directing it to human needs rather than profit.
 	- The Meaning of Confederalism
 	- “The Meaning of Confederalism” further elaborates on these themes and addresses specific objections to the concept of confederal direct democracy. It answers common questions such as, Is confederation feasible in a globalized world? How would local assemblies address bigger problems in a democratic manner? Would local communities cooperate or compete with each other, or could localism devolve to parochialism?
 	- Libertarian Municipalism: A Politics of Direct Democracy
