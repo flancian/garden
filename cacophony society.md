@@ -1,2 +1,5 @@
 - a [[society]].
-	- partially inspired by #pull [[stalker]]
+	- partially inspired by [[stalker]]
+		- [[trip to the zone]]
+	- [[gustavo]] told me about it
+		- inspired [[fight club]]
