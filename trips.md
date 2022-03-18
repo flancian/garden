@@ -1,1 +1,11 @@
-- #pull [[hikes]]
+- a [[list]].
+	- [[2022]]
+		- with my [[brother]]
+			- [[pizol]]
+			- [[titlis]]
+			- [[china garten]]
+			- [[la chaux de fonds]]
+			- [[gruyere]]
+			- [[montreux]]
+			- [[bisses]]
+			-
