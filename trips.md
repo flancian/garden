@@ -17,4 +17,6 @@
 			- [[pilatus]]
 			- [[paris]]
 			- [[berlin]]
+			- [[tuscany]]
+			- innsbruck
 			-
