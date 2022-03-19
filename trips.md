@@ -14,4 +14,7 @@
 			- [[bern]]
 			- [[interlaken]]
 			- [[lauterbrunnen]]
+			- [[pilatus]]
+			- [[paris]]
+			- [[berlin]]
 			-
