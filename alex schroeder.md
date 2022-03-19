@@ -1,2 +1,6 @@
 - a [[person]].
 	- #go https://alexschroeder.ch/
+	- [[transjovian council]]
+	-
+	- https://transjovian.org:1965/page/Introduction
+		- https://transjovian.org:1965/page/Bylaws
