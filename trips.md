@@ -18,5 +18,5 @@
 			- [[paris]]
 			- [[berlin]]
 			- [[tuscany]]
-			- innsbruck
+			- [[innsbruck]]
 			-
