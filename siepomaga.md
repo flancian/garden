@@ -1,1 +1,3 @@
-- #go www.siepomaga.pl
+- an [[organization]].
+	- #go www.siepomaga.pl
+	- [[ukraine]] https://www.siepomaga.pl/en/pah-ukraina
