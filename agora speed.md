@@ -1,0 +1,3 @@
+- The Agora started very fast (it was pleasant) and then proceeded to get very slow (with features, but mostly really with the number of nodes+edges that it's handling, see stats in [[nodes]] if interested).
+- It could be fast again -- we just need to fix some issues :)
+- As of right now, very often the Agora takes
