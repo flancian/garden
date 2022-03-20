@@ -1,0 +1,1 @@
+- We will finish what you started, my [[friend]], and try to honor you through it.
