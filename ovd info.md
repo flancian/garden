@@ -1,0 +1,4 @@
+- an [[organization]].
+	- tries to stop [[political persecution]] in [[russia]]
+	- #go https://www.globalgiving.org/projects/ovd-info/
+		- to [[donate]]
