@@ -4,4 +4,4 @@
 - Gone, [[gone]].
 	- Everyone gone to the other shore.
 	- Awakening!
-	- Svaha!
+	- [[svaha]]
