@@ -1,3 +1,3 @@
 - a [[protocol]].
 	- #pull [[activitypub]]
-	- the [[agora protocol]] is meant to build on top of [[activitypub]].
+	- a facet of the [[agora protocol]] is meant to build on top of (extend?) [[activitypub]]
