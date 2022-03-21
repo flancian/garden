@@ -1,1 +1,2 @@
-- Yeah, they still don't work. But
+- Yeah, they still don't work. But it shouldn't be much longer :)
+	- LATER fix: there is some bug in [[agora server]] that causes virtual subnodes (like those resulting from pushes) not to be parsed correctly by go link finding code.
