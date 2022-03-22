@@ -1,6 +1,5 @@
 - a [[space]].
 	- [[building]] [[utopian community]]
+	- #pull [[charles fourier]]
 	- #pull [[phalanstère]]
 	- https://twitter.com/codexeditor/status/1279706348662296576
-	-
--
