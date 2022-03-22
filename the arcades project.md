@@ -17,4 +17,9 @@
 		- [[flaneur]]
 		- [[collector]]
 		- [[gambler]]
-	-
+	- [[exposé of 1935]]
+		- [[iron]]
+		- [[glass]]
+		- [[fourier]] the [[utopian]]
+			- [[phalanstery]]
+			- influenced [[zola]], [[marx]]
