@@ -1,3 +1,4 @@
 - a [[person]].
 	- [[dictator]] [[fascist]]
-	- basically a shithead.
+	- basically a [[shithead]]
+	- [[falange]]
