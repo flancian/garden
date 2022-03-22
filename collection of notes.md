@@ -1,1 +1,1 @@
-- an Agora!
+- an [[agora]]!
