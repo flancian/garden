@@ -12,4 +12,7 @@
 		- [[benjamin]] wrote to [[gershom scholem]] on [[1934]] and said that "not a syllable of the actual text of the [[passagenarbeit]] exists yet". So perhaps what we've got is essentially only [[notes]] for a work that was never written.
 		- but perhaps what we got is closer to what [[benjamin]] had in mind as an end state; he had experimented with [[montage]] before.
 		- it contains [[oppressive chunks of quotations]].
--
+	- [[nineteenth century types]]
+		- [[flaneur]]
+		- [[collector]]
+		-
