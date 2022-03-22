@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[dictator]] [[fascist]]
+	- basically a shithead.
