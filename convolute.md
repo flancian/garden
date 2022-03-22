@@ -1,0 +1,2 @@
+- #pull [[konvolut]]
+	- [[sheaf]], [[file]], [[folder]], [[bundle]] in the context of [[walter benjamin]]
