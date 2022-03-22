@@ -6,9 +6,10 @@
 			- maybe a [[scrapbook]]. maybe a [[draft]]. maybe a [[collection of notes]].
 	- #push [[walter benjamin]] contemporaries
 		- quotes from: [[marcel proust]] [[paul valéry]] [[louis aragon]] [[andré breton]] [[georg simmel]] [[ernst bloch]] [[siegfried kracauer]] [[theodor adorno]]
-	-
-	- in the words of the translator of our edition, the items on display ([[drafts]], [[excerpts]]) give rise to "[[a world of secret affinities]]".
-	- [[benjamin]] abandoned the work in [[1940]] as he had to flee [[paris]].
-	- [[benjamin]] wrote to [[gershom scholem]] on [[1934]] and said that "not a syllable of the actual text of the [[passagenarbeit]] exists yet". So perhaps what we've got is essentially only [[notes]] for a work that was never written.
-	- but perhaps what we got is closer to what [[benjamin]] had in mind as an end state; he had experimented with [[montage]] before.
+	- [[foreword]]
+		- in the words of the translator of our edition, the items on display ([[drafts]], [[excerpts]]) give rise to "[[a world of secret affinities]]".
+		- [[benjamin]] abandoned the work in [[1940]] as he had to flee [[paris]].
+		- [[benjamin]] wrote to [[gershom scholem]] on [[1934]] and said that "not a syllable of the actual text of the [[passagenarbeit]] exists yet". So perhaps what we've got is essentially only [[notes]] for a work that was never written.
+		- but perhaps what we got is closer to what [[benjamin]] had in mind as an end state; he had experimented with [[montage]] before.
+		- it contains [[oppressive chunks of quotations]].
 -
