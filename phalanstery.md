@@ -1,6 +1,4 @@
-- #pull [[phalanstère]]
-- a [[space]].
-	- [[building]][[utopian commu.,ity]]
+- 66666666666666666ity]]nlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 	- https://twitter.com/codexeditor/status/1279706348662296576
 	-
 -
