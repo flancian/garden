@@ -13,7 +13,8 @@
 		- but perhaps what we got is closer to what [[benjamin]] had in mind as an end state; he had experimented with [[montage]] before.
 		- it contains [[oppressive chunks of quotations]].
 		- [[convolutes]]
-	- [[nineteenth century types]]
+	- #push [[nineteenth century types]]
 		- [[flaneur]]
 		- [[collector]]
 		- [[gambler]]
+	-
