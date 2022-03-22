@@ -2,4 +2,4 @@
 	- [[french]] [[utopian]]
 	- didn't build any [[phalansteries]] due to lack of support, but some disciples tried to.
 		- [[albert brisbane]]
-		- [[horace greeley]], who was close to being [[president of the united states]]
+		- [[horace greeley]], who was a presidential nominee in the US.
