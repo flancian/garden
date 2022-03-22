@@ -1,7 +1,8 @@
 # The Arcades Project
-- [[pull]] [[arcades project]]
+- #push [[arcades project]]
 - a [[book]].
-	- ..sort of.
-	-
-- #push [[walter benjamin]] contemporaries
-	- quotes from: [[marcel proust]] [[paul valéry]] [[louis aragon]] [[andré breton]] [[georg simmel]] [[ernst bloch]] [[siegfried kracauer]] [[theodor adorno]]
+	- ...sort of.
+		- perhaps closer to a [[hypertext]], before those existed.
+			- maybe a [[scrapbook]]. maybe a [[draft]].
+	- #push [[walter benjamin]] contemporaries
+		- quotes from: [[marcel proust]] [[paul valéry]] [[louis aragon]] [[andré breton]] [[georg simmel]] [[ernst bloch]] [[siegfried kracauer]] [[theodor adorno]]
