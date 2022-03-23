@@ -1,0 +1,1 @@
+- If you want to [[burn]] in some direction, you want to look for good [[bang for the buck]]

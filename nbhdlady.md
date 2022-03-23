@@ -1,7 +1,5 @@
 # Nbhdlady
-
 - A [[person]].
-- [[twitter]] twitter.com/nbhdlady
-- Interested in [[capsule wardrobe]]s.
-
-
+	- [[friend]]
+	- [[twitter]] https://twitter.com/nbhdlady
+	- Interested in [[capsule wardrobe]]s.

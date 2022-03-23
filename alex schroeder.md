@@ -1,0 +1,6 @@
+- a [[person]].
+	- #go https://alexschroeder.ch/
+	- [[bouncepaw]] told me about him
+	- [[transjovian council]]
+	- https://transjovian.org:1965/page/Introduction
+	- https://transjovian.org:1965/page/Bylaws

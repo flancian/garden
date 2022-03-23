@@ -1,0 +1,3 @@
+- a [[group]].
+	- [[spain]] [[fascists]]
+	- supported [[francisco franco]]

@@ -1,4 +1,6 @@
-# Phalanstery
-- https://twitter.com/codexeditor/status/1279706348662296576
-- https://en.wikipedia.org/wiki/Phalanst%C3%A8re
-- 
+- a [[space]].
+	- [[building]] [[utopian community]]
+	- #pull [[charles fourier]]
+	- #pull [[phalanstère]]
+	- https://twitter.com/codexeditor/status/1279706348662296576
+	- "A phalanstère (or phalanstery) was a type of building designed for a self-contained [[utopian]] community, ideally consisting of [[500]]–[[2000]] people working together for [[mutual benefit]], and developed in the early [[19th century]] by [[Charles Fourier]]. Fourier chose the name by combining the French word [[phalange]] (phalanx, an emblematic military unit in ancient Greece), with the word [[monastère]] (monastery)."

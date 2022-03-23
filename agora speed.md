@@ -1,0 +1,6 @@
+- The Agora started very fast (it was pleasant) and then proceeded to get very slow (with features, but mostly really with the number of nodes+edges that it's handling, see stats in [[nodes]] if interested).
+- It could be fast again -- we just need to fix some issues :)
+- As of right now, very often the Agora takes almost 10s (!) to load some pages, particularly when under load. There's a variety of reasons this happens -- I could write about them here but right now I'd rather just go ahead and try to fix them ;)
+	- Doing pomodoros today, [[2022-03-20]], to try to address this issue.
+	- When starting benchmarking, dev.anagora.org/do is regularly taking 3.7s to load (measured with [[time curl]]). In production this is often longer, but this seems like a good test node (because of the amount of pushes it has, which I think is related to the slowdown).
+		- The *first* load after restarting the dev server is often 10s, which is closer to what we'd see in prod (because it needs to load+process the whole Agora graph).

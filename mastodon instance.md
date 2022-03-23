@@ -1,3 +1,3 @@
-# Mastodon Instance
-
-
+- a [[thing]].
+	- very [[useful]]
+	- a [[server]] that lets you [[read]] and [[write]] [[activity pub]].

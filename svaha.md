@@ -1,0 +1,1 @@
+- #pull [[gate gate paragate parasamgate bodhi svaha]]

@@ -1,0 +1,3 @@
+- #pull [[konvolut]]
+	- [[sheaf]], [[file]], [[folder]], [[bundle]] in the context of [[walter benjamin]]'s work.
+	- the term may actually belong to [[theodor adorno]].
