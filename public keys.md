@@ -1,7 +1,6 @@
 # Public Keys
-
 - [[pull]] [[public key]]
 - [[push]] [[ssh]]
-  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVES957QmR0T/R8gvlnUUuzvhAj58usiSAHaUg2UqrNhu5tg7fJ8KNUdUrqBk05fmgLvP/q58UXwN7OeWjMRUDhqqakVoZExFOBno717NqruIUKEccFwCThisWwr/WnoSy6E9xqzLtOcQVg7Zr7q+Z7syIt+O3ojDrOS8sV0RBVqM2RniKLo2KIRwmZRsAvkomxE5LydBZ9PbCA73chsYEVDL3Xeo7avhti0+vrEqc/SbVx4dGTUeIrGQ7sgn5Zjaqo+qFHtPtR5rAiO8k6B3+gmGr0uNnowvfv3y1EV7ZaXCwxEV/jadLYZTlhkOrpyB4+JQ3NyFNmRnUzraWl1El nox
-  - ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE03N1SPrfdsHT1T080tSDQmDgDL6Q/1Pm95hk6s56x3RVBZhLQVNRJIfkSNHFxvZEhwptXsm6Mi0IgNFYph5Io= laptop
-
+	- @neil it's a fine word, and the phalanx could be said to be a technological innovation -- it's got a lot going for it as a term for a group of people working closely together! but yeah, fascists ruined it like many other things.
+	- ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVES957QmR0T/R8gvlnUUuzvhAj58usiSAHaUg2UqrNhu5tg7fJ8KNUdUrqBk05fmgLvP/q58UXwN7OeWjMRUDhqqakVoZExFOBno717NqruIUKEccFwCThisWwr/WnoSy6E9xqzLtOcQVg7Zr7q+Z7syIt+O3ojDrOS8sV0RBVqM2RniKLo2KIRwmZRsAvkomxE5LydBZ9PbCA73chsYEVDL3Xeo7avhti0+vrEqc/SbVx4dGTUeIrGQ7sgn5Zjaqo+qFHtPtR5rAiO8k6B3+gmGr0uNnowvfv3y1EV7ZaXCwxEV/jadLYZTlhkOrpyB4+JQ3NyFNmRnUzraWl1El nox
+	- ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE03N1SPrfdsHT1T080tSDQmDgDL6Q/1Pm95hk6s56x3RVBZhLQVNRJIfkSNHFxvZEhwptXsm6Mi0IgNFYph5Io= laptop
