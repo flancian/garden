@@ -1,6 +1,8 @@
 # Public Keys
-- [[pull]] [[public key]]
-- [[push]] [[ssh]]
-	- @neil it's a fine word, and the phalanx could be said to be a technological innovation -- it's got a lot going for it as a term for a group of people working closely together! but yeah, fascists ruined it like many other things.
-	- ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVES957QmR0T/R8gvlnUUuzvhAj58usiSAHaUg2UqrNhu5tg7fJ8KNUdUrqBk05fmgLvP/q58UXwN7OeWjMRUDhqqakVoZExFOBno717NqruIUKEccFwCThisWwr/WnoSy6E9xqzLtOcQVg7Zr7q+Z7syIt+O3ojDrOS8sV0RBVqM2RniKLo2KIRwmZRsAvkomxE5LydBZ9PbCA73chsYEVDL3Xeo7avhti0+vrEqc/SbVx4dGTUeIrGQ7sgn5Zjaqo+qFHtPtR5rAiO8k6B3+gmGr0uNnowvfv3y1EV7ZaXCwxEV/jadLYZTlhkOrpyB4+JQ3NyFNmRnUzraWl1El nox
-	- ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE03N1SPrfdsHT1T080tSDQmDgDL6Q/1Pm95hk6s56x3RVBZhLQVNRJIfkSNHFxvZEhwptXsm6Mi0IgNFYph5Io= laptop
+- a [[list]].
+	- [[pull]] [[public key]]
+	- [[push]] [[ssh]]
+		- ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILrlhcSOizbqJpRPbCzjb+dGV62Vsex/LL5+S7NK9ycQ flancian@paramita
+		- ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCo0l+vIaOeiNRVEF2d33RgLT+4JwokdG31ElojPo9nKlXbSfVaAYNr07RpoqJmJpN2/VCfD8F1F8SqgpSr32f/X8jbqeA85YDs6w2c29gK6PO3mmNCTb4n1XfctEVqKyapArveZp6VXJtQHtTulvYxia6PIHL0Wv1MFNBiTXFRijUsTxujRxXUUqy4j/eR4Ec7WsaMTphn9InWbLQi27+kbpZ5P5KA6v//brYaMzSdY+xQzTErVDf/fCtMSa1RDb3Ch0JFKNfSX7/XrQedy6/EA1BHeAh1/rpKetDX6zeh896z/UD/c0/hjb4pLCSG82SRoJWmAWxVQawK8x8ID8KXY8fB8UJsXyt06mG4mQvu0oEgYYKUEzMbxGZW2Q2Lmnod5oNvkXa2lP26dPHWpVTE++BM46F0bmT+lw/S5xmMcTLg7Yf5BgjCskXHFdRiRBP8Ymqb7EFy5esA4X2H6rkNBfz0moeYLZe5X0ym16Pnnf3j4xCYuWJ/cf5buNaaDG8= flancian@paramita
+		- ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVES957QmR0T/R8gvlnUUuzvhAj58usiSAHaUg2UqrNhu5tg7fJ8KNUdUrqBk05fmgLvP/q58UXwN7OeWjMRUDhqqakVoZExFOBno717NqruIUKEccFwCThisWwr/WnoSy6E9xqzLtOcQVg7Zr7q+Z7syIt+O3ojDrOS8sV0RBVqM2RniKLo2KIRwmZRsAvkomxE5LydBZ9PbCA73chsYEVDL3Xeo7avhti0+vrEqc/SbVx4dGTUeIrGQ7sgn5Zjaqo+qFHtPtR5rAiO8k6B3+gmGr0uNnowvfv3y1EV7ZaXCwxEV/jadLYZTlhkOrpyB4+JQ3NyFNmRnUzraWl1El nox
+		- ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE03N1SPrfdsHT1T080tSDQmDgDL6Q/1Pm95hk6s56x3RVBZhLQVNRJIfkSNHFxvZEhwptXsm6Mi0IgNFYph5Io= laptop
