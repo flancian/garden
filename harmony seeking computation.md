@@ -1,4 +1,5 @@
 - a [[paper]].
 	- #pull [[harmony seeking computations]]
 		- unclear if plural or singular is canonical given that the URL is in singular but the title is in plural :)
+		- I think the plural wins as it's used all through the paper?
 	- #go https://www.cs.york.ac.uk/nature/workshop/papers/Harmony-Seeking_Computation.pdf
