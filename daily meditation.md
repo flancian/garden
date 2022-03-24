@@ -1,2 +1,3 @@
 - #pull [[meditation practice]]
-- [[ten minutes]] guided by [[sam harris]] or [[medito]]
+- [[ten minutes]] guided by [[sam harris]] or [[medito]], as early as possible in the day
+- [[yoga]] in the afternoon/evening, sometimes leading or including meditation also
