@@ -1,0 +1,2 @@
+- The [[Agora]] has existed for thousands of years; since humanity gained consciousness, at the very least.
+	- This agora is just [[an agora]].
