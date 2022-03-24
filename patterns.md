@@ -1,8 +1,7 @@
 # patterns
-
 - a [[list]].
 	- [[pull]] [[pattern]]
-  - [[push]] [[a pattern language]]
+		- [[push [[a pattern language]]
 			- #1 [[independent regions]]
 			- #2 [[the distribution of towns]]
 			- #3 [[city  country fingers]]
@@ -10,7 +9,7 @@
 			- #5 [[lace of country streets]]
 			- #6 [[country towns]]
 			- #7 [[the countryside]]
-			- [[city]] 
+			- [[city]]
 				- #8 [[mosaic of subcultures]]
 				- [[scattered work]]
 				- [[magic of the city]]
@@ -68,7 +67,7 @@
 			- [[raised walk]]
 			- [[bike paths and racks]]
 			- #57 [[children in the city]]
-		- [[public open land]] 
+		- [[public open land]]
 			- #58 [[carnival]]
 			- [[quiet backs]]
 			- [[accessible green]]
@@ -137,10 +136,10 @@
 				- [[courtyards which live]]
 				- [[cascade of roofs]]
 				- [[sheltering roof]]
-				- #118 [[roof garden]] [[one star]] 
+				- #118 [[roof garden]] [[one star]]
 			- [[paths and squares]]
 				- #119 [[arcades]] [[two star]]
-				- [[paths and goals]] 
+				- [[paths and goals]]
 				- [[path shape]]
 				- [[building fronts]]
 				- [[pedestrian density]]
@@ -160,5 +159,4 @@
 			- #wip it goes to 253
 		- [[filtered light]]
 	- a term used by [[ward cunningham]] to refer to structure in the solution to a problem.
-	- [[pull]] [[a pattern language]]
-	- [[pull]] [[wikilinks]]
+	- #pull [[a pattern language]]
