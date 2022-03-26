@@ -1,0 +1,2 @@
+- a [[noun]].
+	- #go https://en.wikipedia.org/wiki/Gostak

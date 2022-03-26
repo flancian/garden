@@ -1,1 +1,2 @@
 - #pull [[cambridge heretics]]
+- #go https://en.wikipedia.org/wiki/Charles_Kay_Ogden#The_Heretics_Society
