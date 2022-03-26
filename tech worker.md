@@ -3,4 +3,4 @@
 	- I'm a [[tech worker]].
 		- I work for [[google]] as an [[sre]].
 		- I am [[privileged]] because of it.
-		- Flancia started as a way to think about my privilege and try to use it for [[good]].
+		- Flancia started as a way to think about my [[privilege]] and try to use it for [[good]].
