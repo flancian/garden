@@ -7,6 +7,8 @@
 		  :LOGBOOK:
 		  CLOCK: [2022-03-26 Sat 18:42:57]
 		  :END:
+		- post progress to
+			- [[thread]] https://social.coop/@flancian/108023246863400996
 		- open [[book]] in a designated tile now and choose one section
 			- this was the wrong first step :)
 			- DONE the right first step was: get [[flancia repo]] / [[become dorcas]]
