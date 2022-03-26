@@ -25,9 +25,10 @@
 - a [[book]].
 	- Just kidding. A [[draft]] really.
 	- Some possible titles:
-		- [[Flancia]], or [[with a little help from my friends]].
-		- Flancia, or,
-		- [[Flancia]], or [[building bridges]].
+		- Flancia, or [[with a little help from my friends]].
+		- Flancia, or [[my favourite things]].
+		- Flancia, or [[building bridges]].
+		- Flancia, or [[an open letter to an open society]].
 	- [[flancian]] https://twitter.com/flancian/status/1298701482997538822
 	- [[flancian]] https://twitter.com/flancian/status/1298708974364024832
 	- [[flancian]] https://twitter.com/flancian/status/1355193365046898689
