@@ -1,0 +1,3 @@
+- #pull [[edit]]
+	- I don't edit often enough, I keep saying it, yet I do little to correct it.
+	- I decided to change this when I got [[covid]]

@@ -3,3 +3,4 @@
 	- [[Probably]].
 	- #go https://matrix.to/#/#flancia-discuss:matrix.org
 	- [[flancia collective]] exists but it expresses an additional [[intent]]: that of [[working in public]] with an intention to [[cooperate by default]].
+	- ...now I should go back to [[editing]]
