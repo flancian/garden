@@ -16,15 +16,18 @@
 	- [[flancia collective]] runs the [[reference agora]].
 - a [[set]].
 	- of [[people]] and [[things]].
-		- (the [[Agora]] is in it.)
+		- (in it there's an [[Agora]].)
 	- [[music]]
 		- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 		- [[yt]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq&feature=share
 	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
+	- [[chat]] [[flancia discuss]]
 - a [[book]].
-	- a [[draft]] really.
-	- [[Flancia]], or [[with a little help from my friends]].
-	- [[Flancia]], or [[building bridges]].
+	- Just kidding. A [[draft]] really.
+	- Some possible titles:
+		- [[Flancia]], or [[with a little help from my friends]].
+		- Flancia, or,
+		- [[Flancia]], or [[building bridges]].
 	- [[flancian]] https://twitter.com/flancian/status/1298701482997538822
 	- [[flancian]] https://twitter.com/flancian/status/1298708974364024832
 	- [[flancian]] https://twitter.com/flancian/status/1355193365046898689
