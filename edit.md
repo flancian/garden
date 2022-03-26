@@ -6,7 +6,7 @@
 		- open flancia.org in a designated tile now and start reading
 		- open [[book]] in a designated tile now and choose one section
 			- this was the wrong first step :)
-			- the right first step is: [[check out flancia repo]]
+			- the right first step is: [[flancia repo]]
 - a [[journal]]
 	- that I try to keep while editing
 	- [[pull]] [[pushes]]
