@@ -1,3 +1,3 @@
 - Should there be a [[flancia discuss]]?
 	- [[Probably]].
-	- [[flancia collective]]
+	- [[flancia collective]] exists but it expresses an additional [[intent]]: that of [[working in public]] with an intention to [[cooperate]] by default.
