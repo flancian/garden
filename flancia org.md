@@ -1,8 +1,7 @@
 - A [[site]].
 	- #go https://flancia.org
-	-
-	- The [[root]] for [[Flancia]]. Where it all started.
-	- It was [[unmaintained]] fro most of [[2020]] to [[2022]] as I focused on [[work]] and building an [[Agora]].
-	- I decided it to maintain it again on [[2022-03-26]].
 	- #push [[flancia]]
+		- The [[root]] of the project. Where it all started.
 		- [[blog]] https://flancia.org/mine
+	- It was [[unmaintained]] fro most of [[2020]] to [[2022]] as I focused on [[work]] and building an [[Agora]].
+		- I finally picked it up again on [[2022-03-26]].
