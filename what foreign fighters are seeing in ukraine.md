@@ -1,4 +1,4 @@
 - an [[article]].
 	- [[elliot ackerman]]
 	- #go https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/
-	- "ukraine's three to one advantage]]
+	- [[ukraine's three to one advantage]]
