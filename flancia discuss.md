@@ -1,3 +1,5 @@
-- Should there be a [[flancia discuss]]?
+- a [[chat room]].
+	- Should there be a [[flancia discuss]]?
 	- [[Probably]].
-	- [[flancia collective]] exists but it expresses an additional [[intent]]: that of [[working in public]] with an intention to [[cooperate]] by default.
+	- #go https://matrix.to/#/#flancia-discuss:matrix.org
+	- [[flancia collective]] exists but it expresses an additional [[intent]]: that of [[working in public]] with an intention to [[cooperate by default]].
