@@ -1,6 +1,5 @@
-# Flancia.org
-
-- The [[root]] for [[Flancia]].
-- [[pull]] [[flancia]]
-
-
+- A [[site]].
+	- #go https://flancia.org
+	- The [[root]] for [[Flancia]].
+		- [[pull]] [[flancia]]
+	-
