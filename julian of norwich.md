@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[mystic]]
+	- I read her in an [[English Literature]] course I took long, long ago.
