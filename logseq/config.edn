@@ -86,4 +86,4 @@
    :markdown/version 2
    :date-formatter "yyyy-MM-dd"
    :editor/logical-outdenting? true
- :favorites ["agora"]}
+ :favorites ["cambridge heretics" "agora"]}
