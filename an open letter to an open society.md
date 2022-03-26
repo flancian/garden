@@ -3,4 +3,4 @@
 	  
 	  (I can press [[shift enter]] to write paragraphs, but switching to long form full text writing mode like I can in [[obsidian]] or [[hedgedoc]] could be better.)
 - [[2022-03-26]]
-	- Add
+	- Write about this on [[flancia org]] after/while I [[edit]].
