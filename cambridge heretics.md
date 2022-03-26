@@ -1,6 +1,7 @@
 - a [[society]].
 	- #pull [[heretics society]]
 		- [[g. k. ogden]]
+		- [[humanis]]
 		- #go https://heritage.humanists.uk/the-cambridge-heretics/
 			- "Jane Harrison, ‘Heresy and Humanity’ (1909)
 			    John McTaggart, ‘Dare to be wise’ (1909)
