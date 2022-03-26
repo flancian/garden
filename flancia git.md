@@ -1,1 +1,3 @@
-- #go https://github.com/flancian/flancia
+- #pull [[flancia]] [[git]]
+	- #go https://github.com/flancian/flancia
+	- #git https://github.com/flancian/flancia

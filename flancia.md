@@ -1,12 +1,11 @@
 # Flancia
-
 - In [[Flancia]] there is an [[Agora]]!
 - a [[place]].
-	- [[protopia]] 
+	- [[protopia]]
 		- in my [[my mind]].
 	- The world after the [[flancian revolution]].
 		- The world of the [[flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
-		- Flancia is, I believe, a place that exists as an hypothetical shared future. 
+		- Flancia is, I believe, a place that exists as an hypothetical shared future.
 		- At the very least Flancia exists in the [[multiverse]].
 - a [[project]].
 	- [[go]] https://flancia.org
@@ -15,7 +14,7 @@
 	- [[flancia collective]] runs the [[reference agora]].
 - a [[set]].
 	- of [[people]] and [[things]].
-  	- (the [[Agora]] is in it.)
+		- (the [[Agora]] is in it.)
 	- [[music]]
 		- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 		- [[yt]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq&feature=share
@@ -28,3 +27,5 @@
 	- [[flancian]] https://twitter.com/flancian/status/1298708974364024832
 	- [[flancian]] https://twitter.com/flancian/status/1355193365046898689
 	- [[flancian]] https://twitter.com/flancian/status/1373677818312278016
+- a [[repository]].
+	- #pull [[flancia git]]
