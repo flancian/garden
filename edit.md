@@ -3,10 +3,17 @@
 	- I want to execute it at least [[weekly]].
 	- I've been failing *hard* at this, now trying to come up with a [[plan]].
 	- [[push]] [[do]]
-		- LATER open flancia.org in a designated tile now and start reading
+		- NOW open flancia.org in a designated tile now and start reading
+		  :LOGBOOK:
+		  CLOCK: [2022-03-26 Sat 18:42:57]
+		  :END:
 		- open [[book]] in a designated tile now and choose one section
 			- this was the wrong first step :)
-			- the right first step is: get [[flancia repo]]
+			- DONE the right first step was: get [[flancia repo]] / [[become dorcas]]
+			  :LOGBOOK:
+			  CLOCK: [2022-03-26 Sat 18:42:20]--[2022-03-26 Sat 18:42:20] =>  00:00:00
+			  :END:
+			- also site > book at this point, it's the entry point to the whole thing! people surely stumble onto flancia.org and then *actually read it* as is :)
 - a [[journal]]
 	- that I try to keep while editing
 	- [[pull]] [[pushes]]
