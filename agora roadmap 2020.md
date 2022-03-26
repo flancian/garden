@@ -1,0 +1,3 @@
+- a [[document]].
+	- In need to editing, updating, etc.
+	- #go https://docs.google.com/document/d/1PPk6QJqXfR3Dch46go0u7r1r1OSe5-2JDadzAoBdBOU/edit#
