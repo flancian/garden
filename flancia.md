@@ -1,8 +1,10 @@
 # Flancia
 - In [[Flancia]] there is an [[Agora]]!
+	- In the Agora you can find maps of Flancia.
+	- #pull https://flancia.org
 - a [[place]].
-	- [[protopia]]
-		- in my [[my mind]].
+	- a [[protopia]]
+		- It exists at least in my [[my mind]].
 	- The world after the [[flancian revolution]].
 		- The world of the [[flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
 		- Flancia is, I believe, a place that exists as an hypothetical shared future.
