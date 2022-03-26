@@ -1,0 +1,6 @@
+- a [[class]].
+	- [[rpg]] [[meatspace]]
+	- I'm a [[tech worker]].
+		- I work for [[google]] as an [[sre]].
+		- I am [[privileged]] because of it.
+		- Flancia started as a way
