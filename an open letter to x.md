@@ -1,0 +1,5 @@
+- #pull [[an open letter to an open society]]
+- #pull [[an open letter to christopher alexander]]
+- #pull [[an open letter to alan turing]]
+- #pull [[an open letter to peter singer]]
+- #pull [[an open letter to sam harris]]
