@@ -1,3 +1,3 @@
 - a [[person]].
 	- [[twitter]] https://twitter.com/edtechdev
-	-
+	- [[auto linking]]
