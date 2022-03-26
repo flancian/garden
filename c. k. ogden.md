@@ -1,2 +1,2 @@
 - a [[person]].
-	-
+	- founding member of [[cambridge heretics]]
