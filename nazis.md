@@ -1,2 +1,3 @@
 - a [[list]].
+	- #pull [[nazi]]
 	- are all [[nazis]] [[fascists]] or only some/many?
