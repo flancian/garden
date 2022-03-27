@@ -90,13 +90,14 @@
 					- [[23:59:49]] humans
 					- less than one second before midnight: [[written history]]
 			- [[australopithecus afarensis]]
-				- [[big brains]] seem to have yielded all these innovations [[four million years]] ago:
+				- [[big brains]] seem to have yielded all these innovations [[four million years ago]]:
 					- [[language]]
 					- [[reflective consciousness]]
 					- [[tool making]]
 					- [[social]]
 			- [[homo habilis]] [[two million years ago]]
 			- [[homo erectus]]
-			- [[homo sapiens]]
-				- [[cro magnons]] -- anatomically identical to us. fully developed [[language]].
+			- [[homo sapiens]] [[250k years ago]]
+				- [[cro magnons]] -- anatomically identical to us. fully developed [[language]]. brought about an explosion of technological and artistic innovations.
+					- [[lascaux cave]]
 	- [[lecture 5]]
