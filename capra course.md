@@ -37,7 +37,9 @@
 					- [[natural selection]]
 				- all living organisms are related by common ancestry
 				- [[beagle]]
-				- Darwin knew not of a remedy to a problem of his theory: he thought heredity worked so that offspring received 50% of the traits of each ancestor
+				- Darwin knew not of a remedy to a problem of his theory: he thought heredity worked so that offspring received 50% of the traits of each ancestor, their offspring 25%, theirs 12.5%, etc.
+					- Darwin saw this as a flaw as it showed that positive traits would disappear very quickly after arising and being selected by chance
+					- [[Mendel]] of course discovered
 			- [[radical shift]] in biological thought: from [[being]] to [[becoming]] (a shift towards change)
 			- [[holistic view]]
 	- [[lecture 5]]
