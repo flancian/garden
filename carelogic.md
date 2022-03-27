@@ -1,3 +1,4 @@
 - a [[person]].
 	- [[twitter]] https://twitter.com/carelogic
-	-
+	- uses [[nix]] ([[nix os]]?)
+	- is trying to make the [[Agora]] work on [[nix]]: https://github.com/JeffreyBenjaminBrown/nixos-experiments/tree/25e5ae7c889add567dc24dbe69fe4f6228a173e1/agora-problems
