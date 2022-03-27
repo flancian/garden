@@ -98,6 +98,8 @@
 			- [[homo habilis]] [[two million years ago]]
 			- [[homo erectus]]
 			- [[homo sapiens]] [[250k years ago]]
-				- [[cro magnons]] -- anatomically identical to us. fully developed [[language]]. brought about an explosion of technological and artistic innovations.
+				- [[cro magnon]] -- anatomically identical to us. fully developed [[language]]. brought about an explosion of technological and artistic innovations.
 					- [[lascaux cave]]
+					- [[chauvet cave]]
+						- [[300]] paintings
 	- [[lecture 5]]
