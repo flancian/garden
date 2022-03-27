@@ -1,1 +1,2 @@
-- My plan amounts to changing the world
+- My [[plan]] amounts to trying to [[change the world]] by believing it can be changed, then persisting even in the face of the evidence.
+	- What's the worst that could happen?
