@@ -104,5 +104,7 @@
 						- [[300 paintings]] of high artistic achievement and with a [[narrative]]
 	- [[lecture 5]] [[mind and consciousness]]
 		- [[summary]] https://spring.capracourse.net/wp-content/uploads/2021/03/Lecture-5-Summary.pdf
+		- [[gregory bateson]]
 		- [[santiago theory]]
-			-
+			- [[humberto maturana]]
+			- [[francisco varela]]
