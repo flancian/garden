@@ -72,4 +72,6 @@
 				- all three of the previous produce changes that need to be integrated into the physical and chemical environment; if the integration of new genetic information doesn't work, the organism can't survive -> there's natural selection
 				- [[epigenetic network]]
 				- real life example: in human life you make plans (you have a plan for your night), plans need to adapt to random occurrences (people you run into; other events out of your sphere of control). evolution works the same way.
+			- [[david brower]] narrative: compresses 4.5B years (the [[age of the earth]]) into the six days of [[biblical creation]]
+				-
 	- [[lecture 5]]
