@@ -19,5 +19,7 @@
 		- [[summary]]  https://spring.capracourse.net/wp-content/uploads/2021/03/Lecture-4-Summary.pdf
 		- [[prebiotic evolution]]
 		- [[lipid walls]] acted as proto membranes
-			- within simple bubbles that tended to let some elements selectively in and keep them in, those elements collisioned and interacted much more often than without
+			- within simple bubbles that tended to let some compounds selectively in and keep them in, those compounds collisioned and interacted much more often than without
+			- yields [[network chemistry]]
+			-
 	- [[lecture 5]]
