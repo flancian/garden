@@ -57,7 +57,7 @@
 						- some [[microbiologists]] argue that [[bacteria]] should not be categorized into [[species]]
 						- during the first [[2 billion]] years of evolution, only bacteria were around
 						- [[bacteria]] bootstrapped it all, established the global system
-						- [[bacteria]] also invented:
+						- #push [[bacteria]] also invented:
 							- [[fermentation]]
 							- [[photosynthesis]]
 							- [[nitrogen fixation]]
