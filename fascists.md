@@ -1,3 +1,6 @@
 - a [[list]].
 	- [[adolf hitler]]
+	- [[josef mengele]]
 	-
+	- [[benito mussolini]]
+	- [[rafael videla]]
