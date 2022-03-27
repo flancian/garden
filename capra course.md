@@ -37,4 +37,6 @@
 					- [[natural selection]]
 				- all living organisms are related by common ancestry
 				- [[beagle]]
+			- [[radical shift]] in biological thought: from [[being]] to [[becoming]] (a shift towards change)
+			-
 	- [[lecture 5]]
