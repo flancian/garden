@@ -89,5 +89,11 @@
 					- [[23:59:30]] [[homo sapiens]] begins to evolve
 					- [[23:59:49]] humans
 					- less than one second before midnight: [[written history]]
-			-
+			- [[australopithecus afarensis]]
+				- [[big brains]] seem to have yielded all these innovations [[four million years]] ago:
+					- [[language]]
+					- [[reflective consciousness]]
+					- [[tool making]]
+					- [[social]]
+				-
 	- [[lecture 5]]
