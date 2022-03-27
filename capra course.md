@@ -109,19 +109,20 @@
 		- #push [[santiago theory]]
 			- [[humberto maturana]]
 			- [[francisco varela]]
-		- a new conception  of the nature of [[mind]] and [[consciousness]] is an implication of the [[systemic understanding of life]]
-			- it goes beyond the [[cartesian division]].
-				- [[rené descartes]] based his thought on a fundamental division between [[res cogitans]] (the thinking mind) and [[res extensa]] (matter, the extensive thing)
-					- [[mind]] as an intangible entity poses the question of how it interacts with matter
-			- mind and consciousness are not [[things]], they are [[processes]]
-				- [[gregory bateson]]
-				- [[mental process]]
-				- independently [[humberto maturana]] had similar ideas w.r.t. [[cognition]]
-				- [[francisco varela]] worked with him and developed his insights into a theory known as [[santiago theory of cognition]]
-					- [[cognitive science]] is a [[transdisciplinary approach]]
-					- the process of knowing and the process of life are one and the same
-					- [[cognition]] is the activity involved in the self generation and self perpetuation of [[living networks]]
-					- the self organizing activity of a living system at all levels is [[mental activity]]
-					- the interactions of a living organism with its environment are [[cognitive interactions]]
-					- life and cognition are inseparably connected at all levels of life
+			- a new conception  of the nature of [[mind]] and [[consciousness]] is an implication of the [[systemic understanding of life]]
+				- it goes beyond the [[cartesian division]].
+					- [[rené descartes]] based his thought on a fundamental division between [[res cogitans]] (the thinking mind) and [[res extensa]] (matter, the extensive thing)
+						- [[mind]] as an intangible entity poses the question of how it interacts with matter
+				- mind and consciousness are not [[things]], they are [[processes]]
+					- [[gregory bateson]] [[mental process]]
+					- independently [[humberto maturana]] had similar ideas w.r.t. [[cognition]]
+					- [[francisco varela]] worked with him and developed his insights into a theory known as [[santiago theory of cognition]]
+						- [[cognitive science]] is a [[transdisciplinary approach]]
+						- the process of knowing and the process of life are one and the same
+						- [[cognition]] is the activity involved in the self generation and self perpetuation of [[living networks]]
+						- the self organizing activity of a living system at all levels is [[mental activity]]
+						- the interactions of a living organism with its environment are [[cognitive interactions]]
+						- life and cognition are inseparably connected at all levels of life
+						- cognitive activity is [[immanent]] in life
+					- cognition does not require a brain/nervous system
 					-
