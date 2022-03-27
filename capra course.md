@@ -79,5 +79,11 @@
 				- [[friday 4pm]] sexual reproduction invented
 				- [[saturday]] all visible forms of life evolved
 					- [[1.30am]] first marine animals
-					- [[9.30am]] first plants o
+					- [[9.30am]] first plants come ashore
+					- [[4.50pm]] great reptiles, roam for five hours
+					- [[5.30pm]] first mammals
+					- [[10pm]] first primates
+					- [[11pm]] first monkeys
+					- [[11:40]] great apes appear
+					- [[23:52]]
 	- [[lecture 5]]
