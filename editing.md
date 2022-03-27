@@ -1,0 +1,4 @@
+- #pull [[edit]]
+	- I don't edit often enough, I keep saying it, yet I do little to correct it.
+	- I decided to try to change this, so when I got [[covid]], I told myself I'd [[edit]] for a change.
+	- Started with [[flancia org]].

@@ -1,13 +1,14 @@
 # Flancia
-
 - In [[Flancia]] there is an [[Agora]]!
+	- In the Agora you can find maps of Flancia.
+	- #pull https://flancia.org
 - a [[place]].
-	- [[protopia]] 
-		- in my [[my mind]].
-	- The world after the [[flancian revolution]].
+	- a [[protopia]]
+		- It exists at least in my [[my mind]].
+	- Perhaps the world after the [[flancian revolution]] or a similar world changing event.
 		- The world of the [[flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
-		- Flancia is, I believe, a place that exists as an hypothetical shared future. 
-		- At the very least Flancia exists in the [[multiverse]].
+		- Flancia is, I believe, a place that exists in our hypothetical shared future.
+		- You could say Flancia exists in the [[multiverse]].
 - a [[project]].
 	- [[go]] https://flancia.org
 	- I am a [[Flancian]] and this [[Agora]] contains my [[manifesto]].
@@ -15,16 +16,22 @@
 	- [[flancia collective]] runs the [[reference agora]].
 - a [[set]].
 	- of [[people]] and [[things]].
-  	- (the [[Agora]] is in it.)
+		- (in it there's an [[Agora]].)
 	- [[music]]
 		- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 		- [[yt]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq&feature=share
 	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
+	- [[chat]] [[flancia discuss]]
 - a [[book]].
-	- a [[draft]] really.
-	- [[Flancia]], or [[with a little help from my friends]].
-	- [[Flancia]], or [[building bridges]].
+	- Just kidding. A [[draft]] really.
+	- Some possible titles:
+		- Flancia, or [[with a little help from my friends]].
+		- Flancia, or [[my favourite things]].
+		- Flancia, or [[building bridges]].
+		- Flancia, or [[an open letter to an open society]].
 	- [[flancian]] https://twitter.com/flancian/status/1298701482997538822
 	- [[flancian]] https://twitter.com/flancian/status/1298708974364024832
 	- [[flancian]] https://twitter.com/flancian/status/1355193365046898689
 	- [[flancian]] https://twitter.com/flancian/status/1373677818312278016
+- a [[repository]].
+	- #pull [[flancia git]]
