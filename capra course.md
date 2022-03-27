@@ -15,6 +15,7 @@
 		- [[summary]] https://spring.capracourse.net/wp-content/uploads/2016/06/Lecture-2-Summary.pdf
 	- [[lecture 3]] [[order and complexity in the living world]]
 		- [[summary]] https://spring.capracourse.net/wp-content/uploads/2021/03/Lecture-3-Summary.pdf
+		- complex systems ~ [[non linear systems]]
 	- [[lecture 4]] [[the systems view of evolution]]
 		- [[summary]]  https://spring.capracourse.net/wp-content/uploads/2021/03/Lecture-4-Summary.pdf
 		- [[prebiotic evolution]]
@@ -22,4 +23,5 @@
 			- within simple bubbles that tended to let some compounds selectively in and keep them in, those compounds collisioned and interacted much more often than without
 			- yields [[network chemistry]]
 			-
+		- [[universal ancestor]] is thought to have
 	- [[lecture 5]]
