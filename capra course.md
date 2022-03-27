@@ -37,6 +37,7 @@
 					- [[natural selection]]
 				- all living organisms are related by common ancestry
 				- [[beagle]]
+				- Darwin knew not of a remedy to a problem of his theory: why
 			- [[radical shift]] in biological thought: from [[being]] to [[becoming]] (a shift towards change)
-			-
+			- [[holistic view]]
 	- [[lecture 5]]
