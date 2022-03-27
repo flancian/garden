@@ -111,3 +111,4 @@
 		- a new conception  of the nature of [[mind]] and [[consciousness]] is an implication of the [[systemic understanding of life]]
 			- it goes beyond the [[cartesian division]].
 			- [[rené descartes]] based his thought on a fundamental division between [[res cogitans]] (the thinking mind) and [[res extensa]] (matter, the extensive thing)
+				- [[mind]] as an intangible entity poses the question of how it interacts with matter
