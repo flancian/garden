@@ -11,10 +11,10 @@
 	- [[lecture 1]] [[systems thinking]]
 		- introduction
 		- [[summary]] https://spring.capracourse.net/wp-content/uploads/2016/06/Lecture-1-Summary.pdf
-	- [[lecture 2]]
+	- [[lecture 2]] [[the web of life]]
 		- [[summary]] https://spring.capracourse.net/wp-content/uploads/2016/06/Lecture-2-Summary.pdf
-	- [[lecture 3]]
+	- [[lecture 3]] [[order and complexity in the living world]]
 		- [[summary]] https://spring.capracourse.net/wp-content/uploads/2021/03/Lecture-3-Summary.pdf
-	- [[lecture 4]]
+	- [[lecture 4]] [[the systems view of evolution]]
 		- [[summary]]  https://spring.capracourse.net/wp-content/uploads/2021/03/Lecture-4-Summary.pdf
 	- [[lecture 5]]
