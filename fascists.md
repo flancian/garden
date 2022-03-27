@@ -3,6 +3,7 @@
 		- [[adolf hitler]]
 		- [[josef mengele]]
 		- [[hugo boss]]
+		- are all [[nazis]] also [[fascists]] or only some, many, most of them?
 	- [[benito mussolini]]
 	- [[rafael videla]]
 	-
