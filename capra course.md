@@ -85,5 +85,8 @@
 					- [[10pm]] first primates
 					- [[11pm]] first monkeys
 					- [[11:40]] great apes appear
-					- [[23:52]]
+					- [[23:56]] [[homo habilis]]
+					- [[23:59:30]] [[homo sapiens]]
+					- [[23:59:49]] humans
+					- less than one second before midnight: [[written human history]]
 	- [[lecture 5]]
