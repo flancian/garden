@@ -1,6 +1,4 @@
 # Anti Fascist
-
 - One that is against [[fascism]].
-- [[pull]] [[fascism]] [[paradox-of-tolerance]]
-
-
+	- [[pull]] [[fascism]]
+	- I identy as an [[anti fascist]] due to the [[paradox of tolerance]]

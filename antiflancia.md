@@ -8,7 +8,8 @@
 				- including [[poverty]]
 				- [[sexism]]
 				- [[racism]]
-			- [[fascism]] for its violence and its
+			- [[fascism]] for its violence and its will to [[suppress]] and [[repress]]
+				- I'm [[anti fascist]].
 - [[pull]] [[omelas]] [[relics]]
   
   It was in [[Antiflancia]] that I knew [[Moloch]]: I saw his true face in the corrupt beauty of those that ignored suffering even as it stared them back; I saw the [[egregore]] take shape from the bodies of the rich as they learnt (were raised, then taught) not to stray near the wrong places -- the places where suffering in hidden in plain view.
