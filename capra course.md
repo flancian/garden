@@ -105,6 +105,6 @@
 	- [[lecture 5]] [[mind and consciousness]]
 		- [[summary]] https://spring.capracourse.net/wp-content/uploads/2021/03/Lecture-5-Summary.pdf
 		- [[gregory bateson]]
-		- [[santiago theory]]
+		- #push [[santiago theory]]
 			- [[humberto maturana]]
 			- [[francisco varela]]
