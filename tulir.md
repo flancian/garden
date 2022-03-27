@@ -1,0 +1,3 @@
+- a [[person]].
+	- the [[author]] and [[maintainer]] of [[maubot]].
+	- https://develop.element.io/#/room/#maubot:maubot.xyz
