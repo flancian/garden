@@ -2,4 +2,4 @@
 	- [[source control management]] == [[scm]] system
 	- [[batteries included]]
 	- #go https://fossil-scm.org
-	- [[sqlite]] based
+	- [[sqlite]] based, written mostly in [[c]] it seems
