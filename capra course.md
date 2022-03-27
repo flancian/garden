@@ -117,4 +117,6 @@
 				- -> [[gregory bateson]]
 				- [[mental process]]
 				- independently [[humberto maturana]] had similar ideas w.r.t. [[cognition]]
-				- [[francisco varela]] developed his insight i
+				- [[francisco varela]] worked with him and developed his insights into a theory known as [[santiago theory of cognition]]
+					- [[cognitive science]] is a [[transdisciplinary approach]]
+					-
