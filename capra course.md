@@ -95,5 +95,8 @@
 					- [[reflective consciousness]]
 					- [[tool making]]
 					- [[social]]
-				-
+			- [[homo habilis]] [[two million years ago]]
+			- [[homo erectus]]
+			- [[homo sapiens]]
+				- [[cro magnons]] -- anatomically identical to us. fully developed [[language]].
 	- [[lecture 5]]
