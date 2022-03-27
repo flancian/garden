@@ -50,8 +50,9 @@
 					- [[random mutation of genes]]
 						- most mutations are harmful, few lead to positive variations
 						- note that one bacteria can become [[billions]] in just one day
-					- [[bacteria]] freely trade genes, swap genes with each other
-						- global trading of genes (!)
-						- [[lynn margulis]]
-						- [[horizontal genetic transfer]]
+					- [[horizontal genetic transfer]]
+						- [[bacteria]] freely trade genes, swap genes with each other
+							- global trading of genes (!)
+							- [[lynn margulis]]
+						- some [[microbiologists]] argue that [[bacteria]] should not be categorized into [[species]]
 	- [[lecture 5]]
