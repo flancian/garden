@@ -1,0 +1,1 @@
+- #pull [[all tomorrow's parties]]
