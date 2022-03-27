@@ -32,6 +32,9 @@
 			- the [[dynamics of life's creativity]]
 		- #push [[history of evolutionary thought]]
 			- #push [[charles darwin]]
-				- [[chance variation]] -> [[random mutation]]
-				- [[natural selection]]
+				- based his theory on two core ideas:
+					- [[chance variation]] -> [[random mutation]]
+					- [[natural selection]]
+				- all living organisms are related by common ancestry
+				- [[beagle]]
 	- [[lecture 5]]
