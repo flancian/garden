@@ -108,3 +108,5 @@
 		- #push [[santiago theory]]
 			- [[humberto maturana]]
 			- [[francisco varela]]
+		- a new conception  of the nature of [[mind]] and [[consciousness]] is an implication of the [[systemic understanding of life]]
+			-
