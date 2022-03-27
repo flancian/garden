@@ -48,5 +48,7 @@
 			- #push [[systems view of evolution]]
 				- recognizes three major avenues of evolution:
 					- [[random mutation of genes]]
-					-
+						- most mutations are harmful, few lead to positive variations
+						- note that one bacteria can become [[billions]] in just one day
+						- [[bacteria]] freely trade genes, swap genes with each other
 	- [[lecture 5]]
