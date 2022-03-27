@@ -1,2 +1,5 @@
-- my jaw just dropped. [[hugo boss]], the [[fashion designer]], was a nazi and produced the SS uniforms.
-- #pull https://en.wikipedia.org/wiki/Hugo_Boss_(fashion_designer)
+- a [[person]].
+	- my jaw just dropped. [[hugo boss]], the [[fashion designer]], was a nazi and produced the SS uniforms.
+	- #pull https://en.wikipedia.org/wiki/Hugo_Boss_(fashion_designer)
+- a [[company]].
+	- in the fashion business.
