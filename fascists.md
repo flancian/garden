@@ -1,6 +1,8 @@
 - a [[list]].
-	- [[adolf hitler]]
-	- [[josef mengele]]
-	-
+	- #push [[nazis]]
+		- [[adolf hitler]]
+		- [[josef mengele]]
+		- [[hugo boss]]
 	- [[benito mussolini]]
 	- [[rafael videla]]
+	-
