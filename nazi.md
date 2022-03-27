@@ -1,5 +1,5 @@
 - a [[person]].
 	- member of the [[nazi]] party in [[hitler germany]] or any other country/time period
 	- #pull [[nazis]]
-- a [[person]].
-	-
+- a [[shorthand]].
+	- for [[fascist]]
