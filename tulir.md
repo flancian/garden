@@ -1,2 +1,3 @@
-- the [[author]] of [[maubot]].
-	-
+- a [[person]].
+	- the [[author]] of [[maubot]].
+	- https://develop.element.io/#/room/#maubot:maubot.xyz
