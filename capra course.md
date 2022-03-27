@@ -101,5 +101,6 @@
 				- [[cro magnon]] -- anatomically identical to us. fully developed [[language]]. brought about an explosion of technological and artistic innovations.
 					- [[lascaux cave]]
 					- [[chauvet cave]]
-						- [[300]] paintings
-	- [[lecture 5]]
+						- [[300 paintings]] of high artistic achievement
+	- [[lecture 5]] [[mind and consciousness]]
+		-
