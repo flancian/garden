@@ -37,7 +37,7 @@
 					- [[natural selection]]
 				- all living organisms are related by common ancestry
 				- [[beagle]]
-				- Darwin knew not of a remedy to a problem of his theory: why
+				- Darwin knew not of a remedy to a problem of his theory: he thought heredity worked so that offspring received 50% of the traits of each ancestor
 			- [[radical shift]] in biological thought: from [[being]] to [[becoming]] (a shift towards change)
 			- [[holistic view]]
 	- [[lecture 5]]
