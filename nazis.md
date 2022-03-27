@@ -1,0 +1,2 @@
+- a [[list]].
+	- are all [[nazis]] [[fascists]] or only some/many?
