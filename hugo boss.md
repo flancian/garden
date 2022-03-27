@@ -4,3 +4,4 @@
 		- In the 1930s, it produced uniforms for the SA, the SS,[2] the Hitler Youth, the postal service, the national railroad, and later the Wehrmacht.
 - a [[company]].
 	- in the fashion business.
+	- https://en.wikipedia.org/wiki/Hugo_Boss
