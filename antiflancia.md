@@ -1,7 +1,6 @@
 # Antiflancia
 - a [[place]].
-	- a [[dystopia]].
-		- in [[cacotopoi]]
+	- in [[cacotopoi]], [[dystopoi]].
 	- if [[Flancia]] is a [[set]], [[Antiflancia]] can be said to contain its [[complement]]; all that [[Flancia]] doesn't because of its ethical charge. Some examples:
 		- [[violence]]
 		- [[poverty]]
