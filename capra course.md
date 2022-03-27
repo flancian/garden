@@ -25,6 +25,8 @@
 				- ()[[non linear dynamics]], [[complexity theory]] figures prominently.)
 			- competition for nutrients yielded [[evolutionary pressure]]
 		- [[universal ancestor]] is thought to have come into existence around ~3.5B years ago
+			- colonized essentially our whole environment, making future life possible
+		- [[prebiotic evolution]] plus
 		- rather than seeing evolution as the result of random mutations, the central focus is on the creativity and the dynamics of life as processes of increasing complexity
 		- [[history of evolutionary thought]]
 			- #push [[charles darwin]]
