@@ -39,7 +39,8 @@
 				- [[beagle]]
 				- Darwin knew not of a remedy to a problem of his theory: he thought heredity worked so that offspring received 50% of the traits of each ancestor, their offspring 25%, theirs 12.5%, etc.
 					- Darwin saw this as a flaw as it showed that positive traits would disappear very quickly after arising and being selected by chance
-					- [[Mendel]] of course discovered
+					- [[Mendel]] of course discovered the units of heredity, [[genes]]
+					- [[Mendel]] wrote to [[Darwin]] in German (!), and allegedly Darwin didn't read it because it was in German and had too much math on it (!).
 			- [[radical shift]] in biological thought: from [[being]] to [[becoming]] (a shift towards change)
 			- [[holistic view]]
 	- [[lecture 5]]
