@@ -121,4 +121,7 @@
 					- [[cognitive science]] is a [[transdisciplinary approach]]
 					- the process of knowing and the process of life are one and the same
 					- [[cognition]] is the activity involved in the self generation and self perpetuation of [[living networks]]
+					- the self organizing activity of a living system at all levels is [[mental activity]]
+					- the interactions of a living organism with its environment are [[cognitive interactions]]
+					- life and cognition are inseparably connected at all levels of life
 					-
