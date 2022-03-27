@@ -71,6 +71,7 @@
 							- [[acquiring genomes]]
 								- compares organisms to [[corporations]]
 						-
-				- all three of the previous produce changes that need to be integrated into the physical and chemical environment; if the integration of new genetic information doesn't work, the organism can't survive (and that produces ev)
+				- all three of the previous produce changes that need to be integrated into the physical and chemical environment; if the integration of new genetic information doesn't work, the organism can't survive
 				- [[epigenetic network]]
+				- real life example: in human life you make plans (you have a plan for your night), plans need to adapt to
 	- [[lecture 5]]
