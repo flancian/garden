@@ -63,8 +63,9 @@
 							- [[nitrogen fixation]]
 							- [[rapid motion]]
 							- [[respiration]] (!)
-					- [[evolution through symbiosis]]
+					- [[symbiogenesis]]
+						- [[evolution through symbiosis]]
 						- [[lynn margulis]] as well
-							- hypothesis: long term [[symbiosis]] involving [[bacteria]] and [[microorganisms]] as hosts led to complex life
+							- hypothesis: long term [[symbiosis]] involving [[bacteria]] and other [[microorganisms]] as hosts/guests led to complex life
 						-
 	- [[lecture 5]]
