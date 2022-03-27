@@ -22,6 +22,8 @@
 		- [[lipid walls]] acted as proto membranes
 			- within simple bubbles that tended to let some compounds selectively in and keep them in, those compounds collisioned and interacted much more often than without
 			- yields [[network chemistry]]
-			-
-		- [[universal ancestor]] is thought to have
+		- [[universal ancestor]] is thought to have come into existence around ~3.5B years ago
+		- rather than seeing evolution as the result of random mutations, the central focus is on the creativity and the dynamics of life as processes of increasing complexity
+		- [[history of evolutionary thought]]
+		-
 	- [[lecture 5]]
