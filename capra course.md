@@ -44,5 +44,9 @@
 			- [[radical shift]] in biological thought: from [[being]] to [[becoming]] (a shift towards change)
 			- [[holistic view]]
 			- #push [[neodarwinism]]
-			-
+				- evolutionary variations result from random mutations, being random genetic changes, followed by natural selection.
+			- #push [[systems view of evolution]]
+				- recognizes three major avenues of evolution:
+					- [[random mutation of genes]]
+					-
 	- [[lecture 5]]
