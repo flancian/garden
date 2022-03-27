@@ -1,1 +1,6 @@
-- I'd love for the Agora to contain many [[open letters]] to many different [[parties]].
+- a [[list]].
+	- I'd love for the Agora to contain many [[open letters]] to many different [[parties]].
+		- [[open letter to an open society]]
+		- [[open letter to christopher alexander]]
+		-
+		- [[open letter to peter singer]]
