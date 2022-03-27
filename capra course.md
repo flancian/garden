@@ -80,13 +80,13 @@
 				- [[saturday]] all visible forms of life evolved
 					- [[1.30am]] first marine animals
 					- [[9.30am]] first plants come ashore
-					- [[4.50pm]] great reptiles, roam for five hours
-					- [[5.30pm]] first mammals
-					- [[10pm]] first primates
-					- [[11pm]] first monkeys
-					- [[11:40]] great apes appear
+					- [[16.50]] great reptiles, roam for five hours
+					- [[17.30]] first mammals
+					- [[22]] first primates
+					- [[23]] first monkeys
+					- [[23:40]] great apes appear
 					- [[23:56]] [[homo habilis]]
-					- [[23:59:30]] [[homo sapiens]]
+					- [[23:59:30]] [[homo sapiens]] begins to evolve
 					- [[23:59:49]] humans
-					- less than one second before midnight: [[written human history]]
+					- less than one second before midnight: [[written history]]
 	- [[lecture 5]]
