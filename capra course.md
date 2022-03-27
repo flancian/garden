@@ -25,5 +25,7 @@
 		- [[universal ancestor]] is thought to have come into existence around ~3.5B years ago
 		- rather than seeing evolution as the result of random mutations, the central focus is on the creativity and the dynamics of life as processes of increasing complexity
 		- [[history of evolutionary thought]]
-		-
+			- #push [[charles darwin]]
+				- [[chance variation]] -> [[random mutation]]
+				- [[natural selection]]
 	- [[lecture 5]]
