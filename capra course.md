@@ -67,5 +67,7 @@
 						- [[evolution through symbiosis]]
 						- [[lynn margulis]] as well
 							- hypothesis: long term [[symbiosis]] involving [[bacteria]] and other [[microorganisms]] as hosts/guests led to complex life
+							- [[acquring genomes]]
+								- compares organisms to [[corporations]]
 						-
 	- [[lecture 5]]
