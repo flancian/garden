@@ -58,5 +58,9 @@
 						- during the first [[2 billion]] years of evolution, only bacteria were around
 						- [[bacteria]] bootstrapped it all, established the global system
 						- [[bacteria]] also invented:
-							-
+							- [[fermentation]]
+							- [[photosynthesis]]
+							- [[nitrogen fixation]]
+							- [[rapid motion]]
+							- [[respiration]] (!)
 	- [[lecture 5]]
