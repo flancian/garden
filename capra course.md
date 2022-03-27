@@ -47,10 +47,11 @@
 				- evolutionary variations result from random mutations, being random genetic changes, followed by natural selection.
 			- #push [[systems view of evolution]]
 				- recognizes three major avenues of evolution:
-					- [[random mutation of genes]]
+					-
+					- [[random mutations]] == [[genetic mutations]]
 						- most mutations are harmful, few lead to positive variations
 						- note that one bacteria can become [[billions]] in just one day
-					- [[horizontal genetic transfer]]
+					- [[horizontal genetic transfer]] == [[gene trading]]
 						- [[bacteria]] freely trade genes, swap genes with each other
 							- global trading of genes (!)
 							- [[lynn margulis]]
@@ -67,7 +68,8 @@
 						- [[evolution through symbiosis]]
 						- [[lynn margulis]] as well
 							- hypothesis: long term [[symbiosis]] involving [[bacteria]] and other [[microorganisms]] as hosts/guests led to complex life
-							- [[acquring genomes]]
+							- [[acquiring genomes]]
 								- compares organisms to [[corporations]]
 						-
+					-
 	- [[lecture 5]]
