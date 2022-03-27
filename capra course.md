@@ -113,4 +113,8 @@
 			- it goes beyond the [[cartesian division]].
 				- [[rené descartes]] based his thought on a fundamental division between [[res cogitans]] (the thinking mind) and [[res extensa]] (matter, the extensive thing)
 					- [[mind]] as an intangible entity poses the question of how it interacts with matter
-			-
+			- mind and consciousness are not [[things]], they are [[processes]]
+				- -> [[gregory bateson]]
+				- [[mental process]]
+				- independently [[humberto maturana]] had similar ideas w.r.t. [[cognition]]
+				- [[francisco varela]] developed his insight i
