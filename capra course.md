@@ -124,5 +124,5 @@
 						- the interactions of a living organism with its environment are [[cognitive interactions]]
 						- life and cognition are inseparably connected at all levels of life
 						- cognitive activity is [[immanent]] in life
-					- cognition does not require a brain/nervous system
-						- plants, bacteria which don't have nervous systems are all constantly involved in cognitive activities (as they perceive, react)
+					- [[cognition]] does not require a [[brain]]/nervous system
+						- plants, bacteria which don't have nervous systems are all constantly involved in [[cognitive activities]] (as they perceive, react)
