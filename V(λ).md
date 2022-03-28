@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[friend]]
+	- https://twitter.com/weirdrubikscube
