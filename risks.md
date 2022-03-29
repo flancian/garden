@@ -1,0 +1,5 @@
+- My [[plan]] sometimes amounts to trying to [[change the world]] by believing it can be changed, even in the face of contradictory evidence.
+	- What's the worst that could happen?
+	- My dreams could crash down on me, of course -- which they will, which they do.
+- a [[list]].
+	- #pull [[risk]]
