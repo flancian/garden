@@ -12,3 +12,5 @@
   From there to recording us was but a step; and from there to [[fractal yoga]], recursively many (just joking -- it was two.) But that was later. First came the [[mirrors]].
   
   (This could lead to [[Caramel City]].)
+  
+  Mirrors solved the issue of not being able to see Adriene (or, indeed, Benji) while in a
