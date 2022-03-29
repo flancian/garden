@@ -13,4 +13,4 @@
   
   (This could lead to [[Caramel City]].)
   
-  Mirrors solved the issue of not being able to see Adriene (or, indeed, Benji) while in a
+  Mirrors solved the issue of not being able to see Adriene (or, indeed, Benji) while in a pose facing away from the main screen; when I say mirrors, I should clarify I mean screens -- additional computation devices, my phone, laptops -- showing the same yoga video through the convenient meeting of a remote screen connection. Mirrors that don't flip
