@@ -7,4 +7,4 @@
   
   (I'm writing this in [[document mode]].)
   
-  It started as a joke, partly a reflection on my own egocentrism. We loved doing [[Yoga with Adriene]] and [[Benji]] but
+  It started as a joke, partly a reflection on my own egocentrism. We loved doing [[Yoga with Adriene]] and [[Benji]] but sometimes struggled with poses and transitions; the opportunity to watch ourselves while we were doing [[yoga]] proved too tempting, the webcam was pointed, the
