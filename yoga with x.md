@@ -6,3 +6,5 @@
 - a [[short story]].
   
   (I'm writing this in [[document mode]].)
+  
+  It started as a joke, partly a reflection on my own egocentrism.
