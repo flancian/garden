@@ -2,3 +2,4 @@
 	- [[friend]]
 	- https://twitter.com/weirdrubikscube
 	- there's another entry about them in the Agora, but I've forgotten where that is.
+		- [[Luminosity]]
