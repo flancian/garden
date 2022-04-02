@@ -1,2 +1,4 @@
-- #push [[ways to nudge the future]]
--
+- an [[article]].
+	- by [[bill seitz]]
+	- #push [[ways to nudge the future]]
+		- #go http://webseitz.fluxent.com/wiki/2020-06-27-WaysToNudgeFuture
