@@ -7,4 +7,4 @@
 		    If you put up with me long enough, I'll tell you all about it, and you will be able to decide which letter you would have liked to read instead and you maybe could write.
 		  
 		    I'm writing this to a nation that doesn't quite exist, but I think could exist. It is the nation of the people that agree that this nation should exist; it has borders, as you will see, but these are open borders, and this is one of the things that makes it an [[open nation]].
-	-
+	- Might deprioritize this in favour of [[an open letter to an open society]]. I'm just not super into the concept of [[nation]], all things considered (including historical context).
