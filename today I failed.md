@@ -1,4 +1,4 @@
 - Today I failed hard at something -- I tried having a difficult conversation and it didn't end well (it usually does!), the other person got angry at me and they don't want to talk about it.
 - I got a bit angry as well at one point but I tried managing it; I hope I succeeded at least partly. I try to never raise my voice, and to make it clear to the other person that if I'm bringing a difficult topic up it is with good intent.
 - But I failed -- I could have done better.
-- I need to reflect on this and see what I should
+- I need to reflect on this and see what I should change to do better next time, and what I can do to patch things up if anything.
