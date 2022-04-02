@@ -1,0 +1,2 @@
+- Today I failed hard at something -- I tried having a difficult conversation and it didn't end well (it usually does!), the other person got angry at me and they don't want to talk about it.
+- I got angry a bit
