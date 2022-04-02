@@ -1,2 +1,2 @@
 - Today I failed hard at something -- I tried having a difficult conversation and it didn't end well (it usually does!), the other person got angry at me and they don't want to talk about it.
-- I got angry a bit
+- I got a bit angry as well at one point but I tried managing it; I hope I succeeded at least partly. I try to never raise my voice, and to make it clear to the other person that I'm bringing up something with good intent.
