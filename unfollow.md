@@ -1,0 +1,3 @@
+- I [[spam]] a lot -- my [[thoughts]], my [[feelings]].
+	- Please feel free to unfollow any time it's too much. No hard feelings!
+	- You can always reach out to me anytime if you need anything regardless. See [[flancian]] for details.
