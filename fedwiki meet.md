@@ -1,5 +1,5 @@
 - #go https://wiki.ralfbarkow.ch/view/fedwiki-meet
-	- usually Wednesday at 6pm GMT.
+	- usually Wednesdays at 6pm GMT?
 	- or check for updates on [[wednesday]] at...
 	- #push [[fedwiki matrix]]
 		- https://app.element.io/#/room/#fedwiki:matrix.org
