@@ -1,2 +1,2 @@
 - I am quite [[self promotional]]. Please excuse any discomfort.
-- Because I am self promotiona
+- Because I am self promotional, I try to think of the [[big self]] first.
