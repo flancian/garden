@@ -4,13 +4,13 @@
 		- You can be my [[friend]] essentially just by being interested on being one of them and being a well-intentioned person.
 		- I assume all are [[well intentioned]] by [[default]].
 	- I like to think of [[flancia]] as an interactive book dedicated to my [[friends]].
-	- #go https://flancia.org
-	- I like to think of [[Flancia]] as a [[book]] dedicated to my [[friends]].
-		- See you on the other side, my [[friends]]!
-		- [[In Flancia there is an Agora]] == [[En Flancia hay un Agora]]
-		- [[Per aspera ad astra]]
-		- [[El pueblo unido jamás será vencido]] == [[The People United Will Never Be Defeated]]
-		- [[In Flancia there is no poverty]] == [[En Flancia no hay pobreza]]
-		- [[Juntos Venceremos a Moloch]].
-		- [[En Flancia hay muchas luces]].
-		- [[Iremos juntos hasta el fin de la noche]].
+	- #push [[books]]
+		- #go https://flancia.org
+			- See you on the other side, my [[friends]]!
+			- [[In Flancia there is an Agora]] == [[En Flancia hay un Agora]]
+			- [[Per aspera ad astra]]
+			- [[El pueblo unido jamás será vencido]] == [[The People United Will Never Be Defeated]]
+			- [[In Flancia there is no poverty]] == [[En Flancia no hay pobreza]]
+			- [[Juntos Venceremos a Moloch]].
+			- [[En Flancia hay muchas luces]].
+			- [[Iremos juntos hasta el fin de la noche]].

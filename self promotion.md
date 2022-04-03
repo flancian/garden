@@ -1,0 +1,2 @@
+- I am quite [[self promotional]]. Please excuse any discomfort.
+- Because I am self promotiona
