@@ -1,2 +1,2 @@
 - #pull [[meditation]]
-- #pull [[david ingram]]
+- #pull [[daniel ingram]]

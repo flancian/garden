@@ -1,7 +1,5 @@
 # daniel ingram
-
 - a [[person]].
-  - [[arahant]].
-  - [[pull]] [[mctb]]
-  - [[friend]].
-
+	- [[arahant]].
+	- #pull [[mctb]]
+	- [[friend]]? I would hope
