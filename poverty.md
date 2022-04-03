@@ -1,8 +1,7 @@
 # Poverty
 - A [[problem]].
 	- [[In Flancia there is no poverty]].
-	- A consequence of [[global economic inequality]].
-	-
+	- Apparently a consequence of [[global economic inequality]] plus substandard ethical systems as that predominant in [[late stage capitalism]].
 	- Causes people not to [[thrive]].
 	- Causes [[unhappiness]].
 	- Causes [[hunger]] in [[capitalism]].
@@ -31,4 +30,3 @@
 	- [[Debilitating poverty image]]
 	- [[Fuel poverty]]
 	- [[Poverty affected fertility rates]]
-- [[in flancia there is no poverty]]: https://flancia.org/poverty
