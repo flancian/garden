@@ -1,0 +1,2 @@
+- a [[group]].
+	- [[framadate]] https://framadate.org/social-coop-tech-group
