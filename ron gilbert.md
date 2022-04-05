@@ -1,3 +1,4 @@
 - a [[person]].
 	- [[game designer]]
-	-
+	- [[monkey island]]
+	- #pull [[grumpy gamer]]
