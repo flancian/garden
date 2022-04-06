@@ -1,4 +1,4 @@
-- a [[poem]]:
+- a [[poem]].
 	- There are many Flancias in the [[multiverse]].
 		- My Flancia, your Flancia, our [[Flancia]]!
 			- In Flancia [[my Flancia]] is [[your Flancia]].
