@@ -1,0 +1,3 @@
+- There are many Flancias in the [[multiverse]].
+	- My Flancia, your Flancia, our [[Flancia]]!
+	-
