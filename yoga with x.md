@@ -4,7 +4,7 @@
 	- inspired by [[yoga with adriene]] and the [[agora]]
 	- https://www.youtube.com/watch?v=E3jFEOD2tIU
 	- [[drive]] https://drive.google.com/drive/u/0/folders/1LbO9OHAaI793g-61wVh13EgE0wxuh3hj
-	- [[playlist]]
+	- [[playlist]] https://www.youtube.com/playlist?list=PLofT8_Cv-W-NMgYeb7mtN3M_kBgkYgUjq
 	- [[episode 1]] https://youtu.be/rphd9Mnboy8
 	- [[episode 2]] https://youtu.be/asIw7Vd9NyQ
 	- [[episode 3]] https://youtu.be/z9QNeqz6iNs
