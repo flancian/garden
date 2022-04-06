@@ -1,0 +1,3 @@
+- a [[schedule]].
+	- cardboard collection day.
+	- #go https://www.stadt-zuerich.ch/ted/de/index/entsorgung_recycling/entsorgen/persoenlicher_entsorgungskalender.html
