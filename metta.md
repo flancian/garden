@@ -1,1 +1,2 @@
 - #pull [[loving kindness]]
+- [[burn kindly]]

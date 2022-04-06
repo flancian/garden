@@ -1,3 +1,4 @@
 - a [[list]].
 	- where to source it from?
 	- #pull [[book]]
+		- I'm writing a book, or many -- please apologize the [[self promotion]].

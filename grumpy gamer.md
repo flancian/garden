@@ -1,0 +1,3 @@
+- a [[blog]].
+	- #go https://grumpygamer.com/
+	- #pull [[ron gilbert]]
