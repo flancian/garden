@@ -1,6 +1,4 @@
-# Our Flancia
-
-- [[Flancia]] is meant to be a community project.
-- [[Flancia]] is licensed as [[creative commons]] [[attribution-sharealike]]; feel free to remix, reuse, extend as appropriate.
-
-
+- #push [[flancias]]
+	- [[Flancia]] is meant to be a community project.
+	- [[Flancia]] is licensed as [[creative commons]] [[attribution-sharealike]]; feel free to remix, reuse, extend as appropriate.
+	- [[our flancia]] == [[my flancia]] + [[your flancia]]
