@@ -1,3 +1,3 @@
-# my flancia
-- [[pull]] [[flancian]]
+- #push [[flancias]]
 	- In my Flancia all conscious beings have a [[right]] to their [[Flancia]].
+	- #pull [[flancian]]
