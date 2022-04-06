@@ -1,0 +1,3 @@
+- an [[article]].
+	- by [[scott alexander]]
+	- #go https://astralcodexten.substack.com/p/know-your-amphetamines
