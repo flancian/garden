@@ -21,17 +21,17 @@
 		- mostly lurking :)
 		- saw the certificate thing happen, thought maybe I can help
 		- ops + software development experience
-		- based in Berlin, originally from India
+		- based in [[Berlin]], originally from [[India]]
 	- [[idmyn]] == David
 		- being in the instance for ~4y
 		- joined around the same time the nicks rescued the instance
 		- based in UK
-		- doing some tech bits with Noah for a while, then dropped off -- mostly here to offer any knowledge that is singly homed in brain :)
+		- doing some tech bits with [[Noah]] for a while, then dropped off -- mostly here to offer any knowledge that is singly homed in brain :)
 		- focus areas:
-			- wiki
-			- meet.coop registration form in the wiki
-	- [[flancian]] == Eduardo
-		- living in switzerland
+			- [[wiki]]
+			- [[meet.coop]] registration form in the wiki
+	- [[flancian]] == [[Eduardo]]
+		- living in [[switzerland]]
 		- joined a couple of years ago, but not that involved until recently
 		- when recent cert issue happened felt rusty but perhaps they could help out
 		- SRE recently, linux experience
@@ -57,14 +57,14 @@
 	- [[flancian]] is there a 'root node' for tech docs/etc.?
 		- [[nick sellen]] https://git.coop/social.coop/tech/operations
 		- assumes social.coop email addresses, but this can be worked around with aliases (check)
-		- we use pass
+		- we use [[pass]]
 	- [[flancian]] I see we have one server -- do we have a backup server? do we have backup+restore processes?
 		- [[david]] we have database backups but unclear when they have been tested
 		- [[flancian]] what about using this as an exercise in which the "new wave" of admins is tasked with setting up a new server off backups and such?
-	- [[akshay]] what's this sauce repo mentioned?
+	- [[akshay]] what's this [[sauce]] repo mentioned?
 		- [[nick sellen]] the other nick named it after 'special sauce'
 		- in principle it could be all consolidated into ansible
-		- docker compose setup
+		- [[docker compose]] setup
 		- the update process involves touching the sauce repo which then somehow results in updates configs making it to prod
 		- [[akshay]] love automation, been doing this for the past few years for employers
 	- [[datatitian]] thinking of oncall schedules for the group -- need not be too granular
