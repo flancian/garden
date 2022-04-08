@@ -7,3 +7,4 @@
 	- [[install]] https://podman.io/getting-started/installation
 	- #go https://podman.io/
 	- #git https://github.com/containers/podman
+	- [[rootless shortcomings]] https://github.com/containers/podman
