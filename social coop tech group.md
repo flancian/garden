@@ -74,7 +74,7 @@
 	- [[edsu]] perhaps other working groups within the coop might be interested in other tools we could provide for them?
 		- [[datatitian]] there's been a long term interest in bridging loomio and mastodon
 		- [[edsu]] issue tracker for FRs?
-		- [[flancian]] git.coop?
+		- [[flancian]] [[git.coop]]?
 		- [[akshay]] if access to git.coop is limited, that would be a bit exclusive
 		- [[edsu]] loomio might also be a good platform for this
 		- [[nick sellen]] love the idea about building bridges -- and the oncall sharing
