@@ -1,0 +1,3 @@
+- a #person.
+	- [[chilean]] [[biologist]] [[philosopher]] [[cybernetician]] [[neuroscientist]]
+	- #friends [[humberto maturana]] [[dalai lama]]

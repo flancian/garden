@@ -1,4 +1,12 @@
 # podman
-
-- https://social.coop/web/statuses/105866648612458840
-
+- a [[tool]].
+	- [[docker]] alternative.
+		- advantages: supposedly more secure (doesn't require root), less complex architecture.
+		- part of the [[fedora]] project.
+	- https://social.coop/web/statuses/105866648612458840
+	- [[install]] https://podman.io/getting-started/installation
+	- #go https://podman.io/
+	- #git https://github.com/containers/podman
+	- [[rootless shortcomings]] https://github.com/containers/podman
+		- there are enough that I'll probably go with a root-based setup to begin with, while learning the system.
+		- else when things fail I'll probably find it hard to figure out if it's due to rootless or something else.
