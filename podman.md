@@ -6,3 +6,4 @@
 	- https://social.coop/web/statuses/105866648612458840
 	- [[install]] https://podman.io/getting-started/installation
 	- #go https://podman.io/
+	- #git https://github.com/containers/podman
