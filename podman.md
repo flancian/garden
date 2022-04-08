@@ -8,4 +8,5 @@
 	- #go https://podman.io/
 	- #git https://github.com/containers/podman
 	- [[rootless shortcomings]] https://github.com/containers/podman
-		-
+		- there are enough that I'll probably go with a root-based setup to begin with, while learning the system.
+		- else when things fail I'll probably find it hard to figure out if it's due to rootless or something else.
