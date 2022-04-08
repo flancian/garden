@@ -2,12 +2,11 @@
 	- #pull [[social coop]]
 	- [[framadate]] https://framadate.org/social-coop-tech-group
 	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
-		- [[go]] [[meet]]
 	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
 - [[2022-04-08]]
 	- Hi all :)
-	- Let's try to keep communal notes here
+	- Let's try to keep communal notes here?
 	- [[nick]] == [[nick sellen]] got involved in social.coop during a crisis long ago
 		- saved it from going offline, stabilized for a bit
 		- then david and noah came onboard
@@ -16,7 +15,7 @@
 			- certificate renewal
 		- trying to empower others to join in, but don't have capacity for being really active again for now
 		- in the UK (Bath)
-	- side note: gender imbalance here pretty obvious
+	- side note: [[gender imbalance]] here pretty obvious
 		- (what do we do about this?)
 	- [[akshay]] been on social.coop for ~1y
 		- mostly lurking :)
