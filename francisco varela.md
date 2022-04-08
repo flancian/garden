@@ -1,3 +1,3 @@
 - a #person.
-	- [[chilean]]
-	- #pull [[francisco j. varela]]
+	- [[chilean]] [[biologist]] [[philosopher]] [[cybernetician]] [[neuroscientist]]
+	- #friends [[maturana]] [[dalai lama]]
