@@ -6,5 +6,5 @@
 	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
 - [[2022-04-08]]
--
 	-
+		-
