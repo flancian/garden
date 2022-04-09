@@ -1,0 +1,34 @@
+- [[flancia meet]]
+- [[agora]]
+	- LATER could probably improve the welcome message in [[index]] -- it's overly long, a bit confusing for first time users?
+	- [[agora server]]
+		- [[spaces to tabs conversion]]
+			- I didn't like the result so I took the liberty to revert. Some rationale in the node above :)
+			- Reach out if you think it's the wrong call! But I'd rather go with the Python community standard by default and not impose an extra burden on contributors (to override their editor defaults).
+		- LATER fix links in /journals
+		- LATER perhaps tell crawling bots to take it easy while I work
+		- LATER [[sqlite]] experiment
+		- NOW agora load balancing
+		  :LOGBOOK:
+		  CLOCK: [2022-04-09 Sat 17:36:23]
+		  :END:
+			- it is time.
+			- once the next item is ready, this unlocks arbitrary [[horizontal scaling]].
+			- I think I'll start with the simplest setup possible, solving balancing first and reliability later -- that is, add balancing to the [[nginx]] running in [[thecla]].
+		- NOW experiment with [[podman]] as [[docker]] replacement
+		  :LOGBOOK:
+		  CLOCK: [2022-04-09 Sat 15:45:51]
+		  :END:
+			- continue going through [[please contain yourself]] with [[podman]]?
+			- nice, got it running just fine; I said I was not going to default to [[rootless containers]] *but* they seem to work fine for simple examples, and the
+		- crawlers/bots are hammering anagora.org quite a bit, might need to actually write a [[robots.txt]] file to tell them to take it easy while we work on better performance :)
+- I've been thinking of [[time]] from the point of view of [[lady burup]] (as I imagine it) and I've found it [[interesting]].
+	- When it's light, it's the next day for her; she might not understand that [[dawn]] shifts from season to season?
+- [[twitter dall-e]]
+- [[doing laundry]]
+- [[scaling]] must happen
+- [[daniel dennett]]
+	- ethical [[almanac]]
+	- #push [[agora server]]
+		- [[almanac mode]]
+- [[fin de semana]]
