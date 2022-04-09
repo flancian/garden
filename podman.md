@@ -14,4 +14,4 @@
 	- On Debian 11, I had to install package [[uidmap]] to avoid https://github.com/containers/podman/issues/9271
 	- Also I had to edit /etc/containers/registries.conf and set:
 		- `unqualified-search-registries = ["docker.io"]`
-		-
+		- ...to have podman search work as per in the upstream instructions (Debian ships with ultra-safe defaults or something.)
