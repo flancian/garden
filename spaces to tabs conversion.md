@@ -12,4 +12,4 @@
 		  syntax on
 		  set tabstop=4
 		  ```
-	- Update: I'm reverting this experiment, I think it would impose too large of a burden on new contributors at this point.
+	- Update: I'm reverting this experiment, I think it would impose too large of a burden on new contributors at this point, as editors
