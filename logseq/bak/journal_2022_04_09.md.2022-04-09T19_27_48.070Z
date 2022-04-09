@@ -1,0 +1,60 @@
+- [[flancia meet]]
+- [[agora]]
+	- LATER could probably improve the welcome message in [[index]] -- it's overly long, a bit confusing for first time users?
+	- [[agora server]]
+		- [[spaces to tabs conversion]]
+			- I didn't like the result so I took the liberty to revert. Some rationale in the node above :)
+			- Reach out if you think it's the wrong call! But I'd rather go with the Python community standard by default and not impose an extra burden on contributors (to override their editor defaults).
+		- DONE fix links in /journals
+		  :LOGBOOK:
+		  CLOCK: [2022-04-09 Sat 19:32:07]--[2022-04-09 Sat 19:32:08] =>  00:00:01
+		  :END:
+			- was higher priority than expected, see below :)
+		- LATER perhaps tell crawling bots to take it easy while I work
+		- LATER [[sqlite]] experiment
+		- LATER I should update to Python 3.8 so I can use f-strings with = at the end to print variable name and value in one swoop.
+			- Surely there are also other improvements :)
+		- NOW agora load balancing
+		  :LOGBOOK:
+		  CLOCK: [2022-04-09 Sat 17:36:23]
+		  :END:
+			- it is time.
+				- update: actually it is not quite :) squashing the 500s bug mentioned below made the Agora *a lot* more efficient. this is still high priority but not burning.
+			- once the next item is ready, this unlocks arbitrary [[horizontal scaling]].
+			- I think I'll start with the simplest setup possible, solving balancing first and reliability later -- that is, add balancing to the [[nginx]] running in [[thecla]].
+			  :LOGBOOK:
+			  CLOCK: [2022-04-09 Sat 19:32:26]--[2022-04-09 Sat 19:32:28] =>  00:00:02
+			  :END:
+		- LATER experiment with [[podman]] as [[docker]] replacement
+		  :LOGBOOK:
+		  CLOCK: [2022-04-09 Sat 15:45:51]--[2022-04-09 Sat 19:32:23] =>  03:46:32
+		  CLOCK: [2022-04-09 Sat 19:32:31]
+		  :END:
+			- continue going through [[please contain yourself]] with [[podman]]?
+			  :LOGBOOK:
+			  CLOCK: [2022-04-09 Sat 19:32:26]--[2022-04-09 Sat 19:32:29] =>  00:00:03
+			  :END:
+			- nice, got it running just fine; I said I was not going to default to [[rootless containers]] *but* they seem to work fine for simple examples, and the
+			  :LOGBOOK:
+			  CLOCK: [2022-04-09 Sat 19:32:27]--[2022-04-09 Sat 19:32:29] =>  00:00:02
+			  :END:
+		- crawlers/bots are hammering anagora.org quite a bit, might need to actually write a [[robots.txt]] file to tell them to take it easy while we work on better performance :)
+- I've been thinking of [[time]] from the point of view of [[lady burup]] (as I imagine it) and I've found it [[interesting]].
+	- When it's light, it's the next day for her; she might not understand that [[dawn]] shifts from season to season?
+- [[twitter dall-e]]
+- [[doing laundry]]
+- #push [[agora speed]]
+	- [[scaling]] must happen
+		- but we still have time thanks to the block below :)
+	- DONE hmm, but there is [[low hanging fruit]]: the per-worker cache should not all expire in unison (!)
+	  :LOGBOOK:
+	  CLOCK: [2022-04-09 Sat 17:52:37]--[2022-04-09 Sat 19:10:28] =>  01:17:51
+	  :END:
+		- also I wasn't caching calls to G.node() (?).
+		- AND, much more importantly, the Agora was restarting all the time due to 500s in URLs hit by bots -- so none of the performance work I was doing was taking effect. Now that that's fixed it feels much snappier! I am happy about this development.
+- [[daniel dennett]]
+	- ethical [[almanac]]
+	- #push [[agora server]]
+		- [[almanac mode]]
+- [[fin de semana]]
+- [[dallee]]
