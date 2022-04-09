@@ -7,4 +7,6 @@
 	- Same on [[2022-04-09]].
 		- Increased organic traffic + crawler bot activity.
 		- Changed number of workers (it seems more is not necessarily better, trying running with 10.)
-		- Cached
+		- Changed cache expiry to a random range to prevent thundering herd by workers hitting cache TTL in unison.
+		- Cached calls to node().
+		- I wonder if there's low hanging fruit remaining; dev.anagora.org just tends to feel so fast in comparison with prod
