@@ -4,4 +4,7 @@
 	- Doing pomodoros today, [[2022-03-20]], to try to address this issue.
 	- When starting benchmarking, dev.anagora.org/do is regularly taking 3.7s to load (measured with [[time curl]]). In production this is often longer, but this seems like a good test node (because of the amount of pushes it has, which I think is related to the slowdown).
 		- The *first* load after restarting the dev server is often 10s, which is closer to what we'd see in prod (because it needs to load+process the whole Agora graph).
-	-
+	- Same on [[2022-04-09]].
+		- Increased organic traffic + crawler bot activity.
+		- Changed number of workers (it seems more is not necessarily better, trying running with 10.)
+		- Cached
