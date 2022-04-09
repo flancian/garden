@@ -12,4 +12,4 @@
 		  syntax on
 		  set tabstop=4
 		  ```
-	- Update: I'm reverting this experiment, I think it would impose too large of a burden on new contributors at this point, as editors
+	- Update: I'm reverting this experiment, I think it would impose too large of a burden on new contributors at this point, as both vim and python seem to assume you want to follow [[pep8]]. The [[google style guide]] also recommends four spaces even though it overrides some other aspects of [[pep8]], so this is pretty widely the standard.
