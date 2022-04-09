@@ -1,4 +1,5 @@
 - a [[system]].
 	- [[ai]]
-	- #pull [[dall-e 2]]
-- #go https://openai.com/dall-e-2/
+	- [[image]] [[natural language]] driven [[image] ][[generator]]
+	- #push [[dall-e 2]]
+		- #go https://openai.com/dall-e-2/
