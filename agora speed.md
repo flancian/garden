@@ -9,4 +9,4 @@
 		- Changed number of workers (it seems more is not necessarily better, trying running with 10.)
 		- Changed cache expiry to a random range to prevent thundering herd by workers hitting cache TTL in unison.
 		- Cached calls to node().
-		- I wonder if there's low hanging fruit remaining; dev.anagora.org just tends to feel so fast in comparison with prod
+		- I wonder if there's low hanging fruit remaining; dev.anagora.org just tends to feel so fast in comparison with prod, perhaps I'm missing where's the bottleneck. Will add debugging data.
