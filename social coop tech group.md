@@ -98,6 +98,5 @@
 		- [[flancian]] framadate: https://framadate.org/social-coop-tech-group
 			- (this is also on https://anagora.org/social-coop-tech-group, where I keep my notes)
 	- [[akshay]] how to join in loomio?
-		- (people apply)                                                                                                                                                                        
-		  ~
+		- (people apply)
 	-
