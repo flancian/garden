@@ -10,3 +10,5 @@
 		- Changed cache expiry to a random range to prevent thundering herd by workers hitting cache TTL in unison.
 		- Cached calls to node().
 		- I wonder if there's low hanging fruit remaining; dev.anagora.org just tends to feel so fast in comparison with prod, perhaps I'm missing where's the bottleneck. Will add debugging data.
+		- HA.
+		- The Agora workers were restarting *very often*, way more often than CACHE_TTL, because the bots that are causing most of the increase in load were also hitting URLs that produce 500s -- a nice favour really, as
