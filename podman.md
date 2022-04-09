@@ -12,3 +12,6 @@
 		- else when things fail I'll probably find it hard to figure out if it's due to rootless or something else.
 - [[notes on adoption]]
 	- On Debian 11, I had to install package [[uidmap]] to avoid https://github.com/containers/podman/issues/9271
+	- Also I had to edit /etc/containers/registries.conf and set:
+		- `unqualified-search-registries = ["docker.io"]`
+		-
