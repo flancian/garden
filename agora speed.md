@@ -11,4 +11,5 @@
 		- Cached calls to node().
 		- I wonder if there's low hanging fruit remaining; dev.anagora.org just tends to feel so fast in comparison with prod, perhaps I'm missing where's the bottleneck. Will add debugging data.
 		- HA.
-		- The Agora workers were restarting *very often*, way more often than CACHE_TTL, because the bots that are causing most of the increase in load were also hitting URLs that produce 500s -- a nice favour really, as
+		- The Agora workers were restarting *very often*, way more often than CACHE_TTL, because the bots that are causing most of the increase in load were also hitting URLs that produce 500s -- a nice favour really, as they call attention to an obvious bug we need to fix in [[journals]] (they link out to bad URLs due to an issue with the renderer), but in the meantime they were essentially nuking the performance of the Agora and making all the recent performance work not really take effect.
+		- Now that this is fixed I can happily report that the Agora feels noticeably snappier :)
