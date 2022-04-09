@@ -1,0 +1,6 @@
+- To go from spaces to tabs in Python code:
+	- `for i in *py; do unexpand -t 4 $i | sponge $i; done`
+		- [[sponge]] is in [[moreutils]]
+- To go from tabs to spaces in Python code:
+	- `for i in *py; do expand -t 4 $i | sponge $i; done`
+-
