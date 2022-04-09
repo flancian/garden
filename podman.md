@@ -10,3 +10,5 @@
 	- [[rootless shortcomings]] https://github.com/containers/podman
 		- there are enough that I'll probably go with a root-based setup to begin with, while learning the system.
 		- else when things fail I'll probably find it hard to figure out if it's due to rootless or something else.
+- [[notes on adoption]]
+	- On Debian 11, I had to install package [[uidmap]] to avoid https://github.com/containers/podman/issues/9271
