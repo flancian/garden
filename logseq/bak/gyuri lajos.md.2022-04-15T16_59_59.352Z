@@ -1,0 +1,85 @@
+# Gyuri Lajos
+- A [[person]]
+	- "I am doing a kind of inter personal knowledge graph that integrates with [[hypothesis]] and [[memex]] annotations too"
+	- [[twitter]] https://twitter.com/TrailMarks
+	- [[mastodon]] https://social.coop/@indiehub
+	- [[friend]] of the agora
+	- [[github]] https://github.com/gyuri-lajos
+		- [[trailmarks]]
+		- [[trailhub]]
+		- [[weaving a decentralized semantic web of personal knowledge]]
+	- [[freebase]]
+		- [[building augmented knowledge architectures]]
+		- [[wikinizer]]
+- [[2022-04-14]]
+	- long time! catching up.
+	- [[flancian]] lots of work, very busy perhaps because I can't work "smarter". dealing with it though :)
+	- [[gyuri]] spent the last few months paying down [[tech debt]], fixing core issues
+		- had also a mobile experience but the core graph decisions weren't fixed
+		- (uses [[screenapp io]])
+		- want a really mallable conception of a graph
+		- didn't like [[rdf]] because of the [[tessellation]] of the graph with triples -- good for propositional knowledge but not emergent knowledge
+		- [[gyuri]] prefers subject-predicate
+		- [[ipfs]] and [[web native]] remove the trappings of database/backend setups forcing a certain set of abstractions
+		- with [[indylab]] [[gyuri]] wants to provide several possible implementations for capabilities built on top of [[ipfs]] and [[web native]] abstractions -- calls them [[intents]].
+			- [[mindgraph]], [[trailmarks]] does something similar to what [[solid]] does: choose a universal data model (a [[graph]] is good for this) and build on top of that
+			- every [[trailmark]] is a name of an intent and has [[capabilities]] associated
+		- now focusing on developing [[capabilities]] based on the above process:
+			- write [[trailmarks]] which name [[intents]] and are eventually [[executable]]
+		- [[indylab]] is an [[mvp]] for an interpersonal [[app]] [[constellation]]
+			- on the same level as [[fission]] (but it's built on it)
+			- instead of having a wiki, an issue tracker, etc. you can have them all integrated in indylab
+		- (demo)
+			- [[revealjs]] based presentation in [[trailmarks]] proper
+			- [[reveal]] is an intent (reveal/slides)
+	- [[meta]]
+		- on live demo: could be better if the URLs were shareable instead of localhost:8080
+## [[2021-12-05]]
+- == [[iuri laiosh]]
+- [[leg district]]
+	- like when you go up a hill or mountain and you realize that there's another similar excursion you can start from up top (to the next hill/high)
+	- but now apparently out of this! a good time to look back/down, revisit, consider, [[demo]]
+	- [[indiehub]] is the main account of Gyuri in the [[fediverse]]
+	- [[trailhub]] is the old name for the old approach -- [[indiehub]] is like [[indieweb]] but serverless / highly distributed
+		- [[ipfs]], [[hypercore]] and [[holochain]]
+			- all building on [[dhts]]
+		- [[named data networking]] is the predecessor to these distributed systems
+- [[flancian]] agora updates
+	- [[agora bot]] -> social media integration
+	- community growing, feeling nice!
+- [[log]]
+	- https://social.coop/@indiehub
+	- https://botsin.space/@agora
+	- Testing [[agora bot]] functionality
+	- Testing using the [[agora]] from Mastodon by using [[wikilinks]] after following @agora@botsin.space.
+	- Testing [[indiehub]] - [[agora]] integration :)
+	- https://en.wikipedia.org/wiki/Named_data_networking#annotations:74j9_EpAEey7ePNgUpMfDQ
+	- [[free, fair and alive]]
+	- https://anagora.org/free-fair-and-alive
+	- https://anagora.org/wikilinks-everywhere```
+- [[gyuri]] helped me find a bug in [[agora bot]] for mastodon!
+	- the 'watching' list is not being updated correctly
+- [[orbitdb]]
+	- distributed database, append semantics but with removal
+	- isomorphic to: distributed [[pubsub]]
+- [[wiky]]
+	- https://wiky.fission.app/rte/index.html?t=t%20-%20d4
+	- reminds me of: 0x's project (name?). [[braid]].
+- [[open learning commons]]
+- [[web3 storage]] https://web3.storage
+## [[2021-06-12]]
+- greetings!
+	- [[gyuri]]
+		- wanted to do [[mathematics]] and [[literature]] when ~16 or so
+		- settled for [[philosophy]] and [[physics]]
+		- wife did [[mathematics]] and [[philosophy]]
+		- [[history]] and [[philosophy of science]]
+		- phd in computing
+- going beyond rdf (complex/low level) and hierarchy
+- [[docdrop]] https://docdrop.org/video/XqxwwuUdsp4/#annotations:MKXJlg9aEeurAy8NWpahjQ
+- interop between [[trailmarks]] and [[agora]]
+- [[hyperknowledge]]
+- [[ipld]]
+- [[orbitdb]]
+  
+  ![[Pasted image 20210513204503.png]]
