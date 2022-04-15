@@ -11,6 +11,7 @@
 	- [[freebase]]
 		- [[building augmented knowledge architectures]]
 		- [[wikinizer]]
+	- [[brain]]
 - [[2022-04-14]]
 	- long time! catching up.
 	- [[flancian]] lots of work, very busy perhaps because I can't work "smarter". dealing with it though :)
@@ -43,7 +44,7 @@
 		- #push [[fair]] is a movement
 			- [[findable]] [[accessible]] [[interoperable]] [[remixable]] apps
 			- [[intents]]
-		- [[pubs]] come from
+		- [[pubs]] come from [[scuttlebutt]]
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
