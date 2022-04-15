@@ -22,6 +22,7 @@
 		- [[gyuri]] prefers subject-predicate
 		- [[ipfs]] and [[web native]] remove the trappings of database/backend setups forcing a certain set of abstractions
 		- with [[indylab]] [[gyuri]] wants to provide several possible implementations for capabilities built on top of [[ipfs]] and [[web native]] abstractions -- calls them [[intents]].
+			- [[mindgraph]], [[trailmarks]] does something similar to what [[solid]] does: choose a universal data model ()
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
