@@ -39,6 +39,9 @@
 	- [[meta]]
 		- on live demo: could be better if the URLs were shareable instead of localhost:8080
 		- also would be nice to start from one property, ideally from a new user experience
+	- slide feedback
+		- #push [[fair]] is a movement
+			- [[findable]] accessible interoperable remixable
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
