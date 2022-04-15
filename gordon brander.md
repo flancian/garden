@@ -5,4 +5,4 @@
 	- [[go]] https://gordonbrander.com
 		- let's make [meaning]]
 		- [[open ended]] [[tool for thought]]!
-	-
+	- #pull [[subconscious]]
