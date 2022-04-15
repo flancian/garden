@@ -47,7 +47,7 @@
 		- [[pubs]] come from [[scuttlebutt]]
 	- how can I help?
 		- #push
-		- LATER set up https://github.com/libp2p/js-libp2p-webrtc-star for [[gyuri]] so [[orbitdb]]
+		- LATER set up https://github.com/libp2p/js-libp2p-webrtc-star for [[gyuri]] so his [[orbitdb]] can use it
 		  :LOGBOOK:
 		  CLOCK: [2022-04-15 Fri 19:34:01]--[2022-04-15 Fri 19:34:03] =>  00:00:02
 		  :END:
