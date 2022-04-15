@@ -42,7 +42,8 @@
 	- slide feedback
 		- #push [[fair]] is a movement
 			- [[findable]] [[accessible]] [[interoperable]] [[remixable]] apps
-			-
+			- [[intents]]
+		- [[pubs]] come from
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
