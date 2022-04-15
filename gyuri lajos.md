@@ -18,7 +18,8 @@
 		- had also a mobile experience but the core graph decisions weren't fixed
 		- (uses [[screenapp io]])
 		- want a really mallable conception of a graph
-		- didn't like [[rdf]] because of the [[tessellation]] of the graph
+		- didn't like [[rdf]] because of the [[tessellation]] of the graph with triples
+		- [[gyuri]] prefers
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
