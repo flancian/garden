@@ -18,8 +18,8 @@
 		- had also a mobile experience but the core graph decisions weren't fixed
 		- (uses [[screenapp io]])
 		- want a really mallable conception of a graph
-		- didn't like [[rdf]] because of the [[tessellation]] of the graph with triples
-		- [[gyuri]] prefers
+		- didn't like [[rdf]] because of the [[tessellation]] of the graph with triples -- good for propositional knowledge but not emergent knowledge
+		- [[gyuri]] prefers subject-predicate
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
