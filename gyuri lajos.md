@@ -15,8 +15,10 @@
 	- long time! catching up.
 	- [[flancian]] lots of work, very busy perhaps because I can't work "smarter". dealing with it though :)
 	- [[gyuri]] spent the last few months paying down [[tech debt]], fixing core issues
-		- had also a mobile experience but the core graph
+		- had also a mobile experience but the core graph decisions weren't fixed
 		- (uses [[screenapp io]])
+		- want a really mallable conception of a graph
+		- didn't like rdf
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
