@@ -30,7 +30,9 @@
 			- on the same level as [[fission]] (but it's built on it)
 			- instead of having a wiki, an issue tracker, etc. you can have them all integrated in indylab
 		- (demo)
-			- [[revealjs]] based presentation
+			- [[revealjs]] based presentation in [[trailmarks]] proper
+	- [[meta]]
+		- on live demo: could be better if the URLs were shareable instead of localhost:8080
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
