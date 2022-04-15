@@ -33,7 +33,8 @@
 			- [[revealjs]] based presentation in [[trailmarks]] proper
 			- [[reveal]] is an intent (reveal/?slides where slides is actually the id)
 			- [[html as exchange format]]
-				- with a list structure
+				- with a [[list structure]] (gyuri calls them [[listicles]])
+			- [[web3.storage]]
 	- [[meta]]
 		- on live demo: could be better if the URLs were shareable instead of localhost:8080
 ## [[2021-12-05]]
