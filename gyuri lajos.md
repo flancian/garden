@@ -26,8 +26,9 @@
 			- every [[trailmark]] is a name of an intent and has [[capabilities]] associated
 		- now focusing on developing [[capabilities]] based on the above process:
 			- write [[trailmarks]] which name [[intents]] and are eventually [[executable]]
-		- [[indylab]] is an [[mvp]] for an interpersonal [[app]] platform
-			- instead of having a wiki, a kno
+		- [[indylab]] is an [[mvp]] for an interpersonal [[app]] [[constellation]]
+			- on the same level as [[fission]]
+			- instead of having a wiki, an issue tracker, etc. you can have them all integrated in indylab
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
