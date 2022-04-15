@@ -1,4 +1,4 @@
 - a [[tool]].
 	- the most flexible online [[timer]] I know of
 	- #go https://bigtimer.net
-	- #pull [[koos looijesteijn]]
+	- #pull [[koos looijesteijn]] built it but sold it
