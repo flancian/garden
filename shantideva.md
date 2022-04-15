@@ -2,5 +2,7 @@
 	- [[bodhisattva]]
 	- [[wp]]  https://en.wikipedia.org/wiki/Shantideva
 		- [[go]] [[wp]]
-- a [[tree]]
+- a [[tree]].
 	- I call my [[bonsai]] [[shantideva]]. I hope it's not disrespectful. Perhaps [[bodhisattva]] would be a better name, in for the glory or [[merit]] of all.
+	- [[shantideva]] is in the [[agora]].
+	-
