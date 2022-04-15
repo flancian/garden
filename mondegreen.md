@@ -1,7 +1,6 @@
-# Mondegreen
-	- a [[device]].
-		- A [[misheard]] name.
-		- [[go]] https://en.wikipedia.org/wiki/Mondegreen
-			- "A mondegreen /ˈmɒndɪɡriːn/ is a mishearing or misinterpretation of a phrase in a way that gives it a new meaning. Mondegreens are most often created by a person listening to a poem or a song; the listener, being unable to clearly hear a lyric, substitutes words that sound similar and make some kind of sense."
-		- As a creative technique, I try to keep track of things I mishear and think about they could mean in [[Flancia]].
-			- [[flacia]]
+- a [[device]].
+	- A [[misheard]] name.
+	- [[go]] https://en.wikipedia.org/wiki/Mondegreen
+		- "A mondegreen /ˈmɒndɪɡriːn/ is a mishearing or misinterpretation of a phrase in a way that gives it a new meaning. Mondegreens are most often created by a person listening to a poem or a song; the listener, being unable to clearly hear a lyric, substitutes words that sound similar and make some kind of sense."
+	- As a creative technique, I try to keep track of things I mishear or mistype and expand on what they could mean in [[Flancia]].
+		- [[flacia]]
