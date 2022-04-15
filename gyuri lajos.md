@@ -24,7 +24,8 @@
 		- with [[indylab]] [[gyuri]] wants to provide several possible implementations for capabilities built on top of [[ipfs]] and [[web native]] abstractions -- calls them [[intents]].
 			- [[mindgraph]], [[trailmarks]] does something similar to what [[solid]] does: choose a universal data model (a [[graph]] is good for this) and build on top of that
 			- every [[trailmark]] is a name of an intent and has [[capabilities]] associated
-			-
+		- now focusing on developing [[capabilities]] based on the above process:
+			- write [[trailmarks]] which name [[intents]] and are eventually [[executable]]
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
