@@ -45,6 +45,7 @@
 			- [[findable]] [[accessible]] [[interoperable]] [[remixable]] apps
 			- [[intents]]
 		- [[pubs]] come from [[scuttlebutt]]
+	- how can I help?
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
