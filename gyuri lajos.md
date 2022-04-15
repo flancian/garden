@@ -20,6 +20,7 @@
 		- want a really mallable conception of a graph
 		- didn't like [[rdf]] because of the [[tessellation]] of the graph with triples -- good for propositional knowledge but not emergent knowledge
 		- [[gyuri]] prefers subject-predicate
+		- [[ipfs]] and [[web native]] remove the trappings of database/backend
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
