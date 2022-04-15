@@ -46,6 +46,7 @@
 			- [[intents]]
 		- [[pubs]] come from [[scuttlebutt]]
 	- how can I help?
+		- set up https://github.com/libp2p/js-libp2p-webrtc-star for [[gyuri]] so [[orbitdb]]
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
