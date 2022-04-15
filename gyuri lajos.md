@@ -11,7 +11,7 @@
 	- [[freebase]]
 		- [[building augmented knowledge architectures]]
 		- [[wikinizer]]
-	- [[brain]]
+	- [[brain]] https://ipkg.fission.app/hyp searches gyuri's annotations which contain *a lot*
 - [[2022-04-14]]
 	- long time! catching up.
 	- [[flancian]] lots of work, very busy perhaps because I can't work "smarter". dealing with it though :)
