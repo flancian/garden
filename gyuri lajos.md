@@ -29,6 +29,8 @@
 		- [[indylab]] is an [[mvp]] for an interpersonal [[app]] [[constellation]]
 			- on the same level as [[fission]] (but it's built on it)
 			- instead of having a wiki, an issue tracker, etc. you can have them all integrated in indylab
+		- (demo)
+			- [[revealjs]] based presentation
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
