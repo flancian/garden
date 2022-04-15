@@ -41,7 +41,8 @@
 		- also would be nice to start from one property, ideally from a new user experience
 	- slide feedback
 		- #push [[fair]] is a movement
-			- [[findable]] accessible interoperable remixable
+			- [[findable]] [[accessible]] [[interoperable]] [[remixable]] apps
+			-
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
