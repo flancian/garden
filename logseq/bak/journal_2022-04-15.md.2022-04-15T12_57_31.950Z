@@ -1,0 +1,13 @@
+# 2022-04-15
+
+- [[logseq]] just crashed again so I thought I'd give [[foam]] a try again, see how it's holding up.
+  - Right away I really like:
+    - The multi pane layout, which I find more flexible than Logseq's single pane with tabs which you only get through an extension.
+    - The fact that it's very responsive on <enter>, while Logseq often lags.
+    - The built-in terminal and more full featured [[vim emulation mode]].
+  - Right away I dislike:
+    - The fact that auto completing wikilinks takes waaay to long still, essentially making linking very cumbersome (I already didn't link [[logseq]] above twice because of how long autocomplete takes to run.)
+  - I might keep using it, disabling autocomplete, and see what happens?
+    - Plot twist, apparently you can't disable autocomplete? Argh.
+    - I just need an open source PKM that offers a responsive text editing experience and can handle >5k files :(
+      - OK, perhaps I should give [[wiki vim]]] a proper try.
