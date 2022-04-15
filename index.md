@@ -1,5 +1,5 @@
-- This is a user contributed [[subnode]].
-- Any Agorean can contribute a file named ```index.md``` in their gardens and it will show here, in the Agora's index. Later on ranking/filtering algorithms might need to be implemented. These will be ***open*** and ***community maintained***.
+- This is an example of a user contributed [[subnode]].
+    - Any of the Agora [[users]] can contribute to the Agora index node by adding a file named ```index.md``` in their digital gardens.
+    - Later on ranking/filtering algorithms might need to be implemented. These will be ***open source*** and ***community driven***.
 - I am a [[Flancian]], who are you?
-
 
