@@ -1,18 +1,20 @@
 # Gyuri Lajos
-
 - A [[person]]
 	- "I am doing a kind of inter personal knowledge graph that integrates with [[hypothesis]] and [[memex]] annotations too"
 	- [[twitter]] https://twitter.com/TrailMarks
 	- [[mastodon]] https://social.coop/@indiehub
 	- [[friend]] of the agora
 	- [[github]] https://github.com/gyuri-lajos
-    - [[trailmarks]]
+		- [[trailmarks]]
 		- [[trailhub]]
 		- [[weaving a decentralized semantic web of personal knowledge]]
 	- [[freebase]]
-		- [[building augmented knowledge architectures]] 
+		- [[building augmented knowledge architectures]]
 		- [[wikinizer]]
-
+- [[2022-04-14]]
+	- long time! catching up.
+	- [[flancian]] lots of work, very busy perhaps because I can't work "smarter". dealing with it though :)
+	- [[gyuri]] having
 ## [[2021-12-05]]
 - == [[iuri laiosh]]
 - [[leg district]]
@@ -24,18 +26,18 @@
 			- all building on [[dhts]]
 		- [[named data networking]] is the predecessor to these distributed systems
 - [[flancian]] agora updates
-  - [[agora bot]] -> social media integration
-  - community growing, feeling nice!
+	- [[agora bot]] -> social media integration
+	- community growing, feeling nice!
 - [[log]]
- - https://social.coop/@indiehub
- - https://botsin.space/@agora
- - Testing [[agora bot]] functionality
- - Testing using the [[agora]] from Mastodon by using [[wikilinks]] after following @agora@botsin.space.
- - Testing [[indiehub]] - [[agora]] integration :)
- - https://en.wikipedia.org/wiki/Named_data_networking#annotations:74j9_EpAEey7ePNgUpMfDQ
- - [[free, fair and alive]]
- - https://anagora.org/free-fair-and-alive
- - https://anagora.org/wikilinks-everywhere```
+	- https://social.coop/@indiehub
+	- https://botsin.space/@agora
+	- Testing [[agora bot]] functionality
+	- Testing using the [[agora]] from Mastodon by using [[wikilinks]] after following @agora@botsin.space.
+	- Testing [[indiehub]] - [[agora]] integration :)
+	- https://en.wikipedia.org/wiki/Named_data_networking#annotations:74j9_EpAEey7ePNgUpMfDQ
+	- [[free, fair and alive]]
+	- https://anagora.org/free-fair-and-alive
+	- https://anagora.org/wikilinks-everywhere```
 - [[gyuri]] helped me find a bug in [[agora bot]] for mastodon!
 	- the 'watching' list is not being updated correctly
 - [[orbitdb]]
@@ -46,7 +48,6 @@
 	- reminds me of: 0x's project (name?). [[braid]].
 - [[open learning commons]]
 - [[web3 storage]] https://web3.storage
-
 ## [[2021-06-12]]
 - greetings!
 	- [[gyuri]]
@@ -61,7 +62,5 @@
 - [[hyperknowledge]]
 - [[ipld]]
 - [[orbitdb]]
-
-![[Pasted image 20210513204503.png]]
-
-
+  
+  ![[Pasted image 20210513204503.png]]
