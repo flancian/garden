@@ -1,0 +1,28 @@
+- [[organic moroccan mint]]
+- [[flancia]]
+	- [[flancia meet]]
+		- [[j0lms]]
+			- told me about [[milady]] nfts
+		- [[protopian]]
+			- [[shamanic coders guild]]
+			- [[vibecamp]]
+				- was great, even better after the fact (stayed in [[austin]])
+	- [[agora]]
+		- [[agora server]]
+			- check out tasks from yesterday
+			- fix pull buttons which seems broken for some reason?
+			- https://anagora.org/tweets-from-sam-altman
+		- DONE fix [[@protopian]]'s garden!
+		  :LOGBOOK:
+		  CLOCK: [2022-04-16 Sat 08:55:55]--[2022-04-16 Sat 11:03:02] =>  02:07:07
+		  :END:
+			- git https://git.anagora.org/ProtopianFox/Agora-Garden
+			- needed:
+				- ```git reset --hard origin/master
+				  git pull origin master
+				  ```
+		- [[agora bridge]]
+			- LATER fix leak
+			- make sure we reset and if that doesn't work re-clone gardens which have pull issues
+	- [[bodhisattvas]]
+- [[balaji srinivasan]]
