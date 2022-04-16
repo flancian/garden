@@ -1,0 +1,3 @@
+- [[avalokiteshvara]]
+- [[shantideva]]
+- [[samantabhadra]]
