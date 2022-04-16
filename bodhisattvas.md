@@ -1,3 +1,5 @@
-- [[avalokiteshvara]]
-- [[shantideva]]
-- [[samantabhadra]]
+- a [[list]].
+	- [[gautama buddha]] (IIUC before becoming a "fully fledged" [[buddha]])
+	- [[avalokiteshvara]]
+	- [[shantideva]]
+	- [[samantabhadra]]
