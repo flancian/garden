@@ -4,5 +4,5 @@
 	- #support https://buymeacoffee.com/rcvdio
 	- #go https://goedel.io
 	- [[css]] [[designer]]
-	- [[ivo velitchkov]] introduced me to him:[[kvistgaard]]
+	- [[ivo velitchkov]] introduced me to him: https://twitter.com/kvistgaard/status/1515028554647547910
 	-
