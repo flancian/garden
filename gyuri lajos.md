@@ -45,7 +45,7 @@
 			- [[findable]] [[accessible]] [[interoperable]] [[remixable]] apps
 			- [[intents]]
 		- [[pubs]] come from [[scuttlebutt]]
-	- how can I help?
+	- how can I help?sti
 		- #push
 		- LATER set up https://github.com/libp2p/js-libp2p-webrtc-star for [[gyuri]] so his [[orbitdb]] can use it
 		  :LOGBOOK:
