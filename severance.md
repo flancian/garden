@@ -1,0 +1,3 @@
+- a [[series]].
+	- #go https://en.wikipedia.org/wiki/Severance_(TV_series)
+	- [[apple]] https://tv.apple.com/ch/episode/good-news-about-hell/umc.cmc.s80mx1ic96pu6ewupz8pfasf?action=playSmartEpisode
