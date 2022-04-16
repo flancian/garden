@@ -1,0 +1,4 @@
+- a [[person]].
+	- [[autistic]] [[adhd]]
+	- [[twitter]] https://twitter.com/mykola
+	-
