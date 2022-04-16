@@ -1,8 +1,9 @@
 - a [[list]].
 	- [[gautama buddha]] (IIUC before becoming a "fully fledged" [[buddha]])
-	- [[avalokiteshvara]]
 	- [[shantideva]]
+	- [[avalokiteshvara]]
 	- [[samantabhadra]]
+	- [[manjusri]]
 	- [[vajrapani]]
 	- [[ksitigarbha]]
 	- [[akashagarbha]]
