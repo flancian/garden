@@ -1,2 +1,2 @@
 - a [[person]].
-	- [[how to start a country]]
+	- [[how to start a country]] / [[the network state]]
