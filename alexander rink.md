@@ -1,3 +1,8 @@
 - a [[person]].
 	- [[twitter]] https://twitter.com/rcvd_io
+	- #pull [[rcvd io]]
+	- #support https://buymeacoffee.com/rcvdio
+	- #go https://goedel.io
+	- [[css]] [[designer]]
+	- [[ivo velitchkov]] introduced me to him:[[kvistgaard]]
 	-
