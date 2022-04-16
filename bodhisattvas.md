@@ -3,3 +3,7 @@
 	- [[avalokiteshvara]]
 	- [[shantideva]]
 	- [[samantabhadra]]
+	- [[vajrapani]]
+	- [[ksitigarbha]]
+	- [[akashagarbha]]
+	-
