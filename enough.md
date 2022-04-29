@@ -1,0 +1,2 @@
+- I'll take [[good enough]] every [[day of the week]] if it gets everyone to [[Flancia]].
+	- [[gone for good]]
