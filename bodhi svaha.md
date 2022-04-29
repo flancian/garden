@@ -1,1 +1,2 @@
-- [[gate gate paragate parasamgate bodhi svaha]]
+- [[lotus sutra]]
+	- [[gate gate paragate parasamgate bodhi svaha]]
