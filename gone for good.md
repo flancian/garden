@@ -1,0 +1,2 @@
+- I sometimes visit Flancia with others; I'd stay in Flancia with them if I could.
+	- We'd be [[gone]] for [[good]].
