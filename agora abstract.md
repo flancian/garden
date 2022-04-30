@@ -6,4 +6,4 @@
 	- #2 the [[agora]] is a platform that lets you do [[yoga]] for the [[mind]] with others
 	- #3 the [[agora]] is a platform for [[effective altruism]].
 	- #4 the [[agora]] is a repository of [[patterns]].
-	- #5 the [[agora]] is a platform for the the study of the [[the phenomenology of reading and writing]]
+	- #5 the [[agora]] is a platform for the the study of the [[phenomenology of reading and writing]]
