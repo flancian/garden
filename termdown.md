@@ -1,0 +1,9 @@
+- a [[tool]].
+	- [[install]]
+	- [[timer]].
+		- ```
+		- sudo apt-get install espeak
+		- pip3 install termdown
+		- ```
+	- a shell script I use with it:
+	- do termdown -v en 25m -c 10 --font doh -e; termdown -v en 5m -c 10 --font doh -e; done'
