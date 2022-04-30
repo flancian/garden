@@ -1,4 +1,6 @@
 - an [[article]].
 	- [[2022-04-27]] [justin murphy]]
 	- #go https://www.otherlife.co/pkm/
-		-
+		- a bit contrarian/strongly opinionated, but it's got good bones?
+		- [[j0lms]] pointed out that the [[agora]] looks like a solution to some of the problems
+		- [[ivo]] recommended to read it
