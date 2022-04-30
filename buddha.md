@@ -7,4 +7,6 @@
 		- [[meta]]
 			- Ha, I can't believe I hadn't noded him until [[2020-12-11]].
 			- As of [[2021-11-20]] this was still clearly a stub.
-	-
+		- I believe in [[buddha nature]].
+		- I try to follow the [[eightfold path]].
+		- I try to be a [[bodhisattva]].
