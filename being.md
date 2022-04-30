@@ -1,3 +1,4 @@
 - #pull [[animal]] [[plant]]
 - #pull [[person]]
-	-
+- I like [[being]].
+	- I feel lucky to be here.
