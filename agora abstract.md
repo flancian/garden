@@ -2,4 +2,6 @@
 	- This was motivated by [[pkm book]]'s [[call for chapters]]
 	- #pull [[agora abstracts]]
 	- #0 in flancia there is an agora (perhaps to be read later)
-	- #1 the [[agora]] [[commons]]
+	- #1 the [[agora]] tries to be a minimal viable [[ethical]] [[knowledge commons]]
+	- #2 the [[agora]] is a platform that lets you do [[yoga]] for the [[mind]] with others
+	-
