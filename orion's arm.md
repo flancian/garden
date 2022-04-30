@@ -1,3 +1,4 @@
-- a [[scenario]].
+- a [[scenario]]
+	- [[collective worldbuilding]] [[futuristic]].
 	- #go https://www.orionsarm.com/
-	- [[collective worldbuilding]] [[futuristic]]
+	- [[fusion candle]]
