@@ -1,0 +1,3 @@
+- a [[scenario]].
+	- #go https://www.orionsarm.com/
+	- [[collective worldbuilding]] [[futuristic]]
