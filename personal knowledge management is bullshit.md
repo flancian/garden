@@ -4,3 +4,5 @@
 		- a bit contrarian/strongly opinionated, but it's got good bones?
 		- [[j0lms]] pointed out that the [[agora]] looks like a solution to some of the problems
 		- [[ivo]] recommended to read it
+	- left annotations!
+		- [[annotate]] https://via.hypothes.is/https://www.otherlife.co/pkm/
