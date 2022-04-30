@@ -1,2 +1,4 @@
-- an [[article]]
+- an [[article]].
+	- [[2022-04-27]] [justin murphy]]
 	- #go https://www.otherlife.co/pkm/
+		-
