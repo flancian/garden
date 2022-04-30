@@ -2,18 +2,18 @@
 - a [[project]].
 	- [[mashup]] or [[remix]] engine.
 	- a set of tools to make it easier for people to coordinate massively online over platforms such as [[youtube]], focused on doing [[yoga]] together.
-		- generalizes to [[x with y]] :)
 	- inspired by [[yoga with adriene]], which we're big fans of.
 		- [[x]] is any user that does [[yoga with adriene]] or with a friend and wants to share their own experience with others.
+	- generalizes to [[x with y]] :)
 	- [[prototype]]
 		- I've been recording some sessions as an example/demo.
-	- [[playlist]] https://www.youtube.com/playlist?list=PLofT8_Cv-W-NMgYeb7mtN3M_kBgkYgUjq
-		- [[episode 1]] https://youtu.be/rphd9Mnboy8
-		- [[episode 2]] https://youtu.be/asIw7Vd9NyQ
-		- [[episode 3]] https://youtu.be/z9QNeqz6iNs
-	- https://www.youtube.com/watch?v=E3jFEOD2tIU
-	- [[drive]] https://drive.google.com/drive/u/0/folders/1LbO9OHAaI793g-61wVh13EgE0wxuh3hj
-	- [[doc]] to come.
+		- [[playlist]] https://www.youtube.com/playlist?list=PLofT8_Cv-W-NMgYeb7mtN3M_kBgkYgUjq
+			- [[episode 1]] https://youtu.be/rphd9Mnboy8
+			- [[episode 2]] https://youtu.be/asIw7Vd9NyQ
+			- [[episode 3]] https://youtu.be/z9QNeqz6iNs
+		- https://www.youtube.com/watch?v=E3jFEOD2tIU
+		- [[drive]] https://drive.google.com/drive/u/0/folders/1LbO9OHAaI793g-61wVh13EgE0wxuh3hj
+		- [[doc]] with details to come.
 - maybe also a [[short story]].
 	- very much the beginning of [[draft]] :)
 	- "It started as a joke, partly a reflection on my own egocentrism. We loved doing [[Yoga with Adriene]] and [[Benji]] but sometimes struggled with poses and transitions; the opportunity to watch ourselves while we were doing [[yoga]] proved too tempting, the webcam was pointed, [[meet]] was opened, then we were off.
