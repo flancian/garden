@@ -1,5 +1,5 @@
-# Being
-
-- See [[person]].
-
-
+- #pull [[animal]] [[plant]]
+- #pull [[person]]
+- I like [[being]].
+	- I feel lucky to be here.
+	- I feel lucky to have met [[you]]!

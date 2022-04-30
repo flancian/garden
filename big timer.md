@@ -2,3 +2,5 @@
 	- the most flexible online [[timer]] I know of
 	- #go https://bigtimer.net
 	- #pull [[koos looijesteijn]] built it but sold it
+	- they seem to be adding [[ads]] for some populations (I get ads at work, not at home) and they removed a [[support]] button they used to have
+	- now trying to migrate to locally-run [[termdown]] for [[pomodoro]] and such
