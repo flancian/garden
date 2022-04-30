@@ -4,7 +4,9 @@
 	- a set of tools to make it easier for people to coordinate massively online over platforms such as [[youtube]], focused on doing [[yoga]] together.
 		- generalizes to [[x with y]] :)
 	- inspired by [[yoga with adriene]], which we're big fans of.
-		- [[x]] is any user that does [[yoga with adriene]] and wants to share their own experience with others.
+		- [[x]] is any user that does [[yoga with adriene]] or with a friend and wants to share their own experience with others.
+	- [[prototype]]
+		- I've been recording some sessions as an example/demo.
 	- [[playlist]] https://www.youtube.com/playlist?list=PLofT8_Cv-W-NMgYeb7mtN3M_kBgkYgUjq
 		- [[episode 1]] https://youtu.be/rphd9Mnboy8
 		- [[episode 2]] https://youtu.be/asIw7Vd9NyQ
