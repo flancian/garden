@@ -1,5 +1,2 @@
 # Being
-
-- See [[person]].
-
-
+	- See [[person]].
