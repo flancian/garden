@@ -1,1 +1,5 @@
-- I write many abstracts for possible [[papers]]
+- I try to write [[abstracts]] for possible [[papers]] related to the [[agora]].
+	- This was motivated by [[pkm book]]'s [[call for chapters]]
+	- #pull [[agora abstracts]]
+	- #0 in flancia there is an agora (perhaps to be read later)
+	- #1 the [[agora]] [[commons]]
