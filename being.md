@@ -1,2 +1,3 @@
-# Being
-	- See [[person]].
+- #pull [[animal]] [[plant]]
+- #pull [[person]]
+	-
