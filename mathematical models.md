@@ -1,1 +1,1 @@
-- perhaps we are all mathematical models, or so
+- perhaps we are all mathematical models, or so I understand it could be after reading [[max tegmark]] and [[david deutsch]] and the [[buddha]].
