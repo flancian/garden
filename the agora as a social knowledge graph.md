@@ -10,8 +10,8 @@
 				- Note that Agora nodes in turn to graphs defined in a local context around the [[subnodes]] represented by known resources.
 			- Because links between two nodes in an Agora can be [[annotated]] (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a [[hypergraph]].
 			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at a higher level.
-		- On a system level, there exists a [[reference Agora]] that serves as an [[mvp]] for , being built on basic principles and de facto standards, that we are using to refine the proposed system and test hypotheses.
-			- The reference Agora consumes
+		- On a system level, there exists a [[reference Agora]] that provides a minimum viable implementation for the [[underlay]], [[interlay]], [[overlay]] components of the [[distributed knowledge graph]].
+			- The reference Agora tries to be as general as possible and serve as a platform , being built on basic principles and de facto standards, that we are using to refine the proposed system and test hypotheses.
 			- Some hypotheses that we are testing:
 				- A [[knowledge commons]] model can provide utility to participating communities efficiently, as the cost of systemic integrations with a hub design such as the Agora can scale with `O(N)` instead of the `O(N^2)` provided by a naive full mesh.
 				- A
