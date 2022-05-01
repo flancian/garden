@@ -1,2 +1,2 @@
 - #pull [[where is my light]]
--
+	- As I meditate I try to remember to often ask myself: where is my light?
