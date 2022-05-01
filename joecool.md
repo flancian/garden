@@ -1,4 +1,8 @@
 - a [[person]].
 	- [[jacob]] [[joe cool]]
 	- [[web assembly]]
-	- [[interface types]]
+	- [[interface types]] -- processes that let types self-inspect
+	- [[bridges]]
+	- [[translation]]
+		- between [[ideals]]
+		-
