@@ -17,5 +17,5 @@
 				- Social composition and integration might be sufficient to yield meaning and sufficient order, or at least significantly complement both taxonomic approaches (hierarchical) and individual-scoped eventual convergence (non hierarchical).
 					- A composition of personal [[hierarchies]] yields a social [[heterarchy]].
 					- The social context afforded by an Agora provides a path towards faster eventual convergence (that is, `K` people contributing to `N` nodes as categorized using loose or implicit personal ontologies can converge on useful emergent categories as `K` increases).
-				- Going from
+				- Going from a set of voice-preserving [[individual contributions]] to a shared [[group resource]] might be an efficient way to foster opportunistic collaboration.
 		-
