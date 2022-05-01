@@ -12,7 +12,7 @@
 		- On a system level, there exists a [[reference Agora]] that provides a minimum viable implementation for the [[underlay]], [[interlay]], [[overlay]] components of the [[distributed knowledge graph]].
 			- We are using said reference Agora to refine the proposed system and run experiments.
 			- Some hypotheses that we are testing:
-				- Individual contributions can be useful on average when served best-effort in a social context provided only an additional [[stance]] (at little extra effort over baseline), and this mechanism benefits from network effects.
+				- Individual contributions can be useful on average when served best-effort in a social context provided only an cheap additional stance (at little extra effort over baseline), and this mechanism benefits from network effects.
 				- A [[knowledge commons]] model can provide utility to participating communities efficiently, as the cost of systemic integrations with a hub design such as the Agora can scale with `O(N)` instead of the `O(N^2)` provided by a naive full mesh.
 				- Social composition and integration might be sufficient to yield meaning and sufficient order, or at least significantly complement both taxonomic approaches (hierarchical) and individual-scoped eventual convergence (non hierarchical).
 					- A composition of personal [[hierarchies]] yields a social [[heterarchy]].
