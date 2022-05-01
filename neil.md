@@ -6,6 +6,8 @@
 	- [[social coop]]
 	- Uses [[org-roam]].
 	- [[matrix]] @doubleloop:matrix.org
+- [[2022-05-01]]
+	-
 ## [[2021-12-11]]
 	- ahoy!
 		- https://meet.jit.si/DoubleloopFlancian
