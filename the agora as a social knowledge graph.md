@@ -1,2 +1,3 @@
-- #pull [[social knowledge graph]] [[distributed knowledge graph]] [[knowledge graph]]
--
+- an [[agora abstract]].
+	- #push [[agora abstracts]]
+		- #pull [[social knowledge graph]] [[distributed knowledge graph]] [[knowledge graph]]
