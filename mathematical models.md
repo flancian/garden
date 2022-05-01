@@ -1,1 +1,1 @@
-- perhaps we are all mathematical models or
+- perhaps we are all mathematical models, or so
