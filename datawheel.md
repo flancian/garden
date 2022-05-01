@@ -1,2 +1,4 @@
 - an [[agency]].
 	- [[twitter]] https://twitter.com/Datawheel
+	- [[data integration]] [[distribution]] [[visualization]]
+	- #go https://datawheel.us
