@@ -3,7 +3,7 @@
 		- #pull [[social knowledge graph]] [[distributed knowledge graph]]
 		- An Agora is a [[distributed knowledge graph]] provisioned and maintained by a community as a [[commons]].
 			- Whereas a [[personal knowledge graph]] usually contain resources authored or collected by a single person, and a wiki usually contains resources produced by a community, an Agora is a [[social knowledge graph]] based on the [[integration]] of both personal and group resources.
-			- Whereas a [[personal knowledge graph]] is usually maintained using a single tool and stored in a single format, the Agora
+			- Whereas a [[personal knowledge graph]] is usually maintained using a single [[personal knowledge management]] tool and stored in a single format, the Agora
 		- Being a graph, an Agora can be defined as a set of vertexes or [[nodes]] `V` (entities) and [[edges]] `E` (known links between entities, optionally annotated).
 			- Agora [[nodes]] are defined by the set of known resources *about* the entity described by their title.
 				- Put another way, an [[agora node]] is a community maintained [[collection]] of voice-preserving individual contributions by default.
