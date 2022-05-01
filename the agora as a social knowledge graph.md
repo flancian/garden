@@ -5,7 +5,8 @@
 			- Whereas a [[personal knowledge graph]] usually contain resources authored or collected by a single person, and a wiki usually contains resources produced by a community, an Agora is a [[social knowledge graph]] based on the [[integration]] of both personal and group resources.
 		- Being a graph, an Agora can be defined as a set of [[nodes]] (entities) and [[edges]] (links between entities, optionally annotated).
 			- Agora [[nodes]] are defined by the set of known resources *about* the entity described by their title.
-				- Note that Agora nodes generalize in turn to graphs defined in a local context by the [[subnodes]] represented by found resources.
+				- Put another way, an [[agora node]] is a community maintained [[collection]].
+				- Note that Agora nodes generalize in turn to graphs defined in a local context around the [[subnodes]] defined by known resources.
 			- Note that because links can be annotated in an Agora, the Agora is a [[hypergraph]].
 			-
 		-
