@@ -9,12 +9,13 @@
 				- Put another way, an [[agora node]] is a community maintained [[collection]] of voice-preserving individual contributions by default.
 				- Note that Agora nodes in turn to graphs defined in a local context around the [[subnodes]] represented by known resources.
 			- Because links between two nodes in an Agora can be [[annotated]] (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a [[hypergraph]].
-			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at higher level.
+			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at a higher level.
 		- On a system level, there exists a [[reference Agora]] that provides a minimum viable implementation for the [[underlay]], [[interlay]], [[overlay]] components of the [[distributed knowledge graph]].
 			- We are using said reference Agora to refine the proposed system and run experiments.
 			- Some hypotheses that we are testing:
+				- Individual contributions can be useful
 				- A [[knowledge commons]] model can provide utility to participating communities efficiently, as the cost of systemic integrations with a hub design such as the Agora can scale with `O(N)` instead of the `O(N^2)` provided by a naive full mesh.
-				- Social composition and integration might be sufficient to complement both taxonomic approaches (hierarchical) and
+				- Social composition and integration might be sufficient to yield meaning and sufficient order, or at least significantly complement both taxonomic approaches (hierarchical) and
 				-
 				-
 		-
