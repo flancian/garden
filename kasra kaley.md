@@ -1,4 +1,4 @@
 - a [[person]].
 	- [[shamanic coders guild]]
 	- interested in the [[agora]], [[open source]]
-	-
+	- [[building bridges]]
