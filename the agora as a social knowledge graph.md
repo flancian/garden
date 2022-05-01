@@ -8,5 +8,5 @@
 				- Put another way, an [[agora node]] is a community maintained [[collection]].
 				- Note that Agora nodes generalize in turn to graphs defined in a local context around the [[subnodes]] defined by known resources.
 			- Note that because links can be annotated in an Agora, the Agora is in itself a [[hypergraph]].
-			- Finally, individual agoras are expected to federate and organize into Agora networks, which are of course in themselves graph-like.
+			- Finally, individual agoras are expected to federate and organize into Agora networks, which are of course in themselves graph-like at a higher level.
 		-
