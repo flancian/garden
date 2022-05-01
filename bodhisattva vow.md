@@ -1,8 +1,8 @@
 # Bodhisattva Vow
 - a [[vow]].
 	- #pull [[bodhisattva vows]]
-	-
-	- [[go]] https://en.wikipedia.org/wiki/Bodhisattva_vow
+	- #go https://jackkornfield.com/bodhisattva-vows/
+	- #pull https://en.wikipedia.org/wiki/Bodhisattva_vow
 	- The four encompassing vows:
 		- Masses of creatures, without bounds, we vow to save them all.
 		- Anxiety and hate, desires inexhaustible, we vow to break them all.
