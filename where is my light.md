@@ -1,7 +1,8 @@
-- #push [[3]]
+- #push [[3]] [[three]]
 	- As I meditate I often ask myself: where is my [[light]]?
 	- I take it as an opportunity to practice [[loving kindness]].
 	- I start taking notice of where we are: my [[partner]], [[lady burup]] and [[me]].
 		- I think of us because we live together so it's easy
 	- Then I think of calculating the [[triangle center]].
 	- Then I think of extending the triangle by adding items.
+	- Then I go to [[four]].
