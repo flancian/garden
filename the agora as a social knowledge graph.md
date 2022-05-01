@@ -8,10 +8,10 @@
 		- Being a [[graph]], an Agora can be defined as a set of vertexes or [[nodes]] `N` (entities) and [[edges]] `E` (known links between entities, optionally annotated).
 			- Agora [[nodes]] are defined by the set of known resources *about* the entity described by their title or other metadata.
 				- A [[node]] is a community-maintained [[collection]] of voice-preserving individual [[subnodes]] defined by the resources contributed by a certain user or group.
-				- Links can be said to [[fan out]] in the sense that they are evaluated in social context by default.
 			- Because links between two nodes in an Agora can be [[annotated]] (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a [[hypergraph]].
 			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at a higher level.
 		- On a system level, there exists a [[reference Agora]] that provides a minimum viable implementation for the [[underlay]], [[interlay]], [[overlay]] components of the [[distributed knowledge graph]].
+			- In the reference Agora, links can be said to [[fan out]] by default in the sense that they are evaluated in social context
 			- We are using said reference Agora to refine the proposed system and run experiments.
 			- Some hypotheses that we are testing:
 				- Individual contributions can be useful on average when served best-effort in a social context at the cost of adopting a default social stance (at little extra effort over baseline), and this mechanism benefits from network effects.
