@@ -11,5 +11,5 @@
 			- Because links between two nodes in an Agora can be [[annotated]] (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a [[hypergraph]].
 			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at a higher level.
 		- Some hypothesis that we are testing:
-			- The cost of integrations
+			- A knowledge commons can provide benefits to the community efficiently, as the cost of integrations with a hub such as the Agora scales
 		-
