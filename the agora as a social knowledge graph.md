@@ -2,11 +2,11 @@
 	- #push [[agora abstracts]]
 		- #pull [[social knowledge graph]] [[distributed knowledge graph]]
 		- An Agora is a [[distributed knowledge graph]] provisioned and maintained by a community as a [[commons]].
-			- Whereas a [[personal knowledge graph]] usually contains resources authored or collected by a single person, and a wiki usually contains resources produced by a community, an Agora is a [[social knowledge graph]] based on the [[integration]] of both personal and group resources.
+			- Whereas a [[personal knowledge graph]] usually contains resources authored or collected by a single person, and a wiki usually contains resources produced by a community, an Agora is a [[social knowledge graph]] based on the [[integration]] of both personal and group resources in a social [[context]].
 			- Whereas a [[personal knowledge graph]] is usually maintained using a single [[personal knowledge management]] tool and stored in a single format, an Agora tends to be tool agnostic and support many formats as input.
 		- Being a graph, an Agora can be defined as a set of vertexes or [[nodes]] `N` (entities) and [[edges]] `E` (known links between entities, optionally annotated).
 			- Agora [[nodes]] are defined by the set of known resources *about* the entity described by their title or other metadata.
-				- Put another way, an [[agora node]] is a community maintained [[collection]] of voice-preserving individual contributions by default.
+				- A [[node]] is a community maintained [[collection]] of voice-preserving individual contributions by default.
 				- Note that Agora nodes in turn to graphs defined in a local context around the [[subnodes]] represented by known resources.
 			- Because links between two nodes in an Agora can be [[annotated]] (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a [[hypergraph]].
 			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at a higher level.
