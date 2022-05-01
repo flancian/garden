@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[twitter]] https://twitter.com/cesifoti
+	- #pull [[center for collective learning]] [[datawheel]]
