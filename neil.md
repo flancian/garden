@@ -14,7 +14,7 @@
 		- have taken off two Fridays
 	- [[revolution]] today, literally [[today]]
 		- [[murray bookchin]]
-		- [[ecology]] == [systems]]
+		- [[ecology]] == [[systems]]
 	- [[agora paper]]
 	- [[pkm book]]
 	- [[node club]]
