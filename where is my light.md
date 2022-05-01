@@ -1,0 +1,4 @@
+- #push [[3]]
+	- As I meditate I often ask myself: where is my [[light]]?
+	- I take it as an opportunity to practice [[loving kindness]].
+	-
