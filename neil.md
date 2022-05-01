@@ -13,6 +13,8 @@
 	- #push [[four day week]]
 		- have taken off two Fridays
 	- [[revolution]] today, literally [[today]]
+		- [[murray bookchin]]
+		- [[ecology]] == [systems]]
 	- [[agora paper]]
 	- [[pkm book]]
 	- [[node club]]
