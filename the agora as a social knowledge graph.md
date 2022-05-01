@@ -16,7 +16,6 @@
 				- A [[knowledge commons]] model can provide utility to participating communities efficiently, as the cost of systemic integrations with a hub design such as the Agora can scale with `O(N)` instead of the `O(N^2)` provided by a naive full mesh.
 				- Social composition and integration might be sufficient to yield meaning and sufficient order, or at least significantly complement both taxonomic approaches (hierarchical) and individual-scoped eventual convergence (non hierarchical).
 					- A composition of personal [[hierarchies]] yields a social [[heterarchy]].
-					- The social context afforded by an Agora provides an additional path towards eventual convergence (that is, `K` people contributing to `N` nodes as categorized using loose or implicit personal ontologies can converge on useful emergent categories as both `K` and `N` increase)
-				-
-				-
+					- The social context afforded by an Agora provides a path towards faster eventual convergence (that is, `K` people contributing to `N` nodes as categorized using loose or implicit personal ontologies can converge on useful emergent categories as `K` increases).
+				- Going from
 		-
