@@ -9,7 +9,7 @@
 			- Agora [[nodes]] are defined by the set of known resources *about* the entity described by their title or other metadata.
 				- A [[node]] is a community-maintained [[collection]] of voice-preserving individual [[subnodes]] defined by the resources contributed by a certain user or group.
 			- Because links between two nodes in an Agora can be [[annotated]] (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a [[hypergraph]].
-			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at a higher level.
+			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like
 		- On a system level, there exists a [[reference Agora]] that provides a minimum viable implementation for the [[underlay]], [[interlay]], [[overlay]] components of the [[distributed knowledge graph]].
 			- In the reference Agora, links can be said to [[fan out]] by default in the sense that they are evaluated in social context in individual contributions (resulting in following a link sometimes surfacing more than what the individual author envisioned.)
 			- We are using said reference Agora to refine the proposed system and run experiments.
