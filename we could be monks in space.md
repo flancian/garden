@@ -1,0 +1,3 @@
+- #pull [[monks in space]]
+- unsure if an [[essay]], a [[short story]], or an [[article]].
+	- #meta what's the difference between an [[essay]] and an [[article]]?
