@@ -1,9 +1,9 @@
 # CONTRACT
 - I endorse the base [[contract]] of this Agora which is just [[an agora]], anagora.org.
 - Contracts are [[lists]] of assertions; they can be assumed to include declarations of [[knowledge]] and [[belief]] as expressed in [[notes]] and [[resources]] volunteered to this [[agora]].
-	- These assertions are sometimes organized in [[trees]] and [[graphs]] using the structured allowances given by this [[agora]] as expressed in [[agora protocol]] and [[agora rfcs]].
+	- In my particular case these assertions are sometimes organized in [[trees]] and [[graphs]] using the structured allowances given by this [[agora]] as modelled in [[agora paper]], [[agora protocol]] and [[agora rfcs]].
 - I [[intend]] to dedicate a [[meaningful fraction]] of my [[free time]] and [[resources]] to improve the world.
-	- [[push]] [[manifesto]]
+	- [[pull]] [[manifesto]]
 		- I am a [[Flancian]] and this is my [[manifesto]]:
 			- In [[Flancia]] there is no [[poverty]].
 			- In [[Flancia]] there is no [[privilege]].
