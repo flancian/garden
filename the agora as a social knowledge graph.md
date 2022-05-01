@@ -7,8 +7,8 @@
 			- Agora [[nodes]] are defined by the set of known resources *about* the entity described by their title.
 				- Put another way, an [[agora node]] is a community maintained [[collection]] of voice-preserving individual contributions by default.
 				- Note that Agora nodes generalize in turn to graphs defined in a local context around the [[subnodes]] represented by known resources.
-			- Because links between two nodes in an Agora can be  [[annotated]] (i.e. #tagged or qualified by other nearby links), the Agora is in fact a [[hypergraph]].
-		- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at a higher level.
+			- Because links between two nodes in an Agora can be [[annotated]] (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a [[hypergraph]].
+			- Individual agoras are expected to federate and organize into greater Agora networks, which are in themselves graph-like at a higher level.
 		- Some hypothesis that we are testing:
-			-
+			- The
 		-
