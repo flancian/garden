@@ -12,6 +12,11 @@
 	- [[visual studio]] offers [[send feedback in any format]]
 	- #push [[four day week]]
 		- have taken off two Fridays
+	- [[revolution]] today, literally [[today]]
+	- [[agora paper]]
+	- [[pkm book]]
+	- [[node club]]
+	- recursion
 ## [[2021-12-11]]
 	- ahoy!
 		- https://meet.jit.si/DoubleloopFlancian
