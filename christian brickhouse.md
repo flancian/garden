@@ -1,2 +1,3 @@
 - a [[person]].
-	-
+	- @iamabrickhouse@fosstodon.org
+	- [[moa]] user
