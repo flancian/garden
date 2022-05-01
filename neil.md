@@ -10,6 +10,8 @@
 	- [[firefox]] vs [[chromium]]
 	- [[nick sellen]]
 	- [[visual studio]] offers [[send feedback in any format]]
+	- #push [[four day week]]
+		- have taken off two Fridays
 ## [[2021-12-11]]
 	- ahoy!
 		- https://meet.jit.si/DoubleloopFlancian
