@@ -1,1 +1,5 @@
 - #pull [[shamanic coders guild]]
+- [[kasra]] [[joe cool]]
+	- [[agora bridges]]
+		- [[twitter]] [[discord]]
+	- difference between [[full users]]

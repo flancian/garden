@@ -1,0 +1,3 @@
+- an [[organization]].
+	- #go https://centerforcollectivelearning.org/
+	- [[university of toulouse]]

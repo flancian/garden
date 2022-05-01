@@ -7,3 +7,5 @@
 	- #3 the [[agora]] is a platform for [[effective altruism]].
 	- #4 the [[agora]] is a repository of [[patterns]].
 	- #5 the [[agora]] is a platform for the the study of the [[phenomenology of reading and writing]]
+	- #6 the [[agora]] is a minimal viable [[social knowledge graph]] that tries to integrate and complement [[personal knowledge graphs]] optimally
+	-
