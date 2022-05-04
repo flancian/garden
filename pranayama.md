@@ -3,4 +3,5 @@
 	- [[bruno winck]] recommended it and shared his routine: https://twitter.com/brunowinck/status/1521946831382589442
 	- [[nadi shodhana]]
 		- [[vishnu mudra]]
+		- switch nostril then [[exchale]] and [[inhale]] through that nostril
 	-
