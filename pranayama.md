@@ -5,3 +5,4 @@
 		- [[vishnu mudra]]
 		- switch nostril then [[exchale]] and [[inhale]] through that nostril
 	-
+	-
