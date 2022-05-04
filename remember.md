@@ -1,2 +1,2 @@
 - I struggle to [[remember]] things. I always have. I started writing again as an attempt to aid my memory.
-  - https://flancia.org/me
+	- #go https://flancia.org/me

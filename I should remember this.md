@@ -1,2 +1,2 @@
 - I should remember many things, but I usually don't, which is why I like [[wikis]] and the [[agora]].
-- #pull [[do]] [[todo]] [[read]] [[later]]
+- #pull [[do]] [[todo]] [[read]] [[later]] [[plan]] [[remember]] and others
