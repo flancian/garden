@@ -3,4 +3,3 @@
 	- [[agora abstract]]
 	- [[twitter]] https://twitter.com/PkgBook
 	- Being organized by [[ivo velitchkov]] and [[george anadiotis]] == [[linked do]]
-		- LATER (who? check)
