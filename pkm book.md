@@ -1,5 +1,2 @@
 - a [[book]].
 	- #pull [[pkg book]] actually!
-	- [[twitter]] https://twitter.com/PkgBook
-	- Being organized by [[ivo]] and others
-		- LATER (who? check)
