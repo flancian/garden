@@ -1,4 +1,6 @@
-- [[bruno winck]] recommended it and shared his routine: https://twitter.com/brunowinck/status/1521946831382589442
+- a [[technique]].
+	- [[meditation]] [[breathing]]
+	- [[bruno winck]] recommended it and shared his routine: https://twitter.com/brunowinck/status/1521946831382589442
 	- [[nadi shodhana]]
 		- [[vishnu mudra]]
 	-
