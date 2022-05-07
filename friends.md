@@ -1,9 +1,11 @@
-# Friends
+- I dedicate this [[agora]], and [[flancia]], to [[you]], my [[friend]]!
+	- #pull [[eight pomodoros for the benefit of all beings]]
 - a [[list]].
 	- #pull [[friend]]
 		- You can be my [[friend]] essentially just by being interested on being one of them and being a well-intentioned person.
 		- I assume all are [[well intentioned]] by [[default]].
 	- I like to think of [[flancia]] as an interactive book dedicated to my [[friends]].
+		- I sometimes say I'll [[do]] a [[things]], and then I [[write]] instead, because I try to write for you.
 	- #push [[books]]
 		- #go https://flancia.org
 			- See you on the other side, my [[friends]]!
