@@ -1,5 +1,3 @@
-# Avalokitesvara
-
 - [[pull]] [[avalokiteshvara]].
-
-
+- https://en.wikipedia.org/wiki/Avalokite%C5%9Bvara
+- ![image.png](./assets/image_1651936625981_0.png)
