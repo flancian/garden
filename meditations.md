@@ -9,6 +9,9 @@
 - [[2020]]
 	- This is my [[manifesto]].
 	- I have a [[plan]].
-## 2021
-- I'm building an [[agora]].
-- With it I'd like for us to build many [[stoas]].
+- [[2021]]
+	- I'm building an [[agora]].
+	- With it I'd like for us to build many [[stoas]] and drive a [[loving kindness revolution]].
+- [[2022]]
+	- The [[revolution]] started on [[may 1st 2022]], [[international workers day]] "after" [[covid]].
+	- As I decided to
