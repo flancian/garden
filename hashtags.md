@@ -1,4 +1,5 @@
 - The [[agora]] sees them essentially as wikilinks in CapitalCase format (optional).
 	- If the hashtag points to a node that is an [[action]], clicking on it will trigger the action.
 	- [[agora bridge]] support is lagging, needs to be fixed.
+		- [[refactoring]]
 	- -> [[now]]
