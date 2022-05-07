@@ -1,0 +1,58 @@
+- [[flancia meet]]
+	- I wasn't/am not feeling great still (from the cold or whatever this is I'm carrying), but it was a great way to start the [[weekend]]!
+	- [[agora university]]
+- [[social coop]]
+	- https://www.loomio.org/p/6xBc021Z/give-flancian-server-access
+		- my [[ssh key]] was not added yet, so I requested help with that. tomorrow I'll take another look :)
+	- ...but I can't upload images to social.coop currently :)
+	- ![image.png](../assets/image_1651934011588_0.png)
+	- Might be actually a good time to take a look/try to add some value! pinged people in the [[social coop tech chat]]
+- [[mastodon hosting]]
+	- discussed with [[reddy2go]]
+	- [[masto.host]]
+	-
+- hmm, I really want [[auto push]] I realize :)
+	- it just goes really well with how I already use the agora, feels very natural
+- [[do]] [[this weekend]]
+	- LATER [[capra course]]
+	- LATER log into social.coop via ssh and poke around
+		- see what's up with 500s
+		- see what's up with canvas issue reported by user
+	- [[agora bot]]
+		- NOW add hashtag support
+		  :LOGBOOK:
+		  CLOCK: [2022-05-07 Sat 16:45:51]
+		  :END:
+		- LATER figure out how to fix the [[roco]] non-catchup bug reported by [[kvistgaard]]
+	- [[agora server]]
+		- NOW push PR
+		  :LOGBOOK:
+		  CLOCK: [2022-05-07 Sat 16:46:20]
+		  :END:
+		- LATER fix pulls in pulls
+			- perhaps default to recursive mode?
+			- or just somehow learn how to attach handlers after pulls :)
+		- LATER fix [[go links in pushes]]
+		- LATER experiment with [[autopush]] again?
+		- LATER experiment with more columns
+			- start by adding empty divs and see how it looks?
+		- LATER [[autopull]] in empty nodes!
+			- at least [[wp]]
+	- [[agora]] community
+		- LATER write something about civility/principle of charity
+		- [[shamanic agora]]
+			- LATER [[podman]] experiment in [[hypatia]]
+- I'll now [[write]] in [[meditations]] while I [[hack]].
+	- [[frinends]]
+	- #push [[matrix]]
+		- ![image.png](../assets/image_1651937923418_0.png)
+	- ![image.png](../assets/image_1651938029677_0.png)
+	- I wonder if we'll pull it off. I think we just might!
+	- [[7 minutes]] writing
+	- [[13 minutes]] thinking of [[sqlite]] and pros and cons of [[shared memory]] over just [[api]], sent messages about that
+	- I'm happy [[evan]] is back!
+	- I hope [[metasj]] and [[vera]] are ok. I love them both.
+	- That was one pomodoro of [[writing]] and [[organization]]. Now I'll [[hack]].
+	- [[hashtags]]
+		- is [[rfc 3986]] "good"? calling urlencode() on both [[wikilinks]] and [[hashtags]] would simplify code, it'd be nice to stop calling [[slugify]] as it feels kind of pointless -- or are "nice urls" important? what *is* a [[nice url]]?
+		- will give it a shot and see.
