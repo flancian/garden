@@ -1,0 +1,3 @@
+- A [[space]] with [[n dimensions]].
+	- Could be defined as the dimensions of interesting [[embeddings]].
+	-
