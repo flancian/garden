@@ -18,4 +18,4 @@
 	- I live my life trying to dedicate myself [[for the benefit of all beings]].
 		- [[om mani padme hum]]
 		- [[gate gate paragate parasamgate bodhi svaha]]
-		-
+	- [[many flancians follow the eightfold path]]
