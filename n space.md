@@ -1,3 +1,4 @@
 - A [[space]] with [[n dimensions]].
 	- Could be defined as the dimensions of interesting [[embeddings]].
-	-
+	- [[friends]] are [[people]], what does that mean about the models that could represent them?
+		- our [[writing]], our [[knowing]], our [[living]] together.
