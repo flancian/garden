@@ -14,4 +14,7 @@
 	- With it I'd like for us to build many [[stoas]] and drive a [[loving kindness revolution]].
 - [[2022]]
 	- The [[revolution]] started on [[may 1st 2022]], [[international workers day]] "after" [[covid]].
-	- As I decided to
+	- As I decided to do [[four pomodoros for the revolution]], I opened a random tab from among thousands and it was [[avalokitesvara]].
+	- I try to dedicate myself [[to the benefit of all beings]].
+		- [[om mani padme hum]]
+		-
