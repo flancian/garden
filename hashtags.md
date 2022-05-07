@@ -2,5 +2,5 @@
 	- If the hashtag points to a node that is an [[action]], clicking on it will trigger the action.
 	- [[agora bridge]] support is lagging, needs to be fixed.
 		- [[refactoring]] -- it would be nice to have as little difference between handling a [[wikilink]] and handling a [[hashtag]] as possible.
-		- [[rfc 3986]] means we could just link to <agora>/<entity> regardless of convention, and let [[agora server]] handle parsing
+		- [[rfc 3986]] means we could just link to <agora>/<entity> regardless of convention, and let [[agora server]] handle (semantic) parsing
 	- -> [[now]]
