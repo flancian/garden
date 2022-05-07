@@ -5,4 +5,4 @@
 		- [[rfc 3986]] means we could just link to <agora>/<entity> regardless of convention, and let [[agora server]] handle (semantic) parsing
 			- thought of this a while, it's nice how this handles spaces by default but it mangles unicode needlessly
 				- [[iri]] sounds better
-				- OK, let's go, what does [[urlencode]] does?
+				- OK, let's go, what does [[urlencode]] in [[python]] does?
