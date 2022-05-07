@@ -1,1 +1,2 @@
 - #pull [[spacetime]]
+- determines a set of [[places]] in the [[multiverse]]
