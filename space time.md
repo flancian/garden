@@ -1,2 +1,2 @@
 - #pull [[spacetime]]
-- determines a set of [[places]] in the [[multiverse]]
+	- determines a set of [[contexts]] in the [[multiverse]]
