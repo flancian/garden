@@ -14,7 +14,7 @@
 			- I dedicate this site, with all its [[mistakes]], to you, for whatever it's worth.
 			- [[In Flancia there is an Agora]]
 				- #es [[En Flancia hay un Agora]]!
-			- [[Per aspera ad astra]], or together and to eternity
+			- [[Per aspera ad astra]], or [[together to eternity]]
 			- [[El pueblo unido jamás será vencido]] == [[The People United Will Never Be Defeated]]
 			- [[In Flancia there is no poverty]] == [[En Flancia no hay pobreza]]
 			- [[Juntos Venceremos a Moloch]].
