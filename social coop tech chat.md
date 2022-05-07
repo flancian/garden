@@ -1,1 +1,2 @@
-- #go
+- #push [[social coop tech group]]
+	- #go https://app.element.io/#/room/#socialcoop-tech:matrix.org
