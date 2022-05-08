@@ -1,1 +1,1 @@
-- In #Flancia
+- In #Flancia every being has the right to an arbitrarily sized [[kallax]]
