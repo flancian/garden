@@ -18,4 +18,10 @@
 		  :LOGBOOK:
 		  CLOCK: [2022-05-08 Sun 18:14:10]
 		  :END:
-		- [[twitter]]
+		- LATER [[twitter]]
+		- LATER provide [[multi platform social feeds]] as a service
+		  :LOGBOOK:
+		  CLOCK: [2022-05-08 Sun 18:14:34]
+		  :END:
+			- it's like the current feed code, but special cased on urls? one url per post, no matter the node source
+			- yep I like this -> [[url feeds]]
