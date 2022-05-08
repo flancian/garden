@@ -11,4 +11,11 @@
 				  import urllib.parse
 				- urllib.parse.quote_plus(...)
 				- ```
-	-
+	- now done for [[mastodon]] :)
+		- opt out story needs to be improved, for now users who opt out are hardcoded in code
+	- next up:
+		- NOW [[matrix]]
+		  :LOGBOOK:
+		  CLOCK: [2022-05-08 Sun 18:14:10]
+		  :END:
+		- [[twitter]]
