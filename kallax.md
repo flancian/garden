@@ -3,4 +3,5 @@
 	- [[computers]]
 	- [[seeds]]
 	- [[records]]
-	-
+- a [[project]].
+	- #pull [[white kallax]]
