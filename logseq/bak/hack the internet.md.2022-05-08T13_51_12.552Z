@@ -1,0 +1,2 @@
+- #pull [[hack the world]] is trite but it contains a lot of truth and beauty
+	- to hack is to try to think creatively about a matter
