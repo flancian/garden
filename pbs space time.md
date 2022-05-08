@@ -1,4 +1,4 @@
 - a [[series]].
 	- [[pbs]]
-	- [[yt]]
+	- #yt https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g
 	- #go https://www.youtube.com/watch?v=z91oGI5aP0A&list=PLsPUh22kYmNDRYfImV3BzNZ6yTwhIpe0k
