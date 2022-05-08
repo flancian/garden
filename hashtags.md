@@ -6,8 +6,9 @@
 			- thought of this a while, it's nice how this handles spaces by default but it mangles unicode needlessly
 				- [[iri]] sounds better
 				- OK, let's go, what does [[urlencode]] in [[python]] does?
-				- [[quote plus]]
+				- actually [[quote plus]]
 				- ```
 				  import urllib.parse
 				- urllib.parse.quote_plus(...)
 				- ```
+	-
