@@ -14,11 +14,12 @@
 	- now done for [[mastodon]] :)
 		- opt out story needs to be improved, for now users who opt out are hardcoded in code
 	- next up:
-		- NOW [[matrix]]
+		- DONE [[matrix]]
 		  :LOGBOOK:
-		  CLOCK: [2022-05-08 Sun 18:14:10]
+		  CLOCK: [2022-05-08 Sun 18:14:10]--[2022-05-08 Sun 22:36:10] =>  04:22:00
 		  :END:
 		- LATER [[twitter]]
+		- LATER [[agora server]] support, so
 		- LATER provide [[multi platform social feeds]] as a service
 		  :LOGBOOK:
 		  CLOCK: [2022-05-08 Sun 18:14:34]
