@@ -1,2 +1,6 @@
 - In #Flancia every being has the right to an arbitrarily sized [[kallax]] containing everything they need that can fit there.
+	- [[books]]
+	- [[computers]]
+	- [[seeds]]
+	- [[records]]
 	-
