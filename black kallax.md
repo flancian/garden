@@ -1,4 +1,4 @@
 - We have a [[white kallax]]. What would a [[kallax]] of a [[different color]] look like?
-	-
+	- What about [[black]]?
 	- What about [[ultraviolet]]?
 	- What about [[caramel]]?

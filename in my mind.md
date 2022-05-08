@@ -1,0 +1,2 @@
+- Welcome to my [[garden]]! It is a representation of my [[mind]].
+- Welcome to the [[agora]]! It is a representation of [[our minds]].
