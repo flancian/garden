@@ -1,2 +1,3 @@
 - #push [[go links]]
-	-
+	- go links are an operation ([[action]]) over a node's [[url feed]]
+	- [[social feeds]] are provided by an [[agora]] if you run [[agora bot]] to consume posts from [[social media]]
