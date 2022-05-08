@@ -19,7 +19,7 @@
 		  CLOCK: [2022-05-08 Sun 18:14:10]--[2022-05-08 Sun 22:36:10] =>  04:22:00
 		  :END:
 		- LATER [[twitter]]
-		- LATER [[agora server]] support, so
+		- LATER [[agora server]] support, so file HashtagsAreHere.md is volunteered in node [[hashtags are here]]
 		- LATER provide [[multi platform social feeds]] as a service
 		  :LOGBOOK:
 		  CLOCK: [2022-05-08 Sun 18:14:34]
