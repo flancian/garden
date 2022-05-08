@@ -1,3 +1,4 @@
 - We have a [[white]] [[ikea kallax]], we like it.
 	- The fixed divisions make it sometimes inefficient but it makes up for it in [[structure]].
-	-
+	- It is a [[matrix]].
+- #pull [[black kallax]]
