@@ -18,7 +18,15 @@
 		  :LOGBOOK:
 		  CLOCK: [2022-05-08 Sun 18:14:10]--[2022-05-08 Sun 22:36:10] =>  04:22:00
 		  :END:
-		- LATER [[twitter]]
+		- DONE [[twitter]]
+		  :LOGBOOK:
+		  CLOCK: [2022-05-08 Sun 23:29:29]--[2022-05-08 Sun 23:29:30] =>  00:00:01
+		  :END:
+		- LATER add opt out
+			- NOW there might be a bug? why did https://twitter.com/an_agora/status/1523407803200983040 at-mention @zeno_dox, attribute the tweet to them? hmm.
+			  :LOGBOOK:
+			  CLOCK: [2022-05-08 Sun 23:30:13]
+			  :END:
 		- LATER [[agora server]] support, so file HashtagsAreHere.md is volunteered in node [[hashtags are here]]
 		- LATER provide [[multi platform social feeds]] as a service
 		  :LOGBOOK:
