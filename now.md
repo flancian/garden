@@ -2,3 +2,5 @@
 - [[hashtags]]
 - write [[agora bootstrap]] script.
 - [[paused]] for [[tea]]
+	- wow, that was a long tea. life happened :)
+	- resuming today, [[2022-05-08]], after talking to my mum.
