@@ -1,0 +1,9 @@
+- NOW fix bug with hashtags followed by :, punctuation marks -- easy regex fix?
+  :LOGBOOK:
+  CLOCK: [2022-05-09 Mon 09:27:06]
+  :END:
+	- https://twitter.com/kvistgaard/status/1523526776013869056
+- NOW add better support for CamelCase and such to [[agora server]]
+  :LOGBOOK:
+  CLOCK: [2022-05-09 Mon 09:28:32]
+  :END:
