@@ -1,6 +1,6 @@
-- ```
+- my [[gnupg]] key follows```
   ---BEGIN PGP PUBLIC KEY BLOCK-----
-- mQINBGJ5fREBEADhOjqVaianVAI48+2Jc20DmMjw8VaG3ojEFOg/LsiRw055wR6+
+  mQINBGJ5fREBEADhOjqVaianVAI48+2Jc20DmMjw8VaG3ojEFOg/LsiRw055wR6+
   DJy+ou0o/OWuB5cnOoptKvrNz0NvEScCxIr1Rjjv2Q8FlZTlRKQIEfGglfo1Lmo1
   xVm5hmRYY883Wf4dKVCC4EsZaAYWd+7XkHgS/Y/1jIkl5Yec3M4n91MltFyQeYwo
   uMOwXTYsp9zkCfDk9NNPOOpzoU6MQ3iIGzjUFyqIVITAvA56weitv9WV4DkD3nMb
@@ -50,3 +50,4 @@
   athyloCq+C55m4veAMgFBdUgVfg=
   =LK19
   -----END PGP PUBLIC KEY BLOCK-----
+  ```
