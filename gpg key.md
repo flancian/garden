@@ -1,4 +1,6 @@
-- my [[gnupg]] key follows```
+- my [[gnupg]] key follows.
+	- feel free to use it when communicating with me over any of the contact channels listed in [[flancian]].
+- ```
   ---BEGIN PGP PUBLIC KEY BLOCK-----
   mQINBGJ5fREBEADhOjqVaianVAI48+2Jc20DmMjw8VaG3ojEFOg/LsiRw055wR6+
   DJy+ou0o/OWuB5cnOoptKvrNz0NvEScCxIr1Rjjv2Q8FlZTlRKQIEfGglfo1Lmo1
