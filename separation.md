@@ -1,0 +1,1 @@
+- It seems my partner of [[10 years]] and I are [[separating]]. I love them and am happy knowing we will remain friends no matter what!
