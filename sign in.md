@@ -1,1 +1,1 @@
-- You don't sign up for an Agora; you sign in!
+- You don't [[sign up]] for an Agora; you sign in!
