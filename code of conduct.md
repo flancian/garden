@@ -1,0 +1,1 @@
+- [[social coop]] https://pad.disroot.org/p/Social.Coop_Code_of_Conduct_V3.1revs

@@ -1,1 +1,2 @@
 - #go https://social.coop/admin/dashboard
+- [[code of conduct]]
