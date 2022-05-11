@@ -7,4 +7,4 @@
 	- [[agora]] https://anagora.org/@mathewlowry
 		- [[p1]]
 	- #push [[agora plan]]
-		- [[onboard]] [[mathew lowry]]
+		- onboard [[mathew lowry]]
