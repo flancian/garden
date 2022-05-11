@@ -1,12 +1,12 @@
 - a [[collective]].
-	- [[matrix room]]
+	- [[flancia]] [[matrix room]]
 		- #go https://matrix.to/#/#flancia:matrix.org
-	- [[go]] https://opencollective.com/flancia
-		- [[open collective]].
-			- within the [[flancia collective]] we track [[projects]] as a team and execute them in the open. we [[work in public]]
-				- [[pull]] [[open source]] [[open ethics]]
-				- [[matrix]] https://matrix.to/#/#flancia:matrix.org?via=matrix.org
-				- [[telegram]] https://web.telegram.org/#/im?p=g421619990
+	- [[open collective]] https://opencollective.com/flancia
+		- within the [[flancia collective]] we track [[projects]] as a team and execute them in the open.
+			- we [[work in public]]
+				- #pull [[open source]] [[open ethics]]
+			- [[matrix]] https://matrix.to/#/#flancia:matrix.org?via=matrix.org
+			- [[telegram]] https://web.telegram.org/#/im?p=g421619990
 	- [[members]] (roughly in order of joining)
 		- [[flancian]]
 		- [[vera]]
