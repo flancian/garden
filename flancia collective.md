@@ -23,6 +23,7 @@
 		- [[jack kausch]]
 - reach out to a member of the collective if you are interested in joining!
 	- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
+	- the matrix room is open to anyone to join
 - if you are otherwise interested with [[cooperating]] with the [[flancia collective]], we are very interested! We strive to be [[prosocial]].
 	- Please reach out to [[vera]] or [[flancian]] or any of the other members.
 		- our [[goals]]:
@@ -30,7 +31,7 @@
 		- [[effective altruism]]
 		- our [[projects]]:
 		- [[agora]]
-		- if you want to join the [[agora]], please write to [[vera]] [[flancian]].
+			- if you would like to [[join the agora]], please join [[agora discuss]]
 		- [[promnesia]]
 		- [[wikilinks everywhere]]
 		- [[moa]]
