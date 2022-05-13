@@ -5,15 +5,17 @@
 	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
 	- #push [[do]]
-		- help [[derek kozel]] (open chatroom)
+		- help [[derek kozel]] (open chatroom) try to recover his account
+		- meet on [[2022-05-20]] 3pm utc
+		- meet on [[2022-05-27]] 5pm utc
 - [[2022-05-13]]
-	- Attending: 
-        - [[akshay]] 
-        - [[neil]] 
-        - [[noah]] == [[redoak]] 
-        - [[eduardo]] == [[flancian]] 
-        - [[nick]] == [[nick sellen]]
-        - [[will]] == [[datatitian]]
+	- Attending:
+		- [[akshay]]
+		- [[neil]]
+		- [[noah]] == [[redoak]]
+		- [[eduardo]] == [[flancian]]
+		- [[nick]] == [[nick sellen]]
+		- [[will]] == [[datatitian]]
 	- round the table catching up :)
 		- [[neil]] first time in one of the tech group meetings!
 			- post work on a Friday -- nice to be here!
@@ -47,7 +49,7 @@
 				- probably want to discuss with other working groups
 			- [[akshay]] do we keep track of what we have credentials for?
 				- [[noah]] no separate source except for the pass repo
-				- in short: 
+				- in short:
 					- admin account in the instance
 					- hetzner
 					- digital ocean for static storage
