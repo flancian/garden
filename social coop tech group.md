@@ -4,6 +4,8 @@
 	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
 	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
+- [[2022-05-14]]
+	-
 - [[2022-04-08]]
 	- Hi all :)
 	- Let's try to keep communal notes here?
