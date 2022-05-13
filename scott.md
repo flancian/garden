@@ -1,2 +1,3 @@
 - a [[person]].
-	- #twitter phonetonote
+	- #twitter https://twitter.com/phonetonote
+	- [[phone to note]]
