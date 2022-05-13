@@ -3,4 +3,7 @@
 	- [[phone to note]]
 	- #go https://phonetonote.com/
 		- I immediately love that it works with [[logseq]]
-		- I think [[matrix]] is missing in the list
+		- I think [[matrix]] is missing in the list maybe? :)
+		- ![image.png](./assets/image_1652472452922_0.png)
+		- ![image.png](./assets/image_1652472463733_0.png)
+		-
