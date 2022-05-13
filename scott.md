@@ -7,6 +7,7 @@
 		- ![image.png](./assets/image_1652472452922_0.png)
 		- ![image.png](./assets/image_1652472463733_0.png)
 		- ![image.png](./assets/image_1652472533861_0.png)
+			- I think I [[doxxed]] myself :)
 - a [[person]].
 	- #pull [[scott alexander]]
 - a [[person]].
