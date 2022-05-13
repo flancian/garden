@@ -7,7 +7,7 @@
 		- ![image.png](./assets/image_1652472452922_0.png)
 		- ![image.png](./assets/image_1652472463733_0.png)
 		- ![image.png](./assets/image_1652472533861_0.png)
-			- I think I [[doxxed]] myself :)
+			- LATER I think I [[doxxed]] myself :) or at least leaked a private key I can't reset easily. That's alright, my account's empty for now.
 - a [[person]].
 	- #pull [[scott alexander]]
 - a [[person]].
