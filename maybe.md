@@ -1,0 +1,2 @@
+- the sometimes hidden but always present [[third option]], beyond the duality of #yes and #no.
+- #pull [[middle way]]
