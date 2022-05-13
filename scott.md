@@ -1,3 +1,6 @@
 - a [[person]].
 	- #twitter https://twitter.com/phonetonote
 	- [[phone to note]]
+	- #go https://phonetonote.com/
+		- I immediately love that it works with [[logseq]]
+		- I think [[matrix]] is missing in the list
