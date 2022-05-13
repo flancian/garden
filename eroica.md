@@ -1,0 +1,5 @@
+- #go
+- this is a [[mantra]]:
+- "Algún día, algún día.
+- Algún día llegará la revolución.
+- Pero si no ahora, cuándo?"
