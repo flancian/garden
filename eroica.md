@@ -1,5 +1,5 @@
-- #go
-- this is a [[mantra]]:
-- "Algún día, algún día.
-- Algún día llegará la revolución.
-- Pero si no ahora, cuándo?"
+- #go https://www.youtube.com/watch?v=BgIjGSPmk7I
+	- #push this is a [[mantra]]:
+		- "Algún día, algún día.
+		- Algún día llegará la revolución.
+		- Pero si no ahora, cuándo?"
