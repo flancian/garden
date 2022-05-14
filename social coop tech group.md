@@ -1,6 +1,7 @@
 - a [[group]].
 	- #pull [[social coop]]
 	- [[framadate]] https://framadate.org/social-coop-tech-group
+		- now replaced by built-in [[loomio]] feature
 	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
 	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
