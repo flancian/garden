@@ -4,7 +4,6 @@
 :journal/page-title-format "yyyy-MM-dd"
 :pages-directory ""
 :journals-directory "journal"
-:date-formatter "yyyy-MM-dd"
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
