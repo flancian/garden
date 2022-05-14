@@ -1,1 +1,1 @@
-- #pull
+- #pull [[six degrees of wikipedia]]
