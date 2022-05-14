@@ -1,0 +1,1 @@
+- Users have value for companies, and that's a tricky yet interesting conversation to have: we're talking about people with a price in a market.
