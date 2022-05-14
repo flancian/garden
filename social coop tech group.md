@@ -7,6 +7,7 @@
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
 	- #push [[do]]
 		- help [[derek kozel]] (open chatroom) try to recover his account
+			- https://discourse.joinmastodon.org/t/is-it-possible-to-restore-a-deleted-user-account/1945
 		- meet on [[2022-05-20]] 3pm utc
 		- meet on [[2022-05-27]] 5pm utc
 - [[2022-05-13]]
