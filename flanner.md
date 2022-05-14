@@ -1,5 +1,6 @@
-- An [[open source]] [[alternative]] to [[twitter]].
+- An [[open source alternative]] to [[twitter]].
 	- [[ethical]] [[pro social]]
 	- Likely based on [[mastodon]] -- or the [[fediverse]].
 	- Uses open [[social web protocols]] and [[open source ranking algorithms]]
 	- Developed and run (ocassionally) using an [[agora]].
+	- #pull [[flanbook]]
