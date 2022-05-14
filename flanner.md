@@ -1,8 +1,5 @@
-# Flanner
-
 - An [[open source]] [[alternative]] to [[twitter]].
-- Likely based on [[mastodon]] -- or just exactly [[mastodon]].
-- Uses [[social web protocols]].
-- Developed and run using the [[agora]].
-
-
+	- [[ethical]] [[pro social]]
+	- Likely based on [[mastodon]] -- or the [[fediverse]].
+	- Uses open [[social web protocols]] and [[open source ranking algorithms]]
+	- Developed and run (ocassionally) using an [[agora]].
