@@ -1,1 +1,1 @@
-- I think [[paying it forward]] is a great idea honestly, even if as a film I probably wouldn't rewatch it?
+- I think [[paying it forward]] is a great idea honestly, even if as a film I probably wouldn't [[rewatch]] it?
