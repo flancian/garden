@@ -4,4 +4,4 @@
 	- or just [[pull]] the jitsi stoa in this node :)
 	- old [[flancia meet notes]]
 - a [[meeting]].
-	- [[time]] Saturdays at 9AM UTC by default, just show up if interested :)
+	- #when [[Saturdays]] at [[9AM UTC]] by default, just show up if interested :)
