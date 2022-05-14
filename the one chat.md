@@ -3,4 +3,6 @@
 	- #go https://twitter.com/messages/1524246416809410560
 	- ![image.png](./assets/image_1652569110981_0.png)
 	- https://mdma.net
-	- https://abolitionist.com
+	- https://github.com/julienreszka/iterations/issues
+	- [[the abolitionist project]]
+		- https://abolitionist.com
