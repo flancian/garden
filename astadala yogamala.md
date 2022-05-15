@@ -1,2 +1,4 @@
 - a [[book]].
 	- #pull [[b. k. s. iyengar]]
+	- His first teacher was his
+	- "This is how the ladies of [[Dharwar]] ignited my interest in teaching yoga."
