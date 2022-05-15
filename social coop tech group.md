@@ -8,7 +8,7 @@
 	- #push [[do]]
 		- help [[derek kozel]] (open chatroom) try to recover his account
 			- https://discourse.joinmastodon.org/t/is-it-possible-to-restore-a-deleted-user-account/1945
-			- ran: `mastodon@564f268b311f:~$ tootctl accounts create dtozel --reattach --force --email=derek@bitstovolts.com`
+			- ran: `mastodon@564f268b311f:~$ tootctl accounts create dkozel --reattach --force --email=derek@bitstovolts.com`
 			- to get to a shell in the right container, ran: `docker exec -it docker_web_1 /bin/bash` in [[runko]]
 		- meet on [[2022-05-20]] 3pm utc
 		- meet on [[2022-05-27]] 5pm utc
