@@ -3,4 +3,5 @@
 		- current (default in [[1 agora]])
 		- a [[backlink]]
 		- a [[forward link]]
-- #pull [[2d agora]]
+	- #pull generalizes to [[2d agora]]
+	- not super hard to implement thanks to [[recursive agora]] which is already working (behind a setting) for pulls
