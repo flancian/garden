@@ -1,0 +1,3 @@
+- a [[server]].
+	- as of [[2022-05-15]] essentially runs [[social coop]].
+	- to get to a shell in the mastodon web container, run: `sudo docker exec -it docker_web_1 /bin/bash` in [[runko]]
