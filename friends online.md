@@ -1,1 +1,1 @@
-- A lot of my friends I've met online. I like that -- I've always felt like the internet made me less lonely as a kid, and continued to do so forever.
+- A lot of my [[friends]] I've met online. I like that -- I've always felt like the [[internet]] made me less lonely as a kid, and continued to do so forever.
