@@ -1,5 +1,5 @@
 - an [[idea]].
-	- [[agora]] view with three nodes on it:
+	- a [[3-agora]] is an [[agora]] view with three nodes on it:
 		- current (default in [[1 agora]])
 		- a [[backlink]]
 		- a [[forward link]]
