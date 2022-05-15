@@ -1,1 +1,2 @@
-- #go https://www.africadesigntravel.ch/
+- a [[travel agency]].
+	- #go https://www.africadesigntravel.ch/
