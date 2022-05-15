@@ -1,0 +1,6 @@
+- an [[idea]].
+	- [[agora]] view with three nodes on it:
+		- current (default in [[1 agora]])
+		- a [[backlink]]
+		- a [[forward link]]
+- #pull [[2d agora]]
