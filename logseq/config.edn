@@ -2,6 +2,7 @@
  
  ;; [[flancian]]
 :journal/page-title-format "yyyy-MM-dd"
+:journal/file-name-format "yyyy-MM-dd"
 :pages-directory ""
 :journals-directory "journal"
 
