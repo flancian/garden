@@ -1,0 +1,7 @@
+- an [[idea]].
+	- a [[3-agora]] is an [[agora]] view with three nodes on it:
+		- current (default in [[1 agora]])
+		- a [[backlink]]
+		- a [[forward link]]
+	- #pull generalizes to [[2d agora]]
+	- not super hard to implement thanks to [[recursive agora]] which is already working (behind a setting) for pulls

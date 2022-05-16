@@ -87,5 +87,5 @@
    :markdown/version 2
    :date-formatter "yyyy-MM-dd"
    :editor/logical-outdenting? true
- :favorites ["where is your light" "agora"]
+ :favorites ["3 agora" "where is your light" "agora"]
  :preferred-workflow :todo}

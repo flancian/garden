@@ -1,0 +1,5 @@
+- a [[book]].
+	- #pull [[b. k. s. iyengar]]
+	- His first teacher was his brother-in-law, who abused him and others (had a bad temper).
+	- Was not a "salient" student.
+	- First taught a women's class. "This is how the ladies of [[Dharwar]] ignited my interest in teaching yoga."

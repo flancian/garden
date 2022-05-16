@@ -1,11 +1,11 @@
-- a [[browser extension]]
-	- it makes [[wikilinks]] clickable on your browser on arbitrary websites... sometimes :)
-	- by [[vera]], [[evan boehs]], [[flancia collective]].
-	- [[firefox]] https://addons.mozilla.org/en-US/firefox/addon/agora/
-	- [[chrome]] https://chrome.google.com/webstore/detail/agora/joalfhedjllnlphmdbegppmhchhmlddc
-	- [[git]] https://gitlab.com/veracantcode/agora-ext
-		- #go [[git]]
-		- I think this needs updating to point to the [[flancia coop]] repository?
-	- [[git2]] https://github.com/flancia-coop/wikilinks-everywhere
-	- [[pull]] [[patterns everywhere]]
-		- likely new name
+- #push [[wikilinks everywhere]]
+	- a [[browser extension]]
+		- it makes [[wikilinks]] clickable on your browser on arbitrary websites... sometimes :)
+		- by [[vera]], [[evan boehs]], [[flancia collective]].
+		- [[firefox]] https://addons.mozilla.org/en-US/firefox/addon/agora/
+		- [[chrome]] https://chrome.google.com/webstore/detail/agora/joalfhedjllnlphmdbegppmhchhmlddc
+		- we had a bit of a confusion at some point and we ended up with two different repos, or maybe three :)
+			- [[git]] https://gitlab.com/veracantcode/agora-ext
+				-
+			- [[git2]] https://github.com/flancia-coop/wikilinks-everywhere
+			- #go [[git2]]
