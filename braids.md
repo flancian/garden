@@ -6,13 +6,14 @@
 			- I do this while meditating, but that's optional, I guess.
 				- Unless we're always meditating?
 					- ([[buddha nature]] and all)
-		- as you count, you visualize the number.
+				- or
+		- as you count, you visualize the [[number]].
 			- I do a version of [[box breathing]].
 				- It helps me reach [[samatha]].
 				- as I breathe in, I count up the side of a square 👆
 				- as I hold, I traverse a lateral edge ▶
-				- as I breathe out, I factorize the number as I go down 👇
-				- as I am yet not breathing in, I optionally rest as I go left
+				- as I breathe out, I [[factorize]] the number and I go down 👇
+				- as I am yet not breathing in, I optionally rest as I go left ◀️
 			- I start at [[0]] and move up according to two default rules:
 				- increase the number by one
 					- so after [[1]] comes [[2]]
