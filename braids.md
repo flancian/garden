@@ -19,4 +19,4 @@
 					- so after [[1]] comes [[2]]
 				- increase one of its factors by one and multiply
 					- this is equivalent to the above for a [[prime]]
-					- optionally encodes a number
+					- the choice can be made to encode a number by convention
