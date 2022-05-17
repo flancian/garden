@@ -23,3 +23,28 @@
 				- extra rules can be agreed and numbered
 			- a braid is what players achieve by counting up to a certain number through different paths
 				- player 0
+					- 0
+					- 1
+					- 2
+					- 3
+					- 4
+						- 2 2
+					- 5
+					- 6
+						- 2 3
+					- 7
+					- 8
+						- 2 2 2
+					- 9
+						- 3 3
+					- 10
+						- 2 5
+					- 12
+						- 2 2 3
+					- 13
+					- 14
+						- 2 7
+					- 15
+						- 3 5 -> 3 6
+					- 18
+					-
