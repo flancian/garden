@@ -1,3 +1,8 @@
 - a [[game]].
 	- not to be confused with [[braid]].
-	- Braid is a solita
+	- Braid is a solitaire/coop game I think I may have invented.
+	- It goes like this:
+		- you [[count]], from zero up.
+			- I do this while meditating, but that's optional, I guess.
+				- Unless we're always meditating without knowing it?
+				- [[buddha nature]] and all
