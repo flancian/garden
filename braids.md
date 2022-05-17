@@ -17,8 +17,8 @@
 			- I start at [[0]] and move up according to three default rules:
 				- increase the number by one
 					- so after [[1]] comes [[2]]
-				- increase one of its factors by one and multiply
-					- this is equivalent to the above for a [[prime]]
+				- increase one of its [[factors]] by one and multiply
+					- this is equivalent to the above for a [[prime]], can be made equivalent to it
 					- the choice can be made to encode a number by convention
 				- extra rules can be agreed and numbered
 			- a braid is what players achieve by counting up to a certain number through different paths
