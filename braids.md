@@ -13,5 +13,6 @@
 				- as I hold, I traverse a lateral edge ▶
 				- as I breathe out, I factorize the number as I go down 👇
 				- as I am yet not breathing in, I optionally rest
-			- I start at [[0]] and move up according to two rules:
-				-
+			- I start at [[0]] and move up according to two default rules:
+				- increase the number by one
+				- increase one of its factors by one and multiply
