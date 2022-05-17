@@ -9,4 +9,6 @@
 		- as you count, you visualize the number.
 			- I do a version of [[box breathing]].
 				- It helps me reach [[samatha]].
-			-
+				- as I breathe in, I count up a square 👆
+				- as I hold, I traverse a lateral edge ▶
+				- as I breathe out, I
