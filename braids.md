@@ -4,9 +4,9 @@
 	- It goes like this:
 		- you [[count]], from zero up.
 			- I do this while meditating, but that's optional, I guess.
-				- Unless we're always meditating?
+				- unless we're always meditating?
 					- ([[buddha nature]] and all)
-				- or
+				- or we're entities programmed to do so.
 		- as you count, you visualize the [[number]].
 			- I do a version of [[box breathing]].
 				- It helps me reach [[samatha]].
