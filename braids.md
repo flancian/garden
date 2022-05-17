@@ -1,6 +1,6 @@
 - a [[game]].
-	- not to be confused with [[braid]].
-	- Braid is a solitaire/coop game I think I may have invented.
+	- not to be confused with [[braid]] -- which is amazing by the way.
+	- Braids is a solitaire/coop game I think I may have invented :)
 	- It goes like this:
 		- you [[count]], from zero up.
 			- I do this while meditating, but that's optional, I guess.
