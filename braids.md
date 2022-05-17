@@ -22,3 +22,4 @@
 					- the choice can be made to encode a number by convention
 				- extra rules can be agreed and numbered
 			- a braid is what players achieve by counting up to a certain number through different paths
+				- player 0
