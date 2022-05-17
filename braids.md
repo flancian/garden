@@ -21,4 +21,4 @@
 					- this is equivalent to the above for a [[prime]]
 					- the choice can be made to encode a number by convention
 				- extra rules can be agreed and numbered
-			- a braid is
+			- a braid is what players achieve by counting up to a certain number through different paths
