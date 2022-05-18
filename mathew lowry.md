@@ -50,7 +50,9 @@
 			- [[lost eden]]
 		- back in 1995 [[tim berners lee]] and others thought they were building something like the [[agora]] precisely
 			- [[2007]] was when [[mathew]] started thinking things weren't going well
-		- [[mathew]] got into the knowledge management space because of the difficulty
+		- [[mathew]] got into the knowledge management space because of the difficulty of sharing: bookmarks, articles, posts
+			- [[myhub]] came from the idea of aggregating all these sources and offering tools for others to do so
+			-
 		-
 		-
 		-
