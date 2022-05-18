@@ -19,7 +19,11 @@
 		- [[belgium]] as a compromise between flemish and french culture
 			- [[confederation]] might be the next step
 		- [[mathew]] been working with european institutions, science writing background
-		- been on the internet since 1988 (!), usenet
+		- been on the internet since 1988 (!)
+			- [[usenet]]
+			- [[steward brand]] (sp)
+			- built the first [[database driven website]] after [[cern]] maybe
+		-
 		-
 		-
 		-
