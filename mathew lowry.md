@@ -25,6 +25,7 @@
 			- built the first [[database driven website]] after [[cern]] maybe
 			- expert in internet + european context
 			- [[public participation]]
+			- [[knowledge management]]
 		- focused on [[myhub]] as a side project
 		-
 		-
