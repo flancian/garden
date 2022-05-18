@@ -59,7 +59,8 @@
 			- in the [[agora]], we've asked "what happens if we create an interlay?"
 			- re: [[personal knowledge management is bullshit]]
 				- agree in that [[long form writing]] (setting a format, a deadline, etc.)
-				- [[roam]] doesn't have what someone call a [[grain]]
+				- [[obsidian]] doesn't have what someone calls a [[grain]] according to "why it's hard to get started with obsidian"
+				- seems to apply to most tools in this space though
 		- [[questions]]
 			- client side linking/tags as links?
 				- yes :)
