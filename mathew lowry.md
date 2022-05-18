@@ -68,7 +68,7 @@
 			- client side linking/tags as links?
 				- yes :)
 			- [[hypothesis]]?
-		-
+		- [[understory]] renamed to [[mysilio]]
 		-
 		-
 		-
