@@ -43,6 +43,7 @@
 			- what [[mathew]] wants:
 				- anybody can set up their own hub, or sign up for someone else's
 				- then they can follow each other, interact with each other
+			- launched just as the pandemic was started
 		- [[flancian]]
 			- the [[agora]] as an [[interlay]]
 		- [[science fiction script]]
