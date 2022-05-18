@@ -37,7 +37,11 @@
 			- [[crossposting]]
 			- how to choose an instance?
 			- or how to make the decision to run your own?
-			-
+		- [[myhub]]
+			- started in [[tumblr]]
+			- it's a proof of concept
+		- [[flancian]]
+			- the [[agora]] as an [[interlay]]
 		-
 		-
 		-
