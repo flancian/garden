@@ -29,7 +29,9 @@
 			- focused on [[myhub]] as a side project
 			- tradeoffs between running a large company and a single person consultancy firm
 				- greater freedom in picking projects
-		- a [[european commission]] is reviewing [[mastodon]] and [[peertube]]
+		- a [[european commission]]
+			- is reviewing [[mastodon]] and [[peertube]]
+			- has completely hierarchical governance and decision making
 		-
 		-
 		-
