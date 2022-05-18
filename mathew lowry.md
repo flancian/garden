@@ -11,6 +11,7 @@
 	- [[2022-05-18]]
 		- greetings! :)
 		- finished work, been reviewing/catching up
-		-
+		- australian, but in belgium for [[30 years]] (!)
+			- got there backpacking
 		-
 		-
