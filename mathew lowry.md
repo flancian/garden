@@ -1,7 +1,7 @@
 # Mathew Lowry
 - A [[person]].
 	- [[twitter]] twitter.com/mathewlowry
-	- #go myhub.ai/@mathewlowry
+	- #go https://myhub.ai/@mathewlowry
 	- [[project]] myhub.ai
 	- [[garden]] https://myhub.ai/@mathewlowry/?quality=all&timeframe=anytime&types=like&types=do&types=think
 	- [[agora]] https://anagora.org/@mathewlowry
@@ -10,4 +10,6 @@
 		- onboard [[mathew lowry]]
 	- [[2022-05-18]]
 		- greetings! :)
+		- finished work
+		-
 		-
