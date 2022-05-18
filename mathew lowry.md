@@ -40,6 +40,9 @@
 		- [[myhub]]
 			- started in [[tumblr]]
 			- it's a proof of concept
+			- what [[mathew]] wants:
+				- anybody can set up their own hub, or sign up for someone else's
+				- then they can follow each other, interact with each other
 		- [[flancian]]
 			- the [[agora]] as an [[interlay]]
 		-
