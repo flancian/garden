@@ -33,7 +33,10 @@
 			- is reviewing [[mastodon]] and [[peertube]]
 			- has completely hierarchical governance and decision making
 		- [[fediverse]]
-			- cross posting
+			- [[social coop]]
+			- [[crossposting]]
+			- how to choose an instance?
+			- or how to make the decision to run your own?
 		-
 		-
 		-
