@@ -3,7 +3,7 @@
 	- [[twitter]] twitter.com/mathewlowry
 	- #go https://myhub.ai/@mathewlowry
 	- [[project]] myhub.ai
-	- https://myhub.ai/@mathewlowry/about/
+	- #about https://myhub.ai/@mathewlowry/about/
 	- [[garden]] https://myhub.ai/@mathewlowry/?quality=all&timeframe=anytime&types=like&types=do&types=think
 	- [[agora]] https://anagora.org/@mathewlowry
 		- [[p1]]
@@ -26,9 +26,10 @@
 			- expert in internet + european context
 			- [[public participation]]
 			- [[knowledge management]]
-		- focused on [[myhub]] as a side project
-		- tradeoffs between running a large company and a single person consultancy firm
-			- greater freedom in picking projects
+			- focused on [[myhub]] as a side project
+			- tradeoffs between running a large company and a single person consultancy firm
+				- greater freedom in picking projects
+		- a [[european commission]] is reviewing [[mastodon]] and [[peertube]]
 		-
 		-
 		-
