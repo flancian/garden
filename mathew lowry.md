@@ -55,7 +55,9 @@
 			- [[dgo]] [[pocket]] [[ifttt]] [[tumblr]] were the v0
 			- the currently [[myhub]] is [[v1]]
 			- [[ai engine]] for [[assisted tagging]]
-		-
+		- [[what is the problem you're trying to solve?]]
+			- in the [[agora]], we've asked "what happens if we create an interlay?"
+			- in [[myhub]],
 		-
 		-
 		-
