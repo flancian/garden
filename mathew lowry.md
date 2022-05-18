@@ -13,5 +13,6 @@
 		- finished work, been reviewing/catching up
 		- australian, but in belgium for [[30 years]] (!)
 			- got there backpacking
+			- [[brussels]] is a bilingual city
 		-
 		-
