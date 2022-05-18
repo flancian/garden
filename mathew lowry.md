@@ -16,5 +16,6 @@
 			- [[brussels]] is a bilingual city
 		- [[zurich]]
 		- [[belgium]] as a compromise between flemish and french culture
+		- [[confederation]] might be the next step for
 		-
 		-
