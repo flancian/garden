@@ -32,6 +32,8 @@
 		- a [[european commission]]
 			- is reviewing [[mastodon]] and [[peertube]]
 			- has completely hierarchical governance and decision making
+		- [[fediverse]]
+			- cross posting
 		-
 		-
 		-
