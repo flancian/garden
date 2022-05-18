@@ -63,7 +63,7 @@
 				- seems to apply to most tools in this space though
 		- [[personal content strategy]]
 			- [[digital wellness productivity]]
-			-
+			- [[inboxes]] -> [[priority sources]] -> [[reading queue]] -> [[curated resources]] -> [[reflect]], [[write]]
 		- [[questions]]
 			- client side linking/tags as links?
 				- yes :)
