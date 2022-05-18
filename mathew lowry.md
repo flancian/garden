@@ -52,7 +52,8 @@
 			- [[2007]] was when [[mathew]] started thinking things weren't going well
 		- [[mathew]] got into the knowledge management space because of the difficulty of sharing: bookmarks, articles, posts
 			- [[myhub]] came from the idea of aggregating all these sources and offering tools for others to do so
-			-
+			- [[dgo]] [[pocket]] [[ifttt]] [[tumblr]] were the v0
+			- the currently []
 		-
 		-
 		-
