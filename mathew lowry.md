@@ -10,6 +10,7 @@
 		- onboard [[mathew lowry]]
 	- [[2022-05-18]]
 		- greetings! :)
-		- finished work
+		- finished work, been reviewing/catching up
+		-
 		-
 		-
