@@ -15,5 +15,6 @@
 			- got there backpacking
 			- [[brussels]] is a bilingual city
 		- [[zurich]]
+		- [[belgium]] as a compromise between flemish and french culture
 		-
 		-
