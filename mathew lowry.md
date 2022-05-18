@@ -27,6 +27,8 @@
 			- [[public participation]]
 			- [[knowledge management]]
 		- focused on [[myhub]] as a side project
+		- tradeoffs between running a large company and a single person consultancy firm
+			- greater freedom
 		-
 		-
 		-
