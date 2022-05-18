@@ -14,5 +14,6 @@
 		- australian, but in belgium for [[30 years]] (!)
 			- got there backpacking
 			- [[brussels]] is a bilingual city
+		- [[zurich]]
 		-
 		-
