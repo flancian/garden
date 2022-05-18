@@ -23,6 +23,9 @@
 			- [[usenet]]
 			- [[steward brand]] (sp)
 			- built the first [[database driven website]] after [[cern]] maybe
+			- expert in internet + european context
+			- [[public participation]]
+		- focused on [[myhub]] as a side project
 		-
 		-
 		-
