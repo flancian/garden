@@ -61,6 +61,9 @@
 				- agree in that [[long form writing]] (setting a format, a deadline, etc.)
 				- [[obsidian]] doesn't have what someone calls a [[grain]] according to "why it's hard to get started with obsidian"
 				- seems to apply to most tools in this space though
+		- [[personal content strategy]]
+			- [[digital wellness productivity]]
+			-
 		- [[questions]]
 			- client side linking/tags as links?
 				- yes :)
