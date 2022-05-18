@@ -3,6 +3,7 @@
 	- [[twitter]] twitter.com/mathewlowry
 	- #go https://myhub.ai/@mathewlowry
 	- [[project]] myhub.ai
+	- https://myhub.ai/@mathewlowry/about/
 	- [[garden]] https://myhub.ai/@mathewlowry/?quality=all&timeframe=anytime&types=like&types=do&types=think
 	- [[agora]] https://anagora.org/@mathewlowry
 		- [[p1]]
@@ -16,6 +17,9 @@
 			- [[brussels]] is a bilingual city
 		- [[zurich]]
 		- [[belgium]] as a compromise between flemish and french culture
-		- [[confederation]] might be the next step for
+			- [[confederation]] might be the next step
+		- [[mathew]] been working with european institutions, science writing background
+		- been on the internet since 1988 (!), usenet
+		-
 		-
 		-
