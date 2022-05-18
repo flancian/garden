@@ -57,7 +57,7 @@
 			- [[ai engine]] for [[assisted tagging]]
 		- [[what is the problem you're trying to solve?]]
 			- in the [[agora]], we've asked "what happens if we create an interlay?"
-			- in [[myhub]]:
+			- re: [[personal knowledge management is bullshit]]
 		- [[questions]]
 			- client side linking/tags as links?
 				- yes :)
