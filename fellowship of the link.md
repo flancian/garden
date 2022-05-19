@@ -3,3 +3,5 @@
 	- [[interop of links]]
 	- #go https://docs.google.com/document/d/1RAourQe_MKh0uWomLsS_V5ea3zm30g8paE49X56jIHs/edit
 	- #pull [[fotl]]
+	- #pull [[sje]]
+	- #pull [[building bridges]]
