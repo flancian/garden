@@ -1,2 +1,4 @@
 - a [[song]].
-- a running joke?
+	- by [[sting]].
+- a [[running joke]].
+	- about my sometimes being [[corny]].
