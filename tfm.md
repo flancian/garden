@@ -1,1 +1,1 @@
-- #go #go https://docs.google.com/document/d/10vMbQsOK2eYCK6b-_KR-3lLg7eMx1XZ0etb55WT5BsY/edit
+- #go https://docs.google.com/document/d/10vMbQsOK2eYCK6b-_KR-3lLg7eMx1XZ0etb55WT5BsY/edit
