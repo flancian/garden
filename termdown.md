@@ -6,6 +6,5 @@
 		- pip3 install termdown
 		- ```
 	- I have this tiny shell script/drop in alias I use to do [[pomodoro]]:
-		- ```
-		- alias pomodoro='while true; do termdown -v en 25m -c 10 --font doh -T focus -e; termdown -v en 5m -c 10 --font doh -e -T rest; done'
+		- `alias pomodoro='while true; do termdown -v en 25m -c 10 --font doh -T focus -e; termdown -v en 5m -c 10 --font doh -e -T rest; done'
 		- ```
