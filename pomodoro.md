@@ -11,3 +11,5 @@
 	- My current running contexts or intents can be found in [[do]] (they expand into lists of todo items/trees/graphs depending on level of modelling) and, well, in this [[agora]].
 		- I am not particularly great at integrating tasks into a single place for organized ordering; to solve (or work around?) this issue it is in part that I started this Agora, as it lets me integrate things easily.
 	- I also use a [[paper notebook]] for day planning and tracking.
+	- #pull [[termdown]] for my (as of [[2022-05-20]]) preferred timer app on [[linux]].
+	-
