@@ -1,10 +1,11 @@
 - a [[tool]].
 	- [[timer]].
 	- [[install]]
-		- ```sudo apt-get install espeak
+		- ```
+		- sudo apt-get install espeak
 		- pip3 install termdown
 		- ```
-	- a tiny shell script I use with it to do [[pomodoro]]:
+	- I have this tiny shell script/drop in alias I use to do [[pomodoro]]:
 		- ```
-		- alias pomodoro='while true; do termdown -v en 25m -c 10 --font doh -e; termdown -v en 5m -c 10 --font doh -e; done'
+		- alias pomodoro='while true; do termdown -v en 25m -c 10 --font doh -T -e; termdown -v en 5m -c 10 --font doh -e; done'
 		- ```
