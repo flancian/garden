@@ -1,8 +1,7 @@
 - a [[tool]].
 	- [[timer]].
 	- [[install]]
-		- ```
-		- sudo apt-get install espeak
+		- ```sudo apt-get install espeak
 		- pip3 install termdown
 		- ```
 	- a tiny shell script I use with it to do [[pomodoro]]:
