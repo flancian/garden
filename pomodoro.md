@@ -13,3 +13,4 @@
 	- I also use a [[paper notebook]] for day planning and tracking.
 	- #pull [[termdown]] for my (as of [[2022-05-20]]) preferred timer app on [[linux]].
 	- #pull [[goodtime]] for my (as of [[2022-05-20]]) preferred timer app on [[android]].
+	- #pull [[marinara]] is also open source and good ([[web extension]]).
