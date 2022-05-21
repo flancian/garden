@@ -1,6 +1,7 @@
 # yoga with x
 - a [[project]].
-	- [[mashup]] or [[remix]] engine.
+	- [[mashup]] or [[remix]].
+		- a playlist :)
 	- a set of tools to make it easier for people to coordinate massively online over platforms such as [[youtube]], focused on doing [[yoga]] together.
 	- inspired by [[yoga with adriene]], which we're big fans of.
 		- [[x]] is any user that does [[yoga with adriene]] or with a friend and wants to share their own experience with others.
