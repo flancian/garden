@@ -22,7 +22,8 @@
 	- [[anar.chi.st]] https://anar.chi.st/Flancian
 	- [[chess]] https://chess.com/member/flancian
 	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
-	-
+- a [[person]].
+	- You can think of me as a [[buddhist]].
 	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]].
 		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
 		- The [[agora]] is an [[experimental]] [[social network]] in which I try to express my integrated identity.
@@ -42,6 +43,6 @@
 		- I intend to bring facets of [[Flancia]] into the real world, only as far as they also benefit others, without unilaterally imposing my will.
 			- [[flancia collective]]
 		- I'm trying to build an [[Agora]].
-			- There are many [[Agoras]]. [[This Agora is just an agora]].
+			- There are many [[Agoras]]. This Agora is just [[an agora]].
 			- https://twitter.com/flancian/status/1349070105402105856
 			- https://twitter.com/flancian/status/1254149494209499138
