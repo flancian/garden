@@ -1,1 +1,1 @@
-- #pull [[burn burn burn]]
+- #pull [[burn burn burn]] [[burn for the greater good]]
