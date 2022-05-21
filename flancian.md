@@ -26,6 +26,7 @@
 	- in the [[Agora]].
 	- #pull [[flancia]]
 	- You can think of me as a [[buddhist]].
+		- I try to dedicate myself [[for the benefit of all beings]].
 	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]].
 		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
 		- The [[agora]] is an [[experimental]] [[social network]] in which I try to express my integrated identity.
