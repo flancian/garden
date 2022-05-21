@@ -1,0 +1,6 @@
+- a [[tooll]].
+	- [[open source]] [[videoconferencing]]
+	- #go https://meet.jit.si
+	- [[yoga with x]] https://meet.jit.si/yoga-with-x
+	- [[flancia meet]] https://meet.jit.si/flancia-meet
+	- and so on :)

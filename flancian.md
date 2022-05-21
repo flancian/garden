@@ -1,37 +1,45 @@
 # Flancian
-
 - A [[person]].
 	- My [[self]] :).
 	- [[go]] https://flancia.org
+	- [[matrix]] @flancian:matrix.org
+	- [[twitter]] https://twitter.com/flancian
+	- [[fediverse]] https://social.coop/@flancian
 	- [[email]] 0@flancia.org
 	- [[calendly]] https://calendly.com/flancian
 	- [[agora]] https://anagora.org
-	  - ***[[contract]]***
-	- [[twitter]] https://twitter.com/flancian
+		- [[garden]] https://github.com/flancian/garden
+		- [[agora server]]
+		- [[agora bridge]]
 	- [[mastodon]]
-	  - [[social.coop]] https://social.coop/@flancian
-	  - [[merveilles]] https://merveilles.town/@flaneur
-	- [[garden]] https://github.com/flancian/garden
+		- [[social.coop]] https://social.coop/@flancian
+		- [[merveilles]] https://merveilles.town/@flaneur
 	- [[git]] https://github.com/flancian
 	- [[gitlab]] https://gitlab.com/flancian
-	- [[matrix]] @flancian:matrix.org
 	- [[telegram]] @Flancian
+	- [[tiktok]] https://tiktok.com/@flancian
 	- [[ctzn]] https://ctznry.com/flancian@ctzn.one
 	- [[anar.chi.st]] https://anar.chi.st/Flancian
 	- [[chess]] https://chess.com/member/flancian
 	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
-	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]]. 
+- a [[person]].
+	- in the [[Agora]].
+	- #pull [[flancia]]
+	- You can think of me as a [[buddhist]].
+		- I try to dedicate myself [[for the benefit of all beings]].
+	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]].
 		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
 		- The [[agora]] is an [[experimental]] [[social network]] in which I try to express my integrated identity.
 	- I practice [[open source]] and [[open ethics]] as much as I can.
-	  - This [[agora]] is, and will always be, [[free]] and [[open source]].
-	  - I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
-	  - I try to be open with my way of living as it has an [[ethical impact]]. This includes being open about how I spend my [[time]] and [[money]].
-		- I work for [[Google]] as an [[sre]]
-		- I was born in [[Argentina]] and I live in [[Switzerland]].
-		- I am a member of [[effective altruism]].
+		- This [[agora]] is, and will always be, [[free]] and [[open source]].
+		- I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
+		- I try to be open with my way of living as it has an [[ethical impact]]. This includes being open about how I spend my [[time]] and [[money]].
+		- I work for [[Google]] as a [[site reliability engineer]].
+		- I was born in [[Argentina]],  I live in [[Switzerland]].
+		- I practice [[effective altruism]].
 		- I am a member of [[social.coop]].
-	- In my [[free time]] I practice [[protopian thinking]]; I am an [[amateur utopian]]. 
+		- I consider myself a [[municipalist]].
+	- In my [[free time]] I practice [[protopian thinking]]; I am an [[amateur utopian]].
 		- [[Utopias]] are a genre of [[literature]] which I'm interested in.
 		- A [[protopia]] is an incremental [[utopia]].
 		- I call my [[protopia]] (our [[protopia]]!) [[Flancia]], but the name isn't important.
@@ -39,6 +47,6 @@
 		- I intend to bring facets of [[Flancia]] into the real world, only as far as they also benefit others, without unilaterally imposing my will.
 			- [[flancia collective]]
 		- I'm trying to build an [[Agora]].
-			- There are many [[Agoras]]. [[This Agora is just an agora]].
-			- https://twitter.com/flancian/status/1349070105402105856
-			- https://twitter.com/flancian/status/1254149494209499138
+			- There are many [[Agoras]]. This Agora is just [[an agora]].
+	- https://twitter.com/flancian/status/1349070105402105856
+	- https://twitter.com/flancian/status/1254149494209499138
