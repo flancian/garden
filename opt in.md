@@ -10,8 +10,9 @@
 				  :LOGBOOK:
 				  CLOCK: [2022-05-21 Sat 17:45:14]--[2022-05-21 Sat 23:52:51] =>  06:07:37
 				  :END:
-				- DOING make #optin work for this
+				- DONE make #optin work for this
 				  :LOGBOOK:
-				  CLOCK: [2022-05-21 Sat 23:53:05]
+				  CLOCK: [2022-05-21 Sat 23:53:05]--[2022-05-22 Sun 00:50:07] =>  00:57:02
 				  :END:
+					-
 				-
