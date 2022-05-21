@@ -15,4 +15,7 @@
 				  CLOCK: [2022-05-21 Sat 23:53:05]--[2022-05-22 Sun 00:50:07] =>  00:57:02
 				  :END:
 					- I think it works :)
+					- now the question is: should this be [[opt out]] to begin with now we have an opt-in/out mechanism?
+					- this might make sense as you need to opt in in the first place by *following [[agora bot]]*, so then opting out whenever the bot does something you don't like (if we make it easy/quick) could be maximally ergonomic.
+						- https://twitter.com/flancian/status/1528149306062127109
 				-
