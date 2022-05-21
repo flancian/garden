@@ -1,6 +1,5 @@
 # Flancian
 - A [[person]].
-	-
 	- My [[self]] :).
 	- [[go]] https://flancia.org
 	- [[matrix]] @flancian:matrix.org
@@ -24,6 +23,7 @@
 	- [[chess]] https://chess.com/member/flancian
 	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
 - a [[person]].
+	- in the [[Agora]].
 	- #pull [[flancia]]
 	- You can think of me as a [[buddhist]].
 	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]].
