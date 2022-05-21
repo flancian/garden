@@ -1,0 +1,2 @@
+- [[form is emptiness, emptiness is form]]
+- #pull [[set]] [[indras net]]
