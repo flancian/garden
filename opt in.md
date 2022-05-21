@@ -6,3 +6,7 @@
 			- are [[opt out]] in [[mastodon]] and [[matrix]]
 			- are [[opt in]] in [[twitter]]
 				- meaning they are disabled by request of a user, and I'll now try to do work on making them available via an opt in mechanism.
+				- DOING improve this and reenable
+				  :LOGBOOK:
+				  CLOCK: [2022-05-21 Sat 17:45:14]
+				  :END:
