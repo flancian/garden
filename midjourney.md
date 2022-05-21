@@ -1,0 +1,2 @@
+- #go https://midjourney.com
+	- [[dall e]] but more open?
