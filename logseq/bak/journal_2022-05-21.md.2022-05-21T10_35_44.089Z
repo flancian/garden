@@ -1,6 +1,3 @@
-- stayed up until >3AM yesterday evening, like a youngster (?).
-	- reminded me of staying up way too late in Buenos Aires in the late 90s/early 00s
-	- I think I could do this precisely one day a week maximum nowadays :)
 - [[agora bridge]]
 	- DONE happy about having added [[git reset]] support -- this unflaked/fixed several gardens!
 - [[agora server]]
@@ -14,9 +11,3 @@
 	  :LOGBOOK:
 	  CLOCK: [2022-05-21 Sat 02:02:51]
 	  :END:
-	- TODO think about whether to merge back [[agora bot matrix]] repo into [[agora bridge]], it's awkward that it's the only bot in a separate repo. this makes it harder to share code.
-		- thinking about licensing, as I based it off an MIT repo (it is >90% new code now though)
-- [[flancia meet]]
-	- didn't announce it, nobody came, but it was nice having coffee while planning the day :)
-	-
--
