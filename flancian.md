@@ -33,9 +33,10 @@
 		- I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
 		- I try to be open with my way of living as it has an [[ethical impact]]. This includes being open about how I spend my [[time]] and [[money]].
 		- I work for [[Google]] as a [[site reliability engineer]].
-		- I was born in [[Argentina]] and I live in [[Switzerland]].
-		- I am a member of [[effective altruism]].
+		- I was born in [[Argentina]],  I live in [[Switzerland]].
+		- I practice [[effective altruism]].
 		- I am a member of [[social.coop]].
+		- I consider myself a [[municipalist]].
 	- In my [[free time]] I practice [[protopian thinking]]; I am an [[amateur utopian]].
 		- [[Utopias]] are a genre of [[literature]] which I'm interested in.
 		- A [[protopia]] is an incremental [[utopia]].
