@@ -16,12 +16,13 @@
 		- [[merveilles]] https://merveilles.town/@flaneur
 	- [[git]] https://github.com/flancian
 	- [[gitlab]] https://gitlab.com/flancian
-	-
 	- [[telegram]] @Flancian
+	- [[tiktok]] https://tiktok.com/@flancian
 	- [[ctzn]] https://ctznry.com/flancian@ctzn.one
 	- [[anar.chi.st]] https://anar.chi.st/Flancian
 	- [[chess]] https://chess.com/member/flancian
 	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
+	-
 	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]].
 		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
 		- The [[agora]] is an [[experimental]] [[social network]] in which I try to express my integrated identity.
