@@ -163,5 +163,5 @@
 		- [[global food crisis]]
 			- similar to and interlinked with the [[energy crisis]]
 			- two basic types of [[food systems]]
-				- industrial production: energy intensive, [[fossil fuel]] based
-				- traditional practices
+				- industrial production: energy intensive, centralized, [[fossil fuel]] based
+				- traditional practices: distributed, organic
