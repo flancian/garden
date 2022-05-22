@@ -209,3 +209,5 @@
 	- often asked: "will there be enough time to save human civilization", "can we have hope for the future"?
 		- the most inspiring answer to this comes from [[václav havel]]
 			- a meditation on [[hope]] itself
+			- written while imprisoned under
+			- "The kind of [[hope]] that I often think about I understand above all as a state of mind, not a state of the mind. Either we have hope within us or we don't. It is a dimension of the soul and it's not essentially dependent on some particular observation of the world or estimate of the situation. Hope is not the conviction that something will turn out well, but the certainty that something [[makes sense]] regardless of how it will turn out."
