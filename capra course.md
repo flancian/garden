@@ -133,7 +133,7 @@
 			- many possible solutions
 			- two false solutions, non-systemic
 				- [[clean coal]] is essentially an advertising slogan for new, unproven techniques for carbon capture
-					- hope that [[nuclear power]] could replace coal, but the risks were underexplored.
+				- hope that [[nuclear power]] could replace coal, but the risks were underexplored.
 					- in the book [[fritjof capra]] summarizes [[seven inconvenient truths]] about [[nuclear power]]
 						- creates significant greenhouse gases
 						- uranium supplies are very limited
@@ -142,4 +142,6 @@
 						- nuclear power and nuclear weapons are inextricably linked
 						- new generation reactors have the same problems and are too late
 						- nuclera power is not viable commercially
-			-
+			- [[plan b]] by lester brown
+			- [[reinventing fire]]
+			- [[the third industrial revolution]]
