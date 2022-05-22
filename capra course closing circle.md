@@ -27,6 +27,8 @@
 		- I will be the [[alumni network]] coordinator
 		- you don't have to do anything on your side, same login will work for this network
 		- [[alumni gatherings]] 4x a year
+			- on equinoxes and solstices :)
+			- Tues June 21st, 9am - 10:15am PDT, June Solstice Gathering
 		- [[1k members]] organized in currently [[55 groups]]
-		-
+		- reach out if you want a [[certificate]]
 	-
