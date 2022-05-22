@@ -27,4 +27,6 @@
 		- I will be the [[alumni network]] coordinator
 		- you don't have to do anything on your side, same login will work for this network
 		- [[alumni gatherings]] 4x a year
+		- [[1k members]]
+			- organized in currently [[55 groups]]
 	-
