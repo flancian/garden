@@ -191,4 +191,8 @@
 				- some examples from two areas
 					- [[nutrient and waste recycling]]
 					- [[building and cities]]
+				- [[organic cycles]]
+				- [[technical cycles]]
+					- between manufacturers and consumers
+					- (maybe related to [[repair movement]]?)
 				-
