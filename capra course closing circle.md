@@ -34,8 +34,8 @@
 	- [[della duncan]] on to [[breakout rooms]]
 		- "how are you integrating the knowledge from the course"?
 		- with [[paul higgings]] and [[dario pulcini]]
-		- [[communities of practice]]
-		- [[feedback loop]]
-			- terminology that is trans-disciplinary has wide appeal
-		- let's send links to each other?
+			- [[communities of practice]]
+			- [[feedback loop]]
+				- terminology that is trans-disciplinary has wide appeal
+			- let's send links to each other?
 	-
