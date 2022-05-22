@@ -45,5 +45,7 @@
 			- very similar themes in the breakout room
 			- how do we engage with each other in a nurturing way? how do we change mindsets?
 			- [[feminist morality]]
-			- Q: how do we
+			- Q: how do we change culture?
+				- from the systems point of view, culture is an emergent phenomenon in a network of communications. as communication continues, there are feedback loops, and a system of values and behaviour emerges
+				- .
 	-
