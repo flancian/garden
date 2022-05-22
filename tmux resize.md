@@ -1,3 +1,5 @@
 - [[push]] [[tmux]]
 	- [[window]] `<c-b>:resize-window -A`
-	- [[pane]] hold `<c-b`' and press arrows
+	- [[pane]] hold `<c-b>` and press arrows
+	- [[tmux]] has this annoying habit to always fit to the *smallest* terminal attached to a session, even if inactive.
+		- it results in
