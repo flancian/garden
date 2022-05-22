@@ -165,6 +165,7 @@
 			- two basic types of [[food systems]]
 				- industrial production: energy intensive, centralized, [[fossil fuel]] based
 				- traditional practices: distributed, organic
-			- [[chemical agriculture]] was hailed as a new era, and it was actually seen as a [[green revolution]]
+			- [[chemical agriculture]] was hailed as a new era, and it was actually seen as a [[green revolution]], but...
 				- massive use of fertilizers/pesticides changed the whole fabric of agriculture
-				- single crops
+				- single crop monoculture took over
+				- high energy use resulted in great
