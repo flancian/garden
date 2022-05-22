@@ -37,4 +37,5 @@
 		- [[communities of practice]]
 		- [[feedback loop]]
 			- terminology that is trans-disciplinary has wide appeal
+		- let's send links to each other?
 	-
