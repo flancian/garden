@@ -172,7 +172,7 @@
 			- [[gmos]]
 				- long session on this and genetic engineering in the book
 				- the main objective in genetic engineering seems to have been to increase the sales of chemicals :(
-			- [[agroecology]]
+			- #push [[agroecology]]
 				- [[organic farming]], [[permaculture]], [[sustainable argriculture]]
 				- variety of crops, rotated
 				- instead of chemical fertilizers, a focus on manure and organic material from previous crops
@@ -180,4 +180,4 @@
 				- soil is actually alive: there are billions of organisms in every [[cm3]]
 				- [[diversification]] and [[intercropping]]
 				- [[agroforestry]]
-				- agroecology (is/might be) able to raise agricultural conomically viable, rea
+				- "[[agroecology]] (is/might be) able to raise agricultural productivity in ways that are economically viable, ecologically sound and socially uplifting"
