@@ -32,5 +32,5 @@
 		- [[1k members]] organized in currently [[55 groups]]
 		- reach out if you want a [[certificate]]
 	- [[della duncan]] on to [[breakout rooms]]
-		- "how are yo
+		- "how are you integrating the knowledge from the course"?
 	-
