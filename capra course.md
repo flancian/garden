@@ -203,3 +203,6 @@
 					- modern [[car free]] environments
 					- [[urban villages]]
 					- [[high density]] structures combined with ample [[green spaces]]
+			- [[system solutions]] in this lecture seem to provide ample evidence that we have the tools to build a [[sustainable future]] -- what we need is [[political will]] and [[leadership]]
+- [[conclusion]]
+	-
