@@ -138,3 +138,7 @@
 						- creates significant greenhouse gases
 						- uranium supplies are very limited
 						- construction time of plants is too long
+						- waste storage problem remains unsolved
+						- nuclear power and nuclear weapons are inextricably linked
+						- new generation reactors have the same problems and are too late
+						- nuclera power is not viable commercially
