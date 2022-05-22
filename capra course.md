@@ -167,5 +167,6 @@
 				- traditional practices: distributed, organic
 			- [[chemical agriculture]] was hailed as a new era, and it was actually seen as a [[green revolution]], but...
 				- massive use of fertilizers/pesticides changed the whole fabric of agriculture
-				- single crop monoculture took over
-				- high energy use resulted in great
+				- single crop monoculture took over, led to soil depletion and escalating use of pesticides
+				- high energy use resulted in great concentration in very large farms
+			- [[gmos]]
