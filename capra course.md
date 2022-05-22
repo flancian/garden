@@ -180,3 +180,4 @@
 				- soil is actually alive: there are billions of organisms in every [[cm3]]
 				- [[diversification]] and [[intercropping]]
 				- [[agroforestry]]
+				- agroecology (is/might be) able to raise agricultural conomically viable, rea
