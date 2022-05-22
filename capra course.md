@@ -199,5 +199,7 @@
 					- people want services, not products
 					- the manufacturer could "own" devices, be responsible to recycle all components at the end of life of a device
 				- urban [[ecodesign]]
-					- [[curitiba]]
 					- ~60 cities have adopted the [[curitiba]] model
+					- modern [[car free]] environments
+					- [[urban villages]]
+					- [[high density]] structures combined with ample [[green spaces]]
