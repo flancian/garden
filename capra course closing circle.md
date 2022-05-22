@@ -63,4 +63,5 @@
 		- [[rito]] the issue of perception and the [[mechanistic mindset]]
 			- work/life balance and interconnection
 			- [[be like water]]
-		-
+		- [[thomas pennington]]
+			- "think globally, act locally" makes sense -- but now we can "act globally" and that is a beautiful
