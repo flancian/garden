@@ -52,8 +52,10 @@
 				- there is a difference between a [[social system]] and a [[community]]: when the earlier develops a culture, it becomes the latter.
 		- [[paul higgins]]
 			- how to distill systems thinking for educators?
-				- [[frijof]]: strategy has been to promote the [[capra course]] among educators
+				- [[fritjof]]: strategy has been to promote the [[capra course]] among educators
 				- [[gaia education]] [[work that reconnects]] (sp?) are associated communities
 				- [[della duncan]]: [[The Systems Thinking Playbook]]: Exercises to Stretch and Build Learning and Systems Thinking Capabilities"
 				- [[silvia]]
 			- the impact of network composition: how to combine communities, intensify connections between communities?
+		- [[lisa satteil]] how would you describe our community?
+			- [[fritjof]] I'd describe it as a [[learning community]]. It seems like the simplest way to enact [[transformative learning]], learning which changes our worldview.
