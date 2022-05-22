@@ -160,3 +160,8 @@
 				- smart grids
 				- government agencies focus
 				- [[widely distributed]] grids enabled by the [[internet]]
+		- [[global food crisis]]
+			- similar to and interlinked with the [[energy crisis]]
+			- two basic types of [[food systems]]
+				- industrial production: energy intensive, [[fossil fuel]] based
+				- traditional practices
