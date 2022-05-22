@@ -2,5 +2,8 @@
 	- about [[32]] people attending
 	- [[rito]]
 		- what if parts of religion (spirituality) and science can converge?
-	- begins with a [[moment of grounding]]
+	- begins with a [[moment of grounding]], 2x [[bell]] (nice) by [[bella]]
+	- [[fritjof capra]]
+		- glad to see people face to face, usually enjoy the closing circles tremendously, looking forward to hearing from you
+		-
 	-
