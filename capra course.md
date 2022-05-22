@@ -142,8 +142,10 @@
 						- nuclear power and nuclear weapons are inextricably linked
 						- new generation reactors have the same problems and are too late
 						- nuclera power is not viable commercially
-			- [[plan b]] by lester brown
-				- shows strategies building on existing technology
-				- eradicating
+			- #push [[plan b]] by lester brown
+				- shows strategies building on existing technology, working examples from around the world
+				- eradicating [[poverty]] and stabilizing [[population]]
+				- stabilizing [[climate]]
+				- restoring the earth's [[ecosystems]]
 			- [[reinventing fire]]
 			- [[the third industrial revolution]]
