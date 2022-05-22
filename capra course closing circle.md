@@ -41,5 +41,9 @@
 	- [[sharing]]
 		- [[mandy van goeije]]
 			- [[illustrator]]
-			- [[fritjof]]
+		- [[arnd wächter]]
+			- very similar themes in the breakout room
+			- how do we engage with each other in a nurturing way? how do we change mindsets?
+			- [[feminist morality]]
+			- Q: how do we
 	-
