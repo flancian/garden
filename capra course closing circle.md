@@ -47,5 +47,7 @@
 			- [[feminist morality]]
 			- Q: how do we change culture?
 				- from the systems point of view, culture is an emergent phenomenon in a network of communications. as communication continues, there are feedback loops, and a system of values and behaviour emerges
-				- .
-	-
+				- there is a difference between a [[social system]] and a [[community]]: when the earlier develops a culture, it becomes the latter.
+		- [[paul higgins]]
+			- how to distill systems thinking for educators?
+			-
