@@ -142,3 +142,4 @@
 						- nuclear power and nuclear weapons are inextricably linked
 						- new generation reactors have the same problems and are too late
 						- nuclera power is not viable commercially
+			-
