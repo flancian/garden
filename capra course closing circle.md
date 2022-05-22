@@ -69,7 +69,7 @@
 			- had a great experience applying systems level thinking
 		- [[meriel]]
 			- on how to deal with the institutions we interact with (e.g. work with) as we grapple with value alignment
-			- “Think globally, act accordingly" -Terry Tempest Williams
+			- “Think globally, act accordingly" - [[Terry Tempest Williams]]
 		- [[jeanette]]
 			- reach out if you're interested in discussing
 		- [[ani ahavah]]
