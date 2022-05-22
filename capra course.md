@@ -132,4 +132,5 @@
 		- [[energy crisis]]
 			- many possible solutions
 			- two false solutions, non-systemic
-				- [[clean coal]]
+				- [[clean coal]] is essentially an advertising slogan for new, unproven techniques for carbon capture
+					- hope that [[nuclear power]]
