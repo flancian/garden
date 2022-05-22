@@ -170,3 +170,6 @@
 				- single crop monoculture took over, led to soil depletion and escalating use of pesticides
 				- high energy use resulted in great concentration in very large farms
 			- [[gmos]]
+				- long session on this and genetic engineering in the book
+				- the main objective in genetic engineering seems to have been to increase the sales of chemicals :(
+			-
