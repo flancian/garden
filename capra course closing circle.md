@@ -58,4 +58,5 @@
 				- [[silvia]]
 			- the impact of network composition: how to combine communities, intensify connections between communities?
 		- [[lisa satteil]] how would you describe our community?
-			- [[fritjof]] I'd describe it as a [[learning community]]. It seems like the simplest way to enact [[transformative learning]], learning which changes our worldview.
+			- [[fritjof]] I'd describe it as a [[learning community]]. It seems like the simplest and most powerful way to enact [[transformative learning]], learning which changes our worldview.
+				- When we learn in a [[community]], you discuss concept relationships while you experience human relationships; this has a powerful emotional component.
