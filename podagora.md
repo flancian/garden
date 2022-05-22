@@ -1,2 +1,3 @@
 - Notes on how to get an Agora up an running on [[podman]] (should work also for [[docker]] with some modifications?).
-- These are based on an experiment in [[hypatia]], one of my servers.
+	- These are based on an experiment in [[hypatia]], one of my servers.
+	- #pull [[podman]]
