@@ -155,7 +155,8 @@
 			- [[the third industrial revolution]] by [[jeremy rifkin]]
 				- renewable energy sources
 					- hidrogen
+					- [[fossil fuel free future]]] (~ [[ffff]])
 				- electric vehicles
 				- smart grids
 				- government agencies focus
-				-
+				- [[widely distributed]] grids enabled by the [[internet]]
