@@ -12,4 +12,8 @@
 		- [[bloc thinking]] is making a comeback:
 			- [[putin]], who seemingly wants to rebuild the russian empire as it was pre 1989
 			- [[nato]], an alliance from [[cold war]] times
+			- both blocs are incompatible with the massively interconnected world we live in today
+			- our major problems are [[global]] and [[systemic]]
+			- we need [[cooperation]], [[negotiation]] and [[compromise]] to solve them, not [[competition]] or [[war]]
+			-
 	-
