@@ -126,6 +126,10 @@
 						- cognitive activity is [[immanent]] in life
 					- [[cognition]] does not require a [[brain]]/nervous system
 						- plants, bacteria which don't have nervous systems are all constantly involved in [[cognitive activities]] (as they perceive, react)
+	- (...) see screenshots / transcribe
+	- lecture 9, 10, 11 all great
 	- [[lecture 12]] [[systemic solutions]]
 		- [[energy crisis]]
-		-
+			- many possible solutions
+			- two false solutions, non-systemic
+				- [[clean coal]]
