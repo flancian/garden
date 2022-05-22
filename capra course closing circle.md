@@ -19,5 +19,7 @@
 					- [[putin]] will not get to rebuild imperial russia
 					- [[ukraine]] will not get to join [[nato]], but rather remain neutral
 			- when dealing with a bully, increasing military tension does not seem a wise path to follow
-			- [[cuban missile crisis]] [[1962]]
+			- [[cuban missile crisis]] [[1962]] was resolved by [[diplomacy]] and with a compromise
+				- [[usa]] withdrew missiles from [[turkey]]
+				- [[russia]] withdrew missiles from [[cuba]]
 	-
