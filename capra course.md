@@ -175,4 +175,6 @@
 			- [[agroecology]]
 				- [[organic farming]], [[permaculture]], [[sustainable argriculture]]
 				- variety of crops, rotated
-				- instead of chemical fertilizers,
+				- instead of chemical fertilizers, a focus on manure and organic material from previous crops
+				- it embodies ecological principles which have been tested by [[evolution]]
+				- soil is actually alive: there are billions of organisms in every [[cm3]]
