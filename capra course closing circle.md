@@ -52,4 +52,6 @@
 			- how to distill systems thinking for educators?
 				- [[frijof]]: strategy has been to promote the [[capra course]] among educators
 				- [[gaia education]] [[work that reconnects]] (sp?) are associated communities
+				- [[della duncan]]: [[The Systems Thinking Playbook]]: Exercises to Stretch and Build Learning and Systems Thinking Capabilities"
+				- [[silvia]]
 			- the impact of network composition: how to combine communities, intensify connections between communities?
