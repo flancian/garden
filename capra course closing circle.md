@@ -50,20 +50,20 @@
 			- Q: how do we change culture?
 				- from the systems point of view, culture is an emergent phenomenon in a network of communications. as communication continues, there are feedback loops, and a system of values and behaviour emerges
 				- there is a difference between a [[social system]] and a [[community]]: when the earlier develops a culture, it becomes the latter.
-		- [[paul higgins]]
+		- [[paul]]
 			- how to distill systems thinking for educators?
 				- [[fritjof]]: strategy has been to promote the [[capra course]] among educators
 				- [[gaia education]] [[work that reconnects]] (sp?) are associated communities
 				- [[della duncan]]: [[The Systems Thinking Playbook]]: Exercises to Stretch and Build Learning and Systems Thinking Capabilities"
 				- [[silvia]]
 			- the impact of network composition: how to combine communities, intensify connections between communities?
-		- [[lisa satteil]] how would you describe our community?
+		- [[lisa]] how would you describe our community?
 			- [[fritjof]] I'd describe it as a [[learning community]]. It seems like the simplest and most powerful way to enact [[transformative learning]], learning which changes our worldview.
 				- When we learn in a [[community]], you discuss concept relationships while you experience human relationships; this has a powerful emotional component.
 		- [[rito]] the issue of perception and the [[mechanistic mindset]]
 			- work/life balance and interconnection
 			- [[be like water]]
-		- [[thomas pennington]]
+		- [[thomas]]
 			- "think globally, act locally" makes sense -- but now we can "act globally" and that is a beautiful thing
 		- [[pankaj]]
 			- had a great experience applying systems level thinking
@@ -72,9 +72,10 @@
 			- “Think globally, act accordingly" - [[Terry Tempest Williams]]
 		- [[jeanette]]
 			- reach out if you're interested in discussing
-		- [[ani ahavah]]
+		- [[ani]]
 			- reads out a nice poem, [[a systems point of view]]
 	- [[silvia]]
 		- You can find resources, a full community and events by facilitators here: https://workthatreconnects.org/
 		- To continue the exploration and discussion about how to change social systems: https://www.programmes.gaiaeducation.uk/deep-transformation
 		- Our own alumni community: https://alumninetwork.capracourse.net/
+	-
