@@ -1,5 +1,6 @@
 - on [[2022-05-22]]
-	- about [[20]] people attending
+	- about [[32]] people attending
 	- [[rito]]
 		- what if parts of religion (spirituality) and science can converge?
+	- begins with a [[moment of grounding]]
 	-
