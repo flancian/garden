@@ -33,7 +33,7 @@
 		- reach out if you want a [[certificate]]
 	- [[della duncan]] on to [[breakout rooms]]
 		- "how are you integrating the knowledge from the course"?
-		- with [[paul higgings]] and [[dario cesareo]]
+		- with [[paul higgings]] and [[dario pulcini]]
 		- [[communities of practice]]
 		- [[feedback loop]]
 			- terminology that is trans-disciplinary has wide appeal
