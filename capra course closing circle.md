@@ -23,5 +23,7 @@
 				- [[usa]] withdrew missiles from [[turkey]]
 				- [[russia]] withdrew missiles from [[cuba]]
 			- hopefully [[diplomacy]] and [[compromise]] will outweigh the [[mechanistic]] bloc thinking from the past
-	- [[silvia]]
+	- [[silvia]] says:
+		- I will be the [[alumni network]] coordinator
+		- you don't have to do anything on your side, same login will work for this network
 	-
