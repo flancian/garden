@@ -51,4 +51,5 @@
 		- [[paul higgins]]
 			- how to distill systems thinking for educators?
 				- [[frijof]]: strategy has been to promote the [[capra course]] among educators
+				- [[gaia education]] [[work that reconnects]] (sp?) are associated communities
 			- the impact of network composition: how to combine communities, intensify connections between communities?
