@@ -22,4 +22,6 @@
 			- [[cuban missile crisis]] [[1962]] was resolved by [[diplomacy]] and with a compromise
 				- [[usa]] withdrew missiles from [[turkey]]
 				- [[russia]] withdrew missiles from [[cuba]]
+			- hopefully [[diplomacy]] and [[compromise]] will outweigh the [[mechanistic]] bloc thinking from the past
+	- [[silvia]]
 	-
