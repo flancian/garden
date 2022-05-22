@@ -188,4 +188,7 @@
 					- "[[ecological design]] is the careful meshing of our [[human purposes]] with the larger [[patterns]] and [[flows]] of the natural world"
 				- eco design principles reflect those that are found in nature to support life
 				- "what can we *learn* from nature" (instead of what can we extract from it)
+				- some examples from two areas
+					- [[nutrient and waste recycling]]
+					- [[building and cities]]
 				-
