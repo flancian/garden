@@ -62,3 +62,5 @@
 				- When we learn in a [[community]], you discuss concept relationships while you experience human relationships; this has a powerful emotional component.
 		- [[rito]] the issue of perception and the [[mechanistic mindset]]
 			- work/life balance and interconnection
+			- [[be like water]]
+		-
