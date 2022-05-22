@@ -181,3 +181,5 @@
 				- [[diversification]] and [[intercropping]]
 				- [[agroforestry]]
 				- "[[agroecology]] (is/might be) able to raise agricultural productivity in ways that are economically viable, ecologically sound and socially uplifting"
+				- soil that is organically managed *is a carbon store* (as it's full of life)
+				-
