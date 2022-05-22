@@ -133,4 +133,8 @@
 			- many possible solutions
 			- two false solutions, non-systemic
 				- [[clean coal]] is essentially an advertising slogan for new, unproven techniques for carbon capture
-					- hope that [[nuclear power]]
+					- hope that [[nuclear power]] could replace coal, but the risks were underexplored.
+					- in the book [[fritjof capra]] summarizes [[seven inconvenient truths]] about [[nuclear power]]
+						- creates significant greenhouse gases
+						- uranium supplies are very limited
+						- construction time of plants is too long
