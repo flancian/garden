@@ -172,4 +172,7 @@
 			- [[gmos]]
 				- long session on this and genetic engineering in the book
 				- the main objective in genetic engineering seems to have been to increase the sales of chemicals :(
-			-
+			- [[agroecology]]
+				- [[organic farming]], [[permaculture]], [[sustainable argriculture]]
+				- variety of crops, rotated
+				- instead of chemical fertilizers,
