@@ -192,7 +192,10 @@
 					- [[nutrient and waste recycling]]
 					- [[building and cities]]
 				- [[organic cycles]]
+					- coffee production + mushroom production + fee
 				- [[technical cycles]]
 					- between manufacturers and consumers
 					- (maybe related to [[repair movement]]?)
+					- people want services, not products
+					- the manufacturer could "own" devices, be responsible to recycle all components at the end of life of a device
 				-
