@@ -38,6 +38,8 @@
 			- [[feedback loop]]
 				- terminology that is trans-disciplinary has wide appeal
 			- let's send links to each other?
+				- [[paul]] https://ltcwrk.com/introduction/
+		- [[della]]: another alum doing great work with visualizing systems thinking - https://www.lindaboothsweeney.net
 	- [[sharing]]
 		- [[mandy van goeije]]
 			- [[illustrator]]
