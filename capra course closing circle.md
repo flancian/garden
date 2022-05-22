@@ -64,4 +64,7 @@
 			- work/life balance and interconnection
 			- [[be like water]]
 		- [[thomas pennington]]
-			- "think globally, act locally" makes sense -- but now we can "act globally" and that is a beautiful
+			- "think globally, act locally" makes sense -- but now we can "act globally" and that is a beautiful thing
+		- [[pankaj]]
+			- had a great experience applying systems level thinking
+		-
