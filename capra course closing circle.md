@@ -5,5 +5,8 @@
 	- [[fritjof capra]]:
 		- glad to see people face to face, usually enjoy the closing circles tremendously, looking forward to hearing from you
 		- taking an opportunity to reflect on the difficult times we're living in, and the transition we're living through.
-		- in the last 40 years I have seen
+		- in the last 40 years I have seen technological revolution, backlash -- the turn of the chaotic pendulum
+		- [[war in ukraine]] seems to be a regression to the status quo around the 50s-60s
+		- grew up tens of miles away from the [[iron curtain]] in [[austria]]
+			- the two blocs
 	-
