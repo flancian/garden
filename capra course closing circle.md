@@ -72,4 +72,4 @@
 		- [[jeanette]]
 			- reach out if you're interested in discussing
 		- [[ani ahavah]]
-			- reads out a beautiful view from a [[systems point of view]]
+			- reads out a nice poem, [[a systems point of view]]
