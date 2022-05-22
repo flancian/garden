@@ -183,5 +183,7 @@
 				- "[[agroecology]] (is/might be) able to raise agricultural productivity in ways that are economically viable, ecologically sound and socially uplifting"
 				- soil that is organically managed *is a carbon store* (as it's full of life)
 				- **[[carbon sequestration]] in soil and plants is currently the only known and proven technology to draw down [[co2]] from the atmostphere and in the long run stabilize climate**
-			- [[ecodesign]]
+			- #push [[ecodesign]]
+				- "[[ecological design]] is the careful meshing of our [human purposes] with the larger [[patterns]] and [[flows]] of the natural world
+				- [[david orr]]
 				-
