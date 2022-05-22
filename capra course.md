@@ -205,4 +205,7 @@
 					- [[high density]] structures combined with ample [[green spaces]]
 			- [[system solutions]] in this lecture seem to provide ample evidence that we have the tools to build a [[sustainable future]] -- what we need is [[political will]] and [[leadership]]
 - [[conclusion]]
-	-
+	- [[leadership]] means [[facilitating the emergence of novelty]]
+	- often asked: "will there be enough time to save human civilization", "can we have hope for the future"?
+		- the most inspiring answer to this comes from [[václav havel]]
+			- a meditation on [[hope]] itself
