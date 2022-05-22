@@ -150,4 +150,8 @@
 			- [[reinventing fire]] by [[amory lovins]]
 				- focus is narrower than brown's
 				- "to create a clear and practical vision of a fossil fuel free future backed up by quant analsys and to map out a path towards that future"
-			- [[the third industrial revolution]]
+				- massive savings in energy and cost
+				- hope is that business could get behind the cost savingssss
+			- [[the third industrial revolution]] by [[jeremy rifkin]]
+				- renewable energy sources
+					-
