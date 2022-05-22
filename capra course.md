@@ -154,4 +154,8 @@
 				- hope is that business could get behind the cost savingssss
 			- [[the third industrial revolution]] by [[jeremy rifkin]]
 				- renewable energy sources
-					-
+					- hidrogen
+				- electric vehicles
+				- smart grids
+				- government agencies focus
+				-
