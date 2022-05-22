@@ -69,7 +69,12 @@
 			- had a great experience applying systems level thinking
 		- [[meriel]]
 			- on how to deal with the institutions we interact with (e.g. work with) as we grapple with value alignment
+			- “Think globally, act accordingly" -Terry Tempest Williams
 		- [[jeanette]]
 			- reach out if you're interested in discussing
 		- [[ani ahavah]]
 			- reads out a nice poem, [[a systems point of view]]
+	- [[silvia]]
+		- You can find resources, a full community and events by facilitators here: https://workthatreconnects.org/
+		- To continue the exploration and discussion about how to change social systems: https://www.programmes.gaiaeducation.uk/deep-transformation
+		- Our own alumni community: https://alumninetwork.capracourse.net/
