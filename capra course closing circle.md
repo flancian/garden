@@ -67,4 +67,6 @@
 			- "think globally, act locally" makes sense -- but now we can "act globally" and that is a beautiful thing
 		- [[pankaj]]
 			- had a great experience applying systems level thinking
+		- [[meriel]]
+			- on how to deal with the institutions we interact with (e.g. work with) as we grapple with value alignment
 		-
