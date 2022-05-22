@@ -143,5 +143,7 @@
 						- new generation reactors have the same problems and are too late
 						- nuclera power is not viable commercially
 			- [[plan b]] by lester brown
+				- shows strategies building on existing technology
+				- eradicating
 			- [[reinventing fire]]
 			- [[the third industrial revolution]]
