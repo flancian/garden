@@ -147,5 +147,7 @@
 				- eradicating [[poverty]] and stabilizing [[population]]
 				- stabilizing [[climate]]
 				- restoring the earth's [[ecosystems]]
-			- [[reinventing fire]]
+			- [[reinventing fire]] by [[amory lovins]]
+				- focus is narrower than brown's
+				- "to create a clear and practical vision of a fossil fuel free future backed up by quant analsys and to map out a path towards that future"
 			- [[the third industrial revolution]]
