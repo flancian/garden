@@ -1,2 +1,4 @@
 - on [[2022-05-22]]
-- about [[16]] people so far
+	- about [[20]] people attending
+	- [[rito]]
+		- what if parts of religion and science
