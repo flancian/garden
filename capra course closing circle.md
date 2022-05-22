@@ -41,9 +41,9 @@
 				- [[paul]] https://ltcwrk.com/introduction/
 		- [[della]]: another alum doing great work with visualizing systems thinking - https://www.lindaboothsweeney.net
 	- [[sharing]]
-		- [[mandy van goeije]]
+		- [[mandy]]
 			- [[illustrator]]
-		- [[arnd wächter]]
+		- [[arnd]]
 			- very similar themes in the breakout room
 			- how do we engage with each other in a nurturing way? how do we change mindsets?
 			- [[feminist morality]]
