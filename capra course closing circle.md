@@ -50,4 +50,5 @@
 				- there is a difference between a [[social system]] and a [[community]]: when the earlier develops a culture, it becomes the latter.
 		- [[paul higgins]]
 			- how to distill systems thinking for educators?
+				- [[frijof]]: strategy has been to promote the [[capra course]] among educators
 			- the impact of network composition: how to combine communities, intensify connections between communities?
