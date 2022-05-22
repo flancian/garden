@@ -192,7 +192,7 @@
 					- [[nutrient and waste recycling]]
 					- [[building and cities]]
 				- [[organic cycles]]
-					- coffee production + mushroom production + fee
+					- coffee production + mushroom production + livestock + ...
 				- [[technical cycles]]
 					- between manufacturers and consumers
 					- (maybe related to [[repair movement]]?)
