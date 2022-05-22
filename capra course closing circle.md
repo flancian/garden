@@ -31,4 +31,6 @@
 			- Tues June 21st, 9am - 10:15am PDT, June Solstice Gathering
 		- [[1k members]] organized in currently [[55 groups]]
 		- reach out if you want a [[certificate]]
+	- [[della duncan]] on to [[breakout rooms]]
+		- "how are yo
 	-
