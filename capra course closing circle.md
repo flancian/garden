@@ -15,5 +15,7 @@
 			- both blocs are incompatible with the massively interconnected world we live in today
 			- our major problems are [[global]] and [[systemic]]
 			- we need [[cooperation]], [[negotiation]] and [[compromise]] to solve them, not [[competition]] or [[war]]
-			-
+			- the outlines of the necessary [[compromise]] in this conflict seem clear:
+				- [[putin]] will not get to rebuild imperial russia
+				- [[ukraine]] will not get to join [[nato]], but rather remain neutral
 	-
