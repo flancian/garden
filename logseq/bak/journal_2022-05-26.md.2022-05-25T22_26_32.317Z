@@ -3,5 +3,4 @@
     - now I'm writing this in [[wiki vim]], in which:
         - ,ww navigates to index.md
         - ,w,w navigates to the current journal
-        - unfortunately navigating to a wikilink from the journal creates the file in journal/, even though I want it in the root.
 
