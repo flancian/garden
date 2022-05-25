@@ -9,6 +9,9 @@
 		- [[p1]]
 	- #push [[agora plan]]
 		- onboard [[mathew lowry]]
+	- [[2022-05-25]]
+		- [[boutique]], pros and cons of the term
+			- [[the future of search is boutique]]
 	- [[2022-05-18]]
 		- greetings! :)
 		- finished work, been reviewing/catching up
