@@ -1,5 +1,5 @@
 - a [[person]].
-	- #pull [[icedquinn]]
+	- #pull [[icedquinn]] [[vr quinn]] [[quinn]]
 	- #go https://iceworks.cc
 	- [[mastodon]] https://social.coop/web/statuses/108364494438314728
 	- into [[blobs]] and [[cats]]
