@@ -1,6 +1,8 @@
 - a [[person]].
 	- #pull [[icedquinn]]
+	- #go https://iceworks.cc
 	- [[mastodon]] https://social.coop/web/statuses/108364494438314728
 	- into [[blobs]] and [[cats]]
-	- [[zettelkasten]]
+	- [[zettelkasten]] https://social.coop/web/statuses/108356241334377205
 		- https://social.coop/web/statuses/108356241334377205
+		- [[z]] https://iceworks.cc/z/
