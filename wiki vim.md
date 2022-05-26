@@ -4,6 +4,7 @@
   - #doc https://github.com/lervag/wiki.vim/blob/master/doc/wiki.txt
     - excerpt below
     - <leader> is , by default
+  - not to be confused with [[vim wiki]].
 
 ```
  MODE  LHS                 RHS~
