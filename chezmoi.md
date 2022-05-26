@@ -7,6 +7,8 @@
   - #push [[2022-05-26]] 
     - [[refusing to merge unrelated histories]]
 
+Example for my initial upload:
+
 ```
 > ls -atr | egrep '^\.'
 > chezmoi add ~/.bashrc
@@ -14,4 +16,6 @@
 > chezmoi add ~/.tmux.conf
 > chezmoi add ~/.gnupg
 ```
+
+
 
