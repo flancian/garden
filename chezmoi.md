@@ -17,5 +17,14 @@ Example for my initial upload:
 > chezmoi add ~/.gnupg
 ```
 
+```
+>  chezmoi cd
+>  git add .
+>  git commit -m 'Initial commit from paramita."
+```
 
-
+```
+> git remote add origin git@gitlab.com:flancian/flancian.git
+> git branch -M main
+> git push -u origin main 
+```
