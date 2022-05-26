@@ -22,7 +22,3 @@ podman run --rm -it debian
 ```
 
 Drop you into a one-off bare VM, it gets automatically cleaned up when you exit.
-
-```
-podman build Dockerfile
-```
