@@ -1,4 +1,6 @@
-- This is an example of a user contributed [[index]] in the Agora :)
-    - Any of an Agora's  [[users]] can contribute to the Agora home page by adding a file named `index.md` to their digital gardens.
-    - Later on ranking/filtering algorithms might need to be implemented. These will be ***open source*** and ***community driven***.
+- An [[index]].
+  - To this [[digital garden]].
+  - If you are reading this in [[an Agora]], you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
+  - You can add your own by keeping an `index.md` file in your [[digital garden]] and contributing it to this Agora.
+    - If the Agora index gets too noisy (as the Agora grows) we might want to implement [[ranking]] and [[filtering]] algorithms. These will be ***open source*** and ***community driven***.
 - I am a [[Flancian]], who are you?
