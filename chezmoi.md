@@ -1,2 +1,4 @@
 - a [[tool]].
+  - [[bmann]] noded it.
   - #go https://www.chezmoi.io
+  - #git https://github.com/twpayne/chezmoi
