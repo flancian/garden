@@ -48,3 +48,16 @@ podman attach agora
 ```
 
 ...to attach. CTRL-P CTRL-Q to detach gracefully.
+
+This is what I left running in [[hypatia]] as of [[2022-05-27]], sufficient to serve an HTTP only Agora (I'd add [[nginx]] to do SSL + caching, like in [[thecla]]/prod):
+
+```
+podman run -p 80:5017 --name agora -dt agora
+```
+
+The above requires running this as root to open up port 80 to non privileged processes:
+
+```
+sysctl -w net.ipv4.ip_unprivileged_port_start=80
+```
+
