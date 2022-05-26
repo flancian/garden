@@ -6,6 +6,8 @@
     - <leader> is , by default
   - not to be confused with [[vim wiki]].
   - only thing missing for now is autocomplete for `[[`, which IIUC should be supported -- but I haven't made it play well with [[ncm2]] yet.
+    - opened a bug about this :)
+  - for pasting images, I'm trying [[md img paste]] by [[ferrine]].
   
 ```
  MODE  LHS                 RHS~
