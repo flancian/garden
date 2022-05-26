@@ -1,0 +1,9 @@
+- [[logseq]] is getting slower every day.
+    - thinking about starting to use [[wiki vim]] (not [[vim wiki]], confusingly :)) more regularly.
+    - #push [[wiki vim]]
+        - now I'm writing this in [[wiki vim]], in which:
+            - ,ww navigates to index.md
+            - ,w,w navigates to the current journal
+            - unfortunately navigating to a wikilink from the journal creates the file in journal/, even though I want it in the root.
+            - filed: https://github.com/lervag/wiki.vim/issues/225 
+            - already resulted in a nice workaround that I can just plug into my .vimrc :)
