@@ -38,8 +38,7 @@ podman run -it agora
 To run one interactively, or:
 
 ```
-podman create -it --name agora agora
-podman start agora
+podman run -dt --name agora agora
 ```
 
 To start one detached. Then you can:
