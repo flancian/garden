@@ -9,4 +9,5 @@
 chezmoi add ~/.bashrc
 chezmoi add ~/.vimrc
 chezmoi add ~/.tmux.conf
-
+chezmoi add ~/.gnupg
+```
