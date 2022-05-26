@@ -7,3 +7,5 @@
 Loosely structured thoughts: it'd be nice if you could just pass a sources.yaml (or a link to an Agora repo?) to some variation of `podman run` and get an Agora, just like that.
 
 Perhaps we need `agora.yaml` though? For things like configuring hostname. [[agora server]] has `config.py`, but it'd be nice to have it be just a config and store it in the [[agora root repository]] instead.
+
+I took a detour of one pomodoro for [[chezmoi]], and I think it made sense: they are related, [[chezmoi]] seeming like a reasonable candidate for a personal configuration manager including links to arbitrary repositories, containers.
