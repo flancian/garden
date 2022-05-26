@@ -4,6 +4,8 @@
   - #git https://github.com/twpayne/chezmoi
   - #install `sh -c "$(curl -fsLS chezmoi.io/get)"`
   - #start https://www.chezmoi.io/quick-start/
+  - #push [[2022-05-26]] 
+    - [[refusing to merge unrelated histories]]
 
 ```
 > ls -atr | egrep '^\.'
@@ -13,4 +15,3 @@
 > chezmoi add ~/.gnupg
 ```
 
-  - [[refusing to merge unrelated histories]]
