@@ -3,4 +3,4 @@
   - by [[ferrine]]
   - #go https://github.com/ferrine/md-img-paste.vim
   - [[test]]
-    -![image_2022-05-26-16-05-58](img/image_2022-05-26-16-05-58.png) 
+    -![image_2022-05-26-16-05-58](assets/image_2022-05-26-16-05-58.png) 
