@@ -41,7 +41,6 @@
       - create [[agora]] user in container
       - fold in commands from [[go/agora]]
       - configure [[systemd]] services
-      - think about how to override values?
   - [[building bridges]]
   - [[sun]]
 
