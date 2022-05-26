@@ -1,3 +1,4 @@
 - a [[person]].
   - [[italian]] in [[social coop]].
+  - [[friend]]
   - [[editions coop]]
