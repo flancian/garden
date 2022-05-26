@@ -1,5 +1,5 @@
 - a [[tool]].
-  - [[bmann]] noded it.
+  - [[bmann]] noded it first :)
   - #go https://www.chezmoi.io
   - #git https://github.com/twpayne/chezmoi
   - #install `sh -c "$(curl -fsLS chezmoi.io/get)"`
