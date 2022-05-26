@@ -15,3 +15,10 @@
 	- Also I had to edit /etc/containers/registries.conf and set:
 		- `unqualified-search-registries = ["docker.io"]`
 		- ...to have podman search work as per in the upstream instructions (Debian ships with ultra-safe defaults or something.)
+
+```
+podman run --rm -it fedora
+podman run --rm -it debian
+```
+
+Drop you into a one-off bare VM, it gets automatically cleaned up when you exit.
