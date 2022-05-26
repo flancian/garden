@@ -6,8 +6,10 @@
   - #start https://www.chezmoi.io/quick-start/
 
 ```
-chezmoi add ~/.bashrc
-chezmoi add ~/.vimrc
-chezmoi add ~/.tmux.conf
-chezmoi add ~/.gnupg
+> ls -atr | egrep '^\.'
+> chezmoi add ~/.bashrc
+> chezmoi add ~/.vimrc
+> chezmoi add ~/.tmux.conf
+> chezmoi add ~/.gnupg
 ```
+
