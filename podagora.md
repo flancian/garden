@@ -1,6 +1,7 @@
 - Notes on how to get an Agora up an running on [[podman]] (should work also for [[docker]] with some modifications?).
-	- These are based on an experiment in [[hypatia]], one of my servers.
 	- #pull [[podman]]
+	- These notes track an [[experiment]] in [[hypatia]], one of my [[computers]].
+  -
 
 Loosely structured thoughts: it'd be nice if you could just pass a sources.yaml (or a link to an Agora repo?) to some variation of `podman run` and get an Agora, just like that.
 
