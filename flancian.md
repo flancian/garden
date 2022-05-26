@@ -2,7 +2,6 @@
 - A [[person]].
 	- My [[self]] :).
 	- #go https://flancia.org
-  - #git https://gitlab.com/flancian/flancian
 	- [[matrix]] @flancian:matrix.org
 	- [[twitter]] https://twitter.com/flancian
 	- [[fediverse]] https://social.coop/@flancian
@@ -15,7 +14,9 @@
 	- [[mastodon]]
 		- [[social.coop]] https://social.coop/@flancian
 		- [[merveilles]] https://merveilles.town/@flaneur
-	- [[git]] https://github.com/flancian
+	- #git https://github.com/flancian
+    - #git2 https://gitlab.com/flancian
+    - #repo https://gitlab.com/flancian/flancian
 	- [[gitlab]] https://gitlab.com/flancian
 	- [[telegram]] @Flancian
 	- [[tiktok]] https://tiktok.com/@flancian
