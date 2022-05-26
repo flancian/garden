@@ -24,5 +24,7 @@ podman run --rm -it debian
 Drop you into a one-off bare VM, it gets automatically cleaned up when you exit.
 
 ```
-podman build Dockerfile
+podman build -t agora .
 ```
+
+Builds an 'agora' container if there is a [[Dockerfile]] in the path. If you want to force a 'clean' build, pass `--no-cache`; I needed this in the [[Agora Dockerfile]] because I was using `git clone` and this was failing to pull in the latest revisions.
