@@ -1,5 +1,6 @@
 - an [[error]].
-  - [[git]].
+  - in [[git]]
+  - [[fatal]]
 
 I get this a lot when trying to merge repositories with different histories -- which of course shouldn't happen often, but does happen to me when I'm trying to [[bootstrap]] a new repository.
 
