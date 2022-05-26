@@ -8,4 +8,4 @@ Case in point: writing the README first when creating the repository in [[gitlab
 
 - #go https://stackoverflow.com/questions/39761024/refusing-to-merge-unrelated-histories-failure-while-pulling-to-recovered-repos/39783462#39783462
 
-This [[stack overflow]] answer contains the flag you need: `--allow-unrelated-histories`. I guess [[git]] doesn't include it in the error message to prevent people from just tacking it on without knowing what they are doing (just to make the error go away) and having a mess as a result.
+This [[stack overflow]] answer contains the flag you need: `--allow-unrelated-histories`. I guess [[git]] doesn't include it in the error message to prevent people from just tacking it on without knowing what they are doing (just to make the error go away) and having a mess as a result. It only makes sense if not surprising: that is, if you are trying to merge two unrelated repositories.
