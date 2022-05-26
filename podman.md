@@ -34,3 +34,18 @@ Then:
 ```
 podman run -it agora
 ```
+
+To run one interactively, or:
+
+```
+podman create -it --name agora agora
+podman start agora
+```
+
+To start one detached. Then you can:
+
+```
+podman attach agora
+```
+
+...to attach. CTRL-P CTRL-Q to detach gracefully.
