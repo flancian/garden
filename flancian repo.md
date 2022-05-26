@@ -1,3 +1,3 @@
 - a [[project]].
   - [[research]] [[bot]]
-  - [[go/flancian/repo]]
+  - [[go/flancian/repo]] == https://gitlab.com/flancian/flancian
