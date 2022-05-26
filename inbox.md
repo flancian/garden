@@ -1,3 +1,3 @@
 # Inbox
 
-- I see my [[journal]] as my main [[inbox]]; see [[today]] in `journal/`.
+- I see my [[journals]] as my main [[inbox]]; see [[today]] in `journal/`.
