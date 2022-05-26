@@ -1,0 +1,40 @@
+- [[logseq]] is getting slower every day.
+	- thinking about starting to use [[wiki vim]] (not [[vim wiki]], confusingly :)) more regularly.
+	- Update: I was stuck on [[0.5.9]] due to an issue with the AppImage; now manually updated to [[0.7]] and it seems somewhat improved?
+	- #push [[wiki vim]]
+		- now I'm writing this in [[wiki vim]], in which:
+			- ,ww navigates to index.md
+			- ,w,w navigates to the current journal
+			- unfortunately navigating to a wikilink from the journal created the file in journal/, even though I want it in the root.
+			- filed: https://github.com/lervag/wiki.vim/issues/225
+			- already resulted in a nice workaround that I can just plug into my .vimrc :)
+		- It is actually really nice to be able to journal in [[vim]] again.
+			- So responsive!
+			- And I can drop into 'full text/document mode' pretty easily, not to be constrained by [[outliner mode]].
+			- Also I now have a *global* alt-d shortcut for my journal -- that is, pressing alt-d brings up my daily note no matter where I am :)
+		- Next thing missing is pasting media (that is, storing in assets and inserting a link). Thinking about how to solve this.
+			- [[md img paste]] https://github.com/ferrine/md-img-paste.vim might be this :)
+- Looked into managing my [[dotfiles]] in a more structured way again.
+	- [[chezmoi]] is looking fancy and probably worth investing on?
+- [[gitlab]]
+  - Started a [[flancian]] repo: https://gitlab.com/flancian/flancian
+  - [[Dockerfile]] is not there but should be there eventually.
+  - Playing with the Twitter API for my personal account.
+- [[unlicense]]
+- [[agora 3]]
+- [[giacomo sansoni]]
+- [[pomodoros]]
+  - [[chezmoi]]
+  - [[podagora]]
+  - [[building bridges]]
+  - [[sun]]
+
+I feel like I've been [[unlocking]] things, in some sense. I optimized several things which had been bothering me for a while. I feel freed up in a way.
+
+Now it's 18:29 and I'm doing a [[pomodoro]] on [[chezmoi]] and with that I'm calling it with general optimization. Next up is [[podagora]] and in general some [[containers]] work, which on second inspection has to do with the [[flancian repo]] and [[project snapshot]].
+
+I over-rested by staying with [[chezmoi]] as it was fun :)
+
+We also had some snacks/I made tea.
+
+Now it's 19:36 and I'm starting a [[pomodoro]] on [[podagora]].
