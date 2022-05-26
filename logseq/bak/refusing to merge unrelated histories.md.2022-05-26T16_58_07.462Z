@@ -36,15 +36,5 @@ Merge made by the 'recursive' strategy.
  create mode 100644 social/mastodon/README.md
  create mode 100644 social/twitter/README.md
  create mode 100644 social/twitter/apikey.asc
-
-flancian@paramita:~/.local/share/chezmoi$ git push --set-upstream origin main
-Enumerating objects: 21, done.
-Counting objects: 100% (21/21), done.
-Delta compression using up to 16 threads
-Compressing objects: 100% (18/18), done.
-Writing objects: 100% (20/20), 15.27 KiB | 7.64 MiB/s, done.
-Total 20 (delta 2), reused 0 (delta 0), pack-reused 0
-To gitlab.com:flancian/flancian.git
-   a0c4798..230c24d  main -> main
-Branch 'main' set up to track remote branch 'main' from 'origin'.
+flancian@paramita:~/.local/share/chezmoi$ 
 ```
