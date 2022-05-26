@@ -29,19 +29,19 @@ podman build -t agora .
 
 Builds an 'agora' container if there is a [[Dockerfile]] in the path. If you want to force a 'clean' build, pass `--no-cache`; I needed this in the [[Agora Dockerfile]] because I was using `git clone` and this was failing to pull in the latest revisions.
 
-Then:
+Then to run one interactively:
 
 ```
 podman run -it agora
 ```
 
-To run one interactively, or:
+Or to run one detached (server like):
 
 ```
 podman run -dt --name agora agora
 ```
 
-To start one detached. Then you can:
+Then you can:
 
 ```
 podman attach agora
