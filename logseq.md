@@ -19,3 +19,4 @@
 	- [[oauth]] support
 	- [[fission]] https://twitter.com/FISSIONcodes/status/1380313842622717953
 	- [[2022-05]] raised [[4m]]
+    - a bit slow at the ~5k notes range unfortunately. As of [[2022-05-26]] I'm experimenting with using [[wiki vim]] instead, although I do miss some [[logseq]] features.
