@@ -3,7 +3,10 @@
 git config pull.rebase false
 cd ~/garden
 while true; do 
+    git add *md
+    git add journal/*md
+    git commit -a -m 'autopushed'
     git pull
     git push
-    sleep 5
+    sleep 30
 done
