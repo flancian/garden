@@ -1,4 +1,4 @@
-- This is an example of a user contributed [[subnode]].
-    - Any of the Agora [[users]] can contribute to the Agora home page by adding a file named `index.md` to their digital gardens.
+- This is an example of a user contributed [[index]] in the Agora :)
+    - Any of an Agora's  [[users]] can contribute to the Agora home page by adding a file named `index.md` to their digital gardens.
     - Later on ranking/filtering algorithms might need to be implemented. These will be ***open source*** and ***community driven***.
 - I am a [[Flancian]], who are you?
