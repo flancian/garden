@@ -5,12 +5,12 @@
   - [[social coop tech group]] meeting tonight! At [[5pm utc]].
     - I'll try to seed an agenda in the [[stoa]].
     - I didn't but we used the [[stoa]] anyway, I think it works nicely :)
-- #push [[work]]
+- [[work]]
   - [ ] Need to book travel.
   - [ ] Need to renew my ESTA.
   - [x] And more which I shouldn't write about here :)
-- #push [[human]]
-  - (is this a verb? :))
+- [[human]]
+  - (is this a verb?)
   - [x] coffee with [[g]] if we can agree on a time
   - [ ] talk to [[a]]
   - [x] talk to [[b]]
@@ -29,5 +29,5 @@
   - want to [[unhack]] in the sense of automatically support go/x/n for any x with items, direct or in a [[playlist]]
   - #push do
     - [[flash]] -- check how to flash messages, and use it to tell the user what's happening?
-      - [[flash then redirect]] sounds useful, it's what I've been wanting to implement for [[go links]] when there's more than one #go in a node
+    - [[flash then redirect]] sounds useful, it's what I've been wanting to implement for [[go links]] when there's more than one #go in a node
       - you should be able to cancel/override the redirect

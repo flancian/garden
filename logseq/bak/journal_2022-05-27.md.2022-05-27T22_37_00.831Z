@@ -29,5 +29,5 @@
   - want to [[unhack]] in the sense of automatically support go/x/n for any x with items, direct or in a [[playlist]]
   - #push do
     - [[flash]] -- check how to flash messages, and use it to tell the user what's happening?
-      - [[flash then redirect]] sounds useful, it's what I've been wanting to implement for [[go links]] when there's more than one #go in a node
+    - [[flash then redirect]] sounds useful, it's what I've been wanting to implement for [[go links]] when there's more than one #go in a node
       - you should be able to cancel/override the redirect
