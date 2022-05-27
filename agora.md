@@ -14,9 +14,11 @@
 	- This [[agora protocol]] is a set of simple conventions on top of [[plain text]] or other [[supported formats]].
   - #pull [[agora howto]] [[an agora]]
   - [[git]] https://github.com/flancian/agora
-  - #go [[git]]
-  - [[server]] https://github.com/flancian/agora-server
-	- [[bridge]] https://github.com/flancian/agora-bridge
+    - [[root]] https://github.com/flancian/agora
+    - [[server]] https://github.com/flancian/agora-server
+    - [[bridge]] https://github.com/flancian/agora-bridge
+    - #go [[git]]
 	- [[bugs]] https://github.com/flancian/agora/issues
 	- [[bug]] https://github.com/flancian/agora/issues/new
 	- [[nutshell]] https://twitter.com/flancian/status/1487110385446576134
+  - [[protocol]] [[agora protocol]]
