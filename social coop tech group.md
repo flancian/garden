@@ -11,14 +11,11 @@
 			- https://discourse.joinmastodon.org/t/is-it-possible-to-restore-a-deleted-user-account/1945
 			- ran: `mastodon@564f268b311f:~$ tootctl accounts create dkozel --reattach --force --email=derek@bitstovolts.com`
 			- to get to a shell in the right container, ran: `docker exec -it docker_web_1 /bin/bash` in [[runko]]
-		- meet on [[2022-05-20]] 3pm utc
-		- meet on [[2022-05-27]] 5pm utc
+		- [x] meet on [[2022-05-20]] 3pm utc
+		- [x] meet on [[2022-05-27]] 5pm utc
 		- DONE start proposal to move registrations to [[mastodon]] by moving to [[approval required]], wiki process seems unnecessarily involved at this stage
-		  :LOGBOOK:
-		  CLOCK: [2022-05-15 Sun 16:23:48]--[2022-05-15 Sun 16:23:48] =>  00:00:00
-		  :END:
-- [[2022-05-27]] see [[stoa]].
-- [[2022-05-20]] see minutes thread above.
+- [[2022-05-27]] see [[stoa]] below.
+- [[2022-05-20]] see [[go/social coop tech group/minutes]].
 - [[2022-05-13]]
 	- Attending:
 		- [[akshay]]
