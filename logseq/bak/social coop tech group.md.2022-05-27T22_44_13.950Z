@@ -1,0 +1,230 @@
+- a [[group]].
+	- #pull [[social coop]]
+	- [[framadate]] https://framadate.org/social-coop-tech-group
+		- now replaced by built-in [[loomio]] feature
+	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
+	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
+    - see also the [[stoa]] below :)
+	- [[thread]] https://social.coop/web/statuses/108090642475540439
+	- #push [[do]]
+		- DONE help [[derek kozel]] (open chatroom) try to recover his account
+			- https://discourse.joinmastodon.org/t/is-it-possible-to-restore-a-deleted-user-account/1945
+			- ran: `mastodon@564f268b311f:~$ tootctl accounts create dkozel --reattach --force --email=derek@bitstovolts.com`
+			- to get to a shell in the right container, ran: `docker exec -it docker_web_1 /bin/bash` in [[runko]]
+		- meet on [[2022-05-20]] 3pm utc
+		- meet on [[2022-05-27]] 5pm utc
+		- DONE start proposal to move registrations to [[mastodon]] by moving to [[approval required]], wiki process seems unnecessarily involved at this stage
+		  :LOGBOOK:
+		  CLOCK: [2022-05-15 Sun 16:23:48]--[2022-05-15 Sun 16:23:48] =>  00:00:00
+		  :END:
+- [[2022-05-27]] see [[stoa]].
+- [[2022-05-20]] see minutes thread above.
+- [[2022-05-13]]
+	- Attending:
+		- [[akshay]]
+		- [[neil]]
+		- [[noah]] == [[redoak]]
+		- [[eduardo]] == [[flancian]]
+		- [[nick]] == [[nick sellen]]
+		- [[will]] == [[datatitian]]
+	- round the table catching up :)
+		- [[neil]] first time in one of the tech group meetings!
+			- post work on a Friday -- nice to be here!
+		- [[noah]] happy the group seems to be "revived"
+		- [[akshay]] like a Saturday for me due to 80% time :)
+			- [[neil]] +1 here, but not off today
+			- been doing it for a year
+		- [[[noah]]] freelance, working four days a week
+			- Fridays are [[disco coop]] / passion projects
+			- Let's meet in [[immers space]] ;)
+		- [[nick]] here :)
+	- let's seed a potential agenda?
+		- [[noah]] what was discussed at the last meeting?
+			- https://anagora.org/social-coop-tech-group -> https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
+		- [[nick]] handing over the keys, how to be able to disengage before the next meeting
+			- if we have root in social.coop, what else do we need to get full access to all resources?
+			- [[nick]] there's also the password repository, which is based on gpg keys
+			- [[noah]] adding people to the pass repo is maybe the one thing where we surely need nick the most
+			- [[nick]] can add Eduardo to the pass repo
+				- it requires re-encrypting with all keys
+				- need to find the notes on how to do this
+				- [[akshay]] is it worth storing in the repo itself how to do this?
+				- +1
+			- we are pretty confident all credentials are in the pass repo, at least in the past 2-3y everything has been there
+			- there is a lingering domain registration issue
+				- we need to look up the name of the person responsible
+				- [[nick]] enric duran (sp?)
+				- there was discussion of transferring
+				- -> let's find the loomio thread, there was a proposal for where to transfer to https://www.loomio.org/d/Jf5Wi4Ph/domain-expired-social-coop-down
+				- [[noah]] it would ideally be transferred to a collective entity?
+				- probably want to discuss with other working groups
+			- [[akshay]] do we keep track of what we have credentials for?
+				- [[noah]] no separate source except for the pass repo
+				- in short:
+					- admin account in the instance
+					- hetzner
+					- digital ocean for static storage
+					- login for email aliases which is required for git access
+			- we could agree on a time slot and then do some coworking on the pass repo
+				- next week 2h earlier? 4pm London
+			- [[nick]] make sure you have an email alias asap so you can access the git repo so you can do, well, other stuff :)
+				- noah, nick, david have access
+		- welcome GiacomoSansoni!
+			- newbie here!
+			- don't know much about tech (yet)
+			- willing to learn
+		- [flancian] focus areas / learning exercises
+			- mastodon instance (currently on docker)
+				- who does moderation?
+				- there is a moderation group, [[community working group]] does it
+				- [[neil]] is there anything that the tech working group does with registrations?
+				- [[noah]] the wiki runs alongside the mastodon deployment and supports the process
+				- [flancian] why do we do it this way instead of letting people join (with approval) and then following up?
+				- [[noah]] there's the requirement of joining the open collective first, but there is potential for streamlining as long as we have energy in driving :)
+				- [flancian] interested, would like to try to bring this up as a possible improvement -- in particular if we want to make it easier to onboard/grow more
+				- [[neil]] there was discussion about improving the process in the strategy session
+				- [[nick]] there's only one field in registration and that was considered a blocker
+				- [[akshay]] it seems like mastodon in general could benefit from this
+					- +1
+			- backups and restores
+				- secondary server?
+				- [[nick]] there was some effort previously some time ago (https://git.coop/social.coop/tech/ansible/-/merge_requests/12 - although it's more about an instance for testing upgrades, but same principle for restores)
+				- one of the complications was to try to bring up a new instance which isn't federating, which could mess up the fediverse
+				- there's a merge request in git
+				- nicks didn't reach agreement
+				- wu lee (sp?)
+			- new services
+				- has this been brought up?
+				- [[noah]] one of the old meeting minutes has ideas on this front: https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes/35
+				- the obstacle is procedural + organizational: something that enough people want, are willing to have some workload for them
+			- [[akshay]] instance customization
+				- is there interest?
+				- [[noah]] some people are definitely interested
+				- [[noah]] putting together a survey in general would be useful for both gauging this and interest in new services
+				- [[akshay]] themes would also be nice
+				- [[nick]] there was -some- customization previously but it might have been ripped out to lower maintenance cost
+				- [[neil]] in the strategy sessions people mentioned [[hometown]], main feature that was desired seemed to be local only timeline
+				- [[noah]] there is some risk associated with the switch, but it shouldn't be a very involved process. [[hometown]] keeps up with mastodon pretty regularly.
+				- [[darius]] is active in the fediverse and could maybe help out
+				- [[nick]] deployed a hometown instance rencetly, used [[coop cloud]] for it. setting up a parallel second setup might be a good idea. https://coopcloud.tech/
+				- [flancian] is there consensus on whether the community wants that?
+				- [[neil]] no consensus, just has been brought up a few times
+				- [[nick]] as a user, likes the concept but it adds a bit more complexity to the already relatively complex mastodon post visibility options. third party apps don't support it. it works maybe better for technology-engaged communities.
+				- [[noah]] has an alt on dads.cool and it's pretty nice, but it makes sense in the context of that server
+				- [will/datatitian] it's good for complaining among other coopers :)
+		- (breaking here until next time)
+			- [flancian] maintenance pending
+			- [flancian] engagement with other working groups
+				- -> could be related/linked to a solution to gender imbalance/diversity
+			- [[neil]] steps for onboarding new tech WG members
+				- might be linked to focus areas
+			- [flancian] documentation sources of truth, do we have too many? do we share enough with other working groups?
+	- checkout round
+		- [[GiacomoSansoni]]: on customization, could be just put things to a vote on loomio one by one?
+			- +1, this sounds like a good idea
+			- send a notification to everybody on the instance requesting a proposal?
+		- [[noah]] signing off, nice to see you!
+		- [[nick]] glad I joined, climbed out of bed, now need to eat dinner :)
+			- enjoyed it more than I thought!
+				- [flancian] +1
+		- [[neil]] nice to put faces to handles :)
+			- +1
+			- nice to get a start on how the meeting is run, looking forward to next Friday!
+		- [[akshay]] was looking forward to the meeting and enjoyed it, see you next Friday :)
+			- this being the second meeting it feels like the start of something
+- [[2022-04-08]]
+	- Hi all :)
+	- Let's try to keep communal notes here?
+	- [[nick]] == [[nick sellen]] got involved in social.coop during a crisis long ago
+		- saved it from going offline, stabilized for a bit
+		- then david and noah came onboard
+		- not very active in the instance as of late
+		- periodic emergencies
+			- certificate renewal
+		- trying to empower others to join in, but don't have capacity for being really active again for now
+		- in the UK (Bath)
+	- side note: [[gender imbalance]] here pretty obvious
+		- (what do we do about this?)
+	- [[akshay]] been on social.coop for ~1y
+		- mostly lurking :)
+		- saw the certificate thing happen, thought maybe I can help
+		- ops + software development experience
+		- based in [[Berlin]], originally from [[India]]
+	- [[idmyn]] == David
+		- being in the instance for ~4y
+		- joined around the same time the nicks rescued the instance
+		- based in UK
+		- doing some tech bits with [[Noah]] for a while, then dropped off -- mostly here to offer any knowledge that is singly homed in brain :)
+		- focus areas:
+			- [[wiki]]
+			- [[meet.coop]] registration form in the wiki
+	- [[flancian]] == [[Eduardo]]
+		- living in [[switzerland]]
+		- joined a couple of years ago, but not that involved until recently
+		- when recent cert issue happened felt rusty but perhaps they could help out
+		- SRE recently, linux experience
+		- not sure if recent experience is relevant but willing to learn!
+	- [[edsu]] == ed summers
+		- been around for ~4y
+		- use the instance quite a bit, notice when it goes down -- thank you nick for bringing it back every time!
+		- is invested so would love to know more, learn
+		- software developer background, mostly web. working mainly with libraries (in the organization sense) which have digital repositories and a web presence.
+		- love the idea of pitching in to help and this group being a coop.
+	- [[datatitian]] == Will
+		- joined in 2017
+		- got involved with the tech group back then but didn't have a lot of specific experience; now would be interested in trying again
+		- working on immers.space which is activitypub based
+	- [[nick sellen]] love how the recent disruption has served to get people together, shows how as long as we have fundamental organization we can channel energy in the right direction :)
+	- [[nick sellen]] server access
+		- there's a thread on loomio to decide who gets server access, we can use that
+			- https://www.loomio.org/d/jrbG5tue/server-access
+		- we'd vote people in for access and then people can request assistance/more information as needed
+	- [[nick sellen]]
+		- love the coworking/colearning model
+		- really enjoyed learning about the background of others just now
+	- [[flancian]] is there a 'root node' for tech docs/etc.?
+		- [[nick sellen]] https://git.coop/social.coop/tech/operations
+		- assumes social.coop email addresses, but this can be worked around with aliases (check)
+		- we use [[pass]]
+	- [[flancian]] I see we have one server -- do we have a backup server? do we have backup+restore processes?
+		- [[david]] we have database backups but unclear when they have been tested
+		- [[flancian]] what about using this as an exercise in which the "new wave" of admins is tasked with setting up a new server off backups and such?
+	- [[akshay]] what's this [[sauce]] repo mentioned?
+		- [[nick sellen]] the other nick named it after 'special sauce'
+		- in principle it could be all consolidated into ansible
+		- [[docker compose]] setup
+		- the update process involves touching the sauce repo which then somehow results in updates configs making it to prod
+		- [[akshay]] love automation, been doing this for the past few years for employers
+	- [[datatitian]] thinking of oncall schedules for the group -- need not be too granular
+		- [[flancian]] +1, plus having a secondary/backup would make for a simplified learning experience
+		- [[edsu]] would love to join a rotation
+		- [[edsu]] the instance feels pretty stable though, it's a challenge when problems only come about too sporadically
+	- [[edsu]] perhaps other working groups within the coop might be interested in other tools we could provide for them?
+		- [[datatitian]] there's been a long term interest in bridging loomio and mastodon
+		- [[edsu]] issue tracker for FRs?
+		- [[flancian]] [[git.coop]]?
+		- [[akshay]] if access to git.coop is limited, that would be a bit exclusive
+		- [[edsu]] loomio might also be a good platform for this
+		- [[nick sellen]] love the idea about building bridges -- and the oncall sharing
+	- [[edsu]] how did you notice the recent instance problem?
+		- [[nick sellen]] I do use it often enough :) also keep up to date with matrix.
+	- (wrap up round)
+	- [[nick sellen]] happy with this meet, would like to support everyone any way I can
+		- next steps: next call next week
+		- happy to receive more questions over matrix/mastodon/loomio
+	- [[akshay]] already have a git.coop account, would like access to ansible/sauce if possible to see how this works :)
+	- [[david]] happy to see new and familiar faces!
+		- won't be able to make the other call but will stay reachable and happy to answer questions and assist
+	- [[flancian]] thank you for social.coop! happy to meet you all
+		- will read docs, think about where to focus
+		- please feel free to pull me in if you need work on any particular direction
+	- [[edsu]] happy to meet all, would love to learn more about side projects that people have here
+		- would like to learn more about mastodon
+		- do have a git.coop account already, will take a look -- have used ansible before
+		- will tune in next week
+	- [[datatitian]] will start coordinating on loomio focusing on the oncall schedule
+		- [[flancian]] framadate: https://framadate.org/social-coop-tech-group
+			- (this is also on https://anagora.org/social-coop-tech-group, where I keep my notes)
+	- [[akshay]] how to join in loomio?
+		- (people apply)
+	-
