@@ -2,7 +2,7 @@
 	- #pull [[podman]]
 	- These notes track an [[experiment]] in [[hypatia]], one of the [[servers]] of [[flancia collective]].
   - [[Dockerfile]]
-    - in [[go/agora]]
+    - in repository [[go/agora]]
   - Done: we now have a simple but working Dockerfile that bootstraps an Agora. See [[podman]] for instructions.
 
 Loosely structured thoughts: it'd be nice if you could just pass a sources.yaml (or a link to an Agora repo?) to some variation of `podman run` and get an Agora, just like that.
