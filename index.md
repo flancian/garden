@@ -10,3 +10,4 @@
       - [[flancian]]
     - [[idea]]
       - [[flancia]]
+    - [[inbox]]
