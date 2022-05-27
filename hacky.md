@@ -1,0 +1,3 @@
+- An [[agora]] is hacky. If you read the code you'll see.
+  - I like it that way. 
+  - I'd like the Agora code to be hacky but simple and maybe even pretty, in a way.
