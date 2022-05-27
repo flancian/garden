@@ -1,0 +1,3 @@
+- a [[person]].
+  - #pull [[phil wang]]
+  - #go https://github.com/sponsors/lucidrains
