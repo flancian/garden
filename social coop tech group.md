@@ -4,6 +4,7 @@
 		- now replaced by built-in [[loomio]] feature
 	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
 	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
+    - see also the [[stoa]] below :)
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
 	- #push [[do]]
 		- DONE help [[derek kozel]] (open chatroom) try to recover his account
@@ -16,6 +17,8 @@
 		  :LOGBOOK:
 		  CLOCK: [2022-05-15 Sun 16:23:48]--[2022-05-15 Sun 16:23:48] =>  00:00:00
 		  :END:
+- [[2022-05-27]] see [[stoa]].
+- [[2022-05-20]] see minutes thread above.
 - [[2022-05-13]]
 	- Attending:
 		- [[akshay]]
