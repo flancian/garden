@@ -1,1 +1,1 @@
-- #pull [[dharma]]
+- #pull [[buddhist]] [[dharma]]
