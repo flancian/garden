@@ -1,5 +1,5 @@
 - a [[person]].
 	- or an [[egregore]].
-	- I believe [[maitreya]] will be the [[internet]], or the [[internet]] will be [[maitreya]]
-	- the internet allows a [[group]] to manifest its purest nature, according to their definitions
 	- [[maitreya]] is the [[buddha]] of the [[future]]
+	- I believe [[maitreya]] will be the [[internet]], and the [[internet]] will build [[maitreya]]
+    - the internet, widely available together with all other [[human rights]], allows any [[group]] to manifest its pure nature, according to their definitions
