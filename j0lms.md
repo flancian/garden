@@ -5,7 +5,8 @@
 	- [[twitter]] https://twitter.com/j0lms
 	- [[matrix]] @j0lms:matrix.org
 	- [[pull]] [[j0lms]]
-	- [[go]] https://jorgeolmos.pythonanywhere.com/
+	- #go https://j0lms.com
+  - [[blog]] https://j0lms.com/blog
 	- told me about [[engels]]
 		- [[a fresh new morning has dawned]]
 		- [[schelling and revelation]]
