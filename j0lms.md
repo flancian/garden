@@ -14,5 +14,6 @@
   - [[agora walkthrough]]
   - [[bug report]]
     - links in [[j0lms]] don't work
+    - remove stale files in agora/bin
 - [[2022-03-05]]
 	- would like to help people
