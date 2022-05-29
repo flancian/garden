@@ -16,5 +16,6 @@
     - links in [[j0lms]] don't work
     - remove stale files in agora/bin
     - retweets and boosts shouldn't be replied to but could be linked
+    - update agora server typescript instructions
 - [[2022-03-05]]
 	- would like to help people
