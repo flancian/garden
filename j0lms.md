@@ -10,5 +10,9 @@
 	- told me about [[engels]]
 		- [[a fresh new morning has dawned]]
 		- [[schelling and revelation]]
+- [[2022-05-29]]
+  - [[agora walkthrough]]
+  - [[bug report]]
+    - links in [[j0lms]] don't work
 - [[2022-03-05]]
 	- would like to help people
