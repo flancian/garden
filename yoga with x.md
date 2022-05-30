@@ -20,6 +20,7 @@
       - [[fractal yoga]] is a fun (to me anyway) twist :)
 		- [[drive]] https://drive.google.com/drive/u/0/folders/1LbO9OHAaI793g-61wVh13EgE0wxuh3hj
 		- [[doc]] with some more details written but not yet published.
-- maybe also a [[short story]].
+- a [[short story]].
+  - [[maybe]].
   - [[yoga with x story]]
 
