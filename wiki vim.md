@@ -3,7 +3,7 @@
   - #go https://github.com/lervag/wiki.vim
   - #doc https://github.com/lervag/wiki.vim/blob/master/doc/wiki.txt
     - excerpt below
-    - <leader> is , by default
+    - I set <leader> to `,`
   - not to be confused with [[vim wiki]].
   - only thing missing for now is autocomplete for `[[`, which IIUC should be supported -- but I haven't made it play well with [[ncm2]] yet.
     - opened a bug about this :)
