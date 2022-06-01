@@ -1,3 +1,3 @@
 - a [[person]].
   - [[twitter]] https://twitter.com/peterhagen_
-  - #pull [[lindy learn]]
+  - #pull [[lindy learn]] [[lindylearn]]
