@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[friend]].
+  - @ladee@framapiaf.org
+    - [[framapiaf]] is such a beautiful domain name?
