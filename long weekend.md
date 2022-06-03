@@ -1,1 +1,2 @@
 - There's a lot you can get done in a long weekend if you [[focus]].
+- The Agora was coded (in a simple but functional way) over a weekend.
