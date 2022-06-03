@@ -1,0 +1,1 @@
+- There's a lot you can get done in a long weekend if you [[focus]].
