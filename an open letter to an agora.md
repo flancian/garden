@@ -1,1 +1,1 @@
-- #pull [[building bridges]] [[open letters]]
+- #pull [[open letters]] [[building bridges]] 
