@@ -1,0 +1,3 @@
+- a [[pomodoro]].
+	- on [[2022-06-05]].
+	- with [[vscode]] + [[thecla]] in [[agora server]]
