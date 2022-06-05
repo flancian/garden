@@ -1,4 +1,4 @@
 - I love [[google docs]].
   - I use [[docs]] all the time and it's great.
-  - I am sometimes surprised at the weird workflows that people keep alive manually  when Docs essentially solves collaboration for me at work.
+  - I am sometimes surprised at the weird workflows that people keep alive manually  while Docs essentially solves collaboration for me at work.
   - https://twitter.com/jamest_lu/status/1395000805380567046
