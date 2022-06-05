@@ -1,0 +1,4 @@
+- an [[idea]].
+  - I say if you get the choice, you should consider taking a [[walk on the wild side]].
+- a [[song]].
+  - #go https://music.youtube.com/search?q=walk+on+the+wild+side 
