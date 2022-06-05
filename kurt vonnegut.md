@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[friend]]
+    - I've never met him, but I love his books.
+    - #pull [[lonesome no more]] [[slaughterhouse five]]
