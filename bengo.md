@@ -1,0 +1,2 @@
+- a [[person]].
+  - [[fediverse]] @bengo@mastodon.social
