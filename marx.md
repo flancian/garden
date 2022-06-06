@@ -1,4 +1,4 @@
 - a [[person]].
   - #pull [[karl marx]]
 - a [[person]].
-  - #pull [[groucho marx]]
+  - [[groucho marx]]
