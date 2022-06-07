@@ -1,2 +1,3 @@
 - a [[person]].
   - [[friend]]
+  - I think of her often.
