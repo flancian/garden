@@ -18,4 +18,4 @@
 					- now the question is: should this be [[opt out]] to begin with now we have an opt-in/out mechanism?
 					- this might make sense as you need to opt in in the first place by *following [[agora bot]]*, so then opting out whenever the bot does something you don't like (if we make it easy/quick) could be maximally ergonomic.
 						- https://twitter.com/flancian/status/1528149306062127109
-				-
+				- [[move]]
