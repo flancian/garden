@@ -31,9 +31,19 @@ git branch -M main
 git push -u origin main 
 ```
 
-For syncing into a new machine, first install chezmoi as per the above, and then:
+For syncing into a new machine:
 
 ```
+sh -c "`curl -fsLS chezmoi.io/get`"
 chezmoi init https://gitlab.com/flancian/flancian
 chezmoi apply -v
 ```
+
+To upload changes to files already tracked by chezmoi:
+```
+chezmoi readd
+chezmoi cd
+git commit -a -m "chezmoi from $HOSTNAME"
+git push
+```
+
