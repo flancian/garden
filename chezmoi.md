@@ -6,7 +6,7 @@
   - #push [[2022-05-26]] 
     - [[refusing to merge unrelated histories]]
 
-Example for my initial upload:
+Example from my initial upload:
 
 ```
 sh -c "`curl -fsLS chezmoi.io/get`"
@@ -38,7 +38,7 @@ chezmoi apply -v
 To upload changes to files already tracked by chezmoi from any host:
 
 ```
-chezmoi readd
+chezmoi re-add
 chezmoi cd
 git commit -a -m "chezmoi from $HOSTNAME"
 git push
