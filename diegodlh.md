@@ -8,5 +8,3 @@
   - [[fediverse]] @diegodlh@mastodon.social
   - [[push]] [[agora-hypothesis-integration]]
   - [[fellowship of the link]]
-
-
