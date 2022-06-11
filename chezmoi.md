@@ -10,14 +10,10 @@ Example for my initial upload:
 
 ```
 sh -c "`curl -fsLS chezmoi.io/get`"
-ls -atr | egrep '^\.'
 chezmoi add ~/.bashrc
 chezmoi add ~/.vimrc
 chezmoi add ~/.tmux.conf
 chezmoi add ~/.gnupg
-```
-
-```
 chezmoi cd
 git add .
 git commit -m 'Initial commit from paramita."
