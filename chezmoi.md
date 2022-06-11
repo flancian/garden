@@ -9,7 +9,7 @@
 Example for my initial upload:
 
 ```
-sh -c '$(curl -fsLS chezmoi.io/get)'
+sh -c "`curl -fsLS chezmoi.io/get`"
 ls -atr | egrep '^\.'
 chezmoi add ~/.bashrc
 chezmoi add ~/.vimrc
