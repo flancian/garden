@@ -1,1 +1,2 @@
-- Something that slaps is something [[good]], I've come to understand?
+- Something that [[slaps]] is something [[good]], I've come to understand?
+  - It sounded a bit violent at first but now I think of it as something that is so good that feels a bit like a wakeup call -- maybe like a playful slap to the hand, or the cheek?
