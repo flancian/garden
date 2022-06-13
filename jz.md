@@ -1,5 +1,3 @@
 - a [[person]].
   - [[friend]]
-  - I think of them often.
-- a [[letter]].
-  - addressed to them.
+  - I think of her often.
