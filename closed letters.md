@@ -1,5 +1,5 @@
 - a [[list]].
   - These are closed letters only in the sense that I wrote them with a particular person in mind and I'm not cross linking them widely as I usually do.
     - But most of them will probably remain world readable, so strictly speaking [[closed]] is maybe a misnomer?
-    - I just ask you to avert your eyes if you don't like what you read and the letter does not seem addressed to you.
+    - I just ask you to avert your eyes if you don't like what you read and the letter does not seem addressed to you :)
   - #pull [[closed letter]]
