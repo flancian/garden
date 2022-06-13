@@ -1,0 +1,3 @@
+- a [[list]].
+  - These are closed letters only in the sense that I write it for a particular person and I'm not linking it widely like I do link
+  - c.f. [[open letters]].
