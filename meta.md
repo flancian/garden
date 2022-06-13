@@ -1,3 +1,5 @@
-
 - a [[post]].
   - [[go]] https://flancia.org/meta
+- a [[list]].
+  - of [[comments]] about my [[digital garden]], my note taking "system", or the [[Agora]].
+  - a lot of them are elsewhere, tagged [[meta]].
