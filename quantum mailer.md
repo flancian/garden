@@ -1,0 +1,4 @@
+- a [[project]].
+  - #fun
+  - mailer that generates a random number using quantum circuits (just for the flair), and mails out a payload with a certain probability.
+  - e.g. every day there is a 1% chance that a message will go out.
