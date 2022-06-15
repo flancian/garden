@@ -2,3 +2,7 @@
   - #fun
   - mailer that generates a random number using quantum circuits (just for the flair), and mails out a payload with a certain probability.
   - e.g. every day there is a 1% chance that a message will go out.
+  - the easiest way to implement this would be to just use a regular random number generator and then replace it with one or more API calls to [[ibm quantum]] cloud or a similar service.
+  - why [[quantum]]? well, it makes it cooler of course :)
+    - also it lets you think that in other parts of the multiverse other results were observed.
+  - related to [[quantum procrastination]], [[quantum scheduling]].
