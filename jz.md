@@ -1,3 +1,4 @@
 - a [[person]].
   - [[friend]]
   - I think of her often.
+  - she helped me while I was going through my breakup and I'm grateful.
