@@ -5,4 +5,5 @@
   - #push [[agora suggestions]]
     - path discovery: give two nodes, get one or more paths between them
       - like [[six degrees of wikipedia]]
-    - 
+    - [[image galleries]]
+    - [[toggle]] or action to pull images / visual content into the current context
