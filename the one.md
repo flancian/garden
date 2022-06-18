@@ -9,3 +9,6 @@
     - [[toggle]] or action to pull images / visual content into the current context
     - [[people router]] -> [[talent repository]]
     - [[timeline]]
+  - [[projects]]
+    - [[hope]]
+    - [[find a friend]]
