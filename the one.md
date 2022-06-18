@@ -7,4 +7,4 @@
       - like [[six degrees of wikipedia]]
     - [[image galleries]]
     - [[toggle]] or action to pull images / visual content into the current context
-    - [[people router]]
+    - [[people router]] -> [[talent repository]]
