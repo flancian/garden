@@ -8,3 +8,4 @@
     - [[image galleries]]
     - [[toggle]] or action to pull images / visual content into the current context
     - [[people router]] -> [[talent repository]]
+    - [[timeline]]
