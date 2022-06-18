@@ -13,4 +13,5 @@
     - [[zero precedent]]
     - [[hope]]
     - [[find a friend]]
-       - [[juxting]]
+      - https://zeroprecedent.substack.com/p/a-technique-for-generating-endless
+      - [[juxting]]
