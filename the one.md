@@ -2,4 +2,7 @@
   - [[friend]]
   - #pull [[real ez cheese]]
   - [[46278739]]
-  - [[agora suggestions]]
+  - #push [[agora suggestions]]
+    - path discovery: give two nodes, get one or more paths between them
+      - like [[six degrees of wikipedia]]
+    - 
