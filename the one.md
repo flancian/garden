@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[friend]]
+  - #pull [[real ez cheese]]
