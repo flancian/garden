@@ -1,0 +1,2 @@
+- My [[counting practice]] is quite idiosyncratic, but I like it that way.
+  - I count up as I am mindful of my breath in a variation of [[box breathing]] which includes visualization and optionally involves [[factoring]] numbers as I tour a loose/abstract [[mind palace]].
