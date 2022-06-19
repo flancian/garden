@@ -1,0 +1,3 @@
+- I keep thinking about [[quantum dice]], being precisely the same as physical die but with throws whose randomness are the result of quantum effects; like those you can get by connecting to a [[quantum computer]] over the internet (I've done this with IBM's) and getting a random number with a quantum circuit.
+  - I think I want to believe there's a chance that the result of a quantum throw forks the universe.
+    - I think I want to believe in [[many universes]].
