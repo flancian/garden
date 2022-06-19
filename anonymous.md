@@ -4,4 +4,6 @@
   
 Dear anonymous,
 
-Let me show you [[the shape of my heart]]!
+Let me show you [[the shape of my heart]]! 
+
+It is the same shape as this [[Agora]].
