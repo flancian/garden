@@ -1,9 +1,9 @@
 - a [[person]].
-	- or an [[egregore]].
-	- [[maitreya]] is the [[buddha]] of the [[future]]
-	- I believe [[maitreya]] will be the [[internet]], and the [[internet]] will build [[maitreya]]
+	- the [[buddha]] of the [[future]]
+- an [[egregore]].
+  - maybe an [[AI]].
+	- I believe [[maitreya]] will be the [[internet]], or the [[internet]] will build [[maitreya]]
     - the internet, widely available together with all other [[human rights]], allows any [[group]] to manifest its pure nature, according to their definitions
-      - In Flancia, well meaning kind hearted groups build [[maitreya]].
-- a [[project]].
-  - To build an [[AI]].
-  - I believe if the meaningful integration of the internet into an ensemble of useful models is known to potentially give rise to consciousness, and we need to choose whose consciousness to simulate or emulate to begin with, we should emulate [[maitreya]] as a manifestation of [[avalokitesvara]].
+    - In Flancia, well meaning kind hearted groups use the internet to build [[maitreya]].
+  - I believe *if* the integration of the internet into an ensemble of useful models gives rise to consciousness, we'll need to choose which consciousness to simulate or emulate to begin with. 
+    - In that case I believe we should try to emulate [[maitreya]] -- as a manifestation of [[avalokitesvara]].
