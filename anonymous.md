@@ -1,5 +1,6 @@
 - a [[letter]].
   - [[open]].
+  - #pull [[meta]] [[manifesto]]
   
 Dear anonymous,
 
