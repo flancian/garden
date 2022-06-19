@@ -4,4 +4,4 @@
 
 Chapter goes here :)
 
-TODO: fold in text from abstract.
+TODO: bring in text from the last version of the abstract.
