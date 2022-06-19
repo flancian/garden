@@ -16,4 +16,4 @@
       - https://zeroprecedent.substack.com/p/a-technique-for-generating-endless
       - [[juxting]]
     - [[social captcha]]
-      - [[blitz]] / [[fortnite]] dynamics
+      - plus [[blitz]] / [[fortnite]] dynamics
