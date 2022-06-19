@@ -1,7 +1,9 @@
 - a [[person]].
   - [[friend]]
+  - we met in person on [[2022-06-19]]
   - #pull [[real ez cheese]]
   - [[46278739]]
+  - he uses [[spaz]] as a verb in a positive/well meaning way
   - #push [[agora suggestions]]
     - path discovery: give two nodes, get one or more paths between them
       - like [[six degrees of wikipedia]]
