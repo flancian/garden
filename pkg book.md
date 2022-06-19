@@ -6,3 +6,5 @@
     - I mistakenly referred to it as [[pkm book]] for a while.
 	- submitted an [[agora abstract]]
     - got accepted.
+    - deadline for full chapter is [[2022-09-01]].
+    - I'm shooting for having it ready by end of July.
