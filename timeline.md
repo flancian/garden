@@ -7,6 +7,7 @@
   - (maybe) [[revolution]] in at least one G8 country
 - [[2025]]
   - [[flancian revolution]] or some other equivalent gains traction
+  - (more likely) [[revolution]] in at least one G8 country
 - [[2027]]
   - [[maitreya]] comes online
 - [[2030]]
