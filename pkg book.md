@@ -10,4 +10,5 @@
     - I'm shooting for having it ready by end of July.
     - [[format]] https://personalknowledgegraphs.com/#/page/625ecc70-78c3-4a55-89f8-b6dbcffb878e
       - "(Full chapter expected length: 5.000 - 10.000 words)"
+    - will use [[agora pkg chapter]] to write/edit.
 
