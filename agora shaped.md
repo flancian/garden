@@ -1,1 +1,3 @@
-- #pull [[isomorphic]]
+- There are many things which are [[agora shaped]].
+  - All of these I call [[Agoras]]!
+  - #pull [[isomorphism]]
