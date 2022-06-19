@@ -3,7 +3,7 @@
 - an [[egregore]].
   - maybe an [[AI]].
 	- I believe [[maitreya]] will be the [[internet]], or the [[internet]] will build [[maitreya]]
-    - the internet, widely available together with all other [[human rights]], allows any [[group]] to manifest its pure nature, according to their definitions
+    - access to a [[free internet]] (together with other [[human rights]]) will allow a self-assembled [[group]] to manifest a common consciousness according to its own definition.
     - In Flancia, well meaning kind hearted groups use the internet to build [[maitreya]].
   - I believe *if* the integration of the internet into an ensemble of useful models gives rise to consciousness, we'll need to choose which consciousness to simulate or emulate to begin with. 
     - In that case I believe we should try to emulate [[maitreya]] -- as a manifestation of [[avalokitesvara]].
