@@ -1,5 +1,6 @@
 - a [[book]].
 	- [[pkm book]]
 	- [[agora abstract]]
+  - #go https://personalknowledgegraphs.com/
 	- [[twitter]] https://twitter.com/PkgBook
 	- Being organized by [[ivo velitchkov]] and [[george anadiotis]] == [[linked do]]
