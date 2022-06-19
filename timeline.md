@@ -11,5 +11,5 @@
 - [[2027]]
   - [[maitreya]] comes online
 - [[2030]]
-  - [[flancia]] or equivalent achieved or close
+  - [[flancia]] or equivalent achieved or imminent
 
