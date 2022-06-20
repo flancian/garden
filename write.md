@@ -1,8 +1,7 @@
 # Write
 
-- An [[action]].
-  - [[push]] [[do]].
-    - [x] [[write]] to [[will walker]]
+- an [[action]].
+  - #push [[do]].
     - [[write]] to [[hans widmer]]
       - wow, I keep [[procrastinating]] on this
       - [ ] remember [[christopher alexander]]!
@@ -13,5 +12,6 @@
       - [[burning chromium]]
     - [ ] [[write]] [[agora pkg chapter]]
     - #pull [[edit]]
+  - [x] [[write]] to [[will walker]]
 
 
