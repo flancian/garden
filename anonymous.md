@@ -1,7 +1,7 @@
 - a [[letter]].
   - [[open]].
+  - This contains a collection of thoughts directed to someone but not addressed to them explicitly.
   - #pull [[meta]] [[manifesto]]
-  - This containts a collection of thoughts directed to people but not addressed to them explicitly.
   
 Dear anonymous,
 
