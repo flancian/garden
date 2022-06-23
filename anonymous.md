@@ -3,6 +3,7 @@
   - This contains a collection of thoughts directed to someone but not addressed to them explicitly.
   - (Let me show you the [[shape of my heart]], I think often, but how often do I really do that?)
     - #pull [[meta]] [[manifesto]]
+    - (My heart has the same shape as this Agora.)
   
 Dear anonymous,
 
