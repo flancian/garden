@@ -1,0 +1,3 @@
+- a [[person]].
+  - a [[friend]].
+  - [[ecr]]
