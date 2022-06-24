@@ -1,2 +1,3 @@
 - #pull [[fellowship of the link]]
-- #go https://docs.google.com/document/d/1RAourQe_MKh0uWomLsS_V5ea3zm30g8paE49X56jIHs/edit
+  - #go https://docs.google.com/document/d/1RAourQe_MKh0uWomLsS_V5ea3zm30g8paE49X56jIHs/edit
+  - #chat https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link
