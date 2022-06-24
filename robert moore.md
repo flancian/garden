@@ -1,6 +1,7 @@
 - a [[person]].
   - [[comedian]]
-  - met him in [[seattle]].
+  - #push [[robert]]
+    - met him in [[seattle]].
   - #go https://RobertMooreComedy.com
   - he recommended [[kevin hart]], [[eddie murphy]]
   - I'd like to check out one of his shows when I'm back in the area!
