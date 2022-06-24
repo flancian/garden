@@ -1,0 +1,3 @@
+- a [[person]].
+  - #pull [[change the world without taking power]]
+  - [[berni]] told me about him

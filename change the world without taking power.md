@@ -1,0 +1,4 @@
+- a [[book]].
+  - #push [[read]]
+  - https://en.wikipedia.org/wiki/Change_the_World_Without_Taking_Power
+  - #go https://www.goodreads.com/book/show/182864.Change_the_World_Without_Taking_Power
