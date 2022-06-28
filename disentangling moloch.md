@@ -1,0 +1,2 @@
+- #pull [[slaying moloch]]
+  - the corrupt heart of [[moloch]] is entangled with good things which I'd rather save if we can.
