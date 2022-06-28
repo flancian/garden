@@ -3,5 +3,5 @@
   - this Spanish language phrase could be translated in several ways:
   - "the arrows (or darts) of Adam..."
     - "where they land, they land" (they fall by chance)
-    - "where they land, they hit" (where they hit, they do damage)
+    - "where they land, they hit" (if they hit, they do damage)
     - "where they hit, they give" (in an altruistic way, a stretch but I like it)
