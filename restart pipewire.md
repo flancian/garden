@@ -1,2 +1,3 @@
 - a [[command]].
+  - This has worked around all issues I've hit with [[pipewire so far]]; as of [[2022-06]] I probably use it about once a month.
   - `systemctl --user restart pipewire pipewire-pulse`
