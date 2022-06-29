@@ -1,3 +1,4 @@
-- #pull [[sqlite]]
-  - [[go/sqlite/code of ethics]]
-- #pull [[benedictine]]
+- a [[contract]].
+  - #pull [[benedictine order]]
+  - #pull [[sqlite]]
+    - [[go/sqlite/code of ethics]]
