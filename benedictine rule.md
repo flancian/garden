@@ -1,1 +1,2 @@
-- #pull [[sqlite/code of conduct]]
+- #pull [[sqlite]]
+- #pull [[benedictine]]
