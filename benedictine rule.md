@@ -1,2 +1,3 @@
-- #pull [[sqlite/code of ethics]]
+- #pull [[sqlite]]
+  - [[go/sqlite/code of ethics]]
 - #pull [[benedictine]]
