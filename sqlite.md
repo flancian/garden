@@ -1,4 +1,5 @@
 - a [[service]].
   - [[database]].
   - #go https://sqlite.org/codeofethics.html
-  - [[code of conduct]] https://sqlite.org/codeofethics.html
+  - [[code of ethics]] https://sqlite.org/codeofethics.html
+    - #pull [[benedictine rule]]
