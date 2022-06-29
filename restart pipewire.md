@@ -1,0 +1,2 @@
+- a [[command]].
+  - `systemctl --user restart pipewire pipewire-pulse`
