@@ -1,12 +1,11 @@
 # Revolution
 - a [[process]].
-	- #pull [[revolutions]]
-  - In Flancia we slayed [[Moloch]], and by that I mean we [[disentangled]] from them.
+	- #push [[revolutions]]
+      - my current proposal is the [[flancian revolution]], which is designed to be reasonably all-optional (see below).
   - Flancia is meant to be a revolution guided by [[loving kindness]].
-  - In Flancia there is no [[homelessness]].
-  - In Flancia there is no [[poverty]].
-		- ocassionally, but not necessarily in the end, [[disruptive]]?
-			- my current best known proposal is the [[flancia revolution]], which is designed to be reasonably all-optional (see below)
+    - In Flancia we slayed [[Moloch]], and by that I mean we [[disentangled]] from them.
+      - In Flancia there is no [[homelessness]].
+      - In Flancia there is no [[poverty]].
 	- [[wp]] https://en.wikipedia.org/wiki/Revolution
 		- [[quote]] a revolution (Latin: revolutio, "a turn around") is a [[fundamental]] and [[relatively sudden]] change in [[political power]] and political organization which occurs [[when the population revolts against the government]], typically due to perceived [[oppression]] (political, social, economic) or political incompetence.
 	- [[aristotle]] describes two types of [[political revolution]]:
