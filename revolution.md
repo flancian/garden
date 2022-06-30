@@ -6,6 +6,8 @@
     - In Flancia we slayed [[Moloch]], and by that I mean we [[disentangled]] from them.
       - In Flancia there is no [[homelessness]].
       - In Flancia there is no [[poverty]].
+      - In Flancia there is no [[violence]].
+      - In [[Flancia]] we will [[meet]]!
 	- [[wp]] https://en.wikipedia.org/wiki/Revolution
 		- [[quote]] a revolution (Latin: revolutio, "a turn around") is a [[fundamental]] and [[relatively sudden]] change in [[political power]] and political organization which occurs [[when the population revolts against the government]], typically due to perceived [[oppression]] (political, social, economic) or political incompetence.
 	- [[aristotle]] describes two types of [[political revolution]]:
@@ -13,7 +15,7 @@
 		- [[modification]] of an existing constitution.
 	- #pull  [[peter singer]] [[frederick engels]] [[karl marx]] [[hans widmer]]
 	- #pull [[buddha]] [[satyagraha]] [[non violence]]
-	- #push [[revolution in the twenty first century]]
+	- #push [[revolution in the twenty first century]] [[murray bookchin]]
 		- I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
 			- [[protopoi]] is the [[space]] of composable [[atomic revolutions]]; rational and well meaning changes for the better.
 				- we can [[explore]] this space together, and to do so it is that I set out to build [[an agora]].
