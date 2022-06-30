@@ -17,7 +17,7 @@
 	- #pull [[buddha]] [[satyagraha]] [[non violence]]
 	- #pull [[revolution in the twenty first century]] [[murray bookchin]]
 	- #pull [[peter singer]] [[frederick engels]] [[karl marx]] [[hans widmer]]
-  - #pull the [[internet]] yields a thriving [[knowledge commons]]
+  - #pull the [[internet]] will yield a thriving [[knowledge commons]]
   - #push [[protopoi]]
     - I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
     - [[protopoi]] is the [[space]] of composable [[atomic revolutions]]; rational and well meaning changes for the better.
