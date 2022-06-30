@@ -1,1 +1,1 @@
-- Or of low [[complexity]], if not of low [[cost]].
+- Or of low [[complexity]], if not of low [[cost]] or [[difficulty]].
