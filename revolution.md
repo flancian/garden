@@ -2,6 +2,8 @@
 - a [[process]].
 	- #pull [[revolutions]]
   - In Flancia we slayed [[Moloch]].
+  - In Flancia there is no [[homelessness]].
+  - In Flancia there is no [[poverty]].
 	- [[political action]] [[disruptive]]
 		- ocassionally, but not necessarily in the end, [[disruptive]]?
 			- my current best known proposal is the [[flancia revolution]], which is designed to be reasonably all-optional (see below)
