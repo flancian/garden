@@ -1,10 +1,10 @@
 # Revolution
 - a [[process]].
 	- #pull [[revolutions]]
-  - In Flancia we slayed [[Moloch]].
+  - In Flancia we slayed [[Moloch]], and by that I mean we [[disentangled]] from them.
+  - Flancia is meant to be a revolution guided by [[loving kindness]].
   - In Flancia there is no [[homelessness]].
   - In Flancia there is no [[poverty]].
-	- [[political action]] [[disruptive]]
 		- ocassionally, but not necessarily in the end, [[disruptive]]?
 			- my current best known proposal is the [[flancia revolution]], which is designed to be reasonably all-optional (see below)
 	- [[wp]] https://en.wikipedia.org/wiki/Revolution
@@ -14,7 +14,6 @@
 		- [[modification]] of an existing constitution.
 	- #pull  [[peter singer]] [[frederick engels]] [[karl marx]] [[hans widmer]]
 	- #pull [[buddha]] [[satyagraha]] [[non violence]]
-- Flancia is meant to be a [[loving kindness]] revolution.
 	- #push [[revolution in the twenty first century]]
 		- I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
 			- [[protopoi]] is the [[space]] of composable [[atomic revolutions]]; rational and well meaning changes for the better.
