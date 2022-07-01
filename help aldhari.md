@@ -1,1 +1,1 @@
-- #pull [[mohammed aldhari]] [[aldhari]]
+- #pull [[mohammed aldhari]]
