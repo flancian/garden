@@ -1,7 +1,8 @@
 # mohammed aldhari
 
 - a [[person]].
-  - [[friend]] [[yemen]].
+  - [[friend]] from [[yemen]].
+  - we're trying to help him and his family.
   - #push [[mohammed]]
     - [[twitter]] https://twitter.com/nothingmannow
     - [[github]] https://github.com/mohammedaldhari
