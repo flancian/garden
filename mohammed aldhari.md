@@ -7,4 +7,4 @@
     - [[twitter]] https://twitter.com/nothingmannow
     - [[github]] https://github.com/mohammedaldhari
   - in [[flancia collective]].
-
+  - currently in [[india]].
