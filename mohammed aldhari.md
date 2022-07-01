@@ -2,7 +2,8 @@
 
 - a [[person]].
   - [[friend]] [[yemen]].
-  - [[twitter]] https://twitter.com/mohamedahmedalt
-  - [[github]] https://github.com/mohammedaldhari
-  - [[flancia collective]].
+  - #push [[mohammed]]
+    - [[twitter]] https://twitter.com/nothingmannow
+    - [[github]] https://github.com/mohammedaldhari
+  - in [[flancia collective]].
 
