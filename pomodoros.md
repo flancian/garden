@@ -13,4 +13,4 @@
 			- then [[sit down]] or [[stand]] and [[do]].
 			- ([[burn for greater good]])
 
-- as of [[2022-06]] I've been doing more of them.
+- as of [[2022-06]] I've been doing more of them. they work, at runtime and for [[planning]].
