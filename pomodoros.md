@@ -12,3 +12,5 @@
 			- make a [[commitment]].
 			- then [[sit down]] or [[stand]] and [[do]].
 			- ([[burn for greater good]])
+
+- as of [[2022-06]] I've been doing more of them.
