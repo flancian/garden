@@ -10,4 +10,5 @@
   - https://pinafore.social/statuses/105681408588102338
 - [[mediawiki]]
 - [[dokuwiki]]
+- [[moinmoin]]
 
