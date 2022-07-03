@@ -1,8 +1,11 @@
 - a [[draft]].
-  - for [[pkg book]] [[chapter]].
+  - for a [[pkg book]] [[chapter]].
+    - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
   - about the [[agora]] and what we'd like to do with it.
+  - original title (for the abstract): "The Agora is a Social Knowledge Graph"
+  - working title: "An Agora is a social knowledge commons"
 
-# Abstract
+## Abstract
 
 In this chapter we describe an **Agora**, being a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons). 
 
@@ -12,6 +15,6 @@ Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (en
 
 The free and open source reference Agora provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph** based on off-the-shelf components. Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
-# Chapter
+## Chapter
 
-Text goes here :)
+See the [[stoa]] below :)
