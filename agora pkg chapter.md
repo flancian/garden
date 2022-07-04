@@ -18,4 +18,4 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 ## Chapter
 
-See the [[stoa]] below :)
+See the [[stoa]] below :) I'm using it to write it. You can assume that 'anonymous' is me, [[flancian]], although it's an open document (I'll review version control).
