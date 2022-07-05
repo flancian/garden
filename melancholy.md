@@ -2,5 +2,4 @@ I think of the color of the water. I should have realized it was not what I had 
 
 I should have asked you about it but part of me was afraid of believing.
 
-
 [^karlsbad]: I initially wrote "perhaps from Karlsbad", as if wanting to make this into a short story.
