@@ -1,0 +1,2 @@
+- a [[person]].
+  - #pull [[abdullah öcalan]]
