@@ -18,7 +18,7 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 # Chapter
 
-See also the [[stoa]] below which I seeded with the snapshot of the outline I delivered on July 4th to the book editors. Divergences in the stoa and other subnodes are of course most welcome :)
+See also the [[stoa]] below which I seeded with the snapshot of the outline I delivered on [[2022-07-04]] to the book editors. Divergences in the stoa and other subnodes are of course most welcome :)
 
 ## Introduction
 
