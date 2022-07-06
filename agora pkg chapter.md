@@ -20,7 +20,7 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 # Chapter
 
-(See also the [[public document]] below which I seeded with the snapshot of the outline I delivered on [[2022-07-04]] to the book editors. Changes in the [[stoa]] and you contributing other subnodes to this [[node]] are of course most welcome.)
+(See also the [[public document]] below which I seeded with the snapshot of the outline I delivered on [[2022-07-04]] to the book editors. Changes in the [[stoa]] and you contributing other [[subnodes]] are of course most welcome.)
 
 ## Introduction
 
