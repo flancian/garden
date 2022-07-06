@@ -6,7 +6,7 @@
   - working title: "An Agora is a social knowledge commons"
   - expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
 
-## Abstract
+# Abstract
 
 In this chapter we describe an **Agora**, being a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons). 
 
@@ -16,9 +16,10 @@ Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (en
 
 The free and open source reference Agora provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph** based on off-the-shelf components. Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
-## Chapter
+# Chapter
 
-See the [[stoa]] below :) I'm using it to write it. You can assume that 'anonymous' is me, [[flancian]], although it's an open document (I'll review version control).
+See the [[stoa]] below which is [[world writable]] and is seeded with the snapshot of the outline I delivered on July 4th to the book editors. After this point I' 
+
 ## Introduction
 
 - In this chapter we describe an **Agora**, a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons).
