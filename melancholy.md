@@ -2,6 +2,3 @@ I think of the color of the water. I should have realized it was not what I had 
 
 I wanted to ask you about it but part of me was afraid of believing.
 
----
-
-
