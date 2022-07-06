@@ -8,6 +8,8 @@
 
 # Abstract
 
+(As delivered on [[2022-06]] to the book editors.)
+
 In this chapter we describe an **Agora**, being a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons). 
 
 The Agora differs from other projects in the knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains and integrates both personal and group resources and interlinks them liberally. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to sets of resources. Finally, **the reference Agora tries to remain tool, format and platform agnostic**, trying to build first on general conventions common to many tools and platforms in the knowledge space for maximal inclusivity and diversity.
@@ -18,7 +20,7 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 # Chapter
 
-See also the [[stoa]] below which I seeded with the snapshot of the outline I delivered on [[2022-07-04]] to the book editors. Divergences in the stoa and other subnodes are of course most welcome :)
+(See also the [[public document]] below which I seeded with the snapshot of the outline I delivered on [[2022-07-04]] to the book editors. Contributions in the way of changes in the stoa and other subnodes are of course most welcome.)
 
 ## Introduction
 
