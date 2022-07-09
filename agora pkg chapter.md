@@ -33,7 +33,7 @@ The free and open source reference Agora provides a minimum viable implementatio
 - This [[chapter]] describes a [[protocol]] and sets of [[conventions]] and [[contracts]] that can be said to define an Agora. 
 - It also covers a work-in-progress reference software implementation built on the above, developed as [[free software]] and run as [[public service]].
     - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
-- Finally, we cover potential applications in the [[knowledge]] and [[social]] domains of a network built around such conventions and software.
+- Finally, we cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software.
   - This is done in the form of a series of short exploratory essays.
 
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
