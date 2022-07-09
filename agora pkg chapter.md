@@ -3,7 +3,7 @@
     - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
   - about the [[agora]] and what we'd like to do with it.
   - original title (for the abstract): "The Agora is a Social Knowledge Graph"
-  - working title: "An Agora is a social knowledge commons"
+  - working title: "An Agora as a minimum viable knowledge commons"
   - expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
 
 # Abstract
