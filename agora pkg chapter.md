@@ -26,8 +26,8 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 - In this chapter we describe an **Agora**, a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons).
     - An Agora is designed to be a minimum viable cooperative platform that integrates and complements both [[personal knowledge graphs]] and [[social networks]].
-- An Agora stands out from other projects in knowledge graph space in a few ways: 
-    - Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and its targets can be thought of as mapping to collections of resources. 
+- An Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
+    - Whereas links in a personal knowledge graph or wiki usually have a single target (note, page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
     - Whereas a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources into a [[chorus of voices]].
     - Whereas as of the time of writing several tools in the personal knowledge graph space are exploring collaborative editing in their individual way, **the reference Agora tries to be tool, format and platform agnostic** to maximize interoperability and data exchange.
 - This [[chapter]] describes a set of [[conventions]], [[protocols]], and [[contracts]] that can be said to define an Agora. 
