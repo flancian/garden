@@ -35,7 +35,7 @@ The free and open source reference Agora provides a minimum viable implementatio
     - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
 - Finally, we cover potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains in the form of short exploratory essays.
 
-[^chorus]: [[pattern]]: [[chorus of voices]].
+[^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 
 ## Graph definition 
 - Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
