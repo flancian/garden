@@ -30,10 +30,11 @@ The free and open source reference Agora provides a minimum viable implementatio
     - Whereas links in a personal knowledge graph or wiki usually have a single target (note, page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
     - Whereas a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources while preserving distinct voices[^chorus].
     - Whereas (as of the time of writing) several personal knowledge graph tools are exploring collaborative editing in tool-specific ways, **the reference Agora tries to be tool, format and platform agnostic** as much as possible to maximize interoperability and data exchange and thus targets what is believed to be a minimum viable set of conventions.
-- This [[chapter]] describes a [[protocol]] and a set of [[conventions]] and [[contracts]] that can be said to define an Agora. 
-- It also covers a work-in-progress reference implementation developed as free software built on those.
+- This [[chapter]] describes a [[protocol]] and sets of [[conventions]] and [[contracts]] that can be said to define an Agora. 
+- It also covers a work-in-progress reference software implementation built on the above, developed as [[free software]] and run as [[public service]].
     - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
-- Finally, we cover potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains in the form of short exploratory essays.
+- Finally, we cover potential applications in the [[knowledge]] and [[social]] domains of a network built around such conventions and software.
+  - This is done in the form of a series of short exploratory essays.
 
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 
