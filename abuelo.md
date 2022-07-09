@@ -1,2 +1,2 @@
-- [[Eduardo Bargalló]]
-- [[José Ivanec]]
+- [[Eduardo Carlas Bargalló]]
+- [[Tomás Ivanec]]
