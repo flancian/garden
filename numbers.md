@@ -16,3 +16,4 @@
   - #13 [[right conduct]], [[simulation]]
   - #14 [[2 7]], two [[commons]], [[right livelihood]]
   - #15 [[3 5]], [[right effort]], [[merge lights]]
+  - #16 [[2 2 2 2]], [[right mindfulness]], [[fork fork fork fork]]
