@@ -1,7 +1,7 @@
 - a [[document]].
 	- Trying to define a high level [[protocol]], plus a roadmap for a platform or network making use of it.
 	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
-  - I started with [[google docs]] in 2018/2019 and then I tried moving to [[hedgedoc]] but actually I think I might just go back to the [[google doc]]. It's just a rich experience, and several potential collaborators already use it (they left comments).
+  - I started with [[google docs]] in 2019/2020 and then I tried moving to [[hedgedoc]] but actually I think I might just go back to the [[google doc]]. It's just a rich experience, and several potential collaborators already use it (they left comments).
 - a [[convention]].
 	- To communicate with each other with good intent.
 	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
@@ -36,12 +36,14 @@
         - the [[seed]] of this agora is [[go/agora/git]], defining a [[commons]].
         - [[flancia collective]] is the keeper of https://anagora.org.
         - [[agora bridge]], [[agora server]] contain input (write) and output (read) code respectively.
-		- Compatible [[agoras]] are expected to assemble into a greater federated [[agora network]] where they can fork and merge as wanted.
-		- [[agoras]] must communicate clear [[goals]].
+    - #push [[agoras]]
+      - Compatible [[agoras]] are expected to assemble into a greater federated [[agora network]] where they can fork and merge as wanted.
+      - [[agoras]] must communicate clear [[goals]].
 	- [[2020]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
-	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
-	- [[the agora is a markup convention]]
-	- https://twitter.com/flancian/status/1437079533253976066
-	- https://twitter.com/flancian/status/1401526897121574916
-	- https://twitter.com/flancian/status/1393271063224754184
-	- https://twitter.com/flancian/status/1373681988675190785
+	- [[2021]] presented in [[i annotate]], refer to [[go/agora-slides]] or recording if interested.
+    - [[the agora is a markup convention]]
+  - [[twitter]]
+    - https://twitter.com/flancian/status/1437079533253976066
+    - https://twitter.com/flancian/status/1401526897121574916
+    - https://twitter.com/flancian/status/1393271063224754184
+    - https://twitter.com/flancian/status/1373681988675190785
