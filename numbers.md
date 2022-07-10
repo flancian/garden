@@ -18,3 +18,4 @@
   - #15 [[3 5]], [[right effort]], [[merge lights]]
   - #16 [[2 2 2 2]], [[right mindfulness]]
   - #17 [[maitreya]]
+- #pull [[randomness]]
