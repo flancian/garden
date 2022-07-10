@@ -1,1 +1,5 @@
 - #pull [[meditation technique]] [[braids]]
+- #0 [[start here]]
+- #1 [[self]], [[non dualistic]]
+- #2 [[fork]], [[dualistic]]
+- #3 [[merge]], a [[triangle]]
