@@ -2,6 +2,7 @@
 - a [[document]].
 	- Trying to define a high level [[protocol]], plus a roadmap for a platform or network making use of it.
 	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
+  - I started with [[google docs]] in 2018/2019 and then I tried moving to [[hedgedoc]] but actually I think I might just go back to the [[google doc]]. It's just a rich experience, and several potential collaborators already use it (they left comments).
 - a [[convention]].
 	- To communicate with each other with good intent.
 	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
