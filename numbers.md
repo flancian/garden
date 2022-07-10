@@ -4,3 +4,5 @@
 - #2 [[fork]], [[dualistic]]
 - #3 [[merge]], a [[triangle]]
 - #4 [[2 2]], two [[forks]]
+- #5 [[light]], as in a [[die]]
+- #6 [[2 3]], [[fork]] then [[merge]]
