@@ -1,5 +1,6 @@
 # meditation technique
 - a [[process]].
+  - I meditate 10 minutes on [[waking up]], and then 5 or 10 more, most days in the evening.
 	- #pull [[samatha]] [[vipassana]]
 	- [[breath is the palace of buddha]]
 	- While meditating I sometimes do variations on [[box breathing]] combined with [[counting]].
