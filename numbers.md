@@ -1,6 +1,7 @@
 - #pull [[meditation technique]] [[braids]]
+- #push [[mind palace]]
 - #0 [[start here]]
-- #1 [[self]], [[non dualistic]]
+- #1 [[self]], [[non dualistic]], [[breath is the palace of the buddha]]
 - #2 [[fork]], [[dualistic]]
 - #3 [[merge]], a [[triangle]]
 - #4 [[2 2]], two [[forks]]
