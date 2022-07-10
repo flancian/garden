@@ -6,3 +6,6 @@
 - #4 [[2 2]], two [[forks]]
 - #5 [[light]], as in a [[die]]
 - #6 [[2 3]], [[fork]] then [[merge]], [[x with y]]
+- #7 a [[commons]]
+- #8 [[2 2 2]], [[the eightfold path]]
+- #9 [[3 3]], [[loving kindness]]
