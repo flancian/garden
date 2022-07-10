@@ -9,3 +9,4 @@
 - #7 a [[commons]]
 - #8 [[2 2 2]], [[the eightfold path]]
 - #9 [[3 3]], [[loving kindness]]
+- #10 [[2 5]], [[right view]]
