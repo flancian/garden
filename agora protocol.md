@@ -1,4 +1,3 @@
-- # Agora Protocol
 - a [[document]].
 	- Trying to define a high level [[protocol]], plus a roadmap for a platform or network making use of it.
 	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
@@ -15,7 +14,8 @@
 			- Each Agora publishes a set of definitions of intention as expressed by its [[users]].
 			- This Agora is [[rational]], [[pro social]] and [[heterarchical]].
 - a [[protocol]].
-	- the [[agora exchange format]].
+	- could also be just [[agora exchange format]]?
+    - [[federation]] [[knowledge commons]]
 	- [[plain text]] plus [[wikilinks]] as layer 0 (bootstrapping layer).
 		- indented bulleted lists designate a [[heterarchy]].
 		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
