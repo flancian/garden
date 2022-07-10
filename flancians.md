@@ -14,11 +14,11 @@
     - This one tries to be good, is always by default well-intentioned and [[pro-social]].
     - This one believes in the power of the [[commons]].
     - This one is a [[humanist]].
-      - This Flancian believes in the importance of knowledge.
-      - This Flancian seeks the insights of science.
-      - This Flancian follows the [[eightfold path]].
-  - In [[Flancia]], the Flancians pulled off a kind-hearted [[revolution]].
-    - [[pull]] [[perhaps naive]]
+      - This one believes in the importance of knowledge.
+      - This one seeks the insights of science.
+      - This one follows the [[eightfold path]].
+  - In [[Flancia]], Flancians pulled off a kind-hearted [[revolution]].
+    - [[pull]] [[perhaps naive]] [[loving kindness]] [[building bridges]]
   - [[wiki]] https://anagora.org/wiki/Flancians
   - [[pull]] There are other Flancians in [[Flancia Collective]].
 
