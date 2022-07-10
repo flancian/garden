@@ -41,8 +41,9 @@
       - Compatible [[agoras]] are expected to assemble into a greater federated [[agora network]] where they can fork and merge as wanted.
       - [[agoras]] must communicate clear [[goals]].
 	- [[2020]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
-	- [[2021]] presented in [[i annotate]], refer to [[go/agora-slides]] or recording if interested.
     - [[the agora is a markup convention]]
+	- [[2021]] I presented in [[i annotate]], refer to [[go/agora-slides]] or recording if interested.
+  - [[2022]] writing [[agora pkg chapter]]
   - [[twitter]]
     - https://twitter.com/flancian/status/1437079533253976066
     - https://twitter.com/flancian/status/1401526897121574916
