@@ -5,6 +5,10 @@
   - original title (for the abstract): "The Agora is a Social Knowledge Graph"
   - working title: "An Agora is a knowledge commons"
   - expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
+  - [[deadlines]]
+    - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
+    - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
+    - [[submission]] September 1: The final chapter submission.
 
 # Abstract
 
