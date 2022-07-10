@@ -17,8 +17,9 @@
   - for [[federation]].
 	- can be bootstrapped with [[agora exchange format]]?
     - #pull [[knowledge commons]]
-	- [[plain text]] plus [[wikilinks]] as layer 0 (bootstrapping layer).
-		- indented bulleted lists designate a [[heterarchy]].
+	- [[plain text]] plus as layer 0 (bootstrapping layer).
+		- indented bulleted lists designate a useful [[heterarchy]].
+    - [[wikilinks]] and #hashtags at layer 1, plus other link conventions and metadata extensions.
 		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
 			- agora protocol payloads may be exchanged for knowledge for [[free]] in any designated [[agora]].
 			- this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].
