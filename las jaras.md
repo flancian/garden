@@ -1,2 +1,2 @@
-- #pull [[slay | disentangle]] [[moloch]]
-- #pull [[my heart]]
+- I intend to [[slay | disentangle]] [[moloch]]
+  - #pull [[slay moloch]] [[disentangle moloch]]
