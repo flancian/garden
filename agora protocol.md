@@ -35,8 +35,8 @@
         - an [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
         - the [[seed]] of this agora is [[go/agora/git]], defining a [[commons]].
         - [[flancia collective]] is the keeper of https://anagora.org.
-        - [[agora bridge]], [[agora server]] contain input and output code respectively.
-		- compatible [[agoras]] are expected to assemble into an  [[agora network]] in the future where they can fork and federate as as needed.
+        - [[agora bridge]], [[agora server]] contain input (write) and output (read) code respectively.
+		- Compatible [[agoras]] are expected to assemble into a greater federated [[agora network]] where they can fork and merge as wanted.
 		- [[agoras]] must communicate clear [[goals]].
 	- [[2020]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
 	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
