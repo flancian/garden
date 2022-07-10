@@ -28,12 +28,14 @@
 			- [[stoa]] https://stoa.anagora.org/p/stoa
 	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose.
 		- conventions can be optional or necessary and must be marked as such. The default commitment level for this protocol is [[optional]]. [[use must if you must]].
-	- for [[extensions]]
-		- please propose them in the stoa below
-		- or modify the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
-	- the [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
-		- the [[seed]] of this agora is [[go/agora/git]], an [[interlay]].
-			- [[agora server]], [[agora bridge]] and [[flancia collective]] are its keepers.
+	- for [[extensions]]:
+		- push to or modify [[agora rfcs]].
+      - this is as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
+      - #push [[agora]]
+        - an [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
+        - the [[seed]] of this agora is [[go/agora/git]], defining a [[commons]].
+        - [[flancia collective]] is the keeper of https://anagora.org.
+        - [[agora bridge]], [[agora server]] contain input and output code respectively.
 		- compatible [[agoras]] are expected to assemble into an  [[agora network]] in the future where they can fork and federate as as needed.
 		- [[agoras]] must communicate clear [[goals]].
 	- [[2020]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
