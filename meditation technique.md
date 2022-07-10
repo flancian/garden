@@ -1,7 +1,7 @@
 # meditation technique
 - a [[process]].
-  - I meditate 10 minutes on [[waking up]], and then 5 or 10 more, most days in the evening.
-	- #pull [[samatha]] [[vipassana]]
+  - I meditate 10 minutes on [[waking up]], and then 5 or 10 more most days in the evening.
+	- #pull [[samatha]] [[vipassana]] [[buddha nature]]
 	- [[breath is the palace of buddha]]
 	- While meditating I sometimes do variations on [[box breathing]] combined with [[counting]].
 		- It's maybe a bit idiosyncratic but it helps me focus; I'll write more about it in this node.
@@ -22,4 +22,3 @@
 			- It also lets one make use of our body's natural [[parity bit]]: breathing in and out follow each other like odd and even numbers.
 			- I start counting at one, so odd numbers happen when inhaling and even numbers when exhaling.
 			- Interesting noting related to a number takes place on two consecutive edges.
-	-
