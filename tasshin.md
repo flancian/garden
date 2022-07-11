@@ -25,6 +25,6 @@
           - [[agora]]
     - [[writing]]
       - [[fediverse]] vs [[twitter]]
-      - [[addictiveness]] in the context
+      - [[addictive]] but constructive, [[twitter]] like a library
     - [[long term goals]]
     - [[path]]
