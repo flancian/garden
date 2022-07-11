@@ -9,5 +9,12 @@
       - [[reach truth podcast]]
       - #mondegreen [[the reach through podcast]]
     - [[background]]
+      - [[tasshin]] 
+        - liberal arts degree
+        - reading lots
+        - got interested in meditation
+        - lived in a monastery for five years (2 then 3)
+        - now doing independent projects, basically working on three things
+          - spreading love and [[loving kindness]] and [[brahmavihara]]
     - [[long term goals]]
     - [[path]]
