@@ -8,3 +8,6 @@
     - recording a [[podcast]]!
       - [[reach truth podcast]]
       - #mondegreen [[the reach through podcast]]
+    - [[background]]
+    - [[long term goals]]
+    - [[path]]
