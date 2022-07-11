@@ -15,6 +15,6 @@
         - got interested in meditation
         - lived in a monastery for five years (2 then 3)
         - now doing independent projects, basically working on three things
-          - spreading love and [[loving kindness]] and [[brahmavihara]]
+          - spreading love and [[loving kindness]] and the [[brahmaviharas]]
     - [[long term goals]]
     - [[path]]
