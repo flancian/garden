@@ -21,5 +21,6 @@
           - following [[curiosity]]
           - [[empowerment]] (seeing what people's gifts are and trying to help them gift those gifts to the world)
         - [[flancian]]
+    - [[fediverse]]
     - [[long term goals]]
     - [[path]]
