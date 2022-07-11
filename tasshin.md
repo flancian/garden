@@ -29,4 +29,5 @@
       - [[twitter]] would be better as part of a [[commons]]
     - [[long term goals]]
       - [[future]]
+        - [[heavenly realms]] vs [[hell realms]]
     - [[path]]
