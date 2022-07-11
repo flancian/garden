@@ -26,5 +26,6 @@
     - [[writing]]
       - [[fediverse]] vs [[twitter]]
       - [[addictive]] but constructive, [[twitter]] like a library
+      - [[twitter]] would be better as part of a [[commons]]
     - [[long term goals]]
     - [[path]]
