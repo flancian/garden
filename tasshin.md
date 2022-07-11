@@ -21,7 +21,10 @@
           - following [[curiosity]]
           - [[empowerment]] (seeing what people's gifts are and trying to help them gift those gifts to the world)
         - [[flancian]]
+          - [[flancia]]
+          - [[agora]]
     - [[writing]]
       - [[fediverse]] vs [[twitter]]
+      - [[addictiveness]] in the context
     - [[long term goals]]
     - [[path]]
