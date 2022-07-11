@@ -6,5 +6,5 @@
     - [[july]] is catch up time
     - many calls, enjoying many
     - recording a [[podcast]]!
-      - [[the rich truth podcast]]
+      - [[reach truth podcast]]
       - #mondegreen [[the reach through podcast]]
