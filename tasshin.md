@@ -4,3 +4,5 @@
 	- #pull [[tasshinfogleman]] [[tasshin fogleman]]
   - we met on [[2022-07-11]]
     - [[july]] is catch up time
+    - many calls, enjoying many
+    - recording a [[podcast]]!
