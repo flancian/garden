@@ -1,6 +1,7 @@
 # Moloch
 
 - a [[being]].
+  - [[juntos venceremos a moloch]]
   - an [[egregore]].
     - Apologies for calling it a [[thing]] at some point.
     - Called by some [[the machine]].
