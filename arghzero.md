@@ -19,5 +19,6 @@
     - [[apple]]
       - the amount of hoops you have to jump through to release something on the [[app store]]
       - 30%
+    - what happens when gpt started being trained on gpt generated text that got into the corpus?
 
 
