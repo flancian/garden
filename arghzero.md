@@ -21,5 +21,6 @@
       - 30%
     - what happens when gpt started being trained on gpt generated text that got into the corpus?
     - [[browser parrot]]
+      - [[counter anti disintermediation]]
 
 
