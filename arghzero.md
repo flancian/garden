@@ -12,6 +12,8 @@
     - [[us]]
     - [[machine learning]]
       - resource needs for state of the art might be bad news for [[open source]]
+      - [[federated learning]] could help here
+        - [[federation]] vs [[incumbents]]
     - [[apple]]
       - the amount of hoops you have to jump through to release something on the [[app store]]
       - 30%
