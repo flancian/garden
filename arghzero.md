@@ -15,6 +15,7 @@
       - [[federated learning]] could help here
         - [[federation]] vs [[incumbents]]
         - [[ux]] problem
+      - [[federated corpus]] ~ [[agora]]
     - [[apple]]
       - the amount of hoops you have to jump through to release something on the [[app store]]
       - 30%
