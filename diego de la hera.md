@@ -4,3 +4,6 @@
   - comodidad con la biología, relativamente con la física
   - [[heisenberg]]
     - [[physics and philosophy]]
+  - [[flancian]]
+    - [[feynman]]
+  - [[everything everywhere all at once]]
