@@ -6,6 +6,6 @@
   - Self described [[enthusiastic]] [[nerd]] :)
   - Coded a [[roam exporter]]! [[roam2agora]]
   - As of [[2022-06]] working on [[knovigator]].
-  - Forked [[athens]].
+  - Forked [[athens]]!
 
 
