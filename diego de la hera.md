@@ -10,6 +10,7 @@
   - [[quantum computing since democritus]]
   - potential in [[systems integration]]
   - [[topics]]
-    - [[web annotations]]
+    - [[web annotations]] / hypothes.is in particular
     - [[wikimedia]]
+      - gobernancia bastante horizontal
     - [[federation]] between the two?
