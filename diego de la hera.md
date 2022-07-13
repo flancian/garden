@@ -12,5 +12,8 @@
   - [[topics]]
     - [[web annotations]] / hypothes.is in particular
     - [[wikimedia]]
-      - gobernancia bastante horizontal
+      - horizontal governance
+      - a wikipedia wide change would mean:
+        - convincing [[wikimedia foundation]]
+        - convincing the [[wikipedia community]]
     - [[federation]] between the two?
