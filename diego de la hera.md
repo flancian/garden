@@ -19,3 +19,4 @@
     - [[federation]] between the two?
       - for later
     - [[bidi sync]] between annotations and talk page
+    - [[siphons]] ~ [[syphons]]
