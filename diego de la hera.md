@@ -17,3 +17,5 @@
         - convincing [[wikimedia foundation]]
         - convincing the [[wikipedia community]]
     - [[federation]] between the two?
+      - for later
+    - [[bidi sync]] between annotations and talk page
