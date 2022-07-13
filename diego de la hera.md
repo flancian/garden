@@ -1,1 +1,3 @@
 - #pull [[diegodlh]]
+- [[2022-07-13]]
+  - mirada sistémica de la vida / [[fritjof capra]
