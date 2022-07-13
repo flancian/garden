@@ -13,5 +13,6 @@
     - [[machine learning]]
     - [[apple]]
       - the amount of hoops you have to jump through to release something on the [[app store]]
+      - 30%
 
 
