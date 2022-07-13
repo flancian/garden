@@ -7,5 +7,11 @@
   - Coded a [[roam exporter]]! [[roam2agora]]
   - As of [[2022-06]] working on [[knovigator]].
   - Forked [[athens]]!
+  - [[2022-07-13]]
+    - [[google]]
+    - [[us]]
+    - [[machine learning]]
+    - [[apple]]
+      - the amount of hoops you have to jump through to release something on the [[app store]]
 
 
