@@ -15,6 +15,9 @@
       - [[federated learning]] could help here
         - [[federation]] vs [[incumbents]]
         - [[ux]] problem
+          - could be solved with:
+            - [[funding]]
+            - investing in *few* good clients that can connect to many networks
       - [[federated corpus]] ~ [[agora]]
     - [[apple]]
       - the amount of hoops you have to jump through to release something on the [[app store]]
