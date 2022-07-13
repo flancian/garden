@@ -11,6 +11,7 @@
     - [[google]]
     - [[us]]
     - [[machine learning]]
+      - resource needs for state of the art might be bad news for [[open source]]
     - [[apple]]
       - the amount of hoops you have to jump through to release something on the [[app store]]
       - 30%
