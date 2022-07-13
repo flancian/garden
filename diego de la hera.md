@@ -9,3 +9,6 @@
   - [[everything everywhere all at once]]
   - [[quantum computing since democritus]]
   - potential in [[systems integration]]
+  - [[topics]]
+    - [[web annotations]]
+    - [[wikimedia]]
