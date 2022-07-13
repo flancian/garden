@@ -3,3 +3,4 @@
   - mirada sistémica de la vida / [[fritjof capra]
   - comodidad con la biología, relativamente con la física
   - [[heisenberg]]
+    - [[physics and philosophy]]
