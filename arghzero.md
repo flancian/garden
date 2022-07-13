@@ -27,5 +27,4 @@
       - [[counter anti disintermediation]]
     - [[commons]]
       - how to prevent [[enclosure]]?
-
-
+    - [[project snapshot]]
