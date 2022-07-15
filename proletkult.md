@@ -1,0 +1,2 @@
+- a [[genre]].
+  - #go https://en.wikipedia.org/wiki/Proletkult
