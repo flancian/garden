@@ -1,0 +1,1 @@
+- To burn resources for greater good is more akin to running an engine than to lighting fuel.
