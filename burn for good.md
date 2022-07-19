@@ -1,1 +1,2 @@
-- To burn resources for greater good is more akin to running an engine than to lighting fuel.
+- You can burn resources for greater [[good]].
+  - It's more like running an [[engine]] than setting fuel on fire.
