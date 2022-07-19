@@ -1,0 +1,2 @@
+- If you have to burn, [[burn brightly]].
+  - [[burn burn burn]]

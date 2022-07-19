@@ -1,7 +1,7 @@
 - a [[poem]].
   - [[Gone gone]].
-    - [[Gone beyond to the other shore]]
+    - [[Gone beyond to the other shore]].
     - Gone slightly.
-  - [[Gone gone]]
+  - [[Gone gone]].
     - Everybody gone to the other shore.
-    - [[Gone brightly]]
+    - [[Burn brightly]].
