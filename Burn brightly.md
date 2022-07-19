@@ -1,2 +1,4 @@
-- If you have to burn, [[burn brightly]].
-  - [[burn burn burn]]
+- If you have to [[burn]]: 
+  - [[burn kindly]].
+  - [[burn brightly]].
+  - ([[burn burn burn]].)
