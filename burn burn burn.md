@@ -1,2 +1,3 @@
 - A [[poem]].
--   [[burn burn bur n]].[[burn for the greater good]] [[burn kindly]]
+  - [[burn burn burn]].
+  - [[burn for the greater good]] [[burn kindly]]
