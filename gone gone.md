@@ -1,0 +1,7 @@
+- a [[poem]].
+  - [[Gone gone]].
+    - [[Gone beyond to the other shore]]
+    - Gone slightly.
+  - [[Gone gone]]
+    - Everybody gone to the other shore.
+    - [[Gone brightly]]
