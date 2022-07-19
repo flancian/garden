@@ -1,1 +1,2 @@
-- #pull [[burn for the greater good]] [[burn kindly]]
+- A [[poem]].
+-   [[burn burn bur n]].[[burn for the greater good]] [[burn kindly]]
