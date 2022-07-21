@@ -1,4 +1,4 @@
 - a [[brain]].
   - #pull [[jerry michalski]]
   - #go https://www.jerrysbrain.com/
-  - #git where?
+  - #git https://github.com/OpenGlobalMind/fjb-forum.openglobalmind.com/
