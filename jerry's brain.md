@@ -1,2 +1,4 @@
 - a [[brain]].
   - #pull [[jerry michalski]]
+  - #go https://www.jerrysbrain.com/
+  - #git where?
