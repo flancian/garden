@@ -37,12 +37,16 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 ## Introduction
 
-- In this chapter we describe an **[[Agora]]**, a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons).
-    - An Agora is designed to be a minimum viable cooperative platform that integrates and complements both [[personal knowledge graphs]] and [[social networks]].
+- In this chapter we describe an **[[Agora]]**, being four things:
+  - a [[protocol]].
+  - a set of [[data exchange formats]].
+  - a reference [[free software]] implementation of the preceding.
+  - a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons) using all of the above.
+- An Agora is designed to be a minimum viable cooperative platform that integrates and complements both [[personal knowledge graphs]] and [[social networks]].
 - An Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
     - Whereas links in a personal knowledge graph or wiki usually have a single target (note, page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
     - While a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources while preserving distinct voices[^chorus].
-    - As of the time of writing, personal knowledge graph tools are exploring collaborative editing in format- and platform-specific ways. In contrast to this, **the reference Agora tries to be tool, format and platform agnostic** to maximize interoperability and data exchange. This is achieved by targeting a minimum viable set of cross-tool conventions.
+    - As of the time of writing, personal knowledge graph tools are exploring collaborative editing in format- and platform-specific ways. In contrast to this, **the reference Agora implementation described in this chapter tries to be tool, format and platform agnostic** to maximize interoperability and data exchange. This is achieved by targeting a minimum viable set of cross-tool conventions.
 - This [[chapter]] describes a [[protocol]] and sets of [[conventions]] and [[contracts]] that can be said to define an Agora. 
 - It also covers a work-in-progress reference software implementation built on the above, developed as [[free software]] and run as [[public service]].
     - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
