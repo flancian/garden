@@ -2,4 +2,4 @@
   - our [[focus]] as we're aware of our [[consciousness]].
   - #push [[yoga]]
     - our [[gaze]].
-    - #go https://en.wikipedia.org/wiki/Drishti_(yoga)
+  - #go https://en.wikipedia.org/wiki/Drishti_(yoga)
