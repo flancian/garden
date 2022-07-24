@@ -48,7 +48,9 @@ This system has four facets:
   - A set of [[data exchange formats]].
     - #pull [[agora formats]]
   - A reference [[free software]] implementation of a platform built on these.
-  - A **knowledge graph** provisioned and maintained by a community as a self-governing [commons](https://anagora.org/commons), and associated [[services]].
+    - #pull [[an agora]].
+  - A **knowledge graph** provisioned and maintained by a community as a self-governing [commons](https://anagora.org/commons) and associated [[services]].
+    - #pull [[
 - An Agora is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] and, more generally, [[human thought]].
 - An Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
     - Whereas links in a personal knowledge graph or wiki usually have a single target (note, page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
