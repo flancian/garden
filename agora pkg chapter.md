@@ -1,6 +1,6 @@
 - a [[paper]].
-  - for a [[pkg book]] [[chapter]].
-    - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
+  - #push As of [[2022-07-24]] the draft for a [[pkg book]] [[chapter]].
+    - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs.
   - about the [[agora]] and what we'd like to do with it.
   - original title (for the abstract): "The Agora is a Social Knowledge Graph"
   - working title: "An Agora is a knowledge commons"
