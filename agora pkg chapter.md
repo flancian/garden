@@ -40,13 +40,13 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 ## Introduction
 
-- In this chapter we describe an **[[Agora]]**,
+- In this chapter we describe an **[[Agora]]**, a self-governing [[knowledge commons]].
   
 This system has four facets: 
   - A [[protocol]].
   - A set of [[data exchange formats]].
   - A reference [[free software]] implementation of a platform built on the preceding.
-  - A **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons), optionally using all of the above.
+  - A **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons), optionally using the above.
 - An Agora is designed to be a minimum viable cooperative platform that integrates and complements both [[personal knowledge graphs]] and [[social networks]].
 - An Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
     - Whereas links in a personal knowledge graph or wiki usually have a single target (note, page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
