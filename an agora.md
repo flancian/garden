@@ -1,8 +1,8 @@
 # An Agora
 
 - a [[thing]], a [[device]], a [[place]].
-  - [[free software]]
   - #go https://anagora.org
+    - [[free software]]
   - #pull [[anagora]]
     - An [[Agora]] is a [[bag of holding]]
   - #push [[agoras]]
