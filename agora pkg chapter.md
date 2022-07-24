@@ -33,7 +33,7 @@ While links in a personal knowledge graph or wiki usually have a single target, 
 
 **The provided [[free software]] reference Agora tries to remain tool, format and platform agnostic**, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity]. This Agora is run as a [[confederated]] system for [[public good]].
 
-An Agora can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N` (entities an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k` containing **subedges** `SE_0 .. SE_l`, integrated into **edges** `E_0 .. E_k` (known links between entities inferred out of all subnodes) annotated by link context and through [[agora protocol]]). 
+An Agora can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N` (entities an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k` containing **subedges** `SE_0 .. SE_k`, aggregating into **edges** `E_0 .. E_k` (high level known links between entities inferred out of subnodes annotated implicitly via link context and explicitly through [[agora protocol]]). 
 
 An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a **hypergraph**.
 
