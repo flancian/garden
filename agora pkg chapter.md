@@ -24,7 +24,7 @@ This node is longer than the average [[Agora]] node :) It has the following sect
       
 # Abstract
 
-In this chapter we describe an **Agora**, being a multi faceted entity provisioned around a **social knowledge graph** maintained by a self-governing community as a [commons](https://anagora.org/commons). 
+In this [[paper]] we describe an **Agora**, being a free knowledge graph provisioned and maintained by a self-governing community as a [commons](https://anagora.org/commons). 
 
 The differs from other projects in the knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains and integrates both personal and group resources and interlinks them liberally. While links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to sets of resources. Finally, **the reference Agora tries to remain tool, format and platform agnostic**, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity].
 
