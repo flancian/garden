@@ -1,14 +1,15 @@
 - a [[paper]].
   - #push As of [[2022-07-24]] the draft for a [[pkg book]] [[chapter]].
     - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs.
-  - about the [[agora]] and what we'd like to do with it.
-  - original title (for the abstract): "The Agora is a Social Knowledge Graph"
-  - working title: "An Agora is a knowledge commons"
-  - expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
-  - [[deadlines]]
+  - About the [[agora]] and what we'd like to do with it.
+  - Original title (for the abstract): "The Agora is a Social Knowledge Graph"
+  - Working title: "An Agora is a knowledge commons"
+  - Expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
+  - #push [[deadlines]]
     - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
     - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
     - [[submission]] September 1: The final chapter submission.
+  - This block exemplifies [[agora protocol]].
 
 # Meta
 
