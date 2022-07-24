@@ -44,6 +44,7 @@ In this paper we describe an **[[Agora]]**, a free [[knowledge commons]] bootstr
   
 This system has four facets: 
   - A [[protocol]].
+    - #pull [[agora protocol]]
   - A set of [[data exchange formats]].
   - A reference [[free software]] implementation of a platform built on the preceding.
   - A **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons), optionally using the above.
