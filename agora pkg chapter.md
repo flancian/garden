@@ -18,7 +18,7 @@ This node is longer than the average Agora node :) It has the following sections
   - An abstract, which is close to a snapshot of what I delivered in early [[2022-06]] to the book editors. It's meant to be a short stand-alone introduction; maybe it should be merged with the actual introduction below.
   - The actual chapter, which should be 5k-10k words once ready to be delivered (and hopefully coherent by then :)).
 - In the subnode below, sourced from the [[stoa]]:
-  - A snapshot of the chapter outline as it was when I delivered it to editors on July 4. This is a parallel version, writable by any; feel free to edit it in whichever direction you want to take it.
+  - A snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]]. This is now an independently maintained version, writable by any; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
       
 
 # Abstract
