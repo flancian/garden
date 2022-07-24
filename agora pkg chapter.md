@@ -14,10 +14,10 @@
 
 This node is longer than the average Agora node :) It has the following sections:
 
-- In this subnode (text file):
-  - An abstract, which is a snapshot of what I delivered in early [[2022-06]] to the book editors.
-  - The actual chapter, which should be 5k-10k words once ready.
-- In a [[stoa]] subnode below:
+- In this subnode (this text file):
+  - An abstract, which is close to a snapshot of what I delivered in early [[2022-06]] to the book editors. It's meant to be a short stand-alone introduction; maybe it should be merged with the actual introduction below.
+  - The actual chapter, which should be 5k-10k words once ready to be delivered (and hopefully coherent by then :)).
+- In the subnode below, sourced from the [[stoa]]:
   - A snapshot of the chapter outline as it was when I delivered it to editors on July 4. This is a parallel version, writable by any; feel free to edit it in whichever direction you want to take it.
       
 
@@ -30,6 +30,9 @@ The Agora differs from other projects in the knowledge space in a few ways: wher
 Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (entities) and **edges** `E` (known links between entities, optionally annotated). An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a **hypergraph**.
 
 The free and open source reference Agora provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph** based on off-the-shelf components. Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
+
+[^inclusivity]:  
+[^diversity]: 
 
 # Chapter
 
