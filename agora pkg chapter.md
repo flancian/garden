@@ -30,9 +30,9 @@ The Agora differs from other projects in the personal knowledge space in a few w
 
 The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N`[^node] (entities an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k` containing **subedges** `SE_0 .. SE_k`, aggregating into **edges** `E_0 .. E_k` (semantic links between entities inferred out of known subnodes). Edges are annotated implicitly by link context and explicitly via the application of [[agora protocol]]), which is extensible. 
 
-Building on the above and [[free software]], we model and implement a distributed system that provisions social knowledge services.
+Building on the above and [[free software]], we model and detail how to implement a distributed system that provisions social knowledge services. Some of these services and other potential applications of this system are analyzed in this paper.
 
-**The provided [[free software]] reference Agora tries to remain tool, format and platform agnostic**, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity]. This Agora is run as a [[confederated]] system for [[public good]].
+**The provided ]] reference Agora tries to remain tool, format and platform agnostic**, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity]. This Agora is run as a [[confederated]] system for [[public good]].
 
 ## Reference Agora
 
