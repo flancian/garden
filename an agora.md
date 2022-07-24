@@ -1,9 +1,11 @@
 # An Agora
 
 - a [[thing]].
-  - [[bag of holding]] [[garden of forking paths]]
-  - [[pull]] [[anagora]]
+  - [[free software]]
+  - #pull [[anagora]]
+    - An [[Agora]] is a [[bag of holding]]
   - [[push]] [[agoras]]
+    - [[garden of forking paths]]
     - [[go]] https://anagora.org
     - run by [[flancia collective]]
   - this particular [[agora]] is just [[an agora]].
