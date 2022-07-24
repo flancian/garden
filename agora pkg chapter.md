@@ -40,7 +40,7 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 ## Introduction
 
-In this paper we describe an **[[Agora]]**, a self-governing [[knowledge commons]] defined as a subset of the [[internet]], bootstrapped with [[digital gardens]], [[wikis]], and [[free software]].
+In this paper we describe an **[[Agora]]**, a free [[knowledge commons]] bootstrapped on a subset of the [[internet]], optionally integrating [[digital gardens]], [[wikis]] and [[social networks]] using [[free software]].
   
 This system has four facets: 
   - A [[protocol]].
