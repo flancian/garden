@@ -1,0 +1,2 @@
+- a [[thing]].
+  - our [[focus]] as we're aware of our [[consciousness]]; our [[gaze]].
