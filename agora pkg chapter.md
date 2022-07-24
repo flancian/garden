@@ -9,11 +9,11 @@
     - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
     - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
     - [[submission]] September 1: The final chapter submission.
-  - This block exemplifies [[agora protocol]].
+  - #meta the parent block and these children exemplify [[agora protocol]].
 
-# Meta
+# Preamble 
 
-This node is longer than the average Agora node :) It has the following sections:
+This node is longer than the average [[Agora]] node :) It has the following sections:
 
 - In this subnode (this text file):
   - An abstract, which is close to a snapshot of what I delivered in early [[2022-06]] to the book editors. It's meant to be a short stand-alone introduction; maybe it should be merged with the actual introduction below.
