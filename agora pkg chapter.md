@@ -1,4 +1,4 @@
-- a [[draft]].
+- a [[paper]].
   - for a [[pkg book]] [[chapter]].
     - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
   - about the [[agora]] and what we'd like to do with it.
