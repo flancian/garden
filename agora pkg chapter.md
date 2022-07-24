@@ -12,19 +12,16 @@
 
 # Meta
 
-This node is longer than the average Agora node :)
-
-It has the following sections:
+This node is longer than the average Agora node :) It has the following sections:
 
 - In this subnode (text file):
   - An abstract, which is a snapshot of what I delivered in early [[2022-06]] to the book editors.
   - The actual chapter, which should be 5k-10k words once ready.
-- In a [[stoa]] below:
+- In a [[stoa]] subnode below:
   - A snapshot of the chapter outline as it was when I delivered it to editors on July 4. This is a parallel version, writable by any; feel free to edit it in whichever direction you want to take it.
       
 
 # Abstract
-
 
 In this chapter we describe an **Agora**, being a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons). 
 
