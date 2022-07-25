@@ -1,9 +1,8 @@
 # Focus
 - #pull [[drishti]]
+  - My focus is in [[Flancia]] and all [[friends]] and [[things]] in it.
   - [[flancia]]
-    - [[agora] 
-    
-My focus is in [[Flancia]] and all [[friends]] in it.
+    - [[agora]] 
   - Flancia is a project [[for the benefit of all sentient beings]].
 	- My current main public project is the [[agora]], including all subprojects documented in it :)
 - #pull [[awareness]] [[mindfulness]]
