@@ -6,4 +6,6 @@
     - #pull [[flancia]] [[agora]]
     - During the day on weekdays I work for [[Google]] as an [[SRE]].
 - #pull [[awareness]] [[mindfulness]]
-	- I like to ask myself often: [[where's my light]]?
+	- I like to ask myself often as a way of [[concentrating]]: [[where's my light]]?
+    - With this I mean: where are the lights of sentient beings around me that I love, and of those I could love?
+    - Where is our [[center of gravity]], where is our [[focus]]?
