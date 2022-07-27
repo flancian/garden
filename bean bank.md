@@ -1,0 +1,4 @@
+- a [[coffee place]].
+  - my [[favorite]] in [[zürich]].
+  - [[amazing]]
+  - #go https://beanbank.coffee/en
