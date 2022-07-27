@@ -1,6 +1,6 @@
 - a [[place]].
   - amazing [[coffee]].
-    - my [[favorite]] in [[zürich]].
+  - my [[favorite]] in [[zürich]].
   - #go https://beanbank.coffee/en
     - Lagerstrasse 18c, 8004 Zürich
   - #map https://g.page/Specialitycoffee
