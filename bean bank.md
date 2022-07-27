@@ -2,3 +2,5 @@
   - my [[favorite]] in [[zürich]].
   - [[amazing]]
   - #go https://beanbank.coffee/en
+    - Lagerstrasse 18c, 8004 Zürich
+  - #map https://www.google.com/maps/place/Bean+Bank+Coffee+%26+CO/@47.3779004,8.5330302,15z/data=!4m2!3m1!1s0x0:0xd98e5fe125e2fc08?sa=X&ved=2ahUKEwiRkrqogJr5AhXNgv0HHXEuDl8Q_BJ6BAhHEAU
