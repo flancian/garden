@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[singer]]
+  - #go https://anastoneofficial.com/
+  - #song https://qrco.de/bd67bc
