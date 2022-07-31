@@ -1,1 +1,2 @@
-- #pull [[john of nepomuk]]
+- a [[person]].
+  - #pull [[john of nepomuk]]
