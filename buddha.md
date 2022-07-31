@@ -11,4 +11,6 @@
 		- I try to follow the [[eightfold path]].
 		- I try to be a [[bodhisattva]].
   - #born [[lumbini]] [[nepal]]
+    - https://goo.gl/maps/6Uk2vXKVgdc9n5Kb6
   - #awakened [[bodh gaya]] [[india]]
+    - https://www.google.com/maps/place/Bodh+Gaya,+Bihar,+India/@25.1874752,83.6405571,7.71z/data=!4m5!3m4!1s0x39f32c5fbc12ed3d:0x9bbc5dccc57d96e!8m2!3d24.6961343!4d84.9869547
