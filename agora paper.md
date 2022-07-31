@@ -1,1 +1,4 @@
-- #pull [[agora pkg chapter]] [[agora slides]]
+- a [[paper]].
+  - I'm trying to write (as of [[2022-07]].)
+  - As part of the contribution I'm trying to put together for the [[pkg book]].
+  - #pull [[agora pkg chapter]] [[agora slides]]
