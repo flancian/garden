@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[saint]].
+  - patron of [[bridges]]
+  - was drowned in the [[vitava]] river
