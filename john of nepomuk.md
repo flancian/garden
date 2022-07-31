@@ -1,4 +1,5 @@
 - a [[person]].
   - [[saint]].
-  - patron of [[bridges]]
+  - patron of [[bridges]] and against [[calumnies]]
+    - protector from floods and drowning
   - was drowned in the [[vitava]] river
