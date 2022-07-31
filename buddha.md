@@ -10,7 +10,7 @@
       - [[meta]]
         - Ha, I can't believe I hadn't noded Gautama until [[2020-12-11]].
         - As of [[2021-11-20]] this was still clearly a stub.
-      - I believe in [[buddha nature]].
+        - As of [[2021]] I was not sure about my thoughts on many earlier and later [[buddhas]], but I wanted to learn more about them.
       - I try to follow the [[eightfold path]].
       - I try to follow the [[bodhisattva]] path [[for the benefit of all beings]].
-
+      - I believe in [[buddha nature]].
