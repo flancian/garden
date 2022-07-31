@@ -1,12 +1,14 @@
 - A [[person]].
 	- [[philosopher]] [[bodhisattva]] [[arahant]]
-	- [[pull]] [[buddha nature]]
-	- [[shakyamuni]]
+	- [[shakyamuni]] ~ [[gautama]]
 		- I'm not sure about my thoughts on many earlier and later [[buddhas]], but I do believe there are many apart from [[siddharta gautama]].
+  #push [[buddhism]]
 	- I consider myself a [[rational]] [[buddhist]].
 		- [[meta]]
-			- Ha, I can't believe I hadn't noded him until [[2020-12-11]].
+			- Ha, I can't believe I hadn't noded Gautama until [[2020-12-11]].
 			- As of [[2021-11-20]] this was still clearly a stub.
 		- I believe in [[buddha nature]].
 		- I try to follow the [[eightfold path]].
 		- I try to be a [[bodhisattva]].
+  - #born [[lumbini]] [[nepal]]
+  - #awakened [[bodh gaya]] [[india]]
