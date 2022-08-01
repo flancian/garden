@@ -32,7 +32,7 @@ The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set 
 
 An Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains, integrates and interlinks both personal and group resources. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to sets of resources. This is consistent with the general design principle of facilitating storage and retrieval of entity-mapped information towards removing friction from cooperation.
 
-Building on the above and a [[free software]][^reference] implementation, we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably, upholding [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and social implications assuming that the Agora is run as a [[confederated]] system for the [[public good]].
+Building on the above and a [[free software]][^reference] reference implementation of the underlying protocols and data, we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably, upholding [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and social implications assuming that the Agora is run as a [[confederated]] system for the [[public good]].
 
 [^reference]: The provided [[reference Agora]] tries to remain tool, format and platform agnostic**, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity]. 
 [^node]: An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a **hypergraph**.
@@ -42,7 +42,7 @@ Building on the above and a [[free software]][^reference] implementation, we mod
 
 ## Introduction
 
-An Agora is a knowledge graph bootstrapped by a self-governing community using a subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social network]] posts as federated and integrated using [[free software]].
+An Agora is a knowledge graph bootstrapped by a self-governing community using a subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social network]] activity as retrieved and integrated using [[free software]].
   
 The Agora has multiple facets which we will explore in the following pages:
 
