@@ -50,8 +50,8 @@ The Agora has multiple facets which we will explore in the following pages:
     - #pull [[Agora Protocol]]
   - It is a set of importers and converters for supported [[sources]] and [[formats]].
     - #pull [[Agora Bridge]]
-  - It is a [[free software]] implementation of a renderer platform built on the above.
-    - #pull [[agora server]]
+  - It is a [[free software]] implementation of a rendering and integration platform built on the above.
+    - #pull [[Agora Server]]
   - It is a [[social knowledge graph]] provisioned and maintained by a community as a self-governing [commons](https://anagora.org/commons).
     - #pull [[agora]]
 - The provided [[reference agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] and, more generally, [[human thought]].
