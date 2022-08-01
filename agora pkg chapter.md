@@ -14,16 +14,15 @@
 
 # Preamble 
 
-This node is longer than the average [[Agora]] node :) It has multiple sections.
-
-- In this subnode (this text file as a note) you'll find:
-  - An **abstract**, which is based on but is no longer kept close to what I delivered in early [[2022-06]] to the book editors during the chapter selection process. It is meant to be a short comprehensive stand-alone introduction. If this document or a subset of it actually gets published as a paper, this should probably work as its actual abstract.
-  - The actual **chapter text**, including an introduction, which is what should be 5k-10k words once ready to be delivered on [[2022-09-01]].
-- In the subnode below, sourced from the [[stoa]]:
-  - A snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. 
-    - This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
-    - Optionally sign your contributions as per wiki protocol :)
-      
+- This node is longer than the average [[Agora]] node :) It has multiple sections.
+  - In this subnode (this text file as a note) you'll find:
+    - An **abstract**, which is based on but is no longer kept close to what I delivered in early [[2022-06]] to the book editors during the chapter selection process. It is meant to be a short comprehensive stand-alone introduction. If this document or a subset of it actually gets published as a paper, this should probably work as its actual abstract.
+    - The actual **chapter text**, including an introduction, which is what should be 5k-10k words once ready to be delivered on [[2022-09-01]].
+  - In the subnode below, sourced from the [[stoa]]:
+    - A snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. 
+      - This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
+      - Optionally sign your contributions as per wiki protocol :)
+        
 # Abstract
 
 In this [[paper]] we describe an **Agora**, a [[social knowledge graph]] provisioned and maintained by a self-governing community as a [commons](https://anagora.org/commons). 
@@ -32,7 +31,7 @@ The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set 
 
 An Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains, integrates and interlinks both personal and group resources. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to sets of resources. This is consistent with the general design principle of facilitating storage and retrieval of entity-mapped information towards removing friction from cooperation.
 
-Building on the above and a [[free software]][^reference] reference implementation of the underlying protocols and data, we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably, upholding [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and social implications assuming that the Agora is run as a [[confederated]] system for the [[public good]].
+Building on the general principles above and a [[free software]][^reference] reference implementation of the underlying protocols and data, we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably, upholding [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and social implications assuming that the Agora is run as a [[confederated]] system for the [[public good]].
 
 [^reference]: The provided [[reference Agora]] tries to remain tool, format and platform agnostic**, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity]. 
 [^node]: An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a **hypergraph**.
@@ -42,7 +41,7 @@ Building on the above and a [[free software]][^reference] reference implementati
 
 ## Introduction
 
-An Agora is a knowledge graph bootstrapped by a self-governing community using a subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social network]] activity as retrieved and integrated using [[free software]].
+An Agora is a knowledge graph bootstrapped by a self-governing community on a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social network]] activity as retrieved and integrated using [[free software]].
   
 The Agora has multiple facets which we will explore in the following pages:
 
@@ -50,14 +49,10 @@ The Agora has multiple facets which we will explore in the following pages:
     - #pull [[Agora Protocol]][^agora-protocol]
   - A [[free software]] [[reference implementation]] of an integration platform built on the above, including a set of importers and converters for diverse [[sources]] and [[formats]].
     - #pull [[Agora Server]] [[Agora Bridge]]
-  - A [[social graph]] and matching [[knowledge graph]] provisioned and maintained by a community.
+    - The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, writing, as an expression of [[human thought]].
+  - A [[knowledge graph]] provisioned and maintained by a community plus its applications.
     - #pull [[Agora]]
     
-The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, writing, as an expression of [[human thought]].
-
- 
-- It also covers a work-in-progress reference software implementation built on the above, developed as [[free software]] and run as [[public service]].
-  - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
 - Finally, we cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software.
   - This is done in the form of a series of short exploratory essays.
 
@@ -112,6 +107,8 @@ We describe later how this network can integrate with the wider internet ecosyst
   - The Agora reference implementation currently provides JSON and RDF endpoints.
     
 ## Reference implementation
+- This section covers a work-in-progress reference software implementation built on the principles described above, developed as [[free software]] and run as [[public service]].
+  - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
 - Here we cover some details of the provided free and open source reference Agora which provides a minimum viable implementation of the [[underlay]], [[interlay]], and [[overlay]] components of a [[distributed knowledge graph]][^kfg].
 - The reference Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
   - Whereas links in a personal knowledge graph or wiki usually have a single target (a particular note or page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
