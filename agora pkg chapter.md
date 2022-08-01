@@ -42,10 +42,11 @@ Building on the above and [[free software]][^reference], we model and detail how
 
 ## Introduction
 
-In this paper we describe an **[[Agora]]**, a free [[knowledge commons]] bootstrapped on a subset of the [[internet]], optionally integrating [[digital gardens]], [[wikis]] and [[social networks]] using [[free software]].
+In this paper we describe an **[[Agora]]**, a free [[knowledge commons]] bootstrapped by a self-governing community on a subset of the [[internet]]: [[digital gardens]], [[wikis]], [[social networks]] using [[free software]].
   
-This system has four facets: 
-  - A [[protocol]] based on simple conventions.
+The Agora has multiple facets which we will explore in the following pages: 
+
+  - It is a [[protocol]] based on simple conventions.
     - #pull [[agora protocol]]
   - A set of supported [[exchange formats]].
     - #pull [[agora formats]]
