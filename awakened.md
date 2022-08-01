@@ -1,0 +1,3 @@
+- Suddenly I am awakened.
+  - There is no [[anxiety]] left.
+  - Then I ask myself: [[where is my light]]?
