@@ -47,7 +47,8 @@ An Agora can be bootstrapped by a self-governing community on a subset of the [[
 The Agora has multiple facets which we will explore in the following pages in order: 
 
   - It is a high level [[protocol]] for information exchange and cooperation, mostly based on existing conventions.
-    - #pull [[Agora Protocol]]
+    - #pull [[Agora Protocol]] 
+      - The parent block is a demonstration of the text-based protocol that, in an Agora, will result in the entity mentioned being transcluded ("pulled", brought into the current context) after the current resource.
   - It is a set of importers and converters for supported [[sources]] and [[formats]].
     - #pull [[Agora Bridge]]
   - It is a [[free software]] implementation of an integration platform built on the above.
