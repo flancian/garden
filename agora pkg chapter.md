@@ -30,7 +30,7 @@ In this [[paper]] we describe an **Agora**, a [[social knowledge graph]] provisi
 
 The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N`[^node] (entities an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k` containing **subedges** `SE_0 .. SE_k`, aggregating into **edges** `E_0 .. E_k` (semantic links between entities inferred out of known subnodes). Edges are annotated implicitly by link context and explicitly via the application of [[agora protocol]]), which is extensible. 
 
-The Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains and integrates both personal and group resources and actively interlinks them. While links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to sets of resources. This is consistent with a general design criterion of facilitating the retrieval and storing of information and removing friction from cooperation.
+The Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains, integrates and interlinks both personal and group resources. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to sets of resources. This is consistent with a general design criterion of facilitating the storage and retrieval of information and removing friction from cooperation.
 
 Building on the above and [[free software]][^reference], we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably respecting [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and social implications assuming that the Agora is run as a [[confederated]] system for the [[public good]].
 
@@ -42,7 +42,7 @@ Building on the above and [[free software]][^reference], we model and detail how
 
 ## Introduction
 
-The Agora is bootstrapped by a self-governing community on a subset of the [[internet]]: [[digital gardens]], [[wikis]] and [[social networks]] as retrieved and integrated using [[free software]].
+An Agora can be bootstrapped by a self-governing community on a subset of the [[internet]]: [[digital gardens]], [[wikis]] and [[social networks]] as federated and integrated using [[free software]].
   
 The Agora has multiple facets which we will explore in the following pages in order: 
 
