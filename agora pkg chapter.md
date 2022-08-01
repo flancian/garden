@@ -4,13 +4,13 @@
     - Very much looking forward to the book because of others' contributions!
   - This chapter is about the [[Agora]] in general, and about [[an agora]] in particular; and what we'd like to do with them.
   - Original title (for the abstract): "The Agora is a Social Knowledge Graph"
-  - Working title: "The Agora is a free knowledge commons"
+  - Working title: "The Agora is a Free Knowledge Commons"
   - Expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
   - #push [[deadlines]]
     - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
     - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
     - [[submission]] September 1: The final chapter submission.
-  - #meta the parent block and these children exemplify [[agora protocol]].
+  - #meta the parent block and these children exemplify [[agora protocol]] which is in scope for this chapter.
 
 # Preamble 
 
