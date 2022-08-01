@@ -53,7 +53,7 @@ The Agora has multiple facets which we will explore in the following pages:
   - A [[social graph]] and matching [[knowledge graph]] provisioned and maintained by a community.
     - #pull [[Agora]]
     
-The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, writing as an expression of [[human thought]].
+The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, writing, as an expression of [[human thought]].
 
 The reference Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
 
@@ -61,9 +61,8 @@ The reference Agora stands out from other projects in the [[knowledge graph]] sp
   - While a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources while preserving distinct voices[^chorus].
   - As of the time of writing, some personal knowledge graph tools are exploring collaborative editing in format- and platform-specific ways. In contrast to this, **the reference Agora described in this chapter tries to be tool, format and platform agnostic** to maximize interoperability and data exchange and provide utility to users of many tools and systems. This is achieved by targeting a minimum viable set of cross-tool conventions.
   
-
 - It also covers a work-in-progress reference software implementation built on the above, developed as [[free software]] and run as [[public service]].
-    - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
+  - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
 - Finally, we cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software.
   - This is done in the form of a series of short exploratory essays.
 
