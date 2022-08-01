@@ -28,11 +28,9 @@ This node is longer than the average [[Agora]] node :) It has multiple sections.
 
 In this [[paper]] we describe an **Agora**, a [[social knowledge graph]] provisioned and maintained by a self-governing community as a [commons](https://anagora.org/commons). 
 
-The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N`[^node] (entities an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k` containing **subedges** `SE_0 .. SE_k`, aggregating into **edges** `E_0 .. E_k` (semantic links between entities inferred out of known subnodes). Edges are annotated implicitly by link context and explicitly via the application of [[agora protocol]], which is extensible. 
+The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N`[^node] (entities an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k` containing **subedges** `SE_0 .. SE_k`, aggregating into **edges** `E_0 .. E_k` (semantic links between entities inferred out of known subnodes). Edges are annotated implicitly by link context and explicitly via the use of [[agora protocol]], which is extensible and tries to build on existing conventions in the [[personal knowledge management]] space. 
 
-The Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains, integrates and interlinks both personal and group resources. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to sets of resources. This is consistent with a general design criterion of facilitating the storage and retrieval of information and removing friction from cooperation.
-
-Building on the above and [[free software]][^reference], we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably respecting [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and social implications assuming that the Agora is run as a [[confederated]] system for the [[public good]].
+Building on the above and a [[free software]][^reference] implementation, we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably, upholding [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and social implications assuming that the Agora is run as a [[confederated]] system for the [[public good]].
 
 [^reference]: The provided [[reference Agora]] tries to remain tool, format and platform agnostic**, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity]. 
 [^node]: An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a **hypergraph**.
@@ -42,13 +40,14 @@ Building on the above and [[free software]][^reference], we model and detail how
 
 ## Introduction
 
-An Agora can be bootstrapped by a self-governing community on a subset of the [[internet]]: [[digital gardens]], [[wikis]] and [[social networks]] as federated and integrated using [[free software]].
-  
-The Agora has multiple facets which we will explore in the following pages in order: 
+An Agora is a knowledge graph bootstrapped by a self-governing community using a subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social network]] posts as federated and integrated using [[free software]].
 
-  - It is a high level [[protocol]] for information exchange and cooperation, mostly based on existing conventions.
-    - #pull [[Agora Protocol]] 
-      - The parent block is a demonstration of the text-based protocol that, in an Agora, will result in the entity mentioned being transcluded ("pulled", brought into the current context) after the current resource.
+The Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains, integrates and interlinks both personal and group resources. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to sets of resources. This is consistent with the general design principle of facilitating storage and retrieval of entity-mapped information towards removing friction from cooperation.
+  
+The Agora has multiple facets which we will explore in the following pages:
+
+  - It is a high level [[protocol]] for information exchange and cooperation, mostly building on existing conventions and past literature.
+    - #pull [[Agora Protocol]][^agora-protocol]
   - It is a set of importers and converters for supported [[sources]] and [[formats]].
     - #pull [[Agora Bridge]]
   - It is a [[free software]] implementation of an integration platform built on the above.
@@ -71,6 +70,7 @@ This [[chapter]] describes a [[protocol]] and sets of [[conventions]] and [[cont
 - Finally, we cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software.
   - This is done in the form of a series of short exploratory essays.
 
+[^agora-protocol]: This block is a demonstration of the text-based protocol that, in an Agora, will result in the entity mentioned being transcluded ("pulled", brought into the current context) after the current resource.
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 
 ## Graph definition 
