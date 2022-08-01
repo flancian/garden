@@ -21,7 +21,7 @@ This node is longer than the average [[Agora]] node :) It has multiple sections.
   - The actual **chapter text**, including an introduction, which is what should be 5k-10k words once ready to be delivered on [[2022-09-01]].
 - In the subnode below, sourced from the [[stoa]]:
   - A snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. 
-    - This is now an independently maintained version, writable by any; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
+    - This is now an **ndependent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
     - Optionally sign your contributions as per wiki protocol :)
       
 # Abstract
