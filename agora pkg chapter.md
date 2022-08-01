@@ -70,7 +70,7 @@ The reference Agora stands out from other projects in the [[knowledge graph]] sp
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 
 ### Agora Protocol
-This [[section]] describes a [[protocol]] and sets of [[conventions]] and [[contracts]] that can be said to define an Agora. 
+This section describes a [[protocol]] and in particular a set of [[conventions]] and [[contracts]] that can be said to define an Agora. 
 
 - a [[convention]].
 	- To communicate with each other with good intent.
