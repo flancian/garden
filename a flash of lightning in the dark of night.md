@@ -1,0 +1,3 @@
+- a [[book]].
+  - by [[dalai lama]].
+  - #pull [[shantideva]] [[a guide to the bodhisattva's way of life]]

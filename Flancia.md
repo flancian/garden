@@ -1,0 +1,2 @@
+- a [[project]].
+  - [[fully open]] [[transparent]] [[ethical]]
