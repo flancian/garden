@@ -50,10 +50,10 @@ The Agora has multiple facets which we will explore in the following pages:
     - #pull [[Agora Protocol]][^agora-protocol]
   - A [[free software]] [[reference implementation]] of an integration platform built on the above, including a set of importers and converters for diverse [[sources]] and [[formats]].
     - #pull [[Agora Server]] [[Agora Bridge]]
-  - A [[social graph]] and matching [[knowledge graph]] provisioned and maintained using the above.
+  - A [[social graph]] and matching [[knowledge graph]] provisioned and maintained by a community.
     - #pull [[Agora]]
     
-The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, writing and spatial reasoning, as an expression of [[human thought]].
+The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, writing as an expression of [[human thought]].
 
 The reference Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
 
