@@ -1,8 +1,8 @@
 - a [[paper]].
   - #push As of [[2022-07-24]] being produced as the draft for a [[pkg book]] [[chapter]].
-    - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs.
     - Very much looking forward to the book because of others' contributions!
-  - This chapter is about the [[Agora]] in general, and about [[an agora]] in particular; and what we'd like to do with them.
+    - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs.
+  - This chapter is about the [[Agora]] in general, and about [[an agora]] in particular, and what we could maybe do with both of them.
   - Original title (for the abstract): "The Agora is a Social Knowledge Graph"
   - Working title: "The Agora is a Free Knowledge Commons"
   - Expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
@@ -14,14 +14,15 @@
 
 # Preamble 
 
-This node is longer than the average [[Agora]] node :) It has the following sections:
+This node is longer than the average [[Agora]] node :) It has multiple sections.
 
 - In this subnode (this text file as a note) you'll find:
-  - An abstract, which is no longer kept as a snapshot of what I delivered in early [[2022-06]] to the book editors. It's meant to be a short comprehensive stand-alone introduction. If this document or a subset of it gets published as a paper, this should be the actual abstract.
-  - The actual chapter, which should be 5k-10k words once ready to be delivered on [[2022-09-01]] (and coherent by then :)).
+  - An **abstract**, which is based on but is no longer kept close to what I delivered in early [[2022-06]] to the book editors during the chapter selection process. It is meant to be a short comprehensive stand-alone introduction. If this document or a subset of it actually gets published as a paper, this should probably work as its actual abstract.
+  - The actual chapter text, including an introduction, which is what should be 5k-10k words once ready to be delivered on [[2022-09-01]].
 - In the subnode below, sourced from the [[stoa]]:
-  - A snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]]. This is now an independently maintained version, writable by any; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
-  - Optionally sign your contributions.
+  - A snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. 
+    - This is now an independently maintained version, writable by any; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
+    - Optionally sign your contributions as per wiki protocol :)
       
 # Abstract
 
