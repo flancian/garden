@@ -46,14 +46,14 @@ In this paper we describe an **[[Agora]]**, a free [[knowledge commons]] bootstr
   
 The Agora has multiple facets which we will explore in the following pages: 
 
-  - It is a [[protocol]] based on simple conventions.
+  - It is a high level [[protocol]] for information exchange and cooperation mostly based on existing conventions.
     - #pull [[agora protocol]]
-  - A set of supported [[exchange formats]].
-    - #pull [[agora formats]]
-  - A [[free software]] implementation of a platform built on the above.
-    - #pull [[an agora]]
-  - A [[knowledge graph]] provisioned and maintained by a community as a self-governing [commons](https://anagora.org/commons) and associated [[services]].
-    - #pull [[agora graph]]
+  - It is a set of bridges for supported [[sources]] and converters for [[exchange formats]].
+    - #pull [[agora bridge]]
+  - It is a [[free software]] implementation of a renderer platform built on the above.
+    - #pull [[agora server]]
+  - It is a [[social knowledge graph]] provisioned and maintained by a community as a self-governing [commons](https://anagora.org/commons).
+    - #pull [[agora]]
 - The provided [[reference agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] and, more generally, [[human thought]].
 - An Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
     - Whereas links in a personal knowledge graph or wiki usually have a single target (note, page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
