@@ -42,18 +42,18 @@ Building on the above and [[free software]][^reference], we model and detail how
 
 ## Introduction
 
-The reference Agora is bootstrapped by a self-governing community on a subset of the [[internet]]: [[digital gardens]], [[wikis]] and [[social networks]] as retrieved and integrated using [[free software]].
+The Agora is bootstrapped by a self-governing community on a subset of the [[internet]]: [[digital gardens]], [[wikis]] and [[social networks]] as retrieved and integrated using [[free software]].
   
-The Agora has multiple facets which we will explore in the following pages: 
+The Agora has multiple facets which we will explore in the following pages in order: 
 
-  - It is a high level [[protocol]] for information exchange and cooperation mostly based on existing conventions.
+  - It is a high level [[protocol]] for information exchange and cooperation, mostly based on existing conventions.
     - #pull [[Agora Protocol]]
   - It is a set of importers and converters for supported [[sources]] and [[formats]].
     - #pull [[Agora Bridge]]
-  - It is a [[free software]] implementation of a rendering and integration platform built on the above.
+  - It is a [[free software]] implementation of an integration platform built on the above.
     - #pull [[Agora Server]]
-  - It is a [[social knowledge graph]] provisioned and maintained by a community as a self-governing [commons](https://anagora.org/commons).
-    - #pull [[agora]]
+  - It is the [[social graph]] and [[knowledge graph]] provisioned and maintained as a [commons](https://anagora.org/commons) using the above and derived applications thereof.
+    - #pull [[Agora]]
 - The provided [[reference agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] and, more generally, [[human thought]].
 - An Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
     - Whereas links in a personal knowledge graph or wiki usually have a single target (note, page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
