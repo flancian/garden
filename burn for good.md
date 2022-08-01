@@ -1,0 +1,2 @@
+- You can burn resources for greater [[good]].
+  - It's more like running an [[engine]] than setting fuel on [[fire]].

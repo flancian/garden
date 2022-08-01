@@ -1,4 +1,4 @@
 # Liege
 
-- If we [[love]] each other we are each others' liege.
+- When we [[love]] each other we are each others' [[lieges]].
 
