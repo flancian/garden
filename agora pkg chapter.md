@@ -43,52 +43,43 @@ Building on the general principles above and a [[free software]][^reference] ref
 
 An Agora is a knowledge graph bootstrapped by a self-governing community on a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social network]] activity as retrieved and integrated using [[free software]].
   
-The Agora has multiple facets which we will explore in the following pages:
+An Agora has multiple facets which we will explore in the following pages:
 
   - A high level [[protocol]] for information exchange and cooperation, mostly building on conventions already in use in knowledge oriented online communities.
     - #pull [[Agora Protocol]][^agora-protocol]
   - A [[free software]] [[reference implementation]] of an integration platform built on the above, including a set of importers and converters for diverse [[sources]] and [[formats]].
     - #pull [[Agora Server]] [[Agora Bridge]]
-    - The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, writing, as an expression of [[human thought]].
-  - A [[knowledge graph]] provisioned and maintained by a community plus its applications.
+    - The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, any writing done with a [[social stance]].
+  - A free [[knowledge graph]] provisioned and maintained by a community.
     - #pull [[Agora]]
     
-- Finally, we cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software.
-  - This is done in the form of a series of short exploratory essays.
+We then cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software. This is done in the form of a series of short exploratory essays.
 
 [^agora-protocol]: This block is a demonstration of the text-based protocol that, in an Agora, will result in the entity mentioned being transcluded ("pulled", brought into the current context) after the current resource.
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 
 ### Agora Protocol
+
 This section describes a [[protocol]] and in particular a set of [[conventions]] and [[contracts]] that can be said to define an Agora. 
 
-An Agora is any public space that defines itself as such and follows an explicit variation of this Agora Protocol.
+- #push [[agora protocol]]
+  - a [[protocol]].
+    - Based on lightweight conventions for [[knowledge federation]] and the [[data format]] described below.
+    - [[plain text]] as layer 0 (bootstrapping layer).
+      - Collections of indented bulleted lists are sufficient to designate a [[heterarchy]].
+      - This section is an example of [[agora protocol]].
+    - [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
+    - For [[extensions]] to this:
+      - Push your proposals to node [[agora rfcs]].
+        - Other layers are discussed there and settled through a [[governance layer]] specific to each [[agora]] defined by convention.
 
-Individual Agora instances, initially provisioned and maintained by like-minded groups but later moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]].
-
-- a [[protocol]].
-  - Based on lightweight conventions for [[knowledge federation]] and the [[data format]] described below.
-  - [[plain text]] as layer 0 (bootstrapping layer).
-    - indented bulleted lists designate a useful [[heterarchy]].
-  - With the addition of [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
-  - Successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
-  - For [[extensions]] to this:
-    - Push proposals to node [[agora rfcs]].
+An Agora is any public space that defines itself as such and follows an explicit variation of this Agora Protocol. Individual Agora instances, initially provisioned and maintained by like-minded groups in a decentralized model but later likely moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]].
 
 The Agora network is built on a federated protocol to limit the harmfulness of forks. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back best effort.
 
 We describe later how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
-## Graph definition 
-- Being built around a [[knowledge graph]], an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
-  - An Agora [[node]] is a collection; it contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
-    - (But potentially overridden or extended with provided metadata and annotations.)
-    - In this paper each such resource attached to node `N` is known as a **subnode** `N_s`. 
-  - Note that because links can be annotated by context (as they can be considered to be by nearby #tags and [[wikilinks]]), an Agora graph can be said to be a **hypergraph** [^hypergraph].
-
-[^hypergraph]: "Stephen Wolfram likes them." -- see for example https://www.wolframphysics.org/technical-introduction/.
-
-## Data format
+### Data format
 - Layer 0: [[plain text]].
   - Plain text is ubiquituous.
   - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
@@ -105,7 +96,16 @@ We describe later how this network can integrate with the wider internet ecosyst
 - Layer 3: JSON, EDN, RDF, protobufs.
   - In general, data exchange formats.
   - The Agora reference implementation currently provides JSON and RDF endpoints.
-    
+
+### Graph definition 
+- Being built around a [[knowledge graph]], an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
+  - An Agora [[node]] is a collection; it contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
+    - (But potentially overridden or extended with provided metadata and annotations.)
+    - In this paper each such resource attached to node `N` is known as a **subnode** `N_s`. 
+  - Note that because links can be annotated by context (as they can be considered to be by nearby #tags and [[wikilinks]]), an Agora graph can be said to be a **hypergraph** [^hypergraph].
+
+[^hypergraph]: "Stephen Wolfram likes them." -- see for example https://www.wolframphysics.org/technical-introduction/.
+
 ## Reference implementation
 - This section covers a work-in-progress reference software implementation built on the principles described above, developed as [[free software]] and run as [[public service]].
   - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
@@ -123,7 +123,7 @@ We describe later how this network can integrate with the wider internet ecosyst
 - The reference Agora is a simple distributed architecture based on off the shelf components.
   - [[agora root]] is a git repository containing the Agora definition, meaning a base [[contract]] which sets the tone and high level goals of the Agora, and a list of data sources to be recurringly integrated.
   - [[agora bridge]] is a git repository containing connectors and importers for supported data sources.
-      - User controlled [[git]] repositories are the default data source.
+    - User controlled [[git]] repositories are the default data source.
   - [[agora server]] provides a UI supporting querying and composition and [[json]], [[rss]], [[rdf]] endpoints.
     
 ### Data model
@@ -177,4 +177,4 @@ We describe later how this network can integrate with the wider internet ecosyst
 
 To [[Flancia Collective]], [[Agora Discuss]] and the [[Fellowship of the Link]] for discussion and inspiration. 
 
-To my [[friends]] for their support.
+To my [[friends]] for their ongoing support.
