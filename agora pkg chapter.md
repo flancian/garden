@@ -55,12 +55,7 @@ The Agora has multiple facets which we will explore in the following pages:
     
 The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, writing, as an expression of [[human thought]].
 
-The reference Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
-
-  - Whereas links in a personal knowledge graph or wiki usually have a single target (a particular note or page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
-  - While a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources while preserving distinct voices[^chorus].
-  - As of the time of writing, some personal knowledge graph tools are exploring collaborative editing in format- and platform-specific ways. In contrast to this, **the reference Agora described in this chapter tries to be tool, format and platform agnostic** to maximize interoperability and data exchange and provide utility to users of many tools and systems. This is achieved by targeting a minimum viable set of cross-tool conventions.
-  
+ 
 - It also covers a work-in-progress reference software implementation built on the above, developed as [[free software]] and run as [[public service]].
   - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
 - Finally, we cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software.
@@ -72,21 +67,10 @@ The reference Agora stands out from other projects in the [[knowledge graph]] sp
 ### Agora Protocol
 This section describes a [[protocol]] and in particular a set of [[conventions]] and [[contracts]] that can be said to define an Agora. 
 
-- a [[convention]].
-	- To communicate with each other with good intent.
-	- [[text based]]. 
-    - You can use it anywhere you can write down text; no special format requirements.
-	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
-  - [[layer 0]]
-    - Based on [[plain text]].
-		- An Agora is any virtual space you can define in any way you want as long as it is [[explicit]] and by default [[public]].
-			- Each Agora publishes a set of definitions of intention as expressed by its [[users]].
-	- [[layer 1]]
-    - You can use [[wikilinks]]. This expresses an intention to make use the [[wiki protocol]], of which the Agora is a special case.
-		- The reference Agora, in which you are probably reading this, also has some #hashtag support.
-			- This Agora is [[rational]], [[pro social]] and [[heterarchical]].
+An Agora is any public space that defines itself as such and follows an explicit variation of this Agora Protocol.
+
 - a [[protocol]].
-  - based on lightweight conventions for [[knowledge federation]].
+  - based on lightweight conventions for [[knowledge federation]] and the [[data format]] described below.
 	- [[plain text]] plus wikilinks as layer 0 (bootstrapping layer).
 		- indented bulleted lists designate a useful [[heterarchy]].
     - [[wikilinks]] and #hashtags at layer 1, plus other link conventions and metadata extensions.
@@ -101,6 +85,8 @@ This section describes a [[protocol]] and in particular a set of [[conventions]]
       - this is as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
 - The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
 - #pull [[agora protocol]]
+- Individual Agora instances, initially provisioned and maintained by like-minded groups but later moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]]. 
+- We describe below how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 ## Graph definition 
 - Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
@@ -113,26 +99,29 @@ This section describes a [[protocol]] and in particular a set of [[conventions]]
 
 ## Data format
 - Layer 0: [[plain text]].
-    - Plain text is ubiquituous.
-    - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
-    - It can trivially encode outlines.
-        - It can be made to encode trees, like in this example.
-    - It generalizes to binary data.
-        - It can be made to encode arbitrary data via application of uuencode or other encoding conventions.
+  - Plain text is ubiquituous.
+  - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
+  - It can trivially encode outlines.
+    - It can be made to encode trees, like in this example.
+    - Indented bulleted lists designate a useful [[heterarchy]].
+  - It generalizes to binary data.
+    - It can be made to encode arbitrary data via application of uuencode or other encoding conventions.
 - Layer 1: [[markup]] and conventions for cross-referencing and linking.
-    - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
-    - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking. 
-    - Markdown plus [[wikilinks]] is the default Agora layer 1 format.
-    - More generally, this is an [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
+  - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
+  - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking. 
+  - Markdown plus [[wikilinks]] is the default Agora layer 1 format.
+  - More generally, this is an [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
 - Layer 3: JSON, EDN, RDF, protobufs.
-    - In general, data exchange formats.
-    - The Agora reference implementation currently provides JSON and RDF endpoints.
+  - In general, data exchange formats.
+  - The Agora reference implementation currently provides JSON and RDF endpoints.
     
 ## Reference implementation
 - Here we cover some details of the provided free and open source reference Agora which provides a minimum viable implementation of the [[underlay]], [[interlay]], and [[overlay]] components of a [[distributed knowledge graph]][^kfg].
+- The reference Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
+  - Whereas links in a personal knowledge graph or wiki usually have a single target (a particular note or page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
+  - While a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources while preserving distinct voices[^chorus].
+  - As of the time of writing, some personal knowledge graph tools are exploring collaborative editing in format- and platform-specific ways. In contrast to this, **the reference Agora described in this chapter tries to be tool, format and platform agnostic** to maximize interoperability and data exchange and provide utility to users of many tools and systems. This is achieved by targeting a minimum viable set of cross-tool conventions.
   - The reference system is based on off-the-shelf components like git and Markdown. 
-  - Individual Agora instances, initially provisioned and maintained by like-minded groups but later moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]]. 
-  - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 [^kfg]: https://www.knowledgefutures.org/
 
