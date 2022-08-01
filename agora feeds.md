@@ -9,6 +9,7 @@
         - As of [[2022]] this exists: 
           - /feed/node gives you a feed of subnodes in node.
           - /feed/latest gives you an Agora wide feed.
+          - You can join #go https://matrix.to/#/#agora-feeds:matrix.org on matrix if you want to keep track of updates in a chat room.
   - #push [[python]] libraries
     - most popular: [[feedparser]]
     - new contender: [[atoma]]
