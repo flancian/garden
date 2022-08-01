@@ -18,7 +18,7 @@ This node is longer than the average [[Agora]] node :) It has multiple sections.
 
 - In this subnode (this text file as a note) you'll find:
   - An **abstract**, which is based on but is no longer kept close to what I delivered in early [[2022-06]] to the book editors during the chapter selection process. It is meant to be a short comprehensive stand-alone introduction. If this document or a subset of it actually gets published as a paper, this should probably work as its actual abstract.
-  - The actual chapter text, including an introduction, which is what should be 5k-10k words once ready to be delivered on [[2022-09-01]].
+  - The actual **chapter text**, including an introduction, which is what should be 5k-10k words once ready to be delivered on [[2022-09-01]].
 - In the subnode below, sourced from the [[stoa]]:
   - A snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. 
     - This is now an independently maintained version, writable by any; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
@@ -47,9 +47,9 @@ The reference Agora is bootstrapped by a self-governing community on a subset of
 The Agora has multiple facets which we will explore in the following pages: 
 
   - It is a high level [[protocol]] for information exchange and cooperation mostly based on existing conventions.
-    - #pull [[agora protocol]]
-  - It is a set of importers for supported [[sources]] and converters for [[exchange formats]].
-    - #pull [[agora bridge]]
+    - #pull [[Agora Protocol]]
+  - It is a set of importers and converters for supported [[sources]] and [[formats]].
+    - #pull [[Agora Bridge]]
   - It is a [[free software]] implementation of a renderer platform built on the above.
     - #pull [[agora server]]
   - It is a [[social knowledge graph]] provisioned and maintained by a community as a self-governing [commons](https://anagora.org/commons).
