@@ -69,33 +69,30 @@ This section describes a [[protocol]] and in particular a set of [[conventions]]
 
 An Agora is any public space that defines itself as such and follows an explicit variation of this Agora Protocol.
 
-- a [[protocol]].
-  - based on lightweight conventions for [[knowledge federation]] and the [[data format]] described below.
-	- [[plain text]] plus wikilinks as layer 0 (bootstrapping layer).
-		- indented bulleted lists designate a useful [[heterarchy]].
-    - [[wikilinks]] and #hashtags at layer 1, plus other link conventions and metadata extensions.
-		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
-			- agora protocol payloads may be exchanged for knowledge for [[free]] in any designated [[agora]].
-			- this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].
-			- see [[go/agora-slides]] for more.
-		- to see the communally maintained text of the full protocol, please refer to the [[stoa]] below.
-			- [[stoa]] https://stoa.anagora.org/p/stoa
-  - for [[extensions]]:
-		- push to or modify [[agora rfcs]].
-      - this is as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
-- The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
-- #pull [[agora protocol]]
-- Individual Agora instances, initially provisioned and maintained by like-minded groups but later moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]]. 
-- We describe below how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
+Individual Agora instances, initially provisioned and maintained by like-minded groups but later moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]].
+
+- #push [[agora protocol]]
+  - a [[protocol]].
+    - Based on lightweight conventions for [[knowledge federation]] and the [[data format]] described below.
+    - [[plain text]] as layer 0 (bootstrapping layer).
+      - indented bulleted lists designate a useful [[heterarchy]].
+    - With the addition of [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
+    - Successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
+    - For [[extensions]] to this:
+      - Push proposals to node [[agora rfcs]].
+
+The Agora network is built on a federated protocol to limit the harmfulness of forks. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back best effort.
+
+We describe later how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 ## Graph definition 
-- Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
+- Being built around a [[knowledge graph]], an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
   - An Agora [[node]] is a collection; it contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
     - (But potentially overridden or extended with provided metadata and annotations.)
     - In this paper each such resource attached to node `N` is known as a **subnode** `N_s`. 
   - Note that because links can be annotated by context (as they can be considered to be by nearby #tags and [[wikilinks]]), an Agora graph can be said to be a **hypergraph** [^hypergraph].
 
-[^hypergraph]: "Wolfram likes them."
+[^hypergraph]: "Stephen Wolfram likes them." -- see for example https://www.wolframphysics.org/technical-introduction/.
 
 ## Data format
 - Layer 0: [[plain text]].
