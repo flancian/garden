@@ -143,11 +143,10 @@ We describe later how this network can integrate with the wider internet ecosyst
 
 ### Building meaning best effort
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes.
-  - (cover:
-    - [[agora actions]]
-    - #push and #pull
-    - #go links
-    - open source ranking)
+  - #pull [[agora actions]]
+  - #pull [[push]] [[pull]]
+  - #pull [[go links]]
+  - (Details on open source ranking algorithms based on the above go here.)
 
 ### Collaborative world building
 - We seek to provision and maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
@@ -166,9 +165,7 @@ We describe later how this network can integrate with the wider internet ecosyst
 
 ### Coordination problems
 - A working Agora is a [[schelling point]] built around the [[principle of charity]].
-
-### [[Counter anti disintermediation]] through [[adversarial interoperability]]
-- An Agora can be used to solve [[coordination problems]] like those we need to solve to enable users to leave walled gardens and protect the [[commons]] against [[enclosure]] by [[anti disintermediating]] parties.
+- An Agora can be used to solve [[coordination problems]] like those we need to solve to enable users to leave walled gardens and protect the [[commons]] against [[enclosure]] by [[anti disintermediating]] parties. It can be said to be a device for enacting [[counter anti disintermediation]].
   - An Agora provides tries to provide free [[bridges]] to escape [[walled gardens]] with your friends.
   - An Agora can help people regain and maintain control of their data, including their [[social graphs]].
 
