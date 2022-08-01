@@ -90,7 +90,7 @@ This [[section]] describes a [[protocol]] and sets of [[conventions]] and [[cont
   - for [[knowledge federation]].
 	- can be bootstrapped with [[agora exchange format]]?
     - #pull [[knowledge commons]]
-	- [[plain text]] plus as layer 0 (bootstrapping layer).
+	- [[plain text]] plus wikilinks as layer 0 (bootstrapping layer).
 		- indented bulleted lists designate a useful [[heterarchy]].
     - [[wikilinks]] and #hashtags at layer 1, plus other link conventions and metadata extensions.
 		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
