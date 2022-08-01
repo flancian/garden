@@ -71,15 +71,14 @@ An Agora is any public space that defines itself as such and follows an explicit
 
 Individual Agora instances, initially provisioned and maintained by like-minded groups but later moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]].
 
-- #push [[agora protocol]]
-  - a [[protocol]].
-    - Based on lightweight conventions for [[knowledge federation]] and the [[data format]] described below.
-    - [[plain text]] as layer 0 (bootstrapping layer).
-      - indented bulleted lists designate a useful [[heterarchy]].
-    - With the addition of [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
-    - Successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
-    - For [[extensions]] to this:
-      - Push proposals to node [[agora rfcs]].
+- a [[protocol]].
+  - Based on lightweight conventions for [[knowledge federation]] and the [[data format]] described below.
+  - [[plain text]] as layer 0 (bootstrapping layer).
+    - indented bulleted lists designate a useful [[heterarchy]].
+  - With the addition of [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
+  - Successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
+  - For [[extensions]] to this:
+    - Push proposals to node [[agora rfcs]].
 
 The Agora network is built on a federated protocol to limit the harmfulness of forks. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back best effort.
 
@@ -118,7 +117,6 @@ We describe later how this network can integrate with the wider internet ecosyst
   - Whereas links in a personal knowledge graph or wiki usually have a single target (a particular note or page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
   - While a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources while preserving distinct voices[^chorus].
   - As of the time of writing, some personal knowledge graph tools are exploring collaborative editing in format- and platform-specific ways. In contrast to this, **the reference Agora described in this chapter tries to be tool, format and platform agnostic** to maximize interoperability and data exchange and provide utility to users of many tools and systems. This is achieved by targeting a minimum viable set of cross-tool conventions.
-  - The reference system is based on off-the-shelf components like git and Markdown. 
 
 [^kfg]: https://www.knowledgefutures.org/
 
@@ -171,7 +169,7 @@ We describe later how this network can integrate with the wider internet ecosyst
 
 ### Flow problems 
 - #pull [[liquid democracy]] [[network flow]]
-- We bootstrap a [[Universal Basic Income]] experiment using an Agora with a set of simple rules:
+- We seek to bootstrap a [[Universal Basic Income]] experiment using an Agora with a set of simple rules:
   - If you consider yourself under-privileged, you sign up to receive an income.
   - If you consider yourself over-privileged, you sign up to donate an income.
   - Incomes are recurring donations for a set number of months.
