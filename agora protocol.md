@@ -1,3 +1,8 @@
+- a [[thing]].
+  - What *is* Agora Protocol, anyway? Is Protocol even the right word for the concept? 
+  - Is it an entanglement of many things, perhaps, born out of confusion?
+  - If so, allow me to try to [[disentangle it]].
+  - …
 - a [[document]].
 	- Trying to define a high level [[protocol]], plus a roadmap for a platform or network making use of it.
 	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
