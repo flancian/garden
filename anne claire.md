@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[friend]]
+  - I met her recently.
+  - [[dreaming spires]]
