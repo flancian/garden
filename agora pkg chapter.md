@@ -13,7 +13,7 @@
   - #meta the containing block and these children exemplify text based [[agora protocol]] (whose concise description is in scope for this chapter)
     - #pull [[commons]] [[knowledge commons]] [[elinor ostrom]]
     - #pull [[altruism]] [[effective altruism]] [[peter singer]]
-    - #pull [[revolution in the 21st century]] [[murray bookchin]]
+    - #pull [[free software]] [[confederation]] [[adversarial interoperability]] [[revolution in the 21st century]] [[murray bookchin]]
 
 # Preamble 
 
