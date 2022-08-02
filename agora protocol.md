@@ -1,5 +1,5 @@
 - a [[thing]].
-  - What *is* Agora Protocol, anyway? Is Protocol even the right word for the concept? 
+  - What *is* [[Agora Protocol]], anyway? Is [[protocol]] even the right word for what it tries to be? 
   - Is it an entanglement of many things, perhaps, born out of confusion?
   - If so, allow me to try to [[disentangle it]].
   - …
