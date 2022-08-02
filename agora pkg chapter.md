@@ -11,8 +11,9 @@
     - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
     - [[submission]] September 1: The final chapter submission.
   - #meta the containing block and these children exemplify text based [[agora protocol]] (whose concise description is in scope for this chapter)
-  - #pull [[commons]] [[knowledge commons]] [[elinor ostrom]]
-  - #pull [[altruism]] [[effective altruism]] [[peter singer]]
+    - #pull [[commons]] [[knowledge commons]] [[elinor ostrom]]
+    - #pull [[altruism]] [[effective altruism]] [[peter singer]]
+    - #pull [[revolution in the 21st century]] [[murray bookchin]]
 
 # Preamble 
 
