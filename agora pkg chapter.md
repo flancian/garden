@@ -10,8 +10,9 @@
     - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
     - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
     - [[submission]] September 1: The final chapter submission.
-  - #meta the parent block and these children exemplify [[agora protocol]] which is in scope for this chapter.
+  - #meta the containing block and these children exemplify text based [[agora protocol]] (whose concise description is in scope for this chapter)
   - #pull [[commons]] [[knowledge commons]] [[elinor ostrom]]
+  - #pull [[altruism]] [[effective altruism]] [[peter singer]]
 
 # Preamble 
 
