@@ -70,7 +70,7 @@ You probably know Agora Protocol before learning about it: it is meant to reflec
 
 - #push [[agora protocol]]
   - a [[protocol]].
-    - Based on lightweight conventions for [[knowledge federation]] and the [[data format]] described below.
+    - Based on lightweight conventions for [[knowledge federation]] and the [[data formats]] described below.
     - [[plain text]] as layer 0 (bootstrapping layer).
       - This section is an example of [[agora protocol]].
       - Collections of indented bulleted lists are sufficient to designate a [[heterarchy]].
