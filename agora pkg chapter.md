@@ -62,7 +62,6 @@ We then cover potential applications in the [[knowledge]] and [[social]] domains
 
 This section describes a [[protocol]] based on a set of [[conventions]] that can be said to define an Agora. 
 
-
 An Agora is any public space that defines itself as such and follows an explicit variation of this Agora Protocol. Individual Agora instances, initially provisioned and maintained by like-minded groups in a decentralized model but later likely moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]].
 
 The Agora network is built on a federated protocol to limit the harmfulness of forks. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back best effort.
