@@ -1,7 +1,9 @@
 - a [[group]].
   - [[2022-09-06]] at 8:30 EDT
   - [[2022-08-02]]
-    -     [matt noyes]:
+
+```
+ [matt noyes]:
 
     https://pad.disroot.org/p/CWGOpsTeamAgenda#
 
@@ -135,3 +137,4 @@ Tasks
     social.coop at a glance
 
     Eduardo: look into missing registration, agree on a time for onboarding with Sam
+```
