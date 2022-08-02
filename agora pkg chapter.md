@@ -41,8 +41,6 @@ Building on the general principles above and a [[free software]][^reference] ref
 
 [^diversity]: we believe diverse groups and communities are healthier, smarter, safer, stronger.
 
-[^confederation]: The free and open source reference Agora provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph** based on off-the-shelf components. Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
-
 ## Introduction
 
 An Agora is a knowledge graph bootstrapped by a self-governing community on a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social network]] activity as retrieved and integrated using [[free software]].
