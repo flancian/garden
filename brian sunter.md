@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[software engineer]] [[knowledge management]]
+  - #twitter https://twitter.com/bsunter
