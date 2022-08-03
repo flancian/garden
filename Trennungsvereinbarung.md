@@ -2,3 +2,4 @@
   - with [[l]]
   - one of many :)
   - #go https://www.gerichte-zh.ch/fileadmin/user_upload/Dokumente/Themen/Ehe_und_Familie/Formulare_und_Merkblaetter/Mu_Trennungsvereinbarung_Eheschutz_mit_Kinderbelangen_VorlagePDF.pdf
+  - #muster https://www.gerichte-zh.ch/themen/ehe-und-familie/eheschutz/mustervereinbarungen.html
