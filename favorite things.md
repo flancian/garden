@@ -1,1 +1,2 @@
-- #pull [[love]] [[freedom]] [[agora]] [[flancia]]
+- #push [[things]]
+  - #pull [[love]] [[freedom]] [[flancia]] [[agora]]
