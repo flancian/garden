@@ -1,6 +1,2 @@
-# Red Oak
-
 - A [[person]].
-- In [[social.coop]].
-
-
+  - In [[social.coop]], [[social coop tech group]].
