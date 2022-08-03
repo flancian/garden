@@ -2,3 +2,4 @@
   - for [[social coop]].
   - [[mica]] reported issues with registration: https://social.coop/web/statuses/108760179078515903
   - [[red oak]] found the registration in the [[spam trap]]!
+  - then I tried to reproduce: https://social.coop/web/statuses/108761229581526764
