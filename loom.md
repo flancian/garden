@@ -1,0 +1,4 @@
+- a [[game]].
+  - [[adventure]].
+  - One of my [[favorite]] of all time.
+  - [[lucasfilm games]] ~ [[lucasarts]]
