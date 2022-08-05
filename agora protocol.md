@@ -17,7 +17,8 @@
       - In [[email]].
       - In [[wikis]].
       - In [[social networks]].
-    - An Agora welcomes all formats a priori.
+    - Using this protocol we can define [[an Agora]].
+      - An [[Agora]] welcomes all [[people]] and [[formats]] a priori.
 	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
   - [[layer 0]]
 	- [[layer 1]]
