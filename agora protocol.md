@@ -14,6 +14,7 @@
 	- [[text based]] to begin with. 
     - This means you can use it anywhere you can write down text.
       - In [[books]].
+      - In [[email]].
       - In [[wikis]].
       - In [[social networks]].
     - An Agora welcomes all formats a priori.
