@@ -11,7 +11,8 @@
     - If so, allow me to try to [[disentangle it]].
     - [[An Agora]] defines my [[intent]].
 - a [[document]].
-	- Trying to define a high level [[protocol]], plus a roadmap for a platform or network making use of it.
+	- Trying to define a high level [[protocol]], plus a roadmap for a [[platform]] or federated [[network]] making use of it.
+  - This protocol is meant to allow people to exchange [[resources]] mapping to [[patterns]] in a [[knowledge commons]], which I call an Agora for short. 
 	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
   - I started with [[google docs]] in 2019/2020 and then I tried moving to [[hedgedoc]] but actually I think I might just go back to the [[google doc]]. It's just a rich experience, and several potential collaborators already use it (they left comments).
   - Update (2022): revamping now with the occasion of writing [[agora pkg chapter]].
