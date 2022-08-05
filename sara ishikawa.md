@@ -2,3 +2,4 @@
   - [[writer]] [[architect]] [[academic]]
   - [[berkeley]]
   - [[a pattern language]]
+  - #go https://www.worldcat.org/identities/lccn-nr89011578/
