@@ -5,6 +5,10 @@
     - [[christopher alexander]] 
     - [[sara ishikawa]] 
     - [[murray silverstein]] 
+    - #with 
+      - [[max jacobson]]
+      - [[ingrid fiksdahl-king]]
+      - [[shlomo angel]]
   - Received my copy from [[the strand]] on [[2020-11-11]].
   - Perhaps a good fit for an [[agora reading club]].
     - [[bmock]], [[EduneV]], [[seconds_0]], [[jonathan-the-utopian]], [[ablueaeshna]], [[naim]] are all interested.
