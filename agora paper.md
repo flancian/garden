@@ -11,7 +11,6 @@
 By default, this paper will be is:
 
 - The [[Abstract]] below, taken from a snapshot of the above on [[2022-08-05]].
--
 - #pull [[agora pkm chapter]] with greater technicality?
   - Define [[m]], [[m prime]], morphisms.
     - (An Agora as a category?)
@@ -28,6 +27,9 @@ By default, this paper will be is:
     - [[go]] (to a [[node]], or [[URL]].)
     - [[fork]] ([[a commons]].)
     - [[merge]] ([[n commons]].)
+- #pull [[a pattern language]]
+- #pull [[a rosetta stone]]
+- #pull [[i am a strange loop]]
 
 
 # Abstract
