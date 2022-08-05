@@ -22,7 +22,9 @@ By default, this paper will be is:
     - [[intent]] ~ [[m prime]]
     - [[delegate]]
       - -> [[liquid democracy]]
-    - [[pull]]
-    - [[push]]
-    - [[go]]
+    - [[pull]] (a [[node]], as transcluding, incorporating a [[pattern]].)
+    - [[push]] (a [[node]]), as if meaning publishing to a [[topic]].)
+    - [[go]] (to a [[node]], or [[URL]].)
+    - [[fork]] ([[a commons]].)
+    - [[merge]] ([[n commons]].)
 
