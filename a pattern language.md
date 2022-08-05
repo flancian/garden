@@ -9,12 +9,13 @@
       - [[max jacobson]]
       - [[ingrid fiksdahl-king]]
       - [[shlomo angel]]
-      - (maybe also you as a [[reader]] and [[writer]]?)
-  - Received my copy from [[the strand]] on [[2020-11-11]].
+        - (maybe also you as a [[reader]] and [[writer]]?)
+  - I received my copy from [[the strand]] on [[2020-11-11]].
   - Perhaps a good fit for an [[agora reading club]].
     - [[bmock]], [[EduneV]], [[seconds_0]], [[jonathan-the-utopian]], [[ablueaeshna]], [[naim]] are all interested.
-    - Update: I am very glad about [[patterning]], organized by [[lorand]].
+    - Update (2021?): I am very glad about [[patterning]], organized by [[lorand]].
       - [[reading alexander]].
+    - Update (2022): an Agora is a [[repository of patterns]].
   - [[wp]] https://en.wikipedia.org/wiki/A_Pattern_Language
     - [[go]] [[wp]]
   - [[hypothesis]] https://via.hypothes.is/https://stoa.anagora.org/ipfs/QmcWQb2wb2JQ74yyuiKth9UUe911pvjHW1ZghbF74dh6vg
