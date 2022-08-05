@@ -1,2 +1,2 @@
 - a [[list]].
-  - #pull wp
+  - #pull [[wp]]
