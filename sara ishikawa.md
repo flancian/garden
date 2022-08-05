@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[writer]] [[architect]] [[academic]]
+  - [[berkeley]]
+  - [[a pattern language]]
