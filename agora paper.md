@@ -5,3 +5,9 @@
   - #push [[todo]]
     - [[write]], this is a top priority in [[august 2022]].
     - this should probably show up at the top of [[todo]] and not at the bottom!
+
+# Meta
+
+By default, this chapter is:
+
+- The [[Abstract]] below, taken from a snapshot of the above on [[2022-08-05]].
