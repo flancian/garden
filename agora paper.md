@@ -15,11 +15,14 @@ By default, this paper will be is:
   - Define [[m]], [[m prime]], morphisms.
     - (An Agora as a category?)
   - Define [[Agora Protocol]] operations.
-    - [[echo]]
+    - [[print]]
     - [[broadcast]]
     - [[share]]
     - [[assert]] ~ [[m]]
     - [[intent]] ~ [[m prime]]
     - [[delegate]]
       - -> [[liquid democracy]]
+    - [[pull]]
+    - [[push]]
+    - [[go]]
 
