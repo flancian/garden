@@ -1,9 +1,15 @@
 - a [[thing]].
+  - [[protocol]]
   - What *is* [[Agora Protocol]], anyway? Is [[protocol]] even the right word for what it tries to be? 
+      - What *is* [[Agora Protocol]], anyway? Is [[protocol]] even the right word for what it tries to be? 
+      - The Agora could also be seen as a [[pattern language]].
   - Is it an entanglement of many things, perhaps, born out of confusion?
   - If so, allow me to try to [[disentangle it]].
-  - [[an agora]] defines my [[intent]].
   - An [[Agora]] is a [[repository]] of shared [[patterns]].
+  - [[An Agora]] defines my [[intent]].
+  - An [[Agora]] is sometimes an entanglement of many things, perhaps, born out of confusion?
+    - If so, allow me to try to [[disentangle it]].
+    - [[An Agora]] defines my [[intent]].
 - a [[document]].
 	- Trying to define a high level [[protocol]], plus a roadmap for a platform or network making use of it.
 	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
