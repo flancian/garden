@@ -11,7 +11,12 @@
   - Update (2022): revamping now with the occasion of writing [[agora pkg chapter]].
 - a [[convention]].
 	- To communicate with each other with good intent.
-	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
+	- [[text based]] to begin with. 
+    - This means you can use it anywhere you can write down text.
+      - In [[books]].
+      - In [[wikis]].
+      - In [[social networks]].
+    - An Agora welcomes all formats a priori.
 	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
   - [[layer 0]]
 	- [[layer 1]]
