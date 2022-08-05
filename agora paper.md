@@ -12,9 +12,10 @@ By default, this paper will be is:
 
 - The [[Abstract]] below, taken from a snapshot of the above on [[2022-08-05]].
 - #pull [[agora pkm chapter]] with greater technicality?
-  - Define [[m]], [[m prime]] and morphisms.
-  - Define [[Agora Protocol]] operations?
-    - [[say]]
+  - Define [[m]], [[m prime]], morphisms.
+    - (An Agora as a category?)
+  - Define [[Agora Protocol]] operations.
+    - [[echo]]
     - [[broadcast]]
     - [[share]]
     - [[assert]] ~ [[m]]
