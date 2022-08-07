@@ -29,23 +29,13 @@
         
 # Abstract
 
-In this [[paper]] we describe an **Agora**, a [[social knowledge graph]] provisioned and maintained by a community as a [commons](https://anagora.org/commons). 
-
-The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N` ([[entities]] an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k`, each containing **subedges** `SE_0 .. SE_k`, aggregating into **edges** `E_0 .. E_k` (semantic links between entities inferred from known subnodes). Edges are annotated implicitly by link context and explicitly via the use of [[agora protocol]] affordances, which is extensible and tries to build on existing conventions in the [[personal knowledge management]] space. 
-
-An Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains, integrates and interlinks both personal and group resources. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as queries mapping to sets of resources. This is consistent with a general design principle of facilitating storage and retrieval of entity-mapped information with a view toward removing friction from agreement and cooperation.
-
-Building on these general principles and a [[free software]][^reference] reference implementation of the underlying protocols and data, we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably with a focus on upholding [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and implications assuming that the Agora network is run as a [[confederated]] system for the [[public good]].
-
-[^reference]: The provided [[reference Agora]] tries to remain tool, format and platform agnostic, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity]. 
-
-[^inclusivity]: because we require from would-be Agora contributors only that they indicate where to source their notes, and we are committed to supporting all useful formats, we hope to achieve maximal inclusivity. We believe this is important for the health of the [[commons]].
-
-[^diversity]: we believe diverse groups and communities are healthier, smarter, safer, stronger.
+In this [[chapter]] we describe an **Agora**, a [[social knowledge graph]] provisioned and maintained by a community as a [commons](https://anagora.org/commons). 
 
 ## Background 
 
-The Agora described in this chapter is a knowledge graph bootstrapped by a self-governing community on a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]], all retrieved and integrated using [[free software]] and for [[public benefit]].
+The Agora described in this chapter is a knowledge graph provisioned by a self-governing community using a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]], all retrieved and integrated using [[free software]] and for [[public benefit]].
+
+This Agora is just [[an Agora]], meaning it is just a possible implementation of the principles delineated in this chapter. Other Agoras may exist (and, indeed, arguably already exist -- if not by name, in spirit.)
   
 An Agora has multiple facets which we will explore in the following pages:
 
@@ -104,6 +94,18 @@ We describe later how an Agora can integrate with the wider internet ecosystem a
   - The Agora reference implementation currently provides JSON and RDF endpoints.
 
 ### Graph definition 
+The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N` ([[entities]] an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k`, each containing **subedges** `SE_0 .. SE_k`, aggregating into **edges** `E_0 .. E_k` (semantic links between entities inferred from known subnodes). Edges are annotated implicitly by link context and explicitly via the use of [[agora protocol]] affordances, which is extensible and tries to build on existing conventions in the [[personal knowledge management]] space. 
+
+An Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains, integrates and interlinks both personal and group resources. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as queries mapping to sets of resources. This is consistent with a general design principle of facilitating storage and retrieval of entity-mapped information with a view toward removing friction from agreement and cooperation.
+
+Building on these general principles and a [[free software]][^reference] reference implementation of the underlying protocols and data, we model and detail how to implement a distributed system that provisions social knowledge services ethically and sustainably with a focus on upholding [[data sovereignty]] principles. We then analyze some of the potential applications of such a system. Finally, we shortly explore future work and implications assuming that the Agora network is run as a [[confederated]] system for the [[public good]].
+
+[^reference]: The provided [[reference Agora]] tries to remain tool, format and platform agnostic, building on general conventions common to many tools and platforms in the knowledge space for ease of integration and maximal inclusivity[^inclusivity] and diversity[^diversity]. 
+
+[^inclusivity]: because we require from would-be Agora contributors only that they indicate where to source their notes, and we are committed to supporting all useful formats, we hope to achieve maximal inclusivity. We believe this is important for the health of the [[commons]].
+
+[^diversity]: we believe diverse groups and communities are healthier, smarter, safer, stronger.
+
 - Being built around a [[knowledge graph]], an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
   - An Agora [[node]] is a collection; it contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
     - (But potentially overridden or extended with provided metadata and annotations.)
@@ -112,8 +114,8 @@ We describe later how an Agora can integrate with the wider internet ecosystem a
 
 [^hypergraph]: "Stephen Wolfram likes them." -- see for example https://www.wolframphysics.org/technical-introduction/.
 
-## Reference implementation
-- This section covers a work-in-progress reference software implementation built on the principles described above, developed as [[free software]] and run as [[public service]].
+## Implementation details
+- This section covers details on the work-in-progress reference software implementation built on the principles described above, developed as [[free software]] and run as [[public service]].
   - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
 - Here we cover some details of the provided free and open source reference Agora which provides a minimum viable implementation of the [[underlay]], [[interlay]], and [[overlay]] components of a [[distributed knowledge graph]][^kfg].
 - The reference Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
