@@ -45,7 +45,7 @@ Building on these general principles and a [[free software]][^reference] referen
 
 ## Background 
 
-An Agora is a knowledge graph bootstrapped by a self-governing community on a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]] as retrieved and integrated using [[free software]].
+The Agora described in this chapter is a knowledge graph bootstrapped by a self-governing community on a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]], all retrieved and integrated using [[free software]] and for [[public benefit]].
   
 An Agora has multiple facets which we will explore in the following pages:
 
