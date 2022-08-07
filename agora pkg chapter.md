@@ -17,15 +17,8 @@
 
 # Preamble 
 
-- This node is longer than the average [[Agora]] node :) It has multiple sections.
-  - In this subnode (this text file as a note) you'll find:
-    - An **abstract**, which is based on but is no longer kept close to what I delivered in early [[2022-06]] to the book editors during the chapter selection process. It is meant to be a short comprehensive stand-alone introduction. If this document or a subset of it actually gets published as a paper, this should probably work as its actual abstract.
-    - -> this has moved to [[agora paper]].
-    - The actual **chapter text**, including an introduction, which is what should be 5k-10k words once ready to be delivered on [[2022-09-01]].
-  - In the subnode below, sourced from the [[stoa]]:
-    - A snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. 
-      - This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
-      - Optionally sign your contributions as per wiki protocol :)
+- In this subnode you will find the actual **chapter text**, including the introduction, which should be 5k-10k words once ready to be delivered on [[2022-09-01]].
+- In the subnode below, sourced from the [[stoa]], you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
         
 # Abstract
 
