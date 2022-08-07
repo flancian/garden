@@ -20,21 +20,18 @@
 - In this subnode you will find the actual **chapter text**, including the introduction, which should be 5k-10k words once ready to be delivered on [[2022-09-01]].
 - In the subnode below, sourced from the [[stoa]], you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
         
-# Abstract
+# Chapter 
 
-In this [[chapter]] we describe an **Agora**, a [[social knowledge graph]] provisioned and maintained by a community as a [commons](https://anagora.org/commons). 
+## Introduction
 
-## Background 
-
-The Agora described in this chapter is a knowledge graph provisioned by a self-governing community using a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]], all retrieved and integrated using [[free software]] and for [[public benefit]].
+In this [[chapter]] we describe the **Agora**, a [[knowledge commons]] provisioned and maintained by a self-governing community for [[public good]]. This [[commons]] is built around a [[knowledge graph]] bootstrapped using a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]] generalizing to arbitrary repositories, all retrieved and integrated using [[free software]], but produced with whichever tools users choose to use.
 
 This Agora is just [[an Agora]], meaning it is just a possible implementation of the principles delineated in this chapter. Other Agoras may exist (and, indeed, arguably already exist -- if not by name, in spirit.)
   
 An Agora has multiple facets which we will explore in the following pages:
 
   - A high level [[protocol]] for information exchange and cooperation, mostly building on conventions already in use in knowledge oriented online communities.
-    - #pull [[Agora Protocol]]
-    - This section serves as a demonstration of a text-based action intent which, in an Agora, will result in the entity mentioned above being transcluded ("pulled", brought into the current context).
+    - #pull [[Agora Protocol]][^protocol]
   - A [[free software]] [[reference implementation]] of an integration platform built on the above, including a set of importers and converters for diverse [[sources]] and [[formats]].
     - #pull [[Agora Server]] [[Agora Bridge]]
     - The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, any writing done with a [[social stance]].
@@ -44,6 +41,7 @@ An Agora has multiple facets which we will explore in the following pages:
 We then cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software. This is done in the form of a series of short exploratory essays.
 
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
+[^protocol]: This section serves as a demonstration of a text-based action intent which, in an Agora, will result in the entity mentioned above being transcluded ("pulled", brought into the current context).
 
 ### Agora Protocol
 
