@@ -1,0 +1,1 @@
+- It doesn't happen super often but sometimes the way I've coded things just turns out to be the right thing in retrospect and something that I would maybe have to implement separately had I taken another design decision [[just works]]. In those cases I rejoice and pat myself in the back and feel everything is maybe not hopeless and so on :)
