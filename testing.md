@@ -12,7 +12,3 @@
       - [[long form, perhaps matching the previous sentence|page name]]
     - Option 3: `[[why don't we have both|por qué no los dos]]`
       - [[why don't we have both|por qué no los dos]]
-  - [[2022-08-07]]
-    - Testing pulling uppercase/lowercase.
-    - #pull [[A Pattern Language]]
-    - #pull [[a pattern language]]
