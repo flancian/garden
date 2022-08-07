@@ -43,7 +43,7 @@ Building on the general principles above and a [[free software]][^reference] ref
 
 [^diversity]: we believe diverse groups and communities are healthier, smarter, safer, stronger.
 
-##Background 
+## Background 
 
 An Agora is a knowledge graph bootstrapped by a self-governing community on a well defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]] as retrieved and integrated using [[free software]].
   
