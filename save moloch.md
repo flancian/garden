@@ -1,3 +1,3 @@
 - #push [[moloch]]
-  - What if we tried to [[save]] Moloch? To try to redeem them? Let them redefine themselves for [[good]].
+  - What if we tried to [[save]] [[Moloch]]? To try to redeem them? Let them redefine themselves for [[good]].
     - I'd give them the [[benefit of doubt]] if they used [[an agora]].
