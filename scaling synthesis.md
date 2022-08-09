@@ -1,0 +1,3 @@
+- a [[project]].
+  - [[robert haisfield]] [[joel chan]] [[brendan langen]]
+  - #go https://scalingsynthesis.com/
