@@ -1,3 +1,4 @@
 - a [[project]].
   - [[robert haisfield]] [[joel chan]] [[brendan langen]]
   - #go https://scalingsynthesis.com/
+  - presented in [[tools for thought rocks]] [[2022-08-09]]
