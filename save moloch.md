@@ -1,3 +1,6 @@
-- #push [[moloch]]
-  - What if we tried to [[save]] [[Moloch]]? To try to redeem them? Let them redefine themselves for [[good]].
-    - I'd give them the [[benefit of doubt]] if they used [[an agora]].
+- In some Flancias we [[saved Moloch]].
+  - We [[rehabilitated]] them.
+  - #push [[moloch]]
+    - What if we tried to [[save]] [[Moloch]]? To try to redeem them? Let them redefine themselves for [[good]].
+      - I'd give them the [[benefit of doubt]] if they used [[an agora]].
+    - (would you like to [[slay moloch]] while we have a chance instead?)
