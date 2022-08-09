@@ -1,4 +1,4 @@
-- In some Flancias we [[saved Moloch]].
+- In some [[Flancias]] they [[saved Moloch]].
   - We [[rehabilitated]] them.
   - #push [[moloch]]
     - What if we tried to [[save]] [[Moloch]]? To try to redeem them? Let them redefine themselves for [[good]].
