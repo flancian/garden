@@ -16,4 +16,4 @@ As of [[2021-05-30]], clicking on the link above 'works': it loads the image in 
 There should probably be a setting to enable/disable embeddings; same would apply to tweets and perhaps more generally to agora [[transclusions]].
 
 - As of [[2022-08-10]] [[rob haisfield]] is having issues in e.g. node [[kosmik]]
-  - https://github.com/classicrob/quartz/tree/hugo/content has his images
+  - https://github.com/classicrob/quartz/tree/hugo/content has his images -> https://anagora.org/raw/garden/scalingsynthesis/content/Pasted%20image%2020210916111811.png should be the embed URL
