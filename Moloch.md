@@ -1,4 +1,4 @@
 - [[moloch]] of the thousand terrible faces of humanity
   - [[moloch]] who hides the [[suffering of others]]
-  - [[moloch]] of uncontrolled, lazy [[capitalism]]
+  - [[moloch]] of uncontrolled, lazy [[capitalism]] and fixed [[hierarchies]]
   - #pull [[meditations on moloch]]
