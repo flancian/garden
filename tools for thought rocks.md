@@ -1,0 +1,3 @@
+- a [[group]].
+  - [[boris mann]] set it up
+  - uses [[lu.ma]] to organize.
