@@ -6,10 +6,7 @@
   - Is it an entanglement of many things, perhaps, born out of confusion?
   - If so, allow me to try to [[disentangle it]].
   - An [[Agora]] is a [[repository]] of shared [[patterns]].
-  - [[An Agora]] defines my [[intent]].
-  - An [[Agora]] is sometimes an entanglement of many things, perhaps, born out of confusion?
-    - If so, allow me to try to [[disentangle it]].
-    - [[An Agora]] defines my [[intent]].
+  - [[Agora Protocol]] is what I use to define my [[intent]].
 - a [[document]].
 	- Trying to define a high level [[protocol]], plus a roadmap for a [[platform]] or federated [[network]] making use of it.
   - This protocol is meant to allow people to exchange [[resources]] mapping to [[patterns]] in a [[commons]], which I call the Agora for short. 
