@@ -1,3 +1,6 @@
 - a [[person]].
   - [[tools for thought]]
   - [[knowledge roots]]
+  - https://kumu.io/DigLife/decentralized-tech
+  - [[kumu]]
+  - [[platforms]] vs [[protocols]]
