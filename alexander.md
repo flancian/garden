@@ -1,6 +1,6 @@
 - a [[person]].
-  - [[conqueror]].
-  - [[alexander the great]]
+  - [[conqueror]] [[alexander the great]]
 - a [[person]].
-  - [[psychiatrist]]
-  - [[scott alexander]]
+  - [[psychiatrist]] [[scott alexander]]
+a [[person]].
+  [[architect]] [[christopher alexander]]
