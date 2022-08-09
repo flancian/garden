@@ -1,5 +1,6 @@
-- [[moloch]] of the thousand terrible faces of humanity
-  - [[moloch]] who hides cowardly the [[suffering of others]]
-  - [[moloch]] of uncontrolled, lazy [[capitalism]] and fixed [[hierarchies]]
-  - [[moloch]] who we may [[slay]], we may [[save]], we may [[subdue]]
-  - #pull [[meditations on moloch]]
+- #push [[meditations on moloch]]
+  - [[moloch]] of the thousand terrible faces of humanity
+    - [[moloch]] who hides cowardly the [[suffering of others]]
+    - [[moloch]] of uncontrolled, hypocritical, lazy [[capitalism]] and the adoration of fixed [[hierarchies]]
+    - [[moloch]] who we may [[slay]], we may [[save]], we may [[subdue]]
+    - #pull [[engels]] [[marx]] [[ginsberg]]
