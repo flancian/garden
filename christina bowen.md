@@ -1,2 +1,3 @@
 - a [[person]].
   - [[tools for thought]]
+  - [[knowledge roots]]
