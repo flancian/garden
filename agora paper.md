@@ -8,7 +8,7 @@
 
 # Meta
 
-By default, this paper will be is:
+By default, this paper will be built around the following: 
 
 - The [[Abstract]] below, taken from a snapshot of the above on [[2022-08-05]].
 - #pull [[agora pkm chapter]] with greater technicality?
