@@ -7,6 +7,6 @@ Burn brightly.
 
 If you have to burn: burn kindly.
 
-If I can't be a candle, 
-I'll be a spaceship.
+I am a candle,
+but I'd rather be a spaceship.
 ```
