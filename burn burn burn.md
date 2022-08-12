@@ -1,11 +1,12 @@
-- A [[poem]].
-  - Burn burn burn
+- A [[poem]]?
+  - Burn burn burn,
     - Burn for the greater good!
     - Burn brightly.
   - Gone gone,
     - Gone beyond.
-    - Everybody gone (to the other shore);
+    - Everybody gone to the other shore;
     - Gone happily.
-  - If you have to burn, burn kindly.
+  - If you have to burn, 
+    - burn kindly.
   - If I can't be a candle, 
     - I'll be a spaceship.
