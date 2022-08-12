@@ -1,2 +1,3 @@
 - a type of [[maintenance]].
-  - it means something was considered [[garbage]] as in surplus in a given context; not necessarily bad.
+  - it means something was considered [[garbage]] as in surplus in a given context; not necessarily bad in general.
+  - many things are garbage in memory once it is no longer useful to keep them around, pretty much regardless of what they are / their intrinsic value.
