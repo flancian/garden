@@ -1,3 +1,4 @@
-- a [[catalog]].
-  - #go https://docs.openalex.org/
-  - [[OurResearch]]
+- #push [[open alex]]
+  - a [[catalog]].
+    - #go https://docs.openalex.org/
+    - #by [[OurResearch]]

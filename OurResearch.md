@@ -1,0 +1,3 @@
+- #push [[our research]]
+  - a [[nonprofit]].
+    - #go https://ourresearch.org/
