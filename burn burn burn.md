@@ -9,4 +9,4 @@
   - If you have to burn, 
     - Burn kindly.
   - If I can't be a candle, 
-    - I'll be a spaceship.
+    - I'll be that spaceship.
