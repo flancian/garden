@@ -1,0 +1,1 @@
+- [[wp]] https://en.wikipedia.org/wiki/Rhizome_(philosophy)
