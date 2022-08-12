@@ -1,0 +1,4 @@
+- a [[person]].
+  - #go https://akkartik.name
+  - in [[merveilles]]: https://merveilles.town/@akkartik
+  - [[lines]] http://akkartik.name/lines.html
