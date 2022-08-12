@@ -6,7 +6,7 @@ Burn for the greater good!
 Burn brightly.
 
 Gone gone, gone beyond.
-Everybody gone to the other shore.
+Everybody gone (to the other shore).
 Gone kindly.
 
 If you have to burn: burn kindly.
