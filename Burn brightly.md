@@ -1,4 +1,1 @@
-- If you have to [[burn]]: 
-  - [[burn kindly]].
-  - [[burn brightly]].
-  - ([[burn burn burn]].)
+- #pull [[burn burn burn]]
