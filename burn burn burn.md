@@ -1,6 +1,6 @@
 - A [[poem]].
-  - [[burn burn burn]]
-  - [[burn for the greater good]]
-  - [[burn kindly]]
-  - [[burn brightly]]
-  - [[burn 
+  - Burn burn burn
+  - Burn for the greater good!
+  - Burn brightly, [[burn kindly]]
+
+
