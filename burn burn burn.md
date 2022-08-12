@@ -5,8 +5,8 @@
   - Gone gone,
     - Gone beyond.
     - Everybody gone to the other shore;
-    - Gone happily.
+    - Gone kindly.
   - If you have to burn, 
-    - burn kindly.
+    - Burn kindly.
   - If I can't be a candle, 
     - I'll be a spaceship.
