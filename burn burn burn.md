@@ -8,7 +8,7 @@ Burn brightly.
 Gone gone, 
      gone beyond.
 Everybody gone to the other shore.
-Gone happily.
+Gone kindly.
 
 If you have to burn: burn kindly.
 
