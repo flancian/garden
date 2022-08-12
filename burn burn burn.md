@@ -4,8 +4,8 @@
     - Burn brightly.
   - Gone gone,
     - Gone beyond.
-    - Everybody gone to the other shore;
-    - Gone kindly.
+    - Everybody gone (to the other shore);
+    - Gone happily.
   - If you have to burn, burn kindly.
   - If I can't be a candle, 
     - I'll be a spaceship.
