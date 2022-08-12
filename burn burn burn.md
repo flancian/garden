@@ -3,11 +3,9 @@
 ```
 Burn burn burn,
 Burn for the greater good!
-Burn brightly.
+[[Burn brightly]].
 
-I say, if you have to burn: 
-Burn kindly.
+If you have to burn: [[burn kindly]].
 
-I am a candle,
-but I'd rather be a spaceship.
+I am a candle who'd rather be a spaceship.
 ```
