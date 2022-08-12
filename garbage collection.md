@@ -1,0 +1,2 @@
+- a type of [[maintenance]].
+  - it means something was considered [[garbage]] as in surplus in a given context; not necessarily bad.
