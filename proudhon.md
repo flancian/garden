@@ -1,0 +1,2 @@
+- a [[person]]
+  - #pull [[pierre-joseph proudhon]]
