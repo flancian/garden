@@ -1,7 +1,7 @@
 - A [[poem]].
 
 ```
-Burn burn,
+Burn burn burn,
 Burn for the greater good!
 Burn brightly.
 
@@ -12,6 +12,6 @@ Gone happily.
 
 If you have to burn: burn kindly!
 
-[[If I can't be a candle, I'll be a spaceship]].
+If I can't be a candle, I'll be a spaceship.
 ```
 
