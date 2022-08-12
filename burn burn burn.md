@@ -3,14 +3,11 @@
 ```
 Burn burn burn,
 Burn for the greater good!
-Burn brightly.
+If you have to burn: burn kindly.
 
-Gone gone, 
-     gone beyond.
+Gone gone, gone beyond.
 Everybody gone to the other shore.
-Gone kindly.
-
-If you have to go: go brightlgo brightlyykindly.
+If you have to go: go brightly.
 
 If I can't be a candle, I'll be a spaceship.
 ```
