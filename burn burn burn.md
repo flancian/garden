@@ -7,10 +7,10 @@ Burn brightly.
 
 Gone gone, 
      gone beyond.
-Everybody gone (to the other shore).
+Everybody gone to the other shore.
 Gone happily.
 
-If you have to burn: burn kindly!
+If you have to burn: burn kindly.
 
 If I can't be a candle, I'll be a spaceship.
 ```
