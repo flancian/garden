@@ -5,7 +5,8 @@ Burn burn burn,
 Burn for the greater good!
 Burn brightly.
 
-If you have to burn: burn kindly.
+I say, if you have to burn: 
+Burn kindly.
 
 I am a candle,
 but I'd rather be a spaceship.
