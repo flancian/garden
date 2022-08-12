@@ -10,7 +10,7 @@ Gone gone,
 Everybody gone to the other shore.
 Gone kindly.
 
-If you have to burn: burn kindly.
+If you have to go: go brightlgo brightlyykindly.
 
 If I can't be a candle, I'll be a spaceship.
 ```
