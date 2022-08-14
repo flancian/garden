@@ -1,0 +1,4 @@
+- a [[book]].
+  - [[eugen herrigel]]
+  - I got it translated from [[german]].
+  - with an introduction by [[d. t. suzuki]].
