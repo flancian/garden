@@ -1,5 +1,5 @@
 - una [[persona]].
-  - [[e]]
+  - #pull [[e]]
 - un [[poema]].
   - de [[Eduardo Carlas Bargalló]].
 
