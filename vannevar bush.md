@@ -1,0 +1,2 @@
+- a [[person]].
+  - #wp https://en.wikipedia.org/wiki/Vannevar_Bush
