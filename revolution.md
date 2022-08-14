@@ -1,6 +1,5 @@
 - a [[process]].
-  - #pull [[murray bookchin]]
-    - is my default delegate for matters pertaining to [[revolution]] in a [[liquid democracy]] system inspired by his work which I think is a critical part of [[Flancia]].
+  - #pull [[murray bookchin]] is my default delegate for matters pertaining to [[revolution]] in a [[liquid democracy]] system inspired by his work which I think is a critical part of [[Flancia]].
 	- #push [[revolutions]]
       - my current proposal is the [[flancian revolution]], which is designed to be reasonably all-optional (see below).
   - Flancia is meant to be a revolution guided by [[loving kindness]].
