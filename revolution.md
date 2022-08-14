@@ -1,4 +1,3 @@
-# Revolution
 - a [[process]].
 	- #push [[revolutions]]
       - my current proposal is the [[flancian revolution]], which is designed to be reasonably all-optional (see below).
