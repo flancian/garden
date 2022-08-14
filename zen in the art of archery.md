@@ -2,3 +2,5 @@
   - [[eugen herrigel]]
   - I got it translated from [[german]].
   - with an introduction by [[d. t. suzuki]].
+  - and a touching [[dedication]] from "Dad" to "Zoe":
+    - https://social.coop/@flancian/108821875747448695
