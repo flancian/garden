@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[friend]] [[bodhisattva]]
+  - #wp https://en.wikipedia.org/wiki/Tara_(Buddhism)
+  - [[om tare tuttare ture svaha]] ~ [[oṃ tāre tuttāre ture svāhā]]
