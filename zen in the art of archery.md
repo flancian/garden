@@ -7,3 +7,5 @@
   - > If one really wishes to be [[master]] of an [[art]], technical knowledge of it is not enough. One has to transcend technique so that the art becomes an "[[artless art]]", growing out of the [[Unconscious]].
   - #pull [[unconsciousness]]
   - > Zen is the "everyday mind", as was proclaimed by [[Baso]] (Ma-tsu, died 788).
+  - > Man is a thinking reed but his great works are done when he is not calculating and thinking.
+    - (Does not use [[gender neutral]], although it's a translation; it could be translated in neutral nowadays?)
