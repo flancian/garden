@@ -5,3 +5,5 @@
   - and a touching [[dedication]] from "Dad" to "Zoe":
     - https://social.coop/@flancian/108821875747448695
   - > If one really wishes to be [[master]] of an [[art]], technical knowledge of it is not enough. One has to transcend technique so that the art becomes an "[[artless art]]", growing out of the [[Unconscious]].
+  - #pull [[unconsciousness]]
+  - > Zen is the "everyday mind", as was proclaimed by [[Baso]] (Ma-tsu, died 788).
