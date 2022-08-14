@@ -1,0 +1,13 @@
+- #push [[allergic reactions]]
+  - I've had allergic reactions at least 3 times now:
+    - The first time it was in San Francisco, in the summer of 2018 or 2019 (need to check).
+      - Ended up in the [[ER]].
+    - The second one was in Zürich, in the summer of 2020.
+      - Also went to the ER.
+    - The third one was in the summer of [[2022]], specifically on [[2022-08-14]].
+  - The recurring [[patterns]] are:
+    - I was outside.
+    - It was hot.
+    - I was walking around, maybe a bit physically exerted.
+  - They ran thorough checks in [[2020]] and essentially didn't find anything very clear. They told me not to worry to much about it and to always carry antihistamines.
+    - I am under the influence of such antihistamines currently as I'm writing this with my face swollen on [[2022-08-14]].
