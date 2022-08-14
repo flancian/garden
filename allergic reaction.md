@@ -9,5 +9,6 @@
     - I was outside.
     - It was hot.
     - I was walking around, maybe a bit physically exerted.
-  - They ran thorough checks in [[2020]] and essentially didn't find anything very clear. They told me not to worry to much about it and to always carry antihistamines.
+  - They ran thorough checks in [[2020]] and essentially didn't find anything very clear. They told me not to worry to much about it and to always carry antihistamines and a corticoid.
+    - #pull [[cetirixin]] [[prednisone]]
     - I am under the influence of such antihistamines currently as I'm writing this with my face swollen on [[2022-08-14]].
