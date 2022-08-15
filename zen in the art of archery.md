@@ -9,3 +9,4 @@
   - > Zen is the "everyday mind", as was proclaimed by [[Baso]] (Ma-tsu, died 788).
   - > Man is a thinking reed but his great works are done when he is not calculating and thinking.
     - (Does not use [[gender neutral]], although it's a translation; it could be translated in neutral nowadays?)
+  - #pull [[childlikeness]]
