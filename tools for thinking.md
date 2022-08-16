@@ -29,15 +29,17 @@
     - #push [[jerry's brain]]
       - one [[mindmap]] since [[1997]], this dec will be [[25]] years
     - [[one million]] thoughts
-  - [[dioramas]] out of [[toothpicks]]
-  - [[opinions]]
-  - [[hypercard]] could have been the future (might be still!)
-    - [[bubble charter]]
-    - long standing addiction to the tool
-  - [[demo]]
-    - [[mind mapping]]
-    - [[visual analysis tools]]
-    - [[mapping tools for thinking]]
+    - [[dioramas]] out of [[toothpicks]]
+    - [[opinions]]
+    - [[hypercard]] could have been the future (might be still!)
+      - [[bubble charter]]
+      - long standing addiction to the tool
+    - [[demo]]
+      - [[mind mapping]]
+      - [[visual analysis tools]]
+      - [[mapping tools for thinking]]
+    - [[team mode]] is not what he'd like
+    - how to allow different people to use different tools, yet still create an aggregated insight
 
 ## [[Inflection Points for Tools for Thinking]]
 
