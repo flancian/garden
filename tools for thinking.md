@@ -15,7 +15,7 @@
   - How to take all the [[ideas]] of a flow of information and analyzing them as they influence the world.
   - What can we do with well tuned datasets??
   - [[open protocols]]
-  - all the data could be owned by people contributing it, against [[silos]]
+  - all the data could be owned by people contributing it, against the recent trend towards [[silos]]
 
 ## [[Inflection Points for Tools for Thinking]]
 
