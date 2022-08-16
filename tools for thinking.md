@@ -266,6 +266,11 @@
     - [[integrated systems of humans]] using [[language]], [[artifacts]], [[methodology]], [[training]]
   - [[licklider]] has a [[psychologist]] on staff
     - later involved in [[microdosing]] experiments?
+- #q what from the original vision has worked (and maybe we take for granted) and what hasn't (yet)?
+  - materialized:
+    - pointing and clicking
+    - multimedia
+    - shared notebook
 
 ## [[Q&A]]
 
