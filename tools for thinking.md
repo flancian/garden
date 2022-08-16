@@ -188,6 +188,8 @@
     - -> [[hypothes.is]] collaboration?
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
+- [[gordon brander]] on [[subconscious]]
+- (87 people watching at this point in time)
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
