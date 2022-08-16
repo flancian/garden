@@ -255,6 +255,11 @@
   - led him to create.
 - [[jerry michalski]]
   - [[vannevar bush]] [[memex]]
+  - [[howard rheingold]] [[liklaiter]] (sp? completely off probably)
+    - -> shame I can't read Jerry's brain here, I don't know this name clearly :)
+  - (echo/[[feedback issues]])
+  - [[article]]
+    - [[man computer symbiosis]]
 
 ## [[Q&A]]
 
