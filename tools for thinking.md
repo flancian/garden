@@ -21,6 +21,7 @@
     - Taking a walk, going to sleep.
     - Scaffold, then [[sleep]].
 - [[jerry michalski]]
+  - was introduced to his now wife as the [[biggest brain]] on the internet, high expectations :)
   - [[protocol]]
     - [[jazz hands]] means agreement
     - [[downward jazz]] means disagreement
