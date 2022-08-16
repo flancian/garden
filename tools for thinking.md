@@ -86,6 +86,8 @@
       - that held them back relative to notion
     - they got very distracted in the middle of the growth, they were developing a [[recipe app]]
     - they fumbled their way
+  - one of the promises of the internet:
+    - you can just build anything, no need to ask for permission (if you have the basic resources, etc.)
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
