@@ -255,11 +255,12 @@
   - led him to create.
 - [[jerry michalski]]
   - [[vannevar bush]] [[memex]]
-  - [[howard rheingold]] [[liklaiter]] (sp? completely off probably)
-    - -> shame I can't read Jerry's brain here, I don't know this name clearly :)
+  - [[howard rheingold]] on [[licklider]] [[1960]]
+    - -> shame I can't read Jerry's brain here, I didn't know this name at first clearly :)
   - (echo/[[feedback issues]])
   - [[article]]
     - [[man computer symbiosis]]
+  - [[J.C.R. Licklider]] got a position (which one?), had read [[Douglas Engelbart]].
 
 ## [[Q&A]]
 
