@@ -229,6 +229,7 @@
         - you [[own your identity]], very important to them
         - leverages [[did]] and such
       - [[sphere servers]] are [[superpeers]]. personal [[ipfs gateways]].
+        - [[gossip network]]
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
