@@ -160,6 +160,8 @@
     - [[annotations]] [[hypothesis]]
       - [[chrome]] has started to add a little bit to it
       - but it's very [[web focused]]
+    - (the stream glitched for me here, lost about a minute)
+- [[john borthwick]] on the [[knowledge blob]]: it should be transportable
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
