@@ -347,6 +347,8 @@
   - [[experts on the well]] (sp?) is still around
   - #push [[agora]]
     - [[social capital]], [[knowledge capital]], [[community]] are all key
+- [[jerry michalski]]
+  - case: scribbling all posts in the [[well]] before suicide :(
   
 ## [[Q&A]]
 
