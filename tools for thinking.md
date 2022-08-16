@@ -28,6 +28,7 @@
   - #push [[thebrain]] ~ [[the brain]]
     - #push [[jerry's brain]]
       - one [[mindmap]] since [[1997]], this dec will be [[25]] years
+      - #go https://jerrysbrain.com
     - [[one million]] thoughts
     - [[dioramas]] out of [[toothpicks]]
     - [[opinions]]
@@ -40,6 +41,7 @@
       - [[mapping tools for thinking]]
     - [[team mode]] is not what he'd like
     - how to allow different people to use different tools, yet still create an aggregated insight
+  - we're dumber than we normally would be
 
 ## [[Inflection Points for Tools for Thinking]]
 
