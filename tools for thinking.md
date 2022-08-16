@@ -67,6 +67,7 @@
   - passion for: [[reading]] and [[spaced repetition]]
   - how to improve [[reading]] the same way computers improved [[writing]]
   - tool to [[resurface]] (-> [[reinforce]])
+  - started with [[zapier]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
