@@ -332,6 +332,10 @@
   - [[sift]] if you're trying to check the veracity of that webpage, get off that webpage
     - search name of the author for example
     - -> metadata overlay for the web? provided by [[hypothes.is]], [[noosphere]], [[agora]]
+  - [[jerry michalski]]
+    - #push [[fellowship of the link]]
+      - remembers asking questions on (forum name missing)
+      - a maybe nicer/simpler time, but points at potential
   
 ## [[Q&A]]
 
