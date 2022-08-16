@@ -70,6 +70,9 @@
   - started with [[zapier]]
 - [[john borthwick]] where do you see us by the end of the decade?
   - belief that there will be a lot of change in this space
+  - when they started, [[evernote]] was the most popular request -- that's changed a lot since then
+  - on a macro level
+    - paradigm shift -> [[notion]], block based architecture
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
