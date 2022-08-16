@@ -107,6 +107,10 @@
         - you can get to 80% of the work fast this way
     - how does this compare to [[gpt-3]] generation? asker feels that AI based suggestions aren't really that great
       - can't speak about better/worse, but for some people this might feel easier
+    - [[core thesis for ai]]
+      - the AI can't be the product
+      - you won't print an essay ghost written by [[gpt-3]]
+        - -> yet? what about the recent paper that *was* written by [[gpt-3]], and for which they got first [[authorship]]?
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
