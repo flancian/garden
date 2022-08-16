@@ -10,6 +10,7 @@
 
 ## [[How Do We Define Tools for Thinking and Why Do They Matter?]]
 - [[john borthwick]] [[jerry michalski]]
+- [[john borthwick]]
   - How can a [[computer]] be a better [[tool for thinking]]?
   - The word information -> better forming our minds.
   - How to take all the [[ideas]] of a flow of information and analyzing them as they influence the world.
@@ -19,6 +20,10 @@
   - [[Associative thinking]]; [[scaffolding]] them together; let them simmer in our brains.
     - Taking a walk, going to sleep.
     - Scaffold, then [[sleep]].
+- [[jerry michalski]]
+  - [[protocol]]
+    - [[jazz hands]] means agreement
+    - [[downward jazz]] means disagreement
 
 ## [[Inflection Points for Tools for Thinking]]
 
