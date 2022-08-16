@@ -1,5 +1,5 @@
 - a [[person]]
-	- [[tool maker]]
-	- [[thesephist]]
-	- [[twitter]] https://twitter.com/thesephist
+	- [[tool maker]] [[tools for thinking]]
+	- #twitter https://twitter.com/thesephist
+    - #pull [[thesephist]]
 	- [[monocle]]
