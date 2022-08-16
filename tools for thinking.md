@@ -73,9 +73,9 @@
   - when they started, [[evernote]] was the most popular request -- that's changed a lot since then
   - on a macro level
     - (missed one beat here I think)
-    - paradigm shift with [[notion]] (2017-2020), block based architecture
+    - paradigm shift with #push [[notion]] (2017-2020), block based architecture
       - other innovation: [[multiplayer]]
-    - then [[roam]] (blew up in 2021), first somewhat mainstream [[graph database]]
+    - then #push [[roam]] (blew up in 2021), first somewhat mainstream [[graph database]]
       - [[backlinks]] and [[transclusion]]
       - [[daily notes]] page
     - then many tools coming online, but no clear next item of big innovation
@@ -88,6 +88,11 @@
     - they fumbled their way
   - one of the promises of the internet:
     - you can just build anything, no need to ask for permission (if you have the basic resources, etc.)
+    - [[notion]] raised VC, a million or two before going mainstream
+    - [[roam]] raised very little before really growing
+    - #push [[readwise]] didn't want to raise any money, unsure of the venture scale
+      - started charging a monthly fee for a consumer product (shock! :)), now can support a small team
+      - [[bootstrapped]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
