@@ -81,6 +81,11 @@
     - then many tools coming online, but no clear next item of big innovation
       - #push [[agora]]
         - waiting for the next [[inflection point]]
+  - why did [[evernote]] get stuck?
+    - they nailed the [[consumer]] use case, never were able to do [[enterprise]] like [[notion]] did
+      - that held them back relative to notion
+    - they got very distracted in the middle of the growth, they were developing a [[recipe app]]
+    - they fumbled their way
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
