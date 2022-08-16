@@ -176,6 +176,7 @@
       - annotation
       - highlight
       - notes that you take while reading
+    - when you want to read a 120 tweet thread, you actually want to see that as a [[document]] that you can [[annotate]] as a whole
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
