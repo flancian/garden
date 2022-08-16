@@ -183,6 +183,8 @@
   - [[jinja]] seemed to solve all problems for customization cross tool
     - [[low floor, high ceiling approach]]
     - -> interesting, [[agora protocol]] seems related
+- #q Use cases in education; have you been thought about getting involved with schools? Have you thought about the impact of adoption by students who could be forced to use it? :)
+  - 
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
