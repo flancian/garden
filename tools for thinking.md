@@ -264,6 +264,8 @@
     - [[licklider]] funded (sp?) [[engelbart]]
     - led to [[mother of all demos]]
     - [[integrated systems of humans]] using [[language]], [[artifacts]], [[methodology]], [[training]]
+  - [[licklider]] has a [[psychologist]] on staff
+    - later involved in [[microdosing]] experiments?
 
 ## [[Q&A]]
 
