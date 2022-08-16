@@ -390,6 +390,9 @@
     - "it was [[blissful]]" :D
     - "it was not just a way to manipulate information, I could think better with it"
   - computer programming does this with abstraction
+  - what people did early online, late 1980s, people took psychedelics and chatted online
+    - [[lerl]] (sp?)
+  - took [[lsd]] again at some point, put on [[google earth]] and had a realization that was [[google]] was doing was building an [[ai]]
   
 ## [[Q&A]]
 - Had to drop out for the day by now to prep dinner and start winding down for the night :)
