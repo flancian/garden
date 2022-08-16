@@ -33,6 +33,7 @@
   - [[opinions]]
   - [[hypercard]] could have been the future (might be still!)
     - [[bubble charter]]
+    - long standing addiction to the tool
 
 ## [[Inflection Points for Tools for Thinking]]
 
