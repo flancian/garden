@@ -47,6 +47,7 @@
     - [[better recall]] leads to [[reinforcement]]
   - two more points
     - [[zettelkasten]]
+    - [[roam cult]] ~ [[the cult of roam]]
 
 ## [[Inflection Points for Tools for Thinking]]
 
