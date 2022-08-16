@@ -321,6 +321,10 @@
       - the users were the ones who turned the internet into a communication medium
     - [[stackexchange]]
     - the model of an expert who broadcasts knowledge isn't as useful as a group or community of people who are [[learning together]] ~ [[colearning]]
+- #q [[jerry michalski]] on the problem of assigning truth values (paraphrasing, check)
+  - daughter started using search engines to do homework
+  - had to explain that up until now when teachers assigned a book, there were a number of authorities participating in that assignment (and could potentially act as gatekeepers)
+    - it's up to you to determine if it is [[good]] information, [[bad]] information, [[misinformation]].
   
 ## [[Q&A]]
 
