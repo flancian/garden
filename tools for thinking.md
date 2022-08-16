@@ -201,6 +201,7 @@
         - space of [[possible futures]]
       - outcome is a function of how we learn to [[think together]]
       - thinking together as a [[whole planet]]
+      - -> [[gordon brander]] is [[building an Agora]]!
     - #push [[flanbook]]
       - [[apps]] trap [[thoughts]] in [[saas silos]]
 
