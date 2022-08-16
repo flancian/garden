@@ -236,6 +236,14 @@
 - [[jerry michalski]] with [[howard rheingold]]
   - how do communities work? how do we get smarter humans?
   - pass the floor
+  - (split screen with [[jerry's brain]])
+- [[howard rheingold]]
+  - [[palo alto research center]]
+  - went there for [[alan kay]]'s article for [[scientific american]]
+    - [[microelectronics in the personal computer]]
+    - if you weren't in [[xerox parc]] you just didn't have what he showed on screen
+    - then [[time magazine]] making the [[personal computer]] [[person of the year]]
+      - the [[steves]] standing on the shoulders of giants
 
 ## [[Q&A]]
 
