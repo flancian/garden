@@ -48,6 +48,10 @@
   - two more points
     - [[zettelkasten]]
     - [[roam cult]] ~ [[the cult of roam]]
+  - [[civilizational]] aspect to this 
+    - [[open access]] influencing research, journalism, politics and governance
+    - #push [[agora]]
+      - [[making better decisions together as a society]]
 
 ## [[Inflection Points for Tools for Thinking]]
 
