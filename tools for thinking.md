@@ -385,9 +385,11 @@
   - [[jerry michalski]] there are people who are aware of their heartbeat and people who aren't
     - stock brokers: people who are aware of their heartbeat make better financial decisions (I think; the stream cut out for 10s)
 - #q what's the more psychoactive experience you've had with a computer?
-  - talked way into [[xerox parc]], got access to an [[alto]] computer with a [[5mb]] hard disk
+  - [[howard rheingold]] talked way into [[xerox parc]], got access to an [[alto]] computer with a [[5mb]] hard disk
     - being able to move a paragraph around without retyping a page (!)
     - "it was [[blissful]]" :D
+    - "it was not just a way to manipulate information, I could think better with it"
+  - computer programming does this with abstraction
   
 ## [[Q&A]]
 - Had to drop out for the day by now to prep dinner and start winding down for the night :)
