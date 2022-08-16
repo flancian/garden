@@ -213,6 +213,9 @@
       - they were heavy lift back then
       - but we've made some technical progress!
       - [[noosphere]] ~ [[agora]]
+    - took some time off here to post about this to social networks: [[gordon brander]] is building an [[agora]]! they don't call it that, but that doesn't matter. It looks technically advanced too.
+    - [[memos]] are a really flexible data structure
+      - (super-thoughts? preceded them?)
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
