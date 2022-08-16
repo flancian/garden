@@ -271,7 +271,16 @@
     - pointing and clicking
     - multimedia
   - shared notebook for people working on projects was part of the original demo
+  - tried going with [[organizations]] where these tools didn't work out
+    - [[a work]]
+      - service or product that your enterprise created
+    - [[b work]]
+      - part of the enterprise that works on improving ability to create that product
+    - [[c work]]
+      - #push [[agora]]
+        - improving your ability to improve
 
+  u
 ## [[Q&A]]
 
 ## [[Tools for Thinking Product Demos]]
