@@ -96,6 +96,15 @@
     - if you don't have the enterprise use case and are consumer based instead, it's unclear how sustainable you can be a priori (-> in the current landscape; but that might be ripe for a change, enough people *want* a way out of walled gardens, want a choice.)
   - [[q&a]]
     - [[anki]] for writing?
+      - have been exploring something, dogfood
+      - [[theme reviews]]
+      - some people do this:
+        - [[word vomit]] the start of an essay
+        - delineate [[fragments]], do theme reviews (on key terms?) over weeks
+          - (-> [[wikilinks]]?)
+        - then [[sequence]]]
+      - [[repeat]]
+        - you can get to 80% of the work fast this way
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
