@@ -209,6 +209,10 @@
       - [[a protocol for thought]]
     - some of the [[old dreams]]: 
       - [[xanadu]]
+      - what if we could all contribute to the same space together?
+      - they were heavy lift back then
+      - but we've made some technical progress!
+      - [[noosphere]] ~ [[agora]]
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
