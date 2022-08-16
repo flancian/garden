@@ -16,6 +16,9 @@
   - What can we do with well tuned datasets??
   - [[open protocols]]
   - all the data could be owned by people contributing it, against the recent trend towards [[silos]]
+  - [[Associative thinking]]; [[scaffolding]] them together; let them simmer in our brains.
+    - Taking a walk, going to sleep.
+    - Scaffold, then [[sleep]].
 
 ## [[Inflection Points for Tools for Thinking]]
 
