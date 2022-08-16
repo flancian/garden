@@ -130,6 +130,8 @@
     - [[readwise]] has done a great job at getting at least [[highlight]] access
     - [[betaworks]] did [[findings]]
       - founders: [[spiritual predecessor]] of [[readwise]]
+  - [[q]] over the last n years the [[tools for thought]] space has been changing; how has usage of your tool changed with that?
+    - started with [[srs]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
