@@ -136,6 +136,10 @@
     - there was a period when people thought they would do anything in a particular tool, like [[roam]]
       - people were trying to get *everything* into [[roam]]: putting documents in blocks there to be able to annotate them.
       - that has [[cooled down]]
+    - at some point they asked: what's the number one feature we need to implement to actually make money, charge for it?
+      - [[evernote]] was the first big one, that would not be the case before
+    - [[tweet threads]] 
+      - the user of [[twitter]] has helped advance the space
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
