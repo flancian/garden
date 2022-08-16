@@ -320,6 +320,7 @@
       - [[1968]] [[computer as a communication device]]
       - the users were the ones who turned the internet into a communication medium
     - [[stackexchange]]
+    - the model of an expert who broadcasts knowledge isn't as useful as a group or community of people who are [[learning together]] ~ [[colearning]]
   
 ## [[Q&A]]
 
