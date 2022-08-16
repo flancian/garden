@@ -6,7 +6,8 @@
   - I'll be [[scribing]] live, let's see how it goes :)
     - If you're viewing this on anagora.org, you can join in and take notes in the public document ("stoa") below.
     - I'll use one section below per session; I'll probably only do one or two live though.
-  - [[plexus]]
+  - [[plexus]] will be used here (hadn't heard of it)
+  - #pull [[render]]
 
 ## [[How Do We Define Tools for Thinking and Why Do They Matter?]]
 - [[john borthwick]] [[jerry michalski]]
@@ -350,6 +351,10 @@
 - [[jerry michalski]]
   - case: [[blair]] (sp?) scribbling all posts in the [[well]] before suicide :(
     - [[tribute]]
+- #q is there a place for [[authority figures]] without going back to [[gatekeeping]]
+  - [[authority figure]] can be a loaded term
+  - [[authority of the text]]: how much you can trust the text, and the person
+  - teaching experience: [[social media]]
   
 ## [[Q&A]]
 
