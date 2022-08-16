@@ -352,14 +352,17 @@
   - case: [[blair]] (sp?) scribbling all posts in the [[well]] before suicide :(
     - [[tribute]]
 - #q is there a place for [[authority figures]] without going back to [[gatekeeping]]
-  - [[authority figure]] can be a loaded term
+  - [[howard rheingold]] [[authority figure]] can be a loaded term
   - [[authority of the text]]: how much you can trust the text, and the person
   - teaching experience: [[social media]]
   - there's a place for [[authority]] and for [[questioning authority]]
     - questioning is even more important now that we have fewer [[gatekeepers]]
-  - [[the great transformation]]
+  - [[jerry michalski]] [[the great transformation]]
     - "don't ever read this book"
     - critique of [[polanyi]]
+    - how do we steer away from radicalization as it's endorsed/enabled by corporate platforms?
+- #q (missed the gist of question about tools for thought, check)
+  - [[howard rheingold]]
   
 ## [[Q&A]]
 
