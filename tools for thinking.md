@@ -29,6 +29,10 @@
     - #push [[jerry's brain]]
       - one [[mindmap]] since [[1997]], this dec will be [[25]] years
     - [[one million]] thoughts
+  - [[dioramas]] out of [[toothpicks]]
+  - [[opinions]]
+  - [[hypercard]] could have been the future (might be still!)
+    - [[bubble charter]]
 
 ## [[Inflection Points for Tools for Thinking]]
 
