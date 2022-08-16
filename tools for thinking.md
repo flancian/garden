@@ -52,8 +52,14 @@
     - [[open access]] influencing research, journalism, politics and governance
     - #push [[agora]]
       - [[making better decisions together as a society]]
+  - first thing recorded was [[theatre]]
+    - put the camera on a [[dolly]] and you get the vocabulary of cinema (pans, …)
+    - [[internet]] is stuck in v1
+    - we have not levelled up because of [[drm]] and other constraints
+    - we need to liberate it and instrument it or make it [[executable]]
 
 ## [[Inflection Points for Tools for Thinking]]
+- [[daniel doyon]] [[tristan homsi]] [[john borthwick]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
