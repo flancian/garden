@@ -328,6 +328,7 @@
   - technology is advancing so fast that [[fake info]] risks becoming uncontrollable
     - solution unknown but might require algorithmic filtering
       - -> [[open source algorithms]] in the [[commons]] may be the solution IMHO
+  - who do you [[trust]]? can you adopt their lists (adopt their trust)?
   
 ## [[Q&A]]
 
