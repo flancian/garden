@@ -133,6 +133,9 @@
   - [[q]] over the last n years the [[tools for thought]] space has been changing; how has usage of your tool changed with that?
     - started with [[srs]]
     - started with [[kindle]] highlights, disentangling and making useful
+    - there was a period when people thought they would do anything in a particular tool, like [[roam]]
+      - people were trying to get *everything* into [[roam]]: putting documents in blocks there to be able to annotate them.
+      - that has [[cooled down]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
