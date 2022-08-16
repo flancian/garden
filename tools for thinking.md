@@ -10,7 +10,8 @@
 
 ## [[How Do We Define Tools for Thinking and Why Do They Matter?]]
 - [[john borthwick]] [[jerry michalski]]
-- How can a [[computer]] be a better [[tool for thinking]]?
+- [[john borthwick]]
+  - How can a [[computer]] be a better [[tool for thinking]]?
 
 ## [[Inflection Points for Tools for Thinking]]
 
