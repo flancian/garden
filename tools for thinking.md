@@ -261,6 +261,9 @@
   - [[article]]
     - [[man computer symbiosis]]
   - [[J.C.R. Licklider]] got a position (which one?), had read [[Douglas Engelbart]].
+    - [[licklider]] funded (sp?) [[engelbart]]
+    - led to [[mother of all demos]]
+    - [[integrated systems of humans]] using [[language]], [[artifacts]], [[methodology]], [[training]]
 
 ## [[Q&A]]
 
