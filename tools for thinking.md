@@ -197,6 +197,12 @@
     - [[planet scale challenges]]
       - [[climate crisis]]
       - [[kardashev]] [[type 3 civilizations]]
+      - #push [[protopoi]]
+        - space of [[possible futures]]
+      - outcome is a function of how we learn to [[think together]]
+      - thinking together as a [[whole planet]]
+    - #push [[flanbook]]
+      - [[apps]] trap [[thoughts]] in [[saas silos]]
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
