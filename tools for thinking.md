@@ -289,6 +289,9 @@
     - there are ways of using visualizations of what we know to think
 - #q [[howard rheingold]] do you think of the brain as a way to think or a tool? (check?)
   - Jerry thinks of it as [[photoshop]] for ideas
+  - (Demo bridging several nodes to [[cholera]].)
+  - Putting all nodes side by side in a single tool (interface) is instrumental.
+  - Thebrain's flexibility is one of the most attractive factors.
 
   
 ## [[Q&A]]
