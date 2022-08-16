@@ -282,8 +282,13 @@
         - improving your ability to improve
     - vision of [[c work]] done as [[skunkworks]], introducing innovation to [[b work]] sections
   - vision was an [[integrated toolkit]]
-    - note taking apps, rapid learning apps
+  - note taking apps, rapid learning apps
     - we need to integrate these things as a [[toolkit]], integrate [[thinking environments]]
+    - there are [[relationships]] that really need to be made more clear
+      - [[knowledge tools]], [[learning tools]], [[thinking tools]]
+    - there are ways of using visualizations of what we know to think
+- #q [[howard rheingold]] do you think of the brain as a way to think or a tool? (check?)
+  - Jerry thinks of it as [[photoshop]] for ideas
 
   
 ## [[Q&A]]
