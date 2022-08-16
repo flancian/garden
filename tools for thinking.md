@@ -336,6 +336,9 @@
     - #push [[fellowship of the link]]
       - remembers asking questions on (forum name missing)
       - a maybe nicer/simpler time, but points at potential
+- #q On [[misinformation]]/disinformation. Politically: what's your view on the human mind itself, thinking of it as self-reinforcing loops? if you have a personal belief and you may or may not reinforce it.
+  - [[confirmation bias]]: more attuned to evidence that supports what we already believe
+  - the role of emotion and [[attachment]]
   
 ## [[Q&A]]
 
