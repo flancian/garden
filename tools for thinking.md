@@ -171,6 +171,11 @@
       - [[blocks]] -> [[docs]]
     - [[document]] ~ [[doc]]
       - you have [[blocks]] and [[docs]]
+      - imagine your thoughts being injected into a doc
+    - meaning exchange for [[knowledge blobs]]
+      - annotation
+      - highlight
+      - notes that you take while reading
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
