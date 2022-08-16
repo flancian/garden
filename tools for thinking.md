@@ -373,6 +373,13 @@
       - governments
       - ...and they tend not to like that :)
     - when do you teach it? is elementary school too early?
+- #q [[michael]] thank you for your book. Two pieces to the description earlier of analog thinking extension: (...). How do those map, or not, to digital tools?
+  - experiments with new interfaces
+    - move blocks around and change the computer landscape
+  - book: [[the extended mind]]
+    - there's a lot of research that shows that teachers who use gestures are more effective teachers
+    - our bodies and how we manipulate forms in space communicate a way of thinking
+  - [[jerry michalski]] sometimes a computer can slow you down and ask: how are you feeling right now? there's many processes (e.g. somatic) ongoing; slowing down and becoming mindful can help you become aware of them.
   
 ## [[Q&A]]
 
