@@ -180,6 +180,8 @@
 - #q on the toolchain aspect of the [[plumbing]]: love how you can jump from tool to tool. How much effort do you put into customizing the ingestion engines? On the Enterprise side: would love [[readwise]] for [[slack]] :)
   - hacked into something like the latter :)
     - -> I think bots like [[agora bot]] are sufficient?
+  - [[jinja]] seemed to solve all problems
+    - [[low floor, high ceiling approach]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
