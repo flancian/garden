@@ -123,6 +123,9 @@
   - [[uncanny valley]]
     - [[transcripts]] almost at human level but not quite
     - but it seems like [[text to speech]] and [[speech to text]] can be assumed to be coming, you can probably assume that transcripts for everything will be available
+  - #push [[amazon]]
+    - one company is controlling ebooks and is making it hard to innovate (if I got that right?)
+  - bet: innovation more likely either on [[podcast]] side or [[text to speech]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
