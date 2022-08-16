@@ -1,4 +1,5 @@
 - A [[person]]
+  - [[friend]] [[fellowship of the link]] [[tools for thinking]]
 	- #twitter https://twitter.com/jerrymichalski
 	- #email sociate@gmail.com
 	- #go https://www.jerrysbrain.com/welcome
