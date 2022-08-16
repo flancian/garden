@@ -1,2 +1,3 @@
 - a [[person]].
   - #twitter https://twitter.com/hrheingold
+  - [[tools for thinking]]
