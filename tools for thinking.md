@@ -306,7 +306,8 @@
     - when [[shopping for a tool]], it's hard to figure out which features we need a priori
     - some tools are very workflow opinionated, very rigid
       - e.g. tools that enforce color coding
-    - 
+- #q [[jerry michalski]] you set out to explore these tools and report back; what did you learn from your journeys?
+  - [[howard rheingold]] throughout history, we see that people who use tools find things to do with them
 
   
 ## [[Q&A]]
