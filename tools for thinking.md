@@ -325,6 +325,9 @@
   - daughter started using search engines to do homework
   - had to explain that up until now when teachers assigned a book, there were a number of authorities participating in that assignment (and could potentially act as gatekeepers)
     - it's up to you to determine if it is [[good]] information, [[bad]] information, [[misinformation]].
+  - technology is advancing so fast that [[fake info]] risks becoming uncontrollable
+    - solution unknown but might require algorithmic filtering
+      - -> [[open source algorithms]] in the [[commons]] may be the solution IMHO
   
 ## [[Q&A]]
 
