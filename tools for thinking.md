@@ -162,6 +162,15 @@
       - but it's very [[web focused]]
     - (the stream glitched for me here, lost about a minute)
 - [[john borthwick]] on the [[knowledge blob]]: it should be transportable
+  - they had to come up with their own core abstractions when developing their reading app.
+  - why don't we build on top of a [[block]] architecture]]?
+  - "like it was the fashion at the time" :)
+    - metaphor from user feedback: no, it doesn't really work, it's too soupy (?)
+    - it felt "too liquid"
+    - how to turn [[fluid thoughts]] into [[coherent text]]
+      - [[blocks]] -> [[docs]]
+    - [[document]] ~ [[doc]]
+      - you have [[blocks]] and [[docs]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
