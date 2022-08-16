@@ -8,6 +8,7 @@
     - I'll use one section below per session; I'll probably only do one or two live though.
   - [[plexus]] will be used here (hadn't heard of it)
   - [[render]]
+  - see also [[tools for thought]] (a different group/term, but with some overlapping members)
 
 ## [[How Do We Define Tools for Thinking and Why Do They Matter?]]
 - [[john borthwick]] [[jerry michalski]]
