@@ -246,12 +246,15 @@
       - the [[steves]] standing on the shoulders of giants
     - it didn't come from defense contractors, it didn't come from corporations, it cames from [[individuals]] who used what institutions provided to build tools for thinking
     - [[engelbart]]
-    - (missed one name here or two)
+    - (missed one name here or two, check recording)
     - [[von neumann]]
     - [[alan turing]]
     - [[boole]]
     - [[lovelace]]
     - [[babbage]]
+  - led him to create.
+- [[jerry michalski]]
+  - [[vannevar bush]] [[memex]]
 
 ## [[Q&A]]
 
