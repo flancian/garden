@@ -105,6 +105,8 @@
         - then [[sequence]]]
       - [[repeat]]
         - you can get to 80% of the work fast this way
+    - how does this compare to [[gpt-3]] generation? asker feels that AI based suggestions aren't really that great
+      - can't speak about better/worse, but for some people this might feel easier
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
