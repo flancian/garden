@@ -6,8 +6,11 @@
   - I'll be [[scribing]] live, let's see how it goes :)
     - If you're viewing this on anagora.org, you can join in and take notes in the public document ("stoa") below.
     - I'll use one section below per session; I'll probably only do one or two live though.
+  - [[plexus]]
 
 ## [[How Do We Define Tools for Thinking and Why Do They Matter?]]
+- [[john borthwick]] [[jerry michalski]]
+- How can a [[computer]] be a better [[tool for thinking]]?
 
 ## [[Inflection Points for Tools for Thinking]]
 
