@@ -78,6 +78,9 @@
     - then [[roam]] (blew up in 2021), first somewhat mainstream [[graph database]]
       - [[backlinks]] and [[transclusion]]
       - [[daily notes]] page
+    - then many tools coming online, but no clear next item of big innovation
+      - #push [[agora]]
+        - waiting for the next [[inflection point]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
