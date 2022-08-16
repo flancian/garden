@@ -227,6 +227,8 @@
         - you own your keys, you put them in a [[wallet]]
         - fits [[passwordless sign on]] ~ [[passkeys]]
         - you [[own your identity]], very important to them
+        - leverages [[did]] and such
+      - [[sphere servers]] are [[superpeers]]. personal [[ipfs gateways]].
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
