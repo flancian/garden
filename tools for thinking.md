@@ -3,3 +3,5 @@
   - #event https://www.eventbrite.com/e/render-tools-for-thinking-tickets-387188961607
   - #go https://www.betaworks.com/event/render-tools-for-thinking#livestream-section
   - organized by [[betaworks]]
+  - I'll be [[scribing]] live, let's see how it goes :)
+    - If you're viewing this on anagora.org, you can join in and take notes in the public document ("stoa") below.
