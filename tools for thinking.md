@@ -189,7 +189,14 @@
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 - [[gordon brander]] on [[subconscious]]
-- (87 people watching at this point in time)
+  - (87 people watching at this point in time)
+  - actually talking about something on a larger scale than [[subconscious]]
+  - the internet is already a tool for thought
+  - we've gone through [[sense making crises]] several times on a historical level
+  - we're going through another and we'll need to get through it
+    - [[planet scale challenges]]
+      - [[climate crisis]]
+      - [[kardashev]] [[type 3 civilizations]]
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
