@@ -232,8 +232,10 @@
         - [[gossip network]]
 
 ## [[The History and Future of Software as Tools for Thinking]]
+- (missed the first minute)
 - [[jerry michalski]] with [[howard rheingold]]
   - how do communities work? how do we get smarter humans?
+  - pass the floor
 
 ## [[Q&A]]
 
