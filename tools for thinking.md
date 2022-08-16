@@ -144,6 +144,8 @@
     - [[consumer vs enterprise]]
       - vs
         - [[single player]] vs [[multiplayer]]
+    - enterprise is in the back of their minds, but it's not currently core
+    - enterprise saas is a great business model though, but there's not as clear an enterprise vision for now
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
