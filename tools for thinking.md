@@ -294,6 +294,16 @@
   - thebrain's flexibility is one of the most attractive factors.
   - [[howard rheingold]] it externalizes your memory
     - [[the magic number 7]]
+    - offloading leading going to higher levels of abstraction
+    - thinking visually w.r.t. the network of connections leads to a new framework of thought that would be otherwise difficult to hold in our minds at once
+  - -> Howard wrote books before some of these tools; his office was plastered with papers and notes
+    - Stacks of notes that could be moved around.
+    - Ability to externalize was there; the ability to think with symbolic items.
+  - [[jerry michalski]]
+    - [[expressive capacity]]
+    - different tools have different expressive capacity
+    - when [[cad]] was new, it lacked a lot of the features it has now
+    - when [[shopping for a tool]], it's hard to figure out which features we need a priori
 
   
 ## [[Q&A]]
