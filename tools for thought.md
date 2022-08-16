@@ -5,4 +5,6 @@
   - #pull  [[pkm]] [[digital gardens]]
   - https://twitter.com/FISSIONcodes/status/1393223331482984450
 - a [[group]].
+  - Uses [[lu.ma]] to organize]].
+  - [[bmann]]
   - #pull [[tools for thinking]] (a conference) seems unrelated but the groups have overlapping members. 

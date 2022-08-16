@@ -395,6 +395,8 @@
     - [[lerl]] (sp?)
   - took [[lsd]] again at some point, put on [[google earth]] and had a realization that what [[google]] was doing was building an [[ai]]
 - #q what do you think about [[tools for thought]] for modeling, simulations
+  - (had to context switch but this sounded interesting)
+  - [[betterverse]]
   
 ## [[Q&A]]
 - Had to drop out for the day by now to prep dinner and start winding down for the night :)
