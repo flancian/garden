@@ -60,10 +60,13 @@
 
 ## [[Inflection Points for Tools for Thinking]]
 - [[john borthwick]]
-  - #push [[readwise]]
-    - [[daniel doyon]] [[tristan homsi]] 
+    - introduces [[daniel doyon]] [[tristan homsi]] 
+- #push [[readwise]]
+  - [[daniel doyon]] [[tristan homsi]] 
   - [[superhuman]]
   - passion for: [[reading]] and [[spaced repetition]]
+  - how to improve [[reading]] the same way computers improved [[writing]]
+  - tool to [[resurface]] (-> [[reinforce]])
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
