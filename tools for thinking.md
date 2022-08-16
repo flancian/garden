@@ -72,7 +72,8 @@
   - belief that there will be a lot of change in this space
   - when they started, [[evernote]] was the most popular request -- that's changed a lot since then
   - on a macro level
-    - paradigm shift -> [[notion]], block based architecture
+    - paradigm shift with [[notion]] (2017-2020), block based architecture
+    - other innovation: [[multiplayer]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
