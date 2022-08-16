@@ -132,6 +132,7 @@
       - founders: [[spiritual predecessor]] of [[readwise]]
   - [[q]] over the last n years the [[tools for thought]] space has been changing; how has usage of your tool changed with that?
     - started with [[srs]]
+    - started with [[kindle]] highlights, disentangling and making useful
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
