@@ -184,7 +184,8 @@
     - [[low floor, high ceiling approach]]
     - -> interesting, [[agora protocol]] seems related
 - #q Use cases in education; have you been thought about getting involved with schools? Have you thought about the impact of adoption by students who could be forced to use it? :)
-  - 
+  - Education just hasn't been something they've been successful at, haven't found a way to penetrate that field.
+    - -> [[hypothes.is]] collaboration?
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
