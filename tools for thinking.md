@@ -111,6 +111,8 @@
       - the AI can't be the product
       - you won't print an essay ghost written by [[gpt-3]]
         - -> yet? what about the recent paper that *was* written by [[gpt-3]], and for which they got first [[authorship]]?
+    - [[john borthwick]] many silos enforcing separation between ideas; also a risk of being fascinated by the technology or the tool
+      - [[jerry michalski]] is a good example of focusing on the thoughts, on the information, going beyond the [[tool]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
