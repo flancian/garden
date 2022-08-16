@@ -7,7 +7,7 @@
     - If you're viewing this on anagora.org, you can join in and take notes in the public document ("stoa") below.
     - I'll use one section below per session; I'll probably only do one or two live though.
   - [[plexus]] will be used here (hadn't heard of it)
-  - #pull [[render]]
+  - [[render]]
 
 ## [[How Do We Define Tools for Thinking and Why Do They Matter?]]
 - [[john borthwick]] [[jerry michalski]]
