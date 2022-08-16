@@ -1,0 +1,5 @@
+- a [[conference]].
+  - [[2022-08-16]]
+  - #event https://www.eventbrite.com/e/render-tools-for-thinking-tickets-387188961607
+  - #go https://www.betaworks.com/event/render-tools-for-thinking#livestream-section
+  - organized by [[betaworks]]
