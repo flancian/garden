@@ -12,7 +12,9 @@
 - [[john borthwick]] [[jerry michalski]]
   - How can a [[computer]] be a better [[tool for thinking]]?
   - The word information -> better forming our minds.
-  - How to take all the ideas of a flow of information and analyzing them as they influence the world.
+  - How to take all the [[ideas]] of a flow of information and analyzing them as they influence the world.
+  - What can we do with well tuned datasets??
+  - [[open protocols]]
 
 ## [[Inflection Points for Tools for Thinking]]
 
