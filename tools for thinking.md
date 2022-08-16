@@ -37,6 +37,7 @@
   - [[demo]]
     - [[mind mapping]]
     - [[visual analysis tools]]
+    - [[mapping tools for thinking]]
 
 ## [[Inflection Points for Tools for Thinking]]
 
