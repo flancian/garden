@@ -93,6 +93,7 @@
     - #push [[readwise]] didn't want to raise any money, unsure of the venture scale
       - started charging a monthly fee for a consumer product (shock! :)), now can support a small team
       - [[bootstrapped]]
+    - if you don't have the enterprise use case and are consumer based instead, it's unclear how sustainable you can be a priori (-> in the current landscape; but that might be ripe for a change, enough people *want* a way out of walled gardens, want 
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
