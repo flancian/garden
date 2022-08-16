@@ -130,7 +130,7 @@
     - [[readwise]] has done a great job at getting at least [[highlight]] access
     - [[betaworks]] did [[findings]]
       - founders: [[spiritual predecessor]] of [[readwise]]
-  - [[q]] over the last n years the [[tools for thought]] space has been changing; how has usage of your tool changed with that?
+  - #q over the last n years the [[tools for thought]] space has been changing; how has usage of your tool changed with that?
     - started with [[srs]]
     - started with [[kindle]] highlights, disentangling and making useful
     - there was a period when people thought they would do anything in a particular tool, like [[roam]]
@@ -150,6 +150,16 @@
     - attention is more often split when listening
     - less information absorbed when people are listening
     - are you able to unplug and read for, say, 20 minutes?
+    - "throw all your technology away, go into a cottage and read paper"
+      - the problem can probably be solved this way, but that's not feasible actually
+      - "fight technology with technology"
+      - maybe it's good to be able to read on your smartphone, how do you accomplish that?
+      - [[emergent reading]] (?)
+  - #q it seems you're in the position of [[owning the plumbing]]: can you lean into that, are you blocked by the players in this space?
+    - it would be great to have an [[open standard]]
+    - [[annotations]] [[hypothesis]]
+      - [[chrome]] has started to add a little bit to it
+      - but it's very [[web focused]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
