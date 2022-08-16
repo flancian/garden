@@ -315,6 +315,7 @@
     - [[researchers]] started using the network to talk about things like [[science fiction]]
     - [[bob taylor]]: lesser known but very important character
       - check out the video with [[john m.]] from [[university of texas]] at austin
+    - researchers supported the emerging community
   
 ## [[Q&A]]
 
