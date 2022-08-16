@@ -291,7 +291,8 @@
   - Jerry thinks of it as [[photoshop]] for ideas
   - (Demo bridging several nodes to [[cholera]].)
   - Putting all nodes side by side in a single tool (interface) is instrumental.
-  - Thebrain's flexibility is one of the most attractive factors.
+  - thebrain's flexibility is one of the most attractive factors.
+  - [[howard rheingold]] it externalizes your memory
 
   
 ## [[Q&A]]
