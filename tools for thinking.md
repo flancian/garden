@@ -114,6 +114,10 @@
     - [[john borthwick]] many silos enforcing separation between ideas; also a risk of being fascinated by the technology or the tool
       - [[jerry michalski]] is a good example of focusing on the thoughts, on the information, going beyond the [[tool]]
       - it feels like the space has gone [[mainstream]] now
+        - but we're really still in the [[early adopter]] phase
+    - [[audio]]?
+      - grown a lot in audio
+      - 15-20% a year (check?)
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
