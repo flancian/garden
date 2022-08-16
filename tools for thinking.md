@@ -59,7 +59,11 @@
     - we need to liberate it and instrument it or make it [[executable]]
 
 ## [[Inflection Points for Tools for Thinking]]
-- [[daniel doyon]] [[tristan homsi]] [[john borthwick]]
+- [[john borthwick]]
+  - #push [[readwise]]
+    - [[daniel doyon]] [[tristan homsi]] 
+  - [[superhuman]]
+  - passion for: [[reading]] and [[spaced repetition]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
