@@ -140,6 +140,10 @@
       - [[evernote]] was the first big one, that would not be the case before
     - [[tweet threads]] 
       - the user of [[twitter]] has helped advance the space
+  - [[q]] if you did [[enterprise]], what would you do?
+    - [[consumer vs enterprise]]
+      - vs
+        - [[single player]] vs [[multiplayer]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
