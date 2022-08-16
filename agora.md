@@ -1,5 +1,7 @@
 # Agora
 
+- a [[protocol]].
+  - #pull [[agora protocol]].
 - **The Agora is a distributed knowledge graph and experimental social network.**
 	- See [[go/agora-slides]] if you'd like a 10' introduction to the key concepts.
 - The [[agora]] you're likely reading this in, `anagora.org`, is just one of many. 
