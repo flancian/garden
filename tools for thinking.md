@@ -34,6 +34,9 @@
   - [[hypercard]] could have been the future (might be still!)
     - [[bubble charter]]
     - long standing addiction to the tool
+  - [[demo]]
+    - [[mind mapping]]
+    - [[visual analysis tools]]
 
 ## [[Inflection Points for Tools for Thinking]]
 
