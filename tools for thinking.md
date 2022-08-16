@@ -126,6 +126,8 @@
   - #push [[amazon]]
     - one company is controlling ebooks and is making it hard to innovate (if I got that right?)
   - bet: innovation more likely either on [[podcast]] side or [[text to speech]]
+  - [[john borthwick]] the downsides of [[silos]]
+    - [[readwise]] has done a great job at getting at least [[highlight]] access
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
