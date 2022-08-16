@@ -266,12 +266,13 @@
     - [[integrated systems of humans]] using [[language]], [[artifacts]], [[methodology]], [[training]]
   - [[licklider]] has a [[psychologist]] on staff
     - later involved in [[microdosing]] experiments?
-- #q what from the original vision has worked (and maybe we take for granted) and what hasn't (yet)?
+- #q [[jerry michalski]] what from the original vision has worked (and maybe we take for granted) and what hasn't (yet)?
   - materialized:
     - pointing and clicking
     - multimedia
   - shared notebook for people working on projects was part of the original demo
-  - tried going with [[organizations]] where these tools didn't work out
+  - tried going with [[organizations]] where these tools didn't work out, but the vision was as follows
+  - #push [[works]]
     - [[a work]]
       - service or product that your enterprise created
     - [[b work]]
@@ -280,8 +281,11 @@
       - #push [[agora]]
         - improving your ability to improve
     - vision of [[c work]] done as [[skunkworks]], introducing innovation to [[b work]] sections
+  - vision was an [[integrated toolkit]]
+    - note taking apps, rapid learning apps
+    - we need to integrate these things as a [[toolkit]], integrate [[thinking environments]]
 
-  u
+  
 ## [[Q&A]]
 
 ## [[Tools for Thinking Product Demos]]
