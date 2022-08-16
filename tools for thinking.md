@@ -316,6 +316,10 @@
     - [[bob taylor]]: lesser known but very important character
       - check out the video with [[john m.]] from [[university of texas]] at austin
     - researchers supported the emerging community
+    - [[intergalactic network]]
+      - [[1968]] [[computer as a communication device]]
+      - the users were the ones who turned the internet into a communication medium
+    - [[stackexchange]]
   
 ## [[Q&A]]
 
