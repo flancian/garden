@@ -128,6 +128,8 @@
   - bet: innovation more likely either on [[podcast]] side or [[text to speech]]
   - [[john borthwick]] the downsides of [[silos]]
     - [[readwise]] has done a great job at getting at least [[highlight]] access
+    - [[betaworks]] did [[findings]]
+      - founders: [[spiritual predecessor]] of [[readwise]]
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
