@@ -329,6 +329,9 @@
     - solution unknown but might require algorithmic filtering
       - -> [[open source algorithms]] in the [[commons]] may be the solution IMHO
   - who do you [[trust]]? can you adopt their lists (adopt their trust)?
+  - [[sift]] if you're trying to check the veracity of that webpage, get off that webpage
+    - search name of the author for example
+    - -> metadata overlay for the web? provided by [[hypothes.is]], [[noosphere]], [[agora]]
   
 ## [[Q&A]]
 
