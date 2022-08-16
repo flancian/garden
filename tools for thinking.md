@@ -140,12 +140,16 @@
       - [[evernote]] was the first big one, that would not be the case before
     - [[tweet threads]] 
       - the user of [[twitter]] has helped advance the space
-  - [[q]] if you did [[enterprise]], what would you do?
+  - #q if you did [[enterprise]], what would you do?
     - [[consumer vs enterprise]]
       - vs
         - [[single player]] vs [[multiplayer]]
     - enterprise is in the back of their minds, but it's not currently core
     - enterprise saas is a great business model though, but there's not as clear an enterprise vision for now
+  - #q on [[information density]] are people reading slower? it takes twice as long to listen than to read
+    - attention is more often split when listening
+    - less information absorbed when people are listening
+    - are you able to unplug and read for, say, 20 minutes?
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
