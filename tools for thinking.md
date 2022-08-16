@@ -357,6 +357,8 @@
   - teaching experience: [[social media]]
   - there's a place for [[authority]] and for [[questioning authority]]
     - questioning is even more important now that we have fewer [[gatekeepers]]
+  - [[the great transformation]]
+    - "don't ever read this book"
   
 ## [[Q&A]]
 
