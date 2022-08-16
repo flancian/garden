@@ -339,6 +339,10 @@
 - #q On [[misinformation]]/disinformation. Politically: what's your view on the human mind itself, thinking of it as self-reinforcing loops? if you have a personal belief and you may or may not reinforce it.
   - [[confirmation bias]]: more attuned to evidence that supports what we already believe
   - the role of emotion and [[attachment]]
+  - don't know the answer to how to solve these tensions
+  - how to pull in the right people into the right discussions/contexts
+  - human prejudices which keep us from learning things that we have not been yet trained to learn
+    - doesn't mean we won't discover ways to work around that
   
 ## [[Q&A]]
 
