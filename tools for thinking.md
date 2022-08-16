@@ -5,3 +5,19 @@
   - organized by [[betaworks]]
   - I'll be [[scribing]] live, let's see how it goes :)
     - If you're viewing this on anagora.org, you can join in and take notes in the public document ("stoa") below.
+
+## How Do We Define Tools for Thinking and Why Do They Matter?
+
+## Inflection Points for Tools for Thinking
+
+## Demo: Protocol Design for Tools for Thinking
+
+## The History and Future of Software as Tools for Thinking
+
+## Q&A
+
+## Tools for Thinking Product Demos
+
+## Leveraging AI and ML in Building New Tools for Thinking
+
+## Idea Dimensionality and Representing Semantic Meaning
