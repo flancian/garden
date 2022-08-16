@@ -399,10 +399,13 @@
   - [[betterverse]]
   
 ## [[Q&A]]
-- Had to drop out for the day by now to prep dinner and start winding down for the night :)
+- Have to drop out for the day by now to prep dinner and start winding down for the night :)
 
 ## [[Tools for Thinking Product Demos]]
+- TBD.
 
 ## [[Leveraging AI and ML in Building New Tools for Thinking]]
+- TBD.
 
 ## [[Idea Dimensionality and Representing Semantic Meaning]]
+- TBD.
