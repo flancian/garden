@@ -25,6 +25,10 @@
   - [[protocol]]
     - [[jazz hands]] means agreement
     - [[downward jazz]] means disagreement
+  - #push [[thebrain]] ~ [[the brain]]
+    - #push [[jerry's brain]]
+      - one [[mindmap]] since [[1997]], this dec will be [[25]] years
+    - [[one million]] thoughts
 
 ## [[Inflection Points for Tools for Thinking]]
 
