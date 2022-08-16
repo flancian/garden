@@ -279,6 +279,7 @@
     - [[c work]]
       - #push [[agora]]
         - improving your ability to improve
+    - vision of [[c work]] done as [[skunkworks]], introducing innovation to [[b work]] sections
 
   u
 ## [[Q&A]]
