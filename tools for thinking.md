@@ -101,7 +101,7 @@
       - some people do this:
         - [[word vomit]] the start of an essay
         - delineate [[fragments]], do theme reviews (on key terms?) over weeks
-          - (-> [[wikilinks]]?)
+          - -> [[wikilinks]]?
         - then [[sequence]]]
       - [[repeat]]
         - you can get to 80% of the work fast this way
