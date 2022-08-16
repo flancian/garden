@@ -362,7 +362,17 @@
     - critique of [[polanyi]]
     - how do we steer away from radicalization as it's endorsed/enabled by corporate platforms?
 - #q (missed the gist of question about tools for thought, check)
-  - [[howard rheingold]]
+  - [[howard rheingold]] standard psychological tests with people and substituted a computer or cartoon rendition of a person or a computer voice: people attribute human qualities to things that computers do
+  - we have not evolved to make a distinction between synthetic and organic voices
+  - understanding our limitations can lead to working around them
+  - one problem with teaching critical thinking:
+    - if you teach questioning authority, they will question:
+      - teachers
+      - family
+      - schools
+      - governments
+      - ...and they tend not to like that :)
+    - when do you teach it? is elementary school too early?
   
 ## [[Q&A]]
 
