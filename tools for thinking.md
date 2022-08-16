@@ -177,6 +177,7 @@
       - highlight
       - notes that you take while reading
     - when you want to read a 120 tweet thread, you actually want to see that as a [[document]] that you can [[annotate]] as a whole
+- #q on the toolchain aspect of the [[plumbing]]: love how you can jump from tool to tool. how much effort do you put into customizing the ingestion engines?
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
