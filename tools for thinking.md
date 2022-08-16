@@ -270,7 +270,7 @@
   - materialized:
     - pointing and clicking
     - multimedia
-    - shared notebook
+  - shared notebook for people working on projects was part of the original demo
 
 ## [[Q&A]]
 
