@@ -120,6 +120,8 @@
     - 15-20% a year (check?)
     - transforming audio to a block or a highlight: there are early attempts, podcasting [[air]] or [[snipped]] (?)
     - not a seamless experience
+  - [[uncanny valley]]
+    - [[transcripts]] almost at human level but not quite
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
