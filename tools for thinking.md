@@ -380,8 +380,17 @@
     - there's a lot of research that shows that teachers who use gestures are more effective teachers
     - our bodies and how we manipulate forms in space communicate a way of thinking
   - [[jerry michalski]] sometimes a computer can slow you down and ask: how are you feeling right now? there's many processes (e.g. somatic) ongoing; slowing down and becoming mindful can help you become aware of them.
+    - physiological responses to new information.
+    - can we find that moment and call it out? offer a chance to slow down then, going deeper?
+  - [[jerry michalski]] there are people who are aware of their heartbeat and people who aren't
+    - stock brokers: people who are aware of their heartbeat make better financial decisions (I think; the stream cut out for 10s)
+- #q what's the more psychoactive experience you've had with a computer?
+  - talked way into [[xerox parc]], got access to an [[alto]] computer with a [[5mb]] hard disk
+    - being able to move a paragraph around without retyping a page (!)
+    - "it was [[blissful]]" :D
   
 ## [[Q&A]]
+- Had to drop out for the day by now to prep dinner and start winding down for the night :)
 
 ## [[Tools for Thinking Product Demos]]
 
