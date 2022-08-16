@@ -343,6 +343,10 @@
   - how to pull in the right people into the right discussions/contexts
   - human prejudices which keep us from learning things that we have not been yet trained to learn
     - doesn't mean we won't discover ways to work around that
+  - we have to think of the strong connections between artifacts, language, metodology, training as they enable us to understand the psychology of the individual and the group
+  - [[experts on the well]] (sp?) is still around
+  - #push [[agora]]
+    - [[social capital]], [[knowledge capital]], [[community]] are all key
   
 ## [[Q&A]]
 
