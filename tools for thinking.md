@@ -244,6 +244,14 @@
     - if you weren't in [[xerox parc]] you just didn't have what he showed on screen
     - then [[time magazine]] making the [[personal computer]] [[person of the year]]
       - the [[steves]] standing on the shoulders of giants
+    - it didn't come from defense contractors, it didn't come from corporations, it cames from [[individuals]] who used what institutions provided to build tools for thinking
+    - [[engelbart]]
+    - (missed one name here or two)
+    - [[von neumann]]
+    - [[alan turing]]
+    - [[boole]]
+    - [[lovelace]]
+    - [[babbage]]
 
 ## [[Q&A]]
 
