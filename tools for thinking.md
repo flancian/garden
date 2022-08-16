@@ -348,7 +348,8 @@
   - #push [[agora]]
     - [[social capital]], [[knowledge capital]], [[community]] are all key
 - [[jerry michalski]]
-  - case: scribbling all posts in the [[well]] before suicide :(
+  - case: [[blair]] (sp?) scribbling all posts in the [[well]] before suicide :(
+    - [[tribute]]
   
 ## [[Q&A]]
 
