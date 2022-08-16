@@ -308,7 +308,13 @@
       - e.g. tools that enforce color coding
 - #q [[jerry michalski]] you set out to explore these tools and report back; what did you learn from your journeys?
   - [[howard rheingold]] throughout history, we see that people who use tools find things to do with them
-
+  - the [[internet]] is a good example: there is a myth that it was created as a bomb proof communication medium.
+    - actually [[packet switching]] was created for that purpose
+    - which was then adopted for the internet 
+    - people like [[licklider]] knew of the need to network to exchange information
+    - [[researchers]] started using the network to talk about things like [[science fiction]]
+    - [[bob taylor]]: lesser known but very important character
+      - check out the video with [[john m.]] from [[university of texas]] at austin
   
 ## [[Q&A]]
 
