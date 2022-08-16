@@ -359,6 +359,7 @@
     - questioning is even more important now that we have fewer [[gatekeepers]]
   - [[the great transformation]]
     - "don't ever read this book"
+    - critique of [[polanyi]]
   
 ## [[Q&A]]
 
