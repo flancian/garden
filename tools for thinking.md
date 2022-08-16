@@ -222,6 +222,11 @@
         - a pointer to some content on [[ipfs]]
         - a pointer to the previous version on [[ipfs]]
         - things just don't disappear anymore
+      - [[ucan]] authorizes apps to manage data on your behalf
+        - can allow us to build a [[self sovereign]] security model
+        - you own your keys, you put them in a [[wallet]]
+        - fits [[passwordless sign on]] ~ [[passkeys]]
+        - you [[own your identity]], very important to them
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
