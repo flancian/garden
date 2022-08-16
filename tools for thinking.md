@@ -42,6 +42,11 @@
     - [[team mode]] is not what he'd like
     - how to allow different people to use different tools, yet still create an aggregated insight
   - we're dumber than we normally would be
+    - [[kardashians]] family details vs [[politics]], how we focus our attention
+    - building a [[shared memory]] is a piece in the puzzle we need to solve to make society better
+    - [[better recall]] leads to [[reinforcement]]
+  - two more points
+    - [[zettelkasten]]
 
 ## [[Inflection Points for Tools for Thinking]]
 
