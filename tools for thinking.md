@@ -68,6 +68,8 @@
   - how to improve [[reading]] the same way computers improved [[writing]]
   - tool to [[resurface]] (-> [[reinforce]])
   - started with [[zapier]]
+- [[john borthwick]] where do you see us by the end of the decade?
+  - belief that there will be a lot of change in this space
 
 ## [[Demo: Protocol Design for Tools for Thinking]]
 
