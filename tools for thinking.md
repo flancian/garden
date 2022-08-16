@@ -221,6 +221,7 @@
         - [[header metadata]] 
         - a pointer to some content on [[ipfs]]
         - a pointer to the previous version on [[ipfs]]
+        - things just don't disappear anymore
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
