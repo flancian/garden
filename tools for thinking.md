@@ -204,6 +204,11 @@
       - -> [[gordon brander]] is [[building an Agora]]!
     - #push [[flanbook]]
       - [[apps]] trap [[thoughts]] in [[saas silos]]
+      - no way to think as a species
+    - #push [[agora protocol]]
+      - [[a protocol for thought]]
+    - some of the [[old dreams]]: 
+      - [[xanadu]]
 
 ## [[The History and Future of Software as Tools for Thinking]]
 
