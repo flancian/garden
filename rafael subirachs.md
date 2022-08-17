@@ -1,2 +1,4 @@
 - a [[person]].
-  - #go https://www.youtube.com/watch?v=p4Pw0pQ5EpI
+  - #push [[els segadors]] 
+    - #go https://www.youtube.com/watch?v=p4Pw0pQ5EpI
+      - old version?
