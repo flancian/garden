@@ -18,6 +18,7 @@
       - #pull [[effective altruism]] [[peter singer]]
     - #push [[revolution]]
       - #pull [[free software]] [[federation]] [[adversarial interoperability]] [[murray bookchin]]
+  - (If you don't like this Agora, that's fine -- consider improving it!)
 
 # Preamble 
 
