@@ -11,9 +11,10 @@
     - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
     - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
     - [[submission]] [[September 1]] ~ [[2022-09-01]]: The final chapter submission after which it goes into editing.
-  - #meta The preceding blocks and these children exemplify [[Agora Protocol]] (see below for a concise descriptionfor this chapter)
-    - #pull [[commons]] [[knowledge commons]] [[elinor ostrom]]
-    - #pull [[altruism]] [[effective altruism]] [[peter singer]]
+  - #meta The preceding blocks and the following [[children]] exemplify [[Agora Protocol]] (see below for a concise description.)
+    - #push [[commons]] 
+      - #pull [[knowledge commons]] [[elinor ostrom]]
+    - #pushl [[altruism]] [[effective altruism]] [[peter singer]]
     - #pull [[free software]] [[confederation]] [[adversarial interoperability]] [[revolution in the 21st century]] [[murray bookchin]]
 
 # Preamble 
