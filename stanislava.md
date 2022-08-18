@@ -1,0 +1,3 @@
+- a [[person]].
+  - I met someone tonight!
+  - I have the feeling we'll be [[friends]].
