@@ -3,13 +3,14 @@
     - Very much looking forward to the book because of others' contributions!
     - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs.
   - This chapter is about the [[Agora]] in general, and about [[an agora]] in particular, and what we could do with them together.
-  - Working title: "The Agora is a Free Distributed Knowledge Graph and Protocol"
-    - Original title (for the abstract): "The Agora is a Social Knowledge Graph"
+  - Working title: "The Agora is a Free Distributed Knowledge Graph and Protocol".
+    - Original title (for the abstract): "The Agora is a Social Knowledge Graph".
+    - Subtitle: Toward a [[Knowledge Commons]].
   - Expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
   - #push [[deadlines]]
     - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
     - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
-    - [[submission]] September 1: The final chapter submission.
+    - [[submission]] [[September 1]] ~ [[2022-09-01]]: The final chapter submission after which it goes into editing.
   - #meta the containing block and these children exemplify text based [[agora protocol]] (whose concise description is in scope for this chapter)
     - #pull [[commons]] [[knowledge commons]] [[elinor ostrom]]
     - #pull [[altruism]] [[effective altruism]] [[peter singer]]
