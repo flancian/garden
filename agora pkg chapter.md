@@ -46,15 +46,30 @@ We then cover potential applications in the [[knowledge]] and [[social]] domains
 [^protocol]: This section serves as a demonstration of a text-based action intent which, in an Agora, will result in the entity mentioned above being transcluded ("pulled", brought into the current context).
 
 # Background
+The Agora can be defined in a nutshell as a platform and protocol for provisioning and maintaining a knowledge commons.
+
 #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
+
+It is inspired by the work of [[tools for thinking]] pioneers.
+
 #pull [[vannevar bush]] [[memex]] 
+#pull [[douglas engelbart]]
+
+It builds on top of the open web, wiki culture and the social movements enabled by them.
+
 #pull [[tim berners lee]] [[solid]] 
 #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
-#pull [[douglas engelbart]]
-#pull [[murray bookchin]]
-#pull [[web]] [[wikis]] [[social media]] [[tools for thought]]
+#pull [[web]] [[wikis]] [[social media]]
+
+It is also a project with a pragmatic bent directed towards world improvement and the planning and peaceful enactment of global reform and revolution.
+
+#pull [[effective altruism]] [[murray bookchin]]
+
+# Vision
+This section details goals and values as they relate to the definition of an Agora on a high level.
 
 # Applications
+This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
 
 ## Building meaning best effort
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes.
