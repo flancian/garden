@@ -1,2 +1,4 @@
 - a [[day]].
+  - [[june 21]] ~ [[06-21]]
   - #go https://www.youtube.com/watch?v=DWkcTh6Zy4w
+  - #pull [[yoga]]
