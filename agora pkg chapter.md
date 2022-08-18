@@ -68,6 +68,10 @@ It is also a project with a pragmatic bent directed towards world improvement an
 # Vision
 This section details goals and values as they relate to the definition of an Agora on a high level.
 
+The Agora is an overlay and an interlay.
+
+You don't sign up to an Agora. You sign in.
+
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
 
