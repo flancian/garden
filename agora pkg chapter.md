@@ -14,8 +14,10 @@
   - #meta The preceding blocks and the following [[children]] exemplify [[Agora Protocol]] (see below for a concise description.)
     - #push [[commons]] 
       - #pull [[knowledge commons]] [[elinor ostrom]]
-    - #pushl [[altruism]] [[effective altruism]] [[peter singer]]
-    - #pull [[free software]] [[confederation]] [[adversarial interoperability]] [[revolution in the 21st century]] [[murray bookchin]]
+    - #push [[altruism]] 
+      - #pull [[effective altruism]] [[peter singer]]
+    - #push [[revolution]]
+      - #pull [[free software]] [[federation]] [[adversarial interoperability]] [[murray bookchin]]
 
 # Preamble 
 
