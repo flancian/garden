@@ -8,3 +8,5 @@
 - [[Grant]] running until end of August.
   - Around [[edtech]].
   - Can pivot (in this last stretch) to bounties.
+- [[interledger]]
+  - project used for [[web monetization]]
