@@ -4,10 +4,9 @@
     - Announced customarily in [[schelling points]].
     - Extended through [[agora rfcs]].
     - With such a [[protocol]] we can build ([[provision]]?) a common [[pattern language]] and bootstrap a global [[knowledge commons]].
-  - Is it an entanglement of many things, perhaps, born out of confusion?
-  - If so, allow me to try to [[disentangle it]].
-  - An [[Agora]] is a [[repository]] of shared [[patterns]].
-  - [[Agora Protocol]] is what I use to define my [[intent]].
+      - An [[Agora]] is a [[repository]] of [[patterns]].
+  - A [[flancian]] uses [[Agora Protocol]] to try to define their [[intents]] publicly, but all aspects of Agora and Flancia are meant to be fully optional.
+    - I am a [[Flancian]] and this Agora contains my [[manifesto]].
 - a [[document]].
 	- Trying to define a high level [[protocol]], plus a roadmap for a [[platform]] or federated [[network]] making use of it.
   - This protocol is meant to allow people to exchange [[resources]] mapping to [[patterns]] in a [[commons]], which I call the Agora for short. 
