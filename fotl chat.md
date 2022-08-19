@@ -1,4 +1,6 @@
 - [[2022-08-19]]
+
+```
 Jerry Michalski
 Jerry Michalski says:Dan, here's the event: 
 https://www.betaworks.com/event/render-tools-for-thinking
@@ -235,3 +237,4 @@ Jerry Michalski says:a Mandarin class!
 Jerry Michalski says:can u repost the diagram link here? 
 21:28
 me says:a distributed map of distributed thought 
+```
