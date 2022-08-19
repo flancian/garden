@@ -17,14 +17,17 @@
   - [[meta]]
     - I started with [[google docs]] in 2019/2020 and then I tried moving to [[hedgedoc]] but actually I think I might just go back to the [[google doc]]. It's just a rich experience, and several potential collaborators already use it (they left comments).
     - Update (2022): revamping now ocassionally while writing [[agora pkg chapter]], but it may be that the source of truth becomes [[agora paper]].
-- a [[convention]].
-	- To communicate with each other with good intent.
+- a social [[convention]].
+  - A list of social [[conventions]] and [[assertions]].
+	- Focusing on improving the ability to communicate with each other with good intent.
 	- [[text based]] to begin with. 
-    - This means you can use it anywhere you can write down text.
-      - In [[books]].
+    - This means you can use it anywhere you can write down text by default.
+    - Using this basic quality, we can make use of [[adversarial interoperability]] as we want to.
+    - [[agora protocol]] can be used in [[books]].
+      - It is already used in [[wikis]]. You might as well call it [[wiki protocol]] used in new contexts.
       - In [[email]].
-      - In [[wikis]].
-      - In [[social networks]].
+      - In [[chat]] and [[social networks]].
+        - -> [[agora plan]]
     - Using this protocol we can define [[an Agora]].
       - An [[Agora]] welcomes all [[people]] and [[formats]] a priori.
 	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
