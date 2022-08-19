@@ -1,0 +1,2 @@
+- a [[library]].
+  - #go https://www.atlasobscura.com/places/bibliotheque-mejanes
