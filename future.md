@@ -3,7 +3,7 @@
 	- They say [[the future is here, it's just unevenly distributed]]. 
     - In [[Flancia]] we all get to live in the future.
   - In Flancia there is no [[poverty]].
-	- In Flancia there is a free global scale [[knowledge commons]].
+	- In Flancia there is a free global [[knowledge commons]].
   - I'm trying to think often of how [[2023]], [[2025]], [[2030]] could be.
 	- In Flancia we'll [[meet]]!
 -
