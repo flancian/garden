@@ -23,7 +23,8 @@
 	- [[text based]] to begin with. 
     - This means you can use it anywhere you can write down text by default.
     - Using this basic quality, we can make use of [[adversarial interoperability]] as we want to.
-    - [[agora protocol]] can be used in [[books]].
+    - [[agora protocol]] can be used everywhere. 
+      - In [[books]].
       - It is already used in [[wikis]]. You might as well call it [[wiki protocol]] used in new contexts.
       - In [[email]].
       - In [[chat]] and [[social networks]].
