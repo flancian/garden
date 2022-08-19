@@ -8,14 +8,15 @@
   - A [[flancian]] uses [[Agora Protocol]] to try to define their [[intents]] publicly and cooperate with others optionally for the benefit of beings, but all aspects of Agora and Flancia are meant to be fully optional.
     - I am a [[Flancian]] and this Agora contains my [[manifesto]].
 - a [[document]].
+	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
 	- Trying to [[bootstrap]] the above [[protocol]].
     - Plus a roadmap for a [[platform]] or federated [[network]] making use of it.
     - #pull [[agora paper]].
   - In [[an agora]], [[agora protocol]] is meant to enable people to exchange [[resources]] mapping to [[patterns]] in a (by default) free global [[commons]], which I also call the Agora for short. 
     - This Agora is a [[knowledge commons]] but seeks to enable [[communities]] to bootstrap a physical [[commons]] to provision for their needs as well.
-	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
-  - I started with [[google docs]] in 2019/2020 and then I tried moving to [[hedgedoc]] but actually I think I might just go back to the [[google doc]]. It's just a rich experience, and several potential collaborators already use it (they left comments).
-  - Update (2022): revamping now with the occasion of writing [[agora pkg chapter]].
+  - [[meta]]
+    - I started with [[google docs]] in 2019/2020 and then I tried moving to [[hedgedoc]] but actually I think I might just go back to the [[google doc]]. It's just a rich experience, and several potential collaborators already use it (they left comments).
+    - Update (2022): revamping now ocassionally while writing [[agora pkg chapter]], but it may be that the source of truth becomes [[agora paper]].
 - a [[convention]].
 	- To communicate with each other with good intent.
 	- [[text based]] to begin with. 
