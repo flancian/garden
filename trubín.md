@@ -1,0 +1,5 @@
+- a [[town]].
+  - [[lovcica-trubin]]
+  - in [[slovakia]]
+  - #go https://en.wikipedia.org/wiki/Lov%C4%8Dica-Trub%C3%ADn
+  - #map https://en.wikipedia.org/wiki/Lov%C4%8Dica-Trub%C3%ADn
