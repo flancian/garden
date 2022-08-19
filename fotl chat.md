@@ -1,3 +1,4 @@
+- there's more logs elsewhere in the [[agora]] but I don't know where yet :)
 - [[2022-08-19]]
 
 ```
