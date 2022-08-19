@@ -2,8 +2,8 @@
   - Living in [[Flancia]] is living in the [[future]].
 	- They say [[the future is here, it's just unevenly distributed]]. 
     - In [[Flancia]] we all get to live in the future.
+  - As of the time of writing I'm in [[2022]] but I'm thinking often of how [[2023]], [[2025]], [[2030]] will be.
   - In Flancia there is no [[poverty]].
 	- In Flancia there is a free global [[knowledge commons]].
-  - I'm trying to think often of how [[2023]], [[2025]], [[2030]] could be.
 	- In Flancia we'll [[meet]]!
 -
