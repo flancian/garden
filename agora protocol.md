@@ -33,8 +33,9 @@
         - -> [[agora plan]]
       - [[Around the web]] in general.
         - -> [[agora ext]]
-    - Using this protocol we can define [[an Agora]].
-      - An [[Agora]] welcomes all [[people]] and [[formats]] a priori.
+  - Use of [[agora protocol]] defines an Agora, in the sense that it designates the contexts in which it is used as part of the Agora by default.
+  - This [[Agora]] welcomes all [[people]] and [[formats]] a priori.
+    - The Agora network welcomes all groups except [[fascists]] and those [[fascist-like]].
 	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
   - [[layer 0]]
 	- [[layer 1]]
