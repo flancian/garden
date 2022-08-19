@@ -1,5 +1,5 @@
-- a [[thing]].
-  - [[protocol]]
+- a [[protocol]].
+  - A series of conventions that sentient beings agree to follow while trying to communicate optimally for the [[common good]].
   - What *is* [[Agora Protocol]], anyway? Is [[protocol]] even the right word for what it tries to be? 
       - What *is* [[Agora Protocol]], anyway? Is [[protocol]] even the right word for what it tries to be? 
       - The Agora could also be seen as a [[pattern language]].
