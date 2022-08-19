@@ -8,7 +8,9 @@
   - A [[flancian]] uses [[Agora Protocol]] to try to define their [[intents]] publicly and cooperate with others optionally for the benefit of beings, but all aspects of Agora and Flancia are meant to be fully optional.
     - I am a [[Flancian]] and this Agora contains my [[manifesto]].
 - a [[document]].
-	- Trying to define a high level [[protocol]], plus a roadmap for a [[platform]] or federated [[network]] making use of it.
+	- Trying to [[bootstrap]] the above [[protocol]].
+    - Plus a roadmap for a [[platform]] or federated [[network]] making use of it.
+    - #pull [[agora paper]].
   - This protocol is meant to allow people to exchange [[resources]] mapping to [[patterns]] in a [[commons]], which I call the Agora for short. 
     - An Agora is a [[knowledge commons]] which can be seen as a [[repository of patterns]].
 	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
