@@ -26,10 +26,13 @@
     - [[agora protocol]] can be used everywhere. 
       - It is already used in [[wikis]]. You might as well call it [[wiki protocol]] used in new contexts.
       - You already use it in [[digital gardens]].
-      - You can use it in [[books]]. Books written today with Markdown u[[git]] 
+      - You can use it in [[books]]. 
+        - Books written today with Markdown u[[git]] 
       - In [[email]].
       - In [[chat]] and [[social networks]].
         - -> [[agora plan]]
+      - [[Around the web]] in general.
+        - -> [[agora ext]]
     - Using this protocol we can define [[an Agora]].
       - An [[Agora]] welcomes all [[people]] and [[formats]] a priori.
 	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
