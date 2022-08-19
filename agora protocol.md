@@ -24,8 +24,9 @@
     - This means you can use it anywhere you can write down text by default.
     - Using this basic quality, we can make use of [[adversarial interoperability]] as we want to.
     - [[agora protocol]] can be used everywhere. 
-      - In [[books]].
       - It is already used in [[wikis]]. You might as well call it [[wiki protocol]] used in new contexts.
+      - You already use it in [[digital gardens]].
+      - You can use it in [[books]]. Books written today with Markdown u[[git]] 
       - In [[email]].
       - In [[chat]] and [[social networks]].
         - -> [[agora plan]]
