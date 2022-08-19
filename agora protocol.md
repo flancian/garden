@@ -33,9 +33,9 @@
         - -> [[agora plan]]
       - [[Around the web]] in general.
         - -> [[agora ext]]
-  - Use of [[agora protocol]] in a medium defines an Agora, in the sense that it designates the contexts in which it is used as part of the Agora by default.
   - This [[Agora]], resolved by default using common [[Agora endpoints]] at https://anagora.org, welcomes all [[people]] and [[formats]] a priori.
   - This [[Agora]] welcomes all groups except [[fascists]] and the [[violent]].
+  - It is the opinion of this Agora that the use of [[agora protocol]] in a medium defines an Agora, in the sense that it designates the contexts in which the protocol is used as part of some Agora by default; and the medium as potentially interoperable with the [[Agora network]].
 	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
   - [[layer 0]]
 	- [[layer 1]]
