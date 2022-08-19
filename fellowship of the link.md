@@ -9,3 +9,4 @@
 - a [[meet]].
   - [[18 utc]] on [[thursdays]]
   - #go https://meet.jit.si/fellowship-of-the-link
+  - #log [[fotl chat]]
