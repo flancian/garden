@@ -5,7 +5,7 @@
     - Extended through [[agora rfcs]].
     - With such a [[protocol]] we can build ([[provision]]?) a common [[pattern language]] and bootstrap a global [[knowledge commons]].
       - An [[Agora]] is a [[repository]] of [[patterns]].
-  - A [[flancian]] uses [[Agora Protocol]] to try to define their [[intents]] publicly and collaborate with others for the benefit of beings, but all aspects of Agora and Flancia are meant to be fully optional.
+  - A [[flancian]] uses [[Agora Protocol]] to try to define their [[intents]] publicly and cooperate with others optionally for the benefit of beings, but all aspects of Agora and Flancia are meant to be fully optional.
     - I am a [[Flancian]] and this Agora contains my [[manifesto]].
 - a [[document]].
 	- Trying to define a high level [[protocol]], plus a roadmap for a [[platform]] or federated [[network]] making use of it.
