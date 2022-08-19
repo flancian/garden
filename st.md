@@ -4,3 +4,6 @@
 
 # [[2022-08-19]]
 - Greetings!
+- [[Grant]] running until end of August.
+  - Around [[edtech]].
+  - Can pivot (in this last stretch) to bounties.
