@@ -3,9 +3,7 @@
     - A series of explicit assertions.
     - Announced customarily in [[schelling points]].
     - Extended through [[agora rfcs]].
-  - What *is* [[Agora Protocol]], anyway? Is [[protocol]] even the right word for what it tries to be? 
-      - What *is* [[Agora Protocol]], anyway? Is [[protocol]] even the right word for what it tries to be? 
-      - The Agora could also be seen as a [[pattern language]].
+    - With such a protocol we can build a common [[pattern language]].
   - Is it an entanglement of many things, perhaps, born out of confusion?
   - If so, allow me to try to [[disentangle it]].
   - An [[Agora]] is a [[repository]] of shared [[patterns]].
