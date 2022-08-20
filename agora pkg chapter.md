@@ -104,11 +104,11 @@ If you are reading this book, you probably know Agora Protocol even before readi
   - #PascalCase may be used to encode sentences.
 - [[Wikilinks]] designate entities as related to the annotated resource.
   - Wikilinks may be preferred when trying to encode sentences a particular typographical realization, as they seamlessly contain lossless [[unicode]] strings.
-- [[Outlines]], as encoded by nested lists such as this one.
   
 On a more pragmatic level:
 
-- [[Optimistic linking]]
+- [[Outlines]], as encoded by nested lists such as this one, may be parsed by default as declaring [[intents]].
+- [[Optimistic linking]] is encouraged.
   - Links that lead nowhere (currently) are encouraged.
     - In an Agora, the place they lead to by default includes resources written by others.
 
