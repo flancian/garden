@@ -123,7 +123,7 @@ We also describe later how an Agora can integrate with the wider internet ecosys
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 [^complexity]: indentation is sufficient
 
-The blocks that follow, and others in the current text in the same [[console typeface]], are a demonstration of text based [[Agora Protocol]].
+The blocks that follow, and others in the current text in the same [[console typeface]], are a self-documenting demonstration of text based [[Agora Protocol]].
 
 - #push [[agora protocol]]
   - a [[protocol]].
@@ -133,9 +133,9 @@ The blocks that follow, and others in the current text in the same [[console typ
       - Note that indented bulleted lists are efficient while encoding trees, [[heterarchies]].
     - [[wikilinks]], #hashtags and other link conventions and annotation as part of layer 1.
     - Layer 2 being defined, the same as refinements to other layers, as [[extensions]].
-      - If you are a member of an Agora, you can propose extensions by [[noding]] [[agora rfcs]].
-      - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
-      -
+      - If you are a member of an Agora, you can propose extensions to Agora Protocol by contributing to [[Agora RFCs]].
+        - #pull [[agora rfcs]]
+      - This should be sufficient to bootstrap a [[governance layer]] defined by each [[Agora]].
 --
 - [[meta]] This block is a MARKER for 'edited up to here in last pass'.
 --
