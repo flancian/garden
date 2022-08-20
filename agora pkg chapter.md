@@ -27,7 +27,7 @@
 
 In this [[chapter]] we describe the [[Agora]], a [[protocol]] and associated [[knowledge commons]] provisioned by a self-governing community for the [[public good]]. 
 
-The Agora as described in this paper is just [[an Agora]], meaning it is just one possible implementation of the principles delineated here. Because [[agora protocol]] tries to build on common principles and reuse conventions already in use at the time of writing, other Agoras already exist (if not by name, in spirit.)
+The Agora as described in this paper is just [[an Agora]], meaning it is just one possible implementation of the principles delineated here. Because [[Agora protocol]] tries to build on common principles[^principles] and incorporate conventions already in use at the time of writing, other Agoras already exist (if not by name, in spirit.)
   
 This [[commons]] is built around a [[knowledge graph]] bootstrapped on a well-defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]] generalizing to arbitrary repositories, all retrieved and integrated using [[free software]], but produced with whichever tools users choose to use.
 
@@ -42,6 +42,8 @@ An Agora has multiple facets which we will try to explore in this article:
     - #pull [[Agora]]
     
 We then cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software. This is done in the form of a series of short exploratory essays.
+
+[^commoning]: both commonsense and related to instances of [[commoning]].
 
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 [^protocol]: This section serves as a demonstration of a text-based action intent which, in an Agora, will result in the entity mentioned above being transcluded ("pulled", brought into the current context).
