@@ -119,8 +119,9 @@ These are sample intents of the [[author]]. They can be optionally endorsed by a
 
 - The author tries to follow the [[principle of charity]].
 - The author tries to use [[agora protocol]].
-  - The author offers to extend [[agora protocol]] with [[agora rfcs]].
+- The author offers to extend [[agora protocol]] with [[agora rfcs]].
 - The author tries to [[cooperate]] with others [[pro socially]] by default.
+- The author tries to [[help]] others whenever possible.
 - #pull [[manifesto]]
 
 # Applications
