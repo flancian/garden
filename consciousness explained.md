@@ -1,3 +1,3 @@
 - a [[book]].
-  - [[daniel dennett]].
+  - by [[daniel dennett]].
   - Loved it!
