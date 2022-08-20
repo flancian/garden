@@ -109,8 +109,8 @@ If you are reading this book, you probably know Agora Protocol even before readi
 On a more pragmatic level:
 
 - [[Optimistic linking]]
-  - Links that lead nowhere (currently) are encouraged
-  - in an Agora, the place they lead includes resources written by others
+  - Links that lead nowhere (currently) are encouraged.
+    - In an Agora, the place they lead to by default includes resources written by others.
 
 When interpreting the above, an Agora is liberal in what it accepts and tries to default to being extra useful to the user -- meaning it is optimistic in association. #CamelCase equates to [[camel case]] and all known variations, in the sense that the user might provide either and be later served matching resources in all associated contexts.
 
