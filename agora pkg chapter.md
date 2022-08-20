@@ -112,7 +112,7 @@ When interpreting the above, an Agora is liberal in what it accepts and tries to
 
 Note that outlines plus linking are sufficient to encode a [[hypergraph]] in an easily parseable way, heterarchies encoding relationships between [[wikilinks]] at different levels. In the opinion of the author this structure is sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs].
 
-[^blockrefs]: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[adversarial]].
+[^blockrefs]: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and structure can be [[complementary]].
 
 - #push [[agora protocol]]
   - a [[protocol]].
