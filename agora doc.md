@@ -1,4 +1,4 @@
 - an [[article]].
   - originally written for [[pkg book]].
-  - #push[[agora pkg chapter]]
+  - #push [[agora pkg chapter]]
     - #go https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?ouid=108434364308226960620&usp=docs_home&ths=true
