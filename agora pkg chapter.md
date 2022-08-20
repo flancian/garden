@@ -121,7 +121,7 @@ The blocks that follow, and others in the current text in console typeface, are 
     - Based on lightweight conventions conducive to [[knowledge federation]] of supported [[data formats]] as described below.
     - [[plain text]] as layer 0 (bootstrapping).
       - What the literate world already runs on: just plain old human language in full [[unicode]].
-      - Collections of indented bulleted lists are efficient while encoding trees, a [[heterarchy]].
+      - Note that indented bulleted lists are efficient while encoding trees, [[heterarchies]].
     - [[wikilinks]], #hashtags and other link conventions and annotation as part of layer 1.
     - Layer 2 being defined, the same as refinements to other layers, as [[extensions]].
       - If you are a member of an Agora, you can propose extensions by [[noding]] [[agora rfcs]].
