@@ -6,4 +6,4 @@
       - [[chinese room]]
         - I'd been waiting for the definitive Daniel Dennett takedown of [[Searle]].
       - [[chinese nation]]
-        - Dennett mentions the weird fixation with the Chinese in the philosophy of mind, mentioning a Chinese researcher's exposure to it while being exposed to Western cognitive science
+        - Dennett mentions the weird fixation with the Chinese in the philosophy of mind, mentioning a Chinese researcher's exposure to it while becoming acquainted with "Western" cognitive science
