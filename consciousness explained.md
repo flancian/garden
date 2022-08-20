@@ -1,9 +1,11 @@
 - a [[book]].
-  - by [[daniel dennett]].
+  - By [[daniel dennett]].
   - Loved it!
+  - #amazon https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661
+  - #libgen http://libgen.is/search.php?req=consciousness+explained&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
   - [[chapter 14]]
     - [[thought experiments]]
       - [[chinese room]]
         - I'd been waiting for the definitive Daniel Dennett takedown of [[Searle]].
       - [[chinese nation]]
-        - [[Dennett]] mentions the weird fixation with the Chinese in the field of philosophy of mind, mentioning a Chinese researcher's exposure to it while becoming acquainted with "Western" cognitive science
+        - [[Dennett]] mentions the weird fixation with the Chinese in the field of philosophy of mind, mentioning a Chinese researcher's exposure to it while becoming acquainted with "Western" cognitive science.
