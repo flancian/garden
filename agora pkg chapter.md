@@ -157,10 +157,11 @@ This section explores possible further applications in the social and knowledge 
 
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes based on federated [[heterarchies]].
 - [[Agora RFCs]] allow an Agora community to extend the base [[Agora Protocol]] for greater and more efficient [[commoning]].
-  - [[pull]]
-  - [[push]]
-  - [[go]]
-  - [[intent]]
+  - Here we should detail:
+    - [[pull]]
+    - [[push]]
+    - [[go]]
+    - [[intents]]
 - (Details on an [[open source algorithm]] for ranking and filtering based on the above go here.)
 
 ## Collaborative world building
