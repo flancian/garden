@@ -48,18 +48,18 @@ We then cover potential applications in the [[knowledge]] and [[social]] domains
 # Background
 The Agora can be defined in a nutshell as a platform and protocol for provisioning and maintaining a knowledge commons.
 
-#pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
+- #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
 
 It is inspired by the work of [[tools for thinking]] pioneers.
 
-#pull [[vannevar bush]] [[memex]] 
-#pull [[douglas engelbart]]
+- #pull [[vannevar bush]] [[memex]] 
+- #pull [[douglas engelbart]]
 
 It builds on top of the open web, wiki culture and the social movements enabled by them.
 
-#pull [[tim berners lee]] [[solid]] 
-#pull [[ward cunningham]] [[wiki]] [[fedwiki]]
-#pull [[web]] [[wikis]] [[social media]]
+- #pull [[tim berners lee]] [[solid]] 
+- #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
+- #pull [[social media]]
 
 It is also a project with a pragmatic bent directed towards world improvement and the planning and peaceful enactment of global reform and revolution.
 
