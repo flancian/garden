@@ -1,2 +1,4 @@
 - a [[thing]].
   - #pull [[google docs]]
+  - I love docs, but unfortunately you can't embed them using [[iframes]] as of [[2022-08]] :(
+  - [ ] figure out how to easily import one in the Agora?
