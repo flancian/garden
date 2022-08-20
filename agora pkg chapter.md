@@ -36,8 +36,12 @@ As hinted already, the Agora has multiple facets which we will try to explore th
 - A high level [[protocol]] designed to lower friction to information exchange and cooperation, mostly building on conventions already in use in knowledge oriented [[communities of practice]].
 - A [[free software]] [[reference implementation]] of the principles delineated in this article, including a set of importers and converters for diverse [[sources]] and [[formats]] and an integration layer and rendering platform implementing the Agora protocol.
 - An example [[distributed knowledge graph]] provisioned using the tools above and maintained by the https://anagora.org [[community]].
+
+--
+- [[meta]] This block is a marker for 'edited up to here in last pass'.
+--
     
-We then cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software. This is done in the form of a series of short exploratory essays.
+We then cover potential applications in the [[knowledge]], [[social]] and [[political]] domains and consequences of the free availability of a knowledge commons modelled as an federated network of ethical markets. This is done in the form of a series of short exploratory essays.
 
 [^commoning]: both commonsense and related to instances of [[commoning]].
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
