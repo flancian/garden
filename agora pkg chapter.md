@@ -153,7 +153,7 @@ This section explores possible further applications in the social and knowledge 
 
 ## Building meaning best effort through [[Agora RFCs]]
 
-- An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes.
+- An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes based on federated [[heterarchies]].
   - #pull [[agora actions]]
   - #pull [[push]] [[pull]]
   - #pull [[go links]]
