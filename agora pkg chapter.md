@@ -101,8 +101,10 @@ In text format, Agora Protocol is a series of typographical conventions that all
 If you are reading this book, you probably know Agora Protocol even before reading about it: it is meant to reflect and build on existing practices in the personal knowledge management space, like:
 
 - #Tags designate entities as related to the annotated resource.
+  - #CamelCase may be used to encode sentences.
 - [[Wikilinks]] designate entities as related to the annotated resource.
-  - Wikilinks may be preferred when trying to encode phrases or a particular typographical realization, as they seamlessly contain lossless [[unicode]] strings.
+  - Wikilinks may be preferred when trying to encode sentences a particular typographical realization, as they seamlessly contain lossless [[unicode]] strings.
+  
 - [[Outlines]], as encoded by nested lists such as this one, allow the author to easily communicate and heterarchies in a cross platform way.
 - [[Optimistic linking]]
   - Links that lead nowhere (currently) are encouraged
