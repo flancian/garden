@@ -1,0 +1,3 @@
+- a [[chapter]].
+  - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
+- #pull [[agora pkg chapter]]
