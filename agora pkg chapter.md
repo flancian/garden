@@ -33,12 +33,10 @@ A core aspect of [[this Agora]] is that its constituent [[distributed knowledge 
 
 As hinted already, the Agora has multiple facets which we will try to explore throughout this article:
 
-  - A high level [[protocol]] for information exchange and cooperation, mostly building on conventions already in use in knowledge oriented [[communities of practice]].
-    - #pull [[Agora Protocol]][^protocol]
-  - A [[free software]] [[reference implementation]] of an integration platform built on the above, including a set of importers and converters for diverse [[sources]] and [[formats]].
-    - #pull [[Agora Server]] [[Agora Bridge]]
+- A high level [[protocol]] for information exchange and cooperation, mostly building on conventions already in use in knowledge oriented [[communities of practice]].
+- A [[free software]] [[reference implementation]] of the principles delineated in this chapter, including a set of importers and converters for diverse [[sources]] and [[formats]] and an integration platform implementing the protocol.
     - The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, any writing done with a [[social stance]].
-  - A free [[knowledge graph]] provisioned and maintained by a community.
+- An example [[distributed knowledge graph]] provisioned and maintained by the https://anagora.org [[community]].
     - #pull [[Agora]]
     
 We then cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software. This is done in the form of a series of short exploratory essays.
