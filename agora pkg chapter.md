@@ -105,7 +105,7 @@ If you are reading this book, you probably know Agora Protocol even before readi
 - [[wikilinks]]
   - wikilinks designate entities as related to the annotated resource
 - [[optimistic linking]]
-  - leads that lead nowhere (for now) are encouraged
+  - Links that lead nowhere (currently) are encouraged
   - in an Agora, the place they lead includes resources written by others
 - [[outlines]]
 
