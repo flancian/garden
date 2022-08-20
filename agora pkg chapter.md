@@ -107,10 +107,10 @@ If you are reading this book, you probably know Agora Protocol even before readi
   
 On a pragmatic level:
 
--- [[Optimistic linking]] is encouraged.
+- [[Optimistic linking]] is encouraged.
   - Links that lead nowhere (currently) are encouraged.
     - In an Agora, the place they lead to by default includes resources written by others.
- [[Outlines]] or [[Agora trees]], as encoded by nested lists such as this one, may be parsed in an Agora by default as declaring structured [[assertions]].
+- [[Outlines]] or [[Agora trees]], as encoded by nested lists such as this one, are parsed in an Agora by default as declaring [[heterarchies]] of [[intents]] or [[assertions]].
 
 When interpreting the above and extensions, an Agora is liberal in what it accepts and when in doubt tries to default to being extra useful to the user -- meaning it is optimistic in association and surfaces all resources that have a claim to be associated with the context being served. For example: #CamelCase will be provided in all contexts matching [[camel case]] and all known variations, and this relationship is symmetric by default, in the sense that the user might provide either at write time and be later served matching resources in either context.
 
