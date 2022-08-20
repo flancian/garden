@@ -98,7 +98,9 @@ An Agora is a public space that defines itself as such and follows an explicit v
 
 In text format, Agora Protocol is a series of typographical conventions that allow users to link and annotate resources regardless of the medium. Annotating here stands for encoding metadata and personal meaning in resources in a way conducive to be later decoded in an Agora-like [[context]].
 
-You probably know Agora Protocol before learning about it: it is meant to reflect and enrich already existing practices in the personal knowledge management space.
+If you are reading this book, you probably know Agora Protocol even before reading about it: it is meant to reflect and build on existing practices in the personal knowledge management space, like:
+
+- [[wikilinking]]
 
 - #push [[agora protocol]]
   - a [[protocol]].
