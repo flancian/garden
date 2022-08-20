@@ -107,10 +107,10 @@ If you are reading this book, you probably know Agora Protocol even before readi
   
 On a more pragmatic level:
 
-- [[Outlines]], as encoded by nested lists such as this one, may be parsed by default as declaring [[intents]].
 - [[Optimistic linking]] is encouraged.
   - Links that lead nowhere (currently) are encouraged.
     - In an Agora, the place they lead to by default includes resources written by others.
+- [[Outlines]], as encoded by nested lists such as this one, may be parsed in an Agora by default as declaring structured [[assertions]].
 
 When interpreting the above and extensions, an Agora is liberal in what it accepts and when in doubt tries to default to being extra useful to the user -- meaning it is optimistic in association and surfaces all resources that have a claim to being associated with the context being queried. For example: #CamelCase will be provided in all contexts matching [[camel case]] and all known variations, and this relationship is symmetric by default, in the sense that the user might provide either and be later served matching resources in all associated contexts.
 
