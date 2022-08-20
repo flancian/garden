@@ -1,0 +1,2 @@
+- a [[project]].
+  - at [[work]], so I write about it only vaguely in public (like here).
