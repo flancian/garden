@@ -19,7 +19,7 @@
     - #push [[revolution]]
       - #pull [[free software]] [[federation]] [[adversarial interoperability]] [[murray bookchin]]
     - #push [[community]]
-      - #pull [[node club]] [[edtech]] [[mycorrhiza]]
+      - #pull [[node club]] [[edtech]] [[mycorrhiza]] [[interwiki]] [[fedwiki]]
     - In this subnode you will find the actual **chapter text**, including the introduction, which should be 5k-10k words once ready to be delivered on [[2022-09-01]].
       - In the subnode below, sourced from the [[stoa]], you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
   - (If you don't like this [[Agora]], that's fine -- consider improving it!)
