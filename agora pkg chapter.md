@@ -96,7 +96,7 @@ This section describes a [[protocol]] for publicly defining sets of [[convention
 
 An Agora is a public space that defines itself as such and follows an explicit variation of this Agora Protocol.
 
-In text format, Agora Protocol is a series of typographical conventions that allow users to encode meaning to be later decoded in a particular mental [[context]].
+In text format, Agora Protocol is a series of typographical conventions that allow users to annotate, encode meaning in written resources in any medium, to be later decoded in an Agora-like setting by the user or their [[friends]], optionally band provisioned in a particular mental [[context]].
 
 You probably know Agora Protocol before learning about it: it is meant to reflect and enrich already existing practices in the personal knowledge management space.
 
