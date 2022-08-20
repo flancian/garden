@@ -3,3 +3,9 @@
   - [[agora chapter]]
   - #push [[agora pkg chapter]]
     - #go https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?ouid=108434364308226960620&usp=docs_home&ths=true
+    - #pull https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit#heading=h.lxyhsegwtr4m
+      - [x] should work, try iframe for the [[google doc]]
+        - it doesn't work :( "Google Docs benötigt Zugriff"
+            - oh, but you can click on "click here" to get through!
+              - only on Firefox
+              - it doesn't work at all on Chrome
