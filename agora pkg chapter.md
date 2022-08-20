@@ -41,7 +41,7 @@ As hinted already, the Agora has multiple facets which we will try to explore th
 - [[meta]] This block is a marker for 'edited up to here in last pass'.
 --
     
-We then cover potential applications in the [[knowledge]], [[social]] and [[political]] domains and consequences of the free availability of a knowledge commons modelled as an federated network of ethical markets. This is done in the form of a series of short exploratory essays.
+We then cover potential applications in the [[academic]], [[social]] and [[political]] domains assuming the widespread adoption of this or an equivalent free [[knowledge commons]]. This is done in the form of a series of short exploratory essays.
 
 [^commoning]: both commonsense and related to instances of [[commoning]].
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
@@ -116,6 +116,9 @@ This section explores possible further applications in the social and knowledge 
   - Incomes are recurring donations for a set number of months.
 - Optional [[virality rule]]: the person receiving the income should elect to forward e.g. 10% of the sum received to someone less privileged than them.
   - The virality rule both pushes network growth and constructively exploits wealth inequality and asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
+
+## Market regulation
+A knowledge commons may be conducive to solving the issue of regulating markets, yielding a network of ethical marketsl
 
 # Technical specifications
 
