@@ -104,7 +104,7 @@ If you are reading this book, you probably know Agora Protocol even before readi
   - Tags designate entities as related to the annotated resource.
 - [[wikilinks]]
   - Wikilinks designate entities as related to the annotated resource.
-  - They are preferred when trying to encode lossless [[unicode]] strings.
+  - They are preferred when trying to encode phrases or a particular typographical convention, as they seamlessly contain lossless [[unicode]] strings.
 - [[optimistic linking]]
   - Links that lead nowhere (currently) are encouraged
   - in an Agora, the place they lead includes resources written by others
