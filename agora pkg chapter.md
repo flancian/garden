@@ -100,17 +100,19 @@ In text format, Agora Protocol is a series of typographical conventions that all
 
 If you are reading this book, you probably know Agora Protocol even before reading about it: it is meant to reflect and build on existing practices in the personal knowledge management space, like:
 
-- #tags
-  - Tags designate entities as related to the annotated resource.
-- [[wikilinks]]
-  - Wikilinks designate entities as related to the annotated resource.
-  - They are preferred when trying to encode phrases or a particular typographical convention, as they seamlessly contain lossless [[unicode]] strings.
-- [[optimistic linking]]
+- #Tags designate entities as related to the annotated resource.
+- [[Wikilinks]] designate entities as related to the annotated resource.
+  - Wikilinks may be preferred when trying to encode phrases or a particular typographical realization, as they seamlessly contain lossless [[unicode]] strings.
+- [[Outlines]], as encoded by nested lists such as this one, allow the author to easily communicate and heterarchies in a cross platform way.
+- [[Optimistic linking]]
   - Links that lead nowhere (currently) are encouraged
   - in an Agora, the place they lead includes resources written by others
-- [[outlines]]
 
 When interpreting the above, an Agora is liberal in what it accepts and tries to default to being extra useful to the user -- meaning it is optimistic in association. #CamelCase equates to [[camel case]] and all known variations, in the sense that the user might provide either and be later served matching resources in all associated contexts.
+
+Note that outlines plus linking are sufficient to encode a [[hypergraph]] in an easily parseable way, heterarchies encoding relationships between [[wikilinks]] at different levels. In the opinion of the author this structure is sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs].
+
+[^blockrefs]: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[adversarial]].
 
 - #push [[agora protocol]]
   - a [[protocol]].
