@@ -1,0 +1,2 @@
+- #push [[elinor ostrom]]
+  - https://patternsofcommoning.org/uncategorized/eight-design-principles-for-successful-commons/
