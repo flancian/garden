@@ -35,7 +35,6 @@ As hinted already, the Agora has multiple facets which we will try to explore th
 
 - A high level [[protocol]] for information exchange and cooperation, mostly building on conventions already in use in knowledge oriented [[communities of practice]].
 - A [[free software]] [[reference implementation]] of the principles delineated in this chapter, including a set of importers and converters for diverse [[sources]] and [[formats]] and an integration platform implementing the protocol.
-    - The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, any writing done with a [[social stance]].
 - An example [[distributed knowledge graph]] provisioned and maintained with the above by the https://anagora.org [[community]].
     
 We then cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software. This is done in the form of a series of short exploratory essays.
@@ -179,9 +178,12 @@ Building on these general principles and a [[free software]][^reference] referen
 [^hypergraph]: "Stephen Wolfram likes them." -- see for example https://www.wolframphysics.org/technical-introduction/.
 
 # Reference implementation
+
 - This section covers details on the work-in-progress reference software implementation built on the principles described above, developed as [[free software]] and run as [[public service]].
-  - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
-- Here we cover some details of the provided free and open source reference Agora which provides a minimum viable implementation of the [[underlay]], [[interlay]], and [[overlay]] components of a [[distributed knowledge graph]][^kfg].
+- The provided [[reference Agora]] is designed to be a minimum viable cooperative platform that integrates and complements [[personal knowledge graphs]] in particular and, more generally, any writing done with a [[social stance]].
+- Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
+-
+Here we cover some details of the provided free and open source reference Agora which provides a minimum viable implementation of the [[underlay]], [[interlay]], and [[overlay]] components of a [[distributed knowledge graph]][^kfg].
 - The reference Agora stands out from other projects in the [[knowledge graph]] space in a few ways: 
   - Whereas links in a personal knowledge graph or wiki usually have a single target (a particular note or page), **Agora links fan out by default**; targets can be thought of [[collections]] of resources. 
   - While a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources while preserving distinct voices[^chorus].
