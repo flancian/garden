@@ -209,7 +209,7 @@ The blocks that follow, and others in the current text in the same [[console typ
       - If you are a member of an Agora, you can propose extensions to Agora Protocol by contributing to [[Agora RFCs]].
       - This should be sufficient to bootstrap a [[governance layer]] defined by each [[Agora]].
       - #pull [[agora rfcs]]
-        - (Pull instructs an Agora to incorporate a remote context into the current context, e.g. [[transclude]] or add to a reading list.)
+      - (Pull instructs an Agora to incorporate a remote context into the current context, e.g. [[transclude]] or provision below.)
 
 ## Data format
 
