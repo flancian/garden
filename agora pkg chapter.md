@@ -112,7 +112,9 @@ On a more pragmatic level:
   - Links that lead nowhere (currently) are encouraged.
     - In an Agora, the place they lead to by default includes resources written by others.
 
-When interpreting the above, an Agora is liberal in what it accepts and tries to default to being extra useful to the user -- meaning it is optimistic in association. #CamelCase equates to [[camel case]] and all known variations, in the sense that the user might provide either and be later served matching resources in all associated contexts.
+When interpreting the above and extensions, an Agora is liberal in what it accepts and when in doubt tries to default to being extra useful to the user -- meaning it is optimistic in association and surfaces all resources that have a claim to being associated with the context being queried. For example: #CamelCase will be provided in all contexts matching [[camel case]] and all known variations, and this relationship is symmetric by default, in the sense that the user might provide either and be later served matching resources in all associated contexts.
+
+To put simply, an Agora optimistically defines equivalence classes with good intention.
 
 Note that outlines plus linking are sufficient to encode a [[hypergraph]] in an easily parseable way, heterarchies encoding relationships between [[wikilinks]] at different levels. In the opinion of the author this structure is sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs].
 
