@@ -25,7 +25,7 @@
         
 # Introduction
 
-In this [[chapter]] we describe the [[Agora]], a [[protocol]] and [[knowledge commons]] provisioned and maintained by a self-governing community for [[public benefit]]. 
+In this [[chapter]] we describe the [[Agora]], a [[protocol]] and [[knowledge commons]] provisioned and maintained by a self-governing community for the [[public good]]. 
 
 This [[commons]] is built around a [[knowledge graph]] bootstrapped on a well-defined subset of the [[internet]]: crowdsourced [[digital gardens]], [[wikis]] and [[social feeds]] generalizing to arbitrary repositories, all retrieved and integrated using [[free software]], but produced with whichever tools users choose to use.
 
