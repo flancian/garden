@@ -115,7 +115,9 @@ We describe later how an Agora can integrate with the wider internet ecosystem a
 
 ## Intents
 
-These are sample intents of the [[author]].
+These are sample intents of the [[author]]. They can be optionally endorsed by arbitrary users of an Agora.
+
+- The author tries to 
 
 - #pull [[manifesto]]
 
