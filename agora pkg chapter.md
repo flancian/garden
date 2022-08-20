@@ -111,16 +111,18 @@ On a more pragmatic level:
   - Links that lead nowhere (currently) are encouraged.
     - In an Agora, the place they lead to by default includes resources written by others.
 - [[Outlines]], as encoded by nested lists such as this one, may be parsed in an Agora by default as declaring structured [[assertions]].
+  - See also [[agora trees]].
 
 When interpreting the above and extensions, an Agora is liberal in what it accepts and when in doubt tries to default to being extra useful to the user -- meaning it is optimistic in association and surfaces all resources that have a claim to be associated with the context being served. For example: #CamelCase will be provided in all contexts matching [[camel case]] and all known variations, and this relationship is symmetric by default, in the sense that the user might provide either at write time and be later served matching resources in either context.
 
 To put it simply, an Agora defines equivalence classes optimistically with good intention. Later we will discuss the hypothesis that this is an optimal default policy for a social platform.
 
-Note that outlines plus [[linking]] seem sufficient to encode thoughts and structure of arbitrary complexity in a human readable way. In the opinion of the author this seems sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs]. See [[Technical Specifications]] below for more.
+Note that outlines plus [[linking]] seem sufficient to encode thoughts and structure of arbitrary complexity in a human readable way[^complexity]. In the opinion of the author this seems sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs]. See [[Technical Specifications]] below for more.
 
 We also describe later how an Agora can integrate with the wider internet ecosystem and how a community could use it to run experiments on distributed thought.
 
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
+[^complexity]: indentation is sufficient
 
 The blocks that follow, and others in the current text in console typeface, are a demonstration of text based [[Agora Protocol]].
 
