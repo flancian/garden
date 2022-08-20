@@ -94,7 +94,9 @@ Let us use Agora Protocol if you may.
 
 This section describes a [[protocol]] for publicly defining sets of [[conventions]] and [[intents]] that can be said to define an Agora. 
 
-An Agora is a public space that defines itself as such and follows an explicit variation of this Agora Protocol. Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] (Fediverse) model but later likely moving to a fully [[distributed]] model, are expected to organize into a greater federated [[Agora network]][^fediverse].
+An Agora is a public space that defines itself as such and follows an explicit variation of this Agora Protocol.
+
+Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] (Fediverse) model but later likely moving to a fully [[distributed]] model, are expected to organize into a greater federated [[Agora network]][^fediverse].
 
 [^fediverse]: An Agora is part of the Fediverse.
 
