@@ -81,6 +81,8 @@ The Agora is an overlay and an interlay.
 
 You don't sign up to an Agora. You sign in.
 
+The Agora is a platform for shared [[praxis]].
+
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
 
