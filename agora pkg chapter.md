@@ -114,7 +114,7 @@ On a more pragmatic level:
 
 When interpreting the above and extensions, an Agora is liberal in what it accepts and when in doubt tries to default to being extra useful to the user -- meaning it is optimistic in association and surfaces all resources that have a claim to being associated with the context being queried. For example: #CamelCase will be provided in all contexts matching [[camel case]] and all known variations, and this relationship is symmetric by default, in the sense that the user might provide either and be later served matching resources in all associated contexts.
 
-To put simply, an Agora optimistically defines equivalence classes with good intention. Later we will cover two hypotheses associated with this being an optimal policy in social spaces.
+To put simply, an Agora optimistically defines equivalence classes with good intention. Later we will cover two hypotheses associated with this being an optimal default policy.
 
 Note that outlines plus linking are sufficient to encode a [[hypergraph]] in an easily parseable way, heterarchies encoding relationships between [[wikilinks]] at different levels. In the opinion of the author this structure is sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs].
 
