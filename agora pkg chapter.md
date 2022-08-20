@@ -101,13 +101,16 @@ In text format, Agora Protocol is a series of typographical conventions that all
 If you are reading this book, you probably know Agora Protocol even before reading about it: it is meant to reflect and build on existing practices in the personal knowledge management space, like:
 
 - #tags
-  - tags designate entities as related to the annotated resource
+  - Tags designate entities as related to the annotated resource.
 - [[wikilinks]]
-  - wikilinks designate entities as related to the annotated resource
+  - Wikilinks designate entities as related to the annotated resource.
+  - They are preferred when trying to encode lossless [[unicode]] strings.
 - [[optimistic linking]]
   - Links that lead nowhere (currently) are encouraged
   - in an Agora, the place they lead includes resources written by others
 - [[outlines]]
+
+When interpreting the above, an Agora is liberal in what it accepts and tries to default to being extra useful to the user -- meaning it is optimistic in association. #CamelCase equates to [[camel case]] and all known variations, in the sense that the user might provide either and be later served matching resources in all associated contexts.
 
 - #push [[agora protocol]]
   - a [[protocol]].
