@@ -116,7 +116,9 @@ When interpreting the above and extensions, an Agora is liberal in what it accep
 
 To put simply, an Agora optimistically defines equivalence classes with good intention. Later we will cover two hypotheses associated with this being an optimal default policy.
 
-Note that outlines plus linking are sufficient to encode a [[hypergraph]] in an easily parseable way, heterarchies encoding relationships between [[wikilinks]] at different levels. In the opinion of the author this structure is sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs].
+In an Agora, long form text and outlines can be interpreted as volunteered heterarchies encoding relationships between named [[entities]] at different levels. 
+
+Note that outlines plus [[linking]] seem sufficient to encode thoughts and structure of arbitrary complexity in a human readable way. In the opinion of the author this structure is sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs].
 
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 
