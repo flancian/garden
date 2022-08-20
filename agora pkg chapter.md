@@ -104,8 +104,9 @@ If you are reading this book, you probably know Agora Protocol even before readi
   - tags designate entities as related to the annotated resource
 - [[wikilinks]]
   - wikilinks designate entities as related to the annotated resource
-- [[backlinks]]
 - [[optimistic linking]]
+  - leads that lead nowhere (for now) are encouraged
+  - in an Agora, the place they lead includes resources written by others
 - [[outlines]]
 
 - #push [[agora protocol]]
