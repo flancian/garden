@@ -123,7 +123,7 @@ The blocks that follow, and others in the current text in console typeface, are 
       - What the literate world already runs on: just plain old human language in full [[unicode]].
       - Collections of indented bulleted lists are efficient while encoding trees, a [[heterarchy]].
     - [[wikilinks]], #hashtags and other link conventions and annotation as part of layer 1.
-    - Layer 2 being defined refinements to other layers being community defined through [[extensions]].
+    - Layer 2 being defined, the same as refinements to other layers, as [[extensions]].
       - If you are a member of an Agora, you can propose extensions by [[noding]] [[agora rfcs]].
       - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
 
