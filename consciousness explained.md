@@ -3,6 +3,7 @@
   - Loved it!
   - #amazon https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661
   - #libgen http://libgen.is/search.php?req=consciousness+explained&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+  -
   - [[chapter 14]]
     - [[thought experiments]]
       - [[chinese room]]
