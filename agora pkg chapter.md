@@ -108,7 +108,7 @@ On a pragmatic level:
 - [[Optimistic linking]] is encouraged.
   - Links that lead nowhere (currently) are encouraged.
     - In an Agora, the place they lead to by default includes resources written by others.
-- [[Outlines]] or [[Agora trees]], as encoded by nested lists such as this one, might be parsed by default as declaring [[heterarchies]][^heterarchy].
+- [[Outlines]] or [[Agora trees]], as encoded by nested lists such as this one, might be parsed by default as declaring useful [[heterarchies]][^heterarchy].
 
 [^heterarchy]: an Agora is a repository of heterarchies.
 
