@@ -96,17 +96,7 @@ This section describes a [[protocol]] for publicly defining sets of [[convention
 
 An Agora is a public space that defines itself as such and follows an explicit variation of this Agora Protocol.
 
-In text format, Agora Protocol is a series of typographical conventions 
-
-## Federation
-
-Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] (Fediverse) model but later likely moving to a fully [[distributed]] model, are expected to organize into a greater federated [[Agora network]][^fediverse].
-
-[^fediverse]: An Agora is part of the Fediverse.
-
-The Agora network is built on a federated protocol the aim of reducing friction to cross-tool cooperation and maximizing the constructiveness of forks. 
-
-Take the case in which two groups might temporarily diverge in their views to want to run separate Agoras. Ideally their instances should be able to continue to cooperate on problems and solutions for which there is enough values/ideological alignment. Persistent best effort cooperation as a default contract also maximizes the chance of re-convergence leading to a merge.
+In text format, Agora Protocol is a series of typographical conventions that allow users to encode meaning to be later decoded in a particular mental [[context]].
 
 You probably know Agora Protocol before learning about it: it is meant to reflect and enrich already existing practices in the personal knowledge management space.
 
@@ -123,6 +113,15 @@ You probably know Agora Protocol before learning about it: it is meant to reflec
 
 We describe later how an Agora can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
+## Federation
+
+Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] (Fediverse) model but later likely moving to a fully [[distributed]] model, are expected to organize into a greater federated [[Agora network]][^fediverse].
+
+[^fediverse]: An Agora is part of the Fediverse.
+
+The Agora network is built on a federated protocol the aim of reducing friction to cross-tool cooperation and maximizing the constructiveness of forks. 
+
+Take the case in which two groups might temporarily diverge in their views to want to run separate Agoras. Ideally their instances should be able to continue to cooperate on problems and solutions for which there is enough values/ideological alignment. Persistent best effort cooperation as a default contract also maximizes the chance of re-convergence leading to a merge.
 ## Intents
 
 These are sample intents of the [[author]]. They can be optionally endorsed by arbitrary users of an Agora.
