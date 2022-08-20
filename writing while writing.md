@@ -10,3 +10,7 @@ What if I die come Monday, I ask myself? And I smile. Then I would have only two
 --
 
 Into the fourth pomodoro already at 15:10, feeling great. I'm glad I'm doing this on the 20th instead of the 27th or the 30th. I feel like I'm living in the future -- always a nice feeling :)
+
+--
+Took a long break, starting fifth pomodoro at 15:55.
+
