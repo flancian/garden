@@ -134,13 +134,10 @@ The blocks that follow, and others in the current text in the same [[console typ
     - [[wikilinks]], #hashtags and other link conventions and annotation as part of layer 1.
     - Layer 2 being defined, the same as refinements to other layers, as [[extensions]].
       - If you are a member of an Agora, you can propose extensions to Agora Protocol by contributing to [[Agora RFCs]].
-        - #pull [[agora rfcs]]
       - This should be sufficient to bootstrap a [[governance layer]] defined by each [[Agora]].
---
-- [[meta]] This block is a MARKER for 'edited up to here in last pass'.
---
-
-
+      - #pull [[agora rfcs]]
+      
+- [[meta]] This block is a MARKER for 'did some writing up to here in last pass'.
 
 ## Federation
 
