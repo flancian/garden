@@ -12,5 +12,5 @@
 			- make a [[commitment]].
 			- then [[sit down]] or [[stand]] and [[do]].
 			- ([[burn for greater good]])
-
 - as of [[2022-06]] I've been doing more of them. they work, at runtime and for [[planning]].
+- doing these on [[2022-08-20]], doing these most days honestly.
