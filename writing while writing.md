@@ -17,4 +17,4 @@ Took a long break, starting fifth pomodoro at 15:55.
 
 Oh, I'll [[burn]] if I have to.
 
-I'll burn myself for good if I can.
+I'll burn myself for good if I can and be happy while I do it, or at least [[free from suffering]].
