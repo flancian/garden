@@ -38,7 +38,7 @@ As hinted already, the Agora has multiple facets which we will try to explore th
 - An example [[distributed knowledge graph]] provisioned using the tools above and maintained by the https://anagora.org [[community]].
 
 --
-- [[meta]] This block is a marker for 'edited up to here in last pass'.
+- [[meta]] This block is a MARKER for 'edited up to here in last pass'.
 --
     
 We then cover potential applications in the [[academic]], [[social]] and [[political]] domains assuming the widespread adoption of this or an equivalent free [[knowledge commons]]. This is done in the form of a series of short exploratory essays.
