@@ -103,6 +103,7 @@ If you are reading this book, you probably know Agora Protocol even before readi
 - #tags
   - tags designate entities as related to the annotated resource
 - [[wikilinks]]
+  - wikilinks designate entities as related to the annotated resource
 - [[backlinks]]
 - [[optimistic linking]]
 - [[outlines]]
