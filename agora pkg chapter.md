@@ -74,7 +74,8 @@ It is also a project with a pragmatic bent directed towards world improvement an
 - #pull [[effective altruism]] 
 - #pull [[murray bookchin]]
 
-# Vision
+# Principles
+
 This section details goals and values as they relate to the definition of an Agora on a high level.
 
 The Agora is an overlay and an interlay.
@@ -82,6 +83,29 @@ The Agora is an overlay and an interlay.
 You don't sign up to an Agora. You sign in.
 
 The Agora is a platform for shared [[praxis]].
+
+## Agora Protocol
+
+This section describes a [[protocol]] based on a set of [[conventions]] that can be said to define an Agora. 
+
+An Agora is any public space that defines itself as such and follows an explicit variation of this Agora Protocol. Individual Agora instances, initially provisioned and maintained by like-minded groups in a decentralized model but later likely moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]].
+
+The Agora network is built on a federated protocol to limit the harmfulness of forks. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back best effort.
+
+You probably know Agora Protocol before learning about it: it is meant to reflect and enrich already existing practices in the personal knowledge management space.
+
+- #push [[agora protocol]]
+  - a [[protocol]].
+    - Based on lightweight conventions for [[knowledge federation]] and the [[data formats]] described below.
+    - [[plain text]] as layer 0 (bootstrapping layer).
+      - This section is an example of [[agora protocol]].
+      - Collections of indented bulleted lists are sufficient to designate a [[heterarchy]].
+    - [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
+    - For [[extensions]] to this core protocol:
+      - Push your proposals to node [[agora rfcs]].
+      - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
+
+We describe later how an Agora can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
@@ -130,29 +154,6 @@ This section explores possible further applications in the social and knowledge 
 A knowledge commons may be conducive to tackling the issue of regulating markets responsibly. A commons can essentially embed a federated network of ethical markets; the community of commoners can agree on the definition of such network and the rules which they which to enforce on transactions through the interface.
 
 # Technical specifications
-
-## Agora Protocol
-
-This section describes a [[protocol]] based on a set of [[conventions]] that can be said to define an Agora. 
-
-An Agora is any public space that defines itself as such and follows an explicit variation of this Agora Protocol. Individual Agora instances, initially provisioned and maintained by like-minded groups in a decentralized model but later likely moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]].
-
-The Agora network is built on a federated protocol to limit the harmfulness of forks. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back best effort.
-
-You probably know Agora Protocol before learning about it: it is meant to reflect and enrich already existing practices in the personal knowledge management space.
-
-- #push [[agora protocol]]
-  - a [[protocol]].
-    - Based on lightweight conventions for [[knowledge federation]] and the [[data formats]] described below.
-    - [[plain text]] as layer 0 (bootstrapping layer).
-      - This section is an example of [[agora protocol]].
-      - Collections of indented bulleted lists are sufficient to designate a [[heterarchy]].
-    - [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
-    - For [[extensions]] to this core protocol:
-      - Push your proposals to node [[agora rfcs]].
-      - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
-
-We describe later how an Agora can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 ## Data format
 - Layer 0: [[plain text]].
