@@ -175,17 +175,13 @@ This section explores possible further applications in the social and knowledge 
 
 ## Node Club
 
-- #pull [[node club]].
+- #pull [[node club]]
 
 Thank you to [[neil]] and the [[agora community]]!
 
-## EdTech 
+## Educational technology
 
-- #pull [[node club]].
-
-Thank you to [[neil]] and the [[agora community]]!
-
-
+- #pull [[edtech]]
 
 ## Solving coordination problems
 - A working Agora is a [[schelling point]] built around the [[principle of charity]].
