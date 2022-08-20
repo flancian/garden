@@ -118,7 +118,7 @@ This section explores possible further applications in the social and knowledge 
   - The virality rule both pushes network growth and constructively exploits wealth inequality and asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
 
 ## Market regulation
-A knowledge commons may be conducive to solving the issue of regulating markets, yielding a network of ethical marketsl
+A knowledge commons may be conducive to tackling the issue of regulating markets responsibly. A commons can essentially embed a federated network of ethical markets; the community of commoners can agree on the definition of such network and the rules which they which to enforce on transactions through the interface.
 
 # Technical specifications
 
