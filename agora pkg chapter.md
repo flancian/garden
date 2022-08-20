@@ -136,14 +136,14 @@ The blocks that follow, and others in the current text in the same [[console typ
       - If you are a member of an Agora, you can propose extensions to Agora Protocol by contributing to [[Agora RFCs]].
       - This should be sufficient to bootstrap a [[governance layer]] defined by each [[Agora]].
       - #pull [[agora rfcs]]
-      
-- [[meta]] This block is a MARKER for 'did some writing up to here in last pass'.
 
 ## Federation
 
-Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] (Fediverse) model but later likely moving to a fully [[distributed]] model, are expected to organize into a greater federated [[Agora network]][^fediverse].
+Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] (Fediverse) model but later likely moving to a fully [[distributed]] model, are expected to federate in a greater [[Agora network]][^fediverse].
 
 [^fediverse]: An Agora is part of the Fediverse.
+
+- [[meta]] This block is a MARKER for 'did some writing up to here in last pass'.
 
 The Agora network is built on a federated protocol the aim of reducing friction to cross-tool cooperation and maximizing the constructiveness of forks. 
 
