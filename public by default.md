@@ -1,0 +1,2 @@
+- I use an [[Agora]] as [[public by default]].
+  - My digital garden is fully public and the only personal garden I keep -- my work one is private to my employer (including my coworkers).
