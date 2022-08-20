@@ -1,0 +1,2 @@
+- a [[problem]].
+  - [[game theory]].
