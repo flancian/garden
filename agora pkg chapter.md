@@ -79,13 +79,14 @@ It is also a project with a pragmatic bent directed towards world improvement an
 This section details goals and values as they relate to the definition of an Agora on a high level.
 
 ## Praxis
+
 The Agora is a platform for shared [[praxis]] based on a set of public [[intents]], which include declarations of [[goals]] and [[values]].
 
 An [[Agora]] tries to meet the user where they are. As a service in the internet, you don't sign up to an Agora: you sign in. Albeit the reference Agora is based firmly on [[web 1]] principles and core [[web]] protocols and architectural styles like [[http]], [[rdf]] and [[rest]], it also includes partial implementation of [[social]] protocols like [[activitypub]] which affords it a basic level of integration with the [[Fediverse]] and Twitter[^twitter].
 
 The [[Agora]] provisions an [[overlay]] (demo at https://anagora.org) querying an [[interlay]] ([[go/agora]]) integrating [[repositories]] as [[underlay]].
 
-With this tool the Agora community can embark on shared projects. I, as one member of the [[agora community]], would like to propose (offer) a series of [[projects]] as a collection of public [[intents]].
+With this tool the Agora community can embark on shared projects. The author, as one member of the [[agora community]], would like to propose (offer) a series of [[projects]] as a collection of public [[intents]].
 
 Let us use Agora Protocol if you may.
 
@@ -111,6 +112,10 @@ You probably know Agora Protocol before learning about it: it is meant to reflec
       - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
 
 We describe later how an Agora can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
+
+## Intents
+
+These are sample intents of the [[author]].
 
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
