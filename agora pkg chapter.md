@@ -31,7 +31,7 @@ The Agora as described in this paper is just [[an Agora]], meaning it is just on
   
 A core aspect of [[this Agora]] is that its constituent [[distributed knowledge graph]] can be easily bootstrapped on a well-defined freely-available subset of the [[internet]]. The provided reference Agora can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] (including social), generalizing to arbitrary repositories. All data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice.
 
-An Agora has multiple facets which we will try to explore in this article:
+As hinted already, the Agora has multiple facets which we will try to explore in this article:
 
   - A high level [[protocol]] for information exchange and cooperation, mostly building on conventions already in use in knowledge oriented online communities.
     - #pull [[Agora Protocol]][^protocol]
@@ -44,9 +44,8 @@ An Agora has multiple facets which we will try to explore in this article:
 We then cover potential applications in the [[knowledge]] and [[social]] domains of a federated network built around such conventions and software. This is done in the form of a series of short exploratory essays.
 
 [^commoning]: both commonsense and related to instances of [[commoning]].
-
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
-[^protocol]: This section serves as a demonstration of a text-based action intent which, in an Agora, will result in the entity mentioned above being transcluded ("pulled", brought into the current context).
+[^protocol]: This section serves as a demonstration of text-based [[agora protocol]] which, in an Agora, will result in the entity mentioned above being transcluded due to the use of an Agora action ("pull", to bring a described resource into the current context.)
 
 # Background
 The Agora can be defined in a nutshell as a platform and protocol for provisioning and maintaining a knowledge commons.
