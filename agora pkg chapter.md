@@ -121,7 +121,7 @@ The blocks that follow, and others in the current text in console typeface, are 
     - Based on lightweight conventions conducive to [[knowledge federation]] of supported [[data formats]] as described below.
     - [[plain text]] as layer 0 (bootstrapping).
       - Collections of indented bulleted lists are sufficient to encode trees, a [[heterarchy]].
-    - [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
+    - [[wikilinks]], #hashtags and other link conventions and annotation formats as layer 1.
     - For [[extensions]] to this core protocol:
       - Push your proposals to node [[agora rfcs]].
       - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
