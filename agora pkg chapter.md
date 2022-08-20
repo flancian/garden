@@ -123,7 +123,7 @@ We also describe later how an Agora can integrate with the wider internet ecosys
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 [^complexity]: indentation is sufficient
 
-The blocks that follow, and others in the current text in console typeface, are a demonstration of text based [[Agora Protocol]].
+The blocks that follow, and others in the current text in the same [[console typeface]], are a demonstration of text based [[Agora Protocol]].
 
 - #push [[agora protocol]]
   - a [[protocol]].
@@ -135,6 +135,11 @@ The blocks that follow, and others in the current text in console typeface, are 
     - Layer 2 being defined, the same as refinements to other layers, as [[extensions]].
       - If you are a member of an Agora, you can propose extensions by [[noding]] [[agora rfcs]].
       - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
+      -
+--
+- [[meta]] This block is a MARKER for 'edited up to here in last pass'.
+--
+
 
 
 ## Federation
