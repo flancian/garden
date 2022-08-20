@@ -92,7 +92,7 @@ Let us use Agora Protocol if you may.
 
 ## Agora Protocol
 
-This section describes a [[protocol]] based on a set of [[conventions]] that can be said to define an Agora. 
+This section describes a [[protocol]] for publicly defining sets of [[conventions]] and [[intents]] that can be said to define an Agora. 
 
 An Agora is any public space that defines itself as such and follows an explicit variation of this Agora Protocol. Individual Agora instances, initially provisioned and maintained by like-minded groups in a decentralized model but later likely moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]].
 
