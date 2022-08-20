@@ -1,9 +1,8 @@
 - a [[chapter]].
   - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
-  - #pull [[agora pkg chapter]] is the draft, maybe I'll make that a [[meta node]] and keep this node focused strictly on the text that will be printed.
-  - #pull [[agora doc]] is the [[google doc]] that will be used for editing after [[2022-09-01]], I want to set up sync.
-    - [ ] try to set up sync using [[pandoc]]
-    - #pull https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit#heading=h.lxyhsegwtr4m
-      - [x] should work, try iframe for the [[google doc]]
-        - it doesn't work :( "Google Docs benötigt Zugriff"
-            - oh, but you can click on "click here" to get through!
+  - #pull [[agora pkg chapter]] is the source of truth for the draft
+  -     maybe I'll make that a [[meta node]] and keep this node focused strictly on the text that will be printed?
+  - #pull [[agora doc]] is what will be the actual next deliverable
+    - this [[google doc]] will be used for editing after [[2022-09-01]], I want to set up sync.
+      - [ ] try to set up sync using [[pandoc]]
+
