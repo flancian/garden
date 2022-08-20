@@ -1,2 +1,3 @@
 - #push [[metta]]
   - May you be [[happy]]!
+  - #pull [[free from suffering]]
