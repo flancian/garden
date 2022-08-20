@@ -83,7 +83,7 @@ The Agora is a platform for shared [[praxis]] based on a set of public [[intents
 
 The Agora is an overlay and an interlay.
 
-You don't sign up to an Agora. You sign in.
+As a service in the internet, you don't sign up to an Agora: you sign in. Albeit the reference Agora is based firmly on [[web 1]] principles and core [[web]] protocols and architectural styles like [[http]], [[rdf]] and [[rest]], it also includes partial implementation of [[social]] protocols like [[activitypub]] which affords it a basic level of integration with the [[Fediverse]] and Twitter[^twitter].
 
 
 ## Agora Protocol
