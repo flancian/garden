@@ -39,33 +39,40 @@ As hinted already, the Agora has multiple facets which we will try to explore th
 
 We then cover potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short exploratory essays.
 
---
-- [[meta]] This block is a MARKER for 'edited up to here in last pass'.
---
-
 [^commoning]: both commonsense and related to instances of [[commoning]].
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 [^protocol]: This section serves as a demonstration of text-based [[agora protocol]] which, in an Agora, will result in the entity mentioned above being transcluded due to the use of an Agora action ("pull", to bring a described resource into the current context.)
 
 # Background
-The Agora can be defined in a nutshell as a platform and protocol for provisioning and maintaining a knowledge commons.
+
+--
+- [[meta]] This block is a MARKER for 'edited up to here in last pass'.
+--
+
+The Agora can be defined in a nutshell as a subset of the [[internet]][^web] used consciously towards a particular purpose. As mentioned previously, it can also be seen as both a platform and a protocol for provisioning and maintaining a [[knowledge commons]]. Because of both this wide definition and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
+
+[^web]: or [[web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
+
+The Agora is inspired by the pioneering work of Elinor Ostrom and others in the study of well functioning [[commons]].
 
 - #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
 
-It is inspired by the work of [[tools for thinking]] pioneers.
+It is also clearly inspired by the work of pioneers of [[tools for thinking]] and the [[web]].
 
 - #pull [[vannevar bush]] [[memex]] 
 - #pull [[douglas engelbart]]
+- #pull [[tim berners lee]]
 
 It builds on top of the open web, wiki culture and the social movements enabled by them.
 
 - #pull [[tim berners lee]] [[solid]] 
 - #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
-- #pull [[social media]]
 
 It is also a project with a pragmatic bent directed towards world improvement and the planning and peaceful enactment of global reform and revolution.
 
-#pull [[effective altruism]] [[murray bookchin]]
+- #pull [[social media]]
+- #pull [[effective altruism]] 
+- #pull [[murray bookchin]]
 
 # Vision
 This section details goals and values as they relate to the definition of an Agora on a high level.
