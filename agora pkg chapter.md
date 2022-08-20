@@ -116,9 +116,7 @@ When interpreting the above and extensions, an Agora is liberal in what it accep
 
 To put it simply, an Agora defines equivalence classes optimistically with good intention. Later we will discuss the hypothesis that this is an optimal default policy for a social platform.
 
-In an Agora, both long form text and outlines in [[Agora Protocol]] are by default interpreted as volunteered heterarchies encoding relationships between named [[entities]] at different levels. 
-
-Outlines plus [[linking]] seem sufficient to encode thoughts and structure of arbitrary complexity in a human readable way. In the opinion of the author this seems sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs]. See [[Technical Specifications]] below for more.
+Note that outlines plus [[linking]] seem sufficient to encode thoughts and structure of arbitrary complexity in a human readable way. In the opinion of the author this seems sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs]. See [[Technical Specifications]] below for more.
 
 We also describe later how an Agora can integrate with the wider internet ecosystem and how a community could use it to run experiments on distributed thought.
 
