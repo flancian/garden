@@ -173,6 +173,20 @@ This section explores possible further applications in the social and knowledge 
 - Assuming the existence of such a graph we apply some good old recursivity and bootstrap an Agora with the problem of building itself. 
   - That is, we are tasked with solving the problem of building a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases and irrationality, but perhaps assuming good intent).
 
+## Node Club
+
+- #pull [[node club]].
+
+Thank you to [[neil]] and the [[agora community]]!
+
+## EdTech 
+
+- #pull [[node club]].
+
+Thank you to [[neil]] and the [[agora community]]!
+
+
+
 ## Solving coordination problems
 - A working Agora is a [[schelling point]] built around the [[principle of charity]].
 - An Agora can be used to solve [[coordination problems]] like those we need to solve to enable users to leave walled gardens and protect the [[commons]] against [[enclosure]] by [[anti disintermediating]] parties. It can be said to be a device for enacting [[counter anti disintermediation]].
@@ -189,7 +203,7 @@ This section explores possible further applications in the social and knowledge 
   - The virality rule both pushes network growth and constructively exploits wealth inequality and asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
 
 ## Market regulation
-A knowledge commons may be conducive to tackling the issue of regulating markets responsibly. A commons can essentially embed a federated network of ethical markets; the community of commoners can agree on the definition of such network and the rules which they which to enforce on transactions through the interface.
+A [[knowledge]] commons may be conducive to tackling the issue of regulating markets responsibly. A commons can essentially embed a federated network of ethical markets; the community of commoners can agree on the definition of such network and the rules which they which to enforce on transactions through the interface.
 
 # Technical specifications
 
