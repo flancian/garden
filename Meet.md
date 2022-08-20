@@ -1,1 +1,1 @@
-- I work on [[Google Meet]].
+- As of [[2022-08]] I work on [[Google Meet]].
