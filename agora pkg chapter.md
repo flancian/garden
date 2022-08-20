@@ -117,6 +117,8 @@ We describe later how an Agora can integrate with the wider internet ecosystem a
 
 These are sample intents of the [[author]].
 
+- #pull [[manifesto]]
+
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
 
