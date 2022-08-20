@@ -123,8 +123,8 @@ The blocks that follow, and others in the current text in console typeface, are 
       - What the literate world already runs on: just plain old human language in full [[unicode]].
       - Collections of indented bulleted lists are efficient while encoding trees, a [[heterarchy]].
     - [[wikilinks]], #hashtags and other link conventions and annotation as part of layer 1.
-    - From being community defined through [[extensions]] to the core protocol:
-      - If you are a member of an Agora, you can propose extensions by noding [[agora rfcs]].
+    - Layer 2 being defined refinements to other layers being community defined through [[extensions]].
+      - If you are a member of an Agora, you can propose extensions by [[noding]] [[agora rfcs]].
       - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
 
 We describe later how an Agora can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
