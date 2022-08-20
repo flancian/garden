@@ -151,9 +151,10 @@ This section explores possible further applications in the social and knowledge 
 - #push [[community]]
   - #pull [[node club]] [[edtech]] [[mycorrhiza]] [[interwiki]] [[fedwiki]]
 
-## Building meaning best effort through [[Agora RFCs]]
+## Building meaning together through federation and [[Agora RFCs]]
 
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes based on federated [[heterarchies]].
+- [[Agora RFCs]] allow 
   - #pull [[agora actions]]
   - #pull [[push]] [[pull]]
   - #pull [[go links]]
