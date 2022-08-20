@@ -1,3 +1,8 @@
 - a [[book]].
   - by [[daniel dennett]].
   - Loved it!
+  - [[chapter 14]]
+    - [[thought experiments]]
+      - [[chinese room]]
+        - I'd been waiting for the definitive Daniel Dennett takedown of [[Searle]].
+      - [[chinese nation]]
