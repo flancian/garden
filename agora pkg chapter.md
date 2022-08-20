@@ -159,9 +159,7 @@ This section explores possible further applications in the social and knowledge 
   - [[push]]
   - [[go]]
   - [[intent]]
-  - #pull [[push]] [[pull]]
-  - #pull [[go links]]
-  - (Details on open source ranking algorithms based on the above go here.)
+- (Details on an [[open source algorithm]] for ranking and filtering based on the above go here.)
 
 ## Collaborative world building
 - We seek to provision and maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
