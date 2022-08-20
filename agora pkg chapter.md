@@ -98,7 +98,7 @@ An Agora is a public space that defines itself as such and follows an explicit v
 
 In text format, Agora Protocol is a series of typographical conventions that allow users to link and annotate resources regardless of the medium. Annotating here stands for encoding metadata and personal meaning in resources in a way conducive to be later decoded in an Agora-like [[context]].
 
-If you are reading this book, you probably know Agora Protocol even before reading about it: it is meant to reflect and build on existing practices in the personal knowledge management space, like:
+If you are reading this book, you probably know Agora Protocol even before reading about it; it is meant to reflect and build on existing practices in the personal knowledge management space, like:
 
 - #Tags designate entities as related to the annotated resource.
   - #PascalCase may be used to encode sentences.
@@ -120,6 +120,8 @@ In an Agora, both long form text and outlines in [[Agora Protocol]] are by defau
 
 Outlines plus [[linking]] seem sufficient to encode thoughts and structure of arbitrary complexity in a human readable way. In the opinion of the author this seems sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs]. See [[Technical Specifications]] below for more.
 
+We also describe later how an Agora can integrate with the wider internet ecosystem and how a community could use it to run experiments on distributed thought.
+
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 
 The blocks that follow, and others in the current text in console typeface, are a demonstration of text based [[Agora Protocol]].
@@ -135,7 +137,6 @@ The blocks that follow, and others in the current text in console typeface, are 
       - If you are a member of an Agora, you can propose extensions by [[noding]] [[agora rfcs]].
       - Other layers are discussed there and settled through a [[governance layer]] defined by each [[agora]].
 
-We describe later how an Agora can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 ## Federation
 
