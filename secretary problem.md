@@ -1,2 +1,3 @@
 - a [[problem]].
   - [[game theory]].
+  - how to maximize the chances of picking the best item out of a set of known size if you have to accept/reject one at a time in a random order
