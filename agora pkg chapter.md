@@ -114,12 +114,13 @@ Note that outlines plus linking are sufficient to encode a [[hypergraph]] in an 
 
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 
+The blocks that follow, and others in the current text in console typeface, are a demonstration of text based [[Agora Protocol]].
+
 - #push [[agora protocol]]
   - a [[protocol]].
-    - Based on lightweight conventions for [[knowledge federation]] and the [[data formats]] described below.
-    - [[plain text]] as layer 0 (bootstrapping layer).
-      - This section is an example of [[agora protocol]].
-      - Collections of indented bulleted lists are sufficient to designate a [[heterarchy]].
+    - Based on lightweight conventions conducive to [[knowledge federation]] of supported [[data formats]] as described below.
+    - [[plain text]] as layer 0 (bootstrapping).
+      - Collections of indented bulleted lists are sufficient to encode trees, a [[heterarchy]].
     - [[wikilinks]] and #hashtags in layer 1, plus other link conventions and metadata extensions.
     - For [[extensions]] to this core protocol:
       - Push your proposals to node [[agora rfcs]].
