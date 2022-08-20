@@ -105,6 +105,8 @@ If you are reading this book, you probably know Agora Protocol even before readi
 - [[Wikilinks]] designate entities as related to the annotated resource.
   - Wikilinks may be preferred when trying to encode sentences a particular typographical realization, as they seamlessly contain lossless [[unicode]] strings.
   
+On a pragmatic level:
+
 - [[Outlines]], as encoded by nested lists such as this one, allow the author to easily communicate and heterarchies in a cross platform way.
 - [[Optimistic linking]]
   - Links that lead nowhere (currently) are encouraged
