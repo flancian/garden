@@ -120,7 +120,8 @@ The blocks that follow, and others in the current text in console typeface, are 
   - a [[protocol]].
     - Based on lightweight conventions conducive to [[knowledge federation]] of supported [[data formats]] as described below.
     - [[plain text]] as layer 0 (bootstrapping).
-      - Collections of indented bulleted lists are sufficient to encode trees, a [[heterarchy]].
+      - What the literate world already runs on: just plain old human language in full [[unicode]].
+      - Collections of indented bulleted lists are efficient while encoding trees, a [[heterarchy]].
     - [[wikilinks]], #hashtags and other link conventions and annotation formats as layer 1.
     - For [[extensions]] to this core protocol:
       - Push your proposals to node [[agora rfcs]].
