@@ -100,7 +100,9 @@ Individual Agora instances, initially provisioned and maintained by like-minded 
 
 [^fediverse]: An Agora is part of the Fediverse.
 
-The Agora network is built on a federated protocol to limit the harmfulness of forks. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back best effort.
+The Agora network is built on a federated protocol with the aim of reducing friction to cross-tool cooperation and maximizing the constructiveness of forks. 
+
+Take the case in which two groups might temporarily diverge in their views to want to run separate Agoras. Ideally their instances should be able to continue to cooperate on problems and solutions for which there is enough values/ideological alignment. Persistent best effort cooperation as a default contract also maximizes the chance of re-convergence leading to a merge.
 
 You probably know Agora Protocol before learning about it: it is meant to reflect and enrich already existing practices in the personal knowledge management space.
 
