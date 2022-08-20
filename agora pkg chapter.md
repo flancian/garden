@@ -123,20 +123,6 @@ We also describe later how an Agora can integrate with the wider internet ecosys
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 [^complexity]: indentation is sufficient
 
-The blocks that follow, and others in the current text in the same [[console typeface]], are a self-documenting demonstration of text based [[Agora Protocol]].
-
-- #push [[agora protocol]]
-  - a [[protocol]].
-    - Based on lightweight conventions conducive to [[knowledge federation]] of supported [[data formats]] as described below.
-    - [[plain text]] as layer 0 (bootstrapping).
-      - What the literate world already runs on: just plain old human language in full [[unicode]].
-      - Note that indented bulleted lists are efficient while encoding trees, [[heterarchies]].
-    - [[wikilinks]], #hashtags and other link conventions and annotation as part of layer 1.
-    - Layer 2 being defined, the same as refinements to other layers, as [[extensions]].
-      - If you are a member of an Agora, you can propose extensions to Agora Protocol by contributing to [[Agora RFCs]].
-      - This should be sufficient to bootstrap a [[governance layer]] defined by each [[Agora]].
-      - #pull [[agora rfcs]]
-
 ## Federation
 
 Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] (Fediverse) model but later likely moving to a fully [[distributed]] model, are expected to federate in a greater [[Agora network]][^fediverse].
@@ -207,7 +193,25 @@ A knowledge commons may be conducive to tackling the issue of regulating markets
 
 # Technical specifications
 
+## Agora Protocol demo
+
+The blocks that follow, and others in the current text in the same [[console typeface]], are a self-documenting demonstration of text based [[Agora Protocol]].
+
+- #push [[agora protocol]]
+  - (Push can be used for writing child blocks to a remote context, as if broadcasting to a [[pubsub]] topic.)
+  - a [[protocol]].
+    - Based on lightweight conventions conducive to [[knowledge federation]] of supported [[data formats]] as described below.
+    - [[plain text]] as layer 0 (bootstrapping).
+      - What the literate world already runs on: just plain old human language in full [[unicode]].
+      - Note that indented bulleted lists are efficient while encoding trees, [[heterarchies]].
+    - [[wikilinks]], #hashtags and other link conventions and annotation as part of layer 1.
+    - Layer 2 being defined, the same as refinements to other layers, as [[extensions]].
+      - If you are a member of an Agora, you can propose extensions to Agora Protocol by contributing to [[Agora RFCs]].
+      - This should be sufficient to bootstrap a [[governance layer]] defined by each [[Agora]].
+      - #pull [[agora rfcs]]
+
 ## Data format
+
 - Layer 0: [[plain text]].
   - Plain text is ubiquituous.
   - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
