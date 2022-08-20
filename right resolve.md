@@ -1,0 +1,2 @@
+- a [[practice]]
+  - in the [[eightfold path]].
