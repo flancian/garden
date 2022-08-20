@@ -24,3 +24,13 @@ I'll burn myself for good if I can and be happy while I do it, or at least [[fre
 I'm on the seventh, did some [[catharsis]] and thinking on [[consciousness]] with [[daniel dennett]] -- and laundry, which I had planned on doing and wrote down as an intent prior, so that was part of the day's work :)
 
 Now on to [[agora rfcs]].
+
+--
+
+Eight went well :)
+
+Also collected laundry (started in six, so some loss of time, but not major) and in the rest had a bite.
+
+I'm drinking [[mate]].
+
+--
