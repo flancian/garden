@@ -37,7 +37,7 @@ As hinted already, the Agora has multiple facets which we will try to explore th
 - A [[free software]] [[reference implementation]] of the principles delineated in this article, including a set of importers and converters for diverse [[sources]] and [[formats]] and an integration layer and rendering platform implementing the Agora protocol.
 - An example [[distributed knowledge graph]] provisioned using the tools above and maintained by the https://anagora.org [[community]].
 
-We then cover potential applications in the [[academic]], [[social]] and [[political]] domains assuming the widespread adoption of this or an equivalent free [[knowledge commons]]. This is done in the form of a series of short exploratory essays.
+We then cover potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short exploratory essays.
 
 --
 - [[meta]] This block is a MARKER for 'edited up to here in last pass'.
