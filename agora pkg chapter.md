@@ -159,7 +159,6 @@ This section explores possible further applications in the social and knowledge 
   - [[push]]
   - [[go]]
   - [[intent]]
-  - #pull [[agora actions]]
   - #pull [[push]] [[pull]]
   - #pull [[go links]]
   - (Details on open source ranking algorithms based on the above go here.)
