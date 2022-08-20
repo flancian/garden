@@ -198,6 +198,7 @@ Thank you to [[neil]] and the [[agora community]]!
   - An Agora can help people regain and maintain control of their data, including their [[social graphs]].
 
 ## Flow problems 
+
 - #pull [[liquid democracy]] [[network flow]]
 - We seek to bootstrap a [[Universal Basic Income]] experiment using an Agora with a set of simple rules:
   - If you consider yourself under-privileged, you sign up to receive an income.
@@ -205,8 +206,10 @@ Thank you to [[neil]] and the [[agora community]]!
   - Incomes are recurring donations for a set number of months.
 - Optional [[virality rule]]: the person receiving the income should elect to forward e.g. 10% of the sum received to someone less privileged than them.
   - The virality rule both pushes network growth and constructively exploits wealth inequality and asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
+- [[Flancia Collective]] runs experiments in this field using an [[Agora]].
 
 ## Market regulation
+
 A [[knowledge]] commons may be conducive to tackling the issue of regulating markets responsibly. A commons can essentially embed a federated network of ethical markets; the community of commoners can agree on the definition of such network and the rules which they which to enforce on transactions through the interface.
 
 # Technical specifications
