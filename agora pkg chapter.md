@@ -117,8 +117,10 @@ We describe later how an Agora can integrate with the wider internet ecosystem a
 
 These are sample intents of the [[author]]. They can be optionally endorsed by arbitrary users of an Agora.
 
-- The author tries to 
-
+- The author tries to follow the [[principle of charity]].
+- The author tries to use [[agora protocol]].
+- The author tries to [[cooperate]] with others [[pro socially]] by default.
+-
 - #pull [[manifesto]]
 
 # Applications
