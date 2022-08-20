@@ -101,9 +101,11 @@ In text format, Agora Protocol is a series of typographical conventions that all
 If you are reading this book, you probably know Agora Protocol even before reading about it: it is meant to reflect and build on existing practices in the personal knowledge management space, like:
 
 - #tags
+  - tags designate entities as related to the annotated resource
 - [[wikilinks]]
 - [[backlinks]]
 - [[optimistic linking]]
+- [[outlines]]
 
 - #push [[agora protocol]]
   - a [[protocol]].
