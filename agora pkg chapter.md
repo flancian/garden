@@ -231,6 +231,7 @@ The blocks that follow, and others in the current text in the same [[console typ
   - The Agora reference implementation currently provides JSON and RDF endpoints.
 
 ## Graph definition 
+
 The Agora [[knowledge graph]] can be defined as a **hypergraph** `A` with a set of `k` **nodes** `N` ([[entities]] an Agora knows about) integrated out of **subnodes** `SN_0 .. SN_k`, each containing **subedges** `SE_0 .. SE_k`, aggregating into **edges** `E_0 .. E_k` (semantic links between entities inferred from known subnodes). Edges are annotated implicitly by link context and explicitly via the use of [[agora protocol]] affordances, which is extensible and tries to build on existing conventions in the [[personal knowledge management]] space. 
 
 An Agora differs from other projects in the personal knowledge space in a few ways: whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains, integrates and interlinks both personal and group resources. Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as queries mapping to sets of resources. This is consistent with a general design principle of facilitating storage and retrieval of entity-mapped information with a view toward removing friction from agreement and cooperation.
