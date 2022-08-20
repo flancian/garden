@@ -18,3 +18,9 @@ Took a long break, starting fifth pomodoro at 15:55.
 Oh, I'll [[burn]] if I have to.
 
 I'll burn myself for good if I can and be happy while I do it, or at least [[free from suffering]].
+
+--
+
+I'm on the seventh, did some [[catharsis]] and thinking on [[consciousness]] with [[daniel dennett]] -- and laundry, which I had planned on doing and wrote down as an intent prior, so that was part of the day's work :)
+
+Now on to [[agora rfcs]].
