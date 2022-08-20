@@ -78,11 +78,13 @@ It is also a project with a pragmatic bent directed towards world improvement an
 
 This section details goals and values as they relate to the definition of an Agora on a high level.
 
+## Praxis
+The Agora is a platform for shared [[praxis]] based on a set of public [[intents]], which include declarations of [[goals]] and [[values]].
+
 The Agora is an overlay and an interlay.
 
 You don't sign up to an Agora. You sign in.
 
-The Agora is a platform for shared [[praxis]].
 
 ## Agora Protocol
 
