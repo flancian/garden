@@ -127,7 +127,7 @@ We also describe later how an Agora can integrate with the wider internet ecosys
 
 Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] ([[Fediverse]] compatible) model, but tending towards a fully [[distributed]] model, are expected to federate in a greater [[Agora network]][^fediverse].
 
-An Agora is a repository of [[patterns]] in the tradition of [[Christopher Alexander]], [[Ward Cunningham]], [[
+An Agora tries to be a [[repository]] of [[patterns]] in the tradition of [[Christopher Alexander]], [[Ward Cunningham]], [[David Bollier]], [[Silke Helfrich]] and [[Murray Bookchin]].
 
 [^fediverse]: An Agora is part of the Fediverse.
 
