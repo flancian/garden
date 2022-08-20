@@ -4,4 +4,4 @@
   - #pull [[agora doc]] is the [[google doc]] that will be used for editing after [[2022-09-01]], I want to set up sync.
     - [ ] try to set up sync using [[pandoc]]
     - #pull https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit#heading=h.lxyhsegwtr4m
-      - [ ] should work, try iframes
+      - [ ] should work, try iframe for the [[google doc]]
