@@ -43,3 +43,5 @@ I've done four pomodoros today, now I'm about to begin my fifth. It's 16:40.
 Towards this number I've not counted the 1.5h of solid coworking with [[bouncepaw]] in [[agora meet]] this morning, which happened thanks to him and was great.
 
 (This block could have been a push from my [[daily]], and the Agora could have rendered it as another update in this timeline without too much extra work.)
+
+I noded [[writing pomodoro]], which is one of a kind I'm about to do.
