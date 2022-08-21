@@ -3,5 +3,6 @@
 - a [[project]].
   - [[wiki]]
   - [[bouncepaw]]
-  - [[git]] https://github.com/bouncepaw/mycorrhiza
+  - #github https://github.com/bouncepaw/mycorrhiza
+  - #git https://github.com/bouncepaw/mycorrhiza
   - [[go]] [[git]]
