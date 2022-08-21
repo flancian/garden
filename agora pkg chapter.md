@@ -65,6 +65,11 @@ The Agora can be defined in a nutshell as a subset of the [[internet]][^web] use
 
 [^web]: or [[web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
 
+## Terminology
+
+- [[Agora]]: a [[protocol]], a [[platform]], a [[commons]].
+-
+
 # Principles
 
 This section details goals and values as they relate to the definition of an Agora on a high level.
