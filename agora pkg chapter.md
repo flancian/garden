@@ -393,7 +393,8 @@ This section triers to summarize the endpoints that [[Agora server]] provides an
 Agoras can define mappings from these to URL schemes generalizing to isomorphic REST-like APIs using `agora.yaml`[^yaml].
 
 [^yaml]: or TOML?
-- GET /@<user>
+
+- GET /@<user> -> provides details about a user and the [[subnodes]] in their repositories
 - GET /node/<node> -> entity resolution
 - GET /nodes -> lists
 - GET /feed/node
