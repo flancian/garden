@@ -69,6 +69,7 @@ The Agora can be defined in a nutshell as a subset of the [[internet]][^web] use
 
 - [[Agora]]: a [[protocol]], a [[platform]], a [[commons]].
 - [[Graph]]: the heart of the Agora. A distributed [[knowledge graph]] in particular, both explicitly and implicitly containing a variety of social graphs.
+- [[Node]]: a vertex in the knowledge graph. Maps to an [[entity]] description encoded in [[wikilinks]] or #hashtags.
 
 # Principles
 
