@@ -170,7 +170,7 @@ A [[commons]] consists, at a minimum[^comdef], of:
 - [[Common goods]], a group of resources.
   - Described in this section.
 
-TODO: describe an [[Agora]] [[root repository]].
+TODO: describe an [[Agora]]'s [[root repository]].
 
 [^comdef]: https://logicmag.io/commons/singular-plural/
 
