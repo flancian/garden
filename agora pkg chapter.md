@@ -366,7 +366,9 @@ Here we cover some details of the provided free and open source reference Agora 
     
 ### Data ownership model
 
-The [[Agora platform]] is based on a trivially distributed model: by default users are entities that inform an Agora of repositories they want to contribute to the [[commons]].
+The [[Agora platform]], although strictly rooted in [[web 1]] principles in its reference implementation as of the time of writing, is based on a strictly distributed model: by default users are entities that inform an Agora of repositories they want to contribute to the [[commons]]. As such, an Agora is trivially distributed in the sense that all data required to bootstrap it is hosted independently by users at independent locations[^github].
+
+[^github]: as of the time of writing, GitHub is the most popular git host, but not by much (percentage goes here). This is likely suboptimal as it undermines the claim of the resulting [[knowledge commons]] of being truly [[distributed]], and can be seen as an instance of the (anti-)pattern [[Anti Disintermediation]].
 
 - Users can contribute [[repositories]] to an Agora.
   - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
