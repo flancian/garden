@@ -105,8 +105,6 @@ Let us use Agora Protocol if you may.
 
 This section describes a [[protocol]] for publicly defining sets of [[conventions]] and [[intents]] that can be said to define an Agora. An Agora is a public space that defines itself as such and follows an explicit variation of the Agora Protocol.
 
-The author proposes we use an Agora to define and extend Agora Protocol as a project in the [[commons]]. 
-
 In text format, Agora Protocol is a series of typographical conventions that allow users to link and annotate resources regardless of the medium. Annotating here stands for encoding metadata and personal meaning in resources in a way conducive to be later decoded in an Agora-like [[context]].
 
 If you are reading this book, you probably know Agora Protocol even before reading about it; it is meant to reflect and build on existing practices in the personal knowledge management space, like:
@@ -131,7 +129,7 @@ To put it simply, an Agora defines equivalence classes optimistically with good 
 
 Note that outlines plus [[linking]] seem sufficient to encode thoughts and structure of arbitrary complexity in a human readable way[^complexity]. In the opinion of the author this seems sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs]. See [[Technical Specifications]] below for more.
 
-We also describe later how an Agora can integrate with the wider internet ecosystem and how a community could use it to run experiments on distributed thought.
+We also describe later how [[Agora Protocol]] can help an Agora integrate with the wider internet ecosystem and how a community could use it to run experiments on distributed thought.
 
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 [^complexity]: indentation is sufficient
@@ -157,6 +155,8 @@ TODO: Define bridges here.
 A [[siphon]] can be seen as a bridge across which [[flow]] can take place after some initial [[effort]], with cost-benefit ideally following a Pareto-like distribution.
 
 ## Intents
+
+The author proposes we use an Agora to define and extend Agora Protocol as a project in the [[commons]]. 
 
 These are sample intents of the [[author]]. They can be optionally endorsed by arbitrary users of an Agora.
 
