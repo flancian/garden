@@ -22,9 +22,10 @@
       - In the subnode below, sourced from the [[stoa]], you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
     - #push [[agora]]
       - (If you don't like this [[Agora]], that's fine -- consider improving it!)
-    - [[todo]]
-      - add [[bridges]]
-      - add [[siphons]]
+    - [[todo]] (see also in line below marked TODO)
+      - [x] add [[bridges]] section
+      - [x] add [[siphons]] section
+      - [x] add sections for 
       - add [[opt in]] policy
       - add [[user data ownership]] model (repo per user to bootstrap)
       - document [[endpoints]] in [[Technical specifications]]
@@ -57,9 +58,7 @@ We will then cover experiments and potential applications in the [[academic]], [
 
 # Background
 
---
-- [[meta]] This block is a MARKER for 'edited up to here in last pass'.
---
+- #meta TODO: this [[Agora protocol]] block is a MARKER for 'edited (up to?) around here in the last pass', move/delete as needed.
 
 The Agora can be defined in a nutshell as a subset of the [[internet]][^web] used consciously towards a particular purpose. As mentioned previously, it can also be seen as both a platform and a protocol for provisioning and maintaining a [[knowledge commons]]. Because of both this wide definition and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
 
