@@ -4,7 +4,7 @@
     - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs.
   - This chapter is about the [[Agora]] in general, and about [[an agora]] in particular, and what we could do with them together.
   - Working title: "The Agora is a Distributed Knowledge Graph and Protocol".
-  - Working title (2): "The Agora is a Protocol and a Platform provisioned in a Commons".
+  - Working title (2): "The Agora is a Protocol, a Platform and a Commons".
   - Original title (for the abstract): "The Agora is a Social Knowledge Graph".
   - Subtitle: Towards a Free [[Commons]] by [[Building Bridges]].
   - Expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
