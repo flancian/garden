@@ -157,6 +157,8 @@ TODO: Define bridges here.
 ## Siphons
 A [[siphon]] can be seen as a bridge across which [[flow]] can take place after some initial [[effort]], with cost-benefit ideally following a Pareto-like distribution.
 
+## Agora Commons
+
 ## Intents
 
 The author proposes we use an Agora to define and extend Agora Protocol as a project in the [[commons]]. 
