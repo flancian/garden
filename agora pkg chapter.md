@@ -447,6 +447,8 @@ The author would like to thank [[Flancia Collective]], the [[Agora community]], 
 
 To my [[friends]]: for your ongoing love and support.
 
-To you: for reading and considering my often clumsy words in good light.
+To you: for reading.
 
-Some parting words: if you don't like this [[Agora]], that's perfectly alright -- please consider improving it!
+To all the Agora builders and maintainers through history, 
+
+Some parting words: if you don't like this [[Agora]], that's perfectly alright -- please consider improving it! An Agora is [[open source]] and [[Creative Commons]] respectively. Flancia is [[Creative Commons]].
