@@ -449,6 +449,6 @@ To my [[friends]]: for your ongoing love and support.
 
 To you: for reading.
 
-To all the Agora builders and maintainers through history, 
+To all the Agora builders and maintainers through history, including those of the historical [[poleis]] and those who will build plentiful Agoras in the peaceful cities and countries of the future.
 
 Some parting words: if you don't like this [[Agora]], that's perfectly alright -- please consider improving it! An Agora is [[open source]] and [[Creative Commons]] respectively. Flancia is [[Creative Commons]].
