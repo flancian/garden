@@ -12,7 +12,7 @@
     - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
     - [[submission]] [[September 1]] ~ [[2022-09-01]]: The final chapter submission after which it goes into editing.
   - #meta The preceding blocks and the following [[children]] exemplify [[Agora Protocol]] (see below for a concise description.)
-      - This document as a whole tries to be an example of Agora Protocol as used interspersed, and occassionally intertwined, with common prose.
+    - This document as a whole tries to be an example of Agora Protocol as used interspersed, and occassionally intertwined, with common prose.
     - #push [[commons]] 
       - #pull [[knowledge commons]] [[elinor ostrom]]
     - #push [[altruism]] 
