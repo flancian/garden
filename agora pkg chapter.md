@@ -144,7 +144,7 @@ An Agora tries to be a [[repository]] of [[patterns]] in the tradition of [[Chri
 
 [^fediverse]: An Agora is part of the Fediverse.
 
-- [[meta]] This block is a MARKER for 'did some writing up to here in last pass'.
+- #meta TODO: this [[Agora protocol]] block is a MARK for 'did new writing around here in the last pass', move/delete as needed.
 
 The Agora network is built on a federated protocol the aim of reducing friction to cross-tool cooperation and maximizing the constructiveness of forks. 
 
