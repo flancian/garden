@@ -105,6 +105,8 @@ Let us use Agora Protocol if you may.
 
 This section describes a [[protocol]] for publicly defining sets of [[conventions]] and [[intents]] that can be said to define an Agora. An Agora is a public space that defines itself as such and follows an explicit variation of the Agora Protocol.
 
+The author proposes we use an Agora to define and extend Agora Protocol as a project in the [[commons]]. 
+
 In text format, Agora Protocol is a series of typographical conventions that allow users to link and annotate resources regardless of the medium. Annotating here stands for encoding metadata and personal meaning in resources in a way conducive to be later decoded in an Agora-like [[context]].
 
 If you are reading this book, you probably know Agora Protocol even before reading about it; it is meant to reflect and build on existing practices in the personal knowledge management space, like:
