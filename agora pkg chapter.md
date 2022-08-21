@@ -198,9 +198,9 @@ Intents in [[Agora protocol]] can be interspersed in long form writing, in which
 
 Go links provide an interest base case to study in the field of provisioning and exploiting (pro socially) a [[knowledge commons]].
 
-[[Go links]] are a popular [[cognitive tool]] developed in [[Silicon Valley]] corporations and spreading to the internet. As [[cognitive artifacts]] go they have at least one [[complementary]] component which makes them interesting as a case study regardless of primary utility of application.
+[[Go links]] are a popular [[cognitive tool]] which was developed in [[Silicon Valley]] corporations and then spread to the internet. As [[cognitive artifacts]] they have a meaningful [[complementary]] component, which makes them interesting as a case study regardless of primary utility of application.
 
-The primary utility, though, is valuable. In a [[go links]] rich environment, users can depend on other users to have defined [[canonical links]], that is, specially relevant resources, in a [[commons]]. 
+The primary utility, though, is high. In a [[go links]] rich environment, users can depend on other users to have defined [[canonical links]] for named [[entities]]; that is, collections of specially relevant resources to the terms at hand, as shared in a [[commons]]. 
 
 ## Pull
 
