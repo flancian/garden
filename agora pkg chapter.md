@@ -196,7 +196,9 @@ Intents in [[Agora protocol]] can be interspersed in long form writing, in which
 
 ## Go links
 
-Go links provide an interest base case to study in the field of provisioning and exploiting (pro socially) a [[knowledge commons]].
+Go links provide an interest base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]].
+
+[^exploiting]: TODO: there's probably a better term for this in [[Free, Fair and Alive]].
 
 [[Go links]] are a [[cognitive tool]] which was developed in [[Silicon Valley]] corporations and has the potential to spread to the internet. As [[cognitive artifacts]] they have a meaningful [[complementary]] component, which makes them interesting as a case study regardless of primary utility of application.
 
