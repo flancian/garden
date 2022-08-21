@@ -415,7 +415,7 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 - GET /nodes -> lists known entities in canonical form
 - GET /@<user> -> provides details about a user and the [[subnodes]] in their repositories.
 - GET /users -> lists users
-- GET /search?q=<query> -> generally redirects to /node/<node>?q=<query> with node being a maximally useful context while preserving fidelity of the percent-encoded query string
+- GET /search?q=<query> -> generally redirects to /node/<node>?q=<query> with node being a maximally useful context while preserving fidelity with the percent-encoded query string
 
 #### Feeds
 - GET /feed/@<user>
@@ -432,7 +432,6 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 # References
 
 - #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
-
 
 # Thanks
 
