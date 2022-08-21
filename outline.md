@@ -1,0 +1,2 @@
+- Text produced in [[outliner mode]].
+  - Indented bullet points plus [[wikilinks]].
