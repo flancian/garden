@@ -28,7 +28,9 @@
       - add [[opt in]] policy
       - add [[user data ownership]] model (repo per user to bootstrap)
       - document [[endpoints]] in [[Technical specifications]]
+        - including /feed/
       - document social -> agora and agora -> social flows
+      - add more on [[pattern repository]] aspect
         
 # Introduction
 
