@@ -101,7 +101,7 @@ With this tool the Agora community can embark on shared projects. The author, as
 
 Let us use Agora Protocol if you may.
 
-## Agora Protocol
+## [[Agora Protocol]]
 
 This section describes a [[protocol]] for publicly defining sets of [[conventions]] and [[intents]] that can be said to define an Agora. An Agora is a public space that defines itself as such and follows an explicit variation of the Agora Protocol.
 
@@ -129,10 +129,12 @@ To put it simply, an Agora defines equivalence classes optimistically with good 
 
 Note that outlines plus [[linking]] seem sufficient to encode thoughts and structure of arbitrary complexity in a human readable way[^complexity]. In the opinion of the author this seems sufficient to encode a [[hypergraph]] in a human friendly way, which might do away with the need for programmatically generated [[block references]][^blockrefs]. See [[Technical Specifications]] below for more.
 
-We also describe later how [[Agora Protocol]] can help an Agora integrate with the wider internet ecosystem and how a community could use it to run experiments on distributed thought.
+Next we describe how [[Agora Protocol]] can help provision an [[Agora Platform]] which integrates pro-socially with the wider internet ecosystem, and how a community could use both to run experiments on distributed thought.
 
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 [^complexity]: indentation is sufficient
+
+## Agora Platform
 
 ## Federation
 
