@@ -373,6 +373,11 @@ Here we cover some details of the provided free and open source reference Agora 
   - (Soon they will be able to submit this information directly on the [[agora server]] provided interface.)
 - Whenever a user signals [[opt in]] to remote writing (bridging, siphoning, cross posting), [[an Agora]] does its best to guarantee user data ownership.
   - By default, an Agora will not store data for the user if it the user has not signaled a strong enough intent to write full data. Instead, an Agora will try to [[link]] to resources only in matching contexts, allowing users to recover resources without meddling in data management (see [[go links]] study case).
+  - Whenever it does write data, an Agora will try to provision a separate repository per user and try to turn data management into a user's concern at the user's earliest convenience.
+    - To put it another way, an Agora actively tries actively to own no data, preferring instead to act as a [[data steward]] only inasmuch the user needs the Agora's services for this purpose.
+    - [[Solid]][^solid] could be seen as an example of the ideal direction in this space according to the author.
+
+[^solid]: https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)
 
 ### Endpoints
 
