@@ -9,4 +9,5 @@
     - my [[workstation]] in the office, [[nirodha]]
     - my [[living room computer]], [[nostromo]]
     - my [[gaming computer]], [[nox]]
-    - my four [[servers]]: [[dorcas]] [[thecla]] [[patera]] [[hypatia]]
+    - my four colocated [[servers]]: [[dorcas]], [[thecla]], [[patera]], [[hypatia]]
+    - many VMs depending on how you count them
