@@ -165,6 +165,12 @@ These are sample intents of the [[author]]. They can be optionally endorsed by a
 - The author tries to [[help]] others whenever possible.
 - #pull [[manifesto]]
 
+## Literate programming
+
+Intents in [[Agora protocol]] can be interspersed in long form writing, in which case they can act as human-readable metadata.
+
+[[Tree structures]] with [[wikilinks]] are assumed by an Agora to carry [[Agora protocol]] by default, and may be elided or hidden when performing human-readable format conversions through [[Agora sync]].
+
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
 
