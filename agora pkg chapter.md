@@ -447,6 +447,6 @@ The author would like to thank [[Flancia Collective]], the [[Agora community]], 
 
 To my [[friends]]: for your ongoing love and support.
 
-To you: for reading and considering my often ill guided words with the presumption of good intention.
+To you: for reading and considering my often clumsy words in good light.
 
 Some parting words: if you don't like this [[Agora]], that's perfectly alright -- please consider improving it!
