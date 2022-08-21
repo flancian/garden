@@ -25,7 +25,8 @@
     - [[todo]] (see also in line below marked TODO)
       - [x] add [[bridges]] section
       - [x] add [[siphons]] section
-      - [x] add sections for 
+      - [x] add sections for [[agora platform]] and [[agora commons]] (triad approach).
+      - [x] write about go links
       - add [[opt in]] policy
       - add [[user data ownership]] model (repo per user to bootstrap)
       - document [[endpoints]] in [[Technical specifications]]
