@@ -27,6 +27,8 @@
       - [x] add [[siphons]] section
       - [x] add sections for [[agora platform]] and [[agora commons]] (triad approach).
       - [x] write about go links
+      - #pull [[agora]]
+        - see if there's any phrasing there that can be reused here, this has drifted towards the technical and [[agora]] might have some nuggets?
       - add [[opt in]] policy
       - add [[user data ownership]] model (repo per user to bootstrap)
       - document [[endpoints]] in [[Technical specifications]]
@@ -431,8 +433,13 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 # References
 
 - [[meta]] TODO: move these to IPA :)
-- #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
-- #pull [[murray bookchin]] [[revolution in the 21st century]]
+- #pull [[elinor ostrom]] 
+  - [[commons]] [[knowledge commons]] 
+- #pull [[murray bookchin]] 
+  - [[revolution in the 21st century]]
+- #pull [[christopher alexander]] 
+  - [[notes on the synthesis of form]] 
+  - [[a pattern language]]
 
 # Thanks
 
