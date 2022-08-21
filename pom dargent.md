@@ -1,0 +1,1 @@
+- #pull a [[pom dargent]] or [[pomargent]] is like a [[pomodoro]] but of the length you define it to be.
