@@ -85,10 +85,9 @@ This project is of very large scope and might make use of non standard terminolo
 
 This section details goals and values as they relate to the definition of an Agora on a high level.
 
-The Agora as a project is positioned at the intersection of [[commoning]] and [[patterning]].
+The Agora as a project is positioned at the intersection of the fields of [[commoning]], [[patterning]] and [[knowledge management]].
 
-- The Agora is inspired by the pioneering work of Elinor Ostrom and others in the study of well functioning [[commons]].
-- #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
+- The Agora is inspired by the pioneering work of Elinor Ostrom and others in the study of well functioning [[commons]], which resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents to prevent the so called [[Tragedy of the Commons]].
 
 It is also clearly inspired by the work of pioneers of [[tools for thinking]] and the [[Web]].
 
@@ -410,14 +409,29 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 
 [^yaml]: or TOML?
 
-- GET /@<user> -> provides details about a user and the [[subnodes]] in their repositories
+#### Entity resolution
+- GET /@<user> -> provides details about a user and the [[subnodes]] in their repositories.
+- GET /users -> lists
 - GET /node/<node> -> entity resolution
 - GET /nodes -> lists
-- GET /feed/node
+- … 
+
+#### Feeds
+- GET /feed/@<user>
+- GET /feed/<node>
 - GET /feed/journals
-- GET /feed/@userjournals
--
-- go / one per action
+- GET /feed/journals/@<user>
+- … 
+
+#### Actions
+- GET /go/<node>
+- GET /go/<node1>/<node2>
+- …
+
+# References
+
+- #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
+
 
 # Thanks
 
