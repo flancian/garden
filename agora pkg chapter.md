@@ -21,9 +21,7 @@
     - #push [[revolution]]
       - #pull [[free software]] [[federation]] [[adversarial interoperability]] [[murray bookchin]]
   - In this subnode (meaning this text file) you will find the actual **chapter text**, including the introduction, which should be 5k-10k words once ready to be delivered on [[2022-09-01]].
-    - In the subnode below (meaning another text file, sourced from the [[Stoa]]), you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
-    - #push [[agora]]
-      - (If you don't like this [[Agora]], that's fine -- consider improving it!)
+    - In the subnode below (meaning another text file, sourced from the [[Stoa]]), you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the [[Agora]] is about, or should be.
     - [[todo]] (see also in line below marked TODO)
       - [x] add [[bridges]] section
       - [x] add [[siphons]] section
@@ -445,6 +443,10 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 
 # Thanks
 
-To [[Flancia Collective]], [[Agora Discuss]] and the [[Fellowship of the Link]] for discussion and inspiration. 
+To [[Flancia Collective]] and the [[Agora community]], including the [[Fellowship of the Link]], for inspiration. 
 
-To my [[friends]] for their ongoing support.
+To my [[friends]] for their ever ongoing support.
+
+- #push [[agora]]
+  - (If you don't like this [[Agora]], that's fine -- please consider improving it!)
+
