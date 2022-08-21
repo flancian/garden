@@ -33,7 +33,7 @@
       - add more on [[pattern repository]] aspect
       - describe [[pull]], [[push]], [[go]] in RFC section?
       - importing single resources like docs?
-      - Is it too much to say "The Agora is a protocol and platform for provisioning a knowledge commons."?
+      - Is it too much to say "The Agora is a protocol, a platform and a knowledge commons"?
         
 # Introduction
 
