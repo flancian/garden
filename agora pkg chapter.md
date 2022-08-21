@@ -78,6 +78,7 @@ This project is of very large scope and might make use of non standard terminolo
 - [[Garden]]: a repository of resources maintained by a user over time. (Optionally entity mapped) information contributed by a user diachronically.
 - [[Stoa]]: a repository of resources maintained by a group over time.
 - [[Bridge]]: a device connecting contexts, applying to both nodes and repositories.
+- [[Siphon]]: a bridge which exploits a [[Pareto]] like gradient.
 
 # Principles
 
