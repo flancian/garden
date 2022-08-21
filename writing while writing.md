@@ -1,5 +1,6 @@
 - a [[brain dump]].
-  - [[some things I wrote while writing]] something else, e.g. [[agora pkg chapter]].
+  - #push [[writing while you write]]
+    - [[some things I wrote while writing]] something else, e.g. [[agora pkg chapter]].
 
 What would you do if you were an archer and you had only two arrows (maybe [[one green, one red]])? Maybe declared to be your only two arrows through reliable prophecy. What would you shoot in the direction of, and how would your time your shots?
 
@@ -34,3 +35,9 @@ Also collected laundry (started in six, so some loss of time, but not major) and
 I'm drinking [[mate]].
 
 --
+
+Today is Sunday [[2022-08-21]]. I'm back in this node again :)
+
+I've done four pomodoros today, now I'm about to begin my fifth. It's 16:40.
+
+Towards this number I've not counted the 1.5h of solid coworking with [[bouncepaw]] in [[agora meet]] this morning, which happened thanks to him and was great.
