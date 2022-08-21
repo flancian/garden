@@ -443,10 +443,13 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 
 # Thanks
 
-To [[Flancia Collective]], the [[Agora community]], and the [[Fellowship of the Link]]: for your inspiration, interest, guidance.
+The author would like to thank [[Flancia Collective]], the [[Agora community]], and the [[Fellowship of the Link]]: for your inspiration, interest, guidance.
 
-To my [[friends]] for their ever ongoing support.
+To my [[friends]]: for your ongoing love and support.
 
-- #push [[agora]]
-  - (If you don't like this [[Agora]], that's fine -- please consider improving it!)
+To you, reader: for reading.
+
+Some parting words: 
+
+If you don't like this [[Agora]], that's perfectly alright -- please consider improving it! Your Agora is our Agora.
 
