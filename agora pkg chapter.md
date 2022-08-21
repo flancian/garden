@@ -74,8 +74,8 @@ This project is of very large scope and might make use of non standard terminolo
 - [[Node]]: a vertex in the knowledge graph. Maps to an [[entity]] description encoded in a [[wikilink]] or #hashtag. Maps to a mental [[context]] in an Agora user.
 - [[Subnode]]: a resource contributed by a user which the Agora will provision when queried for a variety of [[Node]] contexts. A node is a collection of subnodes.
 - [[Link]]: an annotated edge in the knowledge graph. Maps to an [[entity]] description encoded in [[wikilinks]] or #hashtags.
-- [[Feed]]: 
-- [[Garden]]: standing for a repository of useful state, (optinally entity mapped) information maintained by a user over time.
+- [[Feed]]: as per the core [[Web]] definition. Resources pointed to in a timeline.
+- [[Garden]]: standing for a repository of useful state, (optionally entity mapped) information maintained by a user over time.
 
 # Principles
 
