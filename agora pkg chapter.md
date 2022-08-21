@@ -168,7 +168,7 @@ A [[commons]] consists, at a minimum[^comdef], of:
 - [[Commoners]], a group of people.
   - Interacting optionally in the [[Agora Platform]] as described above.
 - [[Common goods]], a group of resources.
-  - In
+  - Described in this section.
 
 
 [^comdef]: https://logicmag.io/commons/singular-plural/
