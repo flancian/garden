@@ -161,6 +161,17 @@ A [[siphon]] can be seen as a bridge across which [[flow]] can take place after 
 
 - #pull [[elinor ostrom]] [[free, fair and alive]]
 
+A [[commons]] consists, at a minimum[^comdef], of:
+
+- [[Commoning]], an activity.
+  - Exercised in an [[Agora]] via [[Agora Protocol]] as described above.
+- [[Commoners]], a group of people.
+  - Interacting optionally in the [[Agora Platform]] as described above.
+- [[Common goods]], a group of resources.
+  - In
+
+
+[^comdef]: https://logicmag.io/commons/singular-plural/
 
 ## Intents
 
