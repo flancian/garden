@@ -100,11 +100,10 @@ It builds on top of the open web, wiki culture and the social movements enabled 
 - #pull [[tim berners lee]] [[solid]] 
 - #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
 
-It is also a project with a pragmatic bent directed towards world improvement and the planning and peaceful enactment of global reform and revolution.
+It is also a project with a pragmatic bent directed towards world improvement and the planning and peaceful enactment of global reform.
 
 - #pull [[social media]]
 - #pull [[effective altruism]] 
-- #pull [[murray bookchin]]
 
 ## Praxis
 
@@ -431,7 +430,9 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 
 # References
 
+- [[meta]] TODO: move these to IPA :)
 - #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
+- #pull [[murray bookchin]] [[revolution in the 21st century]]
 
 # Thanks
 
