@@ -147,6 +147,13 @@ An Agora tries to be a [[repository]] of [[patterns]] in the tradition of [[Chri
 The Agora network is built on a federated protocol the aim of reducing friction to cross-tool cooperation and maximizing the constructiveness of forks. 
 
 Take the case in which two groups might temporarily diverge in their views to want to run separate Agoras. Ideally their instances should be able to continue to cooperate on problems and solutions for which there is enough values/ideological alignment. Persistent best effort cooperation as a default contract also maximizes the chance of re-convergence leading to a merge.
+
+## Bridges
+TODO: Define bridges here.
+
+## Siphons
+A [[siphon]] can be seen as a bridge across which [[flow]] can take place after some initial [[effort]], with cost-benefit ideally following a Pareto-like distribution.
+
 ## Intents
 
 These are sample intents of the [[author]]. They can be optionally endorsed by arbitrary users of an Agora.
