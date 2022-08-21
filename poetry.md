@@ -1,5 +1,6 @@
 - a [[project]].
   - [[python]] [[dependency management]] [[environment management]]
+  - `poetry add` is like pip3 install in the virtualenv followed by pip3 freeze, etc.
 
 To get started (this comes from the [[agora server]] README):
 
