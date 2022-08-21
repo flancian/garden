@@ -451,5 +451,5 @@ To you, reader: for reading.
 
 Some parting words: 
 
-If you don't like this [[Agora]], that's perfectly alright -- please consider improving it! Your Agora is our Agora.
+If you don't like this [[Agora]], that's perfectly alright -- please consider improving it!
 
