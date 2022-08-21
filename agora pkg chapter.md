@@ -65,8 +65,13 @@ The Agora can be defined in a nutshell as a subset of the [[internet]][^web] use
 
 [^web]: or [[web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
 
-The Agora is inspired by the pioneering work of Elinor Ostrom and others in the study of well functioning [[commons]].
+# Principles
 
+This section details goals and values as they relate to the definition of an Agora on a high level.
+
+The Agora as a project is positioned at the intersection of [[commoning]] and [[patterning]].
+
+- The Agora is inspired by the pioneering work of Elinor Ostrom and others in the study of well functioning [[commons]].
 - #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
 
 It is also clearly inspired by the work of pioneers of [[tools for thinking]] and the [[web]].
@@ -86,9 +91,7 @@ It is also a project with a pragmatic bent directed towards world improvement an
 - #pull [[effective altruism]] 
 - #pull [[murray bookchin]]
 
-# Principles
 
-This section details goals and values as they relate to the definition of an Agora on a high level.
 
 ## Praxis
 
