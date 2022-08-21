@@ -22,6 +22,13 @@
       - In the subnode below, sourced from the [[stoa]], you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
     - #push [[agora]]
       - (If you don't like this [[Agora]], that's fine -- consider improving it!)
+    - [[todo]]
+      - add [[bridges]]
+      - add [[siphons]]
+      - add [[opt in]] policy
+      - add [[user data ownership]] model (repo per user to bootstrap)
+      - document [[endpoints]] in [[Technical specifications]]
+      - document social -> agora and agora -> social flows
         
 # Introduction
 
