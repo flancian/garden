@@ -365,6 +365,9 @@ Here we cover some details of the provided free and open source reference Agora 
   - [[agora server]] provides a UI supporting querying and composition and [[json]], [[rss]], [[rdf]] endpoints.
     
 ### Data ownership model
+
+The [[Agora platform]] is based on a trivially distributed model: by default users are entities that inform an Agora of repositories they want to contribute to the [[commons]].
+
 - Users can contribute [[repositories]] to an Agora.
   - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
   - [[git]] repositories are the default data source, with other repository providers ([[http]], [[ipfs]], [[drive]], [[dropbox]]) to follow.
