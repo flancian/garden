@@ -193,11 +193,20 @@ Intents in [[Agora protocol]] can be interspersed in long form writing, in which
 
 [[Tree structures]] with [[wikilinks]] are assumed by an Agora to carry [[Agora protocol]] by default, and may be elided or hidden when performing human-readable format conversions through [[Agora sync]].
 
+# Experiments
+
+## Go links
+
+## Pull
+
+## Push
+
+## Node Club
+
+## Educational technology
+
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
-
-- #push [[community]]
-  - #pull [[node club]] [[edtech]] [[mycorrhiza]] [[interwiki]] [[fedwiki]]
 
 ## Building meaning together through federation and [[Agora RFCs]]
 
