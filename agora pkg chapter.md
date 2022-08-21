@@ -91,8 +91,6 @@ It is also a project with a pragmatic bent directed towards world improvement an
 - #pull [[effective altruism]] 
 - #pull [[murray bookchin]]
 
-
-
 ## Praxis
 
 The Agora is a platform for shared [[praxis]] based on a set of public [[intents]], which include declarations of [[goals]] and [[values]].
@@ -389,6 +387,20 @@ The [[Agora platform]], although strictly rooted in [[web 1]] principles in its 
 [^solid]: https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)
 
 ### Endpoints
+
+This section triers to summarize the endpoints that [[Agora server]] provides and plans to provide.
+
+Agoras can define mappings from these to URL schemes generalizing to isomorphic REST-like APIs using `agora.yaml`[^yaml].
+
+[^yaml]: or TOML?
+- GET /@<user>
+- GET /node/<node> -> entity resolution
+- GET /nodes -> lists
+- GET /feed/node
+- GET /feed/journals
+- GET /feed/@userjournals
+-
+- go / one per action
 
 # Thanks
 
