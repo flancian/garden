@@ -77,7 +77,7 @@ This project is of very large scope and might make use of non standard terminolo
 - [[Garden]]: a repository of resources maintained by a user over time. (Optionally entity mapped) information contributed by a user diachronically.
 - [[Feed]]: a sequence of points in time with pointers to objects. Interesting resources as positioned in a [[timeline]]. A core [[Web]] technology that an Agora can both consume and provide.
 - [[Stoa]]: a repository of resources maintained by a group over time.
-- [[Bridge]]: a device connecting contexts, applying to both nodes and repositories.
+- [[Bridge]]: a device or process connecting contexts, applying to both nodes and repositories.
 - [[Siphon]]: a bridge which exploits a gradient.
 
 # Principles
