@@ -77,6 +77,7 @@ This project is of very large scope and might make use of non standard terminolo
 - [[Feed]]: a sequence of points in time with pointers to objects. Interesting resources as positioned in a [[timeline]]. A core [[web]] technology that an Agora consumes and provides.
 - [[Garden]]: a repository of resources maintained by a user over time. (Optionally entity mapped) information contributed by a user diachronically.
 - [[Stoa]]: a repository of resources maintained by a group over time.
+- [[Bridge]]: a device connecting contexts, applying to both nodes and repositories.
 
 # Principles
 
