@@ -1,0 +1,1 @@
+- #pull I like to think 20% of our [[tweets]] and [[toots]] are [[bangers]] in the [[multiverse]].
