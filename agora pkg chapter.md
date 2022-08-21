@@ -5,7 +5,7 @@
   - This chapter is about the [[Agora]] in general, and about [[an agora]] in particular, and what we could do with them together.
   - Working title: "The Agora is a Distributed Knowledge Graph and Protocol".
   - Working title (2): "The Agora is a Protocol, a Platform and a Commons".
-  - Subtitle: Experiments with a [[distributed knowledge graph]].
+    - Subtitle: Experiments with a [[Distributed Knowledge Graph]].
   - Original title (for the abstract): "The Agora is a Social Knowledge Graph".
   - Expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
   - #push [[deadlines]]
@@ -20,8 +20,8 @@
       - #pull [[effective altruism]] [[peter singer]]
     - #push [[revolution]]
       - #pull [[free software]] [[federation]] [[adversarial interoperability]] [[murray bookchin]]
-    - In this subnode you will find the actual **chapter text**, including the introduction, which should be 5k-10k words once ready to be delivered on [[2022-09-01]].
-      - In the subnode below, sourced from the [[stoa]], you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
+  - In this subnode (meaning this text file) you will find the actual **chapter text**, including the introduction, which should be 5k-10k words once ready to be delivered on [[2022-09-01]].
+    - In the subnode below (meaning another text file, sourced from the [[Stoa]]), you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the Agora is about, or should be.
     - #push [[agora]]
       - (If you don't like this [[Agora]], that's fine -- consider improving it!)
     - [[todo]] (see also in line below marked TODO)
