@@ -196,18 +196,17 @@ Intents in [[Agora protocol]] can be interspersed in long form writing, in which
 
 ## Go links
 
-Go links provide an interest base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]].
+Go links provide an interest base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]]. Put simply, [[go links]] are named social bookmarks -- strings of text (usually slugged, but not necessarily) associated with URLs by users in a community of practice.
 
 [^exploiting]: TODO: there's probably a better term for this in [[Free, Fair and Alive]].
 
-[[Go links]] are a [[cognitive tool]] which was developed in [[Silicon Valley]] corporations and has the potential to spread to the internet. As [[cognitive artifacts]] they have a meaningful [[complementary]] component, which makes them interesting as a case study regardless of primary utility of application.
+[[Go links]] are a [[cognitive tool]] which was developed in [[Silicon Valley]] corporations and has the potential to spread and provide utility at internet scale. As [[cognitive artifacts]] they have a meaningful [[complementary]] component, which makes them interesting as a case study of [[Agora RFCs]] regardless of primary utility of application.
 
 The primary utility, though, is high. In a [[go links]] rich environment, users can depend on other users to have defined [[canonical links]] for named [[entities]]; that is, collections of specially relevant resources to the terms at hand, as shared in a [[commons]]. 
 
-Put simply, [[go links]] are named social bookmarks -- strings of text (usually slugged, but not necessarily) associated with URLs by users in a community.
-
 - Go links provide an [[individual]] function. 
   - They allow the user to associate a (usually short) string with a resource of interest, and then recall it from any computing with network access with a short deterministic flow.
+  - At companies supporting [[go links]], typing go/<link> in the browser address bar is usually sufficient to be redirected seamlessly to the target resource.
 - Go links provide a [[social]] function at no additional cost.
   - The trivial extension case for them is social bookmarking; even with invidivuals (not groups) claiming go link space recall of links spreads through a community of practice.
   - Sharing documents becomes simpler by definition in a community of practice that is go links aware. Instead of locating a resource and invoking a sharing flow to share, users are able to say to each other 'go thisdoc' (meaning either go/thisdoc or go/this-doc by convention), effectively transferring a URL in spoken word very efficiently, depending only on a previously understood mechanism to resolve such links (at a well known point, ideally a [[schelling point]]). 
