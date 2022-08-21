@@ -207,10 +207,9 @@ Put simply, [[go links]] are named social bookmarks -- strings of text (usually 
 - Go links provide an [[individual]] function. 
   - They allow the user to associate a (usually short) string with a resource of interest, and then recall it from any computing with network access with a short deterministic flow.
 - Go links provide a [[social]] function at no additional cost.
+  - The trivial extension case for them is social bookmarking; recall of links spreads through a community of practice.
   - Sharing documents becomes simpler by definition in a community of practice that is go links aware. Instead of locating a resource and invoking a sharing flow to share, users are able to say to each other 'go thisdoc' (meaning either go/thisdoc or go/this-doc by convention), effectively transferring a URL in spoken word very efficiently, depending only on a previously understood mechanism to resolve such links (at a well known point, ideally a [[schelling point]]). 
-  - The trivial extension case for them is social bookmarking.
 
-An example would suffice. You could reme
 
 ## Pull
 
