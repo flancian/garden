@@ -75,7 +75,7 @@ This project is of very large scope and might make use of non standard terminolo
 - [[Subnode]]: a resource contributed by a user which the Agora will provision when queried for a variety of [[Node]] contexts. A node is a collection of subnodes.
 - [[Link]]: an annotated edge in the knowledge graph. Maps to an [[entity]] description encoded in [[wikilinks]] or #hashtags.
 - [[Feed]]: a sequence of points in time plus pointers to objects. Potentially interesting resources as positioned in a [[timeline]].
-- [[Garden]]: standing for a repository of useful state, (optionally entity mapped) information maintained by a user over time.
+- [[Garden]]: a repository of resources maintained by a user over time. (Optionally entity mapped) information contributed by a user diachronically.
 
 # Principles
 
