@@ -1,7 +1,5 @@
-# tree structure
-
 - #push [[agora trees]]
-  - #pull [[tree like structure]]
+  - #pull [[tree like structure]] [[outline]] [[outliner mode]]
     - https://twitter.com/flancian/status/1375493771786326016
     - [[pull]] [[tree-notation]]
     - [[pull]] [[wittgenstein-protocol]]
