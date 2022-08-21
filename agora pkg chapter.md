@@ -79,6 +79,7 @@ This project is of very large scope and might make use of non standard terminolo
 - [[Stoa]]: a repository of resources maintained by a group over time.
 - [[Bridge]]: a device or process connecting contexts, applying to both nodes and repositories.
 - [[Siphon]]: a bridge which exploits a gradient.
+- [[Commons]]: as per [[Elinor Ostrom]].
 
 # Principles
 
