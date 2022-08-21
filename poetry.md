@@ -1,2 +1,2 @@
-- a [[package]].
-  - [[python]].
+- a [[project]].
+  - [[python]] [[dependency management]] [[environment management]]
