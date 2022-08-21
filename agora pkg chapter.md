@@ -31,6 +31,8 @@
         - including /feed/
       - document social -> agora and agora -> social flows
       - add more on [[pattern repository]] aspect
+      - describe [[pull]], [[push]], [[go]] in RFC section?
+      - importing single resources like docs?
         
 # Introduction
 
