@@ -410,11 +410,12 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 [^yaml]: or TOML?
 
 #### Entity resolution
-- GET /@<user> -> provides details about a user and the [[subnodes]] in their repositories.
-- GET /users -> lists users
+- GET /<context> -> by default the same as /node/<context>, might be overridden with a more particularly useful context
 - GET /node/<node> -> entity resolution, node can be percent-encoded
 - GET /nodes -> lists known entities in canonical form
-- GET /<context> -> by default the same as /node/<context>, might be overridden with a more particularly useful context
+- GET /@<user> -> provides details about a user and the [[subnodes]] in their repositories.
+- GET /users -> lists users
+- GET /search?q=<query> -> redirects to /node/<node>?q=<query> with node being inferred after quoting/unquoting, full fidelity interface
 
 #### Feeds
 - GET /feed/@<user>
