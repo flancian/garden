@@ -159,6 +159,9 @@ A [[siphon]] can be seen as a bridge across which [[flow]] can take place after 
 
 ## Agora Commons
 
+- #pull [[elinor ostrom]] [[free, fair and alive]]
+
+
 ## Intents
 
 The author proposes we use an Agora to define and extend Agora Protocol as a project in the [[commons]]. 
