@@ -63,7 +63,7 @@ We will then cover experiments and potential applications in the [[academic]], [
 
 The Agora can be defined in a nutshell as a subset of the [[internet]][^web] used consciously towards a particular purpose. As mentioned previously, it can also be seen as both a platform and a protocol for provisioning and maintaining a [[knowledge commons]]. Because of both this wide definition and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
 
-[^web]: or [[web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
+[^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
 
 ## Terminology
 
@@ -75,10 +75,10 @@ This project is of very large scope and might make use of non standard terminolo
 - [[Subnode]]: a resource contributed by a user which the Agora will provision when queried for a variety of [[Node]] contexts. A node is a collection of subnodes.
 - [[Link]]: an annotated edge in the knowledge graph. A relationship or connection between concepts or contexts, optionally annotated. Technically you can think of it as tuple of nodes linking to each other, or more generally a set or sequence of nodes related to each other via a composite relationship (e.g. a link with annotations). The later results in a [[hypergraph]] which is what an Agora generally implements. 
 - [[Garden]]: a repository of resources maintained by a user over time. (Optionally entity mapped) information contributed by a user diachronically.
-- [[Feed]]: a sequence of points in time with pointers to objects. Interesting resources as positioned in a [[timeline]]. A core [[web]] technology that an Agora can both consume and provide.
+- [[Feed]]: a sequence of points in time with pointers to objects. Interesting resources as positioned in a [[timeline]]. A core [[Web]] technology that an Agora can both consume and provide.
 - [[Stoa]]: a repository of resources maintained by a group over time.
 - [[Bridge]]: a device connecting contexts, applying to both nodes and repositories.
-- [[Siphon]]: a bridge which exploits a [[Pareto]] like gradient.
+- [[Siphon]]: a bridge which exploits a gradient.
 
 # Principles
 
@@ -89,7 +89,7 @@ The Agora as a project is positioned at the intersection of [[commoning]] and [[
 - The Agora is inspired by the pioneering work of Elinor Ostrom and others in the study of well functioning [[commons]].
 - #pull [[elinor ostrom]] [[commons]] [[knowledge commons]] 
 
-It is also clearly inspired by the work of pioneers of [[tools for thinking]] and the [[web]].
+It is also clearly inspired by the work of pioneers of [[tools for thinking]] and the [[Web]].
 
 - #pull [[vannevar bush]] [[memex]] 
 - #pull [[douglas engelbart]]
