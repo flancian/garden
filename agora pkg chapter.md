@@ -216,7 +216,9 @@ Intents in [[Agora protocol]] can be interspersed in long form writing, in which
 
 They are meant to be cheap to write, and conducive to running experiments. RFCs are specified by nodes declaring themselves to contain an Agora RFC; a number might be provided by an Agora, but at present time there is no mechanism for allocating numbers except claiming one by pushing an RFC to it in the Agora of Flancia (or any other trusted root). Conflict resolution is done by the community of the Agora.
 
-## Go links
+Agora RFCs might span in length from a multfully specified IETF-like technical paper for a major internet protocol to a tweet describing a social custom.
+
+## [[Go links]]
 
 Go links provide an interest base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]]. Put simply, [[go links]] are named social bookmarks -- strings of text (usually slugged, but not necessarily) associated with URLs by users in a community of practice.
 
@@ -233,11 +235,9 @@ The primary utility, though, is high. In a [[go links]] rich environment, users 
   - The trivial extension case for them is social bookmarking; even with invidivuals (not groups) claiming go link space recall of links spreads through a community of practice.
   - Sharing documents becomes simpler by definition in a community of practice that is go links aware. Instead of locating a resource and invoking a sharing flow to share, users are able to say to each other 'go thisdoc' (meaning either go/thisdoc or go/this-doc by convention), effectively transferring a URL in spoken word very efficiently, depending only on a previously understood mechanism to resolve such links (at a well known point, ideally a [[schelling point]]). 
 
-## Pull
+## [[Pull]]
 
-## Push
-
-## Node Club
+## [[Push]]
 
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
