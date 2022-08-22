@@ -441,7 +441,7 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
   - [[notes on the synthesis of form]] 
   - [[a pattern language]]
 
-# Thanks
+# Thanks and farewell
 
 The author would like to thank [[Flancia Collective]], the [[Agora community]], and the [[Fellowship of the Link]]: for your inspiration, interest, guidance.
 
