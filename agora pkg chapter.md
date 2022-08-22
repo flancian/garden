@@ -230,7 +230,13 @@ The sections below should clarify this.
 
 ## [[Go links]]
 
-#go is an [[Agora Action]] that designates URLs as canonical or highly ranked for nodes in which the action appears.
+#go is an [[Agora Action]] that designates URLs as canonical or highly ranked references for nodes in which the action appears.
+
+Go links provide an interesting base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]]. Put simply, [[go links]] are named social bookmarks -- strings of text (usually slugged, but not necessarily) associated with URLs by users in a community of practice.
+
+[^exploiting]: TODO: there's probably a better term for this in [[Free, Fair and Alive]].
+
+[[Go links]] are a [[cognitive tool]] which was developed in [[Silicon Valley]] corporations and has the potential to spread and provide utility at internet scale. As [[cognitive artifacts]] they have a meaningful [[complementary]] component, which makes them interesting as a case study of [[Agora RFCs]] regardless of primary utility of application.
 
 As an [[Agora action]], the contract provided by Go links is as such:
 
@@ -238,12 +244,6 @@ As an [[Agora action]], the contract provided by Go links is as such:
 - An example:
   - #go https://anagora.org
     - Means that the Agora nodes which the document I'm writing this on will be served at will, by default, provide a redirect to https://anagora.org when queried for go links.
-
-Go links provide an interesting base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]]. Put simply, [[go links]] are named social bookmarks -- strings of text (usually slugged, but not necessarily) associated with URLs by users in a community of practice.
-
-[^exploiting]: TODO: there's probably a better term for this in [[Free, Fair and Alive]].
-
-[[Go links]] are a [[cognitive tool]] which was developed in [[Silicon Valley]] corporations and has the potential to spread and provide utility at internet scale. As [[cognitive artifacts]] they have a meaningful [[complementary]] component, which makes them interesting as a case study of [[Agora RFCs]] regardless of primary utility of application.
     
 The primary utility of Go Links, regardless of implementation details, is high. In a [[go links]] rich environment, users can depend on other users to have defined [[canonical links]] for named [[entities]]; that is, collections of specially relevant resources to the terms at hand, as shared in a [[commons]]. 
 
