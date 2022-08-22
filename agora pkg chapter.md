@@ -210,7 +210,11 @@ Intents in [[Agora protocol]] can be interspersed in long form writing, in which
 
 [[Tree structures]] with [[wikilinks]] are assumed by an Agora to carry [[Agora protocol]] by default, and may be elided or hidden when performing human-readable format conversions through [[Agora sync]].
 
-# Experiments
+# Agora RFCs
+
+[[Agora RFCs]] are the standard way to suggest extensions and modifications to [[Agora Protocol]].
+
+They are meant to be cheap to write, and conducive to running experiments. RFCs are specified by nodes declaring themselves to contain an Agora RFC; a number might be provided by an Agora, but at present time there is no mechanism for allocating numbers except claiming one by pushing an RFC to it in the Agora of Flancia.
 
 ## Go links
 
