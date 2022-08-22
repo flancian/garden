@@ -221,7 +221,7 @@ They are meant to be cheap to write, and conducive to running experiments. RFCs 
 Agora RFCs might be of varying length and detail, spanning in length from that of common IETF RFC to a tweet or toot describing a social custom to be considered by the community. RFCs which are judged promising by a community will generate and can be expounded about at greater length by the interested community and potentially worked upon in a [[Stoa]].
 
 ## [[Agora Actions]]
-An Agora action is, in general, a hint left by a user of [[Agora Protocol]] for the Agora. The purpose of the hint (its nature) is defined by the action; by default, though, Agora actions ainterpreted as [[intents]].
+An Agora action is, in general, a hint left by a user of [[Agora Protocol]] for the Agora. The purpose of the hint (its nature) is defined by the action; by default, though, Agora actions can be seen as lightweight contracts between an Agora and its authors. Invocations of an action can be seen as [[intents]].
 
 The sections below exemplify this.
 
