@@ -221,23 +221,26 @@ They are meant to be cheap to write, and conducive to running experiments. RFCs 
 Agora RFCs might be of varying length and detail, spanning in length from that of common IETF RFC to a tweet or toot describing a social custom to be considered by the community. RFCs which are judged promising by a community will generate and can be expounded about at greater length by the interested community and potentially worked upon in a [[Stoa]].
 
 ## [[Agora Actions]]
-An Agora action is, in general, a hint left by a user of [[Agora Protocol]] for the Agora. The purpose of the hint (its nature) is defined by the action; by default, though, Agora actions can be seen as lightweight contracts between an Agora and its authors. Invocations of an action can be seen as [[intents]].
 
-The sections below exemplify this.
+An Agora action is a hint left in some medium by a user of [[Agora Protocol]] for the Agora. The purpose of the hint (its nature) is defined by the action; in general, though, Agora actions can be seen as lightweight contracts between an Agora and its authors. Invocations of an action are interpreted as [[intents]].
+
+The sections below should clarify this.
 
 ## [[Go links]]
 
 Go links provide an interest base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]]. Put simply, [[go links]] are named social bookmarks -- strings of text (usually slugged, but not necessarily) associated with URLs by users in a community of practice.
-
-As an [[Agora action]], the contract provided by Go links is as such:
-
-- When you tag a URL with #go or [[go]] by placing said links previous to it in your writing, an Agora will interpret this as an intent to create a Go Link and provision and provide one for you on querying.
 
 [^exploiting]: TODO: there's probably a better term for this in [[Free, Fair and Alive]].
 
 [[Go links]] are a [[cognitive tool]] which was developed in [[Silicon Valley]] corporations and has the potential to spread and provide utility at internet scale. As [[cognitive artifacts]] they have a meaningful [[complementary]] component, which makes them interesting as a case study of [[Agora RFCs]] regardless of primary utility of application.
 
 The primary utility, though, is high. In a [[go links]] rich environment, users can depend on other users to have defined [[canonical links]] for named [[entities]]; that is, collections of specially relevant resources to the terms at hand, as shared in a [[commons]]. 
+
+As an [[Agora action]], the contract provided by Go links is as such:
+
+- When you tag a URL with #go or [[go]] by placing said links previous to it in your writing, an Agora will interpret this as an intent to create a Go Link and provision and provide one for you on querying.
+
+
 
 - Go links provide an [[individual]] function. 
   - They allow the user to associate a (usually short) string with a resource of interest, and then recall it from any computing with network access with a short deterministic flow.
