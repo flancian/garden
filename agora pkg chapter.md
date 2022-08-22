@@ -299,7 +299,7 @@ A [[knowledge]] commons may be conducive to tackling the issue of regulating mar
 
 # Technical specifications
 
-## Agora Protocol demo
+## Agora Protocol example
 
 The blocks that follow, and others in the current text in the same [[console typeface]], are a self-documenting demonstration of text based [[Agora Protocol]].
 
