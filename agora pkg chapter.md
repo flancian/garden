@@ -214,11 +214,11 @@ Intents in [[Agora protocol]] can be interspersed in long form writing, in which
 
 [[Agora RFCs]] are the standard way to suggest extensions and modifications to [[Agora Protocol]].
 
-They are meant to be cheap to write, and conducive to running experiments. RFCs are specified by nodes declaring themselves to contain an Agora RFC; a number might be provided by an Agora, but at present time there is no mechanism for allocating numbers except claiming one by pushing an RFC to it in the Agora of Flancia (or any other trusted root). Conflict resolution is done by the community of the Agora. To put it shortly, an Agora is its own [[numbers Czar]][^czar].
+They are meant to be cheap to write, and conducive to running experiments. RFCs are specified by nodes declaring themselves to contain an Agora RFC; a number might be provided by an Agora, but at present time there is no mechanism for allocating numbers except claiming one by pushing an RFC to it in the Agora of Flancia (or any other trusted root). Conflict resolution is done by the community of the Agora. To put it bluntly, an Agora is its own [[numbers Czar]][^czar].
 
 [^czar]: https://www.rfc-editor.org/rfc/rfc8700.html#name-the-rfc-management-and-edit
 
-Agora RFCs might be of varying length and detail, spanning from that of an IETF technical paper for a major internet protocol to a tweet describing a social custom.
+Agora RFCs might be of varying length and detail, spanning in length from that of common IETF RFC to a tweet or toot describing a social custom to be considered by the community. RFCs which are judged promising by a community will generate and can be expounded about at greater length by the interested community and potentially worked upon in a [[Stoa]].
 
 ## [[Go links]]
 
