@@ -256,9 +256,13 @@ The primary utility of Go Links, regardless of implementation details, is high. 
 
 ## [[Pull]]
 
-#pull is an Agora Action.
+#pull is an Agora Action. Its effect is Agora dependent but is, in essence, a form of [[transclusion]]: Pull will result in a remote mental context being embedded in the current one.
+
+#pull takes a [[node]] or a URL. Nodes might be embedded by an Agora using special in-Agora provisions. URLs might be embedded in web browsers according to X-Frame policies.
 
 ## [[Push]]
+
+#push 
 
 ## [[Stoa]]
 A resource can be declared a [[Stoa]] by tagging it as such. This marks it as a resource meant for [[cooperation]] or [[commoning]].
