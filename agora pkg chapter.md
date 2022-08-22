@@ -228,6 +228,8 @@ The sections below should clarify this.
 
 ## [[Go links]]
 
+#go is an [[Agora Action]] that 
+
 Go links provide an interest base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]]. Put simply, [[go links]] are named social bookmarks -- strings of text (usually slugged, but not necessarily) associated with URLs by users in a community of practice.
 
 [^exploiting]: TODO: there's probably a better term for this in [[Free, Fair and Alive]].
@@ -249,7 +251,6 @@ The primary utility of Go Links, regardless of implementation details, is high. 
 - Go links provide a [[social]] function at low or no additional cost.
   - The trivial extension case for them is social bookmarking; even with invidivuals (not groups) claiming go link space recall of links spreads through a community of practice.
   - Sharing documents becomes simpler by definition in a community of practice that is go links aware. Instead of locating a resource and invoking a sharing flow to share, users are able to say to each other 'go thisdoc' (meaning either go/thisdoc or go/this-doc by convention), effectively transferring a URL in spoken word very efficiently, depending only on a previously understood mechanism to resolve such links (at a well known point, ideally a [[schelling point]]). 
-
 
 ## [[Pull]]
 
