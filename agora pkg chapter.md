@@ -220,9 +220,18 @@ They are meant to be cheap to write, and conducive to running experiments. RFCs 
 
 Agora RFCs might be of varying length and detail, spanning in length from that of common IETF RFC to a tweet or toot describing a social custom to be considered by the community. RFCs which are judged promising by a community will generate and can be expounded about at greater length by the interested community and potentially worked upon in a [[Stoa]].
 
+## [[Agora Actions]]
+An Agora action is, in general, a hint left by a user of [[Agora Protocol]] for the Agora. The purpose of the hint (its nature) is defined by the action; by default, though, Agora actions ainterpreted as [[intents]].
+
+The sections below exemplify this.
+
 ## [[Go links]]
 
 Go links provide an interest base case to study in the field of provisioning and (pro socially) exploiting[^exploiting] a [[knowledge commons]]. Put simply, [[go links]] are named social bookmarks -- strings of text (usually slugged, but not necessarily) associated with URLs by users in a community of practice.
+
+As an [[Agora action]], the contract provided by Go links is as such:
+
+- When you tag a URL with #go or [[go]] by placing said links previous to it in your writing, an Agora will interpret this as an intent to create a Go Link and provision and provide one for you on querying.
 
 [^exploiting]: TODO: there's probably a better term for this in [[Free, Fair and Alive]].
 
@@ -237,9 +246,16 @@ The primary utility, though, is high. In a [[go links]] rich environment, users 
   - The trivial extension case for them is social bookmarking; even with invidivuals (not groups) claiming go link space recall of links spreads through a community of practice.
   - Sharing documents becomes simpler by definition in a community of practice that is go links aware. Instead of locating a resource and invoking a sharing flow to share, users are able to say to each other 'go thisdoc' (meaning either go/thisdoc or go/this-doc by convention), effectively transferring a URL in spoken word very efficiently, depending only on a previously understood mechanism to resolve such links (at a well known point, ideally a [[schelling point]]). 
 
+
+
 ## [[Pull]]
 
+Pull is an Agora Action.
+
 ## [[Push]]
+
+## [[Stoa]]
+A resource can be declared a [[Stoa]] by tagging it as such. This marks it as a resource meant for [[cooperation]] or [[commoning]].
 
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
