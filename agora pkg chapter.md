@@ -190,10 +190,11 @@ A [[commons]] consists, at a minimum[^comdef], of:
 An [[Agora]]'s [[root repository]] is a [[seed]] for an Agora. In the provided reference Agora platform, the root is a [[git]] repository[^root] which contains:
 
 - A `sources.yaml` file containing a list of all repositories to be integrated into an Agora plus useful metadata.
-- A `CONTRACT.md` file containing a list 
+- A `CONTRACT.md` file containing a list of assertions declaring high level goals and values for the Agora. 
+- A `README.md` file containing instructions on how to provision an Agora using the above and free software.
 
-[^comdef]: https://anagora.org/go/singular+plural -> https://logicmag.io/commons/singular-plural/
-[^root]: https://anagora.org/go/agora -> https://github.com/flancian/agora
+[^comdef]: https://logicmag.io/commons/singular-plural/ (or https://anagora.org/go/singular+plural as of the time of writing.)
+[^root]: https://github.com/flancian/agora (or https://anagora.org/go/agora as of the time of writing.)
 
 ## Intents
 
