@@ -171,6 +171,11 @@ The Agora network is built on a federated protocol the aim of reducing friction 
 Take the case in which two groups might temporarily diverge in their views to want to run separate Agoras. Ideally their instances should be able to continue to cooperate on problems and solutions for which there is enough values/ideological alignment. Persistent best effort cooperation as a default contract also maximizes the chance of re-convergence leading to a merge.
 
 ## Bridges
+A [[bridge]] is a process or device that can be set up to transfer resources across (previously isolated) networks, either one-time or recurringly.
+
+Bridges are useful in that they lower friction for users to move across tools and platforms in an ecosystem, and to keep control of their data (as a bridge can be made to cross post data to a repository under the user's control, or compatible with the user's data sovereignty).
+
+A two-way bridge can allow sync 
 TODO: Define bridges here.
 
 ## Siphons
