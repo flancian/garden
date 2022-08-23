@@ -107,6 +107,8 @@ Finally, an Agora is a project with a pragmatic bent directed towards world impr
 - #pull [[effective altruism]] 
 - #pull [[revolution]]
 
+TODO: focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the Triad of Commoning, etc.
+
 ## Praxis
 
 The Agora is a platform for shared [[praxis]] based on a set of public [[intents]], which include declarations of [[goals]] and [[values]].
