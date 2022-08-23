@@ -121,7 +121,21 @@ With this tool the Agora community can embark on shared projects. The author, as
 
 Let us use Agora Protocol if you may.
 
-## [[Agora Protocol]]
+## Values
+
+- Data Sovereignty.
+- Sustainability.
+- Diversity.
+- Freedom.
+- Compassion.
+
+## Goals
+
+- A free, distributed internet.
+- Freedom of information.
+- A world without poverty.
+
+# [[Agora Protocol]]
 
 This section describes a [[protocol]] for publicly defining sets of [[conventions]] and [[intents]] that can be said to define an Agora. An Agora is a public space that defines itself as such and follows an explicit variation of the Agora Protocol.
 
@@ -154,7 +168,9 @@ Next we describe how [[Agora Protocol]] can help provision an [[Agora Platform]]
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
 [^complexity]: indentation is sufficient
 
-## Agora Platform
+# Agora Platform
+
+This facet of the Agora is that which is closest to the realm of software. See [[Reference Agora]] and [[Technical Specifications]] below for more details.
 
 ## Federation
 
@@ -181,7 +197,7 @@ TODO: Define bridges here.
 ## Siphons
 A [[siphon]] can be seen as a bridge across which [[flow]] can take place after some initial [[effort]], with cost-benefit ideally following a Pareto-like distribution.
 
-## Agora Commons
+# Agora Commons
 
 - #pull [[elinor ostrom]] [[free, fair and alive]]
 
@@ -278,7 +294,7 @@ The primary utility of Go Links, regardless of implementation details, is high. 
 
 #push takes a [[node]], a [[node/heterarchy]] or a URL. The meaning of pushing to a node is to publish the blocks or context in the destination node; the reference Agora publishes them in a similar format to local resources, either preceding them or after them depending on configuration. The meaning of pushing to a heterarchy (or "path") is to request attaching the resource or context at a point of insertion identified by the heterarchy as an anchor, if one is found (essentially allowing to fine tune placement).
 
-## [[Stoa]]
+## [[Stoas]]
 A resource can be declared a [[Stoa]] by tagging it as such. This marks it as a resource meant for [[cooperation]] or [[commoning]].
 
 # Applications
