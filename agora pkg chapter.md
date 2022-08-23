@@ -317,10 +317,9 @@ An Agora tries to solve all of these based on social signals contributed to the 
 - [[equivalence classes]] 
   - If [[x]] pulls [[y]] and [[y]] pulls [[x]], then [[x]] ~ [[y]], meaning [[x]] and [[y]] converge in some useful context. This is true in particular if more than one user has contributed these signals.
 - [[ranking]] 
-  - It is well known[^pagerank] that links provide a strong signal for relevant and notability in graph like systems. 
+  - It is well known[^pagerank] that links provide a strong signal for relevant and notability in graph like systems.
   - #uprank is an explicit Agora Protocol action that takes a subnode or user and hints at an intent to rank them more highly than the current resource.
-  - #pull can be used 
-- [[filtering]]
+  - #pull can be used as a ranking hint as well: if [[x]] pulls [[y]], [[y]] is more likely to be roughly as relevant as [[x]] in any contexts in which [[x]] is relevant.
 
 [^pagerank]: TODO: find paper or good up to date reference.
 
