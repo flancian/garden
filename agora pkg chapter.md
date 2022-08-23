@@ -300,7 +300,7 @@ A resource can be declared a [[Stoa]] by tagging it as such. This marks it as a 
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
 
-## Building meaning together through federation and [[Agora RFCs]]
+## Provisionijg meaning together through federation and [[Agora RFCs]]
 
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes based on federated [[heterarchies]].
 - [[Agora trees]], meaning by default [[outliner mode]] text with [[wikilinks]], hint at sections containing [[Agora Protocol]].
