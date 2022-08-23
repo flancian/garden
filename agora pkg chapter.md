@@ -301,13 +301,24 @@ A resource can be declared a [[Stoa]] by tagging it as such. This marks it as a 
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
 
-## Building meaning together through federation
+## Provisioning meaning together with federated heterarchies
 
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes based on federated [[heterarchies]].
 - [[Agora trees]], meaning by default [[outliner mode]] text with [[wikilinks]], hint at sections containing [[Agora Protocol]].
 - [[Agora RFCs]] allow a distributed Agora community to extend the base [[Agora Protocol]] for more efficient [[commoning]] using atomic proposals.
 - TODO: (Details on an [[open source algorithm]] for ranking and filtering based on the above go here.)
 - TODO: (Details on eventual [[convergence]] as a phenomenon to be studied.)
+
+An Agora tries to solve all of these based on social signals contributed to the commons:
+
+- [[taxonomies]]
+  - [[heterarchies]], as represented by [[agora trees]] and [[path/like/queries]], can be reinforced by the Agora as more users hint at them.
+  - Hypothesis: this can do away with the need for fixed taxonomies or category systems, and the associated upkeep cost (and potentially gatekeeping) that comes with them.
+- [[equivalence classes]] 
+- [[ranking]] 
+- [[filtering]]
+
+If users write that [[x]] pulls [[y]].
 
 ## Collaborative world building
 - We seek to provision and maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
@@ -340,7 +351,7 @@ Thank you to [[neil]] and the [[agora community]]!
 
 ## Solving coordination problems
 
-- An Agora can be seen as a would-be [[schelling point]] built around the [[principle of charity]].
+- An Agora can be seen as a would-be [[Schelling point]] built around the [[principle of charity]].
 - An Agora can be used to solve [[coordination problems]] like those we need to solve to enable users to leave walled gardens and protect the [[commons]] against [[enclosure]] by [[anti disintermediating]] parties. It can be said to be a device for enacting [[counter anti disintermediation]].
   - An Agora provides tries to provide free [[bridges]] to escape [[walled gardens]] with your friends.
   - An Agora can help people regain and maintain control of their data, including their [[social graphs]].
