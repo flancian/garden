@@ -231,7 +231,7 @@ These are sample intents of the [[author]]. They can be optionally endorsed by a
 
 - A free, distributed internet.
 - Freedom of information.
-- A world without poverty.
+- A world without poverty or violence.
 
 ## Literate programming
 
