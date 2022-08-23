@@ -336,7 +336,7 @@ An Agora tries to solve all of these based on social signals contributed to the 
   - Individual users can also declare their views on the state of the world explicitly: they define which subsets of `P`, `S` and `R` they agree with, in the sense that they believe they are feasible, true, interesting.
     - Users that agree on their defined subsets can then efficiently collaborate on solutions as they become available by pooling of resources.
 - Assuming the existence of such a graph we apply some good old recursivity and bootstrap an Agora with the problem of building itself. 
-  - That is, we are tasked with solving the problem of building a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases and irrationality, but perhaps assuming good intent).
+  - That is, we are tasked with solving the problem of building a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases and irrationality), maybe only assuming good intent.
 
 ## Node Club
 
