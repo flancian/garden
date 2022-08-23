@@ -305,7 +305,8 @@ This section explores possible further applications in the social and knowledge 
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes based on federated [[heterarchies]].
 - [[Agora trees]], meaning by default [[outliner mode]] text with [[wikilinks]], hint at sections containing [[Agora Protocol]].
 - [[Agora RFCs]] allow a distributed Agora community to extend the base [[Agora Protocol]] for more efficient [[commoning]] using atomic proposals.
-- (Details on an [[open source algorithm]] for ranking and filtering based on the above go here.)
+- TODO: (Details on an [[open source algorithm]] for ranking and filtering based on the above go here.)
+- TODO: (Details on eventual [[convergence]] as a phenomenon to be studied.)
 
 ## Collaborative world building
 - We seek to provision and maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
