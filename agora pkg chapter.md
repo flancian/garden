@@ -177,9 +177,6 @@ A [[bridge]] is a process or device that can be set up to transfer resources acr
 
 Bridges are useful in that they lower friction for users to move across tools and platforms in an ecosystem, and to keep control of their data (as a bridge can be made to cross post data to a repository under the user's control, or compatible with the user's data sovereignty).
 
-A two-way bridge can allow sync 
-TODO: Define bridges here.
-
 ## Siphons
 A [[siphon]] can be seen as a bridge across which [[flow]] can take place after some initial [[effort]], with cost-benefit ideally following a Pareto-like distribution.
 
