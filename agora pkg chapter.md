@@ -327,6 +327,8 @@ This section explores possible further applications in the social and knowledge 
 
 - #pull [[node club]]
 
+Once a week or a month (depending on the time of the year), the [[Agora community]] proposes a set of nodes to be provisioned loosely concurrently -- meaning nodes to be contributed to individually, but at roughly the same time.
+
 Thank you to [[neil]] and the [[agora community]]!
 
 ## Educational technology
