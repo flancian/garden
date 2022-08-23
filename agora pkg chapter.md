@@ -192,7 +192,7 @@ An [[Agora]]'s [[root repository]] is a [[seed]] for an Agora. In the provided r
 - A `sources.yaml` file containing a list of all repositories to be integrated into an Agora plus useful metadata.
 - A `CONTRACT.md` file containing a list 
 
-[^comdef]: https://logicmag.io/commons/singular-plural/
+[^comdef]: https://anagora.org/go/singular+plural -> https://logicmag.io/commons/singular-plural/
 [^root]: https://anagora.org/go/agora -> https://github.com/flancian/agora
 
 ## Intents
