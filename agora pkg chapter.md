@@ -300,15 +300,11 @@ A resource can be declared a [[Stoa]] by tagging it as such. This marks it as a 
 # Applications
 This section explores possible further applications in the social and knowledge spaces in the form of a series of short essays.
 
-## Provisionijg meaning together through federation and [[Agora RFCs]]
+## Building meaning together through federation
 
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes based on federated [[heterarchies]].
 - [[Agora trees]], meaning by default [[outliner mode]] text with [[wikilinks]], hint at sections containing [[Agora Protocol]].
-- [[Agora RFCs]] allow an Agora community to extend the base [[Agora Protocol]] for more efficient [[commoning]].
-    - [[pull]]
-    - [[push]]
-    - [[go]]
-    - [[do]]
+- [[Agora RFCs]] allow a distributed Agora community to extend the base [[Agora Protocol]] for more efficient [[commoning]] using atomic proposals.
 - (Details on an [[open source algorithm]] for ranking and filtering based on the above go here.)
 
 ## Collaborative world building
