@@ -356,9 +356,15 @@ Thank you to [[neil]] and the [[agora community]]!
   - The virality rule both pushes network growth and constructively exploits wealth inequality and asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
 - [[Flancia Collective]] runs experiments in this field using an [[Agora]].
 
-## Market regulation
+## Market composition and regulation
 
-A [[knowledge]] commons may be conducive to tackling the issue of regulating markets responsibly. A commons can essentially embed a federated network of ethical markets; the community of commoners can agree on the definition of such network and the rules which they which to enforce on transactions through the interface.
+A [[knowledge commons]] may be conducive to tackling the issue of regulating markets responsibly. A commons can essentially embed a federated network of ethical markets; the community of commoners can agree on the definition of such network and the rules which they which to enforce on transactions through the interface.
+
+Commons can be seen to be well positioned to operate as meta-markets in a world (and internet) where markets, originally distributed in nature, have been coopted by corporations. 
+
+Application stores worldwide, the dominant bookseller in many countries -- all work as centralized markets that can impose high trading fees because of the lack of competition. It seems evident we must avoid this same scenario from reoccurring in the [[Tools for Thought]] space; a federated network is needed. But corporate profit driven interests are likely already dreaming of taking hold of the space; how can we stop them?
+
+Simple, maybe: we must retreat up a level and build a healthy integration layer that pushes back against early efforts to build walled gardens around tools and their strong communities. We must build bridges out of walled gardens and into the commons and there provide services to users of a wide range of tools, and enable ethical corporations to use these bridges to also provide these services.
 
 # Technical specifications
 
