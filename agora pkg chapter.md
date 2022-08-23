@@ -121,20 +121,6 @@ With this tool the Agora community can embark on shared projects. The author, as
 
 Let us use Agora Protocol if you may.
 
-## Values
-
-- Data Sovereignty (see [[Data Ownership Model]] below for details.)
-- Sustainability.
-- Diversity.
-- Freedom.
-- Compassion.
-
-## Goals
-
-- A free, distributed internet.
-- Freedom of information.
-- A world without poverty.
-
 # [[Agora Protocol]]
 
 This section describes a [[protocol]] for publicly defining sets of [[conventions]] and [[intents]] that can be said to define an Agora. An Agora is a public space that defines itself as such and follows an explicit variation of the Agora Protocol.
@@ -231,6 +217,20 @@ These are sample intents of the [[author]]. They can be optionally endorsed by a
 - The author tries to [[cooperate]] with others [[pro socially]] by default.
 - The author tries to [[help]] others whenever possible.
 - #pull [[manifesto]]
+
+### Values
+
+- Data Sovereignty (see [[Data Ownership Model]] below for details.)
+- Sustainability.
+- Diversity.
+- Freedom.
+- Compassion.
+
+### Goals
+
+- A free, distributed internet.
+- Freedom of information.
+- A world without poverty.
 
 ## Literate programming
 
