@@ -158,6 +158,8 @@ Next we describe how [[Agora Protocol]] can help provision an [[Agora Platform]]
 
 This facet of the Agora is that which is closest to the realm of software. See [[Reference Agora]] and [[Technical Specifications]] below for more details.
 
+The Agora Platform as described in this article is decentralized in nature: it is meant to be a pragmatic stopgap solution that is relatively easy to bootstrap and still able to compete with the centralized platforms that currently dominate the market in many fields and might vie for enclosing the [[knowledge commons]] soon. A fully distributed architecture might be preferable soon -- surely soon after achieving and ensuring [[knowledge independence]] for future generations. But a [[decentralized]] model like that used widely in the [[Fediverse]] has core strengths that suggest it might be a good fit for bootstrapping a [[knowledge commons]].
+
 ## Federation
 
 Individual Agora instances, initially provisioned and maintained by like-minded groups in a [[decentralized]] ([[Fediverse]] compatible) model, but tending towards a fully [[distributed]] model, are expected to federate in a greater [[Agora network]][^fediverse].
@@ -348,6 +350,7 @@ Thank you to [[neil]] and the [[agora community]]!
 
 ## Educational technology
 
+- An [[agora[[
 - #pull [[edtech]]
 - [[prompts]] as they relate to [[prompt engineering]]?
 - #pull [[st]]
