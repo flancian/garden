@@ -1,2 +1,6 @@
 - a [[table]]
   - by [[caterine perizol]] (sp?)
+  - three parts: [[fear]], [[anger]], [[sadness]].
+  - [[fear]]
+  - [[anger]]
+  - [[sadness]]
