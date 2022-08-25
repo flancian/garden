@@ -11,5 +11,7 @@
     - others
       - devote/dedicate oneself to others
       - to give meaning to one self
+    - telling to oneself:
+      - I should not value myself
   - [[fear]]
   - [[anger]]
