@@ -3,5 +3,10 @@
   - three parts: [[fear]], [[anger]], [[sadness]].
   - [[sadness]]
     - state of heaviness, laxitude, physical weakness, sensation of being lost, being depressed, feeling like laying down, heaviness, feeling like crying
+    - "what am I thinking about?"
+    - "want to be left alone or in peace"
+    - questioning oneself
+    - feelings of guilt
+    - solitude
   - [[fear]]
   - [[anger]]
