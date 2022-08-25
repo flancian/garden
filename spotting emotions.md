@@ -1,12 +1,15 @@
 - a [[table]]
   - by [[caterine perizol]] (sp?)
   - three parts: [[fear]], [[anger]], [[sadness]].
-  - [[sadness]]
+  - #push [[sadness]]
     - state of heaviness, laxitude, physical weakness, sensation of being lost, being depressed, feeling like laying down, heaviness, feeling like crying
     - "what am I thinking about?"
     - "want to be left alone or in peace"
-    - questioning oneself
+    - questioning oneself / doubts about self
     - feelings of guilt
     - solitude
+    - others
+      - devote/dedicate oneself to others
+      - to give meaning to one self
   - [[fear]]
   - [[anger]]
