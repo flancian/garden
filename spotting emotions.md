@@ -13,5 +13,7 @@
       - to give meaning to one self
     - telling to oneself:
       - I should not value myself
+      - I should not show myself
+      - I should not say anything
   - [[fear]]
   - [[anger]]
