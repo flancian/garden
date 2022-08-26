@@ -86,9 +86,11 @@ This project is of very large scope and might make use of non standard terminolo
 - [[Siphon]]: a bridge which exploits a gradient.
 - [[Commons]]: a [[social organism]] or [[social system]] provisioned and maintained by a community of practice for the [[common good]]. As per [[Elinor Ostrom]], [[Silke Helfrich]], [[David Bollier]], etc.
 
-# Principles
+# Vision
 
 This section details goals and values as they relate to the definition of an Agora on a high level.
+
+The Agora is a project for the betterment of the internet, potentially leading to the betterment of the world.                        
 
 The Agora as a project is positioned at the intersection of the fields of [[commoning]], [[patterning]] and [[knowledge management]].
 
