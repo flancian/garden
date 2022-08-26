@@ -3,15 +3,15 @@
     - Very much looking forward to the book because of others' contributions!
     - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs.
   - This chapter is about the [[Agora]] in general, and about [[an agora]] in particular, and what we could do with them together.
-  - Working title: "The Agora is a Distributed Knowledge Graph and Protocol".
-  - Working title (2): "The Agora is a Protocol, a Platform and a Commons".
+    - Working title: "The Agora is a Distributed Knowledge Graph and Protocol".
+    - Working title (2): "The Agora is a Protocol, a Platform and a Commons".
     - Subtitle: Experiments with a [[Distributed Knowledge Graph]].
-  - Original title (for the abstract): "The Agora is a Social Knowledge Graph".
-  - Expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
-  - #push [[deadlines]]
-    - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
-    - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
-    - [[submission]] [[September 1]] ~ [[2022-09-01]]: The final chapter submission after which it goes into editing.
+    - Original title (for the abstract): "The Agora is a Social Knowledge Graph".
+    - Expected length: 5k-10k words ~ 10-20 A4 pages single spaced.
+    - #push [[deadlines]]
+      - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
+      - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
+      - [[submission]] [[September 1]] ~ [[2022-09-01]]: The final chapter submission after which it goes into editing.
   - #meta The preceding blocks and the following [[children]] exemplify [[Agora Protocol]] (see below for a concise description.)
     - This document as a whole tries to be an example of Agora Protocol as used interspersed, and occassionally intertwined, with common prose.
     - #push [[commons]] 
@@ -23,10 +23,10 @@
   - In this subnode (meaning this text file) you will find the actual **chapter text**, including the introduction, which should be 5k-10k words once ready to be delivered on [[2022-09-01]].
     - In the subnode below (meaning another text file, sourced from the [[Stoa]]), you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the [[Agora]] is about, or should be.
     - [[todo]] (see also lines below marked TODO)
-      - [ ] rewrite/rethink sections for [[agora platform]] and [[agora commons]] (triad approach with [[agora protocol]]?).
-        - Is it too much to say "The Agora is a [[protocol]], a social [[platform]] and a knowledge [[commons]]"?
       - #pull [[agora]]
         - see if there's any phrasing there that can be reused here, this has drifted towards the technical and [[agora]] might have some nuggets?
+        - [ ] rewrite/rethink sections for [[agora platform]] and [[agora commons]] (triad approach with [[agora protocol]]?).
+        - Is it too much to start with "The Agora is a [[protocol]], a social [[platform]] and a knowledge [[commons]]"?
       - [[agora protocol]]
         - [x] write about go links
         - mention [[pull]], [[push]], [[go]] in RFC section?
@@ -44,7 +44,7 @@
         
 # Introduction
 
-In this [[chapter]] we describe [[Agora]], a social [[protocol]] and associated [[platform]] hypothetically enabling a self-governing community to provision a sustainable [[knowledge commons]] for the [[public good]].
+In this [[chapter]] we describe the [[Agora]], a [[protocol]] and [[platform]] enabling a self-governing community to provision a sustainable [[knowledge commons]] for the [[public good]].
 
 The Agora as described in this article is just [[an Agora]], meaning it is just one possible implementation of the principles delineated here. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist -- if not by name, then in spirit.
   
