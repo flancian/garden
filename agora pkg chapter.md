@@ -24,18 +24,23 @@
     - In the subnode below (meaning another text file, sourced from the [[Stoa]]), you will find a snapshot of the chapter outline as it was when I delivered it to editors on [[2022-07-04]] as a list of bullets. This is now an **independent version**, writable by any interested party; feel free to edit it in whichever direction you want to take it and use it to show what *you* think the [[Agora]] is about, or should be.
     - [[todo]] (see also lines below marked TODO)
       - [ ] rewrite/rethink sections for [[agora platform]] and [[agora commons]] (triad approach with [[agora protocol]]?).
-      - [x] write about go links
+        - Is it too much to say "The Agora is a [[protocol]], a social [[platform]] and a knowledge [[commons]]"?
       - #pull [[agora]]
         - see if there's any phrasing there that can be reused here, this has drifted towards the technical and [[agora]] might have some nuggets?
-      - add [[opt in]] policy
-      - add [[user data ownership]] model (repo per user to bootstrap)
-      - [x] document [[endpoints]] in [[Technical specifications]]
-        - [x] including /feed/
+      - [[agora protocol]]
+        - [x] write about go links
+        - mention [[pull]], [[push]], [[go]] in RFC section?
+      - [[agora platform]]
+        - add about [[opt in]] policy
+        - add [[user data ownership]] model (repo per user to bootstrap)
+        - [x] document [[endpoints]] in [[Technical specifications]]
+          - [x] including /feed/
+      - [[agora commons]]
+        - add more on [[pattern repository]] aspect
       - document social -> agora and agora -> social flows
-      - add more on [[pattern repository]] aspect
-      - describe [[pull]], [[push]], [[go]] in RFC section?
-      - importing single resources like docs?
-      - Is it too much to say "The Agora is a [[protocol]], a social [[platform]] and a knowledge [[commons]]"?
+      - what about importing single resources like docs?
+        - I actually need this for this document, the following *should* work?
+        - #pull https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
         
 # Introduction
 
