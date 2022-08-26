@@ -182,7 +182,9 @@ A [[bridge]] is a process or device that can be set up to transfer resources acr
 
 Bridges are useful in that they lower friction for users to move across tools and platforms in an ecosystem, and to keep control of their data (as a bridge can be made to cross post data to a repository under the user's control, or compatible with the user's data sovereignty).
 
-Bridges are the main tool we have to enact [[counter anti disintermediation]] and push back against [[walled gardens]]. An Agora tries to provide useful bridges to the community as a public service.
+Bridges are the main tool we have to enact [[counter anti disintermediation]] and push back against [[walled gardens]]. 
+
+An Agora tries to provide safe, useful bridges to the community as a public service.
 
 ## Siphons
 
