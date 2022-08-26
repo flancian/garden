@@ -11,7 +11,11 @@
     - 10
 - [[obsidian]]
   - [[openness]]
+    - ...
   - [[visualization]]
+    - …
 - [[agora]]
   - [[openness]]
+    - 10
   - [[visualization]]
+    - 3
