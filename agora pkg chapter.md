@@ -530,7 +530,7 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 
 # References
 
-- [[meta]] TODO: move these to IPA :)
+- [[meta]] TODO: move these to IPA? :)
 - #pull [[elinor ostrom]] 
   - [[commons]] [[knowledge commons]] 
 - #pull [[murray bookchin]] 
