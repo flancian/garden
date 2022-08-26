@@ -9,4 +9,5 @@
     - [[seymour papert]]
     - [[ivan sutherland]]
   - [[kenneth iverson]] introduced the term [[tools for thought]] in [[notation as a tool of thought]] regarding [[APL]]
-    - … except he didn't maybe? :) he uses [[tool of thought]] instead, consistently. "for thought" doesn't appear even once in the paper.
+    - … except he didn't maybe? :) he uses [[tool of thought]] instead, consistently. 
+    - The syntagm "for thought" doesn't appear even once in the paper.
