@@ -1,1 +1,2 @@
-- #go https://numinous.productions/ttft
+- an [[article]]
+  - #go https://numinous.productions/ttft
