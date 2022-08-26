@@ -185,9 +185,9 @@ Bridges are useful in that they lower friction for users to move across tools an
 Bridges are the main tool we have to enact [[counter anti disintermediation]] and push back against [[walled gardens]]. An Agora tries to provide useful bridges to the community as a public service.
 
 ## Siphons
-A [[siphon]] can be seen as a bridge across which [[flow]] can take place after some initial [[effort]], with cost-benefit ideally following a Pareto-like distribution.
+A [[siphon]] can be seen as a bridge across which [[flow]] can take place after some initial [[effort]], with cost-benefit ideally following a Pareto-like distribution. Siphons can be specialized to perform pro social [[adversarial interoperability]].
 
-A siphon may, for example, be a bridge with a one-time setup cost (e.g. setting up an API key) which can be run at low cost (of maintenance and computation) afterwards.
+An example siphon would be a bridge with a one-time setup cost (e.g. an end user having to set up an API key for a walled garden) but which can then be run continuously afterwards at low cost (of maintenance on behalf of the user, and of computation).
 
 # Agora Commons
 
