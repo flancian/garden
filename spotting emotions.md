@@ -1,5 +1,5 @@
 - a [[table]]
-  - by [[caterine perizol]] (sp?)
+  - by [[Catherine Aimelet-Périssol]]
   - three parts: [[fear]], [[anger]], [[sadness]].
   - #push [[sadness]]
     - state of heaviness, laxitude, physical weakness, sensation of being lost, being depressed, feeling like laying down, heaviness, feeling like crying
