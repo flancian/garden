@@ -7,4 +7,5 @@
     - [[douglas engelbart]] #1962
     - [[vannevar bush]]
     - [[seymour papert]]
-    - [[ivan suthreland]]
+    - [[ivan sutherland]]
+  - [[kenneth iverson]] introduced the term [[tools for thought]] in [[notation as a tool of thought]] regarding [[APL]]
