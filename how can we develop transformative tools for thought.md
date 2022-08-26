@@ -11,3 +11,4 @@
   - [[kenneth iverson]] introduced the term [[tools for thought]] in [[notation as a tool of thought]] regarding [[APL]]
     - … except he didn't maybe? :) he uses [[tool of thought]] instead, consistently. 
     - The syntagm "for thought" doesn't appear even once in the paper.
+    - "of thought" seems to give thought *agency* in a way that is interesting? instead of sounding like the product of the tool.
