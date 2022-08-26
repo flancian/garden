@@ -187,7 +187,7 @@ Bridges are the main tool we have to enact [[counter anti disintermediation]] an
 ## Siphons
 A [[siphon]] can be seen as a bridge across which [[flow]] can take place after some initial [[effort]], with cost-benefit ideally following a Pareto-like distribution.
 
-A siphon may, for example, may be a bridge with a setup cost (e.g. setting up an API key) which can run at low cost of maintenance afterwards.
+A siphon may, for example, be a bridge with a one-time setup cost (e.g. setting up an API key) which can be run at low cost (of maintenance and computation) afterwards.
 
 # Agora Commons
 
