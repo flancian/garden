@@ -2,3 +2,9 @@
   - #pull [[how can we develop transformative tools for thought?]]
   - by [[andy mathuschak]] and [[michael nilsen]]
   - #go https://numinous.productions/ttft
+  - [[references]]
+    - [[alan kay]] #1989
+    - [[douglas engelbart]] #1962
+    - [[vannevar bush]]
+    - [[seymour papert]]
+    - [[ivan suthreland]]
