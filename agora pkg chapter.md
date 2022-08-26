@@ -44,7 +44,7 @@
         
 # Introduction
 
-In this [[chapter]] we describe the [[Agora]], a [[protocol]] and [[platform]] enabling a self-governing community to provision a sustainable [[knowledge commons]] for the [[public good]].
+In this [[chapter]] we describe the [[Agora]], a [[protocol]] and [[platform]] enabling a self-governing community to provision a [[knowledge commons]] for the [[public good]].
 
 The Agora as described in this article is just [[an Agora]], meaning it is just one possible implementation of the principles delineated here. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist -- if not by name, then in spirit.
   
