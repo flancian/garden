@@ -191,6 +191,8 @@ A siphon may, for example, may be a bridge with a setup cost (e.g. setting up an
 
 # Agora Commons
 
+An Agora is a [[knowledge commons]] provisioned and maintained by a self-governing community for [[public good]].
+
 - #pull [[elinor ostrom]] [[free, fair and alive]]
 
 A [[commons]] consists, at a minimum[^comdef], of:
