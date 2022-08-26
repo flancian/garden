@@ -231,7 +231,7 @@ These are sample intents of the [[author]]. They can be optionally endorsed by a
 
 ### Values
 
-- Data Sovereignty (see [[Data Ownership Model]] below for details.)
+- [[Data Sovereignty]] (see [[Data Ownership Model]] below for details.)
 - Sustainability.
 - Diversity.
 - Freedom.
@@ -475,7 +475,9 @@ Here we cover some details of the provided free and open source reference Agora 
     - User controlled [[git]] repositories are the default data source.
   - [[agora server]] provides a UI supporting querying and composition and [[json]], [[rss]], [[rdf]] endpoints.
     
-### Data ownership model
+### Data ownership model 
+
+- TODO: or [[data sovereignty]], [[data safety]]?
 
 The [[Agora platform]], although strictly rooted in [[web 1]] principles in its reference implementation as of the time of writing, is based on a strictly distributed model: by default users are entities that inform an Agora of repositories they want to contribute to the [[commons]]. As such, an Agora is trivially distributed in the sense that all data required to bootstrap it is hosted independently by users at independent locations[^github].
 
