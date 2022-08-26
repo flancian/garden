@@ -1,3 +1,5 @@
 - a [[feature]].
   - in... [[agora bridge]]?
   - #go https://developers.google.com/docs/api/samples/extract-text#python
+  - [[do]] want to implement it using the above as a start
+  - will support only public documents to begin with
