@@ -1,1 +1,2 @@
-- #pull [[agora server]] [[agora bridge]]
+- #pull [[agora server]] [[agora bridge]] contain the code for this Agora.
+  - [[go/agora/git]] is the Agora root.
