@@ -1,0 +1,3 @@
+- a [[site]].
+  - #go https://quantum.country/
+  - [[andy matuschak]] [[michael nielsen]]
