@@ -538,6 +538,7 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
 - #pull [[christopher alexander]] 
   - [[notes on the synthesis of form]] 
   - [[a pattern language]]
+- #pull [[how can we develop transformative tools for thought]]
 
 # Thanks and farewell
 
