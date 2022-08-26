@@ -1,0 +1,4 @@
+- an [[article]].
+  - #pull [[how can we develop transformative tools for thought?]]
+  - by [[andy mathuschak]] and [[michael nilsen]]
+  - #go https://numinous.productions/ttft
