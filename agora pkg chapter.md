@@ -83,7 +83,7 @@ It builds on top of the open web, wiki culture and the social movements enabled 
 - #pull [[tim berners lee]] [[solid]] 
 - #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
 
-Finally, an Agora is a project with a pragmatic bent directed towards world improvement through global reform or peaceful revolution.
+The reference Agora is a project with a pragmatic bent directed towards world improvement. It is a case study in [[protopian thinking]] directed towards global reform and revolution.
 
 - #pull [[social media]]
 - #pull [[effective altruism]] 
