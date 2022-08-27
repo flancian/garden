@@ -60,7 +60,7 @@ As hinted above, the Agora is a project with multiple facets which we will try t
 
 The triad above fits together in a variety of ways that we will try to explore in relevant sections, but in a nutshell: [[Agora protocol]] can be used by the community while interacting with the [[Agora platform]] to provision entities, intents and services in the [[Agora commons]].
 
-We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of a free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
+We[^author] then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of a free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
 
 [^author]: Eduardo Ivanec, a.k.a. 'flancian', representing [[Flancia Collective]] and the [[Agora community]].
 [^commoning]: both commonsense and related to instances of [[commoning]].
@@ -68,8 +68,6 @@ We will then cover experiments and potential applications in the [[academic]], [
 [^protocol]: This section serves as a demonstration of text-based [[agora protocol]] which, in an Agora, will result in the entity mentioned above being transcluded due to the use of an Agora action ("pull", to bring a described resource into the current context.)
 
 # Background
-
-- #meta TODO: this [[Agora protocol]] block is a MARKER for 'edited (up to?) around here in the last pass', move/delete as needed.
 
 The Agora can be defined in a nutshell as a subset of the [[internet]][^web] used consciously towards a particular purpose. As mentioned previously, it can also be seen as both a platform and a protocol for provisioning and maintaining a [[knowledge commons]]. Because of both this wide definition and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
 
