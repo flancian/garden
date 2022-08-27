@@ -46,12 +46,8 @@
 
 In this [[chapter]] we describe the [[Agora]], a [[protocol]] and reference [[platform]] yielding a [[knowledge commons]] provisioned by a self-governing community. This commons is bootstrapped as a [[distributed knowledge graph]] assembled from off-the-shelf components, upholding the user's [[data sovereignty]] while supporting integration with a wide range of [[tools for thought]].
 
-The Agora as described in this article is just [[an Agora]], meaning it should be taken as a simple [[reference implementation]] of the principles delineated in this paper. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then definitely in values and direction.[^seed] 
+The Agora as described in this article is just [[an Agora]], meaning it should be taken as a simple [[reference implementation]] of the principles delineated in this paper. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then definitely in values and direction. When in doubt, the author[^author] likes to assume that all willing Agora-like entities we find will eventually be part of a greater cofederated Agora network. Put another way, the reference Agora described here is just one possible seed from which this Agora network may grow.
 
-[^seed]: When in doubt, the author likes to assume that all willing Agora-like entities we find will eventually be part of a greater cofederated Agora network. Put another way, the reference Agora described here is just one possible seed from which this Agora network may grow.
-
-[[Agora protocol]] can be used within any [[Agora platform]] to enable the user to interact with the [[Agora commons]], which both includes and is governed by the [[Agora community]].
-  
 A core aspect of the provided [[reference Agora]] is that its constituent [[distributed knowledge graph]] can be straightforwardly bootstrapped using just a well-defined freely-available subset of the [[internet]]. The provided software can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] (including social), meaning arbitrary repositories maintained manually or via readily available [[tools for thought]] (both open and closed in nature). All supported data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice. 
 
 As hinted above, the Agora has multiple facets which we will try to explore in order in this paper: 
@@ -60,11 +56,13 @@ As hinted above, the Agora has multiple facets which we will try to explore in o
 - A [[free software]] [[reference implementation]] of an [[Agora platform]] based on the principles delineated in this article, including: a set of importers for diverse [[data sources]] and [[formats]]; an API with [[endpoints]] implementing the [[Agora protocol]]; and an integration layer serving as user interface to the [[knowledge graph]].
 - An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned using the tools and concepts above. 
 
+[[Agora protocol]] can be used within any [[Agora platform]] to enable the user to interact with the [[Agora commons]], which both includes and is governed by the [[Agora community]]. 
+
 The resulting reference Agora, https://anagora.org, is run by [[Flancia Collective]] as a free service for [[public good]].
 
 We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
 
-
+[^author]: Eduardo Ivanec, a.k.a. 'flancian', representing [[Flancia Collective]] and the [[Agora community]].
 [^commoning]: both commonsense and related to instances of [[commoning]].
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 [^protocol]: This section serves as a demonstration of text-based [[agora protocol]] which, in an Agora, will result in the entity mentioned above being transcluded due to the use of an Agora action ("pull", to bring a described resource into the current context.)
