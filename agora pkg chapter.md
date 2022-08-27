@@ -54,7 +54,7 @@ A core aspect of the provided [[reference Agora]] is that its constituent [[dist
 
 As hinted above, the Agora has multiple facets which we will try to explore in order in this paper: 
 
-- A high level [[Agora protocol]] designed to lower friction to information exchange and cooperation, mostly building on conventions already in use in [[tools for thought]] and within knowledge oriented [[communities of practice]].
+- A high level [[Agora protocol]] designed to lower friction to information exchange and cooperation, mostly building on conventions already in use within knowledge oriented [[communities of practice]] and supported by a variety of [[tools for thought]].
 - A [[free software]] [[reference implementation]] of an [[Agora platform]] based on the principles delineated in this article, including a set of importers and converters for diverse [[sources]] and [[formats]], [[Agora endpoints]] implementing the [[Agora protocol]], and an integration layer and UI.
 - An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned using the tools and concepts above and maintained by the community of the [[Agora of Flancia]], https://anagora.org.
 
