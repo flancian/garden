@@ -56,11 +56,12 @@ As hinted above, the Agora has multiple facets which we will try to explore in o
 
 - The high level [[Agora protocol]], which is designed to lower friction to information exchange and cooperation, mostly building on [[conventions]] and [[devices]] already in use within knowledge oriented [[communities of practice]] and supported by a variety of [[tools for thought]].
 - A [[free software]] [[reference implementation]] of an [[Agora platform]] based on the principles delineated in this article, including: a set of importers for diverse [[data sources]] and [[formats]]; an API with [[endpoints]] implementing the [[Agora protocol]]; and an integration layer serving as user interface to the [[knowledge graph]].
-- An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned using the tools and concepts above and maintained by the community of the [[Agora of Flancia]], https://anagora.org.
+- An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned using the tools and concepts above. 
+
+The resulting reference Agora, https://anagora.org, is run by [[Flancia Collective]] as a free service for [[public good]].
 
 We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
 
-The reference Agora, https://anagora.org, is run by [[Flancia Collective]] as a free service for [[public good]].
 
 [^commoning]: both commonsense and related to instances of [[commoning]].
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
