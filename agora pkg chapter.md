@@ -69,7 +69,7 @@ We[^author] then cover experiments and potential applications in the [[academic]
 
 # Background
 
-The Agora can be defined most generally as a subset of the [[internet]][^web] used consciously and towards a particular purpose. Slightly less generally, as per the above, it can be seen as a platform and a protocol for provisioning and maintaining a [[commons]] enabling a community to define and advance a set of goals. Because of these broad definitions and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
+The Agora can be defined most generally as a subset of the [[internet]][^web] used consciously and towards a particular purpose. Slightly less generally, as per the above, it can be seen as a platform and a protocol for provisioning and maintaining a [[commons]] (initially digital) enabling a community to efficiently define and advance their goals. Because of these broad definitions and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
 
 This Agora is inspired by the pioneering work of Elinor Ostrom in the study of well functioning [[commons]], which resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents to prevent the so called [[Tragedy of the Commons]].
 
