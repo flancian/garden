@@ -46,7 +46,7 @@
 
 In this [[chapter]] we describe the [[Agora]], a [[protocol]] and reference [[platform]] yielding a [[knowledge commons]] provisioned by a self-governing community. This commons is bootstrapped on a [[distributed knowledge graph]] assembled from off-the-shelf components, upholding the user's [[data sovereignty]] while supporting integration with a wide range of [[tools for thought]].
 
-The Agora as described in this article is just [[an Agora]], meaning it is just one possible implementation of the principles delineated here. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, definitely in spirit.
+The Agora as described in this article is just [[an Agora]], meaning it is just one possible implementation of the principles delineated int his paper. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then definitely in spirit. When in doubt, feel free to assume that all Agora-like entities are part of a greater Agora network.
 
 [[Agora protocol]] can be used within any [[Agora platform]] to enable the community to provision an [[Agora commons]]. We[^author] provide a reference implementation of such a platform, and an example knowledge commons.
   
