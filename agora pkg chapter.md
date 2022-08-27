@@ -69,13 +69,13 @@ We[^author] then cover experiments and potential applications in the [[academic]
 
 # Background
 
-The Agora can be defined most generally as a subset of the [[internet]][^web] used consciously and towards a particular purpose. Slightly less generally, as per the above, it can be seen as a platform and a protocol for provisioning and maintaining a [[knowledge commons]] enabling a community to define and advance said purpose. Because of both this wide definition and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
+The Agora can be defined most generally as a subset of the [[internet]][^web] used consciously and towards a particular purpose. Slightly less generally, as per the above, it can be seen as a platform and a protocol for provisioning and maintaining a [[commons]] enabling a community to define and advance a set of goals. Because of these broad definitions and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
 
 [^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
 
 ## Terminology
 
-This project is of very large scope and might make use of non standard terminology. To aid understanding, here we provide a short summary of key terms to follow.
+This project is of large scope and makes use of terminology from different fields, drawing from computer science, systems thinking and political theory. It also makes use of metaphors. To aid understanding, here we provide a short summary of key terms to follow.
 
 - [[Agora]]: a [[protocol]], a [[platform]], a [[commons]]. The [[noosphere]]. [[Internet]] as a tool held right.
 - [[Graph]]: the heart of the Agora. A distributed [[knowledge graph]] in particular, both explicitly and implicitly containing a variety of social graphs.
