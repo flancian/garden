@@ -44,9 +44,11 @@
         
 # Introduction
 
-In this [[chapter]] we describe the [[Agora]], a [[protocol]] and [[platform]] enabling a self-governing community to provision a [[knowledge commons]] for the [[public good]].
+In this [[chapter]] we describe the [[Agora]], a [[knowledge commons]] provisioned and maintained by a self-governing community for [[public good]]. 
 
 The Agora as described in this article is just [[an Agora]], meaning it is just one possible implementation of the principles delineated here. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then in spirit.
+
+[[Agora]], a [[protocol]] and [[platform]] enabling a self-governing community to provision a [[knowledge commons]] for the [[public good]].
   
 A core aspect of [[this Agora]] is that its constituent [[distributed knowledge graph]] can be easily bootstrapped on a well-defined freely-available subset of the [[internet]]. The provided reference Agora can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] (including social), generalizing to arbitrary repositories. All data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice.
 
