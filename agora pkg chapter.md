@@ -60,7 +60,7 @@ As hinted above, the Agora is a project with multiple facets which we will try t
 
 The triad above fits together in a variety of ways that we will try to explore in relevant sections, but in a nutshell: [[Agora protocol]] can be used by the community while interacting with the [[Agora platform]] to provision entities, intents and services in the [[Agora commons]].
 
-We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
+We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of a free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
 
 [^author]: Eduardo Ivanec, a.k.a. 'flancian', representing [[Flancia Collective]] and the [[Agora community]].
 [^commoning]: both commonsense and related to instances of [[commoning]].
