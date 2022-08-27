@@ -71,6 +71,27 @@ We[^author] then cover experiments and potential applications in the [[academic]
 
 The Agora can be defined most generally as a subset of the [[internet]][^web] used consciously and towards a particular purpose. Slightly less generally, as per the above, it can be seen as a platform and a protocol for provisioning and maintaining a [[commons]] enabling a community to define and advance a set of goals. Because of these broad definitions and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
 
+This Agora is inspired by the pioneering work of Elinor Ostrom in the study of well functioning [[commons]], which resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents to prevent the so called [[Tragedy of the Commons]].
+
+It is also clearly inspired by the work of pioneers of [[tools for thinking]].
+
+- #pull [[vannevar bush]] [[memex]] 
+- #pull [[douglas engelbart]]
+
+It builds on top of the open web, wiki culture and the social movements enabled by them.
+
+- #pull [[tim berners lee]] [[solid]] 
+- #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
+
+Finally, an Agora is a project with a pragmatic bent directed towards world improvement through global reform or peaceful revolution.
+
+- #pull [[social media]]
+- #pull [[effective altruism]] 
+- #pull [[revolution]]
+
+TODO: focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the Triad of Commoning, etc.
+
+
 [^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
 
 ## Terminology
@@ -96,26 +117,6 @@ This section details goals and values as they relate to the definition of an Ago
 The Agora is a project for the betterment of the internet, potentially leading to the betterment of the world.                        
 
 The Agora as a project is positioned at the intersection of the fields of [[commoning]], [[patterning]] and [[knowledge management]].
-
-This Agora is inspired by the pioneering work of Elinor Ostrom and others in the study of well functioning [[commons]], which resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents to prevent the so called [[Tragedy of the Commons]].
-
-It is also clearly inspired by the work of pioneers of [[tools for thinking]].
-
-- #pull [[vannevar bush]] [[memex]] 
-- #pull [[douglas engelbart]]
-
-It builds on top of the open web, wiki culture and the social movements enabled by them.
-
-- #pull [[tim berners lee]] [[solid]] 
-- #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
-
-Finally, an Agora is a project with a pragmatic bent directed towards world improvement through global reform or peaceful revolution.
-
-- #pull [[social media]]
-- #pull [[effective altruism]] 
-- #pull [[revolution]]
-
-TODO: focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the Triad of Commoning, etc.
 
 ## Praxis
 
