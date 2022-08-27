@@ -48,17 +48,18 @@ In this [[chapter]] we describe the [[Agora]], a [[protocol]] and reference [[pl
 
 The Agora as described in this article is just [[an Agora]], meaning it should be taken as a simple [[reference implementation]] of the principles delineated in this paper. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then definitely in values and direction. When in doubt, the author[^author] likes to assume that all Agora-like entities we find will eventually be part of a greater [[confederated]] [[Agora network]]. Put another way, the reference Agora described here is just one possible seed from which an [[Agora network]] may grow.
 
-A core aspect of the provided [[reference Agora]] is that its constituent [[distributed knowledge graph]] can be straightforwardly bootstrapped using just a well-defined freely-available subset of the [[internet]]. The provided software can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] (including social), meaning arbitrary repositories maintained manually or via readily available [[tools for thought]] (both open and closed in nature). All supported data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice. 
+A core aspect of the provided [[reference Agora]][^reference] is that its constituent [[distributed knowledge graph]] can be straightforwardly bootstrapped using just a well-defined freely-available subset of the [[internet]]. The provided software can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] of all kinds (including social), generalizing to arbitrary repositories maintained manually or via readily available [[tools for thought]] (both open and closed in nature). All supported data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice.
 
-As hinted above, the Agora has multiple facets which we will try to explore in order in this paper: 
+[^reference]: The reference Agora, https://anagora.org, is run by [[Flancia Collective]] as a free service for [[public good]].
+
+As hinted above, the Agora is a project with multiple facets which we will try to explore in order in this paper: 
 
 - The high level [[Agora protocol]], which is designed to lower friction to information exchange and cooperation, mostly building on [[conventions]] and [[devices]] already in use within knowledge oriented [[communities of practice]] and supported by a variety of [[tools for thought]].
 - A [[free software]] [[reference implementation]] of an [[Agora platform]] based on the principles delineated in this article, including: a set of importers for diverse [[data sources]] and [[formats]]; an API with [[endpoints]] implementing the [[Agora protocol]]; and an integration layer serving as user interface to the [[knowledge graph]].
-- An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned using the tools and concepts above. 
+- An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned by an [[Agora community]] using the tools and concepts above. 
 
-[[Agora protocol]] can be used within any [[Agora platform]] to enable the user to interact with the [[Agora commons]], which both includes and is governed by the [[Agora community]]. 
+The triad above fits together in a variety of ways that we will try to explore in relevant sections, but in a nutshell: [[Agora protocol]] can be used while interacting with the [[Agora platform]] to provision entities and services in the [[Agora commons]]. which both includes and is governed by the [[Agora community]]. 
 
-The resulting reference Agora, https://anagora.org, is run by [[Flancia Collective]] as a free service for [[public good]].
 
 We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
 
