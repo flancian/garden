@@ -54,9 +54,9 @@ A core aspect of [[this Agora]] is that its constituent [[distributed knowledge 
 
 An Agora has multiple facets which we will try to explore throughout this article:
 
-- A high level [[protocol]] designed to lower friction to information exchange and cooperation, mostly building on conventions already in use in [[tools for thought]] and within knowledge oriented [[communities of practice]].
-- A [[free software]] [[reference implementation]] of a [[platform]] based on the principles delineated in this article, including a set of importers and converters for diverse [[sources]] and [[formats]], [[Agora endpoints]] implementing the [[Agora protocol]], and an integration layer and UI.
-- An example [[distributed knowledge graph]] provisioned using the tools above and maintained by the https://anagora.org [[community]].
+- A high level [[Agora protocol]] designed to lower friction to information exchange and cooperation, mostly building on conventions already in use in [[tools for thought]] and within knowledge oriented [[communities of practice]].
+- A [[free software]] [[reference implementation]] of an [[Agora platform]] based on the principles delineated in this article, including a set of importers and converters for diverse [[sources]] and [[formats]], [[Agora endpoints]] implementing the [[Agora protocol]], and an integration layer and UI.
+- An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned using the tools and concepts above and maintained by the community of the [[Agora of Flancia]], https://anagora.org.
 
 We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
 
