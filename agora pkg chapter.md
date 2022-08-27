@@ -46,9 +46,9 @@
 
 In this [[chapter]] we describe the [[Agora]], a [[protocol]] and reference [[platform]] yielding a [[knowledge commons]] provisioned by a self-governing community. This commons is bootstrapped as a [[distributed knowledge graph]] assembled from off-the-shelf components, upholding the user's [[data sovereignty]] while supporting integration with a wide range of [[tools for thought]].
 
-The Agora as described in this article is just [[an Agora]], meaning it should be taken as a simple [[reference implementation]] of the principles delineated int his paper. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then definitely in values and direction.[^seed] 
+The Agora as described in this article is just [[an Agora]], meaning it should be taken as a simple [[reference implementation]] of the principles delineated in this paper. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then definitely in values and direction.[^seed] 
 
-[^seed]: When in doubt, the author likes to assume that all Agora-like entities we find can be made to be a part of a greater Agora network. Put another way, the reference Agora described here is just one possible seed from which an Agora network may grow.
+[^seed]: When in doubt, the author likes to assume that all willing Agora-like entities we find will eventually be part of a greater cofederated Agora network. Put another way, the reference Agora described here is just one possible seed from which this Agora network may grow.
 
 [[Agora protocol]] can be used within any [[Agora platform]] to enable the user to interact with the [[Agora commons]], which both includes and is governed by the [[Agora community]].
   
