@@ -50,7 +50,7 @@ The Agora as described in this article is just [[an Agora]], meaning it is just 
   
 A core aspect of [[this Agora]] is that its constituent [[distributed knowledge graph]] can be easily bootstrapped on a well-defined freely-available subset of the [[internet]]. The provided reference Agora can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] (including social), generalizing to arbitrary repositories. All data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice.
 
-As hinted already, the Agora has multiple facets which we will try to explore throughout this article:
+An Agora has multiple facets which we will try to explore throughout this article:
 
 - A high level [[protocol]] designed to lower friction to information exchange and cooperation, mostly building on conventions already in use in knowledge oriented [[communities of practice]].
 - A [[free software]] [[reference implementation]] of a [[platform]] based on the principles delineated in this article, including a set of importers and converters for diverse [[sources]] and [[formats]], [[Agora endpoints]] implementing the [[Agora protocol]], and an integration layer and UI.
