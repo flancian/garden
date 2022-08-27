@@ -44,13 +44,13 @@
         
 # Introduction
 
-In this [[chapter]] we describe the [[Agora]], a [[protocol]] and reference [[platform]] yielding a [[knowledge commons]] provisioned by a self-governing community for the [[public good]]. This commons is bootstrapped on a [[distributed knowledge graph]] assembled from off-the-shelf components, upholding the user's [[data sovereignty]] and supporting integration with a wide range of [[tools for thought]].
+In this [[chapter]] we describe the [[Agora]], a [[protocol]] and reference [[platform]] yielding a [[knowledge commons]] provisioned by a self-governing community. This commons is bootstrapped on a [[distributed knowledge graph]] assembled from off-the-shelf components, upholding the user's [[data sovereignty]] and supporting integration with a wide range of [[tools for thought]].
 
 The Agora as described in this article is just [[an Agora]], meaning it is just one possible implementation of the principles delineated here. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, definitely in spirit.
 
 [[Agora protocol]] can be used within any [[Agora platform]] to enable the community to provision an [[Agora commons]]. We[^author] provide a reference implementation of such a platform, and an example knowledge commons.
   
-A core aspect of [[this Agora]] is that its constituent [[distributed knowledge graph]] can be easily bootstrapped on a well-defined freely-available subset of the [[internet]]. The provided reference Agora can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] (including social), generalizing to arbitrary repositories. All data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice.
+A core aspect of [[this Agora]] is that its constituent [[distributed knowledge graph]] can be easily bootstrapped on a well-defined freely-available subset of the [[internet]]. The provided reference Agora can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] (including social), generalizing to arbitrary repositories maintained using standard means or via [[tools for thought]]. All data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice. The reference Agora, https://anagora.org, is run by [[Flancia Collective]] as a free service for the [[public good]].
 
 An Agora has multiple facets which we will try to explore throughout this article:
 
