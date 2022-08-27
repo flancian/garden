@@ -58,8 +58,7 @@ As hinted above, the Agora is a project with multiple facets which we will try t
 - A [[free software]] [[reference implementation]] of an [[Agora platform]] based on the principles delineated in this article, including: a set of importers for diverse [[data sources]] and [[formats]]; an API with [[endpoints]] implementing the [[Agora protocol]]; and an integration layer serving as user interface to the [[knowledge graph]].
 - An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned by an [[Agora community]] using the tools and concepts above. 
 
-The triad above fits together in a variety of ways that we will try to explore in relevant sections, but in a nutshell: [[Agora protocol]] can be used while interacting with the [[Agora platform]] to provision entities and services in the [[Agora commons]]. which both includes and is governed by the [[Agora community]]. 
-
+The triad above fits together in a variety of ways that we will try to explore in relevant sections, but in a nutshell: [[Agora protocol]] can be used by the community while interacting with the [[Agora platform]] to provision entities, intents and services in the [[Agora commons]].
 
 We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
 
