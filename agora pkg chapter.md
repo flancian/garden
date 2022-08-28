@@ -89,7 +89,7 @@ The heart of an Agora is the [[Agora Commons]]. It is a [[knowledge commons]] to
 
 TODO (Diagram): focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the [[Triad of Commoning]], etc.
 
-[^tft]: As per Matuschak and Nielsen (2022), Kenneth Iverson seems to be the source of the currently dominant blanket term "[[tools for thought]]" -- although I can report he didn't use it in his seminal paper, preferring instead "[[tools of thought]]".
+[^tft]: As per Matuschak and Nielsen (2022), Kenneth Iverson seems to be the source of the currently dominant blanket term "[[tools for thought]]" -- although I can report he didn't use it in his seminal paper, preferring instead "[[tools of thought]]". I use these two interchangeably, maybe preferring the latter due to it giving thought agency.
 [^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
 [^fedwiki]: As of the time of writing the reference Agora can't publish to fedwiki, but can import fedwikis into the Agora Commons as repositories.
 
