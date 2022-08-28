@@ -77,7 +77,7 @@ The Agora is inspired by the work of many. Here we mention some of the core infl
 - [[Silke Helfrich]] and [[David Bollier]], who extended on the previous and worked actively on a [[Pattern Language]] for the Commons.
 - [[Douglas Engelbart]], [[Alan Kay]] and [[Vannevar Bush]] among many others in the field of [[tools for thought]][^tft]. The Agora started essentially as a social [[memex]].
 - [[Tim Berners Lee]] for his work on the [[web]] and later on [[Solid]], which informs the Agora's approach to managing user data.
-- [[Ward Cunningham]] for developing the [[wiki]], his influence on the [[c2]] pattern repository, and his current work on [[fedwiki]], which explores many of the same patterns the Agora tries to explore in complementary ways[^fedwiki]].
+- [[Ward Cunningham]] for developing the [[wiki]], his influence on the [[c2]] pattern repository, and his current work on [[fedwiki]], which explores many of the same patterns the Agora tries to explore in complementary ways[^fedwiki].
 
 The reference Agora is a project with a pragmatic bent directed towards world improvement. It is a case study in [[protopian thinking]] directed towards global reform and revolution.
 
@@ -90,6 +90,7 @@ TODO: focus on praxis or commoning? Making the commons a higher level section wo
 
 [^tft]: As per Matuschak and Nielsen (2022), Kenneth Iverson seems to be the source of the currently dominant blanket term "[[tools for thought]]" -- although I can report he didn't use it in his seminal paper, preferring instead "[[tools of thought]]".
 [^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
+[^fedwiki]: As of the time of writing the reference Agora can't publish to fedwiki, but can import fedwikis into the Agora Commons as repositories.
 
 ## Terminology
 
