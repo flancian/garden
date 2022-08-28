@@ -139,7 +139,7 @@ If you are reading this book, you probably know Agora Protocol even before readi
 - [[Wikilinks]] designate entities as related to the annotated resource.
   - Wikilinks may be preferred when trying to encode sentences a particular typographical realization, as they seamlessly contain lossless [[unicode]] strings.
   
-On a pragmatic level:
+On a pragmatic level: if a person declares a space or conversation to be in an [[Agora]], it is in the Agora by definition.
 
 - [[Optimistic linking]] is encouraged.
   - Links that lead nowhere (currently) are encouraged.
