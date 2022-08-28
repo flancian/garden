@@ -222,7 +222,11 @@ An [[Agora]]'s [[root repository]] is a [[seed]] for an Agora. In the provided r
 [^comdef]: https://logicmag.io/commons/singular-plural/ (or https://anagora.org/go/singular+plural as of the time of writing.)
 [^root]: https://github.com/flancian/agora (or https://anagora.org/go/agora as of the time of writing.)
 
-## Personal intents
+## Intents
+
+An Agora contains collections of [[common]] and [[personal]] intents. 
+
+By becoming part of the reference Agora, users endorse [[common]] intents by default, but can [[opt out]] of any intents perceived as problematic. In addition they can contribute personal intents which can be endorsed by other users, thus becoming [[common]].
 
 The author proposes we use an Agora to define and extend Agora Protocol as a project in the [[commons]]. 
 
