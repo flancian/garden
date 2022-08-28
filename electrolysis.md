@@ -1,1 +1,1 @@
-- #pull https://unicode-table.com/en/21AF/
+- #go https://unicode-table.com/en/21AF/
