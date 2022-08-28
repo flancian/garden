@@ -1,4 +1,5 @@
 - a [[place]].
   - [[virtual]]
+  - #pull [[ladee]] [[flancian]]
   - in the [[agora]]?
     - maybe a [[stoa]]?
