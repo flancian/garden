@@ -86,7 +86,7 @@ The heart of an Agora is the [[Agora Commons]]. It is a [[digital commons]] to s
 
 The [[Triad of Commoning]] as described in [[Free, Fair and Alive]] can be seen to apply to the [[knowledge commons]] we would like to build here, and this informs the design of the [[Agora project]]:
 
-TODO (Diagram): [[Triad of Commoning]] as it maps to the triad of the [[Agora project]]: [[Agora Protocol]], [[Agora Platform]], [[Agora Commons]]? But the later sounds like a category mistake now. Or is the Agora just recursive? :) 
+TODO (Diagram): [[Triad of Commoning]] as it maps to the triad of the [[Agora project]]: [[Agora Protocol]], [[Agora Platform]], [[Agora Commons]]? But the later sounds like a category mistake now. Is the Agora just recursive? :) Maybe this works better if we just mention [[intents]].
 
 TODO (Text Structure): Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the [[Triad of Commoning]], etc. -- but maybe this has already happened, check/fix once we're in [[Google Docs]] as it'll probably be easier then.
 
