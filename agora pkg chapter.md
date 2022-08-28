@@ -73,13 +73,11 @@ The Agora can be defined most generally as a subset of the [[internet]][^web] us
 
 The Agora is inspired by the work of many. Here we mention some of the core influences.
 
-- [[Elinor Ostrom]], who pioneered the study of a well functioning [[commons]]. Her work resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents like the state to prevent the so-called [[Tragedy of the Commons]].
+- [[Elinor Ostrom]], who pioneered the study of a well functioning [[commons]]. Her work resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents like the state to prevent the so-called [[Tragedy of the Commons]]. Later in her career he explored the [[Knowledge Commons]] in particular in work which is equally influential.
+- [[Silke Helfrich]] and [[David Bollier]], who extended on the previous and worked actively on a [[Pattern Language]] for the Commons.
 - [[Douglas Engelbart]], [[Alan Kay]] and [[Vannevar Bush]] among many others in the field of [[tools for thought]][^tft]. The Agora started essentially as a social [[memex]].
-
-It builds on top of the open web, wiki culture and the social movements enabled by them.
-
-- #pull [[tim berners lee]] [[solid]] 
-- #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
+- [[Tim Berners Lee]] for his work on the [[web]] and later on [[Solid]], which informs the Agora's approach to managing user data.
+- [[Ward Cunningham]] for developing the [[wiki]], his influence on the [[c2]] pattern repository, and his current work on [[fedwiki]], which explores many of the same patterns the Agora tries to explore in complementary ways[^fedwiki]].
 
 The reference Agora is a project with a pragmatic bent directed towards world improvement. It is a case study in [[protopian thinking]] directed towards global reform and revolution.
 
