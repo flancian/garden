@@ -86,7 +86,9 @@ The heart of an Agora is the [[Agora Commons]]. It is a [[digital commons]] to s
 
 The [[Triad of Commoning]] as described in [[Free, Fair and Alive]] can be seen to apply to the [[knowledge commons]] we would like to build here, and this informs the design of the [[Agora project]]:
 
-TODO (Diagram): focus on praxis or commoning? Also making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the [[Triad of Commoning]], etc. -- but maybe this has already happened, check/fix once we're in [[Google Docs]] as it'll probably be easier then.
+TODO (Diagram): [[Triad of Commoning]] as it maps to the triad of the [[Agora project]]: [[Agora Protocol]], [[Agora Platform]], [[Agora Commons]]? But the later sounds like a category mistake now. Or is the Agora just recursive? :) 
+
+TODO (Text Structure): Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the [[Triad of Commoning]], etc. -- but maybe this has already happened, check/fix once we're in [[Google Docs]] as it'll probably be easier then.
 
 [^tft]: As per Matuschak and Nielsen (2022), Kenneth Iverson seems to be the source of the currently dominant blanket term "[[tools for thought]]" -- although I can report he didn't use it in his seminal paper, preferring instead "[[tools of thought]]". I use these two interchangeably, maybe preferring the latter due to it giving thought agency.
 [^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
