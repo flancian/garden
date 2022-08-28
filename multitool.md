@@ -1,0 +1,1 @@
+- The [[Agora]] is [[multitool]]: you can write to the Agora using any tool you want. The Agora only requires that you publish your data in one of the supported formats, but tries to otherwise be [[tool agnostic]].
