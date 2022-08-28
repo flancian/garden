@@ -141,6 +141,8 @@ If you are reading this book, you probably know Agora Protocol even before readi
   
 On a pragmatic level: if a person declares a public space or shared resource to be in an [[Agora]], it is in the Agora by definition. This extends to conversations in the real world.
 
+An Agora always links by default. Users can opt into automatic saving of resources, meaning storage of resources in a repository under the users' control.
+
 - [[Optimistic linking]] is encouraged.
   - Links that lead nowhere (currently) are encouraged.
     - In an Agora, the place they lead to by default includes resources written by others.
