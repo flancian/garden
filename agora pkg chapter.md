@@ -24,10 +24,9 @@
       - #pull [[agora]]
         - see if there's any phrasing there that can be reused here, this has drifted towards the technical and [[agora]] might have some nuggets?
         - [ ] rewrite/rethink sections for [[agora platform]] and [[agora commons]] (triad approach with [[agora protocol]]?).
-        - Is it too much to start with "The Agora is a [[protocol]], a social [[platform]] and a knowledge [[commons]]"?
       - [[agora protocol]]
-        - [x] write about go links
         - mention [[pull]], [[push]], [[go]] in RFC section?
+        - maybe link to [[feature requests]]
       - [[agora platform]]
         - add about [[opt in]] policy
         - add [[user data ownership]] model (repo per user to bootstrap)
