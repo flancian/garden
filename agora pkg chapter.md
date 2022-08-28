@@ -80,7 +80,6 @@ The Agora is inspired by the work of many. Here we mention some of the core infl
 - [[Chrisotpher Alexander]] for developing [[Patterning]] as a discipline.
 - [[Silke Helfrich]] and [[David Bollier]], who extended on the previous and worked actively on a [[Pattern Language]] for the Commons.
 - [[Murray Bookchin]] for developing [[municipalism]] and his vision for [[the revolution in the 21st century]].
-- [[p. m.]] for writing [[bolo bolo]].
 
 Finally, a [[caveat emptor]]: the [[reference Agora]] is highly [[idiosyncratic]]. It is [[linked]] to a pragmatic project directed towards world improvement, specifically an experiment in [[protopian thinking]] applied to [[global reform and revolution]]. This project tries to explore the full nature of the internet as it could be, using the [[tools]] at hand to work on pressing [[tasks]] as we try to optionally improve the world together. More concretely, [[Flancia]] is an exploration on the power of [[tools of thought]], including [[social media]], to advance [[altruism]] and other forms of [[loving kindness]], including [[rationality]].
 
@@ -543,6 +542,8 @@ Agoras can define mappings from these to URL schemes generalizing to isomorphic 
   - [[notes on the synthesis of form]] 
   - [[a pattern language]]
 - #pull [[how can we develop transformative tools for thought]]
+- #pull [[hans widmer]] 
+  - [[bolo bolo]]
 
 # Thanks and farewell
 
