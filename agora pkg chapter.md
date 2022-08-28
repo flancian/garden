@@ -67,7 +67,7 @@ We[^author] then cover experiments and potential applications in the [[academic]
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 [^protocol]: This section serves as a demonstration of text-based [[agora protocol]] which, in an Agora, will result in the entity mentioned above being transcluded due to the use of an Agora action ("pull", to bring a described resource into the current context.)
 
-# Background
+# Vision
 
 The Agora can be defined most generally as a subset of the [[internet]][^web] used consciously and towards a particular purpose. Slightly less generally, as per the above, it can be seen as a platform and a protocol for provisioning and maintaining a [[commons]] (initially digital) enabling a community to efficiently define and advance their goals. Because of these broad definitions and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
 
@@ -79,7 +79,7 @@ The Agora is inspired by the work of many. Here we mention some of the core infl
 - [[Tim Berners Lee]] for his work on the [[web]] and later on [[Solid]], which informs the Agora's approach to managing user data.
 - [[Ward Cunningham]] for developing the [[wiki]], his influence on the [[c2]] pattern repository, and his current work on [[fedwiki]], which explores many of the same patterns the Agora tries to explore in complementary ways[^fedwiki].
 
-Finally, a [[caveat emptor]]: the [[reference Agora]] is highly idiosyncratic; it is a project with a pragmatic bent directed towards world improvement, specifically an experiment in [[protopian thinking]] directed towards [[global reform and revolution]]. It tries to explore the full nature of the internet as it could be, using the tools at hand to exercise the tasks at hand as necessary as we try to optionally improve the world together.
+Finally, a [[caveat emptor]]: the [[reference Agora]] is highly [[idiosyncratic]]; it is a project with a pragmatic bent directed towards world improvement, specifically an experiment in [[protopian thinking]] directed towards [[global reform and revolution]]. It tries to explore the full nature of the internet as it could be, using the tools at hand to exercise the tasks at hand as necessary as we try to optionally improve the world together.
 
 - #pull [[social media]]
 - #pull [[effective altruism]] 
