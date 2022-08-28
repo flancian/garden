@@ -123,9 +123,7 @@ The Agora as a project is positioned at the intersection of the fields of [[comm
 
 The Agora is a social [[memex]].
 
-The Agora is an experiment which seeks to answer the following questions: 
-
-- What if, in the field of [[tools for thought]], [[multiplayer]] meant also [[multitool]]?
+The Agora is an experiment which seeks to answer the following question: what if, in the field of [[tools for thought]], [[multiplayer]] meant also [[multitool]]?
 
 ## Praxis
 
