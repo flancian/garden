@@ -237,20 +237,16 @@ These are sample intents of the [[author]]. They can be optionally endorsed by u
 - The author tries to [[cooperate]] with others [[pro socially]] by default.
 - The author tries to [[help]] others whenever possible.
 - #pull [[manifesto]]
-
-### Values
-
-- [[Data Sovereignty]] (see [[Data Ownership Model]] below for details.)
-- Sustainability.
-- Diversity.
-- Freedom.
-- Compassion.
-
-### Goals
-
-- A free, distributed internet.
-- Freedom of information.
-- A world without poverty or violence.
+- #push [[values]]
+  - [[Data Sovereignty]] (see [[Data Ownership Model]] for details.)
+  - Sustainability.
+  - Diversity.
+  - Freedom.
+  - Compassion.
+- #push [[goals]]
+  - A free, distributed internet.
+  - Freedom of information.
+  - A world without poverty or violence.
 
 ## Literate programming
 
