@@ -113,7 +113,7 @@ This project is of large scope and makes use of terminology from different field
 
 This section details intents, goals and values as they relate to the definition of an Agora on a high level.
 
-- The Agora is a platform for [[commoning]] based on a set of public [[intents]], which include declarations of [[goals]] and [[values]].
+- The Agora is a platform for [[commoning]] built on a set of public [[intents]], including declarations of [[goals]] and [[values]].
 - The Agora is a project for the betterment of the internet, potentially leading to the betterment of the world.
 - To join an Agora, you only need to say you want to join it.
 - If you tell an Agora about a resource you care about, the Agora will try to link it and optionally save it for you.
