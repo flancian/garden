@@ -1,2 +1,4 @@
 - a [[place]].
   - [[virtual]]
+  - in the [[agora]]?
+    - maybe a [[stoa]]?
