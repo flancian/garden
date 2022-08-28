@@ -44,35 +44,59 @@
         
 # Introduction
 
-In this [[chapter]] we describe the [[Agora]], a [[protocol]] and [[platform]] enabling a self-governing community to provision a [[knowledge commons]] for the [[public good]].
+In this [[chapter]] we describe the [[Agora]], a [[protocol]] and reference [[platform]] yielding a [[knowledge commons]] provisioned by a self-governing community. This commons is bootstrapped as a [[distributed knowledge graph]] assembled from off-the-shelf components, upholding the user's [[data sovereignty]] while supporting integration with a wide range of [[tools for thought]].
 
-The Agora as described in this article is just [[an Agora]], meaning it is just one possible implementation of the principles delineated here. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then in spirit.
-  
-A core aspect of [[this Agora]] is that its constituent [[distributed knowledge graph]] can be easily bootstrapped on a well-defined freely-available subset of the [[internet]]. The provided reference Agora can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] (including social), generalizing to arbitrary repositories. All data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice.
+The Agora as described in this article is just [[an Agora]], meaning it should be taken as a simple [[reference implementation]] of the principles delineated in this paper. Because the Agora-defining [[Agora protocol]] tries to build on common principles[^commoning] and incorporate conventions already in use at the time of writing, you will likely find that other Agoras already exist online and offline -- if not by name, then definitely in values and direction. When in doubt, the author[^author] likes to assume that all Agora-like entities we find will eventually be part of a greater [[confederated]] [[Agora network]]. Put another way, the reference Agora described here is just one possible seed from which an [[Agora network]] may grow.
 
-As hinted already, the Agora has multiple facets which we will try to explore throughout this article:
+A core aspect of the provided [[reference Agora]][^reference] is that its constituent [[distributed knowledge graph]] can be straightforwardly bootstrapped using just a well-defined freely-available subset of the [[internet]]. The provided software can already integrate crowdsourced sets of [[personal knowledge graphs]], [[digital gardens]], [[wikis]] and [[feeds]] of all kinds (including social), generalizing to arbitrary repositories maintained manually or via readily available [[tools for thought]] (both open and closed in nature). All supported data sources are retrieved and integrated using [[free software]], while still supporting production and editing with arbitrary tools of the users' choice.
 
-- A high level [[protocol]] designed to lower friction to information exchange and cooperation, mostly building on conventions already in use in knowledge oriented [[communities of practice]].
-- A [[free software]] [[reference implementation]] of a [[platform]] based on the principles delineated in this article, including a set of importers and converters for diverse [[sources]] and [[formats]], [[Agora endpoints]] implementing the [[Agora protocol]], and an integration layer and UI.
-- An example [[distributed knowledge graph]] provisioned using the tools above and maintained by the https://anagora.org [[community]].
+[^reference]: The reference Agora, https://anagora.org, is run by [[Flancia Collective]] as a free service for [[public good]].
 
-We will then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of this or some other free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
+As hinted above, the Agora is a project with multiple facets which we will try to explore in order in this paper: 
 
+- The high level [[Agora protocol]], which is designed to lower friction to information exchange and cooperation, mostly building on [[conventions]] and [[devices]] already in use within knowledge oriented [[communities of practice]] and supported by a variety of [[tools for thought]].
+- A [[free software]] [[reference implementation]] of an [[Agora platform]] based on the principles delineated in this article, including: a set of importers for diverse [[data sources]] and [[formats]]; an API with [[endpoints]] implementing the [[Agora protocol]]; and an integration layer serving as user interface to the [[knowledge graph]].
+- An example [[Agora commons]], being a [[distributed knowledge graph]] provisioned by an [[Agora community]] using the tools and concepts above. 
+
+The triad above fits together in a variety of ways that we will try to explore in relevant sections, but in a nutshell: [[Agora protocol]] can be used by the community while interacting with the [[Agora platform]] to provision entities, intents and services in the [[Agora commons]].
+
+We[^author] then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of a free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
+
+[^author]: Eduardo Ivanec, a.k.a. 'flancian', representing [[Flancia Collective]] and the [[Agora community]].
 [^commoning]: both commonsense and related to instances of [[commoning]].
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
 [^protocol]: This section serves as a demonstration of text-based [[agora protocol]] which, in an Agora, will result in the entity mentioned above being transcluded due to the use of an Agora action ("pull", to bring a described resource into the current context.)
 
 # Background
 
-- #meta TODO: this [[Agora protocol]] block is a MARKER for 'edited (up to?) around here in the last pass', move/delete as needed.
+The Agora can be defined most generally as a subset of the [[internet]][^web] used consciously and towards a particular purpose. Slightly less generally, as per the above, it can be seen as a platform and a protocol for provisioning and maintaining a [[commons]] (initially digital) enabling a community to efficiently define and advance their goals. Because of these broad definitions and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
 
-The Agora can be defined in a nutshell as a subset of the [[internet]][^web] used consciously towards a particular purpose. As mentioned previously, it can also be seen as both a platform and a protocol for provisioning and maintaining a [[knowledge commons]]. Because of both this wide definition and the wide applicability of the principles detailed in this article, the background required to put this effort in context is ample and fuzzily defined at the edges.
+This Agora is inspired by the pioneering work of Elinor Ostrom in the study of well functioning [[commons]], which resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents to prevent the so called [[Tragedy of the Commons]].
+
+It is also clearly inspired by the work of pioneers of [[tools for thinking]].
+
+- #pull [[vannevar bush]] [[memex]] 
+- #pull [[douglas engelbart]]
+
+It builds on top of the open web, wiki culture and the social movements enabled by them.
+
+- #pull [[tim berners lee]] [[solid]] 
+- #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
+
+The reference Agora is a project with a pragmatic bent directed towards world improvement. It is a case study in [[protopian thinking]] directed towards global reform and revolution.
+
+- #pull [[social media]]
+- #pull [[effective altruism]] 
+- #pull [[revolution]]
+
+TODO: focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the Triad of Commoning, etc.
+
 
 [^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
 
 ## Terminology
 
-This project is of very large scope and might make use of non standard terminology. To ease understanding, here we provide a short summary of key terms to follow.
+This project is of large scope and makes use of terminology from different fields, drawing from computer science, systems thinking and political theory. It also makes use of metaphors. To aid understanding, here we provide a short summary of key terms to follow.
 
 - [[Agora]]: a [[protocol]], a [[platform]], a [[commons]]. The [[noosphere]]. [[Internet]] as a tool held right.
 - [[Graph]]: the heart of the Agora. A distributed [[knowledge graph]] in particular, both explicitly and implicitly containing a variety of social graphs.
@@ -93,26 +117,6 @@ This section details goals and values as they relate to the definition of an Ago
 The Agora is a project for the betterment of the internet, potentially leading to the betterment of the world.                        
 
 The Agora as a project is positioned at the intersection of the fields of [[commoning]], [[patterning]] and [[knowledge management]].
-
-This Agora is inspired by the pioneering work of Elinor Ostrom and others in the study of well functioning [[commons]], which resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents to prevent the so called [[Tragedy of the Commons]].
-
-It is also clearly inspired by the work of pioneers of [[tools for thinking]].
-
-- #pull [[vannevar bush]] [[memex]] 
-- #pull [[douglas engelbart]]
-
-It builds on top of the open web, wiki culture and the social movements enabled by them.
-
-- #pull [[tim berners lee]] [[solid]] 
-- #pull [[ward cunningham]] [[wiki]] [[fedwiki]]
-
-Finally, an Agora is a project with a pragmatic bent directed towards world improvement through global reform or peaceful revolution.
-
-- #pull [[social media]]
-- #pull [[effective altruism]] 
-- #pull [[revolution]]
-
-TODO: focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the Triad of Commoning, etc.
 
 ## Praxis
 
