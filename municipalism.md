@@ -1,1 +1,1 @@
-- #pull [[the next revolution]] [[murray bookchin]]
+- #pull [[the next revolution]] [[murray bookchin]] [[communalism]]

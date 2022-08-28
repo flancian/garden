@@ -1,1 +1,1 @@
-- #pull [[murray bookchin]]
+- #pull [[murray bookchin]] [[municipalism]]
