@@ -82,7 +82,7 @@ Finally, a [[caveat emptor]]: the [[reference Agora]] is highly [[idiosyncratic]
 
 ## Agora Commons
 
-The heart of an Agora is the [[Agora Commons]]. It is a [[knowledge commons]] to start with, extending to an inclusive virtual and real [[commons]] able to support its associated communities materially.
+The heart of an Agora is the [[Agora Commons]]. It is a [[digital commons]] to start with, extending to an inclusive virtual and real [[commons]] able to support its associated communities materially.
 
 TODO (Diagram): focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the [[Triad of Commoning]], etc.
 
