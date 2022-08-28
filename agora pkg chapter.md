@@ -116,6 +116,8 @@ This section details goals and values as they relate to the definition of an Ago
 The Agora is a project for the betterment of the internet, potentially leading to the betterment of the world.                        
 To join an Agora, you only need to say you want to join it.
 
+If you tell an Agora about a resource you care about, the Agora will try to link it and optionally save it for you.
+
 The Agora as a project is positioned at the intersection of the fields of [[commoning]], [[patterning]] and [[knowledge management]].
 
 The Agora is a social [[memex]].
