@@ -6,6 +6,5 @@
       - this is why I am against [[copyright]] in general.
       - whatever can be copied for free can be freely shared and is thus trivially part of the [[commons]].
 - a [[list]].
-  - the [[agora]].
-  - (you can add items in the [[stoa]] below)
-
+  - (you can #push examples here or write them in the [[stoa]] below).
+  - an [[agora]].
