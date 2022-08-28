@@ -1,6 +1,6 @@
 - an [[article]].
   - written for [[pkg book]].
-  - #go https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?ouid=108434364308226960620&usp=docs_home&ths=true
+  - #go https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?usp=sharing
   - #pull [[agora pkg chapter]] ~ [[agora chapter]] (these might converge, I use them in different contexts)
   - #pull https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit#heading=h.lxyhsegwtr4m
     - [x] should work, try iframes with [[google docs]]
