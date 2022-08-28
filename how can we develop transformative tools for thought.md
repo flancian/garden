@@ -1,6 +1,6 @@
 - an [[article]].
   - #pull [[how can we develop transformative tools for thought?]]
-  - by [[andy mathuschak]] and [[michael nilsen]]
+  - by [[andy mathuschak]] and [[michael nielsen]]
   - #go https://numinous.productions/ttft
   - [[references]]
     - [[alan kay]] #1989
