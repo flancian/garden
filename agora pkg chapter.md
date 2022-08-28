@@ -83,6 +83,11 @@ The Agora is inspired by the work of many. Here we mention some of the core infl
 
 Finally, a [[caveat emptor]]: the [[reference Agora]] is highly [[idiosyncratic]]. It is [[linked]] to a pragmatic project directed towards world improvement, specifically an experiment in [[protopian thinking]] applied to [[global reform and revolution]]. This project tries to explore the full nature of the internet as it could be, using the [[tools]] at hand to work on pressing [[tasks]] as we try to optionally improve the world together. More concretely, [[Flancia]] is an exploration on the power of [[tools of thought]], including [[social media]], to advance [[altruism]] and other forms of [[loving kindness]], including [[rationality]].
 
+
+## Agora Commons
+
+The heart on an Agora is the [[Agora Commons]].
+
 TODO: focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the Triad of Commoning, etc.
 
 [^tft]: As per Matuschak and Nielsen (2022), Kenneth Iverson seems to be the source of the currently dominant blanket term "[[tools for thought]]" -- although I can report he didn't use it in his seminal paper, preferring instead "[[tools of thought]]".
