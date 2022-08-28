@@ -121,6 +121,10 @@ The Agora is a project for the betterment of the internet, potentially leading t
 
 The Agora as a project is positioned at the intersection of the fields of [[commoning]], [[patterning]] and [[knowledge management]].
 
+The Agora is a social [[memex]].
+
+The Agora arises to answer the following question: what if, in the field of [[tools for thought]], [[multiplayer]] meant also [[multitool]]?
+
 ## Praxis
 
 The Agora is a platform for shared [[praxis]] based on a set of public [[intents]], which include declarations of [[goals]] and [[values]].
