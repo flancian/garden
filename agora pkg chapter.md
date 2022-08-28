@@ -311,6 +311,8 @@ The primary utility of Go Links, regardless of implementation details, is high. 
 
 #push takes a [[node]], a [[node/heterarchy]] or a URL. The meaning of pushing to a node is to publish the blocks or context in the destination node; the reference Agora publishes them in a similar format to local resources, either preceding them or after them depending on configuration. The meaning of pushing to a heterarchy (or "path") is to request attaching the resource or context at a point of insertion identified by the heterarchy as an anchor, if one is found (essentially allowing to fine tune placement).
 
+In an Agora, section headings may push the whole section to mentioned nodes.
+
 ## [[Stoas]]
 A resource can be declared a [[Stoa]] by tagging it as such. This marks it as a resource meant for [[cooperation]] or [[commoning]].
 
