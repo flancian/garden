@@ -128,7 +128,7 @@ With this tool the Agora community can embark on shared projects. The author, as
 
 Let us use [[Agora Protocol]] if we may.
 
-This section describes a [[protocol]] for publicly defining sets of [[conventions]] and [[intents]] that can be said to define an Agora. An Agora is a public space that defines itself as such and follows an explicit variation of the Agora Protocol.
+This section describes a [[protocol]] for publicly defining sets of [[intents]] that can be said to define an Agora. An Agora is a public space that defines itself as such and follows an explicit variation of the Agora Protocol by [[convention]].
 
 In text format, Agora Protocol is a series of typographical conventions that allow users to link and annotate resources regardless of the medium. Annotating here stands for encoding metadata and personal meaning in resources in a way conducive to be later decoded in an Agora-like [[context]].
 
