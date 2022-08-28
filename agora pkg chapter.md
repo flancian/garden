@@ -124,7 +124,7 @@ In the terms of the [[Knowledge Futures Group]], the [[reference Agora]] is a sy
 
 With this tool the Agora community can embark on shared projects. The author, as one member of the [[Agora community]], would like to propose (offer) a series of [[projects]] as public collections of [[intents]] in the [[commons]].
 
-# #push [[Agora Protocol]]
+# [[Agora Protocol]]
 
 Let us use [[Agora Protocol]] if we may.
 
