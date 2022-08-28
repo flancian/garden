@@ -139,7 +139,7 @@ If you are reading this book, you probably know Agora Protocol even before readi
 - [[Wikilinks]] designate entities as related to the annotated resource.
   - Wikilinks may be preferred when trying to encode sentences a particular typographical realization, as they seamlessly contain lossless [[unicode]] strings.
   
-On a pragmatic level: if a person declares a public space or shared resource to be in an [[Agora]], it is in the Agora by definition. This extends to conversations in the real world.
+On a pragmatic level: if a person declares a public space or shared resource to be in an [[Agora]], it is in the Agora by definition. This extends to conversations in the real world. Agora Protocol is parsed by every Agora.
 
 An Agora always links by default. Users can opt into automatic saving of resources, meaning storage of resources in a repository under the users' (preferred) or an Agora's control.
 
