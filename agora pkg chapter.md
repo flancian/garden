@@ -60,8 +60,11 @@ The triad above fits together in a variety of ways that we will try to explore i
 We[^author] then cover experiments and potential applications in the [[academic]], [[social]] and [[political]] domains assuming the availability and widespread adoption of a free [[knowledge commons]]. This is done in the form of a series of short reports and exploratory essays.
 
 [^author]: Eduardo Ivanec, a.k.a. 'flancian', representing [[Flancia Collective]] and the [[Agora community]].
+
 [^commoning]: both commonsense and related to instances of [[commoning]].
+
 [^chorus]: it is an expression of the [[pattern]] [[chorus of voices]].
+
 [^protocol]: This section serves as a demonstration of text-based [[agora protocol]] which, in an Agora, will result in the entity mentioned above being transcluded due to the use of an Agora action ("pull", to bring a described resource into the current context.)
 
 # Vision
@@ -91,7 +94,9 @@ TODO (Diagram): [[Triad of Commoning]] as it maps to the triad of the [[Agora pr
 TODO (Text Structure): Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the [[Triad of Commoning]], etc. -- but maybe this has already happened, check/fix once we're in [[Google Docs]] as it'll probably be easier then.
 
 [^tft]: As per Matuschak and Nielsen (2022), Kenneth Iverson seems to be the source of the currently dominant blanket term "[[tools for thought]]" -- although I can report he didn't use it in his seminal paper, preferring instead "[[tools of thought]]". I use these two interchangeably, maybe preferring the latter due to it giving thought agency.
+
 [^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
+
 [^fedwiki]: As of the time of writing the reference Agora can't publish to fedwiki, but can import fedwikis into the Agora Commons as repositories.
 
 ## Terminology
@@ -165,6 +170,7 @@ Note that outlines plus [[linking]] seem sufficient to encode thoughts and struc
 Next we describe how [[Agora Protocol]] can help provision an [[Agora Platform]] which integrates pro-socially with the wider internet ecosystem, and how a community could use both to run experiments on distributed thought.
 
 [^blockrefs]: Hypothesis: [[Block References]] are suboptimal as [[cognitive devices]] due to being [[competitive]], whereas user generated IDs and encoded structure can be [[complementary]].
+
 [^complexity]: indentation is sufficient
 
 # Agora Platform
@@ -224,6 +230,7 @@ An [[Agora]]'s [[root repository]] is a [[seed]] for an Agora. In the provided r
 - A `README.md` file containing instructions on how to provision an Agora using the above and free software.
 
 [^comdef]: https://logicmag.io/commons/singular-plural/ (or https://anagora.org/go/singular+plural as of the time of writing.)
+
 [^root]: https://github.com/flancian/agora (or https://anagora.org/go/agora as of the time of writing.)
 
 ## Intents
