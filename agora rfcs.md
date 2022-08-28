@@ -1,5 +1,4 @@
-# agora rfcs
-
-- [[pull]] [[agora rfc]]
-- #push [[agora rfcs]] to add proposal
+- a [[list]].
+  - #push here to add proposal
+  - #pull [[agora rfc]] [[feature requests]]
 

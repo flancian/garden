@@ -233,7 +233,7 @@ These are sample intents of the [[author]]. They can be optionally endorsed by u
 - The author proposes we use an Agora to define and extend Agora Protocol as a project in the [[commons]]. 
 - The author tries to follow the [[principle of charity]].
 - The author tries to use [[Agora protocol]] to communicate with clarity.
-- The author offers to extend [[agora protocol]] with [[agora rfcs]].
+- The author proposes we extend [[Agora Protocol]] with [[feature requests]] contributed to node [[agora rfcs]] and those pulled.
 - The author tries to [[cooperate]] with others [[pro socially]] by default.
 - The author tries to [[help]] others whenever possible.
 - #pull [[manifesto]]
