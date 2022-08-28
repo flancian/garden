@@ -1,1 +1,4 @@
-- #pull [[Flancia]]
+- a [[list]].
+  - #pull [[story]]
+  - #pull [[Flancia]]
+  - #pull [[Agora]]
