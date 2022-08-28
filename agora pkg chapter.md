@@ -81,7 +81,7 @@ The Agora is inspired by the work of many. Here we mention some of the core infl
 - [[Silke Helfrich]] and [[David Bollier]], who extended on the previous and worked actively on a [[Pattern Language]] for the Commons.
 - [[Murray Bookchin]] for developing [[munipalism]] in his vision for [[the revolution in the 21st century]].
 
-Finally, a [[caveat emptor]]: the [[reference Agora]] is highly [[idiosyncratic]]; it is a project with a pragmatic bent directed towards world improvement, specifically an experiment in [[protopian thinking]] directed towards [[global reform and revolution]]. It tries to explore the full nature of the internet as it could be, using the tools at hand to exercise the tasks at hand as necessary as we try to optionally improve the world together.
+Finally, a [[caveat emptor]]: the [[reference Agora]] is highly [[idiosyncratic]]. It is [[linked]] to a pragmatic project directed towards world improvement, specifically an experiment in [[protopian thinking]] applied to [[global reform and revolution]]. This project tries to explore the full nature of the internet as it could be, using the tools at hand to exercise the tasks at hand as necessary as we try to optionally improve the world together.
 
 - #pull [[social media]]
 - #pull [[effective altruism]] 

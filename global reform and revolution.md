@@ -1,1 +1,1 @@
-- #pull [[flancia]] [[confederalism]]
+- #pull [[flancia]] [[confederalism]] [[adversarial interoperability]]
