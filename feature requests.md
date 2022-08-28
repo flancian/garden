@@ -1,6 +1,6 @@
 # Feature Requests
 
-- [[push]] [[agora-plan]]
+- #push [[agora-plan]]
 
 ## [[codex]]
 - https://twitter.com/codexeditor/status/1377475227978883074
