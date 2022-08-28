@@ -122,15 +122,15 @@ An [[Agora]] tries to meet the user where they are. As a service in the internet
 
 In the terms of the [[Knowledge Futures Group]], the [[reference Agora]] is a system that provisions an [[overlay]] (demo at https://anagora.org) querying an [[interlay]] ([[go/agora]], the [[Agora Commons]]) integrating [[repositories]] from a primarily [[git]] based [[underlay]].
 
-With this tool the Agora community can embark on shared projects. The author, as one member of the [[Agora community]], would like to propose (offer) a series of potential [[projects]] as public collection of [[intents]] in the [[commons]].
+With this tool the Agora community can embark on shared projects. The author, as one member of the [[Agora community]], would like to propose (offer) a series of [[projects]] as public collections of [[intents]] in the [[commons]].
 
-# [[Agora Protocol]]
+# #push [[Agora Protocol]]
 
 Let us use [[Agora Protocol]] if we may.
 
 This section describes a [[protocol]] for publicly defining sets of [[intents]] that can be said to define an Agora. An Agora is a public space that defines itself as such and follows an explicit variation of the Agora Protocol by [[convention]].
 
-In text format, Agora Protocol is a series of typographical conventions that allow users to link and annotate resources regardless of the medium. Annotating here stands for encoding metadata and personal meaning in resources in a way conducive to be later decoded in an Agora-like [[context]].
+In text format, [[Agora Protocol]] is a series of typographical conventions that allow users to link and annotate resources regardless of the medium. Annotating here stands for encoding metadata and personal meaning in resources in a way conducive to be later decoded in an Agora-like [[context]].
 
 If you are reading this book, you probably know Agora Protocol even before reading about it; it is meant to reflect and build on existing practices in the personal knowledge management space, like:
 
