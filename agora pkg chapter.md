@@ -125,7 +125,7 @@ An [[Agora]] tries to meet the user where they are. As a service in the internet
 
 In the terms of the [[Knowledge Futures Group]], the [[reference Agora]] is a system that provisions an [[overlay]] (demo at https://anagora.org) querying an [[interlay]] ([[go/agora]], the [[Agora Commons]]) integrating [[repositories]] from a primarily [[git]] based [[underlay]].
 
-With this tool the Agora community can embark on shared projects. The author, as one member of the [[agora community]], would like to propose (offer) a series of [[projects]] as a collection of public [[intents]].
+With this tool the Agora community can embark on shared projects. The author, as one member of a nascent [[Agora community]], would like to propose (offer) a series of potential [[projects]] in the [[commons]] as a collection of public [[intents]].
 
 Let us use Agora Protocol if you may.
 
