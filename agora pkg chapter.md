@@ -74,7 +74,7 @@ The Agora is inspired by the work of many. Here we mention some of the core infl
 - [[Douglas Engelbart]], [[Alan Kay]] and [[Vannevar Bush]] among many others in the field of [[tools for thought]][^tft]. The Agora started essentially as a social [[memex]].
 - [[Tim Berners Lee]] for his work on the [[web]] and later on [[Solid]], which informs the Agora's approach to managing user data.
 - [[Ward Cunningham]] for developing the [[wiki]], his influence on the [[c2]] pattern repository, and his current work on [[fedwiki]], which explores many of the same patterns the Agora tries to explore in complementary ways[^fedwiki].
-- [[Chrisotpher Alexander]] for developing [[Patterning]] as a discipline.
+- [[Chrisotpher Alexander]] for developing [[Patterning]] as a discipline. The reference Agora, like the original wiki, tries to be a [[pattern repository]].
 - [[Silke Helfrich]] and [[David Bollier]], who extended on the previous and worked actively on a [[Pattern Language]] for the Commons.
 - [[Murray Bookchin]] for developing [[municipalism]] and his vision for [[the revolution in the 21st century]].
 
