@@ -74,7 +74,7 @@ The Agora can be defined most generally as a subset of the [[internet]][^web] us
 The Agora is inspired by the work of many. Here we mention some of the core influences.
 
 - [[Elinor Ostrom]], who pioneered the study of a well functioning [[commons]]. Her work resulted in dispelling the once dominant position that [[commons]] must be taken over by centralized agents like the state to prevent the so-called [[Tragedy of the Commons]].
-- [[Douglas Engelbart]] and [[Vannevar Bush]]. The Agora started essentially as a social [[memex]].
+- [[Douglas Engelbart]], [[Alan Kay]] and [[Vannevar Bush]] among many others in the field of [[tools for thought]][^tft]. The Agora started essentially as a social [[memex]].
 
 It is also clearly inspired by the work of pioneers of [[tools for thinking]].
 
@@ -95,6 +95,7 @@ The reference Agora is a project with a pragmatic bent directed towards world im
 TODO: focus on praxis or commoning? Making the commons a higher level section would probably clarify the structure a bit, allow me to bring in the Triad of Commoning, etc.
 
 
+[^tft]: As per Matuschak and Nielsen (2022).
 [^web]: Or [[Web]]? See literature for most common term, likely web due to ties to the [[semantic web]] if nothing else.
 
 ## Terminology
