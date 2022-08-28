@@ -113,18 +113,17 @@ This project is of large scope and makes use of terminology from different field
 
 This section details intents, goals and values as they relate to the definition of an Agora on a high level.
 
-- The Agora is a platform for [[commoning]] built on a set of public [[intents]], including declarations of [[goals]] and [[values]].
-- The Agora is a project for the betterment of the internet, potentially leading to the betterment of the world.
+- The Agora is a [[project]] for the betterment of the internet, potentially leading to the betterment of the world.
 - To join an Agora, you only need to say you want to join it.
+- The Agora is a platform for [[commoning]] built on a set of public [[intents]], including declarations of [[goals]] and [[values]].
 - If you tell an Agora about a resource you care about, the Agora will try to link it and optionally save it for you.
 - The Agora as a project is positioned at the intersection of the fields of [[commoning]], [[patterning]] and [[knowledge management]].
 - The Agora is a social [[memex]].
 - The Agora is an experiment which seeks to answer the following question: what if, in the field of [[tools for thought]], [[multiplayer]] meant also [[multitool]]?
 
-
 An [[Agora]] tries to meet the user where they are. As a service in the internet, you don't sign up to an Agora: you sign in. Albeit the reference Agora is based firmly on [[web 1]] principles and core [[web]] protocols and architectural styles like [[http]], [[rdf]] and [[rest]], it also includes partial implementation of [[social]] protocols like [[activitypub]] which affords it a basic level of integration with the [[Fediverse]] and Twitter[^twitter].
 
-The [[Agora]] provisions an [[overlay]] (demo at https://anagora.org) querying an [[interlay]] ([[go/agora]]) integrating [[repositories]] as [[underlay]].
+In the terms of the [[Knowledge Futures Group]], the [[reference Agora]] is a system that provisions an [[overlay]] (demo at https://anagora.org) querying an [[interlay]] ([[go/agora]], the [[Agora Commons]]) integrating [[repositories]] from a primarily [[git]] based [[underlay]].
 
 With this tool the Agora community can embark on shared projects. The author, as one member of the [[agora community]], would like to propose (offer) a series of [[projects]] as a collection of public [[intents]].
 
