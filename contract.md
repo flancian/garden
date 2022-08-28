@@ -1,4 +1,3 @@
-# CONTRACT
 - I endorse the base [[contract]] of this Agora (which is just [[an agora]]): https://anagora.org.
 - My [[intents]] and [[values]] as explicit [[lists]] of assertions; they can be assumed to include my declarations of [[knowledge]] and [[belief]] as expressed in [[notes]] and [[resources]] volunteered to this [[Agora]].
 - In my particular case these assertions are sometimes organized in [[trees]] and [[graphs]] using the structured allowances given by this [[agora]] as modelled in [[agora paper]], [[agora protocol]] and [[agora rfcs]].
@@ -8,8 +7,9 @@
 			- In [[Flancia]] there is no [[poverty]].
 			- In [[Flancia]] there is no [[privilege]].
 			- In [[Flancia]] we will [[meet]].
-- Through this [[Agora]] I try to contribute to the development of a freer, open, progressive global society and projects or [[public utility]].
-- Because I am unskillful, I need your help. I am open to any [[feedback]] anytime. I am active on social media.
-	- https://twitter.com/flancian/status/1360327797034651650
-	- https://twitter.com/flancian/status/1360326738480418820
-	- https://twitter.com/flancian/status/1357031412914864131
+  - Through this [[Agora]] I try to contribute to the development of a freer, open, progressive global society and projects or [[public utility]].
+  - Because I am unskillful, I need your help. I am open to any [[feedback]] anytime. I am active on social media.
+- [[twitter]]
+  - https://twitter.com/flancian/status/1360327797034651650
+  - https://twitter.com/flancian/status/1360326738480418820
+  - https://twitter.com/flancian/status/1357031412914864131
