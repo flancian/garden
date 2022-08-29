@@ -1,4 +1,5 @@
 - a [[paper]].
+  - As of [[2022-08-30]] the source of truth for this has moved to the Google Doc: [[go/agora doc]] ~ https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
   - #push As of [[2022-07-24]] being produced as the draft for a [[pkg book]] [[chapter]].
     - Very much looking forward to the book because of others' contributions!
     - See other chapters in https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs.
