@@ -3,6 +3,7 @@
   - #pull [[hipertrofia subvalvular aórtica con obstrucción al tracto de salida]]
     - "desde que nació tuvo un soplo, pero más adelante al detectarlo le dijeron que no era peligroso"
     - "estaba medicado con atenolol"
+    - "Cuesta Silva le recomendó que no se operara"
 
 "Me muero."
 
