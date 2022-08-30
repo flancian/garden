@@ -9,7 +9,7 @@ Después una muerte fulminante.
 
 Mäs temprano tuvo visiones? Reportó ver a un vecino que había muerto, a mi abuelo muerto. Tuvo o simuló tener conversaciones.
 
-Predijo que yo ganaría un premio en España (?).
+Predijo que yo ganaría un premio en España (?). Quizás porque le gustó una composición que escribí para el colegio.
 
 Dos médicos en su pasado: el Dr. Colon y el Dr. Diamante. La ayuda tardó en venir.
 
