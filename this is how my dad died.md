@@ -1,5 +1,6 @@
 - #pull [[1995-07-08]]
   - I remember it to be a Saturday.
+  - #pull [[hipertrofia subvalvular aórtica con obstrucción al tracto de salida]]
 
 "Me muero."
 
