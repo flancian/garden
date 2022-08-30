@@ -9,6 +9,6 @@ Después una muerte fulminante.
 
 Mäs temprano tuvo visiones?
 
-Dos médicos en su pasado: el Dr. Colon y el Dr. Diamante.
+Dos médicos en su pasado: el Dr. Colon y el Dr. Diamante. La ayuda tardó en venir.
 
 En un momento le hicieron una traqueotomía.
