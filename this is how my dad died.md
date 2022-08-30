@@ -4,3 +4,5 @@
 "Me muero."
 
 "Dejame boludo que estoy bien."
+
+Mäs temprano tuvo visiones?
