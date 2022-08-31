@@ -32,6 +32,8 @@
     - [[outreachy]]
     - [[topcoder]] [[thrive]] https://www.topcoder.com/thrive
       - [[500 words]] articles
+  - #push [[python]]
+    - [[networkx]] https://en.wikipedia.org/wiki/NetworkX
 
 # [[2022-08-19]]
 - Greetings!
