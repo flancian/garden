@@ -8,8 +8,10 @@
 - [[revolution]] and [[global reform]]
   - [[tracy chapman]] uses revolution as standing for [[empowerment]]
   - Start small, build for one person, built an island of [[positive deviation]]
-  - Bottom up approach is preferable
-  - [[st]] "wasted" time 
+  - Bottom up approach is preferable over grand visions (paraphrasing)
+  - [[st]] "wasted" time
+    - [[global reform]] doesn't seem doable
+    - think globally, act locally
 
 # [[2022-08-19]]
 - Greetings!
