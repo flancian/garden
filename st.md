@@ -8,6 +8,8 @@
 - [[revolution]] and [[global reform]]
   - [[tracy chapman]] uses revolution as standing for [[empowerment]]
   - Start small, build for one person, built an island of [[positive deviation]]
+  - Bottom up approach is preferable
+  - [[st]] "wasted" time 
 
 # [[2022-08-19]]
 - Greetings!
