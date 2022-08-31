@@ -28,7 +28,10 @@
     - [[parallel polis]]
   - #push [[mitchel resnick]]
     - "[[scratch]] is an [[agora]] for [[children]]"
-  - [[outreachy]]
+  - #push [[funding]] open source projects
+    - [[outreachy]]
+    - [[topcoder]] [[thrive]] https://www.topcoder.com/thrive
+      - [[500 words]] articles
 
 # [[2022-08-19]]
 - Greetings!
