@@ -47,4 +47,15 @@ Towards this number I've not counted the 1.5h of solid coworking with [[bouncepa
 I noded [[writing pomodoro]], which is one of a kind I'm about to do.
 
 --
+
 Back here on the [[2022-08-28]], happy for it. [[Working in public]] with friends! A [[dream]] come true.
+
+--
+
+Back here on the [[2022-08-31]]. Yesterday I stayed up late finish work before holidays. Today I'm focusing on [[agora doc]], the deliverable for [[agora pkg chapter]].
+
+Did a diagram in [[excalidraw]], checked some references, discussed some feedback with [[st]] in the morning.
+
+Now on to edit for one pomodoro :)
+
+--
