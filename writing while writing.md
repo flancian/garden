@@ -59,3 +59,5 @@ Did a diagram in [[excalidraw]], checked some references, discussed some feedbac
 Now on to edit for one pomodoro :)
 
 --
+
+[[agora diagrams]] is improving, I'm happy about it. I shared one with [[ladee]] and [[agora discuss]].
