@@ -12,6 +12,7 @@
   - [[st]] "wasted" time
     - [[global reform]] doesn't seem doable
     - think globally, act locally
+    - build alternatives
 
 # [[2022-08-19]]
 - Greetings!
