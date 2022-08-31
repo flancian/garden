@@ -17,6 +17,9 @@
     - how to define [[better]]
   - [[institute for the future]]
   - there's 'argue against', 'push back' and other relatively negatively framed
+  - #push [[paulo freire]]
+    - [[problem setting]] ~ [[problem posing]]
+    - education is the resistance
 
 # [[2022-08-19]]
 - Greetings!
