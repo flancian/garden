@@ -20,6 +20,7 @@
   - #push [[paulo freire]]
     - [[problem setting]] ~ [[problem posing]]
     - education is the resistance, it is [[empowerment]]
+  - [[revolution]] vs [[evolution]]
 
 # [[2022-08-19]]
 - Greetings!
