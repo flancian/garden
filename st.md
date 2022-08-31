@@ -27,6 +27,7 @@
   - #push [[dual power]]
     - [[parallel polis]]
   - "[[scratch]] is an [[agora]] for [[children]]"
+    - [[mitchel resnick]]
 
 # [[2022-08-19]]
 - Greetings!
