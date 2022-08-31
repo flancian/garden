@@ -1,1 +1,1 @@
-- #pull [[agora graph]] [[agora architecture]]
+- #pull [[agora graph]] [[agora architecture]] [[agora diagrams]]
