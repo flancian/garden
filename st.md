@@ -28,6 +28,7 @@
     - [[parallel polis]]
   - #push [[mitchel resnick]]
     - "[[scratch]] is an [[agora]] for [[children]]"
+  - [[outreachy]]
 
 # [[2022-08-19]]
 - Greetings!
