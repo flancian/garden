@@ -1,10 +1,15 @@
 # Agora
 
 - A [[protocol]].
-  - #pull [[agora protocol]].
-- Helping us define a [[commons]].
+  - #pull [[agora protocol]]
+- A [[platform]].
+  - #pull [[agora platform]]
+- A [[graph]].
+  - #pull [[agora graph]]
+- A [[commons]].
   - **The Agora is a distributed knowledge graph and experimental social network.**
-    - See [[go/agora-slides]] if you'd like a 10' introduction to the key concepts.
+    - See [[go/agora slides]] if you'd like a 10' introduction to the key concepts.
+    - See [[go/agora doc]] if you have half an hour :)
   - The [[agora]] you're likely reading this in, `anagora.org`, is just one of many. 
     - Anyone can run [[an Agora]] of their own if they so desire. This Agora is [[open source]]: [[go/agora]].
     - To [[sign up]] for the Agora, which means volunteering your writing and media to it, please consult [[agora editor]].
