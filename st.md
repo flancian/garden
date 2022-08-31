@@ -3,6 +3,8 @@
   - I have the feeling we'll be [[friends]].
 
 # [[2022-08-31]]
+- [[agora doc]]
+  - Thank you so much for the review and feedback!
 - [[tracy chapman]]
 
 # [[2022-08-19]]
