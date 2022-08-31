@@ -6,7 +6,7 @@
 - [[agora doc]]
   - Thank you so much for the review and feedback!
 - [[revolution]] and [[global reform]]
-  - [[tracy chapman]] uses revolution as a way 
+  - [[tracy chapman]] uses revolution as standing for [[empowerment]]
   - Start small, build for one person, built an island of [[positive deviation]]
 
 # [[2022-08-19]]
