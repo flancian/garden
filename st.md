@@ -21,6 +21,8 @@
     - [[problem setting]] ~ [[problem posing]]
     - education is the resistance, it is [[empowerment]]
   - [[revolution]] vs [[evolution]]
+    - [[jihad]]
+      - [[greater jihad]] ~ fighting with yourself to be better
 
 # [[2022-08-19]]
 - Greetings!
