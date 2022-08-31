@@ -1,3 +1,3 @@
 - a [[workspace]]
   - in [[excalidraw]]
-  - #go https://app.excalidraw.com/o/6zTCWKQBxvG/private
+  - #go https://app.excalidraw.com/o/6zTCWKQBxvG/6DlS1x0JQLJ
