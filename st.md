@@ -15,7 +15,7 @@
     - think globally, act locally
     - build alternatives
     - how to define [[better]]
-  - 
+  - [[institute for the future]]
 
 # [[2022-08-19]]
 - Greetings!
