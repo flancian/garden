@@ -7,6 +7,7 @@
   - Thank you so much for the review and feedback!
 - [[revolution]] and [[global reform]]
   - [[tracy chapman]] uses revolution as standing for [[empowerment]]
+    - [[heaven's here on earth]]
   - Start small, build for one person, built an island of [[positive deviation]]
   - Bottom up approach is preferable over grand visions (paraphrasing)
   - [[st]] "wasted" time
