@@ -26,8 +26,8 @@
       - [[smaller jihad]] ~ fighting others
   - #push [[dual power]]
     - [[parallel polis]]
-  - "[[scratch]] is an [[agora]] for [[children]]"
-    - [[mitchel resnick]]
+  - #push [[mitchel resnick]]
+    - "[[scratch]] is an [[agora]] for [[children]]"
 
 # [[2022-08-19]]
 - Greetings!
