@@ -14,6 +14,7 @@
     - [[global reform]] doesn't seem doable
     - think globally, act locally
     - build alternatives
+    - how to define [[better]]
 
 # [[2022-08-19]]
 - Greetings!
