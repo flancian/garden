@@ -1,7 +1,9 @@
 - a [[book]].
   - #go https://personalknowledgegraphs.com/
 	- [[twitter]] https://twitter.com/PkgBook
-	- Being organized by [[ivo velitchkov]] and [[george anadiotis]] == [[linked do]]
+  - [[submission guidelines]] https://personalknowledgegraphs.com/#/page/chapter%20submission%20guidelines
+	- Being organized by [[Ivo velitchkov]] and [[george anadiotis]] == [[linked do]]
+    - Now (2022-08) also [[Rob Worth]].
 	- #pull [[pkm book]]
     - I mistakenly referred to it as [[pkm book]] for a while.
 	- submitted an [[agora abstract]]
