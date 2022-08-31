@@ -24,6 +24,8 @@
     - #push [[jihad]]
       - [[greater jihad]] ~ fighting with yourself to be better
       - [[smaller jihad]] ~ fighting others
+  - #push [[dual power]]
+    - [[parallel polis]]
 
 # [[2022-08-19]]
 - Greetings!
