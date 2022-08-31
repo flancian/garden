@@ -9,18 +9,20 @@
 - A [[commons]].
   - **The Agora is a distributed knowledge graph and experimental social network.**
     - See [[go/agora slides]] if you'd like a 10' introduction to the key concepts.
-    - See [[go/agora doc]] if you have half an hour :)
-  - The [[agora]] you're likely reading this in, `anagora.org`, is just one of many. 
+    - See [[go/agora doc]] if you are interested and have half an hour :)
+  - The [[Agora]] you're likely reading this in, `anagora.org`, is designed to be just one of many. 
     - Anyone can run [[an Agora]] of their own if they so desire. This Agora is [[open source]]: [[go/agora]].
     - To [[sign up]] for the Agora, which means volunteering your writing and media to it, please consult [[agora editor]].
-    - The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know. Through projects such as [[agora twitter integration]], we hope to make the Agora available to anyone that has access to a social network account. If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016). If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
-    - This [[agora]] is in [[social media]]. 
+    - The Agora wants to be [[maximally inclusive]], but it is in its infancy; it is a [[work in progress]]. If you want to participate and can't, please also send email to signup@anagora.org to let us know. 
+    - Through projects such as [[Agora bridge]], we hope to make the Agora available to anyone that has access to a [[digital garden]] or a social media account. 
+    - Follow an [[agora bot]] if you'd like to contribute to this Agora from [[social media]]: 
       - [[mastodon]] https://botsin.space/@agora 
       - [[twitter]] https://twitter.com/an_agora
+    - If you want to learn more about the [[experimental]] nature of this Agora, please refer to [this Hacker News comment](https://news.ycombinator.com/item?id=25577016). If you want to keep up to date with development, consider adding me on Twitter or Mastodon: [[flancian]].
   - Agoras are spaces kept by communities with [[good intent]] while expressing explicit [[goals]] and open [[protocols]]. 
     - This section, made up of items in a [[markdown]] list, is an example of an Agora protocol. 
     - This [[agora protocol]] is a set of simple conventions on top of [[plain text]] or other [[supported formats]].
-    - #pull [[agora howto]] [[an agora]]
+    - #pull [[agora howto]] [[an agora]] [[agora doc]]
     - [[git]] https://github.com/flancian/agora
       - [[root]] https://github.com/flancian/agora
       - [[server]] https://github.com/flancian/agora-server
