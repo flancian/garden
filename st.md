@@ -5,7 +5,9 @@
 # [[2022-08-31]]
 - [[agora doc]]
   - Thank you so much for the review and feedback!
-- [[tracy chapman]]
+- [[revolution]] and [[global reform]]
+  - [[tracy chapman]] uses revolution as a way 
+  - Start small, build for one person, built an island of [[positive deviation]]
 
 # [[2022-08-19]]
 - Greetings!
