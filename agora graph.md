@@ -1,8 +1,7 @@
-# agora graph
-
 - a [[thing]].
   - [[distributed knowledge graph]].
   - The heart of an [[Agora commons]].
+  - See [[agora doc]].
 - a [[project]].
   - I want to graph both the Agora as a whole and the context of a node in the agora, as per [[agora ui]]. This requires:
   - create a branch. Done: 'graph'.
