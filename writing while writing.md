@@ -72,4 +72,8 @@ The term [[data sovereignty]] as per [[wp]] seems to be mostly taken over alread
 
 -> [[digital self-determination]], already noded by [[neil]] :D
 
+
+(As I write this I listen to [[prizewinning]] by [[Juliana Barwick]].)
+
 --
+
