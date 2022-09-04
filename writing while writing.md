@@ -77,3 +77,5 @@ The term [[data sovereignty]] as per [[wp]] seems to be mostly taken over alread
 
 --
 
+[[agora graph]]
+
