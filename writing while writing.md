@@ -65,3 +65,7 @@ Now on to edit for one pomodoro :)
 --
 
 Here again on [[2022-09-04]] while on the train to Lisbon. There's plenty to do, enough that I could feel overwhelmed, but somehow I mostly feel happy instead. I have this 2h (remaining) trip in front of me and I'll try to make the most of it.
+
+--
+
+The term [[data sovereignty]] as per [[wp]] seems to be mostly taken over already by states?
