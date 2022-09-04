@@ -69,3 +69,7 @@ Here again on [[2022-09-04]] while on the train to Lisbon. There's plenty to do,
 --
 
 The term [[data sovereignty]] as per [[wp]] seems to be mostly taken over already by states?
+
+-> [[digital self-determination]], already noded by [[neil]] :D
+
+--
