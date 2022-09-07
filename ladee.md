@@ -1,5 +1,5 @@
 - a [[person]].
-  - [[friend]].
+  - [[friend]]
   - [[fediverse]] @ladee@framapiaf.org
     - [[framapiaf]] is such a beautiful domain!
   - she's really something.
