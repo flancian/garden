@@ -1,4 +1,6 @@
 - #push [[other agoras]]
-  - [[agora of flancia]] ~ https://anagora.org
-  - [[shamanic agora]] being built
-  - [[social coop agora]] being considered (at least by me!)
+  - explicitly defined as such:
+    - [[agora of flancia]] ~ https://anagora.org
+    - [[shamanic agora]] being built
+    - [[ogm agora]] currently having the form of [[open global mind]]'s [[mattermost]]
+    - [[social.coop agora]] being considered (at least by me!)
