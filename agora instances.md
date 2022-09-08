@@ -4,3 +4,5 @@
     - [[shamanic agora]] being built
     - [[ogm agora]] currently having the form of [[open global mind]]'s [[mattermost]]
     - [[social.coop agora]] being considered (at least by me!)
+  - implicitly, aligning in values
+    - other listed in [[other agoras]], [[agoras]] and such
