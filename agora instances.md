@@ -1,0 +1,4 @@
+- #push [[other agoras]]
+  - [[agora of flancia]] ~ https://anagora.org
+  - [[shamanic agora]] being built
+  - [[social coop agora]] being considered (at least by me!)
