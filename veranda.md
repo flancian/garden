@@ -3,5 +3,6 @@
     - #pull [[virtual veranda]]
   - #pull [[ladee]] [[flancian]]
   - #go https://develop.element.io/?updated=9a6de19e9d77-react-736d8dfec730-js-3e37c7426420#/room/!tDDGUdrxXCHWTcLKyX:matrix.org
+  - [[meet]] https://meet.google.com/byc-tnon-icn
   - in the [[agora]]?
     - maybe a [[stoa]]?
