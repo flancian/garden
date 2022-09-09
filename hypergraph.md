@@ -1,7 +1,7 @@
 # Hypergraph
 
 - a [[thing]].
-  - a [[graph]] with [[annotated edges]], a graph with edges which connect more or less than two nodes (?).
+  - a [[graph]] with [[annotated edges]], a graph with edges which connect an arbitrary number of nodes.
   - #go https://en.wikipedia.org/wiki/Hypergraph
   - An [[Agora]] is a [[hypergraph]].
   - [[jonathan]] https://golem.ph.utexas.edu/category/2018/02/hypergraph_categories_of_cospa.html
