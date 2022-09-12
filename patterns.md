@@ -1,8 +1,7 @@
 # patterns
 
 - a [[list]].
-  - [[map]]
-  - [[
+  - #push [[map]]
 	- #pull [[pattern]] 
   - #pull [[a pattern language]] [[free, fair and alive]]
 	- #push [[a pattern language]]
