@@ -1,3 +1,6 @@
 - an [[agora]].
   - This [[Agora]], https://anagora.org, is an [[Agora of Flancia]].
-  - This means it counts as its goals to get all willing parties closer to [[Flancia]] [[non-violently]].
+  - This means: 
+    - It contains a free [[knowledge commons]].
+    - It is set up for [[world improvement]].
+    - It counts as its goals to get all willing parties closer to [[Flancia]] [[non-violently]].
