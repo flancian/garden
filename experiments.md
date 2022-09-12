@@ -1,10 +1,10 @@
 - a [[list]].
   - #pull [[experiment]]
-  - [[flancia]]
-    - of experiments and [[applications]] being tracked or driven by this [[Agora]].
-      - #push [[agora of flancia]]
-        - [[basic income]]
-        - [[liquid democracy]]
-        - [[adversarial interoperability]]
-        - [[node club]]
-        - [[flancia social impact]]
+  - of experiments and [[applications]] being tracked or driven by this [[Agora]].
+    - #push [[agora of flancia]]
+      - [[flancia]]
+      - [[basic income]]
+      - [[liquid democracy]]
+      - [[adversarial interoperability]]
+      - [[node club]]
+      - [[flancia social impact]]
