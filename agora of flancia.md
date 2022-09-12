@@ -3,7 +3,7 @@
   - This means: 
     - It contains a free [[knowledge commons]].
       - It is set up for [[world improvement]].
-      - It is a repository of [[patterns]].
+      - It contains a repository of [[patterns]].
         - It counts as its goals to get all willing parties closer to [[Flancia]] [[non-violently]].
         - It is a platform for [[fractal altruism]].
           - It is a device for exploring social reform experiments like [[basic income]] and [[liquid democracy]].
