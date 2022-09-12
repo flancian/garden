@@ -5,5 +5,6 @@
       - [[agora of flancia]]
         - [[basic income]]
         - [[liquid democracy]]
+        - [[adversarial interoperability]]
       - [[node club]]
       - [[flancia social impact]]
