@@ -3,4 +3,6 @@
   - This means: 
     - It contains a free [[knowledge commons]].
     - It is set up for [[world improvement]].
+      - It is a repository of [[patterns]].
       - It counts as its goals to get all willing parties closer to [[Flancia]] [[non-violently]].
+      - It is a platform for implementing [[liquid democracy]].
