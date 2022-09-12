@@ -5,4 +5,4 @@
     - It contains a free [[knowledge commons]].
       - It contains a repository of [[patterns]] for [[world improvement]].
         - It is a platform for practicing [[loving kindness]] and [[fractal altruism]].
-        - It is a narrative device exploring social reform experiments like [[basic income]] and [[liquid democracy]].
+        - It is a device for exploring social reform experiments like [[basic income]] and [[liquid democracy]].
