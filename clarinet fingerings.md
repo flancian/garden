@@ -1,1 +1,3 @@
-- #go https://www.penders.com/t-clarinet-fingering-chart.aspx
+- #pull [[penders]] 
+  - https://www.penders.com/t-clarinet-fingering-chart.aspx
+    - #go https://www.penders.com/images/ClarinetFingeringChartPrintable.pdf
