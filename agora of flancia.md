@@ -1,8 +1,8 @@
 - an [[agora]].
   - This [[Agora]], https://anagora.org, is an [[Agora of Flancia]].
   - This means: 
+    - It counts as its goals to get all willing parties closer to [[Flancia]] [[non-violently]].
     - It contains a free [[knowledge commons]].
       - It contains a repository of [[patterns]] for [[world improvement]].
-        - It counts as its goals to get all willing parties closer to [[Flancia]] [[non-violently]].
         - It is a platform for [[fractal altruism]].
-          - It is a device for exploring social reform experiments like [[basic income]] and [[liquid democracy]].
+        - It is a device for exploring social reform experiments like [[basic income]] and [[liquid democracy]].
