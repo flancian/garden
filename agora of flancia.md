@@ -5,4 +5,5 @@
     - It is set up for [[world improvement]].
       - It is a repository of [[patterns]].
       - It counts as its goals to get all willing parties closer to [[Flancia]] [[non-violently]].
-      - It is a platform for exploring social reform experiments like [[fractal altruism]], [[basic income]] and [[liquid democracy]].
+      - It is a platform for [[fractal altruism]].
+      - It is a platform for exploring social reform experiments like [[basic income]] and [[liquid democracy]].
