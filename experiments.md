@@ -1,7 +1,7 @@
 - a [[list]].
   - #pull [[experiment]]
   - [[flancia]]
-    - of experiments being tracked or driven by this [[Agora]].
+    - of experiments and [[applications]] being tracked or driven by this [[Agora]].
       - #push [[agora of flancia]]
         - [[basic income]]
         - [[liquid democracy]]
