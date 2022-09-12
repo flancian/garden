@@ -1,6 +1,10 @@
 # patterns
+
 - a [[list]].
-	- #pull [[pattern]] [[a pattern language]]
+  - [[map]]
+  - [[
+	- #pull [[pattern]] 
+  - #pull [[a pattern language]] [[free, fair and alive]]
 	- #push [[a pattern language]]
 		- #1 [[independent regions]]
 		- #2 [[the distribution of towns]]
