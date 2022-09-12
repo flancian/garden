@@ -1,6 +1,8 @@
-# Flancia
-- In [[Flancia]] there is an [[Agora]]!
-	- In the Agora you can find maps of Flancia.
+- a [[book]].
+  - You're currently reading it.
+  - This section is in [[Agora]] Protocol. Feel free to skip such sections if they distract you.
+  - Here's the deal: In [[Flancia]] there is an [[Agora]].
+    - In the [[Agora of Flancia]] you can find free maps of Flancia everywhere.
 	- #pull https://flancia.org
 - a [[place]].
 	- a [[protopia]]
