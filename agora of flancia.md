@@ -1,2 +1,3 @@
-- This [[Agora]], https://anagora.org, is an [[Agora of Flancia]].
+- an [[agora]].
+  - This [[Agora]], https://anagora.org, is an [[Agora of Flancia]].
   - This means it counts as its goals to get all willing parties closer to [[Flancia]] [[non-violently]].
