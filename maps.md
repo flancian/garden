@@ -1,0 +1,4 @@
+- #push [[agora maps]]
+  - [[map of flancia]]
+  - [[map of the fediverse]]
+  - [[map of tools for thought]]
