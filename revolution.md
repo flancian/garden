@@ -1,6 +1,6 @@
 - a [[process]].
-	- #go]https://en.wikipedia.org/wiki/Revolution
-		- [[quote]] a revolution (Latin: revolutio, "a turn around") is a [[fundamental]] and [[relatively sudden]] change in [[political power]] and political organization which occurs [[when the population revolts against the government]], typically due to perceived [[oppression]] (political, social, economic) or political incompetence.
+	- #go https://en.wikipedia.org/wiki/Revolution
+		- #q a revolution (Latin: revolutio, "a turn around") is a [[fundamental]] and [[relatively sudden]] change in [[political power]] and political organization which occurs [[when the population revolts against the government]], typically due to perceived [[oppression]] (political, social, economic) or political incompetence.
 	- #push [[revolutions]]
     - #pull [[Murray Bookchin]] would likely be my default delegate for matters pertaining to [[revolution]] in a [[liquid democracy]] system.
     - Given that he's dead, when in doubt, I ask [[@neil]] and the [[Agora]] :)
