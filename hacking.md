@@ -1,2 +1,3 @@
 - I've been thinking of keeping a [[plan]] file, like Carmack and many Unix folks behind him.
   - To some extent my plan file already exists but is distributed through this [[Agora]].
+  - #pull [[do]] [[plan]] [[agora plan]] [[goals]] [[intents]] [[values]] [[flancia]] [[revolution]] [[next action]] [[later]]
