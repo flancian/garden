@@ -21,4 +21,7 @@
       - #q But causal invariance has other consequences too. One of them is that there should be an analog of special relativity that applies not in spacetime but in branchtime. The reference frames of special relativity are now our quantum observation frames. And the analog of speed in physical space is the rate of entangling new quantum states. 
         - which is related to the [[quantum zeno effect]].
       - #q The speed of light c is a fundamental physical constant that relates distance in physical space to time. In our models, there’s now a new fundamental physical constant: the maximum entanglement speed, that relates distance in branchial space to time. I call this maximum entanglement speed ζ (zeta) (ζ looks a bit like a “tangled c”). I’m not sure what its value is, but a possible estimate is that it corresponds to entangling about 10102 new quantum states per second. And in a sense the fact that this is so big is why we’re normally able to “form classical thoughts”.
+    - What if there are multiple rules in our universe?
+      - #q In what we’ve discussed so far we’re imagining that there’s a particular, single rule for our universe, that gets applied over and over again, effectively in all possible ways. But what if there wasn’t just one rule that could be used? What if all conceivable rules could be used? What if every updating event could just use any possible rule? (Notice that in a finite universe, there are only ever finitely many rules that can ever apply.)
+      - [[dust universe]] theory link, maybe?
 
