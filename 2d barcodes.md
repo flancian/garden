@@ -1,0 +1,5 @@
+- a [[list]].
+  - [[qr code]]
+  - [[aztec code]]
+  - [[maxicode]]
+  - [[data matrix]] up to 2.3k chars
