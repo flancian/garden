@@ -1,0 +1,7 @@
+- a [[project]].
+  - led by [[stephen wolfram]]
+  - recommended by:
+    - [[stephen wolfram]] ;)
+    - maybe [[lex fridman]] with their impressive multi hour podcast together.
+    - [[xiq]]
+  - #go https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
