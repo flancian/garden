@@ -25,5 +25,5 @@
       - #q Or could it be that in some fundamental sense it doesn’t matter what the rules for the universe are: that to observers embedded in a universe, operating according to the same rules as that universe, the conclusions about how the universe works will always be the same?
       - #q In what we’ve discussed so far we’re imagining that there’s a particular, single rule for our universe, that gets applied over and over again, effectively in all possible ways. But what if there wasn’t just one rule that could be used? What if all conceivable rules could be used? What if every updating event could just use any possible rule? (Notice that in a finite universe, there are only ever finitely many rules that can ever apply.)
       - leads to [[rule space]]
-      - [[dust universe]] theory link, maybe?
+      - [[greg egan]]'s [[dust universe]] link, maybe?
 
