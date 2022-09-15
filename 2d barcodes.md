@@ -7,5 +7,6 @@
     - [[SPARQCode]]
     - [[PDF417]]
   - [[color]]
+    - #pull [[color qr]]
     - [[jab]]
     - [[hccb]]
