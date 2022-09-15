@@ -4,14 +4,14 @@
     - [[stephen wolfram]] ;)
     - maybe [[lex fridman]] with their impressive multi hour podcast together.
     - [[xiq]]
-  - #go https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
   - #technical https://www.wolframphysics.org/technical-introduction/potential-relation-to-physics/cosmology-expansion-and-singularities/
   - #paper https://arxiv.org/abs/2004.08210
-  - [[hypergraphs]]
-  - [[relativity]]
-  - [[quantum physics]] "The Inevitability of Quantum Mechanics" https://hyp.is/DyQ-ADUGEe2WSqvaokeu7w/writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
-  - [[oligons]]
-  - [[branchial space]]
-    - According to Wolfram the [[uncertainty principle]] is due to curvature in [[branchial space]]
-    - In the same space, the [[Einstein equations]] are the [[path integral]] (?)
+  - #go https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
+    - [[hypergraphs]]
+    - [[relativity]]
+    - [[quantum physics]] "The Inevitability of Quantum Mechanics" https://hyp.is/DyQ-ADUGEe2WSqvaokeu7w/writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
+    - [[oligons]]
+    - [[branchial space]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-concept-of-branchial-graphs/
+      - According to Wolfram the [[uncertainty principle]] is due to curvature in [[branchial space]]
+      - In the same space, the [[Einstein equations]] are the [[path integral]] (?)
 
