@@ -8,13 +8,14 @@
   - #paper https://arxiv.org/abs/2004.08210
   - #go https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
     - [[hypergraphs]]
-    - [[causal invariance]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-phenomenon-of-causal-invariance/
-    - [[multiway graphs]]
-      - [[causal graphs]]
-        - [[black holes]] are disconnections in the causal graph
+    - [[physical space]]
+      - [[causal invariance]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-phenomenon-of-causal-invariance/
+      - [[multiway graphs]]
+        - [[causal graphs]]
+          - [[black holes]] are disconnections in the causal graph
     - [[relativity]]
     - [[quantum physics]] "The Inevitability of Quantum Mechanics" https://hyp.is/DyQ-ADUGEe2WSqvaokeu7w/writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
-    - [[oligons]]
+      - [[oligons]]
     - [[branchial space]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-concept-of-branchial-graphs/
       - According to Wolfram the [[uncertainty principle]] is due to curvature in [[branchial space]]
       - In the same space, the [[Einstein equations]] are the [[path integral]] (?)
@@ -24,6 +25,7 @@
     - What if there are multiple rules in our universe?
       - #q Or could it be that in some fundamental sense it doesn’t matter what the rules for the universe are: that to observers embedded in a universe, operating according to the same rules as that universe, the conclusions about how the universe works will always be the same?
       - #q In what we’ve discussed so far we’re imagining that there’s a particular, single rule for our universe, that gets applied over and over again, effectively in all possible ways. But what if there wasn’t just one rule that could be used? What if all conceivable rules could be used? What if every updating event could just use any possible rule? (Notice that in a finite universe, there are only ever finitely many rules that can ever apply.)
-      - leads to [[rule space]]
       - [[greg egan]]'s [[dust universe]] link, maybe?
+      - leads to [[rule space]]
+    - [[rule space]]
 
