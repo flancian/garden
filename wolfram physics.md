@@ -8,6 +8,8 @@
   - #paper https://arxiv.org/abs/2004.08210
   - #go https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
     - [[hypergraphs]]
+    - [[causal invariance]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-phenomenon-of-causal-invariance/
+    - [[multiway graphs]]
     - [[relativity]]
     - [[quantum physics]] "The Inevitability of Quantum Mechanics" https://hyp.is/DyQ-ADUGEe2WSqvaokeu7w/writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
     - [[oligons]]
