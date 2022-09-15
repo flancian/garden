@@ -13,5 +13,5 @@
   - [[oligons]]
   - [[branchial space]]
     - According to Wolfram the [[uncertainty principle]] is due to curvature in [[branchial space]]
-    - In the same space, the [[Einstein equations]] are the [[path integral]]
+    - In the same space, the [[Einstein equations]] are the [[path integral]] (?)
 
