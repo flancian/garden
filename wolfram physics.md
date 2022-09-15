@@ -18,5 +18,7 @@
     - [[branchial space]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-concept-of-branchial-graphs/
       - According to Wolfram the [[uncertainty principle]] is due to curvature in [[branchial space]]
       - In the same space, the [[Einstein equations]] are the [[path integral]] (?)
-      - #q "But causal invariance has other consequences too. One of them is that there should be an analog of special relativity that applies not in spacetime but in branchtime. The reference frames of special relativity are now our quantum observation frames. And the analog of speed in physical space is the rate of entangling new quantum states." which is related to the [[quantum zeno effect]].
+      - #q But causal invariance has other consequences too. One of them is that there should be an analog of special relativity that applies not in spacetime but in branchtime. The reference frames of special relativity are now our quantum observation frames. And the analog of speed in physical space is the rate of entangling new quantum states. 
+        - which is related to the [[quantum zeno effect]].
+      - #q The speed of light c is a fundamental physical constant that relates distance in physical space to time. In our models, there’s now a new fundamental physical constant: the maximum entanglement speed, that relates distance in branchial space to time. I call this maximum entanglement speed ζ (zeta) (ζ looks a bit like a “tangled c”). I’m not sure what its value is, but a possible estimate is that it corresponds to entangling about 10102 new quantum states per second. And in a sense the fact that this is so big is why we’re normally able to “form classical thoughts”.
 
