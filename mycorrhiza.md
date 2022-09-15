@@ -1,5 +1,7 @@
 # mycorrhiza
 
+- a [[system]].
+  - [[symbiotic]] association between a [[fungus]] and a [[plant]].
 - a [[project]].
   - [[wiki]]
   - [[bouncepaw]]
