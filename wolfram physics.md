@@ -10,6 +10,8 @@
     - [[hypergraphs]]
     - [[causal invariance]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-phenomenon-of-causal-invariance/
     - [[multiway graphs]]
+      - [[causal graphs]]
+        - [[black holes]] are disconnections in the causal graph
     - [[relativity]]
     - [[quantum physics]] "The Inevitability of Quantum Mechanics" https://hyp.is/DyQ-ADUGEe2WSqvaokeu7w/writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
     - [[oligons]]
