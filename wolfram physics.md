@@ -12,4 +12,5 @@
   - [[quantum physics]] "The Inevitability of Quantum Mechanics" https://hyp.is/DyQ-ADUGEe2WSqvaokeu7w/writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
   - [[oligons]]
   - [[branchial space]]
+    - According to Wolfram the [[uncertainty principle]] is due to curvature in [[branchial space]]
 
