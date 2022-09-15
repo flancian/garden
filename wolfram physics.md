@@ -28,4 +28,5 @@
       - [[greg egan]]'s [[dust universe]] link, maybe?
       - leads to [[rule space]]
     - [[rule space]]
+      - #q It’s a strange but rather appealing picture. The universe is effectively using all possible rules. But as entities embedded in the universe, we’re picking a particular foliation (or sequence of reference frames) to make sense of what’s happening. And that choice of foliation corresponds to a description language which gives us our particular way of describing the universe.
 
