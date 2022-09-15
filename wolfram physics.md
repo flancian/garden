@@ -16,5 +16,5 @@
     - [[branchial space]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-concept-of-branchial-graphs/
       - According to Wolfram the [[uncertainty principle]] is due to curvature in [[branchial space]]
       - In the same space, the [[Einstein equations]] are the [[path integral]] (?)
-      - #q "But causal invariance has other consequences too. One of them is that there should be an analog of special relativity that applies not in spacetime but in branchtime. The reference frames of special relativity are now our quantum observation frames. And the analog of speed in physical space is the rate of entangling new quantum states."
+      - #q "But causal invariance has other consequences too. One of them is that there should be an analog of special relativity that applies not in spacetime but in branchtime. The reference frames of special relativity are now our quantum observation frames. And the analog of speed in physical space is the rate of entangling new quantum states." which is related to the [[quantum zeno effect]].
 
