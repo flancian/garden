@@ -5,3 +5,9 @@
     - maybe [[lex fridman]] with their impressive multi hour podcast together.
     - [[xiq]]
   - #go https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
+    - [[hypergraphs]]
+    - [[relativity]]
+    - [[quantum physics]]
+    - [[oligons]]
+  - #technical https://www.wolframphysics.org/technical-introduction/potential-relation-to-physics/cosmology-expansion-and-singularities/
+  - #paper https://arxiv.org/abs/2004.08210
