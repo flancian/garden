@@ -58,3 +58,9 @@ Then use template syntax (see https://www.chezmoi.io/user-guide/templating/#simp
 
 Note that you need to edit the file with chezmoi edit every time essentially, unless you intend to get conflicts later. It seems like a fair tradeoff to me.
 
+An example from my sway config:
+
+```
+
+```
+
