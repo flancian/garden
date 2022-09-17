@@ -5,6 +5,7 @@
   - #start https://www.chezmoi.io/quick-start/
   - #push [[2022-05-26]] 
     - [[refusing to merge unrelated histories]]
+  - See update below for the TLDR on how to use templates.
 
 Example from my initial upload:
 
@@ -44,5 +45,16 @@ git commit -a -m "chezmoi from $HOSTNAME"
 git push
 ```
 
-[[Chezmoi]] supports [[templates]] to special-case files depending on the host they're being installed in, but I haven't experimented with them yet.
+[[Chezmoi]] supports [[templates]] to special-case files depending on the host they're being installed in.
+
+To apply a template to an already tracked file, e.g. .config/sway/config (in my case):
+
+```
+chezmoi chattr +template .config/sway/config
+chezmoi edit .config/sway/config
+```
+
+Then use template syntax (see https://www.chezmoi.io/user-guide/templating/#simple-logic for the gist of it if you're interested in per-hostname cases, which is what I was after) and then use `chezmoi apply` to "run" the template and produce the file in any host.
+
+Note that you need to edit the file with chezmoi edit every time essentially, unless you intend to get conflicts later. It seems like a fair tradeoff to me.
 
