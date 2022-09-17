@@ -56,7 +56,7 @@ chezmoi edit .config/sway/config
 
 Then use template syntax (see https://www.chezmoi.io/user-guide/templating/#simple-logic for the gist of it if you're interested in per-hostname cases, which is what I was after) and then use `chezmoi apply` to "run" the template and produce the file in any host.
 
-Note that you need to edit the file with chezmoi edit every time essentially, unless you intend to get conflicts later. It seems like a fair tradeoff to me.
+Note that after that you need to edit the file with `chezmoi edit` every time essentially, unless you intend to get conflicts later. It seems like a fair tradeoff.
 
 An example from my sway config which shows the syntax for if .. else if .. else:
 
