@@ -58,9 +58,15 @@ Then use template syntax (see https://www.chezmoi.io/user-guide/templating/#simp
 
 Note that you need to edit the file with chezmoi edit every time essentially, unless you intend to get conflicts later. It seems like a fair tradeoff to me.
 
-An example from my sway config:
+An example from my sway config which shows the syntax for if .. else if .. else:
 
 ```
-
+{{ if eq .chezmoi.hostname "nostromo" }}
+set $focused #b43757
+{{ else if eq .chezmoi.hostname "paramita" }}
+set $focused #472dbc
+{{ else }}
+set $focused #b46b37
+{{ end }}
 ```
 
