@@ -69,4 +69,3 @@ set $focused #472dbc
 set $focused #b46b37
 {{ end }}
 ```
-
