@@ -1,0 +1,3 @@
+- a [[book]].
+    - by [[murray bookchin]].
+    - #go https://theanarchistlibrary.org/library/murray-bookchin-the-third-revolution
