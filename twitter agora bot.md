@@ -1,0 +1,3 @@
+- [[agora twitter bot]]
+  - I use many variations on these terms :)
+  - They should all [[autopush]] each other, but they don't as of the time of writing.
