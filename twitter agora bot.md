@@ -1,0 +1,6 @@
+- [[agora twitter bot]]
+  - I use many variations on these terms :)
+  - They should all [[autopush]] each other, but they don't as of the time of writing.
+  - #push [[autopush]]
+    - reinstate combinatorial approach
+    - maybe keep the complexity down with the strategy [[bucket of words]] :)
