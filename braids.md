@@ -1,0 +1,84 @@
+- a [[game]].
+	- not to be confused with [[braid]] -- which is amazing by the way.
+	- Braids is a solitaire/coop game I think I may have invented :)
+	- It goes like this:
+		- you [[count]], from zero up.
+			- I do this while meditating, but that's optional, I guess.
+				- unless we're always meditating?
+					- ([[buddha nature]] and all)
+				- or we're entities programmed to do so.
+		- as you count, you visualize the [[number]].
+			- I do a version of [[box breathing]].
+				- It helps me reach [[samatha]].
+				- as I [[breathe in]], I count [[up]] the side of a square 👆
+				- as I hold, I traverse a lateral edge ▶
+				- as I [[breathe out]], I try to [[factorize]] the number if I want and I [[go down]] 👇
+				- as I am yet not breathing in, I optionally rest as I [[go left]] ◀️
+			- I start at [[0]] and move up according to three default rules:
+				- increase the number by one
+					- so after [[1]] comes [[2]]
+				- increase one of its [[factors]] by one and multiply
+					- this is equivalent to the above for a [[prime]], it reduces to the rule above
+					- the choice can be made to encode a number by convention, like order
+				- extra rules can be agreed and numbered
+			- a braid is what players achieve by counting up to a certain number through different paths
+        - player 0
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+            - 2 2
+          - 5
+          - 6
+            - 2 3
+          - 7
+          - 8
+            - 2 2 2
+          - 9
+            - 3 3
+          - 10
+            - 2 5
+          - 12
+            - 2 2 3
+          - 13
+          - 14
+            - 2 7
+          - 15
+            - 3 5
+              - 3 6
+          - 16
+            - 2 2 2 2
+          - [[17]]
+          - 18
+            - 2 3 3
+          - 19
+				- player 1
+					- 0
+					- 1
+					- 2
+					- 3
+					- 4
+						- 2 2
+					- 5
+					- 6
+						- 2 3
+					- 7
+					- 8
+						- 2 2 2
+					- 9
+						- 3 3
+					- 10
+						- 2 5
+					- 12
+						- 2 2 3
+					- 13
+					- 14
+						- 2 7
+					- 15
+						- 3 5
+							- 3 6
+					- 18
+						- 2 3 3
+          - 19
+

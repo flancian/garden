@@ -1,24 +1,28 @@
-# Revolution
 - a [[process]].
-	- #pull [[revolutions]]
-	- [[political action]] [[disruptive]]
-		- ocassionally, but not necessarily in the end, [[disruptive]]?
-			- my current best known proposal is the [[flancia revolution]], which is designed to be reasonably all-optional (see below)
-	- [[wp]] https://en.wikipedia.org/wiki/Revolution
-		- [[quote]] a revolution (Latin: revolutio, "a turn around") is a [[fundamental]] and [[relatively sudden]] change in [[political power]] and political organization which occurs [[when the population revolts against the government]], typically due to perceived [[oppression]] (political, social, economic) or political incompetence.
-	- [[aristotle]] describes two types of [[political revolution]]:
-		- [[complete change]] from one [[constitution]] to another
-		- [[modification]] of an existing constitution.
-	- #pull  [[peter singer]] [[frederick engels]] [[karl marx]] [[hans widmer]]
-	- #pull [[buddha]] [[satyagraha]] [[non violence]]
-- Flancia is meant to be a [[loving kindness]] revolution.
-	- #push [[revolution in the twenty first century]]
-		- I like to think of [[flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
-			- [[protopoi]] is the [[space]] of composable [[atomic revolutions]]; rational and well meaning changes for the better.
-				- we can [[explore]] this space together, and to do so it is that I set out to build [[an agora]].
-				- I am a [[flancian]] and this [[agora]] contains my [[manifesto]].
-			- In Flancia they used the [[internet]] to build a global [[commons]].
-				- #pull [[knowledge commons]] [[internet]]
-	- https://twitter.com/flancian/status/1368252143338192898
-	- https://twitter.com/flancian/status/1462091524985045001
-- #pull [[internationals]] [[free, fair and alive]] [[patterns]]
+	- #go https://en.wikipedia.org/wiki/Revolution
+		- #q a revolution (Latin: revolutio, "a turn around") is a [[fundamental]] and [[relatively sudden]] change in [[political power]] and political organization which occurs [[when the population revolts against the government]], typically due to perceived [[oppression]] (political, social, economic) or political incompetence.
+	- #push [[revolutions]]
+    - #pull [[Murray Bookchin]] would likely be my default delegate for matters pertaining to [[revolution]] in a [[liquid democracy]] system.
+    - Given that he's dead, when in doubt, I ask [[@neil]] and the [[Agora]] :)
+    - My current personal proposal is the [[Flancian Revolution]], which is designed to be constructive and optional and is based on the patterns of [[Federation]], [[Commoning]] and [[Dual Power]].
+    - Flancia is meant to be a revolution guided by [[loving kindness]].
+      - In Flancia there is no [[poverty]].
+      - In Flancia there is no [[homelessness]].
+      - In Flancia there is no [[violence]].
+      - In [[Flancia]] we will [[meet]]!
+    - In Flancia we slayed [[Moloch]], and by that I mean we [[disentangled]] from them.
+      - I am a [[Flancian]] and this [[Agora]] contains my [[manifesto]].
+	- [[Aristotle]] describes two types of [[political revolution]]:
+		- [[Complete change]] from one [[constitution]] to another
+		- [[Modification]] of an existing constitution.
+  - In Flancia the [[internet]] yielded a thriving [[knowledge commons]] for humanity through the ages.
+    - I like to think of [[Flancia]] as the world as it could be, improved through a series of [[peaceful]] revolutions.
+    - #push [[Protopoi]] is the [[space]] of composable [[incremental improvements]]; rational and well meaning changes that can be chained or composed for the betterment of the world.
+      - We can [[explore]] this space together, and to do so it is that I set out to build an [[Agora]].
+  - [[twitter]] 
+    - https://twitter.com/flancian/status/1368252143338192898
+    - https://twitter.com/flancian/status/1462091524985045002
+    -
+	- #pull [[buddhism]] [[satyagraha]] [[non violence]] [[effective altruism]]
+	- #pull [[peter singer]] [[frederick engels]] [[karl marx]] [[hans widmer]] [[murray bookchin]]
+  - #pull [[free, fair and alive]] [[patterns]]

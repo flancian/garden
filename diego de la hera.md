@@ -1,0 +1,22 @@
+- #pull [[diegodlh]]
+- [[2022-07-13]]
+  - mirada sistémica de la vida / [[fritjof capra]
+  - comodidad con la biología, relativamente con la física
+  - [[heisenberg]]
+    - [[physics and philosophy]]
+  - [[flancian]]
+    - [[feynman]]
+  - [[everything everywhere all at once]]
+  - [[quantum computing since democritus]]
+  - potential in [[systems integration]]
+  - [[topics]]
+    - [[web annotations]] / hypothes.is in particular
+    - [[wikimedia]]
+      - horizontal governance
+      - a wikipedia wide change would mean:
+        - convincing [[wikimedia foundation]]
+        - convincing the [[wikipedia community]]
+    - [[federation]] between the two?
+      - for later
+    - [[bidi sync]] between annotations and talk page
+    - [[siphons]] ~ [[syphons]]

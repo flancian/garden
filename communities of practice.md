@@ -1,0 +1,1 @@
+- An Agora is a platform for [[communities of practice]].

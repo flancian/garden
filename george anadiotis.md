@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[twitter]] [[linked to]]
+	- [[pkg book]]

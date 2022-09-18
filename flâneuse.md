@@ -1,0 +1,3 @@
+- a [[person]].
+  - #pull [[calico fisk]]
+  - #pull [[flaneur]] [[flâneur]]

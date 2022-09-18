@@ -1,0 +1,3 @@
+- a [[project]].
+  - at [[work]], so I write about it only vaguely in public (like here).
+  - it's actually interesting, for which I'm thankful.

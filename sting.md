@@ -1,0 +1,5 @@
+- people think
+- that whenever I say this kind of thing
+- I sound like [[sting]]
+- but I say it like this:
+- [[I will *show you* the shape of my heart]]

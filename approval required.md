@@ -1,0 +1,3 @@
+- a [[proposal]].
+	- [[approval required for sign up]]
+	- #go https://www.loomio.org/d/zoWFc7mR/relax-instance-registrations-to-approval-required-for-sign-up-from-current-nobody-can-sign-up

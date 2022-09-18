@@ -1,0 +1,1 @@
+- Our posts on [[social networks]] define [[social feeds]], regardless of whether the platforms in questions explicitly surface our activity as a standards based [[feed]] (e.g. [[rss]]/[[atom]]/[[activitypub]]).

@@ -1,0 +1,2 @@
+# This should be a 'distributed' version of sources.yaml in [[go/anagora]], store user settings.
+# **Having an agora.yaml in any public repository signals an intent to integrate with the target Agoras.**

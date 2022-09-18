@@ -1,1 +1,3 @@
-- #pull [[kvistgaard]]
+- a [[person]].
+  - #pull [[kvistgaard]]
+  - [[pkg book]]

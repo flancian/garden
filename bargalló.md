@@ -1,0 +1,2 @@
+- a [[person]].
+  - with this I usually mean my [[grandfather]].

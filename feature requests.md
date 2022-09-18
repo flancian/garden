@@ -1,9 +1,10 @@
 # Feature Requests
 
-- [[push]] [[agora-plan]]
+- #push [[agora-plan]]
 
 ## [[codex]]
 - https://twitter.com/codexeditor/status/1377475227978883074
+
 ## [[polycultic]]
 
 - [[docker]] image for the [[agora]]
@@ -11,6 +12,7 @@
 ## [[dan whaley]]
 
 - Subnodes should show date created, date last updated.
+
 ## [[dr-kvj]]
 
 - Would like to be able to sync [[remnote]] notes.
@@ -46,5 +48,5 @@ Abstracts would be important to get a quick overview of a node (pls no 20+ tabs 
 
 ## [[titushora]]
 
-- titushora the [[Agora]] look like this: https://twitter.com/TitusHora/status/1325147589197484036
+- titushora the [[Agora]] should look like this: https://twitter.com/TitusHora/status/1325147589197484036
 

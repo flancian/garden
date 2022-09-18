@@ -10,5 +10,7 @@
     - [[whysaurus]]
     - [[conversense]]
     - [[the society library]]
+    - [[carl gieringer]]
+      - [[marc-antoine parent]]
     - [[grub]]
   - [[push]] [[review]]

@@ -1,14 +1,17 @@
 # Write
 
-- An [[action]].
-  - [[push]] [[do]].
-    - [[write]] to [[will walker]]
+- an [[action]].
+  - #push [[do]].
     - [[write]] to [[hans widmer]]
-    - [[write]] [[agora protocol]]
+      - wow, I keep [[procrastinating]] on this
+      - [ ] remember [[christopher alexander]]!
+    - [ ] [[write]] [[agora protocol]]
     - [[write]] [[books]]
       - [[in flancia there is an agora]]
       - [[building bridges]]
       - [[burning chromium]]
-    - [[pull]] [[edit]]
+    - [ ] [[write]] [[agora pkg chapter]]
+    - #pull [[edit]]
+  - [x] [[write]] to [[will walker]]
 
 

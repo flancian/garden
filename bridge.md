@@ -1,7 +1,6 @@
-# Bridge
-
 - a [[thing]].
   - a [[tool]].
-    - [[bridge]] plus [[agora]] == [[agora bridge]]
-
-
+    - [[bridge]] [[agora]] -> [[agora bridge]]
+  - a [[space]].
+    - [[shared]]
+    - #pull [[building bridges]]

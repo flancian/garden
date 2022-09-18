@@ -1,0 +1,6 @@
+- a [[place]].
+  - in [[switzerland]].
+  - where I live.
+- a [[place]].
+  - probably in [[spain]].
+  - it doesn't exist yet but I hope it'll be a place where some of my friends can live.

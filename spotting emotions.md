@@ -1,0 +1,36 @@
+- a [[table]]
+  - by [[Catherine Aimelet-Périssol]]
+  - three parts: [[fear]], [[anger]], [[sadness]].
+  - #push [[sadness]]
+    - state of heaviness, laxitude, physical weakness, sensation of being lost, being depressed, feeling like laying down, heaviness, feeling like crying
+    - "what am I thinking about?"
+    - "want to be left alone or in peace"
+    - questioning oneself / doubts about self
+    - feelings of guilt
+    - solitude
+    - others (I didn't get how this related to the other, these seemed positive?)
+      - devote/dedicate oneself to others
+      - to give meaning to one self
+    - telling to oneself:
+      - I should not value myself
+      - I should not show myself
+      - I should not say anything
+    - to retire into one self
+      - to efface oneself
+      - to seek for perfection
+      - to feel uneasy with compliments
+      - to explain everything
+    - what do I need?
+      - meaning
+      - harmony
+      - initiative
+      - comprehension
+      - direction
+    - I can:
+      - breathe deeply
+      - name the feelings
+      - name the emotions and their intensity
+      - look at the flow of thoughts
+      - come back to the body
+  - [[fear]]
+  - [[anger]]

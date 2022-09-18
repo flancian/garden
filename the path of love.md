@@ -1,5 +1,5 @@
 - a [[book]].
 	- #pull [[tasshin fogleman]]
 	- #push [[metta]]
-		- #go [[the path of love]] https://docs.google.com/document/d/1nrHi6vTRJI_MELW_gtTiEaaYwK8I82ytMIpHbmM0KNY/edit
+		- #go https://docs.google.com/document/d/1nrHi6vTRJI_MELW_gtTiEaaYwK8I82ytMIpHbmM0KNY/edit
 	- #pull [[practicing loving kindless]] [[mettā]]

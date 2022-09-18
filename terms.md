@@ -1,0 +1,2 @@
+- [[social coop]] https://www.loomio.org/d/hpbr0YtF/updating-a-link-in-social-coop-terms/6
+- [[agora]] [[contract]]

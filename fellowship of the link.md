@@ -1,0 +1,12 @@
+- a [[community]].
+  - #chat https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link
+	- #doc https://docs.google.com/document/d/1RAourQe_MKh0uWomLsS_V5ea3zm30g8paE49X56jIHs/edit
+	- #pull [[fotl]]
+	- #pull [[sje]]
+	- #pull [[building bridges]]
+	- [[interop of chat]]
+	- [[interop of links]]
+- a [[meet]].
+  - [[18 utc]] on [[thursdays]]
+  - #go https://meet.jit.si/fellowship-of-the-link
+  - #log [[fotl chat]]

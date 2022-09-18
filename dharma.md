@@ -1,7 +1,5 @@
-# Dharma
-
 - The [[path]] we try to follow.
-- [[go]] https://en.wikipedia.org/wiki/Dharma
+  - [[go]] https://en.wikipedia.org/wiki/Dharma
   - "The right way of living".
-- I sometimes consider myself a [[secular buddhist]].
-
+  - I sometimes consider myself a [[secular buddhist]].
+    - Update (2022): I'm a [[buddhist]].

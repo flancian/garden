@@ -1,7 +1,3 @@
-# Social Knowledge Graph
-
 - My definition: a [[distributed knowledge graph]] that is produced by, and embeds, a [[social network]].
-- Sometimes just a synonym for [[distributed knowledge graph]].
-- [[pull]] [[social-knowledge-graphs-discussion]]
-
-
+	- Sometimes just a synonym for [[distributed knowledge graph]].
+	- [[pull]] [[social-knowledge-graphs-discussion]]

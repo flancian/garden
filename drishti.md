@@ -1,0 +1,5 @@
+- a [[thing]].
+  - the (by default physical) [[focus]] of our [[consciousness]] as we're aware of it.
+  - #push [[yoga]]
+    - our [[gaze]].
+  - #go https://en.wikipedia.org/wiki/Drishti_(yoga)

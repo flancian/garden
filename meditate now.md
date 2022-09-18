@@ -1,0 +1,3 @@
+- #pull [[waking up]] [[medito]] [[metta]] [[samatha]] [[vipassana]]
+	- #go https://meditofoundation.org/meditations/beginner-meditation-course
+	- #metta https://meditofoundation.org/meditations/loving-kindness-meditation

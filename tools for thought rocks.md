@@ -1,0 +1,4 @@
+- a [[group]].
+  - in the [[tools for thought]] space.
+  - [[boris mann]] set it up.
+  - uses [[lu.ma]] to organize.

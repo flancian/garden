@@ -1,0 +1,2 @@
+- a [[thought experiment]].
+  - #pull [[david deutsch]] [[max tegmark]]

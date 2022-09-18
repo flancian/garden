@@ -1,0 +1,1 @@
+- If [[Flancia]] is a [[book]], I (a [[flancian]]) am its first author, although I dream of an [[Agora]] writing it.

@@ -1,0 +1,6 @@
+- a [[person]].
+  - [[italian]] in [[social coop]].
+  - [[friend]]
+  - [[social coop tech group]]
+  - [[editing coop]]
+    - [[textbooks]]

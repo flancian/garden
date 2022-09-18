@@ -1,0 +1,11 @@
+- a [[person]].
+	- [[jacob]] [[joe cool]]
+	- [[web assembly]]
+	- [[interface types]] -- processes that let types self-inspect
+	- [[bridges]]
+	- [[translation]]
+		- between [[ideals]]
+	- [[project narwhal]]
+	- a sufficiently advanced editor is indistinguishable from an [[os]] is indistinguishable from a [[social network]]
+	- [[shamanic agora]]
+	- [[chloe]] is his cat

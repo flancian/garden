@@ -1,0 +1,2 @@
+- a [[tool]].
+  - #go https://www.chezmoi.io

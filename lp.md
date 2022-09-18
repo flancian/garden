@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[friend]].
+  - One of my favourite people :)

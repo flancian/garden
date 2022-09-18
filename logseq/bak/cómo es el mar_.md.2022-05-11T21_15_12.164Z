@@ -1,0 +1,3 @@
+- cómo es el mar?
+	- terrible y hermoso
+- [[sublime]]

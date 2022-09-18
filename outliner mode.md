@@ -1,0 +1,2 @@
+- I like [[outliner mode]], as popularized by [[roam]] and [[obsidian]] and [[logseq]] -- but I also sometimes miss having [[document mode]] be a [[first class mode]] of my editor.
+  - This is why I'm happy I'm back editing in [[vim]] as of [[2022-05-26]].

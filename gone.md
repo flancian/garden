@@ -3,5 +3,5 @@
 	- Gone beyond!
 - Gone, [[gone]].
 	- Everyone gone to the other shore.
-	- Awakening!
-	- [[svaha]]
+	- Awakening together!
+	- [[bodhi svaha]]

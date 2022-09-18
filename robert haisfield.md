@@ -1,4 +1,3 @@
-
 - a [[person]].
 	- [[product strategy]] [[gamification]] 
 	- [[go]] https://robhaisfield.com/about

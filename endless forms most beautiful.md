@@ -1,0 +1,4 @@
+- an [[album]].
+  - [[nightwish]]
+  - #go https://music.youtube.com/watch?v=nt9DBSFi4cM&list=OLAK5uy_k3bmpltxqC_izbfhaBayPdgdJ5DzfPO4k
+  - [[jz]] recommended it.

@@ -1,0 +1,23 @@
+- [[space time]]
+- [[e c]]
+	- [[2022 visit]]
+		- [[2022-07-31]] to [[2022-09-09]]
+- NOW [[hashtags]]
+  :LOGBOOK:
+  CLOCK: [2022-05-08 Sun 16:51:15]
+  :END:
+	- refactoring [[agora bridge]] a bit
+	- trying to move both wikilinks and hashtags to just resolve to whatever urllib.parse.quote_plus makes out of the string for [[agora bot]].
+		- [[cons]]
+			- not the prettiest -- slugs are more readable sometimes, but lossy
+		- [[pros]]
+			- lossless
+			- a shame we can't use unicode and call it a day -- e.g. I'd rather write https://anagora.org
+- In Flancia we [[hacked the internet]]
+	- [[hack the internet]]
+	- [[hashtags]] and part of the [[language of the internet]]
+	- [[wikilinks]] are as well
+	- by learning a language you unlock potential for [[hacking]]
+	- [[revolution]]
+		- The [[fediverse]] could be the [[commons]] for a [[revolution.]]
+- [[orange hair]] == https://anagora.org/%F0%9F%A6%B0

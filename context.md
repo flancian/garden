@@ -1,9 +1,13 @@
 # Context
 
-- [[state]] as required or produced by a [[procedure]].
+- #push [[praxis]]
+  - [[state]] as required or produced by a [[procedure]].
+- #push [[agora]]
+  - An Agora is an engine for storing and retrieving [[mental contexts]].
+  - I make my mental contexts [[public by default]].
 - [[agora search]] runs queries within a context; that described by each [[node]].
   - [[wikidata integration]]
-- [[idea]] 
+- [[ideas]] 
   - a [[protocol]].
     - [[agora protocol]]
     - for the efficient and constructive transmission of context over the internet.

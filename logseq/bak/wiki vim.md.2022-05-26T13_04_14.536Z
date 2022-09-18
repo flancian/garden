@@ -1,0 +1,50 @@
+- a [[tool]].
+  - [[personal knowledge management]]
+  - #go https://github.com/lervag/wiki.vim
+  - #doc https://github.com/lervag/wiki.vim/blob/master/doc/wiki.txt
+    - excerpt below
+    - <leader> is , by default
+  - not to be confused with [[vim wiki]].
+
+```
+ MODE  LHS                 RHS~
+  ====  ===                 ===
+  `n`     <leader>ww          |<plug>(wiki-index)|                 [GLOBAL]
+  `n`     <leader>wn          |<plug>(wiki-open)|                  [GLOBAL]
+  `n`     <leader>w<leader>w  |<plug>(wiki-journal)|               [GLOBAL]
+  `n`     <leader>wx          |<plug>(wiki-reload)|                [GLOBAL]
+  `n`     <leader>wb          |<plug>(wiki-graph-find-backlinks)|
+  `n`     <leader>wlc         |<plug>(wiki-graph-check-links)|
+  `n`     <leader>wg          |<plug>(wiki-graph-in)|
+  `n`     <leader>wG          |<plug>(wiki-graph-out)|
+  `n`     <leader>wf          |<plug>(wiki-link-toggle)|
+  `n`     <leader>wd          |<plug>(wiki-page-delete)|
+  `n`     <leader>wr          |<plug>(wiki-page-rename)|
+  `n`     <leader>wt          |<plug>(wiki-page-toc)|
+  `n`     <leader>wT          |<plug>(wiki-page-toc-local)|
+  `n`     <leader>wp          |<plug>(wiki-export)|
+  `x`     <leader>wp          |<plug>(wiki-export)|
+  `n`     <leader>wll         |<plug>(wiki-link-show)|
+  `n`     <leader>wlh         |<plug>(wiki-link-extract-header)|
+  `n`     <leader>wsl         |<plug>(wiki-tag-list)|
+  `n`     <leader>wsr         |<plug>(wiki-tag-reload)|
+  `n`     <leader>wss         |<plug>(wiki-tag-search)|
+  `n`     <tab>               |<plug>(wiki-link-next)|
+  `n`     <cr>                |<plug>(wiki-link-follow)|
+  `n`     <c-w><cr>           |<plug>(wiki-link-follow-split)|
+  `n`     <c-w><tab>          |<plug>(wiki-link-follow-vsplit)|
+  `n`     <c-w>u              |<plug>(wiki-link-follow-tab)|
+  `n`     <s-tab>             |<plug>(wiki-link-prev)|
+  `n`     <bs>                |<plug>(wiki-link-return)|
+  `n`     gl                  |<plug>(wiki-link-toggle-operator)|
+  `x`     <cr>                |<plug>(wiki-link-toggle-visual)|
+  `ox`    au                  |<plug>(wiki-au)|
+  `ox`    iu                  |<plug>(wiki-iu)|
+  `ox`    at                  |<plug>(wiki-at)|
+  `ox`    it                  |<plug>(wiki-it)|
+  `n`     <c-n>               |<plug>(wiki-journal-prev)|          [JOURNAL]
+  `n`     <c-p>               |<plug>(wiki-journal-next)|          [JOURNAL]
+  `n`     <leader><c-n>       |<plug>(wiki-journal-copy-tonext)|   [JOURNAL]
+  `n`     <leader>wu          |<plug>(wiki-journal-toweek)|        [JOURNAL]
+  `n`     <leader>wm          |<plug>(wiki-journal-tomonth)|       [JOURNAL]
+```

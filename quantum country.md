@@ -1,0 +1,4 @@
+- a [[site]].
+  - an [[introduction]] to [[quantum computing]] and [[quantum mechanics]]
+  - #go https://quantum.country/
+  - [[andy matuschak]] [[michael nielsen]]

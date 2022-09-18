@@ -1,8 +1,12 @@
 # Bill Seitz
 
-- [[social coop]] billseitz
-- [[go]] http://webseitz.fluxent.com/wiki/DigitalGardenStandards
-  - Looks very similar to [[agora protocol]]!
-  - [[send]] [[dan whaley]]
-  - [[write]] [[agora protocol]]
+- a [[person]].
+  - [[social coop]] billseitz
+  - #go http://webseitz.fluxent.com/
+  - [[flux garden]]
+  - [[digital garden standards]] http://webseitz.fluxent.com/wiki/DigitalGardenStandards
+    - Looks similar to [[agora protocol]]!
+    - [ ] [[send]] to [[dan whaley]] and [[metasj]]?
+    - [ ] invite to [[fellowship of the link]]
+  - [ ] [[write]] [[agora protocol]]
 

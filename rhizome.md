@@ -1,0 +1,4 @@
+- a [[concept]].
+  - [[wp]] https://en.wikipedia.org/wiki/Rhizome_(philosophy)
+  - #pull [[deleuze]] [[guattari]]
+  - as related to [[heterarchies]].

@@ -1,0 +1,2 @@
+- I have been considering the life of a [[celibate]] [[monk]].
+  - Personally perhaps I'd like to try being just a [[monk]] first.

@@ -15,3 +15,49 @@
 	- Also I had to edit /etc/containers/registries.conf and set:
 		- `unqualified-search-registries = ["docker.io"]`
 		- ...to have podman search work as per in the upstream instructions (Debian ships with ultra-safe defaults or something.)
+
+```
+podman run --rm -it fedora
+podman run --rm -it debian
+```
+
+Drop you into a one-off bare VM, it gets automatically cleaned up when you exit.
+
+```
+podman build -t agora .
+```
+
+Builds an 'agora' container if there is a [[Dockerfile]] in the path. If you want to force a 'clean' build, pass `--no-cache`; I needed this in the [[Agora Dockerfile]] because I was using `git clone` and this was failing to pull in the latest revisions.
+
+Then to run one interactively:
+
+```
+podman run -it agora
+```
+
+Or to run one detached (server like):
+
+```
+podman run -dt --name agora agora
+```
+
+Then you can:
+
+```
+podman attach agora
+```
+
+...to attach. CTRL-P CTRL-Q to detach gracefully.
+
+This is what I left running in [[hypatia]] as of [[2022-05-27]], sufficient to serve an HTTP only Agora (I'd add [[nginx]] to do SSL + caching, like in [[thecla]]/prod):
+
+```
+podman run -p 80:5017 --name agora -dt agora
+```
+
+The above requires running this as root to open up port 80 to non privileged processes:
+
+```
+sysctl -w net.ipv4.ip_unprivileged_port_start=80
+```
+

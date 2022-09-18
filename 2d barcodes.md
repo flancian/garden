@@ -1,0 +1,12 @@
+- a [[list]].
+  - [[monochrome]]
+    - [[qr code]]
+    - [[aztec code]]
+    - [[maxicode]]
+    - [[data matrix]] up to 2.3k chars
+    - [[SPARQCode]]
+    - [[PDF417]]
+  - [[color]]
+    - #pull [[color qr]]
+    - [[jab]]
+    - [[hccb]]

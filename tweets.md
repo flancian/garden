@@ -1,3 +1,5 @@
+- #pull [[toots]]
+
 If you know how to type, why don't you write?
 
 Moloch is the god of closed source.

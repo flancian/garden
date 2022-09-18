@@ -1,0 +1,2 @@
+- a [[thing]].
+    - something [[useful]] for a [[purpose]].

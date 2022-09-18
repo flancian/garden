@@ -1,0 +1,2 @@
+- #push [[open my heart]]
+  - I'll [[open my heart]] to you if you [[open your mind]] to me, or the other way around, any time you want to.

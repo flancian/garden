@@ -1,10 +1,14 @@
 - a [[collective]].
-	- [[go]] https://opencollective.com/flancia
-		- [[open collective]].
-			- within the [[flancia collective]] we track [[projects]] as a team and execute them in the open. we [[work in public]]
-				- [[pull]] [[open source]] [[open ethics]]
-				- [[matrix]] https://matrix.to/#/#flancia:matrix.org?via=matrix.org
-				- [[telegram]] https://web.telegram.org/#/im?p=g421619990
+	- [[flancia]] [[matrix room]]
+		- #go https://matrix.to/#/#flancia:matrix.org
+		- room is [[open]] now, "official membership" to be defined by the collective
+	- [[open collective]] https://opencollective.com/flancia
+		- within the [[flancia collective]] we track [[projects]] as a team and execute them in the open.
+			- we [[work in public]]
+				- #pull [[open source]] [[open ethics]]
+			- [[matrix]] https://matrix.to/#/#flancia:matrix.org?via=matrix.org
+			- [[telegram]] https://web.telegram.org/#/im?p=g421619990
+		- [[flancia social impact]] exists in the [[us]] thanks to [[vera]]
 	- [[members]] (roughly in order of joining)
 		- [[flancian]]
 		- [[vera]]
@@ -19,6 +23,7 @@
 		- [[jack kausch]]
 - reach out to a member of the collective if you are interested in joining!
 	- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
+	- the matrix room is open to anyone to join
 - if you are otherwise interested with [[cooperating]] with the [[flancia collective]], we are very interested! We strive to be [[prosocial]].
 	- Please reach out to [[vera]] or [[flancian]] or any of the other members.
 		- our [[goals]]:
@@ -26,7 +31,7 @@
 		- [[effective altruism]]
 		- our [[projects]]:
 		- [[agora]]
-		- if you want to join the [[agora]], please write to [[vera]] [[flancian]].
+			- if you would like to [[join the agora]], please join [[agora discuss]]
 		- [[promnesia]]
 		- [[wikilinks everywhere]]
 		- [[moa]]

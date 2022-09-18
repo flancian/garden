@@ -1,0 +1,2 @@
+- #go https://politicalcompass.org
+- [[flancian]] ![image.png](./assets/image_1653173270579_0.png)

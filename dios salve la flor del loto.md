@@ -1,0 +1,2 @@
+- Si Dios existe, Dios salve la flor del loto!
+  - [[om mani padme hum]]

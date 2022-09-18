@@ -1,5 +1,5 @@
 # Cooperative
 
-- [[pull]] [[cooperatives]]
+- #pull [[cooperatives]]
 
 

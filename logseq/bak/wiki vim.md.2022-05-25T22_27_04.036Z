@@ -1,0 +1,4 @@
+- a [[tool]].
+  - [[personal knowledge management]]
+  - #go https://github.com/lervag/wiki.vim
+  - #doc https://github.com/lervag/wiki.vim/blob/master/doc/wiki.txt

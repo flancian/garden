@@ -1,5 +1,6 @@
 - a [[person]]
-	- [[wp]] 
-		- [[go]] [[wp]]
 	- [[musician]] [[japanese]]
-	- [[album]] [[green]]
+	- [[wp]] https://en.wikipedia.org/wiki/Hiroshi_Yoshimura
+  - [[albums]]
+    - [[green]]
+    - [[flora]]

@@ -1,0 +1,3 @@
+- a [[project]].
+  - [[gordon brander]] et all
+  - #git https://github.com/subconsciousnetwork/noosphere

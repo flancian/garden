@@ -1,0 +1,3 @@
+- I love throwing [[dice]] in the [[agora]].
+  - [[random]]
+- [[quantum dice]]

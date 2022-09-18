@@ -1,6 +1,7 @@
 # Journals
 
 - A [[list]].
-- [[pull]] [[journal]]
+  - of [[journal]] entries :)
+  - #pull [[journal]] [[today]]
 
 

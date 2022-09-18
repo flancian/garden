@@ -1,8 +1,8 @@
-# gordon brander
 - a [[person]]
-	- [[twitter]] https://twitter.com/gordonbrander
+  - [[tools for thinking]]
+	- #twitter https://twitter.com/gordonbrander
 	- [[bmann]] introduced me to him.
-	- [[go]] https://gordonbrander.com
+	- #go https://gordonbrander.com
 		- let's make [meaning]]
 		- [[open ended]] [[tool for thought]]!
 	- #pull [[subconscious]]

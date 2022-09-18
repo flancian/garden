@@ -1,0 +1,5 @@
+- a [[person]].
+  - [[friend]] [[coder]]
+  - we met through [[social coop]].
+  - we met in person on [[2022-06-10]].
+  - [[berlin]]

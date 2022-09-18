@@ -1,0 +1,1 @@
+- The [[color]] of [[buddhism]], at least [[in my mind]].

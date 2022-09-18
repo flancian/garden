@@ -1,0 +1,2 @@
+- I assert [[Flancia]] is an [[ethical project]].
+  - By this I mean it carries a [[positive]] [[ethical charge]].

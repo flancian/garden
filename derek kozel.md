@@ -1,0 +1,3 @@
+- a [[person]].
+	- [[gnu radio]]
+	- [[social coop]]

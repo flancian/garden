@@ -1,0 +1,57 @@
+- [[logseq]] is getting slower every day.
+	- thinking about starting to use [[wiki vim]] (not [[vim wiki]], confusingly :)) more regularly.
+	- Update: I was stuck on [[0.5.9]] due to an issue with the AppImage; now manually updated to [[0.7]] and it seems somewhat improved?
+	- #push [[wiki vim]]
+		- now I'm writing this in [[wiki vim]], in which:
+			- ,ww navigates to index.md
+			- ,w,w navigates to the current journal
+			- unfortunately navigating to a wikilink from the journal created the file in journal/, even though I want it in the root.
+			- filed: https://github.com/lervag/wiki.vim/issues/225
+			- already resulted in a nice workaround that I can just plug into my .vimrc :)
+		- It is actually really nice to be able to journal in [[vim]] again.
+			- So responsive!
+			- And I can drop into 'full text/document mode' pretty easily, not to be constrained by [[outliner mode]].
+			- Also I now have a *global* alt-d shortcut for my journal -- that is, pressing alt-d brings up my daily note no matter where I am :)
+		- Next thing missing is pasting media (that is, storing in assets and inserting a link). Thinking about how to solve this.
+			- [[md img paste]] https://github.com/ferrine/md-img-paste.vim might be this :)
+- Looked into managing my [[dotfiles]] in a more structured way again.
+	- [[chezmoi]] is looking fancy and probably worth investing on?
+- [[gitlab]]
+  - Started a [[flancian]] repo: https://gitlab.com/flancian/flancian
+  - [[Dockerfile]] is not there but should be there eventually.
+  - Playing with the Twitter API for my personal account.
+- [[unlicense]]
+- [[agora 3]]
+- [[wiki vim]]
+  - [[lervag]]
+- [[social coop]]
+  - [[relax instance registration]]
+  - [[social coop tech group]]
+  - [[giacomo sansoni]]
+  - [[ana ulin]]
+- [[pomodoros]]
+  - #done
+    - [x] [[chezmoi]]
+      - installed in [[paramita]], [[thecla]]
+      - set up repo in [[gitlab]]: same as [[flancian repo]] (should I just call it [[dotfiles]]? but I want it to store more :))
+      - it feels like it could be a reasonable general personal repo manager?
+    - [x] [[social coop]]
+      - [[relax instance registration]] -> proposal failing, thread useful
+      - called out for tomorrow's [[social coop tech group]] meeting via mastodon
+  - #do
+    - [ ] [[podagora]]
+      - [[podman]]
+        - create [[agora]] user in container
+        - fold in commands from [[go/agora]]
+        - configure [[systemd]] services
+        - think about how to override values?
+    - [ ] [[building bridges]]
+      - [[write]] a bit in the above node?
+    - [ ] [[sun]]
+      - [[write]] in that document
+
+I feel like I've been [[unlocking]] things, in some sense. I optimized several things which had been bothering me for a while. I feel freed up in a way.
+
+Now it's 18:29 and I'm doing a [[pomodoro]] on [[chezmoi]] and with that I'm calling it with general optimization. Next up is [[podagora]] and in general some [[containers]] work, which on second inspection has to do with the [[flancian repo]] and [[project snapshot]].
+
+I over-rested by staying with [[chezmoi]] as it was fun :)

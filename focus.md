@@ -1,5 +1,11 @@
 # Focus
-- My current main focus is [[Flancia]], including all friends who are in it.
-	- My current main public project is the [[agora]], including all subprojects documented in it :)
+- #pull [[drishti]]
+  - My focus is in [[Flancia]] and all [[friends]] and [[things]] in it.
+    - Flancia is a project [[for the benefit of all sentient beings]].
+    - My current main public project is the [[Agora]]; this includes [[subprojects]].
+    - #pull [[flancia]] [[agora]]
+    - During the day on weekdays I work for [[Google]] as an [[SRE]].
 - #pull [[awareness]] [[mindfulness]]
-	- I like to ask myself often: [[where's my light]]?
+	- I like to ask myself during meditation, to reach [[concentration]]: [[where is my light]]?
+    - With this I mean: where are the lights of sentient beings around me that I [[love]], and of those I [[could love]]?
+    - Where is our [[center of gravity]], where is our [[focus]]?

@@ -1,0 +1,3 @@
+- an [[instance]].
+  - in the [[fediverse]].
+  - #go https://framapiaf.org

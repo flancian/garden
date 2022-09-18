@@ -1,8 +1,10 @@
 # mohammed aldhari
 
 - a [[person]].
-  - [[friend]] [[yemen]].
-  - [[twitter]] https://twitter.com/mohamedahmedalt
-  - [[github]] https://github.com/mohammedaldhari
-  - [[flancia collective]].
-
+  - [[friend]] from [[yemen]].
+  - we're trying to help him and his family.
+  - #push [[mohammed]]
+    - [[twitter]] https://twitter.com/nothingmannow
+    - [[github]] https://github.com/mohammedaldhari
+  - in [[flancia collective]].
+  - currently in [[india]].

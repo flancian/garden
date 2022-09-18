@@ -1,0 +1,2 @@
+- [[reasonable]]
+- perhaps amenable to [[bayesian thinking]]

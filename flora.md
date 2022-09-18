@@ -1,0 +1,3 @@
+- an [[album]].
+  - [[hiroshi yoshimura]]
+  - #go https://www.youtube.com/watch?v=j6n4FpHbqZs

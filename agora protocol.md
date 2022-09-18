@@ -1,20 +1,58 @@
-- # Agora Protocol
+- a [[protocol]].
+  - A series of conventions that sentient beings can agree to follow while trying to communicate optimally for the [[common good]].
+    - A series of explicit assertions.
+    - Announced customarily in [[schelling points]].
+    - Extended through [[agora rfcs]].
+    - With such a [[protocol]] we can build ([[provision]]?) a common [[pattern language]] and bootstrap a global [[knowledge commons]].
+      - An [[Agora]] is a [[repository]] of [[patterns]].
+  - A [[flancian]] uses [[Agora Protocol]] to try to define their [[intents]] publicly and cooperate with others optionally for the benefit of beings, but all aspects of Agora and Flancia are meant to be fully optional.
+    - I am a [[Flancian]] and this Agora contains my [[manifesto]].
 - a [[document]].
-	- Trying to define a high level [[protocol]], plus a roadmap for a platform or network making use of it.
 	- #go https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit
-- a [[convention]].
-	- To communicate with each other with good intent.
-	- [[text based]]. you can use it anywhere you can write down text; no special format requirements.
-	- Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066
-	- You can use [[wikilinks]]. This expresses an intention to make use the [[wiki protocol]], of which the Agora is a special case.
+	- Trying to [[bootstrap]] the above [[protocol]].
+    - Plus a roadmap for a [[platform]] or federated [[network]] making use of it.
+    - #pull [[agora paper]].
+  - In [[an agora]], [[agora protocol]] is meant to enable people to exchange [[resources]] mapping to [[patterns]] in a (by default) free global [[commons]], which I also call the Agora for short. 
+    - This Agora is a [[knowledge commons]] but seeks to enable [[communities]] to bootstrap a physical [[commons]] to provision for their needs as well.
+  - [[meta]]
+    - I started with [[google docs]] in 2019/2020 and then I tried moving to [[hedgedoc]] but actually I think I might just go back to the [[google doc]]. It's just a rich experience, and several potential collaborators already use it (they left comments).
+    - Update (2022): revamping now ocassionally while writing [[agora pkg chapter]], but it may be that the source of truth becomes [[agora paper]].
+- a social [[convention]].
+  - A list of social [[conventions]] and [[assertions]].
+	- Focusing on improving the ability to communicate with each other with good intent.
+	- [[text based]] to begin with. 
+    - This means you can use it anywhere you can write down text by default.
+    - Using this basic quality, we can make use of [[adversarial interoperability]] as we want to.
+    - [[agora protocol]] can be used everywhere. 
+      - It is already used in [[wikis]]. You might as well call it [[wiki protocol]] used in new contexts.
+      - You already use it in [[digital gardens]].
+      - You can use it in [[books]]. 
+        - Books written today with Markdown u[[git]] 
+      - In [[email]].
+      - In [[chat]] and [[social networks]].
+        - -> [[agora plan]]
+      - [[Around the web]] in general.
+        - -> [[agora ext]]
+  - This [[Agora]], resolved by default using common [[Agora endpoints]] at https://anagora.org, welcomes all [[people]] and [[formats]] a priori.
+  - This [[Agora]] welcomes all groups except [[fascists]] and the [[violent]].
+  - It is the opinion of this Agora that the use of [[agora protocol]] in a medium defines an Agora, in the sense that it designates the contexts in which the protocol is used as part of some Agora by default; and the medium as potentially interoperable with the [[Agora network]].
+
+What follows is Agora Protocol in a nutshell: https://twitter.com/flancian/status/1437079533253976066.
+
+  - [[layer 0]]
+	- [[layer 1]]
+    - You can use [[wikilinks]]. This expresses an intention to make use the [[wiki protocol]], of which the Agora is a special case.
 		- The reference Agora, in which you are probably reading this, also has some limited [[hashtag]] support.
 		- An Agora is any virtual space you can define in any way you want as long as it is [[explicit]] and by default [[public]].
 			- Each Agora publishes a set of definitions of intention as expressed by its [[users]].
 			- This Agora is [[rational]], [[pro social]] and [[heterarchical]].
 - a [[protocol]].
-	- the [[agora exchange format]].
-	- [[plain text]] plus [[wikilinks]] as layer 0 (bootstrapping layer).
-		- indented bulleted lists designate a [[heterarchy]].
+  - for [[federation]].
+	- can be bootstrapped with [[agora exchange format]]?
+    - #pull [[knowledge commons]]
+	- [[plain text]] plus as layer 0 (bootstrapping layer).
+		- indented bulleted lists designate a useful [[heterarchy]].
+    - [[wikilinks]] and #hashtags at layer 1, plus other link conventions and metadata extensions.
 		- successive layers are explicitly discussed through [[agora rfcs]] and settled through a [[governance layer]] called an [[agora]] and defined by convention.
 			- agora protocol payloads may be exchanged for knowledge for [[free]] in any designated [[agora]].
 			- this [[agora]] is built around a [[pro social]] [[distributed knowledge graph]], that is, a [[social knowledge graph]].
@@ -23,18 +61,23 @@
 			- [[stoa]] https://stoa.anagora.org/p/stoa
 	- a [[protocol]] is a set of explicit conventions that can be followed for a purpose.
 		- conventions can be optional or necessary and must be marked as such. The default commitment level for this protocol is [[optional]]. [[use must if you must]].
-	- for [[extensions]]
-		- please propose them in the stoa below
-		- or modify the list of [[agora rfcs]] as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
-	- the [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
-		- the [[seed]] of this agora is [[go/agora/git]], an [[interlay]].
-			- [[agora server]], [[agora bridge]] and [[flancia collective]] are its keepers.
-		- compatible [[agoras]] are expected to assemble into an  [[agora network]] in the future where they can fork and federate as as needed.
-		- [[agoras]] must communicate clear [[goals]].
+	- for [[extensions]]:
+		- push to or modify [[agora rfcs]].
+      - this is as kept by the community agreeing to cooperate on such a list: the community of the [[agora]].
+      - #push [[agora]]
+        - an [[agora]] is a seed that wants to grow into a [[tree]], and from there into a [[distributed]] network.
+        - the [[seed]] of this agora is [[go/agora/git]], defining a [[commons]].
+        - [[flancia collective]] is the keeper of https://anagora.org.
+        - [[agora bridge]], [[agora server]] contain input (write) and output (read) code respectively.
+    - #push [[agoras]]
+      - Compatible [[agoras]] are expected to assemble into a greater federated [[agora network]] where they can fork and merge as wanted.
+      - [[agoras]] must communicate clear [[goals]].
 	- [[2020]] https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#
-	- [[2021]] to learn more: please refer to [[go/agora-slides]] and [[agora]].
-	- [[the agora is a markup convention]]
-	- https://twitter.com/flancian/status/1437079533253976066
-	- https://twitter.com/flancian/status/1401526897121574916
-	- https://twitter.com/flancian/status/1393271063224754184
-	- https://twitter.com/flancian/status/1373681988675190785
+    - [[the agora is a markup convention]]
+	- [[2021]] I presented in [[i annotate]], refer to [[go/agora-slides]] or recording if interested.
+  - [[2022]] writing [[agora pkg chapter]]
+  - [[twitter]]
+    - https://twitter.com/flancian/status/1437079533253976066
+    - https://twitter.com/flancian/status/1401526897121574916
+    - https://twitter.com/flancian/status/1393271063224754184
+    - https://twitter.com/flancian/status/1373681988675190785

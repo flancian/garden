@@ -1,0 +1,1 @@
+- When I see through the [[veil]] of [[space time]], I tend to see [[places]] in [[protopoi]].

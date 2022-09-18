@@ -1,0 +1,9 @@
+- #push [[3]] [[three]]
+	- As I meditate I often ask myself: where is my [[light]]?
+	- I take it as an opportunity to practice [[loving kindness]].
+	- I start by taking notice of where we are: my [[friends]], my [[partners]] and [[me]].
+		- When I started doing this in [[2021]] I thought of [[l]], [[lady burup]] and me because we lived together so it was easy to think of ourselves as a shared [[consciousness]].
+    - It was our aim to focus our lights as individuals and as a group, our light meaning our degree of [[consciousness]].
+    - I sometimes try to calculate the [[center of gravity]] of the bounding polygon according to a useful definition (in a given base and metric).
+    - Then I think of the possibility of extending the polygon or graph by adding other sentient beings.
+    - [[n + 1]].

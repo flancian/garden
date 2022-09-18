@@ -1,0 +1,3 @@
+- a [[thing]].
+  - #push [[computers]]
+    - #pull [[x1 carbon v5]]

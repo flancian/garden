@@ -1,4 +1,4 @@
-# favorite
-
-- [[my favourite things]]
-  - What are your favorite articles, blog posts, tweets, toots, pictures of yours? Please feel free to link them below.
+- #pull [[favourite]]
+  - #push [[my favourite things]]
+    - What are your favorite [[articles]], [[blog posts]], [[tweets]], [[toots]], [[pictures]] of yours? 
+      - Please feel free to mention them or linking them below or in any other [[node]] in this [[agora]].

@@ -1,0 +1,3 @@
+- [[neil]]
+  - #go https://play.half.earth/
+  - #pull [[half earth]] [[socialism]]

@@ -1,0 +1,4 @@
+- [[chelsea grin]]
+- [[make them suffer]]
+- [[suicide silence]]
+- [[job for a cowboy]]

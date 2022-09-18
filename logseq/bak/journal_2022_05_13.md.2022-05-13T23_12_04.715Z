@@ -1,0 +1,26 @@
+- finally set up [[remote access]] to my home computers ([[ssh]] + [[public key]] auth only)
+  :LOGBOOK:
+  CLOCK: [2022-05-13 Fri 11:43:27]
+  :END:
+	- the asus router dyndns never worked, turns out it's completely broken for all providers
+	- why are routers so broken all the time?
+	- a [[cronjob]] in the computer I expect to leave with one [[curl]] invocation solved it
+		- can do the same with the router later I guess but I'm not sure I'm going to keep this one
+- LATER [[social coop tech group]] meeting tonight! looking forward.
+- [[chris aldrich]] recommended I take a look at [[logseq opml drummer]], [[phone to note]]
+	- https://twitter.com/phonetonote/status/1522347570269499397
+	- LATER will do so [[tonight]] or over the [[weekend]]
+- #push [[maybes]]
+	- #push [[maybe]]
+		- [[creo que me gusta alguien]
+- I try to love all sentient beings by default, always kindly
+	- [[if you love, love kindly]]
+- [[rodrigo baraglia]]
+- [[diego de la hera]]
+	- [[hypothesis]]
+		- [[dan whaley]]
+- [[phone to note]] == [[phonetonote]]
+	- [[scott]]
+- [[mantra]]
+- [[shantideva]]
+- [[eroica]]

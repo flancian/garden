@@ -1,0 +1,6 @@
+- [[agora bridge]]
+	- DONE happy about having added [[git reset]] support -- this unflaked/fixed several gardens!
+- [[agora server]]
+	- TODO I don't like how all the Logseq extensions render -- items look awkward in anagora.org even after processing/removing, I'd really like to fix it
+- [[agora bot]]
+	- disabled hashtags in moa party room as per user request

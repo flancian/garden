@@ -1,0 +1,5 @@
+- a [[person]].
+	- [[mastodon]] https://idiomdrottning.org/users/Sandra
+	- introduced me to [[lemmy]], gave very useful feedback on the [[agora]]!
+	- #push [[do]]
+		- implement better [[hashtags]] support :)

@@ -1,0 +1,3 @@
+- a [[proposal]].
+  - #go https://www.loomio.org/d/zoWFc7mR/relax-instance-registrations-to-approval-required-for-sign-up-from-current-nobody-can-sign-up-/28
+  - Go link for the meeting: https://anagora.org/go/social-coop-tech-group/meet Go link for the meeting: https://anagora.org/go/social-coop-tech-group/meet 

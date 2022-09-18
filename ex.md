@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[friend]].
+  - they helped me during my breakup and I'm grateful.

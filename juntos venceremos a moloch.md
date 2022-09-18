@@ -1,3 +1,5 @@
-# juntos venceremos a moloch
+# juntos venceremos a moloch!
 
-- [[Juntos]] venceremos a [[Moloch]]!
+- un [[motto]].
+  - del partido [[flanciano]].
+  - [[juntos]] venceremos a [[Moloch]]!

@@ -1,0 +1,5 @@
+- a [[brain]].
+  - #pull [[jerry michalski]]
+  - #go https://www.jerrysbrain.com/
+  - #push [[free jerry's brain]]
+    - #git https://github.com/OpenGlobalMind/fjb-forum.openglobalmind.com/

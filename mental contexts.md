@@ -1,0 +1,2 @@
+- an Agora is a repository of [[mental contexts]].
+- #pull [[mental context]]

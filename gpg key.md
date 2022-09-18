@@ -1,0 +1,4 @@
+- a [[key]].
+	- a link to my [[gnupg]] key follows.
+	- feel free to use it when communicating with me over any of the contact channels listed in [[flancian]].
+	- #go https://raw.githubusercontent.com/flancian/garden/master/flancian.asc

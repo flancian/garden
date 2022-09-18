@@ -1,0 +1,6 @@
+- a [[poem]].
+  - [[Gone gone]].
+    - Gone beyond.
+    - Everybody gone to the other shore.
+    - Gone kindly.
+    - [[Burn brightly]].

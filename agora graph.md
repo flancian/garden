@@ -1,12 +1,14 @@
-# agora graph
-
-I want to graph both the agora as a whole and the context of a node in the agora, as per [[agora ui]]. This requires:
-
-0. create a branch. Done: 'graph'.
-1. decide whether to
-   1. hardcode a path, say /agora-graph, to be a handler specialized in this. Probably the quickest, but it doesn't show the "agora spirit" as much.
-   2. use runnable subnodes; essentially implement [[run]] or [[exec]] plus
-      1. [[javascript subnodes]]
-      2. [[python subnodes]]
-   3. do [[rdf]] first: expose rdf for the agora and use something like [[rdf grapher]] to graph
+- a [[thing]].
+  - [[distributed knowledge graph]].
+  - The brain of an [[Agora commons]].
+  - See [[agora doc]].
+- a [[project]].
+  - I want to graph both the Agora as a whole and the context of a node in the agora, as per [[agora ui]].
+  - local graphs: done (partial implementation).
+  - global graph: running in dev but very resource intensive, may need to refactor/redo.
+    - it could be cool to get a graph in [[agora doc]] though...
+      - could be nice to do this through [[runnable subnodes]]:
+        - [[javascript subnodes]]
+        - [[python subnodes]]
+    - did [[rdf]] first: exposed rdf for the agora and use something like [[rdf grapher]] to graph
 

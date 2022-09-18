@@ -1,0 +1,3 @@
+- an [[article]].
+  - about the [[commons]].
+  - #go https://logicmag.io/commons/singular-plural/

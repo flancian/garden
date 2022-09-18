@@ -1,0 +1,3 @@
+- finally set up [[remote access]] to my home computers ([[ssh]] + [[public key]] auth only)
+	- the asus router dyndns never worked, turns out it's completely broken for all providers
+	-

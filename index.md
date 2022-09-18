@@ -1,5 +1,14 @@
-- This is an example of a user contributed [[subnode]].
-    - Any of the Agora [[users]] can contribute to the Agora home page by adding a file named ```index.md``` to their digital gardens.
-    - Later on ranking/filtering algorithms might need to be implemented. These will be ***open source*** and ***community driven***.
-- I am a [[Flancian]], who are you?
-
+- An [[index]].
+  - To this [[digital garden]].
+  - If you are reading this in [[an Agora]], you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
+    - You can add your own by keeping an `index.md` file in your garden and contributing it to the Agora.
+    - If the Agora index gets too noisy (as the Agora grows) we might want to implement [[ranking]] and [[filtering]] algorithms. These will of course be ***open source*** and ***community driven***.
+  - The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for backlinks.
+    - [[thing]]
+      - [[tool]]
+    - [[person]]
+      - [[flancian]]
+    - [[idea]]
+      - [[flancia]]
+    - [[inbox]]
+- #push [[awakened]]

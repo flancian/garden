@@ -1,0 +1,21 @@
+- a [[person]].
+  - [[friend]]
+  - we met in person on [[2022-06-19]]
+  - #pull [[real ez cheese]]
+  - [[46278739]]
+  - he uses [[spaz]] as a verb in a positive/well meaning way
+  - #push [[agora suggestions]]
+    - path discovery: give two nodes, get one or more paths between them
+      - like [[six degrees of wikipedia]]
+    - [[image galleries]]
+    - [[toggle]] or action to pull images / visual content into the current context
+    - [[people router]] -> [[talent repository]]
+    - [[timeline]]
+  - [[projects]]
+    - [[zero precedent]]
+    - [[hope]]
+    - [[find a friend]]
+      - https://zeroprecedent.substack.com/p/a-technique-for-generating-endless
+      - [[juxting]]
+    - [[social captcha]]
+      - plus [[blitz]] / [[fortnite]] dynamics

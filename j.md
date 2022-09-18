@@ -1,3 +1,2 @@
-# J
-An old [[friend]].
-
+- a [[person]].
+  - an old [[friend]].

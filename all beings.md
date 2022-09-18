@@ -1,0 +1,6 @@
+- [[all conscious beings]]
+- [[all sentient beings]]
+- [[3]]
+	- [[you]]
+	- [[me]]
+	- [[others]]

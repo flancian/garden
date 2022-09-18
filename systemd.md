@@ -1,5 +1,3 @@
-# Systemd
-
 - I run all [[agora]] services as systemd [[user services]].
   - How to keep a user process running:
     - [[go]] https://jimsaunders.net/2017/08/03/simple-per-user-systemd.html
@@ -11,3 +9,4 @@
     - `systemctl --user start example`
     - `systemctl --user enable example`
   - See `agora-server.service` in [[go/agora-server]] as an example.
+  - If you want to refer to the home directory in a user systemd service (I use a lot of these, also on my workstations), you can use the variable `%h` for it. `~`, `$HOME` won't work.

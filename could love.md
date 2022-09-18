@@ -1,0 +1,1 @@
+- I could love [[capitalism]] if it was [[fully open]], [[transparent]], [[ethical]].

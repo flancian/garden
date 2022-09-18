@@ -1,4 +1,34 @@
 - a [[person]].
 	- [[friend]]
+  - #go https://tasshin.com
+  - #podcast https://tasshin.com/podcast
 	- [[the path of love]] https://docs.google.com/document/d/1nrHi6vTRJI_MELW_gtTiEaaYwK8I82ytMIpHbmM0KNY/edit#heading=h.8svqkvnsps2o
 	- #pull [[tasshinfogleman]] [[tasshin fogleman]]
+  - we met on [[2022-07-11]]
+    - [[july]] is catch up time
+    - many calls, enjoying many
+    - recording a [[podcast]]!
+      - [[reach truth podcast]]
+      - #mondegreen [[the reach through podcast]]
+    - [[background]]
+      - [[tasshin]] 
+        - liberal arts degree
+        - reading lots
+        - got interested in meditation
+        - lived in a monastery for five years (2 then 3)
+        - now doing independent projects, basically working on three things
+          - spreading [love]] and [[loving kindness]] and the [[brahmaviharas]]
+          - following [[curiosity]]
+          - [[empowerment]] (seeing what people's gifts are and trying to help them gift those gifts to the world)
+        - [[flancian]]
+          - [[flancia]]
+          - [[agora]]
+    - [[writing]]
+      - [[fediverse]] vs [[twitter]]
+      - [[addictive]] but constructive, [[twitter]] like a library
+      - [[twitter]] would be better as part of a [[commons]]
+    - [[long term goals]]
+      - [[future]]
+        - [[heavenly realms]] vs [[hell realms]]
+        - on the verge of enormous change that is hard to predict
+    - [[path]]

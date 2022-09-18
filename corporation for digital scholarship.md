@@ -1,0 +1,3 @@
+- a [[corporation]].
+  - [[non profit]]
+  - develops [[zotero]].

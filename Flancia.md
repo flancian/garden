@@ -1,0 +1,5 @@
+- a [[project]].
+  - [[fully open]] [[transparent]] [[ethical]]
+  - In [[Flancia]] they used the [[internet]] to build a global [[Commons]].
+    - [[agora]]
+      - [[agora doc]]

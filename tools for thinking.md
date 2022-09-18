@@ -1,0 +1,411 @@
+- a [[conference]].
+  - [[2022-08-16]]
+  - #event https://www.eventbrite.com/e/render-tools-for-thinking-tickets-387188961607
+  - #go https://www.betaworks.com/event/render-tools-for-thinking#livestream-section
+  - organized by [[betaworks]]
+  - I'll be [[scribing]] live, let's see how it goes :)
+    - If you're viewing this on anagora.org, you can join in and take notes in the public document ("stoa") below.
+    - I'll use one section below per session; I'll probably only do one or two live though.
+  - [[plexus]] will be used here (hadn't heard of it)
+  - [[render]]
+  - see also [[tools for thought]] (a different group/term, but with some overlapping members)
+
+## [[How Do We Define Tools for Thinking and Why Do They Matter?]]
+- [[john borthwick]] [[jerry michalski]]
+- [[john borthwick]]
+  - How can a [[computer]] be a better [[tool for thinking]]?
+  - The word information -> better forming our minds.
+  - How to take all the [[ideas]] of a flow of information and analyzing them as they influence the world.
+  - What can we do with well tuned datasets??
+  - [[open protocols]]
+  - all the data could be owned by people contributing it, against the recent trend towards [[silos]]
+  - [[Associative thinking]]; [[scaffolding]] them together; let them simmer in our brains.
+    - Taking a walk, going to sleep.
+    - Scaffold, then [[sleep]].
+- [[jerry michalski]]
+  - was introduced to his now wife as the [[biggest brain]] on the internet, high expectations :)
+  - [[protocol]]
+    - [[jazz hands]] means agreement
+    - [[downward jazz]] means disagreement
+  - #push [[thebrain]] ~ [[the brain]]
+    - #push [[jerry's brain]]
+      - one [[mindmap]] since [[1997]], this dec will be [[25]] years
+      - #go https://jerrysbrain.com
+    - [[one million]] thoughts
+    - [[dioramas]] out of [[toothpicks]]
+    - [[opinions]]
+    - [[hypercard]] could have been the future (might be still!)
+      - [[bubble charter]]
+      - long standing addiction to the tool
+    - [[demo]]
+      - [[mind mapping]]
+      - [[visual analysis tools]]
+      - [[mapping tools for thinking]]
+    - [[team mode]] is not what he'd like
+    - how to allow different people to use different tools, yet still create an aggregated insight
+  - we're dumber than we normally would be
+    - [[kardashians]] family details vs [[politics]], how we focus our attention
+    - building a [[shared memory]] is a piece in the puzzle we need to solve to make society better
+    - [[better recall]] leads to [[reinforcement]]
+  - two more points
+    - [[zettelkasten]]
+    - [[roam cult]] ~ [[the cult of roam]]
+  - [[civilizational]] aspect to this 
+    - [[open access]] influencing research, journalism, politics and governance
+    - #push [[agora]]
+      - [[making better decisions together as a society]]
+  - first thing recorded was [[theatre]]
+    - put the camera on a [[dolly]] and you get the vocabulary of cinema (pans, …)
+    - [[internet]] is stuck in v1
+    - we have not levelled up because of [[drm]] and other constraints
+    - we need to liberate it and instrument it or make it [[executable]]
+
+## [[Inflection Points for Tools for Thinking]]
+- [[john borthwick]]
+    - introduces [[daniel doyon]] [[tristan homsi]] 
+- #push [[readwise]]
+  - [[daniel doyon]] [[tristan homsi]] 
+  - [[superhuman]]
+  - passion for: [[reading]] and [[spaced repetition]]
+  - how to improve [[reading]] the same way computers improved [[writing]]
+  - tool to [[resurface]] (-> [[reinforce]])
+  - started with [[zapier]]
+- [[john borthwick]] where do you see us by the end of the decade?
+  - belief that there will be a lot of change in this space
+  - when they started, [[evernote]] was the most popular request -- that's changed a lot since then
+  - on a macro level
+    - (missed one beat here I think)
+    - paradigm shift with #push [[notion]] (2017-2020), block based architecture
+      - other innovation: [[multiplayer]]
+    - then #push [[roam]] (blew up in 2021), first somewhat mainstream [[graph database]]
+      - [[backlinks]] and [[transclusion]]
+      - [[daily notes]] page
+    - then many tools coming online, but no clear next item of big innovation
+      - #push [[agora]]
+        - waiting for the next [[inflection point]]
+  - why did [[evernote]] get stuck?
+    - they nailed the [[consumer]] use case, never were able to do [[enterprise]] like [[notion]] did
+      - that held them back relative to notion
+    - they got very distracted in the middle of the growth, they were developing a [[recipe app]]
+    - they fumbled their way
+  - one of the promises of the internet:
+    - you can just build anything, no need to ask for permission (if you have the basic resources, etc.)
+    - [[notion]] raised VC, a million or two before going mainstream
+    - [[roam]] raised very little before really growing
+    - #push [[readwise]] didn't want to raise any money, unsure of the venture scale
+      - started charging a monthly fee for a consumer product (shock! :)), now can support a small team
+      - [[bootstrapped]]
+    - if you don't have the enterprise use case and are consumer based instead, it's unclear how sustainable you can be a priori (-> in the current landscape; but that might be ripe for a change, enough people *want* a way out of walled gardens, want a choice.)
+  - [[q&a]]
+    - [[anki]] for writing?
+      - have been exploring something, dogfood
+      - [[theme reviews]]
+      - some people do this:
+        - [[word vomit]] the start of an essay
+        - delineate [[fragments]], do theme reviews (on key terms?) over weeks
+          - -> [[wikilinks]]?
+        - then [[sequence]]]
+      - [[repeat]]
+        - you can get to 80% of the work fast this way
+    - how does this compare to [[gpt-3]] generation? asker feels that AI based suggestions aren't really that great
+      - can't speak about better/worse, but for some people this might feel easier
+  - [[core thesis for ai]]
+    - the AI can't be the product
+    - you won't print an essay ghost written by [[gpt-3]]
+      - -> yet? what about the recent paper that *was* written by [[gpt-3]], and for which they got first [[authorship]]?
+  - [[john borthwick]] many silos enforcing separation between ideas; also a risk of being fascinated by the technology or the tool
+    - [[jerry michalski]] is a good example of focusing on the thoughts, on the information, going beyond the [[tool]]
+    - it feels like the space has gone [[mainstream]] now
+      - but we're really still in the [[early adopter]] phase
+  - [[audio]]?
+    - grown a lot in audio
+    - 15-20% a year (check?)
+    - transforming audio to a block or a highlight: there are early attempts, podcasting [[air]] or [[snipped]] (?)
+    - not a seamless experience
+  - [[uncanny valley]]
+    - [[transcripts]] almost at human level but not quite
+    - but it seems like [[text to speech]] and [[speech to text]] can be assumed to be coming, you can probably assume that transcripts for everything will be available
+  - #push [[amazon]]
+    - one company is controlling ebooks and is making it hard to innovate (if I got that right?)
+  - bet: innovation more likely either on [[podcast]] side or [[text to speech]]
+  - [[john borthwick]] the downsides of [[silos]]
+    - [[readwise]] has done a great job at getting at least [[highlight]] access
+    - [[betaworks]] did [[findings]]
+      - founders: [[spiritual predecessor]] of [[readwise]]
+  - #q over the last n years the [[tools for thought]] space has been changing; how has usage of your tool changed with that?
+    - started with [[srs]]
+    - started with [[kindle]] highlights, disentangling and making useful
+    - there was a period when people thought they would do anything in a particular tool, like [[roam]]
+      - people were trying to get *everything* into [[roam]]: putting documents in blocks there to be able to annotate them.
+      - that has [[cooled down]]
+    - at some point they asked: what's the number one feature we need to implement to actually make money, charge for it?
+      - [[evernote]] was the first big one, that would not be the case before
+    - [[tweet threads]] 
+      - the user of [[twitter]] has helped advance the space
+  - #q if you did [[enterprise]], what would you do?
+    - [[consumer vs enterprise]]
+      - vs
+        - [[single player]] vs [[multiplayer]]
+    - enterprise is in the back of their minds, but it's not currently core
+    - enterprise saas is a great business model though, but there's not as clear an enterprise vision for now
+  - #q on [[information density]] are people reading slower? it takes twice as long to listen than to read
+    - attention is more often split when listening
+    - less information absorbed when people are listening
+    - are you able to unplug and read for, say, 20 minutes?
+    - "throw all your technology away, go into a cottage and read paper"
+      - the problem can probably be solved this way, but that's not feasible actually
+      - "fight technology with technology"
+      - maybe it's good to be able to read on your smartphone, how do you accomplish that?
+      - [[emergent reading]] (?)
+  - #q it seems you're in the position of [[owning the plumbing]]: can you lean into that, are you blocked by the players in this space?
+    - it would be great to have an [[open standard]]
+    - [[annotations]] [[hypothesis]]
+      - [[chrome]] has started to add a little bit to it
+      - but it's very [[web focused]]
+    - (the stream glitched for me here, lost about a minute)
+- [[john borthwick]] on the [[knowledge blob]]: it should be transportable
+  - they had to come up with their own core abstractions when developing their reading app.
+  - why don't we build on top of a [[block]] architecture]]?
+  - "like it was the fashion at the time" :)
+    - metaphor from user feedback: no, it doesn't really work, it's too soupy (?)
+    - it felt "too liquid"
+    - how to turn [[fluid thoughts]] into [[coherent text]]
+      - [[blocks]] -> [[docs]]
+    - [[document]] ~ [[doc]]
+      - you have [[blocks]] and [[docs]]
+      - imagine your thoughts being injected into a doc
+    - meaning exchange for [[knowledge blobs]]
+      - annotation
+      - highlight
+      - notes that you take while reading
+    - when you want to read a 120 tweet thread, you actually want to see that as a [[document]] that you can [[annotate]] as a whole
+- #q on the toolchain aspect of the [[plumbing]]: love how you can jump from tool to tool. How much effort do you put into customizing the ingestion engines? On the Enterprise side: would love [[readwise]] for [[slack]] :)
+  - hacked into something like the latter :)
+    - -> I think bots like [[agora bot]] are sufficient?
+  - [[jinja]] seemed to solve all problems for customization cross tool
+    - [[low floor, high ceiling approach]]
+    - -> interesting, [[agora protocol]] seems related
+- #q Use cases in education; have you been thought about getting involved with schools? Have you thought about the impact of adoption by students who could be forced to use it? :)
+  - Education just hasn't been something they've been successful at, haven't found a way to penetrate that field.
+    - -> [[hypothes.is]] collaboration?
+
+## [[Demo: Protocol Design for Tools for Thinking]]
+- [[gordon brander]] on [[subconscious]]
+  - (87 people watching at this point in time)
+  - actually talking about something on a larger scale than [[subconscious]]
+  - the internet is already a tool for thought
+  - we've gone through [[sense making crises]] several times on a historical level
+  - we're going through another and we'll need to get through it
+    - [[planet scale challenges]]
+      - [[climate crisis]]
+      - [[kardashev]] [[type 3 civilizations]]
+      - #push [[protopoi]]
+        - space of [[possible futures]]
+      - outcome is a function of how we learn to [[think together]]
+      - thinking together as a [[whole planet]]
+      - -> [[gordon brander]] is [[building an Agora]]!
+    - #push [[flanbook]]
+      - [[apps]] trap [[thoughts]] in [[saas silos]]
+      - no way to think as a species
+    - #push [[agora protocol]]
+      - [[a protocol for thought]]
+    - some of the [[old dreams]]: 
+      - [[xanadu]]
+      - what if we could all contribute to the same space together?
+      - they were heavy lift back then
+      - but we've made some technical progress!
+      - [[noosphere]] ~ [[agora]]
+    - took some time off here to post about this to social networks: [[gordon brander]] is building an [[agora]]! they don't call it that, but that doesn't matter. It looks technically advanced too.
+    - [[memos]] are a really flexible data structure
+      - (super-thoughts? preceded them?)
+      - very generic content: they are essentially [[envelopes]] that can carry anything
+      - [[envelope]] has:
+        - [[header metadata]] 
+        - a pointer to some content on [[ipfs]]
+        - a pointer to the previous version on [[ipfs]]
+        - things just don't disappear anymore
+      - [[ucan]] authorizes apps to manage data on your behalf
+        - can allow us to build a [[self sovereign]] security model
+        - you own your keys, you put them in a [[wallet]]
+        - fits [[passwordless sign on]] ~ [[passkeys]]
+        - you [[own your identity]], very important to them
+        - leverages [[did]] and such
+      - [[sphere servers]] are [[superpeers]]. personal [[ipfs gateways]].
+        - [[gossip network]]
+
+## [[The History and Future of Software as Tools for Thinking]]
+- (missed the first minute)
+- [[jerry michalski]] with [[howard rheingold]]
+  - how do communities work? how do we get smarter humans?
+  - pass the floor
+  - (split screen with [[jerry's brain]])
+- [[howard rheingold]]
+  - [[palo alto research center]]
+  - went there for [[alan kay]]'s article for [[scientific american]]
+    - [[microelectronics in the personal computer]]
+    - if you weren't in [[xerox parc]] you just didn't have what he showed on screen
+    - then [[time magazine]] making the [[personal computer]] [[person of the year]]
+      - the [[steves]] standing on the shoulders of giants
+    - it didn't come from defense contractors, it didn't come from corporations, it cames from [[individuals]] who used what institutions provided to build tools for thinking
+    - [[engelbart]]
+    - (missed one name here or two, check recording)
+    - [[von neumann]]
+    - [[alan turing]]
+    - [[boole]]
+    - [[lovelace]]
+    - [[babbage]]
+  - led him to create.
+- [[jerry michalski]]
+  - [[vannevar bush]] [[memex]]
+  - [[howard rheingold]] on [[licklider]] [[1960]]
+    - -> shame I can't read Jerry's brain here, I didn't know this name at first clearly :)
+  - (echo/[[feedback issues]])
+  - [[article]]
+    - [[man computer symbiosis]]
+  - [[J.C.R. Licklider]] got a position (which one?), had read [[Douglas Engelbart]].
+    - [[licklider]] funded (sp?) [[engelbart]]
+    - led to [[mother of all demos]]
+    - [[integrated systems of humans]] using [[language]], [[artifacts]], [[methodology]], [[training]]
+  - [[licklider]] has a [[psychologist]] on staff
+    - later involved in [[microdosing]] experiments?
+- #q [[jerry michalski]] what from the original vision has worked (and maybe we take for granted) and what hasn't (yet)?
+  - materialized:
+    - pointing and clicking
+    - multimedia
+  - shared notebook for people working on projects was part of the original demo
+  - tried going with [[organizations]] where these tools didn't work out, but the vision was as follows
+  - #push [[works]]
+    - [[a work]]
+      - service or product that your enterprise created
+    - [[b work]]
+      - part of the enterprise that works on improving ability to create that product
+    - [[c work]]
+      - #push [[agora]]
+        - improving your ability to improve
+    - vision of [[c work]] done as [[skunkworks]], introducing innovation to [[b work]] sections
+  - vision was an [[integrated toolkit]]
+  - note taking apps, rapid learning apps
+    - we need to integrate these things as a [[toolkit]], integrate [[thinking environments]]
+    - there are [[relationships]] that really need to be made more clear
+      - [[knowledge tools]], [[learning tools]], [[thinking tools]]
+    - there are ways of using visualizations of what we know to think
+- #q [[howard rheingold]] do you think of the brain as a way to think or a tool? (check?)
+  - Jerry thinks of it as [[photoshop]] for ideas
+  - (Demo bridging several nodes to [[cholera]].)
+  - Putting all nodes side by side in a single tool (interface) is instrumental.
+  - thebrain's flexibility is one of the most attractive factors.
+  - [[howard rheingold]] it externalizes your memory
+    - [[the magic number 7]]
+    - offloading leading going to higher levels of abstraction
+    - thinking visually w.r.t. the network of connections leads to a new framework of thought that would be otherwise difficult to hold in our minds at once
+  - -> Howard wrote books before some of these tools; his office was plastered with papers and notes
+    - Stacks of notes that could be moved around.
+    - Ability to externalize was there; the ability to think with symbolic items.
+  - [[jerry michalski]]
+    - [[expressive capacity]]
+    - different tools have different expressive capacity
+    - when [[cad]] was new, it lacked a lot of the features it has now
+    - when [[shopping for a tool]], it's hard to figure out which features we need a priori
+    - some tools are very workflow opinionated, very rigid
+      - e.g. tools that enforce color coding
+- #q [[jerry michalski]] you set out to explore these tools and report back; what did you learn from your journeys?
+  - [[howard rheingold]] throughout history, we see that people who use tools find things to do with them
+  - the [[internet]] is a good example: there is a myth that it was created as a bomb proof communication medium.
+    - actually [[packet switching]] was created for that purpose
+    - which was then adopted for the internet 
+    - people like [[licklider]] knew of the need to network to exchange information
+    - [[researchers]] started using the network to talk about things like [[science fiction]]
+    - [[bob taylor]]: lesser known but very important character
+      - check out the video with [[john m.]] from [[university of texas]] at austin
+    - researchers supported the emerging community
+    - [[intergalactic network]]
+      - [[1968]] [[computer as a communication device]]
+      - the users were the ones who turned the internet into a communication medium
+    - [[stackexchange]]
+    - the model of an expert who broadcasts knowledge isn't as useful as a group or community of people who are [[learning together]] ~ [[colearning]]
+- #q [[jerry michalski]] on the problem of assigning truth values (paraphrasing, check)
+  - daughter started using search engines to do homework
+  - had to explain that up until now when teachers assigned a book, there were a number of authorities participating in that assignment (and could potentially act as gatekeepers)
+    - it's up to you to determine if it is [[good]] information, [[bad]] information, [[misinformation]].
+  - technology is advancing so fast that [[fake info]] risks becoming uncontrollable
+    - solution unknown but might require algorithmic filtering
+      - -> [[open source algorithms]] in the [[commons]] may be the solution IMHO
+  - who do you [[trust]]? can you adopt their lists (adopt their trust)?
+  - [[sift]] if you're trying to check the veracity of that webpage, get off that webpage
+    - search name of the author for example
+    - -> metadata overlay for the web? provided by [[hypothes.is]], [[noosphere]], [[agora]]
+  - [[jerry michalski]]
+    - #push [[fellowship of the link]]
+      - remembers asking questions on (forum name missing)
+      - a maybe nicer/simpler time, but points at potential
+- #q On [[misinformation]]/disinformation. Politically: what's your view on the human mind itself, thinking of it as self-reinforcing loops? if you have a personal belief and you may or may not reinforce it.
+  - [[confirmation bias]]: more attuned to evidence that supports what we already believe
+  - the role of emotion and [[attachment]]
+  - don't know the answer to how to solve these tensions
+  - how to pull in the right people into the right discussions/contexts
+  - human prejudices which keep us from learning things that we have not been yet trained to learn
+    - doesn't mean we won't discover ways to work around that
+  - we have to think of the strong connections between artifacts, language, metodology, training as they enable us to understand the psychology of the individual and the group
+  - [[experts on the well]] (sp?) is still around
+  - #push [[agora]]
+    - [[social capital]], [[knowledge capital]], [[community]] are all key
+- [[jerry michalski]]
+  - case: [[blair]] (sp?) scribbling all posts in the [[well]] before suicide :(
+    - [[tribute]]
+- #q is there a place for [[authority figures]] without going back to [[gatekeeping]]
+  - [[howard rheingold]] [[authority figure]] can be a loaded term
+  - [[authority of the text]]: how much you can trust the text, and the person
+  - teaching experience: [[social media]]
+  - there's a place for [[authority]] and for [[questioning authority]]
+    - questioning is even more important now that we have fewer [[gatekeepers]]
+  - [[jerry michalski]] [[the great transformation]]
+    - "don't ever read this book"
+    - critique of [[polanyi]]
+    - how do we steer away from radicalization as it's endorsed/enabled by corporate platforms?
+- #q (missed the gist of question about tools for thought, check)
+  - [[howard rheingold]] standard psychological tests with people and substituted a computer or cartoon rendition of a person or a computer voice: people attribute human qualities to things that computers do
+  - we have not evolved to make a distinction between synthetic and organic voices
+  - understanding our limitations can lead to working around them
+  - one problem with teaching critical thinking:
+    - if you teach questioning authority, they will question:
+      - teachers
+      - family
+      - schools
+      - governments
+      - ...and they tend not to like that :)
+    - when do you teach it? is elementary school too early?
+- #q [[michael]] thank you for your book. Two pieces to the description earlier of analog thinking extension: (...). How do those map, or not, to digital tools?
+  - experiments with new interfaces
+    - move blocks around and change the computer landscape
+  - book: [[the extended mind]]
+    - there's a lot of research that shows that teachers who use gestures are more effective teachers
+    - our bodies and how we manipulate forms in space communicate a way of thinking
+  - [[jerry michalski]] sometimes a computer can slow you down and ask: how are you feeling right now? there's many processes (e.g. somatic) ongoing; slowing down and becoming mindful can help you become aware of them.
+    - physiological responses to new information.
+    - can we find that moment and call it out? offer a chance to slow down then, going deeper?
+  - [[jerry michalski]] there are people who are aware of their heartbeat and people who aren't
+    - stock brokers: people who are aware of their heartbeat make better financial decisions (I think; the stream cut out for 10s)
+- #q what's the more psychoactive experience you've had with a computer?
+  - [[howard rheingold]] talked way into [[xerox parc]], got access to an [[alto]] computer with a [[5mb]] hard disk
+    - being able to move a paragraph around without retyping a page (!)
+    - "it was [[blissful]]" :D
+    - "it was not just a way to manipulate information, I could think better with it"
+  - computer programming does this with abstraction
+  - what people did early online, late 1980s, people took psychedelics and chatted online
+    - [[lerl]] (sp?)
+  - took [[lsd]] again at some point, put on [[google earth]] and had a realization that what [[google]] was doing was building an [[ai]]
+- #q what do you think about [[tools for thought]] for modeling, simulations
+  - (had to context switch but this sounded interesting)
+  - [[betterverse]]
+  
+## [[Q&A]]
+- Have to drop out for the day by now to prep dinner and start winding down for the night :)
+
+## [[Tools for Thinking Product Demos]]
+- TBD.
+
+## [[Leveraging AI and ML in Building New Tools for Thinking]]
+- TBD.
+
+## [[Idea Dimensionality and Representing Semantic Meaning]]
+- TBD.

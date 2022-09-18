@@ -1,0 +1,5 @@
+- a [[person]].
+  - [[friend]]
+  - #twitter https://twitter.com/json_dirs
+  - #mastodon https://social.coop/@jonny
+  - #pull [[jonny saunders]] [[json_dirs]]

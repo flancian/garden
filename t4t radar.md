@@ -1,0 +1,22 @@
+- #go https://docs.google.com/spreadsheets/d/1hY2V5NoSS713R2wzcjBE2q5KZIlfMOPFtL9g6Gaop_o/edit#gid=0
+- #push [[tools for thought]]
+  - [[roam]]
+    - [[openness]]
+      - 5
+    - [[visualization]]
+      - 5
+  - [[athens]]
+    - [[openness]]
+      - 8
+    - [[visualization]]
+      - 10
+  - [[obsidian]]
+    - [[openness]]
+      - ...
+    - [[visualization]]
+      - …
+  - [[agora]]
+    - [[openness]]
+      - 10
+    - [[visualization]]
+      - 3

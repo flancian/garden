@@ -1,6 +1,9 @@
-# nfts
-
 - a [[list]].
   - [[push]] here if you want to add an [[nft]] to this list.
   - [[pull]] [[nft]]
   - [[flancian]] https://twitter.com/flancian/status/1462093779163361298
+  - [[5017]] 
+    - https://social.coop/web/statuses/108375245393299699
+    - https://social.coop/@flancian/108375237800520860
+    - https://social.coop/web/statuses/108375224046538698
+      - https://social.coop/@flancian/108375224046538698

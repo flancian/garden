@@ -126,3 +126,88 @@
 						- cognitive activity is [[immanent]] in life
 					- [[cognition]] does not require a [[brain]]/nervous system
 						- plants, bacteria which don't have nervous systems are all constantly involved in [[cognitive activities]] (as they perceive, react)
+	- (...) see screenshots / transcribe
+	- lecture 9, 10, 11 all great
+	- [[lecture 12]] [[systemic solutions]]
+		- [[energy crisis]]
+			- many possible solutions
+			- two false solutions, non-systemic
+				- [[clean coal]] is essentially an advertising slogan for new, unproven techniques for carbon capture
+				- hope that [[nuclear power]] could replace coal, but the risks were underexplored.
+					- in the book [[fritjof capra]] summarizes [[seven inconvenient truths]] about [[nuclear power]]
+						- creates significant greenhouse gases
+						- uranium supplies are very limited
+						- construction time of plants is too long
+						- waste storage problem remains unsolved
+						- nuclear power and nuclear weapons are inextricably linked
+						- new generation reactors have the same problems and are too late
+						- nuclera power is not viable commercially
+			- #push [[plan b]] by lester brown
+				- shows strategies building on existing technology, working examples from around the world
+				- eradicating [[poverty]] and stabilizing [[population]]
+				- stabilizing [[climate]]
+				- restoring the earth's [[ecosystems]]
+			- [[reinventing fire]] by [[amory lovins]]
+				- focus is narrower than brown's
+				- "to create a clear and practical vision of a fossil fuel free future backed up by quant analsys and to map out a path towards that future"
+				- massive savings in energy and cost
+				- hope is that business could get behind the cost savingssss
+			- [[the third industrial revolution]] by [[jeremy rifkin]]
+				- renewable energy sources
+					- hidrogen
+					- [[fossil fuel free future]]] (~ [[ffff]])
+				- electric vehicles
+				- smart grids
+				- government agencies focus
+				- [[widely distributed]] grids enabled by the [[internet]]
+		- [[global food crisis]]
+			- similar to and interlinked with the [[energy crisis]]
+			- two basic types of [[food systems]]
+				- industrial production: energy intensive, centralized, [[fossil fuel]] based
+				- traditional practices: distributed, organic
+			- [[chemical agriculture]] was hailed as a new era, and it was actually seen as a [[green revolution]], but...
+				- massive use of fertilizers/pesticides changed the whole fabric of agriculture
+				- single crop monoculture took over, led to soil depletion and escalating use of pesticides
+				- high energy use resulted in great concentration in very large farms
+			- [[gmos]]
+				- long session on this and genetic engineering in the book
+				- the main objective in genetic engineering seems to have been to increase the sales of chemicals :(
+			- #push [[agroecology]]
+				- [[organic farming]], [[permaculture]], [[sustainable argriculture]]
+				- variety of crops, rotated
+				- instead of chemical fertilizers, a focus on manure and organic material from previous crops
+				- it embodies ecological principles which have been tested by [[evolution]]
+				- soil is actually alive: there are billions of organisms in every [[cm3]]
+				- [[diversification]] and [[intercropping]]
+				- [[agroforestry]]
+				- "[[agroecology]] (is/might be) able to raise agricultural productivity in ways that are economically viable, ecologically sound and socially uplifting"
+				- soil that is organically managed *is a carbon store* (as it's full of life)
+				- **[[carbon sequestration]] in soil and plants is currently the only known and proven technology to draw down [[co2]] from the atmostphere and in the long run stabilize climate**
+			- #push [[ecodesign]]
+				- [[david orr]]
+					- "[[ecological design]] is the careful meshing of our [[human purposes]] with the larger [[patterns]] and [[flows]] of the natural world"
+				- eco design principles reflect those that are found in nature to support life
+				- "what can we *learn* from nature" (instead of what can we extract from it)
+				- some examples from two areas
+					- [[nutrient and waste recycling]]
+					- [[building and cities]]
+				- [[organic cycles]]
+					- coffee production + mushroom production + livestock + ...
+				- [[technical cycles]]
+					- between manufacturers and consumers
+					- (maybe related to [[repair movement]]?)
+					- people want services, not products
+					- the manufacturer could "own" devices, be responsible to recycle all components at the end of life of a device
+				- urban [[ecodesign]]
+					- ~60 cities have adopted the [[curitiba]] model
+					- modern [[car free]] environments
+					- [[urban villages]]
+					- [[high density]] structures combined with ample [[green spaces]]
+			- [[system solutions]] in this lecture seem to provide ample evidence that we have the tools to build a [[sustainable future]] -- what we need is [[political will]] and [[leadership]]
+- [[conclusion]]
+	- [[leadership]] means [[facilitating the emergence of novelty]]
+	- often asked: "will there be enough time to save human civilization", "can we have hope for the future"?
+		- the most inspiring answer to this comes from [[václav havel]]
+			- a meditation on [[hope]] itself
+			- written while imprisoned under the [[soviet regime]]
+			- "The kind of [[hope]] that I often think about I understand above all as a state of mind, not a state of the world. Either we have hope within us or we don't. It is a dimension of the [[soul]] and it's not essentially dependent on some particular observation of the world or estimate of the situation. Hope is not the conviction that something will turn out well, but the certainty that something [[makes sense]] regardless of how it will turn out."

@@ -1,0 +1,2 @@
+- #pull [[curb]] my, our [[bullshit]]
+  - I'll try to [[curb my bullshit]] if [[curb your bullshit]]

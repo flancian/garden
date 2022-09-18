@@ -1,0 +1,6 @@
+- this [[node]] a [[map]].
+  - of the space of [[maps]].
+  - #push [[agora maps]]
+    - [[map of flancia]]
+    - [[map of the fediverse]]
+    - [[map of tools for thought]]

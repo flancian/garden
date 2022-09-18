@@ -1,2 +1,3 @@
 - a [[genossenschaft]]
-	- [[go]] https://www.kraftwerk1.ch/
+	- #go https://www.kraftwerk1.ch/
+  - [[amélie]] [[hans widmer]]

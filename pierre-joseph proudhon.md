@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[revolutionary]]
+  - [[wp]] https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#Later_life_and_death

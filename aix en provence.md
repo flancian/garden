@@ -1,0 +1,4 @@
+- a [[city]].
+  - in southern [[france]]
+  - near [[marseille]]
+  - once part of [[barcelona]]/[[aragón]]

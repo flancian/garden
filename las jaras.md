@@ -1,0 +1,6 @@
+- an [[intent]].
+  - [[flancians]] intend to [[slay | disentangle]] [[moloch]]
+    - #pull [[slay moloch]] [[disentangle moloch]]
+- a [[card]].
+  - [[31]]
+  - in [[lotería mexicana]]

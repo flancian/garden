@@ -1,0 +1,3 @@
+- #pull [[phenomenology]] [[buddha]] [[husserl]]
+- #pull [[theory of mind]]
+- #pull [[daniel dennett]] [[douglas hofstadter]]
