@@ -1,2 +1,2 @@
-- [[Flancia]] is a [[kind]] [[incremental]] [[revolution]] organized through the internet with the help of an [[Agora]].
+- #push [[Flancia]] is a [[kind]] [[incremental]] [[revolution]] organized through the internet with the help of an [[Agora]].
   - #pull [[loving kindness]]
