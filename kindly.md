@@ -2,3 +2,5 @@
   - #pull [[loving kindness]]
   - The [[Agora of Flancia]] tries to be a [[good steward]] of your [[digital self determination]] rights.
     - The [[Agora]] is a [[Commons]] and as such it is [[free, fair and alive]].
+- [[mettarevolution]]
+  - [[mettarrhiza]]
