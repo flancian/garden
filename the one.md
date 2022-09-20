@@ -1,6 +1,6 @@
 - a [[person]].
   - [[friend]]
-  - we met in person on [[2022-06-19]]
+    - we met in person on [[2022-06-19]]
   - #pull [[real ez cheese]]
   - [[46278739]]
   - he uses [[spaz]] as a verb in a positive/well meaning way
@@ -12,6 +12,7 @@
     - [[people router]] -> [[talent repository]]
     - [[timeline]]
   - [[projects]]
+    - many :)
     - [[zero precedent]]
     - [[hope]]
     - [[find a friend]]
