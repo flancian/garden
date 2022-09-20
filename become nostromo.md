@@ -1,3 +1,4 @@
-- I wrote a [[shell script]] today, I call it [[become nostromo]].
-  - It is in my [[chezmoi]] repository like all my hacks.
-  - It is very simple; essentially a batch file.
+- I wrote a [[shell script]] I like, I call it [[become]].
+  - I call it for example to [[become nostromo]], [[become paramita]].
+    - It is in my [[chezmoi]] repository like all my hacks.
+    - It is very simple; essentially a batch file.
