@@ -1,0 +1,2 @@
+- I wrote a [[shell script]] today, I call it [[become nostromo]].
+  - It is in my [[chezmoi]] repository like all my hacks.
