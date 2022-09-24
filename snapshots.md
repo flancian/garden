@@ -8,6 +8,6 @@
   - #pull [[chezmoi]]
   - #go [[git]]
 - a [[list]].
-  - of items implementing the pattern [[snapshot]]
+  - of items implementing the #snapshot [[pattern]]
 
 
