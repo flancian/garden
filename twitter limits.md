@@ -1,0 +1,2 @@
+- #go https://developer.twitter.com/en/docs/twitter-api/rate-limits
+  - supposedly, although [[agora bot]] gets throttled even when we're not anywhere near these.
