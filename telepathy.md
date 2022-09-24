@@ -1,0 +1,2 @@
+- a [[project].
+  - using an [[annotated]] sequence of [[snapshots]] we train models that predict our thoughts, and models that act as [[editors]]/curators of our thoughts.
