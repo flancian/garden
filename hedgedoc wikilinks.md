@@ -1,1 +1,2 @@
 - [[go]] https://github.com/hedgedoc/react-client/issues/443
+  - [[thread]] https://community.hedgedoc.org/t/proposal-wikilinks-support-either-in-core-or-as-an-add-on/836
