@@ -1,3 +1,4 @@
 - a [[network]].
   - the plural of [[agora]] in [[ancient greek]] (nominative, vocative)
   - #go https://agor.ai
+  - https://anagora.org <-> https://flancia.agor.ai
