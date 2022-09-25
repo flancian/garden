@@ -1,6 +1,6 @@
 # Agora Bridge
 
-- A [[service]] run by the [[flancia collective]]].
+- A [[service]] run by the [[flancia collective]].
   - [[git]] https://github.com/flancian/agora-bridge
     - [[go]] [[git]]
   - Provides the [[write]] function in [[an agora]].
