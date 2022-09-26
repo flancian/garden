@@ -1,3 +1,4 @@
+- #pull [[social coop tech group]]
 - [[2022-05-13]]
 	- Attending:
 		- [[akshay]]
