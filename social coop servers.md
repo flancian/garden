@@ -1,4 +1,4 @@
 - a [[list]].
   - #pull [[social coop]] [[servers]]
-  - #primary [[runko]] ~ [[prod]]
-  - #secondary [[?]] ~ [[experiments]]
+  - #prod [[runko]]
+  - #experiments [[?]]
