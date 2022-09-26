@@ -1,5 +1,7 @@
 - a [[server]].
 	- as of [[2022-05-15]] essentially runs [[social coop]].
+    - this mostly means running [[mastodon]] for the community: https://social.coop
 	- to get to a shell in the mastodon web container, run: `sudo docker exec -it docker_web_1 /bin/bash`
 	- as per https://git.coop/social.coop/tech/operations/-/wikis/Elasticsearch, thanks [[red oak]]
   - #ip 95.216.13.24
+  - #admin [[twg]]
