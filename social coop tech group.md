@@ -1,5 +1,5 @@
 - a [[group]].
-	- #pull [[social coop]]
+	- #pull [[social coop]] [[twg]]
 	- [[framadate]] https://framadate.org/social-coop-tech-group
 		- now replaced by built-in [[loomio]] feature
 	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
