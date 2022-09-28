@@ -1,2 +1,2 @@
 - a [[project]].
-  - [[slideware]]
+  - you could call it [[slideware]] :)
