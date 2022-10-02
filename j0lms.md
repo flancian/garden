@@ -21,4 +21,4 @@
 	- would like to help people
 - [[2022-10-02]]
   - training models
-  - trabajando en entrenar modelos
+  - finding it hard to explain a particular result
