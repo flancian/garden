@@ -19,3 +19,6 @@
     - update agora server typescript instructions
 - [[2022-03-05]]
 	- would like to help people
+- [[2022-10-02]]
+  - training models
+  - trabajando en entrenar modelos
