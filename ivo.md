@@ -1,1 +1,3 @@
-- #pull [[kvistgaard]] [[ivo velitchkov]]
+- a [[person]].
+  - [[editor]].
+  - #pull [[kvistgaard]] [[ivo velitchkov]]
