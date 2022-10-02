@@ -1,0 +1,4 @@
+- a [[course]].
+  - in [[udemy]]
+  - recommended by [[ivo]]
+  - #go https://www.udemy.com/course/writing-for-business/
