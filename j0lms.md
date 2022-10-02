@@ -22,3 +22,4 @@
 - [[2022-10-02]]
   - training models
   - finding it hard to explain a particular result
+  - particular example: [[phone]] and [[joy]] dimensions
