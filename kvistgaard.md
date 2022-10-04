@@ -1,4 +1,6 @@
 - a [[person]].
-	- [[twitter]] https://twitter.com/kvistgaard
+  - [[editor]]
+  - #go https://www.strategicstructures.com/wordpress/
+	- #twitter https://twitter.com/kvistgaard
   - #pull [[ivo velitchkov]]
   - #git https://github.com/kvistgaard
