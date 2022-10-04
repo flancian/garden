@@ -1,2 +1,4 @@
 - a [[person]].
 	- [[twitter]] https://twitter.com/kvistgaard
+  - #pull [[ivo velitchkov]]
+  - #git https://github.com/kvistgaard
