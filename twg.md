@@ -3,9 +3,9 @@
   - [[minutes]] https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes
   - [[wiki]] https://git.coop/social.coop/tech/operations/-/wikis/home
   - #push [[social coop tech group]]
-    - [[projects]]
-      - [[restores]]
-      - [[experiments server]] ~ [[secondary server]]
-      - [[mastodon update]]
-      - [[hometown]]
+    - #push [[projects]]
+        - #push [[mastodon upgrade]]
+          - [[restores]]
+          - [[experiments server]] ~ [[secondary server]]
+          - [[hometown]]
   - #go [[minutes]]
