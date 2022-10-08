@@ -8,4 +8,3 @@
           - [[restores]]
           - [[experiments server]] ~ [[secondary server]]
           - [[hometown]]
-  - #go [[minutes]]
