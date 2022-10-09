@@ -1,0 +1,3 @@
+- #push [[chores]]
+  - Do [[laundry]], [[vacuum]], once in a while clean the [[filters]],
+  - Try to see it as a [[meditation]].
