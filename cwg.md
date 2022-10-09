@@ -1,0 +1,4 @@
+- a [[working group]].
+  - #pull [[social coop]] [[community working group]]
+  - #go https://www.loomio.com/socialcoop-community-working-group/
+  - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
