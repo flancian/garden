@@ -1,1 +1,1 @@
-- #go https://meet.google.com/byc-tnon-icn
+- #go https://meet.jit.si/veranda-meet
