@@ -1,0 +1,5 @@
+- a [[person]].
+  - [[music]] [[pianist]]
+  - Played [[Bach]] and his own [[variations]] very nicely.
+  - Was very particular about his pianos.
+  - Would like to learn more about him as a [[composer]].
