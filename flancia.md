@@ -1,5 +1,3 @@
-- a [[playlist]].
-  - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq
 - a [[book]].
   - You're currently reading it.
   - This section is in [[Agora]] Protocol. Feel free to skip such sections if they distract you.
@@ -22,6 +20,7 @@
 	- of [[people]] and [[things]].
 		- (in it there's an [[Agora]].)
 	- [[music]]
+    - a [[playlist]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq
 		- [[spotify]] https://open.spotify.com/playlist/5rzXx4oiIVfegouK9DtcdC
 		- [[yt]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq&feature=share
 	- [[gather]] https://gather.town/app/QIOAg71FojwJ7clE/flancia
