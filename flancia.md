@@ -1,3 +1,5 @@
+- a [[playlist]].
+  - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq
 - a [[book]].
   - You're currently reading it.
   - This section is in [[Agora]] Protocol. Feel free to skip such sections if they distract you.
