@@ -1,0 +1,3 @@
+- a [[conference]].
+  - #go https://unfinished.ro
+  - [[jerry michalski]] attended in [[2022]]
