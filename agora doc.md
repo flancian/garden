@@ -1,10 +1,13 @@
-- an [[article]].
-  - written for [[pkg book]].
-  - #go https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?usp=sharing
-  - #pull [[agora pkg chapter]] ~ [[agora chapter]] (these might converge, I use them in different contexts)
-  - #pull https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit#heading=h.lxyhsegwtr4m
-    - [x] should work, try iframes with [[google docs]]
+- a [[chapter]].
+  - #push [[agora chapter]]
+    - written for [[pkg book]].
+    - #go https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?usp=sharing
+    - #pull [[agora pkg chapter]] ~ [[agora chapter]] (these might converge, I use them in different contexts)
+    - #pull https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit#heading=h.lxyhsegwtr4m
+    - [x] the above should work, try iframes with [[google docs]]
       - it doesn't work :( "Google Docs benötigt Zugriff"
           - oh, but you can click on "click here" to get through!
             - only on Firefox
             - it doesn't work at all on Chrome :(
+    - #comment https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?disco=AAAAhUbCJIQ
+      - great top level comment by [[ivo]].
