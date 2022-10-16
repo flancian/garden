@@ -11,4 +11,4 @@ curl -sSL https://install.python-poetry.org | python3 -
 poetry install  # or add if you're in a new project?
 ```
 
-It gets installed to `$HOME/.local/bin/poetry` on Linux (useful if you don't have .local/bin in your gets 
+It gets installed to `$HOME/.local/bin/poetry` on Linux (useful if you don't have .local/bin in your $PATH).
