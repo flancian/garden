@@ -10,8 +10,11 @@ curl -sSL https://install.python-poetry.org | python3 -
 ```
 
 
+
 ```
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python3 -
 source $HOME/.poetry/env`
 poetry install  # or add if you're in a new project?
 ```
+
+Gets installed to `$HOME/.local/bin/poetry` on Linux.
