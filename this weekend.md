@@ -1,0 +1,1 @@
+- I like this weekend, [[all weekends]].
