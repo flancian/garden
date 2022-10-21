@@ -1,2 +1,2 @@
 - Going there on [[2022-10-21]].
-  - A friend got married!
+  - A [[friend]] got married!
