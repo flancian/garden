@@ -16,3 +16,4 @@
       - now I'm an admin so I should get emails about new approvals pending
     - [[misc]]
       - check admin@social.coop for activity (have it logged in in a separate window)
+      - approve if legit and maybe set a social.coop "flair"
