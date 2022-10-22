@@ -3,4 +3,5 @@
   - #go https://www.loomio.com/socialcoop-community-working-group/
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
   - [[onboarding]]
-    - shared [[zoho]] inbox
+    - shared [[zoho]] inbox for registrations
+    - check https://git.coop/social.coop/community/operations/-/issues for open issues
