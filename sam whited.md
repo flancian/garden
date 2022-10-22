@@ -1,0 +1,4 @@
+- a [[person]].
+  - #pull [[sam]] [[social coop]]
+  - [[xmpp]]
+    - [[snikket]] https://snikket.org/
