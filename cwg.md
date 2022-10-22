@@ -3,3 +3,4 @@
   - #go https://www.loomio.com/socialcoop-community-working-group/
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
   - [[onboarding]]
+    - shared [[zoho]] inbox
