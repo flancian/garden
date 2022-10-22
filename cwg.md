@@ -5,3 +5,4 @@
   - [[onboarding]]
     - shared [[zoho]] inbox for registrations
     - check https://git.coop/social.coop/community/operations/-/issues for open issues, although the [[spam trap]]
+    - check admin@social.coop for activity (have it logged in in a separate window)
