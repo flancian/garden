@@ -14,6 +14,6 @@
       - most people don't apply to loomio; most people don't do this unfortunately (yet?)
       - but we have to approve applications to the organization as well
       - now I'm an admin so I should get emails about new approvals pending
+      - approve if legit and maybe set a social.coop "flair"
     - [[misc]]
       - check admin@social.coop for activity (have it logged in in a separate window)
-      - approve if legit and maybe set a social.coop "flair"
