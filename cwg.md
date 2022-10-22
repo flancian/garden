@@ -20,3 +20,4 @@
       - maybe post once or twice a week
         - size of instance
         - nudge people to go to loomio
+      - moderate mastodon instance as needed
