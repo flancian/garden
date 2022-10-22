@@ -7,5 +7,7 @@
     - check https://git.coop/social.coop/community/operations/-/issues for open issues, although the [[spam trap]]; can ignore meet.coop registrations
       - example: https://git.coop/social.coop/community/operations/-/issues/633
       - check open collective user exists; check it's not obviously spam
+      - use labels to track workflow (spam, in progress, approved)
+      - we wait for the next two oncalls, then we close as non responsive
     - check admin@social.coop for activity (have it logged in in a separate window)
     - 
