@@ -3,15 +3,16 @@
   - #go https://www.loomio.com/socialcoop-community-working-group/
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
   - [[onboarding]] from [[sam whited]]
-    - [[registrations]]
+    - [[registrations]] overall
       - shared [[zoho]] inbox for registrations
       - check https://git.coop/social.coop/community/operations/-/issues for open issues, although the [[spam trap]]; can ignore meet.coop registrations
         - example: https://git.coop/social.coop/community/operations/-/issues/633
         - check open collective user exists; check it's not obviously spam
         - use labels to track workflow (spam, in progress, approved)
         - we wait for the next two oncalls, then we close as non responsive
-        - check admin@social.coop for activity (have it logged in in a separate window)
     - [[loomio]]
       - most people don't apply to loomio; most people don't do this unfortunately (yet?)
       - but we have to approve applications to the organization as well
-    - 
+      - now I'm an admin so I should get emails about new approvals pending
+    - [[misc]]
+      - check admin@social.coop for activity (have it logged in in a separate window)
