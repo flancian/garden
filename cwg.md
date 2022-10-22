@@ -12,5 +12,6 @@
         - we wait for the next two oncalls, then we close as non responsive
         - check admin@social.coop for activity (have it logged in in a separate window)
     - [[loomio]]
-      - most people don't apply to loomio; most people don't do this unfortunately
+      - most people don't apply to loomio; most people don't do this unfortunately (yet?)
+      - but we have to approve applications to the organization as well
     - 
