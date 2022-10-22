@@ -2,7 +2,10 @@
   - #pull [[social coop]] [[community working group]]
   - #go https://www.loomio.com/socialcoop-community-working-group/
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
-  - [[onboarding]]
+  - [[onboarding]] from [[sam]]
     - shared [[zoho]] inbox for registrations
-    - check https://git.coop/social.coop/community/operations/-/issues for open issues, although the [[spam trap]]
+    - check https://git.coop/social.coop/community/operations/-/issues for open issues, although the [[spam trap]]; can ignore meet.coop registrations
+      - example: https://git.coop/social.coop/community/operations/-/issues/633
+      - check open collective user exists; check it's not obviously spam
     - check admin@social.coop for activity (have it logged in in a separate window)
+    - 
