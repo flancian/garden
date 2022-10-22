@@ -4,4 +4,4 @@
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
   - [[onboarding]]
     - shared [[zoho]] inbox for registrations
-    - check https://git.coop/social.coop/community/operations/-/issues for open issues
+    - check https://git.coop/social.coop/community/operations/-/issues for open issues, although the [[spam trap]]
