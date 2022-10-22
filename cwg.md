@@ -17,3 +17,6 @@
       - approve if legit and maybe set a social.coop "flair"
     - [[misc]]
       - check admin@social.coop for activity (have it logged in in a separate window)
+      - maybe post once or twice a week
+        - size of instance
+        - nudge people to go to loomio
