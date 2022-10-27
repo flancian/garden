@@ -1,0 +1,4 @@
+- a [[song]].
+  - [[vivir quintana]]
+  - #go https://www.youtube.com/watch?v=uRQLBhvCv10
+  - #lyrics https://docs.google.com/document/d/1N_B02U4-VIVKKyCPlvuMku4rLZjK3k922xlu44U0stY/edit
