@@ -5,6 +5,7 @@
   - #push [[personal]]
     - let go of [[fear]]
     - practice [[fractal altruism]] and [[loving kindness]]
+    - follow a constructive and meaningful [[eightfold path]]
   - #push [[flancia]]
     - resume writing long form motivated by [[bouncepaw]]'s questions
     - write what comes after [[caramel city]] -- maybe start with the [[confoederatio helvetica flanciana]]
