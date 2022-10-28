@@ -6,6 +6,7 @@
   - [[flancia]]
   - [[agora]]
   - [[google]]]
+    - plan for [[2023]], communicate
   - [[social coop]]
     - read technical documentation as per the blocks pushed
     - follow up on [[missed registrations]] and opening up invites with the community
