@@ -1,9 +1,6 @@
-# Next Action
-
-- A [[concept]]
-  - part of [[Getting Things Done]].
-- See [[do]].
-- See [[stoa]].
+- A [[list]].
+  - Originally part of [[Getting Things Done]].
+  - #pull [[do]] [[next actions]]
 
 
 
