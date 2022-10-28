@@ -34,3 +34,4 @@ Nope, doesn't work, need to add this to Marko or maybe consider moving to the [[
 
 Anyway, here I am in [[2022-10-28]] doing pomodoros to try to finish the first pass over all the interesting comments by the [[editors]], end to end over the [[20 pages]] of the document.
 
+Also planning to cook something simple tonight and have a quick dinner with friends :)
