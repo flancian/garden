@@ -11,7 +11,8 @@
       - [ ] Ask [[konstantint]]?
       - [ ] Try to set up sync on the other direction using [[pandoc]]?
   - #comments from the [[editors]]
-    - [ ] reading more on [[2022-10-28]]
+    - [ ] finish first pass on [[2022-10-28]]
+    - #pull [[next action]]
 
 Some loose notes about the process of writing/editing this follow, started on [[2022-10-27]] as I'm starting to go through editors' comments to try to get the chapter into a good enough shape to call it done.
 
