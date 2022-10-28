@@ -1,9 +1,9 @@
 
 - a [[tool]].
   - [[discussion]] [[governance]]
+    - A platform for group governance.
   - #go https://loom.io
-  - [[social coop]] https://www.loomio.com/socialcoop/
-- [[wiki]] https://en.wikipedia.org/wiki/Loomio
-- A platform for group governance.
-- Used in [[social.coop]].
+  - #wp https://en.wikipedia.org/wiki/Loomio
+  - Used in [[social.coop]]!
+    - [[social coop]] https://www.loomio.com/socialcoop/
 
