@@ -7,6 +7,8 @@
   - [[agora]]
   - [[google]]]
   - [[social coop]]
+    - read technical documentation as per the blocks pushed
+    - follow up on [[missed registrations]] and opening up invites with the community
 
 
 
