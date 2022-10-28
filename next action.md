@@ -3,7 +3,8 @@
   - #pull [[do]] [[next actions]]
   - May fall in a number of categories.
   - [[personal]]
-    - let go of fear
+    - let go of [[fear]]
+    - practice [[fractal altruism]] and [[loving kindness]]
   - [[flancia]]
     - resume writing long form motivated by [[bouncepaw]]'s questions
   - [[agora]]
