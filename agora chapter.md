@@ -30,5 +30,7 @@ Maybe if they are four minuses?
 
 ----
 
+Nope, doesn't work, need to add this to Marko or maybe consider moving to the [[markdown parser]] that [[peter kaminski]] recommended in the last [[fellowship of the link]].
+
 Anyway, here I am in [[2022-10-28]] doing pomodoros to try to finish the first pass over all the interesting comments by the [[editors]], end to end over the [[20 pages]] of the document.
 
