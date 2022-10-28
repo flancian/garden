@@ -3,11 +3,11 @@
     - or maybe [[2022-10-30]] ;)
     - after great comments by [[editors]].
   - See also [[agora pkg chapter]], [[agora doc]].
-  - #pull [[agora doc]] is what will be the actual next deliverable
+  - #meta [[agora doc]] is what will be the actual next deliverable
     - this [[google doc]] has been used for editing rounds after [[2022-09-01]].
       - I'd like to set up sync back to the Agora ([[Markdown]]).
-      - Ask [[konstantint]].
-      - [ ] try to set up sync using [[pandoc]]
+      - [ ] Ask [[konstantint]]?
+      - [ ] Try to set up sync on the other direction using [[pandoc]]?
 
 Some loose notes about the process of writing/editing this follow, started on [[2022-10-27]] as I'm starting to go through editors' comments to try to get the chapter into a good enough shape to call it done.
 
