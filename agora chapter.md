@@ -1,5 +1,6 @@
 - a [[chapter]].
   - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
+  - or maybe [[2022-10-30]] ;)
   - #pull [[agora pkg chapter]] is the source of truth for the draft
   -     maybe I'll make that a [[meta node]] and keep this node focused strictly on the text that will be printed?
   - #pull [[agora doc]] is what will be the actual next deliverable
