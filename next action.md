@@ -7,6 +7,15 @@
     - practice [[fractal altruism]] and [[loving kindness]]
   - [[flancia]]
     - resume writing long form motivated by [[bouncepaw]]'s questions
+    - write what comes after [[caramel city]] -- maybe start with [[confoederatio helvetica flanciana]]
+      - [[2022]]
+      - [[2023]]
+      - [[2025]]
+      - [[2027]]
+      - [[2030]]
+      - [[2050]]
+      - [[2100]]
+      - [[3000]]
   - [[agora]]
     - finish [[agora chapter]]
       - may require rewriting in parts :) but it's alright, I think I have enough time thankfully
