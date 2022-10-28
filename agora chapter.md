@@ -3,7 +3,7 @@
   - [[draft]]
     - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
     - or maybe [[2022-10-30]] ;)
-    - after great comments by [[editors]].
+      - after great comments by [[editors]].
   - See also [[agora pkg chapter]], [[agora doc]].
   - #meta [[agora doc]] is what will be the actual next deliverable
     - this [[google doc]] has been used for editing rounds after [[2022-09-01]].
@@ -17,3 +17,9 @@ First of all, it's super useful and informative (a learning experience) to have 
 
 Second of all, I procrastinated a bit on starting to go through comments due to a pretty irrational sense of fear that the chapter was unreadable/unrepairable. I think it turns out there's plenty to be saved and repurposed for the final draft :) I'm also happy that I took some days off work, as it is indeed the time to dedicate real time to this project in a relatively uninterrupted way.
 
+--
+
+I wonder if anagora.org supports rulers yet or I just dreamt it?
+
+
+--==
