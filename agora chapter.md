@@ -21,5 +21,11 @@ Second of all, I procrastinated a bit on starting to go through comments due to 
 
 I wonder if anagora.org supports rulers yet or I just dreamt it?
 
+----
 
---==
+Maybe if they are four minuses?
+
+----
+
+Anyway, here I am in [[2022-10-28]] doing pomodoros to try to finish the first pass over all the interesting comments by the [[editors]], end to end over the [[20 pages]] of the document.
+
