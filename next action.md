@@ -3,8 +3,12 @@
   - #pull [[do]] [[next actions]]
   - May fall in a number of categories.
   - [[personal]]
+    - let go of fear
   - [[flancia]]
+    - resume writing long form motivated by [[bouncepaw]]'s questions
   - [[agora]]
+    - finish [[agora chapter]]
+      - may require rewriting in parts :) but it's alright, I think I have enough time thankfully
   - [[google]]]
     - plan for [[2023]], communicate
   - [[social coop]]
