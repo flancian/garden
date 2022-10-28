@@ -1,7 +1,7 @@
 - A [[tree]].
-  - The concept comes from [[Getting Things Done]].
-  - #pull [[do]] [[next actions]]
-  - May fall in a number of categories.
+  - The general concept comes from [[Getting Things Done]].
+  - #pull [[do]] [[next actions]] I play hard and loose with plurals and in general with [[equivalence classes]]
+  - May fall in a number of distinct categories :)
   - [[personal]]
     - let go of [[fear]]
     - practice [[fractal altruism]] and [[loving kindness]]
