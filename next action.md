@@ -7,7 +7,7 @@
     - practice [[fractal altruism]] and [[loving kindness]]
   - #push [[flancia]]
     - resume writing long form motivated by [[bouncepaw]]'s questions
-    - write what comes after [[caramel city]] -- maybe start with [[confoederatio helvetica flanciana]]
+    - write what comes after [[caramel city]] -- maybe start with the [[confoederatio helvetica flanciana]]
       - [[2022]]
       - [[2023]]
       - [[2025]]
@@ -26,6 +26,3 @@
   - #push [[social coop]]
     - read technical documentation as per the blocks pushed
     - follow up on [[missed registrations]] and opening up invites with the community
-
-
-
