@@ -1,5 +1,5 @@
 - A [[list]].
-  - Originally part of [[Getting Things Done]].
+  - The concept comes from [[Getting Things Done]].
   - #pull [[do]] [[next actions]]
 
 
