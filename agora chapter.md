@@ -2,10 +2,11 @@
   - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
     - or maybe [[2022-10-30]] ;)
     - after great comments by [[editors]].
-  - #pull [[agora pkg chapter]] is the source of truth for the draft
-  -     maybe I'll make that a [[meta node]] and keep this node focused strictly on the text that will be printed?
+  - See also [[agora pkg chapter]], [[agora doc]].
   - #pull [[agora doc]] is what will be the actual next deliverable
-    - this [[google doc]] will be used for editing after [[2022-09-01]], I want to set up sync.
+    - this [[google doc]] has been used for editing rounds after [[2022-09-01]].
+      - I'd like to set up sync back to the Agora ([[Markdown]]).
+      - Ask [[konstantint]].
       - [ ] try to set up sync using [[pandoc]]
 
 Some loose notes about the process of writing/editing this follow, started on [[2022-10-27]] as I'm starting to go through editors' comments to try to get the chapter into a good enough shape to call it done.
