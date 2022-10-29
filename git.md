@@ -1,7 +1,7 @@
 # git
 
 - a [[list]].
-  - of Agora [[repositories]].
+  - of [[repositories]].
     - #agora https://github.com/flancian/agora
     - [[agora server]] https://github.com/flancian/agora-server
     - [[agora bridge]] https://github.com/flancian/agora-bridge
