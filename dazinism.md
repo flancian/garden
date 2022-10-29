@@ -1,2 +1,2 @@
 - a [[person]].
-	- [[social coop]]
+	- [[social coop]] [[hometown]]
