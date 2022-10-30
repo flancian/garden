@@ -28,8 +28,10 @@ Welcome to [[yoga with x]]! This is episode... well, I've stopped counting, but 
 
 Thank you for being here! If you'd like to know more about the project, please refer to https://anagora.org/yoga-with-x.
 
+## [[2022-10-30]] 
+
 This is [[go/move/30]]. Maybe for the first time with Adriene's full audio?
-
 I'm privileged to have a dishwasher, in that as in many other ways!
-
 In case you're wondering, those dishes are clean :)
+
+https://youtu.be/wssSo98wfNY
