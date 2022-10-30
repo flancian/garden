@@ -24,3 +24,8 @@
   - [[maybe]].
   - [[yoga with x story]]
 
+Welcome to [[yoga with x]]! This is episode... well, I've stopped counting, but they are all meant to be published.
+
+Thank you for being here! If you'd like to know more about the project, please refer to https://anagora.org/yoga-with-x.
+
+This is [[go/move/30]]. Maybe for the first time with Adriene's full audio?
