@@ -29,3 +29,5 @@ Welcome to [[yoga with x]]! This is episode... well, I've stopped counting, but 
 Thank you for being here! If you'd like to know more about the project, please refer to https://anagora.org/yoga-with-x.
 
 This is [[go/move/30]]. Maybe for the first time with Adriene's full audio?
+
+In case you're wondering, those dishes are clean :)
