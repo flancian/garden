@@ -35,3 +35,11 @@ Nope, doesn't work, need to add this to Marko or maybe consider moving to the [[
 Anyway, here I am in [[2022-10-28]] doing pomodoros to try to finish the first pass over all the interesting comments by the [[editors]], end to end over the [[20 pages]] of the document.
 
 Also planning to cook something simple tonight and have a quick dinner with friends :)
+
+----
+
+Back on [[2022-11-04]], still pretending that horizontal rulers render in the Agora :)
+
+Tonight I want to reintroduce filenames to make screenshots better.
+
+Then tour the Agora, taking screenshots and writing in [[bugs]].
