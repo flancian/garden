@@ -5,6 +5,8 @@
   - [[questions]]
     - some ideas for the Q&A session? unsure, explore.
       - 1. [[cannabis]] and meditation?
+        - did gautama buddha consume cannabis or other psychoactive substances while living in the forest? did it influence him or those around him?
       - 2. meditation and [[revolution]]?
-        - 3. what if a group of explicit bodhisattvas agreed on a coordination platform and then tried to use it to improve the world?
+        - 
+        - 3. what if a group of explicit bodhisattvas agreed on a coordination platform and then tried to use it to improve the world using the technology available to us in the 21st century?
       - 3. loving kindness and its potential to shape the 21st century?
