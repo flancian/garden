@@ -6,5 +6,5 @@
     - some ideas for the Q&A session? unsure, explore.
       - 1. [[cannabis]] and meditation?
       - 2. meditation and [[revolution]]?
-        - 3. what if a group of explicit bodhisattvas agreed on a coordination platform and then tried to use it to optimizethe world?
+        - 3. what if a group of explicit bodhisattvas agreed on a coordination platform and then tried to use it to improve the world?
       - 3. loving kindness and its potential to shape the 21st century?
