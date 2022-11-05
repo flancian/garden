@@ -7,7 +7,7 @@
   - I am [[flaneur]] in [[merveilles]]:
     - [[mastodon]] https://merveilles.town/@flaneur
   - I've written about [[flaneur]] as a hypothetical [[web browser]]:
-    - https://twitter.com/flancian/status/1353369766854086656
+    - [[browser]] https://twitter.com/flancian/status/1353369766854086656
 
 
 
