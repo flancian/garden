@@ -1,0 +1,4 @@
+- a [[retreat]].
+  - [[meditation]].
+  - [[2022-11-05]].
+  - You can use this link to join:
