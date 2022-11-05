@@ -3,6 +3,7 @@
   - [[2022-11-05]].
   - You can use this link to join: https://dynamic.wakingup.com/retreat/RE05D69?source=content%20share&share_id=B327AA3D
   - [[questions]]
-    - maybe for the Q&A session? unsure.
+    - maybe for the Q&A session? unsure, explore.
       - 1. [[cannabis]] and meditation?
       - 2. meditation and [[revolution]]?
+      - 3. loving kindness and its potential to shape the 21st century?

@@ -1,7 +1,7 @@
 # Flaneur
 
 - A [[type]].
-  - of [[personality]]. 
+  - [[personality]]. 
   - [[baudelaire]] [[walter benjamin]] [[arcades project]]
   - #pull [[flâneur]]
   - I am known as [[flaneur]] in the [[town]] of [[merveilles]]:
