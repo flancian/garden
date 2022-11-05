@@ -10,4 +10,4 @@
         - 
         - 3. what if a group of explicit bodhisattvas agreed on a coordination platform and then tried to use it to improve the world using the technology available to us in the 21st century?
       - 3. loving kindness as a practice and its potential to shape the 21st century.
-      - 4. what is your opinion on [[yoga]] as it relates to and enhances the path, and as a way for groups to practice cooperation?
+      - 4. what is your opinion on [[yoga]] as it relates to and enhances the path, and as a way for groups to practice coordination and cooperation?
