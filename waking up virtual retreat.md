@@ -1,4 +1,4 @@
 - a [[retreat]].
   - [[meditation]].
   - [[2022-11-05]].
-  - You can use this link to join:
+  - You can use this link to join: https://dynamic.wakingup.com/retreat/RE05D69?source=content%20share&share_id=B327AA3D
