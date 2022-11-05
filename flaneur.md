@@ -1,8 +1,9 @@
 # Flaneur
 
-- A [[personality]]. 
+- A [[type]].
+  - of [[personality]]. 
   - [[baudelaire]] [[walter benjamin]]
-  - [[pull]] [[flâneur]]
+  - #pull [[flâneur]]
   - I am known as [[flaneur]] in the [[town]] of [[merveilles]]:
     - [[mastodon]] @flaneur@merveilles.town
   - I sometimes write about [[flaneur]], a [[web browser]].
