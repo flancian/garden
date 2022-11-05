@@ -2,7 +2,7 @@
 
 - A [[type]].
   - of [[personality]]. 
-  - [[baudelaire]] [[walter benjamin]]
+  - [[baudelaire]] [[walter benjamin]] [[arcades project]]
   - #pull [[flâneur]]
   - I am known as [[flaneur]] in the [[town]] of [[merveilles]]:
     - [[mastodon]] @flaneur@merveilles.town
