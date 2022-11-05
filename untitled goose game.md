@@ -1,2 +1,2 @@
 - a [[game]].
-  - #pull [[goose]]
+  - #pull [[goose]] [[goose game]]
