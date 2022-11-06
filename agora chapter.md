@@ -64,3 +64,6 @@ On it then. First pomodoro ticking, 15m to go.
 
 ## §
 
+I'm happier with how the structure looks after eight pomodoros today :)
+
+Now [[yoga with x]].
