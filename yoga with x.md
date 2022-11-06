@@ -38,3 +38,7 @@ I'm privileged to have a dishwasher, in that as in many other ways!
 In case you're wondering, those dishes are clean :)
 
 https://youtu.be/wssSo98wfNY
+
+## [[2022-11-06]]
+
+In case you're wondering, those dishes are dirty :)
