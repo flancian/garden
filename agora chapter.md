@@ -58,3 +58,9 @@ It is currently [[2022-11-06]] [[15:20]]. I'll now shoot for [[eight pomodoros]]
 
 ## ⸎
 
+On it then. First pomodoro ticking, 15m to go.
+
+
+
+## §
+
