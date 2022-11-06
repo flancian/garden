@@ -43,4 +43,4 @@ https://youtu.be/wssSo98wfNY
 
 [[Working in public]] tonight. I see yoga and working as two strands in a beautiful braid.
 
-In case you're wondering, those dishes are dirty :) But you didn't because the dishwasher was closed by the time we started yoga, and you also didn't because I didn't record it today, although I did broadcast in [[go/yoga with x]] as usual.
+In case you're wondering, those dishes are dirty :) But you didn't because the dishwasher was closed by the time we started yoga, and you also didn't because I didn't record it today, although I did broadcast in [[go/yoga with x]] as usual. The mirror images / views on the so called [[self]] are useful.
