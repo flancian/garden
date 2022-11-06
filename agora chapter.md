@@ -51,3 +51,7 @@ Then tour the Agora, taking screenshots and writing in [[bugs]].
 Loving [[termdown]] shaped into my simple [[pomodoro]] script.
 
 Meditating every rest, at least three breaths (~33 seconds).
+
+I got derailed trying to stream myself work in [[yoga with x]]. Having fun in the process, but I must not fool around now too much; I don't want the day to be derailed. 
+
+It is currently [[2022-11-06]] [[15:20]]. I'll now shoot for [[eight pomodoros]] on top of the four we've done so far :)
