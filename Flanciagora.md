@@ -1,1 +1,3 @@
-- #pull [[agora of flancia]]
+- #push [[agora of flancia]]
+  - [[steward]] [[flancia collective]]
+  - #git https://github.com/flancian/agora
