@@ -1,18 +1,19 @@
 # yoga with x
 - a [[project]].
 	- [[mashup]] or [[remix]].
-		- a [[playlist]] and potentially a set of tools to make it easier for people to coordinate massively online over platforms such as [[youtube]], focused on doing [[yoga]] together.
-	- inspired by [[yoga with adriene]], which I'm a big fan of.
-		- [[x]] means any user that does [[yoga with adriene]] or with a friend and wants to share their own experience with others.
-		- generalizes to [[x with y]] :)
-    - #pull [[yoga with ex]]
-      - a [[mondegreen]], maybe a fun one?
-	- [[prototype]]
+  -	[[prototype]]
     - #go https://meet.jit.si/yoga-with-x
       - I do yoga in public! hop on if interested.
       - I usually announce it on [[twitter]]/[[mastodon]]
 		- I've been recording some sessions as an example/demo.
       - [[playlist]] https://www.youtube.com/playlist?list=PLofT8_Cv-W-NMgYeb7mtN3M_kBgkYgUjq
+		- a [[playlist]] and potentially a set of tools to make it easier for people to coordinate massively online over platforms such as [[youtube]], focused on doing [[yoga]] together.
+	- inspired by [[yoga with adriene]], which I'm a big fan of.
+		- [[x]] means any user that does [[yoga with adriene]] or with a friend and wants to share their own experience with others.
+    - #push [[2025]]
+      - generalizes to [[x with y]] :)
+    - #pull [[yoga with ex]]
+      - a [[mondegreen]], maybe a fun one?
 			- [[episode 1]] https://youtu.be/rphd9Mnboy8
 			- [[episode 2]] https://youtu.be/asIw7Vd9NyQ
 			- [[episode 3]] https://youtu.be/z9QNeqz6iNs
