@@ -14,10 +14,12 @@
       - generalizes to [[x with y]] :)
     - #pull [[yoga with ex]]
       - a [[mondegreen]], maybe a fun one?
+        - we joke about this with my [[ex]]
 			- [[episode 1]] https://youtu.be/rphd9Mnboy8
 			- [[episode 2]] https://youtu.be/asIw7Vd9NyQ
 			- [[episode 3]] https://youtu.be/z9QNeqz6iNs
       - [[?]] https://www.youtube.com/watch?v=E3jFEOD2tIU
+      - There's a lot more of them.
       - [[fractal yoga]] is a fun (to me anyway) twist :)
 		- [[drive]] https://drive.google.com/drive/u/0/folders/1LbO9OHAaI793g-61wVh13EgE0wxuh3hj
 		- [[doc]] with some more details written but not yet published.
