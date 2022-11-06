@@ -44,3 +44,4 @@ https://youtu.be/wssSo98wfNY
 [[Working in public]] tonight. I see yoga and working as two strands in a beautiful braid.
 
 In case you're wondering, those dishes are dirty :)
+
