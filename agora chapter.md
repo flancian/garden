@@ -36,7 +36,7 @@ Anyway, here I am in [[2022-10-28]] doing pomodoros to try to finish the first p
 
 Also planning to cook something simple tonight and have a quick dinner with friends :)
 
-----
+## ----
 
 Back on [[2022-11-04]], still pretending that horizontal rulers render in the Agora :)
 
@@ -44,7 +44,7 @@ Tonight I want to reintroduce filenames to make screenshots better.
 
 Then tour the Agora, taking screenshots and writing in [[bugs]].
 
-----
+## ----
 
 [[Five minutes of rest]], so I write here :)
 
@@ -55,3 +55,6 @@ Meditating every rest, at least three breaths (~33 seconds).
 I got derailed trying to stream myself work in [[yoga with x]]. Having fun in the process, but I must not fool around now too much; I don't want the day to be derailed. 
 
 It is currently [[2022-11-06]] [[15:20]]. I'll now shoot for [[eight pomodoros]] on top of the four we've done so far :)
+
+## ----
+
