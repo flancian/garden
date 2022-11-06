@@ -46,7 +46,7 @@ Then tour the Agora, taking screenshots and writing in [[bugs]].
 
 ## ----
 
-[[Five minutes of rest]], so I write here :)
+[[2022-11-06]]. [[Five minutes of rest]], so I write here :)
 
 Loving [[termdown]] shaped into my simple [[pomodoro]] script.
 
@@ -67,3 +67,7 @@ On it then. First pomodoro ticking, 15m to go.
 I'm happier with how the structure looks after eight pomodoros today :)
 
 Now [[yoga with x]].
+
+## ~
+
+Thirteen pomodoros in, three to go. Having fun :)
