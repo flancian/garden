@@ -46,6 +46,8 @@ Then tour the Agora, taking screenshots and writing in [[bugs]].
 
 ----
 
-Five minute of rest, so I write here :)
+[[Five minutes of rest]], so I write here :)
 
 Loving [[termdown]] shaped into my simple [[pomodoro]] script.
+
+Meditating every rest, at least three breaths (~33 seconds).
