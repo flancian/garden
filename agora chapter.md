@@ -56,5 +56,5 @@ I got derailed trying to stream myself work in [[yoga with x]]. Having fun in th
 
 It is currently [[2022-11-06]] [[15:20]]. I'll now shoot for [[eight pomodoros]] on top of the four we've done so far :)
 
-## ----
+## ⸎
 
