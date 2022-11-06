@@ -43,3 +43,9 @@ Back on [[2022-11-04]], still pretending that horizontal rulers render in the Ag
 Tonight I want to reintroduce filenames to make screenshots better.
 
 Then tour the Agora, taking screenshots and writing in [[bugs]].
+
+----
+
+Five minute of rest, so I write here :)
+
+Loving [[termdown]] shaped into my simple [[pomodoro]] script.
