@@ -10,4 +10,4 @@
             - only on Firefox
             - it doesn't work at all on Chrome :(
     - #comment https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?disco=AAAAhUbCJIQ
-      - great top level comment by [[ivo]].
+      - great top level comment by [[ivo]], see push here for summary (G1-G8).
