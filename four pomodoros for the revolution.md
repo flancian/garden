@@ -7,5 +7,5 @@ four pomodoros, I ask of life
 eight pomodoros maybe
 if we be happy!
 
-- a [[journal]].
-- #pull [[pomodoros]] [[revolution]] [[flancia]]
+- a [[sequence]].
+  - #pull [[pomodoros]] [[revolution]] [[flancia]].
