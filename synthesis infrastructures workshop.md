@@ -6,5 +6,8 @@
       - [[overlays]]
         - [[linked data]], providing a service for platforms that don't currently have one
         - profile metadata
+        - [[agora]]
+          - [[agora bridge]]
+        - how can we take noisy/etc. social media, not require everybody to change all their ways but still give them ways to communicate
       - [[interlay]]
       - [[underlay]]
