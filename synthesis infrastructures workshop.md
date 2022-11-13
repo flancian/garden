@@ -22,3 +22,5 @@
     - [[patterns]] for [[incentivizing synthesis]]
       - [[authors]]
       - something based on [[model cards]]
+      - [[patterns languages]]
+      - https://synthesis-infrastructures.wiki/Social_Systems
