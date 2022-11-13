@@ -1,0 +1,3 @@
+- #pull [[synthesis infrastructures workshop]]
+  - (aside) led me to [[in silico]] through wikipedia search in the [[agora]] somehow
+    - also to [[substrate-integrated waveguide]]
