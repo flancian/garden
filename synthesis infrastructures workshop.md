@@ -9,5 +9,6 @@
         - [[agora]]
           - [[agora bridge]]
         - how can we take noisy/etc. social media, not require everybody to change all their ways but still give them ways to communicate
+        - [[meca]]
       - [[interlay]]
       - [[underlay]]
