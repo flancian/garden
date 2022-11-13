@@ -14,8 +14,11 @@
       - [[interlay]]
       - [[underlay]]
 
-## Some notes 
+## Some notes follow
+
 - [[2022-11-13]] [[14:45 UTC]]
 - [[Breakout rooms]] synthesis
   - [[Silvia Bessa]]
-    - [[incentivizing synthesis]]
+    - [[patterns]] for [[incentivizing synthesis]]
+      - [[authors]]
+      - something based on [[model cards]]
