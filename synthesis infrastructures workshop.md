@@ -14,4 +14,8 @@
       - [[interlay]]
       - [[underlay]]
 
-## Notes at [[2022-11-13]] 14:45 UTC
+## Some notes 
+- [[2022-11-13]] [[14:45 UTC]]
+- [[Breakout rooms]] synthesis
+  - [[Silvia Bessa]]
+    - [[incentivizing synthesis]]
