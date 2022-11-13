@@ -4,5 +4,7 @@
   - [[breakout rooms]]
     - [[jonny saunders]]
       - [[overlays]]
+        - [[linked data]], providing a service for platforms that don't currently have one
+        - profile metadata
       - [[interlay]]
       - [[underlay]]
