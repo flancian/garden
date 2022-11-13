@@ -1,0 +1,2 @@
+- a [[person]].
+  - #pull [[scaling synthesis]] [[decentralized discourse graph]]
