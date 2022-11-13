@@ -5,7 +5,9 @@
   - [[spotify]] https://open.spotify.com/album/0QELuZJzws4wmoWfqsjxef?highlight=spotify:track:685xORz372lXXTPPYRjvrM
   - [[go]] [[spotify]]
   - I sometimes listen to this when I try to go to work in the [[agora]]; when I try to achieve [[flow]].
-
-
-
-
+- A [[poem]].
+  - As we [[merge]],
+    - we'll [[flow]].
+  - As we [[fork]],
+    - we'll [[glow]].
+  - Like a [[rainbow folding]]
