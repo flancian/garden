@@ -24,3 +24,4 @@
       - something based on [[model cards]]
       - [[patterns languages]]
       - https://synthesis-infrastructures.wiki/Social_Systems
+      - [[scrum patterns]] used [[towns, buildings, construction]]
