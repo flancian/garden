@@ -25,4 +25,8 @@
             - [[edit distance]]
             - [[optimality]] ~ minimizing the distance
             - [[faster than quadratic]] -- fastest algorithms are about linear
+          - instead of looking for a good match, it focuses on removing all suboptimal matches
+            - if an alignment does not have a match of a seed in front, you penalize it
+    - [[dijkstra's algorithm]]
+    - [[a star]]
 
