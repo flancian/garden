@@ -13,6 +13,7 @@
 			- to get to a shell in the right container, ran: `docker exec -it docker_web_1 /bin/bash` in [[runko]]
 		- [x] meet on [[2022-05-20]] 3pm utc
 		- [x] meet on [[2022-05-27]] 5pm utc
+      - stopped counting meetings as they are now recurring every Monday, usually at 18 UTC :)
 		- DONE start proposal to move registrations to [[mastodon]] by moving to [[approval required]], wiki process seems unnecessarily involved at this stage
 - [[2022-05-27]] see [[stoa]] below.
 - [[2022-05-20]] see [[go/social coop tech group/minutes]].
