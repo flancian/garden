@@ -6,15 +6,16 @@
 	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
     - see also the [[stoa]] below :)
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
-	- #push [[do]]
-		- DONE help [[derek kozel]] (open chatroom) try to recover his account
+	- #push [[done]]
+		- help [[derek kozel]] (open chatroom) try to recover his account
 			- https://discourse.joinmastodon.org/t/is-it-possible-to-restore-a-deleted-user-account/1945
 			- ran: `mastodon@564f268b311f:~$ tootctl accounts create dkozel --reattach --force --email=derek@bitstovolts.com`
 			- to get to a shell in the right container, ran: `docker exec -it docker_web_1 /bin/bash` in [[runko]]
 		- [x] meet on [[2022-05-20]] 3pm utc
 		- [x] meet on [[2022-05-27]] 5pm utc
       - stopped counting meetings as they are now recurring every Monday, usually at 18 UTC :)
-		- DONE start proposal to move registrations to [[mastodon]] by moving to [[approval required]], wiki process seems unnecessarily involved at this stage
+		- start proposal to move registrations to [[mastodon]] by moving to [[approval required]], wiki process seems unnecessarily involved at this stage
+    - [[spam trap fix]]
 - [[2022-05-27]] see [[stoa]] below.
 - [[2022-05-20]] see [[go/social coop tech group/minutes]].
   - See also [[social coop tech group minutes]] for some notes I took myself early on.
