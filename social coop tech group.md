@@ -16,6 +16,8 @@
       - stopped counting meetings as they are now recurring every Monday, usually at 18 UTC :)
 		- start proposal to move registrations to [[mastodon]] by moving to [[approval required]], wiki process seems unnecessarily involved at this stage
     - [[spam trap fix]]
+      - https://git.coop/social.coop/general/-/wikis/registration-form/diff?version_id=998731decc4e27f3c2bc17fd49c3d3c1faa64df3
+      - https://git.coop/social.coop/tech/ansible/-/commit/88278497473d1bf2aed0470fae8ac155053819ed
 - [[2022-05-27]] see [[stoa]] below.
 - [[2022-05-20]] see [[go/social coop tech group/minutes]].
   - See also [[social coop tech group minutes]] for some notes I took myself early on.
