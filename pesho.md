@@ -23,6 +23,6 @@
           - at least three people are working on it in the sense of being fascinated by it
           - the idea is to solve a class of classical algorithms of alignment
             - [[edit distance]]
-            - [[optimality]]
+            - [[optimality]] ~ minimizing the distance
             - [[faster than quadratic]] -- fastest algorithms are about linear
 
