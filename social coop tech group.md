@@ -3,22 +3,17 @@
 	- [[framadate]] https://framadate.org/social-coop-tech-group
 		- now replaced by built-in [[loomio]] feature
 	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
-	- [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
-    - see also the [[stoa]] below :)
-	- [[thread]] https://social.coop/web/statuses/108090642475540439
+    - stopped tracking individual meetings as they are now recurring every Monday, usually at 18 UTC :)
+    - [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
+    - [[agenda]] https://doc.anagora.org/social-coop-tech-group (the [[stoa]] below)
+    - See also [[social coop tech group minutes]] for some notes I took myself locally early on.
 	- #push [[done]]
 		- help [[derek kozel]] (open chatroom) try to recover his account
 			- https://discourse.joinmastodon.org/t/is-it-possible-to-restore-a-deleted-user-account/1945
 			- ran: `mastodon@564f268b311f:~$ tootctl accounts create dkozel --reattach --force --email=derek@bitstovolts.com`
 			- to get to a shell in the right container, ran: `docker exec -it docker_web_1 /bin/bash` in [[runko]]
-		- [x] meet on [[2022-05-20]] 3pm utc
-		- [x] meet on [[2022-05-27]] 5pm utc
-      - stopped counting meetings as they are now recurring every Monday, usually at 18 UTC :)
 		- start proposal to move registrations to [[mastodon]] by moving to [[approval required]], wiki process seems unnecessarily involved at this stage
-    - [[spam trap fix]]
+    - #push [[spam trap fix]]
       - https://git.coop/social.coop/general/-/wikis/registration-form/diff?version_id=998731decc4e27f3c2bc17fd49c3d3c1faa64df3
       - https://git.coop/social.coop/tech/ansible/-/commit/88278497473d1bf2aed0470fae8ac155053819ed
-- [[2022-05-27]] see [[stoa]] below.
-- [[2022-05-20]] see [[go/social coop tech group/minutes]].
-  - See also [[social coop tech group minutes]] for some notes I took myself early on.
-
+	- [[thread]] https://social.coop/web/statuses/108090642475540439
