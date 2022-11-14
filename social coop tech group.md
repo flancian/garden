@@ -1,7 +1,5 @@
 - a [[group]].
 	- #pull [[social coop]] [[twg]]
-	- [[framadate]] https://framadate.org/social-coop-tech-group
-		- now replaced by built-in [[loomio]] feature
 	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
     - stopped tracking individual meetings as they are now recurring every Monday, usually at 18 UTC :)
     - [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
@@ -17,3 +15,5 @@
       - https://git.coop/social.coop/general/-/wikis/registration-form/diff?version_id=998731decc4e27f3c2bc17fd49c3d3c1faa64df3
       - https://git.coop/social.coop/tech/ansible/-/commit/88278497473d1bf2aed0470fae8ac155053819ed
 	- [[thread]] https://social.coop/web/statuses/108090642475540439
+	- [[framadate]] https://framadate.org/social-coop-tech-group
+		- now replaced by built-in [[loomio]] feature
