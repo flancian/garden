@@ -18,4 +18,5 @@
         - two published in conferences
         - one in preprint online (with [[ragnar]])
           - it's growing, but it should also shrink :)
+          - maybe could merge three different definitions into one
 
