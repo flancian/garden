@@ -13,4 +13,8 @@
       - when one is too nervous or emotional?
       - feeling of [[confusion]] when integration and rewiring are needed
         - [[autopoietic]]
+    - [[thesis defense]]
+      - [[three papers]]
+        - two published in conferences
+        - one in preprint online (with [[ragnar]])
 
