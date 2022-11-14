@@ -24,5 +24,5 @@
           - the idea is to solve a class of classical algorithms of alignment
             - [[edit distance]]
             - [[optimality]]
-            - [[faster than quadratic]]
+            - [[faster than quadratic]] -- fastest algorithms are about linear
 
