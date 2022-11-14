@@ -11,4 +11,5 @@
     - alone for 2w, willing and able to focus?
     - [[debugging psychology]]
       - when one is too nervous or emotional?
+      - feeling of [[confusion]] when integration and rewiring are needed
 
