@@ -9,4 +9,6 @@
     - in [[bulgaria]]
     - working on [[a star]] related project
     - alone for 2w, willing and able to focus?
+    - [[debugging psychology]]
+      - when one is too nervous or emotional?
 
