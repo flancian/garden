@@ -20,5 +20,9 @@
           - it's growing, but it should also shrink :)
           - maybe could merge three different definitions into one
         - line of research tldr follows :)
-          - at least three people are working on it
+          - at least three people are working on it in the sense of being fascinated by it
+          - the idea is to solve a class of classical algorithms of alignment
+            - [[edit distance]]
+            - [[optimality]]
+            - [[faster than quadratic]]
 
