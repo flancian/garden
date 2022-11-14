@@ -1,5 +1,6 @@
 - a [[group]].
-	- #pull [[social coop]] [[twg]]
+  - in [[social.coop]]
+    - #pull [[twg]] (shorthand)
 	- [[meet]] https://socialcoop.meet.coop/dav-y3e-c21-sgv
     - stopped tracking individual meetings as they are now recurring every Monday, usually at 18 UTC :)
     - [[minutes]] https://www.loomio.org/d/UwAeiBgE/tech-meeting-minutes
