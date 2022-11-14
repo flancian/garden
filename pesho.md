@@ -19,4 +19,6 @@
         - one in preprint online (with [[ragnar]])
           - it's growing, but it should also shrink :)
           - maybe could merge three different definitions into one
+        - line of research tldr follows :)
+          - at least three people are working on it
 
