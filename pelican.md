@@ -1,0 +1,3 @@
+- a [[project]].
+  - [[static site generator]]
+  - #go https://getpelican.com
