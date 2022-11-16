@@ -9,6 +9,9 @@
     - [[guo]]
     - [[paul frazee]]
 
+## [[2022]]
+- It's amazing knowing [[sj]]!
+
 ## [[2021-07-01]]
 - [[cascading]] searches
 	- ahs search prefix
