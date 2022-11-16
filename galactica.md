@@ -1,4 +1,5 @@
 - a [[site]].
   - #go https://galactica.org/
-  - already pretty good if you take a step back -- five years ago this would have been the stuff of science fiction even for many experts in the field?
-  - could be improved, but it will be improved, so that's good :)
+  - already pretty good if you take a step back -- five years ago this would have been the stuff of science fiction even for many experts in the field? transformers, generative models have broken in.
+    - could be improved, but it will be improved, so that's good :)
+  - [[flancia]] https://galactica.org/?prompt=wiki+article+on+Flancia%2C+a+polis
