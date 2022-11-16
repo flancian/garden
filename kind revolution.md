@@ -1,1 +1,2 @@
 - #pull [[Flancian revolution]]
+  - the revolution of [[loving kindness]], done [[digital]].
