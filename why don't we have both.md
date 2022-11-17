@@ -1,1 +1,4 @@
 - a [[meme]].
+  - #pull [[why not both]] actually
+    - https://knowyourmeme.com/memes/why-not-both-why-dont-we-have-both
+  - #pull [[por qué no los dos]]
