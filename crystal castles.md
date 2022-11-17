@@ -1,0 +1,3 @@
+- a [[band]].
+  - [[alice glass]] [[ethan kath]]
+  - disintegrated with allegations of abuse ([[ethan kath]] being the abusing party).
