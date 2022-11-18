@@ -1,2 +1,4 @@
-- #pull [[wireguard]]
-- #go https://github.com/juanfont/headscale
+- a [[project]].
+  - [[open source]]
+  - #pull [[wireguard]] control server
+  - #go https://github.com/juanfont/headscale
