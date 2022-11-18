@@ -1,1 +1,4 @@
-- #pull [[fotl]]
+- a [[group]].
+  - #pull [[open global mind]] [[collective sense commons]]
+  - #pull [[fotl]]
+  - #chat https://chat.collectivesensecommons.org/
