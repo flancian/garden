@@ -1,0 +1,5 @@
+- a [[project]].
+  - [[chat]] platform.
+  - used by [[ogm]] / [[collective sense commons]]
+  - used by [[interintellect]] (at least at some point).
+  - can it easily interop with [[matrix]]?
