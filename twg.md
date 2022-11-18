@@ -2,6 +2,7 @@
   - #pull [[social coop tech group]]
   - [[minutes]] https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes
   - [[wiki]] https://git.coop/social.coop/tech/operations/-/wikis/home
+  - [[bugs]] https://git.coop/social.coop/tech/operations/-/issues
   - #push [[social coop tech group]]
     - #push [[projects]]
         - #push [[mastodon upgrade]]
