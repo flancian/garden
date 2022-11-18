@@ -2,3 +2,5 @@
   - #pull [[open global mind]] [[collective sense commons]]
   - #pull [[fotl]]
   - #chat https://chat.collectivesensecommons.org/
+    - [[mattermost]]
+  - #go https://collectivesensecommons.org/

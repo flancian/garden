@@ -1,0 +1,2 @@
+- a [[project]].
+  - #go https://collectivesensecommons.org/
