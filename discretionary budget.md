@@ -1,1 +1,2 @@
-- #go https://social.coop/@flancian/109356474399437705
+- #thread https://social.coop/@flancian/109356474399437705
+- #doc 
