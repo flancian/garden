@@ -1,0 +1,2 @@
+- #pull [[wireguard]]
+- #go https://github.com/juanfont/headscale
