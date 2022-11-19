@@ -1,0 +1,2 @@
+- #push [[pomodoros]]
+  - the [[bootstrap]] pomodoro. I try to use it to plan for the future pomodoros, not deciding necessarily on order (writing them up as they come up as things to prioritize). I often also clean my workspaces and prepare nutrition and infusions.
