@@ -1,0 +1,2 @@
+- I'd like to record [[what are my reminders]] as played by the Google Assistant, I started listening to them "by mistake" (I wanted the latest) and it proved interesting/funny.
+- But first I'll do [[pomodoros]] learning [[activitypub]] :)
