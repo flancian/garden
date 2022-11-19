@@ -1,3 +1,4 @@
 - #pull [[Flancian revolution]]
   - the revolution of [[loving kindness]], done [[digital]].
-  - [[why don't we have all]]
+  - [[why don't we all have all]]
+  - 
