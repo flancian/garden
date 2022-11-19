@@ -4,3 +4,7 @@
   - #pull [[revolución correcta]]
 
 [[Why can't we all have all]]? Why don't we share the [[base]], share the [[superstructure]], at least a priori, and then come to a friendly [[rational arrangement]]?
+
+Because of [[Moloch]].
+
+Flancia is the revolution against [[Moloch]], for the benefit of all beings.
