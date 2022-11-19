@@ -1,0 +1,2 @@
+- Cuál es la revolución correcta, me pregunto a veces?
+- Yo creo que es la revolución [[por el bien de los seres sintientes]].
