@@ -1,2 +1,3 @@
 - a [[person]].
-  - [[friend]]
+  - [[friend]].
+  - [[they/them]]
