@@ -1,2 +1,2 @@
 - #pull [[activitypub]] [[fediverse]]
-  - [[agora protocol]] will likely be a pragmatic extension to [[activitypub]].
+  - [[agora protocol]] will likely converge to a pragmatic extension to [[activitypub]].
