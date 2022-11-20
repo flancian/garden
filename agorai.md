@@ -3,3 +3,5 @@
 - a [[network]].
   - #go https://agor.ai
   - https://anagora.org ~ https://flancia.agor.ai et al
+  - runs in [[hypatia]] for now
+    - `sudo certbot --nginx -d agor.ai,flancia.agor.ai,fotl.agor.ai,shamanic.agor.ai,social.agor.ai,1.agor.ai,ai.agor.ai,an.agor.ai` as of [[2022-11-20]]
