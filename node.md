@@ -2,7 +2,7 @@
 
 - an [[action]].
   - To contribute to a [[node]] in the Agora.
-    - TLDR for the Agora: If you volunteered a Markdown note called node.md to this Agora, it would show up here like mine.
+    - TLDR for the Agora: If you volunteered a note called node.md (case insensitive) to this Agora, it would show up here with mine.
     - In an Agora, each contribution named after a node or tagged with it is a [[subnode]] of the node by default.
 - a [[thing]].
   - You are currently *in* a [[node]].
