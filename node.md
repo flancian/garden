@@ -2,8 +2,8 @@
 
 - an [[action]].
   - To contribute to a [[node]] in the Agora.
-    - (Each contribution a [[subnode]] by default.)
-    - TLDR for the Agora : If you volunteered a Markdown note called node.md to this Agora, it would show up here like mine.
+    - TLDR for the Agora: If you volunteered a Markdown note called node.md to this Agora, it would show up here like mine.
+    - In an Agora, each contribution named after a node or tagged with it is a [[subnode]] of the node by default.
 - a [[thing]].
   - You are currently *in* a [[node]].
     - The [[Agora]] is about [[nodes]] and [[edges]] -- the connections they have, explicitly labeled, modelling how the nodes are related.
