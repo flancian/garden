@@ -1,8 +1,9 @@
 # Node
 
 - an [[action]].
-  - To contribute to a [[node]].
+  - To contribute to a [[node]] in the Agora.
     - (Each contribution a [[subnode]] by default.)
+    - TLDR for the Agora : If you volunteered a Markdown note called node.md to this Agora, it would show up here like mine.
 - a [[thing]].
   - You are currently *in* a [[node]].
     - The [[Agora]] is about [[nodes]] and [[edges]] -- the connections they have, explicitly labeled, modelling how the nodes are related.
@@ -16,13 +17,13 @@
       - Nodes are sets that contain [[subnodes]] volunteered by different [[users]] and tracked as [[sources]].
       - Subnodes are currently plain Markdown notes stored somewhere on the internet.
       - Sources are those available through an [[agora client]].
-      - TLDR: If you volunteered a Markdown note called node.md to this Agora, it would show up here like mine.
     - If you just got here from Twitter, consider [[agora twitter integration]].
       - [[tweet]] https://twitter.com/flancian/status/1342093633940561921
+      - #pull the Agora is a [[sequential wiki]] in the spirit of [[everything2]].
+        - [[livejournal]] [[medium]] are other inspirations.
     - A node is one of the components of a [[graph]].
   - an [[action]]
-    - to [[maintain]] [[nodes]] in the [[agora]]; to contribute notes or other content.
-    - [[pull]] [[sequential wiki]] [[everything2]] [[livejournal]] [[medium]]
+    - to [[maintain]] a node in the [[agora]]; to contribute notes or other content to it.
     - [[git]] https://github.com/flancian/agora-server/blob/9fc30657f7a28f40b3e5d54bb6f3037eb074b8e8/app/agora.py#L46
 
 
