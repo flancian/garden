@@ -5,8 +5,8 @@
     - (Each contribution a [[subnode]] by default.)
 - a [[thing]].
   - You are currently *in* a [[node]].
-    - This text you're reading is a [[subnode]]; meaning it is a resource (a file) named after it.
     - The [[Agora]] is about [[nodes]] and [[edges]] -- the connections they have, explicitly labeled, modelling how the nodes are related.
+    - This text you're reading is a [[subnode]] of node 'node' in this Agora; meaning it is a resource (a file) named after it, and thus assumed to be *about* it or relevant to it.
     - An [[agora]] node is a crowdsourced [[set]] of resources page on a [[topic]] or [[entity]].
       - [[resources]] are known as [[subnodes]].
         - #push [[agora rfcs]]
