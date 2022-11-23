@@ -1,5 +1,6 @@
 - a [[project]].
-  - #go 
+  - #go https://bonfirenetworks.org/
+    - "join the frontier of [[social networking]]"
   - #git https://github.com/bonfire-networks/bonfire-app
   - #deploy https://github.com/bonfire-networks/bonfire-app/blob/main/docs/DEPLOY.md
   - #contribute https://opencollective.com/bonfire-networks/contribute/sponsor-39507/checkout?interval=month&platformTip=19.2&amount=128
