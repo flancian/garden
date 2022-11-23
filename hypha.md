@@ -1,5 +1,7 @@
 # hypha
 
+- a [[server]].
+  - [[social coop]]
 - a [[thing]].
   - [[fungi]] [[structure]] that forms into [[mycelium]]
 	- [[wp]] https://en.wikipedia.org/wiki/Hypha
