@@ -1,0 +1,8 @@
+- a [[person]].
+  - wow.
+  - #go https://mayel.space/
+  - #projects
+    - [[social coop]]
+    - [[bonfire]]
+    - [[moodlenet]]
+    - [[commons taxonomies]]
