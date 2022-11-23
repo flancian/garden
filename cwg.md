@@ -1,7 +1,7 @@
 - a [[working group]].
   - #pull [[social coop]] [[community working group]]
   - #go https://www.loomio.com/socialcoop-community-working-group/
-  - #bugs https://git.coop/social.coop/tech/operations/-/issues
+  - #bugs https://git.coop/groups/social.coop/community/-/issues
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
   - [[onboarding]] from [[sam whited]]
     - [[registrations]] overall
@@ -22,3 +22,4 @@
         - size of instance
         - nudge people to go to loomio
       - moderate mastodon instance as needed
+  - see also [[twg]].
