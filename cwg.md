@@ -1,6 +1,7 @@
 - a [[working group]].
   - #pull [[social coop]] [[community working group]]
   - #go https://www.loomio.com/socialcoop-community-working-group/
+  - #bugs https://git.coop/social.coop/tech/operations/-/issues
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
   - [[onboarding]] from [[sam whited]]
     - [[registrations]] overall
