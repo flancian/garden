@@ -1,0 +1,3 @@
+- a [[cooperative]].
+  - #go https://zo.team/
+  - working on [[open and decentralised technology]]
