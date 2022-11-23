@@ -1,0 +1,3 @@
+- a [[website]].
+  - #go https://mayel.space/
+  - #pull [[mayel de borniol]] [[hacking the world]]
