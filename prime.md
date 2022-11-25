@@ -1,1 +1,2 @@
 - a [[script]] :)
+  - See also: [[primes]].
