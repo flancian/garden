@@ -1,5 +1,5 @@
 #!/bin/bash
-# As of [[2022-11-25]] I run this as a [[systemd]] service but I call it [[autopush]].
+# As of [[2022-11-25]] I run this as a [[systemd]] service but I call it [[autopush]] and it lives one level up in the garden :)
 while true; do
     git pull
     sleep 60
