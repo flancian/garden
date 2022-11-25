@@ -49,5 +49,6 @@
   - 7 7
   - 2 5 5
   - 3 17
+    - [[tres maitreyas]]
 - #push [[agora nodes]]
 	- https://twitter.com/flancian/status/1502659723987988482
