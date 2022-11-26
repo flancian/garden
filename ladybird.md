@@ -1,3 +1,4 @@
 - a [[browser]].
+  - by [[andreas king]] and the [[serenityos]] community.
   - #go https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
   - #git https://github.com/SerenityOS/ladybird
