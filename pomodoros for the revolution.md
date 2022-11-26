@@ -1,0 +1,1 @@
+- #pull [[four pomodoros]] on a #weekday, [[eight pomodoros]] in a #weekend, [[for the benefit of all beings]].
