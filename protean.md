@@ -1,0 +1,5 @@
+- a [[person]].
+  - [[friend]].
+  - [[social coop]] 
+    - [[tech working croup]]
+    - he has done *a lot* for the community.
