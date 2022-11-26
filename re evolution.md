@@ -1,3 +1,4 @@
 - #pull [[revolution]]
   - re-evolution is to model evolutionarily branches and, learning from history, propose alternate paths
-    - might involve some temporary backtracking; note backtracking is possible in social institutions
+    - might involve some temporary backtracking; note backtracking is possible in social institutions and customs
+    - In #Flancia we evaluate everything that's happened since [[y2k]] and propose patches to be applied starting in [[2020]] that optimize for human thriving in the 21st and 22nd centuries.
