@@ -1,0 +1,3 @@
+- #pull [[revolution]]
+  - re-evolution is to model evolutionarily branches and, learning from history, propose alternate paths
+    - might involve some temporary backtracking; note backtracking is possible in social institutions
