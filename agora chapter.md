@@ -24,15 +24,15 @@ Second of all, I procrastinated a bit on starting to go through comments due to 
 
 --
 
-I wonder if anagora.org supports rulers yet or I just dreamt it?
+#meta I wonder if anagora.org supports rulers yet or I just dreamt it?
 
 ----
 
-Maybe if they are four minuses?
+#meta Maybe if they are four minuses?
 
 ----
 
-Nope, doesn't work, need to add this to Marko or maybe consider moving to the [[markdown parser]] that [[peter kaminski]] recommended in the last [[fellowship of the link]].
+#meta Nope, doesn't work, need to add this to Marko or maybe consider moving to the [[markdown parser]] that [[peter kaminski]] recommended in the last [[fellowship of the link]].
 
 Anyway, here I am in [[2022-10-28]] doing pomodoros to try to finish the first pass over all the interesting comments by the [[editors]], end to end over the [[20 pages]] of the document.
 
@@ -40,7 +40,8 @@ Also planning to cook something simple tonight and have a quick dinner with frie
 
 ## ----
 
-Back on [[2022-11-04]], still pretending that horizontal rulers render in the Agora :)
+#meta Back on [[2022-11-04]], still pretending that horizontal rulers render in the Agora :)
+  - #push [[todo]] fix horizontal rulers in an agora
 
 Tonight I want to reintroduce filenames to make screenshots better.
 
