@@ -3,3 +3,6 @@
   - In [[Flancia]] they used the [[internet]] to build a global [[Commons]].
     - [[agora]]
       - [[agora doc]]
+  - #pull [[agora]]
+    - #pull [[agora of flancia]] exists. You're reading this in it :)
+    - I dreamt of seeing an Agora of Flancia with a million people.
