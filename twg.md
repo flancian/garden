@@ -4,6 +4,7 @@
   - [[wiki]] https://git.coop/social.coop/tech/operations/-/wikis/home
   - [[bugs]] https://git.coop/social.coop/tech/operations/-/issues
   - [[chat]] https://matrix.to/#/#socialcoop-tech:matrix.org
+  - [[agenda]] https://doc.anagora.org/social-coop-tech-group
   - #push [[social coop tech group]]
     - #push [[projects]]
         - #push [[mastodon upgrade]]
