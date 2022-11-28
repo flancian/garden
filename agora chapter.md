@@ -86,4 +86,4 @@ I will now work on a different computer :)
 If you somehow found this recording and you don't know what it's all about, you can check https://anagora.org/yoga-with-x and you'll find links to other recordings :)
 
 - #push [[todo]]
-  - Wow, I really need to maintain the Agora root repository. I haven ´t touched it in, well, maybe a year? I need to check. And it is the reason I keep thinking 'the Agora index doesn't read great.'
+  - Wow, I really need to maintain the Agora root repository. I haven't touched it in, well, maybe a year? I need to check. And it is the reason I keep thinking 'the Agora index doesn't read great.'
