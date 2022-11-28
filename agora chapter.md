@@ -82,3 +82,5 @@ This is now [[2022-11-28]]. The deadline for the next round of comments is [[202
 (This is my #drishti currently, meaning that I have set it to the number four, representing the date.)
 
 I will now work on a different computer :)
+
+If you somehow found this recording and you don't know what it's all about, you can check https://anagora.org/yoga-with-x and you'll find links to other recordings :)
