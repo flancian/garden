@@ -74,3 +74,11 @@ Now [[yoga with x]].
 ## ~
 
 Thirteen pomodoros in, three to go. Having fun :)
+
+## Hmm, here we are again :) 
+
+This is now [[2022-11-28]]. The deadline for the next round of comments is [[2022-12-04]].
+
+(This is my #drishti currently, meaning that I have set it to the number four, representing the date.)
+
+I will now work on a different computer :)
