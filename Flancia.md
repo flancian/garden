@@ -5,4 +5,5 @@
       - [[agora doc]]
   - #pull [[agora]]
     - #pull [[agora of flancia]] exists. You're reading this in it :)
-    - I dreamt of seeing an Agora of Flancia with a million people.
+    - I dreamt of seeing an Agora of Flancia with a million [[people]].
+    - [[1m people]] is approximately 200 [[bolos]].
