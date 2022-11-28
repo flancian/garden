@@ -14,7 +14,7 @@
   - #comments from the [[editors]]
     - [x] finish first pass on [[2022-10-28]]
     - [ ] second pass with a deadline of [[2022-12-04]]
-    - #pull [[next action]]
+    - #push [[next action]]
 
 Some loose notes about the process of writing/editing this follow, started on [[2022-10-27]] as I'm starting to go through editors' comments to try to get the chapter into a good enough shape to call it done.
 
