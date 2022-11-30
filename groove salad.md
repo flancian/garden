@@ -1,0 +1,3 @@
+- a [[radio]].
+  - #pull [[soma fm]]
+  - #go https://somafm.com/player/#/now-playing/groovesalad
