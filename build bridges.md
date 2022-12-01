@@ -1,7 +1,7 @@
 # build bridges
 
 - an [[activity]].
+  - All bridges were once [[desire paths]] in the [[air]] by definition.
   - #pull [[bridges]] [[building bridges]]
-    - All bridges were once [[desire paths]] in the [[air]].
-    - [[live bridges]] are pro-social.
+    - [[Free bridges]] are pro-social.
     - In Flancia we try to [[build bridges]].
