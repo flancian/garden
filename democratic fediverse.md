@@ -1,2 +1,3 @@
 - a group.
+  - #go https://matrix.to/#/#democratic-fediverse:matrix.org
   - #chat https://app.element.io/#/room/#democratic-fediverse:matrix.org
