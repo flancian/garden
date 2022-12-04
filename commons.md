@@ -1,5 +1,7 @@
-- a [[thing]].
-	- #pull [[elinor ostrom]] [[knowledge commons]]
+- a [[place]].
+	- #pull [[elinor ostrom]] 
+  - alternatively, a [[device]].
+    - The [[Agora of Flancia]] is a [[knowledge commons]].
 	- [[go]] https://en.wikipedia.org/wiki/Commons
 	- [[neil]] (from notes below)
 		- "beyond [[market]] and [[state]]"
