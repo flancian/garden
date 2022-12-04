@@ -11,4 +11,5 @@
         - [[javascript subnodes]]
         - [[python subnodes]]
     - did [[rdf]] first: exposed rdf for the agora and use something like [[rdf grapher]] to graph
+  - #go https://twitter.com/flancian/status/1380210191837315073
 
