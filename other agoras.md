@@ -5,11 +5,13 @@
     - #push [[agor.ai]]
       - #go https://agora.ai
   - and many others, depending on how you think about it:
-  - [[everything2]], which I loved around [[y2k]]
-  - [[ctzn]], found by [[sull]]
-  - [[yubnub]], found by [[sull]]
-  - [[open syllabus]], found by [[karlicoss]]
-  - [[satellite earth]], found by [[karlicoss]]
+    - [[everything2]], which I loved around [[y2k]]
+    - [[wikipedia]], which we probably all love
+    - [[ctzn]], found by [[sull]]
+    - [[yubnub]], found by [[sull]]
+    - [[open syllabus]], found by [[karlicoss]]
+    - [[satellite earth]], found by [[karlicoss]]
+    - …
 - #push [[agora like]]
   - [[3np]] in [[hn]] pointed out other projects also named [[agora]]:
     - [[agora vote]] https://www.agora.vote/
