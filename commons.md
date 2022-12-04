@@ -2,8 +2,9 @@
 	- #pull [[elinor ostrom]] 
   - alternatively, a [[device]].
     - The [[Agora of Flancia]] is a [[knowledge commons]].
-	- [[go]] https://en.wikipedia.org/wiki/Commons
-	- [[neil]] (from notes below)
+	- #go https://en.wikipedia.org/wiki/Commons
+	- In all matters pertaining the Commons I consider [[doubleloop]] ~ [[@neil]] the steward of this Agora.
+  - The following picks from his notes below:
 		- "beyond [[market]] and [[state]]"
 		- I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets.
 		- recommended [[free, fair and alive]], it's great. from his notes below:
