@@ -1,4 +1,5 @@
 - a [[book]]
+  - #apa Hess, C., & Ostrom, E. (2019). Understanding knowledge as a commons—From theory to practice. The MIT Press.
 	- by [[charlotte hess]] and [[elinor ostrom]]
 		- goodreads has this under [[charlotte hess]]
 		- only 3.7 :(
