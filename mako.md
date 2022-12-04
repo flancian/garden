@@ -1,2 +1,3 @@
 - a [[tool]].
+  - [[notifications manager]] for [[wayland]] (e.g. [[sway]])
   - #fix https://github.com/emersion/mako/issues/257
