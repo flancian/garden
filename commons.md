@@ -30,7 +30,7 @@
 		- [[contemporary commons movements]] too
 	- [[there is no commons without commoning]]
 	- [[international journal of the commons]]
-- a [[list]].
-	- add items by pushing here or writing in the [[stoa]] below.
-	- this [[agora]] is a [[digital commons]].
 	- #pull [[frontiers of commoning]]
+- a [[list]].
+	- add items by #pushing here or write in the default [[stoa]] in this Agora node.
+	- [[an agora]].
