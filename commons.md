@@ -1,5 +1,5 @@
 - a [[thing]].
-	- [[pull]] [[elinor ostrom]] [[knowledge commons]]
+	- #pull [[elinor ostrom]] [[knowledge commons]]
 	- [[go]] https://en.wikipedia.org/wiki/Commons
 	- [[neil]] (from notes below)
 		- "beyond [[market]] and [[state]]"
