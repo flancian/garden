@@ -1,6 +1,7 @@
 # Other Agoras
 
 - This is just an [[agora]]; there are many like it, and there could be many more.
+  - #go https://agora.ai
   - [[ctzn]], found by [[sull]]
   - [[yubnub]], found by [[sull]]
   - [[open syllabus]], found by [[karlicoss]]

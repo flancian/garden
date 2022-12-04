@@ -11,6 +11,6 @@
   - This Agora contains a list of known [[agoras]].
   - #push [[agoras]]
     - [[an agora]] is run by [[flancia collective]] [[for the benefit of all beings]].
-    - An [[Agora]] is a [[bag of holding]].
+    - An [[Agora]] is like a [[bag of holding]], and it contains among many things [[other agoras]].
 
 
