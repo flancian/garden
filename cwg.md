@@ -1,5 +1,6 @@
 - a [[working group]].
   - #pull [[social coop]] [[community working group]]
+  - #meet https://socialcoop.meet.coop/mat-ivs-47b-bbp
   - #go https://www.loomio.com/socialcoop-community-working-group/
   - #bugs https://git.coop/groups/social.coop/community/-/issues
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
