@@ -2,6 +2,7 @@
   - #pull [[social coop tech group]]
   - [[minutes]] https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes
   - [[wiki]] https://git.coop/social.coop/tech/operations/-/wikis/home
+  - [[calendar]] https://share.mayfirst.org/remote.php/dav/calendars/flancian/social-coop_shared_by_socialcoop/
   - [[bugs]] https://git.coop/social.coop/tech/operations/-/issues
   - [[chat]] https://matrix.to/#/#socialcoop-tech:matrix.org
   - [[agenda]] https://doc.anagora.org/social-coop-tech-group
