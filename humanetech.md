@@ -1,0 +1,3 @@
+- a [[person]].
+  - #pull [[small circles]]
+  - [[social coding foundations]]
