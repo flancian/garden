@@ -1,3 +1,5 @@
 - a [movement]]
+  - #pull [[humanetech]]
   - #doc https://pad.public.cat/8yNgnlxmSsGYk3TfIau46A?view#
   - #go https://coding.social/
+  - #chat https://matrix.to/#/#socialcoding-foundations:matrix.org
