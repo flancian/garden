@@ -1,1 +1,3 @@
-- #pull [[kraftwerk 1]]
+- a [[person]].
+  - [[buchhaltung]]
+  - #pull [[kraftwerk 1]]
