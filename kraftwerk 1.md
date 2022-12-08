@@ -1,3 +1,4 @@
 - a [[genossenschaft]]
 	- #go https://www.kraftwerk1.ch/
-  - [[amélie]] [[hans widmer]]
+  - I am a member since [[august 2022]].
+  - #pull [[amélie]] [[andreas kaufmann]] [[hans widmer]]
