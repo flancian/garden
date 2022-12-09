@@ -1,0 +1,4 @@
+- Some thoughts on [[children]] which should probably be unsurprising to most people who know me.
+  - I like [[children]] in general, but not my potential children in particular I guess. This is why I say I don't want to have kids.
+  - If I had [[kids]] I'm pretty sure I'd like them, of course. It's just that I like so many people and things already that I don't see a need to get myself into this state.
+  -
