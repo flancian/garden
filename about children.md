@@ -1,4 +1,4 @@
 - Some thoughts on [[children]] which should probably be unsurprising to most people who know me.
   - I like [[children]] in general, but not my potential children in particular I guess. This is why I say I don't want to have kids.
   - If I had [[kids]] I'm pretty sure I'd like them, of course. It's just that I like so many people and things already that I don't see a need to get myself into this state.
-  - In general I think children probably get most interesting around age 10, when they can do things like read novels and essays, become interested in things like science and evolution, etc. Before that I don't have a lot of conversation topics in common with them usually, although I appreciate and value their imagination and their potential.
+  - In general I think children probably get most interesting around age 10 or 11, when they can do things like read novels and essays, become interested in things like philosophy and science, can have conversations about evolution, etc. Before that I don't have a lot of conversation topics in common with them usually, although I appreciate and value their imagination and their potential.
