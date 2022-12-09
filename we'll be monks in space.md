@@ -7,3 +7,5 @@ First, think about it -- monks are only celibate because for most of human histo
 Now, some monks have a religious zeal in them. Some people probably think the best do; but I like to think chill monks can do a lot for humanity, and in any interesting group there's heterogeneity. Chill monks can live with chill monks, and intense ones with intense ones, or they can prefer living in complementary groups and self-organize in that way. Either way it's fine; different spaceships can cultivate different [[cultures]].
 
 - -> [[8]] (comes next).
+
+Within the wide framework of monkhood, then, we can define many different lifestyles. Some, like the ones I often think I prefer, make use of numbers as devices for coordination. This, which sounds like a [[shape rotator]] way of being, of course, is more widespread than you might expect at first: it is the core concept in many cultures under the name of [[calendar]].
