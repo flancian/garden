@@ -12,4 +12,4 @@ Funcionan ya en el Ágora las divisiones de tipo regla? Me parece que no todaví
 
 De repente, tres días después, de nuevo en un vuelo de Air Europa, esta vez de regreso a casa. La misma película (corto?) de Mr. Bean, cerrando el viaje de forma simétrica.
 
-Me parece que esto muestra que mi impulso de escritura no es lo suficientemente fuerte en situaciones en las que tengo una conexión a internet. Por supuesto que el viaje fue eventual (caminamos mucho con Berni y Martín, charlamos, y comimos muy bien), pero también pasamos tiempo en el departamento y 
+Me parece que esto muestra que mi impulso de escritura no es lo suficientemente fuerte en situaciones en las que tengo una conexión a internet. Por supuesto que el viaje fue eventual (caminamos mucho con Berni y Martín, charlamos, y comimos muy bien), pero también pasamos tiempo de relajación en el departamento y elegí pasarlo en actividades online en vez de escribir en cierto detalle sobre las experiencias del viaje o sobre cualquier otra cosa. 
