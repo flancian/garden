@@ -15,5 +15,5 @@
     - As of [[2021-11-20]] this was still clearly a stub.
     - As of [[2021]] I was not sure about my thoughts on many earlier and later [[buddhas]], but I wanted to learn more about them.
   - I try to follow the [[eightfold path]].
-  - I try to follow the [[bodhisattva]] path.
+  - I try to practice as a [[bodhisattva]].
   - I believe in [[buddha nature]] as something common to all [[conscious beings]].

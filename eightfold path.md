@@ -1,4 +1,5 @@
 # eightfold path
 
-- [[pull]] [[buddha]] [[dharma]] [[sangha]]
+- #push [[8]]
+  - #pull [[buddha]] [[dharma]] [[sangha]]
 
