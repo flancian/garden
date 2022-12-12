@@ -1,2 +1,3 @@
 - #push [[humanity]]
-  - #pull is [[entangled]] with [[moloch]]
+  - #pull ...is [[entangled]] with [[moloch]]
+    - (I believe.)
