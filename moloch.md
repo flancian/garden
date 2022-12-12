@@ -16,8 +16,8 @@
       - Better optima become available with improvements in availability of resources, and improvements for communication and collaboration.
   - The Agora is my proposal for a tool for giving chase, and then outpacing, [[Moloch]].
     - If we ever catch up to them, we'll ask them plenty of questions and offer to disentangle from them peacefully.
-  - I think it is with the [[Commons]] as a tool we'll [[slay Moloch]] if we have to.
-      - #pull][[slaying moloch]]
-  - [[twitter]] https://flancia.org/t/moloch
+    - But I think it is with the [[Commons]] in our inventory as a tool we'll [[slay Moloch]] if we have to.
+      - #pull [[slaying moloch]]
+    - [[twitter]] https://flancia.org/t/moloch
 
 
