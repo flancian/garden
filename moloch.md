@@ -5,11 +5,10 @@
   - an [[egregore]].
     - Apologies for calling it a [[thing]] at some point.
     - Called by some [[the machine]].
-    - Lives in [[Antiflancia]].
+    - Lives in [[Antiflancia]], maybe.
   - [[wp]] https://en.wikipedia.org/wiki/Moloch
-    - [[go]] [[wp]]
-  - [[pull]] [[meditations on moloch]]
-  - A maximizer of [[cacotopoi]].
+  - #pull [[meditations on moloch]]
+  - A manifestation of ignorance which keeps us in [[cacotopos]].
     - A vector against interesting gradients in [[protopoi]], often taking the form of [[violence]] and unsolved [[coordination problems]].
       - Sometimes solved through history after giving new tools to more people.
       - Currently includes social evils due to missed opportunities and the tendency of self-sustaining systems to stay put in idiosyncratic equilibriums, local optima.
