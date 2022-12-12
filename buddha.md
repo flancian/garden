@@ -8,7 +8,8 @@
   - [[Maitreya]], the Buddha of the future (of the present).
   - [[Avalokiteshvara]], Bodhisattava of Compassion.
 - #push [[buddhism]]
-  - I consider myself a [[rational]] [[buddhist]].
+  - I consider myself a [[buddhist]].
+    - Mostly [[rational]], but I think it's rational to be [[irrational]] some of the time (an example of a [[hedge]] maybe).
     - [[meta]]
       - Ha, I can't believe I hadn't noded Gautama until [[2020-12-11]].
       - As of [[2021-11-20]] this was still clearly a stub.
