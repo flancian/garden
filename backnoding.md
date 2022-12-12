@@ -1,2 +1,2 @@
 - an [[action]].
-  - the act of noding a journal date after it's past :)
+  - the act of [[noding]] something resembling a journal entry (e.g. a date) after it has passed :)
