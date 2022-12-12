@@ -1,11 +1,11 @@
 - A [[person]].
-	- [[philosopher]] [[bodhisattva]] [[arahant]]
-	- Buddha [[shakyamuni]] ~ [[gautama]]:
+	- Buddha [[Shakyamuni]] ~ [[Gautama]] lived in the 5th century BCE:
+    - [[philosopher]] [[bodhisattva]] [[arahant]] 
     - #born [[lumbini]] [[nepal]]
       - https://goo.gl/maps/6Uk2vXKVgdc9n5Kb6
     - #awakened [[bodh gaya]] [[india]]
       - https://goo.gl/maps/HT6fQvSNpeCtiGkf7
-  - [[Maitreya]], the Buddha of the future (of the present).
+  - [[Maitreya]] is the Buddha of the future (and the present).
   - [[Avalokiteshvara]], Bodhisattava of Compassion.
 - #push [[buddhism]]
   - I consider myself a [[buddhist]].
