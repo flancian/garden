@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[bodhisattva]]
+  - #pull [[avalokiteshvara]]
