@@ -30,4 +30,5 @@
     - ...
     - #31 [[las jaras]]
     - #32 [[fork^2]] [[fork^3]]
-    -
+    - #33 merge our right resolves
+    - #34 [[two maitreyas]]
