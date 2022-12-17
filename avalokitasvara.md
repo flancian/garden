@@ -2,5 +2,5 @@
   - [[bodhisattva]] of [[compassion]].
   - #pull [[avalokiteshvara]]
   - [[a va lo ki tas va ra]] (which I take to be [[7]] syllables]] is their original name, meaning one who perceives the sounds of sentient beings.
-  - [[33]] main manifestations.
   - #mantra [[om mani padme hum]]
+  - [[33]] main manifestations (?).
