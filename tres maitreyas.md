@@ -1,3 +1,3 @@
 - a [[song]].
-  - #pull [[dos gardenias]] but you say [[tres maitreyas]] instead.
-  - #pull [[three gardenias]] for the international audience :)
+  - by [[Buenos Aires Social Club]].
+  - #pull [[dos gardenias]] by [[Buena Vista Social Club]] but they [[tres maitreyas]] instead.
