@@ -1,3 +1,6 @@
 - #pull [[om manipadme hum]] [[om]] [[mani]] [[padme]] [[hum]]
 - [[aum ma ni pad me hum]]
+  - https://www.youtube.com/watch?v=4QQKDP8SQZg
+    - aum == body/speech/mind
+    - from the unpure to the pure
 - #push [[6]] syllables
