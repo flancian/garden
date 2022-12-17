@@ -1,3 +1,3 @@
 - a [[person]].
-  - [[bodhisattva]]
+  - [[bodhisattva]] of [[compassion]].
   - #pull [[avalokiteshvara]]
