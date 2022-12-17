@@ -1,7 +1,9 @@
 - #pull [[meditation technique]] [[braids]] [[randomness]]
+  - a kind of [[mind palace]] I've been developing.
 - #push [[mind palace]]
   - [[Flancia mind palace]] -> [[Flancia book]]
-    - #0 [[start here]] [[breath is the palace of the buddha]]
+    - #0 start here: [[breath is the palace of the buddha]]
+      - (Gloria a la luz de la consciencia!)
     - #1 [[self]], [[non dualistic]]
     - #2 [[fork]], [[dualistic]]
     - #3 [[merge]], a [[triangle]]
