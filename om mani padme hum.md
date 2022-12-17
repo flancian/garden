@@ -1,3 +1,2 @@
-- #pull [[6]]
-- #pull [[om manipadme hum]] [[om]] [[manipadme]] [[hum]]
+- #pull [[om manipadme hum]] [[om]] [[mani]] [[padme]] [[hum]]
 - #push [[6]] syllables
