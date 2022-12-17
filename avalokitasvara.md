@@ -1,6 +1,7 @@
 - a [[person]].
   - [[bodhisattva]] of [[compassion]].
-  - #pull [[avalokiteshvara]]
+  - #pull [[avalokiteshvara]] 
   - [[a va lo ki tas va ra]] (which I take to be [[7]] syllables]] is their original name, meaning one who perceives the sounds of sentient beings.
   - #mantra [[om mani padme hum]]
-  - [[33]] main manifestations (?).
+    - Avalokitasvara has [[33]] main manifestations (?).
+    - One manifestation is [[padmapani]], the [[lotus bearer]]
