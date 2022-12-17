@@ -3,5 +3,5 @@
 	- #push [[flancia]]
 		- The [[root]] of the project. Where it all started.
 		- [[blog]] https://flancia.org/mine
-	- It was [[unmaintained]] fro most of [[2020]] to [[2022]] as I focused on [[work]] and building an [[Agora]].
-		- I finally picked it up again on [[2022-03-26]].
+	- It pretty much [[unmaintained]] from early [[2020]] to [[2022]] as I focused on [[work]] (like [[Covid-19]] tech response) and building an [[Agora]].
+		- I finally picked it up again on [[2022-03-26]], and then on [[2022-12-17]].
