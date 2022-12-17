@@ -13,10 +13,12 @@
     - #5 [[focus]], [[light]]: five pips as in the face of a [[die]]
     - #6 [[2 3]], 
       - [[fork]] then [[merge]]
+      - (Indeed as we fork we'll merge.)
       - [[yoga with x]], [[x with y]]
-    - #7 a [[commons]]
+    - #7 [[Avalokitasvara]], the [[commons]] (with compassion)
     - #8 [[2 2 2]], [[the eightfold path]]
     - #9 [[3 3]], [[loving kindness]]
+      - May you be happy!
     - #10 [[2 5]], [[right view]]
     - #11 [[right resolve]]
     - #12 [[2 3 2]], [[fork merge fork]], [[right speech]]
