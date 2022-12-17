@@ -1,5 +1,6 @@
-- a [[thing]] you find some day, free on the [[internet]].
-  - #go https://github.com/flancian/flancia
+- a [[book]].
+  - A [[thing]] you find some day, free on the [[internet]].
   - Assembled from fragments found in https://flancia.org and https://anagora.org.
-  - #git [[flancia/git]]
-  - uses [[nikola]].
+  - #go https://github.com/flancian/flancia
+  - #git [[flancia/git]] 
+  - #pull [[flancia org]]
