@@ -4,12 +4,16 @@
   - [[Flancia mind palace]] -> [[Flancia book]]
     - #0 Start here: [[breath is the palace of the Buddhas]]
       - (Gloria a la luz de la consciencia!)
-    - #1 [[self]], [[non dualistic]]
-    - #2 [[fork]], [[dualistic]]
-    - #3 [[merge]], a [[triangle]]
-    - #4 [[2 2]], two [[forks]]
-    - #5 [[light]], as in a [[die]]
-    - #6 [[2 3]], [[fork]] then [[merge]], [[x with y]]
+    - #1 Flancia: on the [[self]], the [[dualistic]] trending towards the [[non dualistic]]
+    - #2 [[fork]] 
+      - (En Flancia hay un Ágora.)
+    - #3 [[merge]]
+      - a [[triangle]]
+    - #4 [[2 2]], fork fork
+    - #5 [[focus]], [[light]]: five pips as in the face of a [[die]]
+    - #6 [[2 3]], 
+      - [[fork]] then [[merge]]
+      - [[yoga with x]], [[x with y]]
     - #7 a [[commons]]
     - #8 [[2 2 2]], [[the eightfold path]]
     - #9 [[3 3]], [[loving kindness]]
