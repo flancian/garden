@@ -5,4 +5,4 @@
       - [[aum]] ~ body/speech/mind, from the impure to the pure
       - [[mani]] ~ [[jewel of altruism]]
       - [[padme]] ~ [[wisdom]]
-      - [[hum]] integrated
+      - [[hum]] ~ meaning an integration of the preceding
