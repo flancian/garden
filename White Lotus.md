@@ -1,0 +1,4 @@
+- a [[movement]].
+  - https://en.wikipedia.org/wiki/White_Lotus
+    - > If this interpretation is correct, the steady rise in the number of White Lotus rebellions in imperial histories during the Ming and Qing does not necessarily reflect the increasing strength of a unified organization. Instead, this trend reflects a growing concern by imperial bureaucrats with any form of Buddhism practiced outside of the sanctioned frameworks of the monasteries.
+  - #pull [[Maitreya]]
