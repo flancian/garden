@@ -3,5 +3,5 @@
   - #pull [[deleuze]] [[guattari]]
   - as related to [[heterarchies]].
 - a [[server]].
-  - belongs to [[social coop]].
+  - belongs to [[social coop]] :)
   - #pull [[rhizome.social.coop]]
