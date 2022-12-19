@@ -4,4 +4,5 @@
   - as related to [[heterarchies]].
 - a [[server]].
   - belongs to [[social coop]] :)
-  - #pull [[rhizome.social.coop]]
+  - [[rhizome.social.coop]]
+  - #pull [[twg]]
