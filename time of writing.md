@@ -1,0 +1,3 @@
+- #pull [[last updated]]
+- I added a last updated field to the Agora UI ([[agora server]]) on [[2022-12-18]]. It's clunky but it already adds value.
+  - I think I will move it to a footer, which will also give more "definition" to each subnode. It prompts the question: what else could be in the footer?
