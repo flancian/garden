@@ -1,0 +1,3 @@
+- a [[project]]
+  - #pull [[sense doing]]
+  - #go https://docs.google.com/document/d/1z-SJXlX3BdI-92X19FQNPMkK65RpsPApyw9V6U7dthk/edit#heading=h.jw9qcfe7v9uj
