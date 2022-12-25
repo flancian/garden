@@ -14,3 +14,7 @@
 			- ([[burn for greater good]])
 - as of [[2022-06]] I've been doing more of them. they work, at runtime and for [[planning]].
 - doing these on [[2022-08-20]], doing these most days honestly.
+
+## [[2022-12-25]]
+
+There are many [[pomodoro logs]], this is just one -- one of many even I keep :)
