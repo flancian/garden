@@ -1,2 +1,3 @@
 - #pull [[agora discuss]] [[agora development]]
   - both on [[Matrix]], limited bridging to [[Discord]].
+- #pull Also for some reason Wikipedia returns [[Laiki agora]] for this query, which is awesome :)
