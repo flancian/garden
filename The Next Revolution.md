@@ -1,0 +1,4 @@
+- a [[book]].
+  - by [[Murray Bookchin]]
+  - #goodreads https://www.goodreads.com/book/show/21972006-the-next-revolution
+  - #go https://theanarchistlibrary.org/library/murray-bookchin-ursula-k-le-guin-the-next-revolution

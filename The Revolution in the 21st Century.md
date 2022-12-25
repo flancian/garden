@@ -1,0 +1,3 @@
+- an [[essay]].
+  - by [[Murray Bookchin]].
+  - in [[The Next Revolution]].
