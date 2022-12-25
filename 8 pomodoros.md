@@ -1,0 +1,2 @@
+- #pull [[eight pomodoros]]
+- looks a bit like [[infinite pomodoros]] if you look at it at an angle ;)
