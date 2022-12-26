@@ -1,2 +1,4 @@
 - To join this Agora, please reach out to signup@anagora.org as per the instructions in [[agora signup]] :)
+  - #pull [[agora signup]] [[agora editor]]
 - If you would like to contribute from social media, please see [[agora bot]] for instructions. It involves following an Agora account and then using [[wikilinks]] or #hashtags.
+  - #pull [[agora bot]] [[wikilinks everywhere]]
