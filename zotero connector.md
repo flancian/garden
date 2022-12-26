@@ -1,0 +1,1 @@
+- https://www.zotero.org/download/connectors
