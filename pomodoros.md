@@ -29,8 +29,11 @@ There are many [[pomodoro logs]], this is just one -- one of many even I keep :)
 - [x]
 - [x]
 
-- [ ]
-- [ ]
+- (flow)
+
+## [[2022-12-26]]
+- [ ] (setup, around 11:33)
+- [ ] 
 - [ ]
 - [ ]
 
