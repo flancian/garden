@@ -1,2 +1,2 @@
-- To join this Agora, please reach out to signup@anagora.org.
-  - #pull [[sign in]]
+- To join this Agora, please reach out to signup@anagora.org as per the below instructions :)
+  - #pull [[agora signup]]
