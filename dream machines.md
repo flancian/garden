@@ -1,1 +1,1 @@
-- #go https://archive.org/details/ted-nelson-computer-lib-dream-machine/page/n1/mode/2up
+- #go https://archive.org/details/ted-nelson-computer-lib-dream-machine/
