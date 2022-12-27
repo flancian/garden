@@ -32,27 +32,9 @@ There are many [[pomodoro logs]], this is just one -- one of many even I keep :)
 - (flow)
 
 ## [[2022-12-26]]
-- [ ] (setup, around 11:33)
-- [ ] 
-- [ ]
-- [ ]
+- [x] (setup, around 11:33)
+- [x] 
+- [x]
+- [x]
+- (kept in paper form after this, but did around ~17 :))
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
