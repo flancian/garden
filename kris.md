@@ -1,2 +1,3 @@
 - a [[person]].
   - [[friend]].
+  - met her around [[2022-11]].
