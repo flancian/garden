@@ -1,0 +1,2 @@
+- #pull [[calendario revolucionario]]
+  - this could work for any year -- indeed, for any 365-ish days period.
