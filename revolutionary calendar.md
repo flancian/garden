@@ -2,5 +2,5 @@
   - in an [[agora]].
   - #pull [[calendario revolucionario]]
   - this could work for any year -- indeed, for any 365-ish days period.
-  - but was initially thought for 2023, then with 2025, 2027 and 2030.
+  - was initially planned for [[2023]], but knowing it could be a better fit for 2025, 2027 and 2030, ….
   - #pull [[flancia revolution]] [[17]]
