@@ -4,6 +4,5 @@
   - "Las [[jaras]] del indio Adán, donde pegan dan."
 - an [[intent]].
   - I (this [[Flancian]]) intend to [[slay]] or [[disentangle]] [[Moloch]].
-  - Disentangling them could mean detaching them from [[humanity]] and [[friends]], peacefully.
-
-
+  - Disentangling them could mean attempting to detach them from [[humanity]] and [[friends]], peacefully.
+  - It could also mean to [[heal]] them, and to [[free]] them, in the same way [[Paulo Freire]] says you also free the [[oppressor]] by putting an end to [[oppression]].
