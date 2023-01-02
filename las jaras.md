@@ -9,4 +9,4 @@
   
 Las jaras del indio Adán, donde pegan dan.
 
-Las jaras del indio Andrés, pegan dos, dan tres.
+Las jaras del indio Andrés, pegan [[dos]], dan [[tres]].
