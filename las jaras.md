@@ -1,8 +1,12 @@
 - a [[card]].
-  - [[31]]
-  - in [[lotería mexicana]]
-  - "Las [[jaras]] del indio Adán, donde pegan dan."
+  - #push [[31]]
+    - En la [[lotería mexicana]]
+    - "Las [[jaras]] del indio Adán, donde pegan dan."
 - an [[intent]].
-  - I (this [[Flancian]]) intend to [[slay]] or [[disentangle]] [[Moloch]].
+  - Either [[slay]] or [[disentagle Moloch]].
   - Disentangling them could mean attempting to detach them from [[humanity]] and [[friends]], peacefully.
   - It could also mean to [[heal]] them, and to [[free]] them, in the same way [[Paulo Freire]] says you also free the [[oppressor]] by putting an end to [[oppression]].
+  
+Las jaras del indio Adán, donde pegan dan.
+
+Las jaras del indio Andrés, pegan dos, dan tres.
