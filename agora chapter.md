@@ -87,3 +87,7 @@ If you somehow found this recording and you don't know what it's all about, you 
 
 - #push [[todo]]
   - Wow, I really need to maintain the Agora root repository. I haven't touched it in, well, maybe a year? I need to check. And it is the reason I keep thinking 'the Agora index doesn't read great.'
+
+## 2023
+
+Still working on this on [[2023-01-02]], enjoying it although I'm a bit delayed :)
