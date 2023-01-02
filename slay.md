@@ -1,0 +1,1 @@
+- #pull [[slay moloch]] means [[defeat moloch]] non violently, ideally
