@@ -3,6 +3,7 @@
 - a [[service]].
   - [[recycling]].
   - some pickup dates follow.
+  - #go https://mr-green.ch/pages/abholtermine
   - [[2023]]
     - [[2023-01-13]]
     - [[2023-01-27]]
