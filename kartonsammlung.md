@@ -1,6 +1,13 @@
 - a [[schedule]].
 	- cardboard collection day.
 	- #go https://www.stadt-zuerich.ch/ted/de/index/entsorgung_recycling/entsorgen/persoenlicher_entsorgungskalender.html
+  - [[2023]]
+    - Whenever it's a Thursday and it's one of these, it's [[papiersammlung]] instead :)
+    - [[2023-01-12]]
+    - [[2023-01-26]]
+    - [[2023-02-09]]
+    - [[2023-02-23]]
+    - ...
 	- [[2022]]
 		- Do, 7. April 2022
 		  Do, 21. April 2022
@@ -22,4 +29,4 @@
 		  Do, 1. Dezember 2022
 		  Do, 15. Dezember 2022
 		  Do, 29. Dezember 2022
-		-
+		
