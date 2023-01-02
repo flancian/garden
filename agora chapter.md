@@ -91,3 +91,5 @@ If you somehow found this recording and you don't know what it's all about, you 
 ## 2023
 
 Still working on this on [[2023-01-02]], enjoying it although I'm a bit delayed :)
+
+My current attitude is: some bits of this are readable, if in need, chop what's not and publish what remains :)
