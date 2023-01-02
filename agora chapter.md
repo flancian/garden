@@ -93,3 +93,9 @@ If you somehow found this recording and you don't know what it's all about, you 
 Still working on this on [[2023-01-02]], enjoying it although I'm a bit delayed :)
 
 My current attitude is: some bits of this are readable, if in need, chop what's not and publish what remains :)
+
+## [[2023-01-02]]
+
+I plan to do 4 to 8 pomodoros on this tonight, although friends are coming over, so some of them might be later at night :) And I'm fine with 4.
+
+Let's see how it goes though. It's 17:40 now, but the house is ready and dinner is simple.
