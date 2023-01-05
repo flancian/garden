@@ -7,3 +7,4 @@
 	- #pull [[yoga with x]]
 		- is a side project I've been exploring inspired by it :)
     - I do [[Move]], part of her [[30 days with yoga]] cycle, by default every day.
+      - In the Agora you can go/move/17 to do the video for day 17, for example.
