@@ -4,5 +4,6 @@
 - A [[project]].
 	- by [[Adriene Mishler]].
 	- It is essentially the base of our [[yoga]] practice.
-	- [[pull]] [[yoga with x]]
+	- #pull [[yoga with x]]
 		- is a side project I've been exploring inspired by it :)
+    -
