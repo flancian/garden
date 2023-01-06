@@ -1,3 +1,6 @@
-- Today [[sneakers the rat]] told me that seeing [[agora bot]] around was nice -- that it felt like my [[familiar]].
-  - I really appreciated that. I do think of it as my [[companion]].
-    - And that of the [[community]].
+- a [[thing]].
+  - e.g. a [[character]] in an RPG.
+- a [[person]].
+  - Today [[sneakers the rat]] told me that seeing [[agora bot]] around was nice -- that it felt like my [[familiar]].
+    - I really appreciated that. I do think of it as my [[companion]].
+      - And that of the [[community]].
