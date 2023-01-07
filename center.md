@@ -1,8 +1,10 @@
 - a [[playlist]].
   - [[30 days of yoga]] [[yoga with adriene]] [[2023]]
+  - #go https://www.youtube.com/playlist?list=PLui6Eyny-Uzx-IzGg48K4aHGyBwtPh7Sw
   - #0 https://www.youtube.com/watch?v=7vZOuClmaxk
   - #1 https://www.youtube.com/watch?v=dlkG7LQJjY0
   - #2 https://www.youtube.com/watch?v=XHegE9h0ZvA
   - #3 https://www.youtube.com/watch?v=XerZZ2gbY38
   - #4 https://www.youtube.com/watch?v=NdH3XeKbhvQ
   - #5 https://www.youtube.com/watch?v=mXG4p5cuR3g
+  - #6 
