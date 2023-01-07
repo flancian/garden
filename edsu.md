@@ -1,1 +1,3 @@
-- [[pull]] [[ed summers]]
+- a [[person]].
+  - [[friend]]
+  - #pull [[ed summers]]

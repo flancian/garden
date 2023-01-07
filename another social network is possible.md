@@ -1,4 +1,5 @@
 - an [[essay]].
-  - about [[Bernard Stiegler]].
-  - #2021
+  - about [[Bernard Stiegler]] and the debate on the future of [[social media]].
   - #go https://networkcultures.org/geert/2022/12/28/harry-halpin-geert-lovink-another-social-network-is-possible-on-bernard-stiegler-and-the-social-media-question/
+  - #2021
+  - recommended by [[edsu]]!
