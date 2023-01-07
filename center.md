@@ -33,3 +33,4 @@
   - #29 https://anagora.org/center
   - #30 https://anagora.org/center
   - #31 https://anagora.org/center
+  - see also [[yoga with x]] :)
