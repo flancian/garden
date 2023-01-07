@@ -1,7 +1,8 @@
 - a [[person]]
+  - [[friend]]
 	- in [[social coop]]
-	- [[pull]] [[edsu]]
-	- [[go]] https://inkdroid.org
+	- #pull [[edsu]]
+	- #go https://inkdroid.org
 	- [[mastodon]] https://social.coop/@edsu
 	- [[git]] https://github.com/edsu
 	- [[matrix]] @edsu:matrix.org
