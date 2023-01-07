@@ -1,0 +1,3 @@
+- read [[homo deus]]
+- read [[approaching the buddhist path]]
+- play [[return to monkey island]]
