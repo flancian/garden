@@ -99,3 +99,7 @@ My current attitude is: some bits of this are readable, if in need, chop what's 
 I plan to do 4 to 8 pomodoros on this tonight, although friends are coming over, so some of them might be later at night :) And I'm fine with 4.
 
 Let's see how it goes though. It's 17:40 now, but the house is ready and dinner is simple.
+
+## [[2023-01-07]]
+
+Back in this part of town! Starting pomodoros at 15. I hope to be able to finish this today. I'm primary oncall for Meet but oncall on weekends is usually quiet; let's see :)
