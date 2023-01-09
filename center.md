@@ -9,7 +9,7 @@
   - #5 https://www.youtube.com/watch?v=mXG4p5cuR3g
   - #6 https://www.youtube.com/watch?v=h6D7MGLs4Po
   - #7 https://www.youtube.com/watch?v=UhK6T9ReRwI
-  - #8 https://anagora.org/center
+  - #8 https://www.youtube.com/watch?v=8WLVkyf2Ojg
   - #9 https://anagora.org/center
   - #10 https://anagora.org/center
   - #11 https://anagora.org/center
