@@ -1,0 +1,4 @@
+- A [[file]].
+  - You can put in your garden to configure how Agoras interact with it.
+  - … theoretically :) I've talked about implementing this for quite long but as of [[2023-01-11]] it hasn't happened.
+  - I want to prioritize this in [[2023]].
