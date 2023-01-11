@@ -19,7 +19,8 @@
 	- Internal milestones, including setting up a new working group in an interesting space.
 
 # February
-- Execution begins.
+- Execution part of this plan begins in earnest.
+- Try to contribute meaningfully to Fediverse moderation, ideally both directly (in social.coop) and via writing an essay.
 
 # March
 
