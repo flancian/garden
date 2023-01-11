@@ -3,4 +3,4 @@
   - Assembled from fragments found in https://flancia.org and https://anagora.org.
   - #go https://github.com/flancian/flancia
   - #git [[flancia/git]] 
-  - #pull [[flancia org]]
+  - #pull [[flancia org]] [[flancia doc]]
