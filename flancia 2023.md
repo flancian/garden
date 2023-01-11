@@ -30,8 +30,11 @@
 - [[moa party]] question of ownership ideally settled.
 
 # March
+- Significant progress on [[Chronicles of Flancia]].
+- Client subnodes in anagora.org.
 
 # April
+- 
 
 # May
 
