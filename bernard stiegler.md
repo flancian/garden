@@ -1,3 +1,4 @@
 - a [[person]].
   - [[philosopher]], [[french]].
   - #1952-#2020.
+  - #pull [[collectif internation]] [[pharmakon.fr]] [[centre georges-pompidou]]
