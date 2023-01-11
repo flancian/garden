@@ -31,10 +31,10 @@
 
 # March
 - Significant progress on [[Chronicles of Flancia]].
-- Client subnodes in anagora.org.
+- Several kinds of interesting client subnodes in anagora.org.
 
 # April
-- 
+- ?
 
 # May
 
