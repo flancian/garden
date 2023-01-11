@@ -5,3 +5,38 @@
       - It is overwhelmingly likely most of this plan will *not* come to fruition as written. That's alright. There will be many opportunities in future years.
       - See also: [[2025]], [[2027]], [[2030]] and others.
 	- #pull [[2023]]
+
+# January
+- Planning for [[2023]], continued from [[December 2022]].
+- #push [[agora]]
+	- [[Agora chapter]] delivered (finally!). It is what it is; I am glad it exists, for all its shortcomings.
+	- [[Agora development]] resumes (with more time to dedicate to it).
+- #push [[fellowship of the link]]
+	- Agreed on planning together (share our plans) during this January.
+- #push [[moa party]]
+	- Start discussions about handing over maintenance to a larger group. Ideally the [[social coop tech group]].
+
+# February
+
+# March
+
+# April
+
+# May
+
+# June
+
+# July
+
+# August
+
+# September
+
+# October
+
+# November
+
+# December
+
+- Planning for [[2024]].
+- By default we'll do whatever we didn't get done during [[2023]] :)
