@@ -11,7 +11,7 @@
   - #7 https://www.youtube.com/watch?v=UhK6T9ReRwI
   - #8 https://www.youtube.com/watch?v=8WLVkyf2Ojg
   - #9 https://anagora.org/center
-  - #10 https://anagora.org/center
+  - #10 https://www.youtube.com/watch?v=giSo0qQIscE
   - #11 https://anagora.org/center
   - #12 https://anagora.org/center
   - #13 https://anagora.org/center
