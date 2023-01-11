@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[philosopher]], [[french]].
+  - #1952-#2020.
