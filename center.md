@@ -1,5 +1,5 @@
 - a [[playlist]].
-  - [[30 days of yoga]] as done by [[yoga with adriene]], during January [[2023]] (and every other month you want to practice!).
+  - [[30 days of yoga]] as done by [[yoga with adriene]], during January [[2023]] (and any subsequent month you want to practice it!).
   - #go https://www.youtube.com/playlist?list=PLui6Eyny-Uzx-IzGg48K4aHGyBwtPh7Sw
   - #0 https://www.youtube.com/watch?v=7vZOuClmaxk
   - #1 https://www.youtube.com/watch?v=dlkG7LQJjY0
