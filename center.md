@@ -2,38 +2,38 @@
   - [[30 days of yoga]] as done by [[yoga with adriene]], during January [[2023]] (and any subsequent month you want to practice it!).
   - #go https://www.youtube.com/playlist?list=PLui6Eyny-Uzx-IzGg48K4aHGyBwtPh7Sw
     - Note you can use [[go/center/N]] to be redirected to the Nth day of the month :)
-  - #0 https://www.youtube.com/watch?v=7vZOuClmaxk
-  - #1 https://www.youtube.com/watch?v=dlkG7LQJjY0
-  - #2 https://www.youtube.com/watch?v=XHegE9h0ZvA
-  - #3 https://www.youtube.com/watch?v=XerZZ2gbY38
-  - #4 https://www.youtube.com/watch?v=NdH3XeKbhvQ
-  - #5 https://www.youtube.com/watch?v=mXG4p5cuR3g
-  - #6 https://www.youtube.com/watch?v=h6D7MGLs4Po
-  - #7 https://www.youtube.com/watch?v=UhK6T9ReRwI
-  - #8 https://www.youtube.com/watch?v=8WLVkyf2Ojg
-  - #9 https://www.youtube.com/watch?v=FHRjpS11CbE
-    - corazón
-  - #10 https://www.youtube.com/watch?v=giSo0qQIscE
-    - energy
-  - #11 https://anagora.org/center
-  - #12 https://anagora.org/center
-  - #13 https://anagora.org/center
-  - #14 https://anagora.org/center
-  - #15 https://anagora.org/center
-  - #16 https://anagora.org/center
-  - #17 https://anagora.org/center
-  - #18 https://anagora.org/center
-  - #19 https://anagora.org/center
-  - #20 https://anagora.org/center
-  - #21 https://anagora.org/center
-  - #22 https://anagora.org/center
-  - #23 https://anagora.org/center
-  - #24 https://anagora.org/center
-  - #25 https://anagora.org/center
-  - #26 https://anagora.org/center
-  - #27 https://anagora.org/center
-  - #28 https://anagora.org/center
-  - #29 https://anagora.org/center
-  - #30 https://anagora.org/center
-  - #31 https://anagora.org/center
+    - #0 https://www.youtube.com/watch?v=7vZOuClmaxk
+    - #1 https://www.youtube.com/watch?v=dlkG7LQJjY0
+    - #2 https://www.youtube.com/watch?v=XHegE9h0ZvA
+    - #3 https://www.youtube.com/watch?v=XerZZ2gbY38
+    - #4 https://www.youtube.com/watch?v=NdH3XeKbhvQ
+    - #5 https://www.youtube.com/watch?v=mXG4p5cuR3g
+    - #6 https://www.youtube.com/watch?v=h6D7MGLs4Po
+    - #7 https://www.youtube.com/watch?v=UhK6T9ReRwI
+    - #8 https://www.youtube.com/watch?v=8WLVkyf2Ojg
+    - #9 https://www.youtube.com/watch?v=FHRjpS11CbE
+      - corazón
+    - #10 https://www.youtube.com/watch?v=giSo0qQIscE
+      - energy
+    - #11 https://anagora.org/center
+    - #12 https://anagora.org/center
+    - #13 https://anagora.org/center
+    - #14 https://anagora.org/center
+    - #15 https://anagora.org/center
+    - #16 https://anagora.org/center
+    - #17 https://anagora.org/center
+    - #18 https://anagora.org/center
+    - #19 https://anagora.org/center
+    - #20 https://anagora.org/center
+    - #21 https://anagora.org/center
+    - #22 https://anagora.org/center
+    - #23 https://anagora.org/center
+    - #24 https://anagora.org/center
+    - #25 https://anagora.org/center
+    - #26 https://anagora.org/center
+    - #27 https://anagora.org/center
+    - #28 https://anagora.org/center
+    - #29 https://anagora.org/center
+    - #30 https://anagora.org/center
+    - #31 https://anagora.org/center
   - see also: [[yoga with x]] :)
