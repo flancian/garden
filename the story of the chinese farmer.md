@@ -1,0 +1,2 @@
+- #go https://www.craftdeology.com/the-story-of-the-chinese-farmer-by-alan-watts/
+- #pull [[alan watts]] [[story of the chinese farmer]]
