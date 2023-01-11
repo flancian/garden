@@ -1,7 +1,8 @@
 - a [[document]].
   - …or three :)
   - you find in the [[Agora of Flancia]].
-  - #2019 
+  - #2019 https://docs.google.com/document/d/1hKYrcScFTqggWhtlc-Ot3XQoWQmBFKXF/edit
   - #2022 https://docs.google.com/document/d/1MxO0l9wDDWQdrutOVgdS6YO_TK9FH8C9/edit 
   - #go https://docs.google.com/document/d/1MxO0l9wDDWQdrutOVgdS6YO_TK9FH8C9/edit
   - #stoa https://doc.anagora.org/flancia-doc
+    - Publicly editable.
