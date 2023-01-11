@@ -5,3 +5,4 @@
   - #go https://networkcultures.org/geert/2022/12/28/harry-halpin-geert-lovink-another-social-network-is-possible-on-bernard-stiegler-and-the-social-media-question/
     - from [[facebook]] to a reading of [[mimesis]] from [[girard]] by [[thiel]]
     - "‘Even building a castle in the air requires a good architect.’" [[Karel Jonckheere]]
+    - "a life dedicated to the philosophy of technology that ran parallel to the invention, introduction, and eventual domination of planetary life by the internet."
