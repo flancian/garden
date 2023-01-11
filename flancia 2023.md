@@ -22,10 +22,12 @@
 # February
 - Execution part of this plan begins in earnest.
 - Try to contribute meaningfully to Fediverse moderation, ideally both directly (in social.coop) and via writing an essay.
-- [[agor.ai]] has at least one more Agora up, ideally at least three:
+- [[agor.ai]] has at least one more Agora up usefully, ideally at least four?
 	- [[jerry's brain]] or [[ogm]]?
   - [[shamanic coders guild]]? if they are still interested, hopefully yes!
 	- [[plates]] or [[the one]]?
+	- [[social coop]]?
+- [[moa party]] question of ownership ideally settled.
 
 # March
 
