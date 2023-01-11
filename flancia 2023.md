@@ -15,8 +15,11 @@
 	- Agreed on planning together (share our plans) during this January.
 - #push [[moa party]]
 	- Start discussions about handing over maintenance to a larger group. Ideally the [[social coop tech group]].
+- #push [[work]]
+	- Internal milestones, including setting up a new working group in an interesting space.
 
 # February
+- Execution begins.
 
 # March
 
