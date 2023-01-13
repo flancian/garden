@@ -15,8 +15,8 @@
       - corazón
     - #10 https://www.youtube.com/watch?v=giSo0qQIscE
       - energy
-    - #11 https://anagora.org/center
-    - #12 https://anagora.org/center
+    - #11 https://www.youtube.com/watch?v=kW8Fe9O2mPs
+    - #12 https://www.youtube.com/watch?v=tAui_7GMF2w
     - #13 https://anagora.org/center
     - #14 https://anagora.org/center
     - #15 https://anagora.org/center
