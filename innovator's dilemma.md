@@ -1,2 +1,2 @@
 - a [[book]].
-- #pull [[the innovator's dilemma]]
+  - #pull [[the innovator's dilemma]]
