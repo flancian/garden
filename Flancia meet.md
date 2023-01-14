@@ -1,0 +1,1 @@
+- Hosted on [[jitsi meet]]: https://meet.jit.si/flancia-meet
