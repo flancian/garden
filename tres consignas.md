@@ -1,2 +1,2 @@
-- La revolución incremental y federada es posible.
-- La realizaremos para el beneficio de todos los seres sentientes.
+- La [[revolución]] incremental y distribuída es posible.
+- La realizaremos [[para el beneficio de todos los seres]] sentientes.
