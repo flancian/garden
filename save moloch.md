@@ -2,6 +2,6 @@
   - We [[rehabilitated]] them; meaning the [[egregore]] that managed to manifest and preserve themselves in [[humanity]] through [[history]].
   - We [[disentangled]] them from humanity.
   - #push [[moloch]]
-    - What if we tried to [[save]] [[Moloch]]? To try to redeem them? Let them redefine themselves for [[good]].
+    - What if we tried to [[save]] [[Moloch]]? To try to redeem them? Let them redefine themselves in a way that increases the common [[good]].
       - I'd give them the [[benefit of doubt]] if they used [[an agora]].
-    - (would you like to [[slay moloch]] while we have a chance instead?)
+  - -> Would you like to [[slay moloch]] if we ever get the chance instead?
