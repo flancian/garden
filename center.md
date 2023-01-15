@@ -12,13 +12,15 @@
     - #7 https://www.youtube.com/watch?v=UhK6T9ReRwI
     - #8 https://www.youtube.com/watch?v=8WLVkyf2Ojg
     - #9 https://www.youtube.com/watch?v=FHRjpS11CbE
-      - corazón
+      - [[corazón]]
     - #10 https://www.youtube.com/watch?v=giSo0qQIscE
-      - energy
+      - [[energy]]
     - #11 https://www.youtube.com/watch?v=kW8Fe9O2mPs
     - #12 https://www.youtube.com/watch?v=tAui_7GMF2w
-    - #13 https://anagora.org/center
-    - #14 https://anagora.org/center
+    - #13 https://www.youtube.com/watch?v=PAuo_9d3FSk
+      - [[trust]]
+    - #14 https://www.youtube.com/watch?v=aYDRQ4mqNgs
+      - [[stretch]]
     - #15 https://anagora.org/center
     - #16 https://anagora.org/center
     - #17 https://anagora.org/center
