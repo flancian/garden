@@ -3,4 +3,4 @@
     - La realizaremos [[para el beneficio de todos los seres]] sentientes.
   - En Flancia no hay violencia, no hay opresión, no hay pobreza.
     - En Flancia hay un [[Ágora]].
-      - En Flancia tenemos infinitas consignas.
+      - -> [[En Flancia tenemos muchas consignas]].
