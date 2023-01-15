@@ -1,1 +1,1 @@
-- Una Flancia significa [[tres consignas]] y muchas.
+- Una [[Flancia]] significa [[tres consignas]] y muchas.

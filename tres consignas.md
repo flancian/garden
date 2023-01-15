@@ -1,0 +1,2 @@
+- La revolución incremental y federada es posible.
+- La realizaremos para el beneficio de todos los seres sentientes.
