@@ -34,7 +34,7 @@
 - Several kinds of interesting client subnodes in anagora.org.
 
 # April
-- ?
+- [[Venceremos a Moloch]], quizás un [[23 de abril]].
 
 # May
 
