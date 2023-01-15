@@ -1,4 +1,4 @@
 - La [[revolución]] incremental y distribuída es posible.
   - La realizaremos [[para el beneficio de todos los seres]] sentientes.
-- En Flancia no hay violencia.
+- En Flancia no hay violencia, no hay opresión, no hay pobreza.
 - En Flancia hay un [[Ágora]].
