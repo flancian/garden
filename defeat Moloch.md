@@ -1,1 +1,3 @@
-- #pull [[slay moloch]] [[heal moloch]] [[disentangle moloch]]
+- I believe we'll [[defeat moloch]] somehow.
+  - #pull [[slay moloch]] [[heal moloch]] [[disentangle moloch]]
+    - The [[three]] clear [[possibilities]] I see.

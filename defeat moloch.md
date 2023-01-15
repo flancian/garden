@@ -1,1 +1,1 @@
-- #pull [[together we'll defeat moloch]]!
+- #pull [[together we'll defeat moloch]] [[venceremos a moloch]]
