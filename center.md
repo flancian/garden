@@ -21,7 +21,8 @@
       - [[trust]]
     - #14 https://www.youtube.com/watch?v=aYDRQ4mqNgs
       - [[stretch]]
-    - #15 https://anagora.org/center
+    - #15 https://www.youtube.com/watch?v=04Zz9ED0CU8
+      - [[reset]]
     - #16 https://anagora.org/center
     - #17 https://anagora.org/center
     - #18 https://anagora.org/center
