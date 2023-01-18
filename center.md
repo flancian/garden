@@ -24,7 +24,7 @@
     - #15 https://www.youtube.com/watch?v=04Zz9ED0CU8
       - [[reset]]
     - #16 https://anagora.org/center
-    - #17 https://anagora.org/center
+    - #17 https://www.youtube.com/watch?v=Bqdqu1GRBmQ
     - #18 https://anagora.org/center
     - #19 https://anagora.org/center
     - #20 https://anagora.org/center
