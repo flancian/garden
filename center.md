@@ -25,6 +25,7 @@
       - [[reset]]
     - #16 https://anagora.org/center
     - #17 https://www.youtube.com/watch?v=Bqdqu1GRBmQ
+      - [[move]]
     - #18 https://anagora.org/center
     - #19 https://anagora.org/center
     - #20 https://anagora.org/center
