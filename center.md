@@ -23,7 +23,8 @@
       - [[stretch]]
     - #15 https://www.youtube.com/watch?v=04Zz9ED0CU8
       - [[reset]]
-    - #16 https://anagora.org/center
+    - #16 https://www.youtube.com/watch?v=4yxB911xoUE
+      - [[kind]]
     - #17 https://www.youtube.com/watch?v=Bqdqu1GRBmQ
       - [[move]]
     - #18 https://anagora.org/center
