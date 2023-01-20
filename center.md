@@ -27,8 +27,11 @@
       - [[kind]]
     - #17 https://www.youtube.com/watch?v=Bqdqu1GRBmQ
       - [[move]]
-    - #18 https://anagora.org/center
-    - #19 https://anagora.org/center
+    - #18 https://www.youtube.com/watch?v=OeTbwCuzLtM
+      - [[gaze]] -> [[drishti]]?
+    - #19 https://www.youtube.com/watch?v=obtulrEW2P0
+      -  [[play]]
+        - "I promise not to sing" :)
     - #20 https://anagora.org/center
     - #21 https://anagora.org/center
     - #22 https://anagora.org/center
