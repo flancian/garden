@@ -22,8 +22,8 @@
 			- [[episode 2]] https://youtu.be/asIw7Vd9NyQ
 			- [[episode 3]] https://youtu.be/z9QNeqz6iNs
       - [[?]] https://www.youtube.com/watch?v=E3jFEOD2tIU
-      - There's a lot more of them, see most of them in https://youtube.com/@flancian.
-      - [[fractal yoga]] is a fun (to me anyway) twist :)
+      - There's a lot more , see most of them in https://youtube.com/@flancian.
+      - Note I sometimes like [[fractal yoga]], hopefully it's not too distracting :)
 		- [[drive]] https://drive.google.com/drive/u/0/folders/1LbO9OHAaI793g-61wVh13EgE0wxuh3hj
 		- [[doc]] with some more details written but not yet published.
 - a [[short story]].
@@ -47,3 +47,7 @@ https://youtu.be/wssSo98wfNY
 [[Working in public]] tonight. I see yoga and working as two strands in a beautiful braid.
 
 In case you're wondering, those dishes are dirty :) But you didn't because the dishwasher was closed by the time we started yoga, and you also didn't because I didn't record it today, although I did broadcast in [[go/yoga with x]] as usual. The mirror images / views on the so called [[self]] are useful.
+
+## [[2023-01-20]] leading into [[2023-01-21]]
+
+- [[center 18]] https://youtu.be/cCf68mi6r-I
