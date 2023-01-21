@@ -1,1 +1,1 @@
-- #pull [[agora like]]
+- #pull [[agora]] [[agoras]] [[agora like]] [[stoas]] [[protopoi]]
