@@ -50,4 +50,6 @@ In case you're wondering, those dishes are dirty :) But you didn't because the d
 
 ## [[2023-01-20]] leading into [[2023-01-21]]
 
-- [[center 18]] https://youtu.be/cCf68mi6r-I
+- doing [[center]] with [[Adriene]] this January, and probably most of [[2023]].
+  - I did the same with [[move]] in [[2022]].
+  - e.g. [[center 18]] https://youtu.be/cCf68mi6r-I
