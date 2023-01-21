@@ -1,15 +1,18 @@
 # yoga with x
 - a [[project]].
 	- [[mashup]] or [[remix]].
-  -	[[prototype]]
-    - #go https://meet.jit.si/yoga-with-x
-      - I do yoga in public! hop on if interested.
-      - I usually announce it on [[twitter]]/[[mastodon]]
+  - #go https://meet.jit.si/yoga-with-x
+    - I do yoga in public! hop on if interested.
+    - I'm a fan of [[Yoga with Adriene]].
+    - #pull [[move]] (2022)
+    - #pull [[center]] (2023)
+    - I usually announce it on [[twitter]]/[[mastodon]]
 		- I've been recording some sessions as an example/demo.
       - [[playlist]] https://www.youtube.com/playlist?list=PLofT8_Cv-W-NMgYeb7mtN3M_kBgkYgUjq
-		- a [[playlist]] and potentially a set of tools to make it easier for people to coordinate massively online over platforms such as [[youtube]], focused on doing [[yoga]] together.
-	- inspired by [[yoga with adriene]], which I'm a big fan of.
-		- [[x]] means any user that does [[yoga with adriene]] or with a friend and wants to share their own experience with others.
+		- this project is:
+      - a [[Youtube playlist]] and potentially.. 
+      - a set of tools to make it easier for people to coordinate massively online over platforms such as [[youtube]], focused on doing [[yoga]] together.
+		- [[x]] means any user that does [[yoga with adriene]] or [[yoga with x]] concurrently and wants to share their own experience with others.
     - #push [[2025]]
       - generalizes to [[x with y]] :)
     - #pull [[yoga with ex]]
@@ -19,7 +22,7 @@
 			- [[episode 2]] https://youtu.be/asIw7Vd9NyQ
 			- [[episode 3]] https://youtu.be/z9QNeqz6iNs
       - [[?]] https://www.youtube.com/watch?v=E3jFEOD2tIU
-      - There's a lot more of them.
+      - There's a lot more of them, see most of them in https://youtube.com/@flancian.
       - [[fractal yoga]] is a fun (to me anyway) twist :)
 		- [[drive]] https://drive.google.com/drive/u/0/folders/1LbO9OHAaI793g-61wVh13EgE0wxuh3hj
 		- [[doc]] with some more details written but not yet published.
