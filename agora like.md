@@ -1,10 +1,12 @@
 # Agora Like
 
-- There are [[roam likes]] -- perhaps I should track projects and tools which are [[agora like]].
-- [[pull]] [[roamanpub]]
-- [[pull]] [[solid]]
-- [[pull]] [[federated wiki]]
-- [[pull]] [[pubpub]]
-- [[pull]] [[roaman agora]]
+- #pull [[fedwiki]] [[federated wiki]]
+- #pull [[mycorrhiza]] [[betula]]
+- #pull [[massive wiki]]
+- #pull [[cosma]]
+- #pull [[yubnub]]
+- #pull [[solid]]
+- #pull [[roamanpub]] [[roaman agora]]
+- #pull [[pubpub]]
 
 
