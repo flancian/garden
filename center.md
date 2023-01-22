@@ -34,7 +34,8 @@
       - "I promise not to sing" :)
     - #20 https://www.youtube.com/watch?v=8FsuEH8iFdw
       - [[restore]]
-    - #21 https://anagora.org/center
+    - #21 https://www.youtube.com/watch?v=OOAEgEPX2xQ
+      - [[strength]]
     - #22 https://anagora.org/center
     - #23 https://anagora.org/center
     - #24 https://anagora.org/center
