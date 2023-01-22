@@ -34,6 +34,7 @@
       - "I promise not to sing" :)
     - #20 https://www.youtube.com/watch?v=8FsuEH8iFdw
       - [[restore]]
+      - very nice, mostly all work laying on the ground, good for the back
     - #21 https://www.youtube.com/watch?v=OOAEgEPX2xQ
       - [[strength]]
     - #22 https://anagora.org/center
