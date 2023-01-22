@@ -1,0 +1,4 @@
+- a [[fork]].
+  - of [[Agora Chapter]] as it was on [[2023-01-22]].
+  - necessary because for some reason I couldn't attach a new [[Apps Script]] to [[Agora Chapter]].
+  - #go https://docs.google.com/document/d/12iOUaceyY58qR725HTq1E8nEdeRzWGqIQStenYf0IJk/edit#
