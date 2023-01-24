@@ -1,2 +1,4 @@
 - a [[paper]].
   - #go https://arxiv.org/abs/1806.08304
+  - #pdf https://arxiv.org/pdf/1806.08304.pdf
+  - #hypothesis https://via.hypothes.is/https://arxiv.org/pdf/1806.08304.pdf
