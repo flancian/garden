@@ -4,4 +4,4 @@ You might have heard the [[news]]: [[Google]] lays off [[12000]]. The company ha
 
 The time has come to ask ourselves: what if [[Moloch]] took Google?
 
-Under our watch, or what could have been our watch.
+Under our watch, or what could be our watch.
