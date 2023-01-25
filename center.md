@@ -37,9 +37,12 @@
       - very nice, mostly all work laying on the ground, good for the back
     - #21 https://www.youtube.com/watch?v=OOAEgEPX2xQ
       - [[strength]]
-    - #22 https://anagora.org/center
-    - #23 https://anagora.org/center
-    - #24 https://anagora.org/center
+    - #22 https://www.youtube.com/watch?v=7jVw5j4R-B4
+      - [[align]]
+    - #23 https://www.youtube.com/watch?v=A_kFHdcACcM
+      - [[soar]]
+    - #24 https://www.youtube.com/watch?v=2oINpxBVKAk
+      - [[explore]]
     - #25 https://anagora.org/center
     - #26 https://anagora.org/center
     - #27 https://anagora.org/center
