@@ -1,0 +1,4 @@
+- #push [[red gardland]]
+  - an [[album]].
+    - One of my favorites.
+    - #go https://music.youtube.com/playlist?list=OLAK5uy_nMEz6oM8v_jTI0qq9u8ZCY5L8DJU7aLCE
