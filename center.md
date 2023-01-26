@@ -43,7 +43,8 @@
       - [[soar]]
     - #24 https://www.youtube.com/watch?v=2oINpxBVKAk
       - [[explore]]
-    - #25 https://anagora.org/center
+    - #25 https://www.youtube.com/watch?v=MqaxmZFGmAI
+      - [[amor]]
     - #26 https://anagora.org/center
     - #27 https://anagora.org/center
     - #28 https://anagora.org/center
