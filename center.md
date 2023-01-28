@@ -45,7 +45,7 @@
       - [[explore]]
     - #25 https://www.youtube.com/watch?v=MqaxmZFGmAI
       - [[amor]]
-    - #26 https://anagora.org/center
+    - #26 https://www.youtube.com/watch?v=wQKJdUKDmfw
     - #27 https://anagora.org/center
     - #28 https://anagora.org/center
     - #29 https://anagora.org/center
