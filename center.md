@@ -46,7 +46,9 @@
     - #25 https://www.youtube.com/watch?v=MqaxmZFGmAI
       - [[amor]]
     - #26 https://www.youtube.com/watch?v=wQKJdUKDmfw
-    - #27 https://anagora.org/center
+      - [[connect]]
+    - #27 https://www.youtube.com/watch?v=aHJIkMW8LOo
+      - [[yin]]
     - #28 https://anagora.org/center
     - #29 https://anagora.org/center
     - #30 https://anagora.org/center
