@@ -1,1 +1,2 @@
+- #pull [[David C. Krakauer]]
 - #go https://davidckrakauer.com/essays-reviews
