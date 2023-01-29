@@ -1,2 +1,3 @@
 - #push [[31]].
+  - #pull [[las jaras]]
   - "Las jaras del indio Adán, [[donde pegan dan]]."
