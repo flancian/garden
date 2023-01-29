@@ -49,7 +49,8 @@
       - [[connect]]
     - #27 https://www.youtube.com/watch?v=aHJIkMW8LOo
       - [[yin]]
-    - #28 https://anagora.org/center
+    - #28 https://www.youtube.com/watch?v=iTe2PLBCBEQ
+      - [[freedom]]
     - #29 https://anagora.org/center
     - #30 https://anagora.org/center
     - #31 https://anagora.org/center
