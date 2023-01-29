@@ -1,1 +1,3 @@
-- #go a Knowledge Commons (2023-01-29 before chopping experiments and applications)
+- a [[person]].
+  - #go https://davidckrakauer.com/
+  - [[Santa Fe Institute]]
