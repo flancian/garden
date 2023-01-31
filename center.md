@@ -3,20 +3,31 @@
   - #go https://www.youtube.com/watch?v=LTdBUmHDA4s&list=PLui6Eyny-Uzx-IzGg48K4aHGyBwtPh7Sw
     - Note you can use [[go/center/N]] to be redirected to the Nth day of the month :)
     - #0 https://www.youtube.com/watch?v=7vZOuClmaxk
+      - [[welcome]]
     - #1 https://www.youtube.com/watch?v=dlkG7LQJjY0
+      - [[show up]]
     - #2 https://www.youtube.com/watch?v=XHegE9h0ZvA
+      - [[listen]]
     - #3 https://www.youtube.com/watch?v=XerZZ2gbY38
+      - [[shift]]
     - #4 https://www.youtube.com/watch?v=NdH3XeKbhvQ
+      - [[root]]
     - #5 https://www.youtube.com/watch?v=mXG4p5cuR3g
+      - [[hug]]
     - #6 https://www.youtube.com/watch?v=h6D7MGLs4Po
+      - [[fan]]
     - #7 https://www.youtube.com/watch?v=UhK6T9ReRwI
+      - [[flow]]
     - #8 https://www.youtube.com/watch?v=8WLVkyf2Ojg
+      - [[melt]]
     - #9 https://www.youtube.com/watch?v=FHRjpS11CbE
       - [[corazón]]
     - #10 https://www.youtube.com/watch?v=giSo0qQIscE
       - [[energy]]
     - #11 https://www.youtube.com/watch?v=kW8Fe9O2mPs
+      - [[rinse]]
     - #12 https://www.youtube.com/watch?v=tAui_7GMF2w
+      - [[unwind]]
     - #13 https://www.youtube.com/watch?v=PAuo_9d3FSk
       - [[trust]]
     - #14 https://www.youtube.com/watch?v=aYDRQ4mqNgs
@@ -52,7 +63,9 @@
     - #28 https://www.youtube.com/watch?v=iTe2PLBCBEQ
       - [[freedom]]
     - #29 https://www.youtube.com/watch?v=RooOlcSy1nI
+      - [[pleasure]]
     - #30 https://www.youtube.com/watch?v=Tp0J0k-aLoI
+      - [[return]]
     - #31 https://anagora.org/go/move
       - :) [[move]] is another great [[30 days of yoga]]
-  - see also: [[yoga with x]] :)
+  - See also: [[yoga with x]] which includes several episodes based on Center :)
