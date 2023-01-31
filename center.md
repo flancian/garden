@@ -52,6 +52,7 @@
     - #28 https://www.youtube.com/watch?v=iTe2PLBCBEQ
       - [[freedom]]
     - #29 https://anagora.org/center
-    - #30 https://anagora.org/center
-    - #31 https://anagora.org/center
+    - #30 https://www.youtube.com/watch?v=Tp0J0k-aLoI
+    - #31 https://anagora.org/go/move
+      - :) [[move]] is another great [[30 days of yoga]]
   - see also: [[yoga with x]] :)
