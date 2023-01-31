@@ -51,7 +51,7 @@
       - [[yin]]
     - #28 https://www.youtube.com/watch?v=iTe2PLBCBEQ
       - [[freedom]]
-    - #29 https://anagora.org/center
+    - #29 https://www.youtube.com/watch?v=RooOlcSy1nI
     - #30 https://www.youtube.com/watch?v=Tp0J0k-aLoI
     - #31 https://anagora.org/go/move
       - :) [[move]] is another great [[30 days of yoga]]
