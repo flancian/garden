@@ -7,4 +7,4 @@
   - [[moloch]] who we may [[slay]], we may [[save]], we may try to [[subdue]] or [[disentangle
   - #pull [[Engels]] [[Marx]] [[Ginsberg]] [[Alexander]]
   - #push [[burn Moloch]] 
-    - We could [[burn [[Moloch]] if we have to, but only peacefully and for the greater good.
+    - We could [[burn [[Moloch]]]] if we have to, but only peacefully and for the greater good.
