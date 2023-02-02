@@ -1,2 +1,4 @@
 - an [[essay]].
-  - #pull [[slay moloch]] [[save moloch]] [[disentagle moloch]]
+  - #pull [[meditations on Moloch]]
+  - #pull [[slay Moloch]] [[save Moloch]] [[disentagle Moloch]]
+  -
