@@ -1,2 +1,4 @@
-- Tasks pending related to https://moa.party.
-- Set up w
+- [[Tasks]] pending related to https://moa.party.
+  - [ ] Set up development / [[alpha]] environment.
+  - [ ] Deploy [[Pleroma]] support.
+    - [ ] Requires database migration.
