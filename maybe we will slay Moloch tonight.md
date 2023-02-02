@@ -1,4 +1,4 @@
 - an [[essay]].
   - #pull [[meditations on Moloch]]
   - #pull [[slay Moloch]] [[save Moloch]] [[disentagle Moloch]]
-  -
+  - #pull maybe in the end we shall [[burn Moloch]] if we have to
