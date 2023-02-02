@@ -1,9 +1,10 @@
 - a [[being]].
   - #pull [[Egregore]].
-  - #pull [[
-  - #pull [[meditations on moloch]]
+  - #pull [[Meditations on Moloch]]
   - [[moloch]] of the thousand terrible faces of humanity
   - [[moloch]] who hides cowardly the [[suffering of others]]
   - [[moloch]] of uncontrolled, hypocritical, lazy [[capitalism]] and the adoration of fixed [[hierarchies]]
   - [[moloch]] who we may [[slay]], we may [[save]], we may try to [[subdue]] or [[disentangle
-  - #pull [[engels]] [[marx]] [[ginsberg]] [[alexander]]
+  - #pull [[Engels]] [[Marx]] [[Ginsberg]] [[Alexander]]
+  - #push [[burn Moloch]] 
+    - We could [[burn [[Moloch]] if we have to, but only peacefully and for the greater good.
