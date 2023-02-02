@@ -1,1 +1,2 @@
-- #pull a Flancian is someone who will [[burn]] [[Moloch]] if they have to
+- #pull a Flancian is someone who will [[burn]] [[Moloch]] if they have to.
+- But I would rather [[disentangle]] them peacefully from other [[beings]] if i can.
