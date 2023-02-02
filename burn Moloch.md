@@ -1,1 +1,1 @@
-- #pull [[burn]] [[Moloch]]
+- #pull a Flancian is someone who will [[burn]] [[Moloch]] if they have to
