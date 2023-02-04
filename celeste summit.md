@@ -9,3 +9,4 @@
 - [[sorting memories]]
 - [[agora chapter]]
 - [[typescript]] and [[python]]
+- https://on-exactitude-in.science/
