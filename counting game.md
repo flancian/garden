@@ -2,3 +2,4 @@
   - I count in several ways.
     - One of them is using my breath, as I meditate.
     - One of them is using my hands, in binary.
+  - #pull You could say as I go up I think of [[braids]] of [[numbers]]
