@@ -1,2 +1,4 @@
 - I count to pass the time often, I enjoy it.
   - I count in several ways.
+    - One of them is using my breath, as I meditate.
+    - One of them is using my hands, in binary.
