@@ -7,3 +7,10 @@
     - Update (2022): I don't anymore.
   - #go https://en.wikipedia.org/wiki/Avalokite%C5%9Bvara
     - "This bodhisattva is variably depicted, described and portrayed in different cultures as either [[male]] or [[female]]."
+- A [[game]].
+  - Two people meet, they say:
+    - Avalo.
+    - Avalo.
+    - Avalo.
+    - (A pause).
+    - Avalokiteshvara!
