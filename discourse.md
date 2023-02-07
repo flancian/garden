@@ -1,2 +1,2 @@
-- #pull [[discourse]]
 - #go https://wiki.xxiivv.com/site/discourse.html
+  - [[three gates of speech]]
