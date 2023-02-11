@@ -1,0 +1,3 @@
+- a [[conference]]
+  - [[2023-02-11]]
+  - #go https://decentsocial.net/
