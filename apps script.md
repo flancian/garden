@@ -1,1 +1,2 @@
 - https://stackoverflow.com/questions/59045784/how-to-embolden-specific-text-within-multiple-instances-of-parentheses-in-google for how to apply formatting to regex-found blocks in [[google docs]] as of [[2023]]. I was calling .setBold() on the found object but you need to .getElement() first.
+  - Used this to bolden every [[wikilink]] in the Agora, just adding +/- 2 to the offsets to compensate for the included double-square-brackets.
