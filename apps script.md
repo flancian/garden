@@ -1,1 +1,1 @@
-- https://stackoverflow.com/questions/59045784/how-to-embolden-specific-text-within-multiple-instances-of-parentheses-in-google for how to apply formatting to regex-selected blocks in [[google docs]] as of [[2023]].
+- https://stackoverflow.com/questions/59045784/how-to-embolden-specific-text-within-multiple-instances-of-parentheses-in-google for how to apply formatting to regex-found blocks in [[google docs]] as of [[2023]].
