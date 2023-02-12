@@ -1,4 +1,5 @@
 - A [[list]].
+  - #pull [[agora]]
   - #pull [[agora slides]]
   - #pull [[agora chapter]]
   - #pull [[agora diagrams]]
