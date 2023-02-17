@@ -5,8 +5,9 @@
 - a [[book]].
   - You're currently reading it.
     - This section is in [[Agora]] Protocol as it is to be meant within the [[Agora of Flancia]]. Feel free to ignore any symbols or words if they distract you. It is fine not to assign them meaning, in particular at first; words should be enough to understand Flancia.
-  - Here's the deal: In [[Flancia]] there is an [[Agora]].
-    - In the [[Agora of Flancia]] you can find free [[maps]] of Flancia everywhere.
+  - Flancia is a book about a [[world]].
+    - In [[Flancia]] there is an [[Agora]].
+    - In the [[Agora of Flancia]] maps of [[Flancia]] are [[free]].
 	- #pull https://flancia.org
 - a [[place]].
 	- a [[protopia]]
