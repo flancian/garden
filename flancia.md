@@ -1,6 +1,6 @@
 - a [[poem]].
-  - Flancia, 
-  - por el bien de los seres sentientes!
+  - Flancia,
+    - o por el bien de los [[seres sentientes]]!
   - Flancia es una épica: la historia de cómo les humanes vencieron a Moloch.
 - a [[book]].
   - You're currently reading it.
