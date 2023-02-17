@@ -1,5 +1,5 @@
 - #pull [[Mycomarkup]]
-  - [[Mycorrhiza]] convention.
+  - A proposed living extension of [[Mycomarkup]].
   - Includes:
     - => [[rocket links]]
     - links can have arbitrary levels, the level is indicated by the number of brackets you use
