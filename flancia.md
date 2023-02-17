@@ -1,7 +1,7 @@
 - a [[poem]].
   - Flancia!
   - Por el bien de los seres sentientes!
-  - Flancia es una épica, la historia de cómo la humanidad y amigos vencieron a Moloch.
+  - Flancia es una épica, la historia de cómo les humanes vencieron a Moloch.
 - a [[book]].
   - You're currently reading it.
   - This section is in [[Agora]] Protocol. Feel free to skip such sections if they distract you.
