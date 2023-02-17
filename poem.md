@@ -1,3 +1,6 @@
-- #push[[poems]]
+- #push [[poems]]
   - [[slaying moloch]]
   - [[flecha derecha]]
+  - [[las jaras]]
+  - #pull [[2023-02-17]]
+  - [[flancia]]
