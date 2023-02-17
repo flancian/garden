@@ -5,4 +5,4 @@
       - I like them for navigation hints?
     - Links can have arbitrary levels, the level is indicated by the number of brackets you use
       - [markdown], [[wiki]], [[[myco]]], … links are available.
-    - 
+    - Maybe supports dashes in addition to asterisks for lists ;)
