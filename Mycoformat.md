@@ -2,5 +2,7 @@
   - A proposed living extension of [[Mycomarkup]].
   - Includes:
     - => [[rocket links]]
-    - links can have arbitrary levels, the level is indicated by the number of brackets you use
-    - [markdown], [[wiki]], [[[myco]]], … links are available.
+      - I like them for navigation hints?
+    - Links can have arbitrary levels, the level is indicated by the number of brackets you use
+      - [markdown], [[wiki]], [[[myco]]], … links are available.
+    - 
