@@ -7,4 +7,4 @@ I'll be straight
 #straight
 [[straight like an arrow]]
 
-#Twisting, [[bending]], [[folding]].
+#Twisting, #bending, [[folding]].
