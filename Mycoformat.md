@@ -2,3 +2,5 @@
   - [[Mycorrhiza]] convention.
   - Includes:
     - => [[rocket links]]
+    - links can have arbitrary levels, the level is indicated by the number of brackets you use
+    - [markdown], [[wiki]], [[[myco]]], … links are available.
