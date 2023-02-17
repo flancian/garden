@@ -1,3 +1,6 @@
+- a [[poem]].
+  - Flancia!
+  - Por el bien de los seres sentientes!
 - a [[book]].
   - You're currently reading it.
   - This section is in [[Agora]] Protocol. Feel free to skip such sections if they distract you.
