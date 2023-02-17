@@ -2,5 +2,9 @@
 
 Please
 Please believe in me
-I swear I'll be [[straight as an arrow]]
+
+I'll be straight
+straight
+[[straight like an arrow]]
+
 Twisting, bending, [[folding]]
