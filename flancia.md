@@ -11,7 +11,7 @@
 	- #pull https://flancia.org
 - a [[place]].
 	- a [[protopia]]
-		- It exists at least in my [[my mind]].
+		- It exists, in a way -- it exists in my [[mind]].
 	- Perhaps the world after the [[flancian revolution]] or a similar world changing event.
 		- The world of the [[flancians]] could be said to be similar to ours, the result of evolution over a material reality that sometimes allows for things to be made better with the application of effort towards the achievement of an [[incremental improvement]].
 		- Flancia is, I believe, a place that exists in our hypothetical shared future.
