@@ -1,0 +1,3 @@
+- an [[app]].
+  - #go https://flowershow.app
+  - [[digital garden]] [[static site generator]]
