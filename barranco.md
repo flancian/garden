@@ -1,0 +1,2 @@
+- One of my favourite restaurants in [[Zürich]].
+  - I see in my notes from last year: "met [[Gonzaloo]] and [[Andrea]]"
