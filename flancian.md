@@ -1,5 +1,6 @@
 - A [[person]].
 	- My [[self]] :).
+    - in the [[Agora]].
 	- #go https://flancia.org
   - #git https://gitlab.com/flancian/flancian
 	- #gitlab https://gitlab.com/flancian
@@ -22,12 +23,9 @@
 	- [[anar.chi.st]] https://anar.chi.st/Flancian
 	- [[chess]] https://chess.com/member/flancian
 	- [[urbit]] danfen-socsum (unavailable for now, see note for more)
-- a [[person]].
-	- in the [[Agora]].
-	- #pull [[flancia]]
 	- A [[Buddhist]].
 		- I try to dedicate myself [[for the benefit of all beings]].
-	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]].
+	- I also identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[scientist]].
 		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
 		- The [[agora]] is an [[experimental]] [[social network]] in which I try to express my integrated identity.
 	- I practice [[open source]] and [[open ethics]] as much as I can.
