@@ -1,6 +1,9 @@
 - A [[person]].
 	- My [[self]] :).
 	- #go https://flancia.org
+  - #git https://gitlab.com/flancian/flancian
+	- #gitlab https://gitlab.com/flancian
+	- #github https://github.com/flancian
 	- [[matrix]] @flancian:matrix.org
 	- [[twitter]] https://twitter.com/flancian
 	- [[fediverse]] https://social.coop/@flancian
@@ -13,10 +16,6 @@
 	- [[mastodon]]
 		- [[social.coop]] https://social.coop/@flancian
 		- [[merveilles]] https://merveilles.town/@flaneur
-  - #git https://gitlab.com/flancian/flancian
-  - #user https://gitlab.com/flancian
-	- #github https://github.com/flancian
-	- [[gitlab]] https://gitlab.com/flancian
 	- [[telegram]] @Flancian
 	- [[tiktok]] https://tiktok.com/@flancian
 	- [[ctzn]] https://ctznry.com/flancian@ctzn.one
@@ -26,7 +25,7 @@
 - a [[person]].
 	- in the [[Agora]].
 	- #pull [[flancia]]
-	- You can think of me as a [[buddhist]].
+	- A [[Buddhist]].
 		- I try to dedicate myself [[for the benefit of all beings]].
 	- I identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[secular buddhist]].
 		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
