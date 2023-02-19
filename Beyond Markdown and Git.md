@@ -1,1 +1,1 @@
-- #pull [[Beyond Markup and Git]]
+- #push [[Beyond Markup and Git]]
