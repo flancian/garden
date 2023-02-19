@@ -1,4 +1,3 @@
-# Flancian
 - A [[person]].
 	- My [[self]] :).
 	- #go https://flancia.org
