@@ -26,8 +26,8 @@
 	- A [[Buddhist]].
 		- I try to dedicate myself [[for the benefit of all beings]].
 	- I also identify as a [[humanist]], [[rational]], [[liberal]], [[naturalist]], [[scientist]].
-		- I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.
-		- The [[agora]] is an [[experimental]] [[social network]] in which I try to express my integrated identity.
+		- (I prefer to [[deconstruct]] these and other [[cluster identities]] whenever it is feasible, though.)
+		- The [[Agora]] is an [[experimental social network]] in which I try to express my integrated identity.
 	- I practice [[open source]] and [[open ethics]] as much as I can.
 		- This [[agora]] is, and will always be, [[free]] and [[open source]].
 		- I try to follow an explicit personal social [[contract]] that extends and complements that of the [[agora]].
