@@ -1,2 +1,2 @@
 - For instructions to bootstrap a Flancian, see [[go/flancian/git]].
-- You may need to grow a carbon-based Flancian.
+- You may feel the need to grow a carbon-based Flancian.
