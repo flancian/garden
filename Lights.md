@@ -3,4 +3,5 @@
     - #pull [[light]]
   - I like making them my meditation object, after reaching access concentration through focus on the breath or some other means.
     - One can always ask oneself: where are the lights around us that can be seen? And look for them in your visual field, either with your eyes open or closed.
+    - This object has in common with the breath that it can always be perceived if you are conscious.
   - My experience after practicing this is that there are usually more lights than I usually think around me at any given time.
