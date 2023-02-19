@@ -1,2 +1,6 @@
-- I [[love]] lights.
-- I like making them my meditation object, after reaching access concentration through focus on the breath or some other means.
+- An [[essay]].
+  - I [[love]] lights.
+    - #pull [[light]]
+  - I like making them my meditation object, after reaching access concentration through focus on the breath or some other means.
+    - You can always ask yourself: where are our lights? And look for them in your visual field.
+  - My experience after practicing this is that there are usually more lights than I usually think around me at any given time.
