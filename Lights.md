@@ -2,5 +2,5 @@
   - I [[love]] lights.
     - #pull [[light]]
   - I like making them my meditation object, after reaching access concentration through focus on the breath or some other means.
-    - One can always ask oneself: where are lights around us? And look for them in your visual field.
+    - One can always ask oneself: where are the lights around us that can be seen? And look for them in your visual field, either with your eyes open or closed.
   - My experience after practicing this is that there are usually more lights than I usually think around me at any given time.
