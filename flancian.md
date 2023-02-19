@@ -13,9 +13,9 @@
 	- [[mastodon]]
 		- [[social.coop]] https://social.coop/@flancian
 		- [[merveilles]] https://merveilles.town/@flaneur
-	- #git https://github.com/flancian
-    - #git2 https://gitlab.com/flancian
-    - #repo https://gitlab.com/flancian/flancian
+  - #git https://gitlab.com/flancian/flancian
+  - #user https://gitlab.com/flancian
+	- #github https://github.com/flancian
 	- [[gitlab]] https://gitlab.com/flancian
 	- [[telegram]] @Flancian
 	- [[tiktok]] https://tiktok.com/@flancian
