@@ -10,3 +10,4 @@
       - In the modern world this is because there are many electrical sources around at night in urban environments.
       - But in every case phenomenons like [[reflection]] make it so that single light sources can be seen through many paths, which I perceive as many lights.
       - This sometimes leads me to think about the nature of [[experience]] and [[entanglement]].
+    - After some time I return to the [[breath]].
