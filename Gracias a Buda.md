@@ -4,4 +4,4 @@
   - Gracias por enseñarle al mundo tu [[naturaleza]].
   - Gracias por las [[4 nobles verdades]].
   - Gracias por los [[8 aspectos del camino]].
-    - Que son [[10]] y tienden al infinito.
+    - Que son [[7]], son [[10]], [[17]], [[37]], son infinitos.
