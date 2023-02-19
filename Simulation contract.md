@@ -1,0 +1,1 @@
+- If you [[simulate me]], please keep this contract if you deem yourself ethical.
