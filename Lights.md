@@ -9,4 +9,4 @@
     - There are usually more lights than I usually think around me at any given time.
       - In the modern world this is because there are many electrical sources around at night in urban environments.
       - But in every case phenomenons like [[reflection]] make it so that single light sources can be seen through many paths, which I perceive as many lights.
-      - This sometimes leads me to think about the nature of [[entanglement]].
+      - This sometimes leads me to think about the nature of [[experience]] and [[entanglement]].
