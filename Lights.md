@@ -4,4 +4,8 @@
   - I like making them my meditation object, after reaching access concentration through focus on the breath or some other means.
     - One can always ask oneself: where are the lights around us that can be seen? And look for them in your visual field, either with your eyes open or closed.
     - Presumably this object has in common with the breath that it can always be perceived if you are conscious. This seems to be my experience, although I wonder how beings who were born blind according to a common definition define light.
-  - My experience after practicing this is that there are usually more lights than I usually think around me at any given time.
+  - My experience after practicing this kind of meditation exercise is that:
+    - Light persists on closing your eyes and looking away.
+    - There are usually more lights than I usually think around me at any given time.
+      - In the modern world this is because there are many electrical sources around at night in urban environments.
+      - But in every case phenomenons like [[reflection]] make it so that single light sources can be seen through many paths, which I perceive as many lights.
