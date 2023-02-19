@@ -1,1 +1,2 @@
 - I [[love]] lights.
+- I like making them the focus of my meditation, after reaching access concentration through focus on the breath or some other means.
