@@ -1,0 +1,4 @@
+- Gracias, Buda.
+  - Gracias por encontrar el [[Dharma]].
+  - Gracias por compartirlo.
+  - Gracias por enseñarle al mundo tu [[naturaleza]].
