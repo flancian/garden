@@ -1,3 +1,5 @@
+- a [[poem]].
+  - I say #fork as you can, #merge as you want
+  - then #execute beautiful programs
+  - [[5]] -> [[7]] -> [[17]]
 - #pull [[bootstrap]]
-- I say #fork as you can, #merge as you want, then #execute beautiful programs
-- [[5]] -> [[7]] -> [[17]]
