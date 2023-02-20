@@ -1,5 +1,5 @@
 - an [[open letter]].
   - Which links many.
     - #pull [[open letters]]
-  - About and for the Agora of Flancia and the all the Agoras of the future.
+  - For and about the Agora of Flancia and all the [[Agoras]] of the future.
     - #pull [[agora chapter]] 
