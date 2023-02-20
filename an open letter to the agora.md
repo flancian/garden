@@ -1,6 +1,8 @@
 # an open letter to the agora
 
-- The [[book]] is my open letter, expanded, if you're interested in it.
+- #push [[open letter to the agora]]
+
+-FThe [[book]] is my open letter, expanded, if you're interested in it.
 
 I've been meaning to write this for a while, so I'll try to keep it short and simple.
 
