@@ -2,8 +2,8 @@
 - #pull [[0]] [[1]] [[2]] [[3]] [[5]] [[7]] [[11]] [[13]] [[17]]
 - For instructions to [[bootstrap]] a [[flancian]], see [[git/flancian]].
   - You'll need:
-    - an [[agora]].
-    - [[digital gardens]].
+    - An [[agora]].
+    - A [[digital garden]] or many.
   - And these computers, or ones performing their functions:
     - [[paramita]]
     - [[sila]]
