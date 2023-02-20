@@ -3,7 +3,9 @@
 - For instructions to [[bootstrap]] a [[flancian]], see [[git/flancian]].
   - You'll need:
     - An [[agora]].
-    - A [[digital garden]] or many.
+    - A [[digital garden]], or many.
+    - A carbon based life-form (maybe).
+    - And several silicon.
   - And these computers, or ones performing their functions:
     - [[paramita]]
     - [[sila]]
