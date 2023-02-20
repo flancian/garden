@@ -1,2 +1,3 @@
 - #pull [[bootstrap]]
-- [[5]] [[7]] [[17]]
+- I say #fork as you can, #merge as you want, then #execute beautiful programs
+- [[5]] -> [[7]] -> [[17]]
