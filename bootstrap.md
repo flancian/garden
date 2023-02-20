@@ -1,9 +1,14 @@
 # bootstrap
 - #pull [[0]] [[1]] [[2]] [[3]] [[5]] [[7]] [[11]] [[13]] [[17]]
 - For instructions to [[bootstrap]] a [[flancian]], see [[git/flancian]].
-- [[agora]]
-	- [[digital garden]]
-	- [[logseq]]
-	- [[vscode]]
-		- [[foam]]
-- [[monitor]]
+  - You'll need:
+    - an [[agora]].
+    - [[digital gardens]].
+  - And these computers, or ones performing their functions:
+    - [[paramita]]
+    - [[sila]]
+    - [[nostromo]]
+    - [[thecla]]
+    - [[dorcas]]
+    - [[patera]]
+    - [[hypatia]]
