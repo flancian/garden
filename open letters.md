@@ -1,5 +1,6 @@
 - a [[list]].
 	- The [[Agora]] contains [[open letters]] addressed to many [[parties]].
+  - #pull
 		- [[open letter to Beautiful Society]]
 		- [[open letter to Christopher Alexander]]
 		- [[open letter to Peter Singer]]
