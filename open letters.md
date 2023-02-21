@@ -1,5 +1,8 @@
 - a [[list]].
 	- I'd love for the [[Agora]] to contain many [[open letters]] to many different [[parties]].
-		- [[open letter to an open society]]
+		- [[open letter to the open society]]
 		- [[open letter to christopher alexander]]
 		- [[open letter to peter singer]]
+    - [[open letter to the agora]]
+    - [[open letter to flancia]]
+    - [[open letter to google]]
