@@ -1,3 +1,3 @@
 - an [[open letter].
 
-Private.
+Corp only.
