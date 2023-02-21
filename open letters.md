@@ -1,5 +1,5 @@
 - a [[list]].
-	- I'd love for the [[Agora]] to contain many [[open letters]] to many different [[parties]].
+	- The [[Agora]] contains [[open letters]] addressed to many [[parties]].
 		- [[open letter to Beautiful Society]]
 		- [[open letter to Christopher Alexander]]
 		- [[open letter to Peter Singer]]
