@@ -2,4 +2,4 @@
   - Which links many.
     - #pull [[open letters]]
   - For and about the Agora of Flancia and all the [[Agoras]] of the future.
-    - #pull [[agora chapter]] 
+    - #pull [[agora chapter]] [[building bridges]] [[flancia collective]]
