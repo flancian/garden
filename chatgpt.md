@@ -1,1 +1,2 @@
-- #go https://chat.openai.com/chat
+- a [[bot]].
+  - #go https://chat.openai.com/chat
