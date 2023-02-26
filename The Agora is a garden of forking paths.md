@@ -1,1 +1,1 @@
-- #garden of forking paths
+- #[garden [of forking paths]]
