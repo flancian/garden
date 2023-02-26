@@ -1,3 +1,3 @@
 - A [[space]].
-  - Dense with [[Agora-like]] objects.
-  - #pull [[Agora Likes]]
+  - Dense with [[Agora-like]] entities.
+  - #pull [[Agora Likes]] [[Agoras]] [[Known Agoras]]
