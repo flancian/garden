@@ -4,5 +4,6 @@
   - [[Five pomodoros]] on the twenty-fifth maybe? :)
   - Haha, that was optimistic. But after midnight I'll work a little on the way back home.
 - [[train from lausanne]], the sequel.
+  - started working on adding server side graph rendering to the Agora :)
 
 
