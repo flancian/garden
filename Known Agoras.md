@@ -1,1 +1,3 @@
 - #pull [[wikipedia]] and many [[wikis]] in general
+- #pull [[Everything2]]
+- #pull [[Less Wrong]], the [[Effective Altruism forums
