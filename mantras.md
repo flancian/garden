@@ -1,0 +1,3 @@
+- [[gate gate paragate parasamgate bodhi svaha]]
+- [[om mani padme hum]]
+- #pull [[mantra]]
