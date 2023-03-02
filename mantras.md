@@ -1,3 +1,4 @@
 - [[gate gate paragate parasamgate bodhi svaha]]
 - [[om mani padme hum]]
+- [[om tare tu tare ture soha]]
 - #pull [[mantra]]
