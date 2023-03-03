@@ -1,1 +1,4 @@
 - #pull [[Tripiṭaka]] 
+- [[Pali Canon]]
+  - Written down in the first century CE.
+  - > According to Sri Lankan sources more than 1000 monks who had attained Arahantship were involved in the task.
