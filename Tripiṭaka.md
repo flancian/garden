@@ -1,0 +1,1 @@
+- #go https://en.wikipedia.org/wiki/Tripi%E1%B9%ADaka
