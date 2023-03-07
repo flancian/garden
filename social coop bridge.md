@@ -1,0 +1,3 @@
+- A [[project]].
+  - Set up [[activitypub]] <-> [[matrix]] cross posting for [[social.coop]].
+  - [[Matt Noyes]] https://social.coop/@Matt_Noyes/109983360881150826
