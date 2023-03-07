@@ -5,3 +5,6 @@
   - See also:
     - #pull [[Agora Chapter]]
     - #pull [[Beyond Markdown and Git]]
+    - #pull [[Social Coop Bridge]]
+
+All bridges seem to start as humble [[desire paths]] in the sky.
