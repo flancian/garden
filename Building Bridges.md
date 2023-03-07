@@ -1,5 +1,6 @@
 - an [[essay]].
   - [[draft]].
-  - I've been meaning to write this for a good while. I sometimes think the chapter about the Agora in the first [[book]] of [[Flancia]]
+  - I've been meaning to write this for a good while. 
+  - I sometimes think the second chapter about the Agora in the first [[book]] of [[Flancia]] will be called [[An Agora, or Building Bridges]].
   - #pull [[Agora Chapter]]
   - #pull [[Beyond Markdown and Git]]
