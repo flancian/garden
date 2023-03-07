@@ -1,2 +1,3 @@
 - #push [[glenn gould]]
-  - #go https://music.youtube.com/playlist?list=OLAK5uy_mPbty31654xLaVxCzaRaww9AWX_1QfcUk
+  - #go https://music.youtube.com/playlist?list=OLAK5uy_kQ7mjmZM2RamlNSEfwk7PNJUhrBB9S_iA
+  - #go2 https://music.youtube.com/playlist?list=OLAK5uy_mPbty31654xLaVxCzaRaww9AWX_1QfcUk
