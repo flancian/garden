@@ -7,4 +7,4 @@
     - #pull [[Beyond Markdown and Git]]
     - #pull [[Social Coop Bridge]]
 
-All bridges seem to start as humble [[desire paths]] in the sky.
+All bridges seem to start as humble [[desire paths]] in the sky; like most of the interesting things we find in the space made up of the intelligently-made universe that tends to surround us (what a privilege), they were plans before they materialized.
