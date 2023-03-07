@@ -1,4 +1,5 @@
 - an [[essay]].
   - [[draft]].
+  - I've been meaning to write this for a good while. I sometimes think the chapter about the Agora in the first [[book]] of [[Flancia]]
   - #pull [[Agora Chapter]]
   - #pull [[Beyond Markdown and Git]]
