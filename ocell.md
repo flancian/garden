@@ -13,6 +13,4 @@
  	- [[objetos mentales]] https://twitter.com/objetosmentales/status/1383803765275303949
 	- [[slides]] https://docs.google.com/presentation/d/1RUXIvwPQyy1_7ujltbT7NEFYTePtl6zhSuXUBJb4oy0/edit#slide=id.p
 
-<img src="https://anagora.org/raw/garden/flancian/assets/ocell2.jpg" width=100% />
-
 <img src="https://i.imgur.com/szKP7jB.jpg" width=100% />
