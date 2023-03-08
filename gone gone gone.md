@@ -15,3 +15,6 @@ then gone beyond
 go kindly
 if you have to burn
 burn kindly
+
+This I tell you
+as does [[Avalokiteshvara]]!
