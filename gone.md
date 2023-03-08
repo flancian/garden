@@ -1,11 +1,11 @@
-- [[Gone]], gone.
-	- Everyone gone to the other shore.
-  - Gone kindly!
-- Gone, [[gone]].
-	- All gone to the other shore.
-	- Gone beyond!
-  - Gone lovingly.
-  - Gone with compassion.
-	- [[Awakening]] together!
+- a [[poem]].
+  - [[Gone]], gone.
+    - Everyone gone to the other shore.
+    - Gone kindly!
+  - Gone, [[gone]].
+    - All gone to the other shore.
+    - Gone beyond!
+    - Gone with compassion.
+    - [[Awakening]] together!
     - [[Bodhi Svaha]]
-- #pull [[gone gone gone]] [[avalokiteshvara]]
+  - #pull [[gone gone gone]] [[avalokiteshvara]]
