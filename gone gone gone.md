@@ -10,8 +10,8 @@ go kindly
 
 Gone gone gone
 Gone to the other shore
-Gone beyond
+then gone beyond
 
-gone kindly
+go kindly
 if you have to burn
 burn kindly
