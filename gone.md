@@ -1,9 +1,9 @@
 - [[Gone]], gone.
+	- Everyone gone to the other shore.
+  - Gone kindly!
+- Gone, [[gone]].
 	- Gone across to the other shore.
 	- Gone beyond!
-  - Gone kindly.
-- Gone, [[gone]].
-	- Everyone gone to the other shore.
   - Gone lovingly.
   - Gone with compassion.
 	- [[Awakening]] together!
