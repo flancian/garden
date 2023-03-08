@@ -2,7 +2,7 @@
 	- Everyone gone to the other shore.
   - Gone kindly!
 - Gone, [[gone]].
-	- Gone across to the other shore.
+	- All gone to the other shore.
 	- Gone beyond!
   - Gone lovingly.
   - Gone with compassion.
