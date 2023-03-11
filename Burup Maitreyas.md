@@ -1,0 +1,2 @@
+- [[391]] = [[17]] * [[23]]
+  - I did this calculation today and I found it pleasing.
