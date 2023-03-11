@@ -7,6 +7,6 @@
 	- [[interop of chat]]
 	- [[interop of links]]
 - a [[meet]].
-  - [[18 utc]] on [[thursdays]]
+  - [[19 utc]] on [[wednesday]]
   - #go https://meet.jit.si/fellowship-of-the-link
   - #log [[fotl chat]]
