@@ -1,1 +1,4 @@
-- #go https://github.com/jhuangtw/xg2xg
+- a [[table]].
+  - by [[john huang]]
+  - [[technology]] review
+  - #go https://github.com/jhuangtw/xg2xg
