@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[Bhikkuni]]
+  - founder of [[Tzu Chi]] foundation
+  - https://en.m.wikipedia.org/wiki/Cheng_Yen
