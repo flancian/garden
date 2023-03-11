@@ -17,6 +17,11 @@
 - transparencia radical
 	- [[working in public]]
 	- pros y cons
+
+## [[2023-03-11]]
+- [[armengol]]
+  - empezó un grado en filosofía!
+
 ## [[2021-12-18]]
 - [[retina]]
   - [[mitm]]

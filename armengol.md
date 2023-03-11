@@ -1,6 +1,4 @@
 # Armengol
 
 - a [[friend]]
-  - [[pull]] [[armengolaltayo]]
-
-
+  - #pull [[armengolaltayo]]
