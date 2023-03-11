@@ -21,6 +21,7 @@
 ## [[2023-03-11]]
 - [[armengol]]
   - empezó un grado en filosofía!
+  - en primer año
 
 ## [[2021-12-18]]
 - [[retina]]
