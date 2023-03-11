@@ -2,3 +2,4 @@
   - of [[public interest]].
   - #go https://coopcloud.tech
   - #install https://docs.coopcloud.tech/abra/install/
+  - #pull [[abra]]
