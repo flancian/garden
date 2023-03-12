@@ -88,4 +88,5 @@
    :date-formatter "yyyy-MM-dd"
    :editor/logical-outdenting? true
  :favorites ["3 agora" "where is your light" "agora"]
- :preferred-workflow :todo}
+ :preferred-workflow :todo
+ :graph/settings {:orphan-pages? false}}
