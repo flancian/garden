@@ -4,6 +4,6 @@ Estos Maitreyas describen futuros posibles.
 
 ## Avalokiteshvara-Maitreya 
 
-## Agora-Maitreya
+## Taixu-Maitreya
 
 ## Burup-Maitreya
