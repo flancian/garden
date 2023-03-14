@@ -1,0 +1,3 @@
+- #pull [[Flancia]] is a [[Pattern Language]]
+  - Meaning a collection of abstractions, stories, places, shapes, numbers, tools, solutions.
+  - #pull [[17]]
