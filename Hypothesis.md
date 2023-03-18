@@ -1,1 +1,2 @@
 - Hypothesis: what you see with your eyes closed, the lights you can see in the dark -- that is not random noise, it is computation.
+- The visual cortex may be used to compute arbitrary programs given the passage of time: an image can encode a spectrogram, which is then decoded by neural networks.
