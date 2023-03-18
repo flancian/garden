@@ -1,0 +1,1 @@
+- Hypothesis: what you see with your eyes closed, the lights you can see in the dark -- that is not random noise, it is computation.
