@@ -1,0 +1,2 @@
+- [[etherpad extension]]
+  - #go https://www.npmjs.com/package/ep_linkify2
