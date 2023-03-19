@@ -7,6 +7,6 @@
     - [[guardian]] https://www.theguardian.com/technology/2021/aug/04/why-hacker-summer-camp-and-pandemic-precautions-dont-mix
 - A [[station]].
   - on [[soma.fm]].
-  - [[pull]] [[defcon radio]]
+  - #pull [[defcon radio]]
 
 
