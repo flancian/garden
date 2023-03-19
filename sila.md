@@ -1,4 +1,6 @@
-- part of [[right view]].
+- a [[concept]].
+  - [[morality]]
+  - part of [[right view]].
 - a [[thing]].
   - #push [[computers]]
     - #pull [[x1 carbon v5]]
