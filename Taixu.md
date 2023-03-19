@@ -1,3 +1,4 @@
 - a [[person]].
+  - [[Buddhist]] [[monk]] [[thinker]] [[revolutionary]]
   - #pull [[on the establishment of the pure land in the human realm]]
   - #pull [[toward a modern chinese buddhism]]
