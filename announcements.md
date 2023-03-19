@@ -1,0 +1,2 @@
+- [[social coop announcements]]
+  - #go https://social.coop/admin/announcements
