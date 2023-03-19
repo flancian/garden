@@ -1,5 +1,7 @@
 # Defcon Radio
 
-- [[pull]] [[defcon]]
+- a [[station]]
+  - #pull [[defcon]]
+  - #go https://somafm.com/player/#/now-playing/defcon
 
 
