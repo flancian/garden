@@ -1,0 +1,3 @@
+- an [[album]].
+  - [[jacques loussier]] #1960
+  - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfGfRg9EzQMZevvP5B6UY4Nz
