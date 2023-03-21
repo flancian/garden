@@ -9,5 +9,4 @@
   - You can leave your thoughts on the public document below.
 - If you could change one thing in the world, what would it be?
   - In Flancia all the people's proposals are considered as thoroughly as possible by those in positions of power.
-
-
+- I believe [[Google]] should adopt the key principles of [[Liquid Democracy]].
