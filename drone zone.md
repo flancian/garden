@@ -1,0 +1,3 @@
+- a [[station]].
+  - [[soma fm]]
+  - #go https://somafm.com/player/#/now-playing/dronezone
