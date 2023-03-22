@@ -1,0 +1,1 @@
+- Maybe you have to paste them from the clipboard? I don't find a shortcut or action (in ctrl-)
