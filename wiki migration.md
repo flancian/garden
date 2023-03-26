@@ -1,0 +1,3 @@
+- These are some raw notes taken while trying to set up wiki-alpha.social.coop (and later wiki.social.coop) based off the setup that [[jonny]] did on wiki-dev.social.coop.
+- I'm using [[coop cloud]] and [[abra]].
+  - Initial setup of [[abra]] on [[hypha]] is not covered here; see [[go/twg/bugs]] for that.
