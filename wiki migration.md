@@ -6,4 +6,4 @@
   - abra app run wiki-alpha.social.coop db /bin/bash
   - mysql -p mediawiki < mysqldump
     - The password for root can be seen with `cat /run/secrets/db_root_password`
-  - abra app cp wiki-alpha.social.coop images app:/root/ (and restore images)
+  - abra app container ls wiki-alpha.social.coop to see where the images container is in hypha; then copy images there
