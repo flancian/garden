@@ -1,5 +1,6 @@
 - #pull [[meditation technique]] [[braids]] [[randomness]]
   - a kind of [[mind palace]] I've been developing.
+  - it's distributed around the [[Agora of Flancia]]; the following is an excerpt.
 - #push [[mind palace]]
   - [[Flancia mind palace]] -> [[Flancia book]]
     - #0 Start here: [[breath is the palace of the Buddhas]]
