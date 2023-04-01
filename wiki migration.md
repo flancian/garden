@@ -1,0 +1,9 @@
+- These are some raw notes taken while trying to set up wiki-alpha.social.coop (and later wiki.social.coop) based off the setup that [[jonny]] did on wiki-dev.social.coop.
+- I'm using [[coop cloud]] and [[abra]].
+  - Initial setup of [[abra]] on [[hypha]] is not covered here; see [[go/twg/bugs]] for that.
+- Copy the database dump and restore:
+  - abra app cp wiki-alpha.social.coop mysqldump db:/root/
+  - abra app run wiki-alpha.social.coop db /bin/bash
+  - mysql -p mediawiki < mysqldump
+    - The password for root can be seen with `cat /run/secrets/db_root_password`
+  - `abra app container ls wiki-alpha.social.coop` to see where the images container is in hypha; then copy images there and restart the app server with `abra app restart wiki-alpha.social.coop` to make images work (for some reason this is needed)
