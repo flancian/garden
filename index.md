@@ -4,11 +4,7 @@
     - You can add your own by keeping an `index.md` file in your garden and contributing it to the Agora.
     - If the Agora index gets too noisy (as the Agora grows) we might want to implement [[ranking]] and [[filtering]] algorithms. These will of course be ***open source*** and ***community driven***.
   - The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for backlinks.
-    - [[thing]]
-      - [[tool]]
     - [[person]]
-      - [[flancian]]
-    - [[idea]]
-      - [[flancia]]
-    - [[inbox]]
-- #push [[awakened]]
+      - contains links to nodes about [[people]]
+    - [[go]]
+      - contains links to URLs tagged as canonical for some node
