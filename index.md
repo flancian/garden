@@ -1,9 +1,8 @@
 - An [[index]].
-  - To this [[digital garden]].
-  - If you are reading this in [[an Agora]], you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
-    - You can add your own by keeping an `index.md` file in your garden and contributing it to the Agora.
-    - If the Agora index gets too noisy (as the Agora grows) we might want to implement [[ranking]] and [[filtering]] algorithms. These will of course be ***open source*** and ***community driven***.
-  - The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for backlinks.
+  - To this (my) [[digital garden]], and by extension to the [[Agora of Flancia]].
+    - If you are reading this in an Agora, you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
+  - You can add your own index by storing an `index.md` file in your garden and contributing it to the Agora.
+  - The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for links.
     - [[person]]
       - contains links to nodes about [[people]]
     - [[go]]
