@@ -1,3 +1,4 @@
 - a [[recipe]].
   - for running an [[agora]] on [[coop cloud]].
-  - #go https://git.coopcloud.tech/flancian/agora
+  - #go https://git.coopcloud.tech/coop-cloud/agora
+  - #go2 https://git.coopcloud.tech/flancian/agora
