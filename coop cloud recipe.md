@@ -1,2 +1,2 @@
 - #push [[coop cloud recipes]]
-  - [[agora recipe]] link-here :)
+  - [[agora recipe]] https://git.coopcloud.tech/flancian/agora :)
