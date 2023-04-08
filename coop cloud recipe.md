@@ -1,2 +1,3 @@
 - #push [[coop cloud recipes]]
   - [[agora recipe]] https://git.coopcloud.tech/flancian/agora :)
+  - to create a new recipe, consult https://docs.coopcloud.tech/maintainers/handbook/
