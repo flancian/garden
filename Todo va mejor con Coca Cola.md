@@ -1,0 +1,3 @@
+- a [[short story]].
+  - by [[Alberto Vanasco]]
+  - #go https://www.radiokermes.com/images/2020/CUENTOS_VERANO_2020-2021/74-_Alberto_Vanasco_-_Todo_va_mejor_con_Coca_Cola.pdf
