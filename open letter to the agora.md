@@ -1,3 +1,3 @@
 - #push [[open letters]]
   - #go https://docs.google.com/document/d/1lFvA5D-2gm9b1MRbLUQs9t032AKF5TotM3psXqWjf5Q/edit
-  - <iframe src="https://docs.google.com/document/d/e/2PACX-1vTX8FNVtqCL1GKkB_O1MrFYnVYJ_atoNhMC-QWtyJNoOXa_35Fzt1Slq0oa6Vso9fyQOSz6kw5zZ_2b/pub?embedded=true"></iframe>
+  - https://docs.google.com/document/d/e/2PACX-1vTX8FNVtqCL1GKkB_O1MrFYnVYJ_atoNhMC-QWtyJNoOXa_35Fzt1Slq0oa6Vso9fyQOSz6kw5zZ_2b/pub
