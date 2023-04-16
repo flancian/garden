@@ -1,0 +1,2 @@
+- a [[tool]].
+  - When in doubt, you probably want [[man nmcli-examples]] :)
