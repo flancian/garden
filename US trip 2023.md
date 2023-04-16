@@ -1,0 +1,3 @@
+- A [[trip]].
+  - [[Seattle]] [[San Francisco]] during [[April 2023]].
+  - For [[work]].
