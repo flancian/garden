@@ -1,2 +1,3 @@
 - a [[character]].
   - #pull played by [[Jeri Ryan]]
+  - When we meet her in Voyager, she reports to [[Unimatrix Zero One]].
