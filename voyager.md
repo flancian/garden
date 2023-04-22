@@ -1,2 +1,2 @@
-- #pull [[Jeri Ryan]]
-- #pull [[seven of nine]] [[katherine janeway]]
+- #pull [[Jeri Ryan]] [[Kate Mulgrew]]
+- #pull [[Seven of Nine]] [[Kathryn Janeway]]
