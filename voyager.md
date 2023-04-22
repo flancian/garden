@@ -1,2 +1,2 @@
 - #pull [[Jeri Ryan]]
-- #pull [[seven of nine]]
+- #pull [[seven of nine]] [[katherine janeway]]
