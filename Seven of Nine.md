@@ -1,1 +1,2 @@
-- [[Jeri Ryan]]
+- a [[character]].
+  - #pull played by [[Jeri Ryan]]
