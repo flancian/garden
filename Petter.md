@@ -1,0 +1,3 @@
+- a [[person]].
+  - Works on [[collective tools]]
+  - petter@collective.tools
