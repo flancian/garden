@@ -32,5 +32,5 @@ On Sunday on the way to the airport I had an interesting conversation with the [
 
 ### [[San Francisco]]
 
-I say San Francisco but I really mean Sunnyvale; I didn't set foot on San Francisco this time. I didn't really have time considering the distance between San Francisco and where I was staying, and the fact that I was flying out on Friday and intended to work every day. On previous visits I stayed in San Francisco proper and took the shuttle, but for a short purely work-oriented visit it didn't make sense, in particular given that Google is running fewer shuttles.
+I say San Francisco but I really mean [[Sunnyvale]]; I didn't set foot on San Francisco this time. I didn't really have time considering the distance between San Francisco and where I was staying, and the fact that I was flying out on Friday and intended to work every day. On previous visits I stayed in San Francisco proper and took the shuttle, but for a short purely work-oriented visit it didn't make sense, in particular given that Google is running fewer shuttles.
 
