@@ -24,4 +24,4 @@ During the trip I referred to my visit often as my [[farewell tour]], half in je
 
 ### [[Seattle]]
 
-In Seattle I stayed with my friend [[Chris]] and it was again awesome. We watched the last episode of [[Picard]] and he introduced me to [[Voyager]] and, well, [[Seven of Nine]], for which I will be forever thankful.
+In Seattle I stayed with my friend [[Chris]] and it was again awesome. We watched the last episode of [[Picard]] and he introduced me to [[Voyager]] and, well, [[Seven of Nine]], for which I am thankful :)
