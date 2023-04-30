@@ -11,5 +11,5 @@
     - https://staging.bluesky.app is up, looks and works great
   - #push [[ecosystem review]]
     - [[report]] https://via.hypothes.is/https://ipfs.io/ipfs/QmdFrru4PyHzXGZztEPnYToBR3QovD7fkC1HSyty22LzfD
-  - I'm flancian.bsky.social
+  - I'm [[flancian.bsky.social]] ~ https://staging.bsky.app/profile/flancian.bsky.social
 
