@@ -4,6 +4,11 @@
 
 Love.
 Love Kindly.
-If you have to love,
-   [[love kindly]].
+If you get to love,
+   [[Love Kindly]].
+
+Burn.
+Burn Kindly.
+If you have to burn,
+   [[Burn kindly]].
 
