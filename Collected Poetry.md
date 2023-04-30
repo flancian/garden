@@ -4,7 +4,7 @@
 
 Love.
 Love Kindly.
-If you have to love,
+If you want to love,
    [[Love Kindly]].
 
 Burn.
