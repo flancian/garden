@@ -34,3 +34,6 @@ On Sunday on the way to the airport I had an interesting conversation with the [
 
 I say San Francisco but I really mean [[Sunnyvale]]; I didn't set foot on San Francisco this time. I didn't really have time considering the distance between San Francisco and where I was staying, and the fact that I was flying out on Friday and intended to work every day. On previous visits I stayed in San Francisco proper and took the shuttle, but for a short purely work-oriented visit it didn't make sense, in particular given that Google is running fewer shuttles.
 
+I stayed half an hour's walk away from the campus my team is in, [[Moffett Place]]. The walk was pleasant enough but sometimes adventurous -- I kept searching for a better option that didn't require so many sections without a sidewalk walking by the highway, but after getting sidetracked a few times and ending up in nobody's land (meaning empty parking lots cracking, surrounded by run down buildings and overgrown grass) I just became more comfortable with walking on the curb.
+
+On Sunday when I arrived I had [[Pav Bhaji]] for the first time ever, and I found it a memorable and recommendable experience.
