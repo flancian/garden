@@ -37,3 +37,5 @@ I say San Francisco but I really mean [[Sunnyvale]]; I didn't set foot on San Fr
 I stayed half an hour's walk away from the campus my team is in, [[Moffett Place]]. The walk was pleasant enough but sometimes adventurous -- I kept searching for a better option that didn't require so many sections without a sidewalk walking by the highway, but after getting sidetracked a few times and ending up in nobody's land (meaning empty parking lots cracking, surrounded by run down buildings and overgrown grass) I just became more comfortable with walking on the curb.
 
 On Sunday when I arrived I had [[Pav Bhaji]] for the first time ever, and I found it a memorable and recommendable experience.
+
+(Last time I was in San Francisco I saw the [[Agora]].)
