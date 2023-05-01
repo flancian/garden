@@ -1,0 +1,4 @@
+- a [[city]].
+  - with [[gardens]] and [[hospitals]].
+  - in [[Rojava]].
+  - #pull [[jin war]] [[2023-05-01]]
