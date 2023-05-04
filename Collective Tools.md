@@ -12,4 +12,4 @@ More frontend focused, but learnt "on the job"
 
 [[Webarchitects]] is the source of a lot of ansible recipes they use, in particular [[Chris]] is the expert. Chris seems keen on also contributing to this sharing effort.
 
-Running ~10 Nextcloud instances, VPS and Ansible based.
+Running ~10 Nextcloud instances, VPS and Ansible based plus a few Discourse and Mattermost.
