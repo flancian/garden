@@ -1,0 +1,3 @@
+- a [[word]].
+  - #pull [[defamiliariation]]
+    - with an artistic intent?
