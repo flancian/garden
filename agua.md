@@ -10,6 +10,6 @@ Paz para los oprimidos!
 Salud para los enfermos!
 Libertad para los seres sintientes!
 
-Y gloria a la luz de la consciencia.
+(Y [[gloria a la luz de la consciencia]].)
 
 => [[Las Jaras]]
