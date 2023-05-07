@@ -1,4 +1,3 @@
-- #push [[favourite things]]
-  - a [[word]].
-    - #pull [[defamiliariation]]
-      - with an artistic intent?
+- a [[word]].
+  - #pull [[defamiliariation]]
+    - a technique that can be applied with an artistic or world-building intent.
