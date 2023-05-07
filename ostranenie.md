@@ -1,3 +1,3 @@
 - a [[word]].
-  - #pull [[defamiliariation]]
-    - a technique that can be applied with an artistic or world-building intent.
+  - #pull [[defamiliariation]] [[Viktor Shklovsky]]
+  - a [[technique]] that can be applied with an artistic or world-building intent.
