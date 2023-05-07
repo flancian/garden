@@ -1,3 +1,4 @@
-- a [[word]].
-  - #pull [[defamiliariation]]
-    - with an artistic intent?
+- #push [[favourite things]]
+  - a [[word]].
+    - #pull [[defamiliariation]]
+      - with an artistic intent?
