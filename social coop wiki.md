@@ -1,0 +1,3 @@
+- a [[project]].
+  - To move wiki.social.coop to [[mediawiki]].
+  - Started by [[jonny]].
