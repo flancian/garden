@@ -1,0 +1,1 @@
+- I used to [[procrastinate]] a lot; now I like to think I am mostly in recovery, although it still takes me too long to get to things in my todo list sometimes :)
