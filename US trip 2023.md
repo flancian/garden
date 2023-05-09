@@ -38,4 +38,4 @@ I stayed half an hour's walk away from the campus my team is in, [[Moffett Place
 
 On Sunday when I arrived I had [[Pav Bhaji]] for the first time ever, and I found it a memorable and recommendable experience.
 
-(Last time I was in San Francisco I saw the [[Agora]].)
+(Last time I was in [[San Francisco]] I saw the [[Agora]].)
