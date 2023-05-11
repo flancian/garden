@@ -1,3 +1,4 @@
 # heart
 
-- when I think of the [[heart]], I think of the [[heart sutra]].
+- a [[thing]].
+  - When I think of the [[heart]], I think of the [[heart sutra]].
