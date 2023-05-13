@@ -2,6 +2,7 @@
 
 - a [[language]].
   - [[markup]]
-  - [[bouncepaw]] [[mycorrhiza]]
-  - #pull [[gemtext]]
+  - by [[bouncepaw]]
+  - originally developed for [[mycorrhiza]] but has applications beyond
+  - #pull influenced by [[gemtext]]
   - #go https://sr.ht/~bouncepaw/mycomarkup/
