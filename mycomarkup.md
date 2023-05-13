@@ -3,4 +3,5 @@
 - a [[language]].
   - [[markup]]
   - [[bouncepaw]] [[mycorrhiza]]
-  - [[pull]] [[gemtext]]
+  - #pull [[gemtext]]
+  - #go https://sr.ht/~bouncepaw/mycomarkup/
