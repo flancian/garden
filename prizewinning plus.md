@@ -1,3 +1,5 @@
 - a [[playlist]]
   - [[ytm]]
     - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfEc0eguRDo9Z2FV00LyTyH5&feature=share
+    - when you see a go link in the Agora, that means you can anagora.org/go/<link> to be redirected to it in the future.
+    - e.g. https://anagora.org/go/prizewinning-plus 
