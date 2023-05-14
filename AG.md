@@ -1,4 +1,5 @@
 - a [[person]].
-  - [[friend]] [[love]]
+  - [[friend]] 
+  - [[love]]
   - We met on the 30th of March, went to [[Xenix]] and [[Ikoo]], exchanged numbers on the 31st.
   - We had tea on the [[2nd of April]].
