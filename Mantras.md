@@ -6,3 +6,9 @@ If you lose your Bodhicitta,
 - [[4]]
 Las jaras,
     qué jaras?
+
+- [[17]]
+Gate gate
+    paragate
+    parasamgate
+    Bodhi svaha.
