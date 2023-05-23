@@ -1,4 +1,4 @@
 - a [[book]].
   - by [[Taixu]]
   - translated by [[Charles Jones]]
-  - #go https://via.hypothes.is/https://gateway.ipfs.io/ipfs/bafykbzaceaizr6od7yw2kpfupna5s6jd2hg5n3yxbh4oos7znutmbgiy74654?filename=Don%20A.%20Pittman%20-%20Toward%20a%20Modern%20Chinese%20Buddhism_%20Taixu%E2%80%99s%20Reforms-University%20of%20Hawaii%20Press%20%282001%29.pdf
+  - #go https://via.hypothes.is/https://gateway.ipfs.io/ipfs/bafykbzacebg32u23z7tgjc7ifge6jqjtt4xsoko3hdls5nguzualbjxk4wm7w?filename=Charles%20B.%20Jones%20-%20Taixu%E2%80%99s%20%27%27On%20the%20Establishment%20of%20the%20Pure%20Land%20in%20the%20Human%20Realm%27%27%20_%20A%20Translation%20and%20Study-Bloomsbury%20Academic%20%282021%29.pdf
