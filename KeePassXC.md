@@ -1,0 +1,4 @@
+- a [[tool]].
+  - [[password manager]] [[open source]]
+  - fork of [[KeePass]]
+  - #go https://github.com/keepassxreboot/keepassxc
