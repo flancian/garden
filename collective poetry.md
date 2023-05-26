@@ -4,3 +4,7 @@
   - Agua para los sedientos
   - Flan para los hambrientos
   - Fuego para los que tienen frío
+  - Sal para los que cocinan
+  - Cafeína para los que están cansados
+  - Cannabis para los que meditan
+  - Energía para los que computan
