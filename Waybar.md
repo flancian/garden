@@ -22,7 +22,8 @@
   libwayland-dev \
   scdoc \
   upower \
-  libxkbregistry-dev
+  libxkbregistry-dev \
+  otf-font-awesome
 ```
 
 Then compile:
