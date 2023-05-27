@@ -1,0 +1,3 @@
+- a [[foundation]].
+  - #go https://oeisf.org/
+  - #pull [[oeis]]
