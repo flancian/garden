@@ -3,3 +3,4 @@
   - e.g.
     - [[mersenne numbers]] https://oeis.org/A000225
     - [[mersenne primes]] https://oeis.org/A001348
+    - [[hex numbers]] https://oeis.org/search?q=1%2C7%2C19%2C37%2C61%2C91
