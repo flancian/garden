@@ -1,0 +1,5 @@
+- a [[site]].
+  - #go https://oeis.org
+  - e.g.
+    - [[mersenne numbers]] https://oeis.org/A000225
+    - [[mersenne primes]] https://oeis.org/A001348
