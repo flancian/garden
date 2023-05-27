@@ -23,7 +23,7 @@
   scdoc \
   upower \
   libxkbregistry-dev \
-  otf-font-awesome
+  fonts-font-awesome
 ```
 
 Then compile:
