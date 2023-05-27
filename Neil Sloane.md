@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[mathematician]] 
+  - creator and maintainer of [[OEIS]] 🧡
+  - #pull [[N. J. A. Sloane]]
