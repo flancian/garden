@@ -1,4 +1,4 @@
 - a [[site]].
-  - One of the best websites on the internet.
-  - #pull [[the on-line encyclopedia of integer sequences]]
+  - One of the [[best sites on the internet]].
+  - #pull [[on-line encyclopedia of integer sequences]]
   - #go https://oeis.org
