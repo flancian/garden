@@ -1,0 +1,1 @@
+- #go https://oeis.org/A000668
