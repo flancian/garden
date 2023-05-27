@@ -1,2 +1,3 @@
-- #push [[bach]] [[glenn gould]] [[goldberg]]
+- an [[album]].
   - #go https://music.youtube.com/playlist?list=OLAK5uy_k7w3N1K60Mn1cRzZz3t-4Z9zBSzmT-amc&feature=share
+- a [[person]].
