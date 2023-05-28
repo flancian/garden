@@ -1,3 +1,4 @@
 - a [[bird]].
   - subtype -- very particular :)
-  - > a [[stork]] that gets injured by an arrow while wintering in Africa and returns to Europe with the arrow stuck in its body
+  - > a [[stork]] that gets injured by an arrow while wintering in Africa and returns to Europe with the arrow stuck in its body.
+  - > As of 2003, about 25 [[Pfeilstörche]] have been documented in Germany.
