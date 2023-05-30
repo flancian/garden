@@ -1,0 +1,3 @@
+- las de [[maitreya]] 
+- y [[avalokiteshara]]
+- y [[tara]]
