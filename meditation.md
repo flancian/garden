@@ -6,3 +6,4 @@
 	- #pull [[meditation practice]] [[meditation for programmers]]
 	- #pull [[buddhism]] [[hinduism]] [[christianism]] [[mysticism]] [[religion]]
 	- To [[focus]] (or "bootstrap"), I often make use of [[counting practice]].
+  - [[samatha]] [[vipassana]] [[metta]] [[kasina]] 

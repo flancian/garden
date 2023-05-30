@@ -1,4 +1,4 @@
-- #pull [[metta]] [[kasina]] [[meditation]]
+- #pull [[meditation]]
 
 Burn!
 Burn kindly
