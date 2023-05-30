@@ -1,8 +1,8 @@
 - an [[activity]].
-	- [[awareness]] [[practice]]
+	- [[practice]]
 	- I finally gave meditation a try back in [[2018]] or so because of [[sam harris]].
 		- It essentially changed my life, as did [[yoga]] later.
-		- Flancia, I believe, would not be possible for me without meditation.
+		- Flancia, I believe, would not have been possible without meditation.
 	- #pull [[meditation practice]] [[meditation for programmers]]
 	- #pull [[buddhism]] [[hinduism]] [[christianism]] [[mysticism]] [[religion]]
 	- To [[focus]] (or "bootstrap"), I often make use of [[counting practice]].
