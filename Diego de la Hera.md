@@ -1,0 +1,4 @@
+- #push [[DDLH]]
+- a [[person]].
+  - [[friend]].
+  - #pull [[diegodlh]]
