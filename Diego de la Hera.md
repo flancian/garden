@@ -1,4 +1,3 @@
-- #push [[DDLH]]
 - a [[person]].
   - [[friend]].
-  - #pull [[diegodlh]]
+  - #pull [[diegodlh]] [[DLH]] [[DdlH]] [[DPDLH]]
