@@ -3,4 +3,4 @@
   - [[french]].
   - dead [[2020]].
   - [[wp]]
-    - > Between 1978 and 1983 Stiegler was incarcerated for armed robbery, first at the Prison Saint-Michel in Toulouse, and then at the Centre de détention in Muret. It was during this period that he became interested in philosophy, studying it by correspondence with Gérard Granel at the Université de Toulouse-Le-Mirail. 
+    - > Between 1978 and 1983 Stiegler was [[incarcerated]] for armed robbery, first at the Prison Saint-Michel in Toulouse, and then at the Centre de détention in Muret. It was during this period that he became [[interested in philosophy]], studying it by correspondence with [[Gérard Granel]] at the Université de Toulouse-Le-Mirail. 
