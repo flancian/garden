@@ -1,2 +1,2 @@
 - an [[app]].
-  - [[fediverse]] [[reddit]] alternative.
+  - [[fediverse]] [[reddit]] alternative (in the same class as [[lemmy]]).
