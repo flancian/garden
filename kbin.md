@@ -1,0 +1,2 @@
+- an [[app]].
+  - [[fediverse]] [[reddit]] alternative.
