@@ -1,0 +1,1 @@
+- I searched quickly for '[[paros]] vs [[naxos]]' and [[naxos]] seems to be a slightly better idea for a first time stay. Slightly more green, one larger town, and an [[arch of apollo]] which looks beautiful.
