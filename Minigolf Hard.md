@@ -1,4 +1,5 @@
 - a [[place]].
   - In [[Zürich]].
   - Very cool!
-  - #go https://goo.gl/maps/B3gL8ppysYgucN679
+  - #map https://goo.gl/maps/B3gL8ppysYgucN679
+  - #go https://minigolfhard.ch/
