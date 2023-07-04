@@ -1,0 +1,2 @@
+- The invocation for user services is e.g.:
+  - `journalctl --user-unit agora-server`
