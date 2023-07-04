@@ -1,9 +1,10 @@
 - a [[person]].
-  - my [[love]]
-  - also [[friend]].
+  - my [[love]].
+  - also a [[friend]].
   - We texted each other on Bumble on the 27th of March of 2023.
   - We met on the 30th of March, went to [[Xenix]] and [[Ikoo]], exchanged numbers on the 31st.
   - We had tea on the [[2nd of April]].
+  - Her birthday is on the [[11th of June]].
 
 We met as we were nearing the 0th of April and it was meeting beauty from the start.
 
