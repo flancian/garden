@@ -1,7 +1,9 @@
 - a [[ritual]].
   - part of [[Festivus]].
 
-Some out-of-season [[airing of grievances]], in no particular order:
+I love computers and humans, and they come together beautiful in phenomenons like open source, which I love particularly. I am eternally thankful for the *millions* of humans who contribute to free software and make the world a better place.
+
+Having said that, here are some out-of-season [[airing of grievances]] about software, in no particular order:
 
 ## [[Flatpak]]
 
