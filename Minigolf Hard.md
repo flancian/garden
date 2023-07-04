@@ -1,0 +1,4 @@
+- a [[place]].
+  - In [[Zürich]].
+  - Very cool!
+  - #go https://goo.gl/maps/B3gL8ppysYgucN679
