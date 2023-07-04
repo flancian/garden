@@ -11,3 +11,6 @@ Why, WHY, am I able to `flatpak search chromium` and even `flatpak install chrom
 
 Oh, it's because the developers refuse to accept patches to implement short forms for the run subcommand specifically. In practice this means ~millions of people around the world are maintaining independent collections of shoddy one-liners or aliases to make flatpak command invocations sane again.
 
+Also, if you run `flatpak search` in a narrow terminal it will helpfully elide the full application ID, so flatpak search cannot even be depended on to retrieve the right incantation consistently. WHY.
+
+## 
