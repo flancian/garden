@@ -13,3 +13,6 @@ We travelled apart for three weeks in the first six weeks, but we kept in touch 
 I went to the May 1st activities thanks to her. We drank fresh mint tea; we will read for each other.
 
 
+- [[2023-06-11]] 
+- [[2023-07-04]]
+- and so many more :)
