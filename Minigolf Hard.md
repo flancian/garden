@@ -1,5 +1,6 @@
 - a [[place]].
   - In [[Zürich]].
   - Very cool!
+  - Went on [[2023-06-10]] and [[2023-06-11]] (over/after midnight) and apart from the cool [[minigolf]] there was a mini rave and a local [[Burning Man]] event.
   - #map https://goo.gl/maps/B3gL8ppysYgucN679
   - #go https://minigolfhard.ch/
