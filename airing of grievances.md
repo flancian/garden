@@ -19,5 +19,5 @@ I love Systemd; I remember curating SysV Init scripts and I think the process of
 
 Why is it so hard to just make sure a service will actually start and keep retrying forever if it can't start? There are several incantations in the configuration spec that *seem* like they should achieve indefinite retries, but really don't (or do only in some cases). I understand why you'd want to have something like a sane retry policy (with backoff), but I really would like to tell it: just keep trying for me. Under no situation it seems reasonable for me to find a service marked as `inactive (dead)`, run start on it and have it work flawlessly. The computer should have done that for me.
 
-Also, why is it non-trivial to go from operating over a service (with e.g. `systemctl --user status/stop/start`) to operating over its logs? For the latter you need (checks notes) journalctl…
+Also, why is it non-trivial to go from operating over a service (with e.g. `systemctl --user status/stop/start`) to operating over its logs? For the latter you need (checks notes) [[journalctl]] …
 
