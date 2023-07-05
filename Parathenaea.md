@@ -1,2 +1,3 @@
 - A [[festival]].
-  - https://en.wikipedia.org/wiki/Panathenaea
+  - #go https://en.wikipedia.org/wiki/Panathenaea
+    - There were [[greater]] (every four years) and [[lesser]] Panathenaea.
