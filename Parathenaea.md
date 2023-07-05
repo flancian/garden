@@ -1,3 +1,4 @@
 - A [[festival]].
   - #go https://en.wikipedia.org/wiki/Panathenaea
     - There were [[greater]] (every four years) and [[lesser]] Panathenaea.
+    - Allegedly established by [[Erechtheus]]; but Plutarch attributes them to [[Theseus]].
