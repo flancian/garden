@@ -1,0 +1,3 @@
+- The invocation for user services is e.g.:
+  - `journalctl --user-unit agora-server`
+  - Why it's --user-unit instead of --user (like systemctl) I'm going to assume nobody knows (I sure don't).

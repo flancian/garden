@@ -1,6 +1,8 @@
 - a [[working group]].
   - #pull [[social coop]] [[community working group]]
   - #meet https://socialcoop.meet.coop/mat-ivs-47b-bbp
+  - #oncall https://share.mayfirst.org/apps/calendar/p/KG92DPwX3ww442AD/dayGridMonth/now
+  - #oncall https://share.mayfirst.org/apps/calendar/p/KG92DPwX3ww442AD/dayGridMonth/now
   - #go https://www.loomio.com/socialcoop-community-working-group/
   - #bugs https://git.coop/groups/social.coop/community/-/issues
   - [[minutes]] https://www.loomio.com/d/yh0aFRbU/community-working-group-ops-team-minutes
