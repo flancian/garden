@@ -1,0 +1,2 @@
+- Beautiful!
+  - [[John Perry Barlow]]
