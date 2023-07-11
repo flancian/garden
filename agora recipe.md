@@ -2,7 +2,8 @@
   - for running an [[agora]] on [[coop cloud]].
   - #go https://git.coopcloud.tech/coop-cloud/agora
   - #go2 https://git.coopcloud.tech/flancian/agora
-  - Troubleshooting [[coop cloud recipes]], e.g.:
-    - abra app deploy -C link.agor.ai
-    - abra app logs link.agor.ai
-    - abra app errors --watch link.agor.ai  
+  - Troubleshooting [[coop cloud recipes]]:
+    - After e.g.: abra app deploy -C link.agor.ai:
+      - abra app logs link.agor.ai
+      - abra app errors --watch link.agor.ai  
+      - abra app ps -w link.agor.ai
