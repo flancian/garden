@@ -1,5 +1,6 @@
 - a [[book]].
   - #go https://www.amazon.de/-/en/Ivo-Velitchkov-ebook/dp/B0C3W3XG6S
+  - #pull [[pkg book]]
   - I contributed a [[chapter]] -- I still haven't read it :)
     - It will feel weird to spot mistakes, but I can just report them (the editors told me.
     - Looking forward to reading the other chapters!
