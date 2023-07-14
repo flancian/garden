@@ -7,4 +7,4 @@
       - abra app logs link.agor.ai
       - abra app errors --watch link.agor.ai  
       - abra app ps -w link.agor.ai
-    - [[3wc]] also recommended replacing the entrypoint with tail /dev/null
+    - [[3wc]] also recommended temporarily replacing the entrypoint with tail /dev/null
