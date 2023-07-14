@@ -1,0 +1,3 @@
+- a [[book]].
+  - #go https://www.amazon.de/-/en/Ivo-Velitchkov-ebook/dp/B0C3W3XG6S
+  - I contributed a [[chapter]] -- I still haven't read it :)
