@@ -1,3 +1,6 @@
 - a [[book]].
   - #go https://www.amazon.de/-/en/Ivo-Velitchkov-ebook/dp/B0C3W3XG6S
   - I contributed a [[chapter]] -- I still haven't read it :)
+    - It will feel weird to spot mistakes, but I can just report them (the editors told me.
+    - Looking forward to reading the other chapters!
+    - [[3.6]] stars in Amazon so far out of four reviews -- I hope it picks up, also I hope people didn't dislike the [[Agora]] chapter in particular as I'd hate to affect others negatively with my contributions, but I also just see it as a learning experience :)
