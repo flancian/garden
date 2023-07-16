@@ -4,6 +4,7 @@
 
 ## [[2023-07-16]]
 - Further working in public :)
+- Bureaucracy/updates
 
 ## [[2023-07-15]]
 - Very nice session centered around Agora UI improvements.
