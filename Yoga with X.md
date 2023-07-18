@@ -1,2 +1,2 @@
 - a [[project]].
-  - Side project, like most of them :)
+  - #pull [[Side project]], like most of them :)
