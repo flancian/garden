@@ -8,3 +8,5 @@
       - abra app errors --watch link.agor.ai  
       - abra app ps -w link.agor.ai
     - [[3wc]] also recommended temporarily replacing the entrypoint with tail /dev/null
+      - You can do this in [[docker compose]], meaning overriding the container entrypoint:
+        - `entrypoint: ['tail', '-f', '/dev/null']`
