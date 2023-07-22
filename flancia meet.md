@@ -1,7 +1,8 @@
-# flancia meet
-- a [[space]].
-	- #go https://meet.jit.si/flancia-meet
-	- see also older node: [[flancia meet notes]]
 - a [[meeting]].
-  - [[recurring]], just show up if interested :) I attend often but not always.
-	- when: [[Saturdays]] at [[9AM UTC]] (or maybe rather [[11AM Zürich]]) by default.
+	- #go https://meet.jit.si/flancia-meet
+  - recurring, just show up if interested :) I attend often but not always.
+  - we take notes in the Stoa below or sometimes in the Agora at large (in [[journal]] entries).
+  - no [[fomo]], no [[stress]]! 
+  - with [[loving kindness]]!
+	- #when [[Saturdays]] at [[9AM UTC]] (or maybe rather [[11AM Zürich]]) by default.
+	- see also older node: [[flancia meet notes]]
