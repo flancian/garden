@@ -1,0 +1,3 @@
+- a [[bakery]].
+  - #go https://www.vze.ch/de/Einrichtungen/Vier-Linden.15.html
+  - [[AG]] told me about it :)
