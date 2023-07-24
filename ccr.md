@@ -1,1 +1,3 @@
 - #go [[coop cloud recipes]]
+- #push [[agora plan]]
+  - Fix [[ccr]], meaning implement [[indirect go links]] (across nodes)
