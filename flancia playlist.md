@@ -1,3 +1,3 @@
 - a [[playlist]].
-  - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfGfRg9EzQMZevvP5B6UY4Nz
+  - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfH9QoPh2vTP9CgeSK92lEXq
   - #pull [[agora playlist]]
