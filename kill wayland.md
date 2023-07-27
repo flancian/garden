@@ -1,0 +1,3 @@
+- Trying to do this in one machine to test a system configuration I learnt about this nifty trick:
+  - `pkill -KILL -u $USER` 
+  - Fro mhttps://www.reddit.com/r/wayland/comments/osotok/restart_wayland_the_proper_way/
