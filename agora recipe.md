@@ -7,6 +7,8 @@
       - abra app logs link.agor.ai
       - abra app errors --watch link.agor.ai  
       - abra app ps -w link.agor.ai
+      - Log into the host and run e.g. `docker stack ps link_agor_ai --no-trunc`
+        - Specially useful if containers are not coming up at all!
     - [[3wc]] also recommended temporarily replacing the entrypoint with tail /dev/null
       - You can do this in [[docker compose]], meaning overriding the container entrypoint:
         - `entrypoint: ['tail', '-f', '/dev/null']`
