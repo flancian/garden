@@ -1,6 +1,6 @@
 - #pull [[meditation]]
 
-Burn!
+[[Burn]]!
 Burn kindly
 If you have to burn
 burn kindly!

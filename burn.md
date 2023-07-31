@@ -1,9 +1,9 @@
 # burn
 - a [[poem]].
   - Burn!
-  - Burn for the greater good.
-  - Burn kindly; if you have to burn,
-  - burn kindly!
+  - burn for the greater good.
+  - Burn kindly -- if you have to burn,
+  - [[burn kindly]]!
 - an [[episode]].
 	- [[yoga with adriene]]
 	- [[go]] https://www.youtube.com/watch?v=aAVOdXvdtk8&list=PLui6Eyny-UzzJ4NSTesh4xRWg4ZWNz5s4&index=8
