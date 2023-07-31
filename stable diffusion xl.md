@@ -1,2 +1,2 @@
 - a [[model]].
-  - [[generative]]
+  - [[generative]].
