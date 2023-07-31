@@ -1,2 +1,3 @@
 - a [[model]].
   - [[generative]].
+  - [[mpd]] set up [[sdxl bot]] in [[telegram]]: [[contacto en flancia]]
