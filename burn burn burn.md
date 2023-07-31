@@ -5,7 +5,7 @@ Burn burn burn.
 Burn for the greater good!
 Burn brightly.
 
-Burn kindly.
+[[Burn kindly]].
 If you have to burn:
 Burn kindly.
 
