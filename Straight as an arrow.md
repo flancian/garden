@@ -1,5 +1,5 @@
 - a [[poem]].
-  - thank you my friend!
+  - (thank you reading my friend!)
   
 We will be straight,
   straight,
@@ -7,7 +7,7 @@ We will be straight,
 
 ⸎
 
-arrows true, 
+many arrows true, 
    ever bending
 
 ⸎
