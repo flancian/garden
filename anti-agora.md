@@ -1,1 +1,2 @@
 - [[An Agora which is not good]], not kind, espouses violent and destructive ideals -- that I call an [[antiagora]] for disambiguation.
+- #pull [[antiagoras]]

@@ -1,0 +1,3 @@
+- a [[list]].
+  - of objects known to be of the class [[anti-agora]].
+  - currently (as of 2023): none known :)
