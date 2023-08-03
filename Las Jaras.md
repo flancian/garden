@@ -1,6 +1,10 @@
 Llevo en mi carcaj
 Tres jaras
 Qué jaras?
+
+Las jaras,
+    qué jaras?
+
 Las de [[Avalokiteshvara]]!
 
-=> [[Straight as an arrow]]
+=> I want to be [[Straight as an arrow]]

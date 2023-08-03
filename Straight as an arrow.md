@@ -1,8 +1,8 @@
 - a [[poem]].
   - thank you my friend!
-  -
-- we will be straight
-- straight
-- [[straight]]
-- straight like an arrow
-- like an arrow bending
+  
+We will go straight
+  straight
+  [[straight]] like an arrow
+
+[[Like.md|Like]] an arrow bending
