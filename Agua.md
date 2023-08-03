@@ -10,7 +10,7 @@ Fuego para los que tienen frío
 
 Luz para los que van cegados
 
-Pan y flan para los hambrientos
+Pan (y [[flan]]…) para los hambrientos
 
 Ojos para los que leen
 
