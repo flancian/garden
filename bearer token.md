@@ -1,5 +1,5 @@
 - a [[token]].
-  - Part of [[OAuth 2.0]].
+  - Part of [[OAuth]] 2.0.
   - From [[rfc6750]] ~ https://datatracker.ietf.org/doc/html/rfc6750:
 
 ```
@@ -15,4 +15,6 @@
    All other terms are as defined in "The OAuth 2.0 Authorization
    Framework" [RFC6749].
 ```
+
+  - -> [[RFC6749]]
 
