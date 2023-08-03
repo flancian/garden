@@ -5,4 +5,12 @@ We will be straight,
   straight,
   [[straight]] like an arrow!
 
-an arrow ever bending
+⸎
+
+an arrow true, 
+   ever bending
+
+⸎
+
+like a [[rainbow folding]],
+  like [[Maitreya]] glowing!
