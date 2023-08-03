@@ -12,3 +12,5 @@ Luz para los cegados
 
 Pan 
 y flan para los hambrientos
+
+[[Agora]] para los [[oprimidos]]!
