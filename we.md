@@ -1,5 +1,5 @@
 # we
 
-- [[pull]] [[wikilinks everywhere]]
-
+- [[You]] and [[me]], my friend.
+- #pull Imagine an internet with [[wikilinks everywhere]]
 
