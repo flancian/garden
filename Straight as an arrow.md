@@ -13,9 +13,7 @@ many arrows true,
 ⸎
 
 like a [[rainbow]], 
-     folding;
+     folding
 
-⸎
-
-like [[Maitreya]], 
+as [[Maitreya]], 
      glowing!
