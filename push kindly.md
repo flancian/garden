@@ -1,0 +1,4 @@
+- Push!
+- Push Kindly!
+- If you have to #push, [[Push]] kindly!
+- #pull [[burn kindly]]
