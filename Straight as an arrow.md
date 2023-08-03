@@ -13,4 +13,4 @@ an arrow true,
 ⸎
 
 like a [[rainbow folding]],
-  like [[Maitreya]] glowing!
+  as [[Maitreya]] glowing!
