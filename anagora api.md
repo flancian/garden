@@ -4,6 +4,7 @@
     - nice [[oauth 2.0 playground]]
       - https://developers.google.com/oauthplayground/#step2&url=https%3A%2F%2Fgrumpygamer.com%2Freturn_to_monkey_island&content_type=application%2Fjson&http_method=GET&useDefaultOauthCred=unchecked&oauthEndpointSelect=Google&oauthAuthEndpointValue=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth&oauthTokenEndpointValue=https%3A%2F%2Foauth2.googleapis.com%2Ftoken&includeCredentials=unchecked&accessTokenType=bearer&autoRefreshToken=unchecked&accessType=offline&prompt=consent&response_type=code&wrapLines=on
       - https://developers.google.com/oauthplayground/#step3&url=https%3A%2F%2Fgrumpygamer.com%2Freturn_to_monkey_island&content_type=application%2Fjson&http_method=GET&useDefaultOauthCred=unchecked&oauthEndpointSelect=Google&oauthAuthEndpointValue=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth&oauthTokenEndpointValue=https%3A%2F%2Foauth2.googleapis.com%2Ftoken&includeCredentials=unchecked&accessTokenType=bearer&autoRefreshToken=unchecked&accessType=offline&prompt=consent&response_type=code&wrapLines=on
-    - 'Authorization: [[Bearer]]':
-      - https://datatracker.ietf.org/doc/html/rfc6750
+    - #push [[bearer token]]
+      - 'Authorization: [[Bearer]]':
+        - https://datatracker.ietf.org/doc/html/rfc6750
         - [[authentication schemes]] https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication
