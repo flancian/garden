@@ -4,4 +4,4 @@
   - It was honest, though.
   - https://twitter.com/flancian/status/1457376015584579595
     - I meant a [[subset]] of the internet though, and only when willing.
-
+- #pull [[free will]]
