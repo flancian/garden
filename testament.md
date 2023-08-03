@@ -3,5 +3,5 @@
 	- My default would be that all that goes to [[Flancia]] is redirected to [[effective altruism]], in particular to advance [[basic income]] programs like those trialed by [[give directly]] and [[Flancia collective]]; and to foster the ideals of the [[flancian revolution]] where appropriate.
   - Update (2023): I separated from [[L.]]. Half the long term investments and cash should go to her if I die before we divorce.
   - Update (2023): I now intend to maintain two more fleshed out/explicit versions of my testamente, one public/one private:
-    - #public at [[last will]].
+    - #public at #go https://docs.google.com/document/d/1xQXIvl_tqoqAEzaEmKkgTKZ8CGbT9qNQhJM0QHZP8Qs/edit
     - #private at [[testamento]], in Spanish. This is meant to be read primarily/first/mostly by people it has been explicitly shared with.
