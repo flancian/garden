@@ -7,10 +7,12 @@ We will be straight,
 
 ⸎
 
-an arrow true, 
+arrows true, 
    ever bending
 
 ⸎
 
-like a [[rainbow folding]],
-  as [[Maitreya]] glowing!
+like a [[rainbow]], 
+     folding;
+like [[Maitreya]], 
+     glowing!
