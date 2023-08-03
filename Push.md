@@ -1,0 +1,3 @@
+- [[Push]], #push.
+  - Push for the greater good!
+  - If I have to push it I'd rather [[push kindly]].
