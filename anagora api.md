@@ -1,0 +1,2 @@
+- In [[Google Cloud]]:
+  - https://console.cloud.google.com/apis/credentials/consent?authuser=1&project=anagora
