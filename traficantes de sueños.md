@@ -1,2 +1,3 @@
 - una [[editorial]].
 	- editó [[los bienes comunes del conocimiento]] en español: https://traficantes.net/libros/los-bienes-comunes-del-conocimiento
+  - y [[librerías]].
