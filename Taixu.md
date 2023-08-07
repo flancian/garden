@@ -1,6 +1,6 @@
 - a [[person]].
   - [[Buddhist]] [[monk]] [[thinker]] [[revolutionary]]
-  - #pull [[on the establishment of the pure land in the human realm]] ~ [[oteotplithr]] for short (?)
+  - #pull reading [[on the establishment of the pure land in the human realm]] ~ [[oteotplithr]] or [[oteotpl]] for short (?)
   - #pull [[toward a modern chinese buddhism]]
   - #go https://via.hypothes.is/https://gateway.ipfs.io/ipfs/bafykbzacebg32u23z7tgjc7ifge6jqjtt4xsoko3hdls5nguzualbjxk4wm7w?filename=Charles%20B.%20Jones%20-%20Taixu%E2%80%99s%20%27%27On%20the%20Establishment%20of%20the%20Pure%20Land%20in%20the%20Human%20Realm%27%27%20_%20A%20Translation%20and%20Study-Bloomsbury%20Academic%20%282021%29.pdf
   - [[
