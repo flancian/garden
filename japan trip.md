@@ -1,6 +1,7 @@
 - #pull [[Tokyo]] 
   - [[Asakusa]] 
-  - [[Hakone]]
+  - [[Hakone]]?
+  - [[Jigokudani Yaen Koen]]?
 - #pull [[Osaka]]
   - [[Nara]]
   - [[Koyasan]]
