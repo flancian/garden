@@ -1,5 +1,6 @@
 - #pull [[Tokyo]] 
   - [[Asakusa]] 
+  - [[Hakone]]
 - #pull [[Kyoto]]
 - #pull [[Osaka]]
 - #pull [[Hiroshima]]
