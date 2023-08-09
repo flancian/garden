@@ -7,3 +7,4 @@
 - #pull [[Kyoto]]
   - [[Arashiyama]]
 - #pull [[Hiroshima]]
+- #pull [[Okinawa]]
