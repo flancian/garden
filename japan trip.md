@@ -1,1 +1,5 @@
-- #pull [[japan]] [[2023]]
+- #pull [[Tokyo]] 
+  - [[Asakusa]] 
+- #pull [[Kyoto]]
+- #pull [[Osaka]]
+- #pull [[Hiroshima]]
