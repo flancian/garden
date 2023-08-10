@@ -1,0 +1,1 @@
+- #pull [[pedagogy of the oppressed]]
