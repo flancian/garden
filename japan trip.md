@@ -10,3 +10,6 @@
   - [[Arashiyama]]
 - #pull [[Hiroshima]]
 - #pull [[Okinawa]]
+  - [[nanjo city]]
+    - #push [[mui]] B&B recommended by [[MT]]
+      - https://mui.okinawa/en/
