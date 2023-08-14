@@ -1,0 +1,2 @@
+- a [[book]].
+  - #go https://www.amazon.com/Who-Rules-Earth-Social-Planet/dp/0199896615
