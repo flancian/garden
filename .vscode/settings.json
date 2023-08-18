@@ -30,7 +30,11 @@
   },
   "[markdown]": {
       "editor.tabSize": 2,
-      "editor.quickSuggestions": false
+      "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+      }
   },
   "workbench.editor.closeEmptyGroups": false,
   "saveEditorLayout.list": [
