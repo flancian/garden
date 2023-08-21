@@ -1,4 +1,4 @@
-- #push [[chiptune app]]
+- #push [[chiptune player]]
   - #go https://chiptune.app/browse/
   - loving it!
   - by [[matt montag]]
