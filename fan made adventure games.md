@@ -1,0 +1,3 @@
+- an [[article]].
+  - back from [[2000]].
+  - #go http://www.adventureclassicgaming.com/index.php/site/features/154/
