@@ -2,4 +2,4 @@
   - #go https://chiptune.app/browse/
   - loving it!
   - by [[matt montag]].
-  - e.g. http://www.adventureclassicgaming.com/index.php/site/features/154/
+  - e.g. https://chiptune.app/?play=Classical%20MIDI%2FChopin%2F24%20Preludes%2C%20Op.%2028%20%E2%80%93%20No.%2015%20in%20D%E2%99%AD%20(%27Raindrop%27)%20(C.%20Florez).mid
