@@ -1,17 +1,17 @@
-- #push [[collective poetry]]
+- #push [[collected poetry]]
 
-Agua!
+[[Agua]]!
 Agua!
 Agua!
 
 [[Agua para los sedientos]]!
 
-Fuego para los que tienen frío
+[[Fuego]] para los que tienen frío
 
-Luz para los que van cegados
+Luz para los que van [[cegados]]!
 
-Pan (y [[flan]]…) para los hambrientos
+Pan (o [[flan]]…) para los hambrientos!
 
-Ojos para los que leen
+Ojos para los que leen!
 
 [[Agora]] para los [[oprimidos]]!
