@@ -1,5 +1,5 @@
 - #push [[chiptune player]]
   - #go https://chiptune.app/browse/
   - loving it!
-  - by [[matt montag]]
+  - by [[matt montag]].
   - e.g. http://www.adventureclassicgaming.com/index.php/site/features/154/
