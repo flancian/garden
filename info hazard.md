@@ -1,2 +1,3 @@
+- **DO NOT READ this node if you don't want to be exposed to [[info hazards]].**
+- #pull [[infohazard]] [[information hazard]]
 - #pull [[wp/info hazard]]
-- #pull [[infohazard]]
