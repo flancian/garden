@@ -1,2 +1,4 @@
+- **DO NOT READ this node if you don't want to be exposed to [[info hazards]].**
 - a [[list]].
   - don't read this list if you don't want to be exposed to an [[info hazard]].
+  - [[macevedo]] -> [[mmacevedo]]
