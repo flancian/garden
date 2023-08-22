@@ -1,1 +1,1 @@
-- #pull wp
+- #pull [[wp/info hazard]]
