@@ -1,1 +1,3 @@
-- #pull https://qntm.org/mmacevedo
+- a [[short story]].
+  - #pull https://qntm.org/mmacevedo
+    - also [[Lena]], [[2021-01-04]] by [[qntm]].
