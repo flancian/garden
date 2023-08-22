@@ -1,0 +1,2 @@
+- a [[list]].
+  - don't read this list if you don't want to be exposed to an [[info hazard]].
