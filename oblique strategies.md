@@ -1,0 +1,4 @@
+- a [[pattern language]].
+  - By [[Brian Eno]] and [[Peter Schmidt]]
+  - #wp https://en.wikipedia.org/wiki/Oblique_Strategies
+  - #go http://stoney.sb.org/eno/oblique.html
