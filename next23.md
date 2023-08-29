@@ -1,1 +1,1 @@
-- #go https://youtu.be/lEUS3_Qjyjg?t=1496
+- #go https://youtu.be/lEUS3_Qjyjg?t=1573
