@@ -1,0 +1,1 @@
+- #go https://jitsi.github.io/handbook/docs/community/community-instances/
