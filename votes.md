@@ -1,0 +1,5 @@
+- This is a [[list]] of [[votes]] tracked by the [[Agora of Flancia]].
+  - [[President of Russia]]
+  - [[President of the US]]
+  - [[President of China]]
+  - [[Presidents of the Agora]]
