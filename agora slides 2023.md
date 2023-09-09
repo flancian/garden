@@ -1,0 +1,2 @@
+- a [[presentation]]
+  - #go https://docs.google.com/presentation/d/1MeYviCSxf9shZXmL8pWe6t4iR2spNqiOx0qs3swDsF8/edit#slide=id.p
