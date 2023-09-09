@@ -1,6 +1,6 @@
 You will see me [[tonight]],
-    into the darkness of shadown and light
-    into the [[light of night]]
+    into the darkness of shadow and light
+    into the [[light of night]].
 
     [[Tara]]!
     [[Burup]]!
