@@ -1,9 +1,9 @@
-Bella, muy [[bella]] [[Burup]]!
-  Bella, muy [[bella Burup]].
+Bella, muy [[bella]] [[Burup]]:
+  Bella, muy [[bella Burup]]!
 
 Bella, muy [[bella]] [[Burup]]:
-  [[Tara]] [[burup]]
+  [[Tara]] [[burup]],
   [[Taraburup]]!
 
-Bella muy bella Burup
-  [[Soha]]
+Bella muy bella Burup,
+  [[Soha]]!
