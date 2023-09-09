@@ -1,7 +1,8 @@
 You will see me [[tonight]]:
-    into the darkness of shadow and light,
-    into the [[light of night]].
+    into the darkness of light 
+      and shadow,
+    into the [[light of night]]!
 
-- [[Tara]]!
-- [[Burup]]!
-- [[Taraburup]]!
+[[Tara]],
+  [[Burup]],
+  [[Taraburup]]!
