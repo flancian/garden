@@ -3,7 +3,8 @@ You will see me [[tonight]]:
       and its shadow,
     into the [[light of night]]!
 
-For you:
-  [[Tara]],
-  [[Burup]],
-  [[Taraburup]]!
+For you: 
+
+  - [[Tara]],
+  - [[Burup]],
+  - [[Taraburup]]!
