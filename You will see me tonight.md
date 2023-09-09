@@ -1,9 +1,9 @@
 You will see me [[tonight]]:
     into the darkness of light 
-      and its shadow,
+      (and its shadow),
     into the [[light of night]]!
 
-For you: 
+For [[you]]: 
 
   - [[Tara]],
   - [[Burup]],
