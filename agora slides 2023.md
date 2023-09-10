@@ -29,3 +29,7 @@ Wikilinks stand for the *intention to socially link*.
 The #Agora is an entity of category [[Commons]].
 
 (Here I took a detour to clean the kitchen and think of [[magnetic 3d printing]])
+
+You can join an Agora in two ways:
+
+- Keep a [[digital garden]] and contribute it to the Agora in question, as defined by you and your friends.
