@@ -55,3 +55,9 @@ First services in the Commons:
 - Format conversion.
 - Bridging,
   - meaning porting across all useful and pro-social combinations of formats/mediums/networks.
+
+<hr />
+
+In the Agora your friends are the integration of your friendships over all participating social networks.
+
+<hr />
