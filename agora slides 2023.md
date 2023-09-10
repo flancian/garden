@@ -61,3 +61,7 @@ First services in the Commons:
 In the Agora your friends are the integration of your friendships over all participating social networks.
 
 <hr />
+
+I searched for [[markdown to google slides]] and I found https://github.com/googleworkspace/md2googleslides thanks precisely to the Agora.
+
+Love how the Agora is self-documenting ;)
