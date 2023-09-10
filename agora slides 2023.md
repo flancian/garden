@@ -16,3 +16,5 @@ What else would need to be added?
   - ActivityPub integration.
   - SQLite/more stateful Agora.
   - Oauth/other repository providers incoming.
+
+Wikilinks stand for the *intention to socially link*.
