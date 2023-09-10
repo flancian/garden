@@ -18,3 +18,5 @@ What else would need to be added?
   - Oauth/other repository providers incoming.
 
 Wikilinks stand for the *intention to socially link*.
+
+#Flancia is an entity of category [[protopoi]].
