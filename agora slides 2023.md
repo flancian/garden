@@ -28,4 +28,4 @@ Wikilinks stand for the *intention to socially link*.
 
 The #Agora is an entity of category [[Commons]].
 
-(Here I took a detour to clean the kitchen and think of [[magnetic 4d printing]])
+(Here I took a detour to clean the kitchen and think of [[magnetic 3d printing]])
