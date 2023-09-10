@@ -12,3 +12,7 @@ What needs updating? Before diving into it, I would guess:
 What else would need to be added?
 
 1. Maybe a mention of the Agora chapter in the [[personal knowledge graphs]] book.
+2. A mention of upcoming work:
+  - ActivityPub integration.
+  - SQLite/more stateful Agora.
+  - Oauth/other repository providers incoming.
