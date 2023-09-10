@@ -47,4 +47,11 @@ You can currently join an Agora in two ways:
 
 <hr />
 
-First services in the Commons: sharing, embedding, printing, format conversion, bridging (porting across all useful and pro-social combinations formats/mediums/networks).
+First services in the Commons: 
+
+- Sharing. 
+- Embedding.
+- Printing. 
+- Format conversion.
+- Bridging,
+  - meaning porting across all useful and pro-social combinations of formats/mediums/networks.
