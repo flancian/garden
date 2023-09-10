@@ -22,6 +22,8 @@ Wikilinks stand for the *intention to socially link*.
 - Counter-argument 1: two square brackets is a lot of brackets.
   - Counter-counter-argument 1.1: 
 
+[[Building bridges]].
+
 #Flancia is an entity of category [[protopoi]].
 
 The #Agora is an entity of category [[Commons]].
