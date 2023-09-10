@@ -32,4 +32,5 @@ The #Agora is an entity of category [[Commons]].
 
 You can join an Agora in two ways:
 
-- Keep a [[digital garden]] and contribute it to the Agora in question, as defined by you and your friends.
+- Keep a [[digital garden]] and contribute it to the Agora in question, as defined by you and your friends with loving-kindness :)
+- Follow @agora@botsin.space in the Fediverse and start using [[agora protocol]] in public.
