@@ -34,9 +34,17 @@ Counter argument in general: on the value of [[building bridges]] and doing mean
 
 The #Agora is an entity of category [[Commons]].
 
+<hr />
+
 (Here I took a detour to clean the kitchen and think of [[magnetic 3d printing]])
 
-You can join an Agora in two ways:
+<hr />
+
+You can currently join an Agora in two ways:
 
 - Keep a [[digital garden]] and contribute it to the Agora in question, as defined by you and your friends with loving-kindness :)
 - Follow @agora@botsin.space in the Fediverse and start using [[agora protocol]] in public, or within earshot of the bot.
+
+<hr />
+
+Services in the Commons: sharing, embedding, printing (meaning porting across formats/mediums).
