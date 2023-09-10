@@ -1,3 +1,3 @@
 - a [[person]].
-  - [[friend]]
+  - [[friend]] (by public view at least)
   - #go https://runyourown.social/
