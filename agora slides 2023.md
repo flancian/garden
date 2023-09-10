@@ -9,6 +9,8 @@ What needs updating? Before diving into it, I would guess:
 2. Mention social media integration (Mastodon bot) and other venues for integration with the [[Fediverse]].
 3. Update screenshots (this will be a good opportunity to reconsider some of the changes introduced since 2021, likely).
 
+<hr />
+
 What else would need to be added?
 
 1. Maybe a mention of the Agora chapter in the [[personal knowledge graphs]] book.
@@ -17,12 +19,14 @@ What else would need to be added?
   - SQLite/more stateful Agora.
   - Oauth/other repository providers incoming.
 
+<hr />
+
 Wikilinks stand for the *intention to socially link*.
 
 - Counter-argument 1: two square brackets is a lot of brackets.
   - Counter-counter-argument 1.1: 
 
-[[Building bridges]].
+Counter argument in general: on the value of [[Building bridges]] and doing meaningful work for a community.
 
 #Flancia is an entity of category [[protopoi]].
 
