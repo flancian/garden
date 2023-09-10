@@ -26,7 +26,9 @@ Wikilinks stand for the *intention to socially link*.
 - Counter-argument 1: two square brackets is a lot of brackets.
   - Counter-counter-argument 1.1: 
 
-Counter argument in general: on the value of [[Building bridges]] and doing meaningful work for a community.
+Counter argument in general: on the value of [[building bridges]] and doing meaningful work in the [[Commons]].
+
+<hr />
 
 #Flancia is an entity of category [[protopoi]].
 
