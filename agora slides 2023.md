@@ -65,3 +65,17 @@ In the Agora your friends are the integration of your friendships over all parti
 I searched for [[markdown to google slides]] and I found https://github.com/googleworkspace/md2googleslides thanks precisely to the Agora.
 
 Love how the Agora is self-documenting ;)
+
+<hr />
+
+On the importance of debate and voting in the Agora, in the Fediverse.
+
+<hr />
+
+Node club.
+
+<hr />
+
+Open letters.
+
+<hr />
