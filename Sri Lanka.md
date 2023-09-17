@@ -1,6 +1,7 @@
 - #push [[trip to x]]
-  - [[three weeks in sri lanka]]
-  - #pull [[Colombo]] [[Kandy]] [[Anuradhapura]] [[Jaffna]] [[Galle]]
+  - #push [[three weeks in sri lanka]]
+    - #pull [[Colombo]] [[Kandy]] [[Anuradhapura]] [[Jaffna]] [[Ella]] [[Galle]] [[Sigirya]]
+  - [[Negombo]]
 - #go https://en.wikipedia.org/wiki/Sri_Lanka
   - [[22 million]] people
   - 70% [[Buddhist]]
