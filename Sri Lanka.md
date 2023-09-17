@@ -6,3 +6,6 @@
   - #pull [[Śrī Laṅkā]] [[Ceylon]] [[Eelam]] [[Taprobana]] [[Sarandib]] 
   - [[Sri Lankan Civil War]] ~ https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War is very recent ([[1983]]-[[2009]]
     - A group tried to start an independent [[Tamil]] state.
+    - [[70000]] killed by [[2007]].
+  - [[Geography]]
+    - There used to be a land bridge to [[India]].
