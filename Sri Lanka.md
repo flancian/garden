@@ -1,2 +1,5 @@
 - #pull [[trip to x]]
 - #pull [[Colombo]] [[Kandy]]
+- #go https://en.wikipedia.org/wiki/Sri_Lanka
+  - [[22 million]] people
+  - 70% [[Buddhist]]
