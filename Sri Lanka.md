@@ -12,4 +12,9 @@
     - There used to be a natural land bridge to [[India]].
     - > The "wet zone" and some of the windward slopes of the central highlands receive up to 2,500 millimetres (98.4 in) of rain each year, but the leeward slopes in the east and northeast receive little rain.
   - There's [[elephants]] and [[leopards]].
-  - > Ancient Sri Lanka is marked for its genius in [[hydraulic engineering]] and [[architecture]]
+  - [[Gastronomy]]
+    - > Dishes include rice and curry, pittu, kiribath, wholemeal roti, string hoppers, wattalapam (a rich pudding of Malay origin made with coconut milk, jaggery, cashews, eggs, and spices including cinnamon and nutmeg), kottu, and appam.[368] Jackfruit may sometimes replace rice. Traditionally food is served on a plantain leaf or lotus leaf. Middle Eastern influences and practices are found in traditional Moor dishes, while Dutch and Portuguese influences are found with the island's Burgher community preserving their culture through traditional dishes such as lamprais (rice cooked in stock and baked in a banana leaf), breudher (Dutch holiday biscuit), and Bolo fiado (Portuguese-style layer cake).
+  - [[Culture]]
+    - > Ancient Sri Lanka is marked for its genius in [[hydraulic engineering]] and [[architecture]]
+
+
