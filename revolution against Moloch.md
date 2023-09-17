@@ -1,2 +1,3 @@
 - You approach a [[fork]] on the road.
+  - [[You see Moloch]].
   - #pull [[slay moloch]] [[heal moloch]]
