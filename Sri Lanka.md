@@ -24,5 +24,6 @@
   - The national sport is [[voleyball]] (!) but ~everybody's into cricket.
   - [[Jaya Sri Maha Bodhi]] is the oldest planted tree in the world :)
   - #beaches [[Bentota]] [[Unawatuna]]
+    - near [[Galle]]
 
 
