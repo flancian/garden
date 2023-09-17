@@ -1,0 +1,3 @@
+- #push [[trip to x]]
+  - an [[itinerary]].
+  - [[colombo]] [[sigiriya]] [[polonnaruwa]] [[dambulla]] [[kandy]] [[nuwara eliya]] [[horton plains]] [[ella]] [[yala]] [[mirissa]] [[galle]] [[unawatuna]] [[bentota]] [[colombo]]
