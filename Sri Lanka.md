@@ -16,5 +16,8 @@
     - > Dishes include rice and curry, pittu, kiribath, wholemeal roti, string hoppers, wattalapam (a rich pudding of Malay origin made with coconut milk, jaggery, cashews, eggs, and spices including cinnamon and nutmeg), kottu, and appam.[368] Jackfruit may sometimes replace rice. Traditionally food is served on a plantain leaf or lotus leaf. Middle Eastern influences and practices are found in traditional Moor dishes, while Dutch and Portuguese influences are found with the island's Burgher community preserving their culture through traditional dishes such as lamprais (rice cooked in stock and baked in a banana leaf), breudher (Dutch holiday biscuit), and Bolo fiado (Portuguese-style layer cake).
   - [[Culture]]
     - > Ancient Sri Lanka is marked for its genius in [[hydraulic engineering]] and [[architecture]]
+    - > [[Sri Lankan Cinema]]
+    - [[Radio Ceylon]]
+  - The national sport is [[voleyball]] (!).
 
 
