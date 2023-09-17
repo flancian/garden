@@ -1,4 +1,5 @@
 - #push [[trip to x]]
+  - [[three weeks in sri lanka]]
   - #pull [[Colombo]] [[Kandy]] [[Anuradhapura]] [[Jaffna]]
 - #go https://en.wikipedia.org/wiki/Sri_Lanka
   - [[22 million]] people
