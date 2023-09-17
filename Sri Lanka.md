@@ -8,4 +8,6 @@
     - A group tried to start an independent [[Tamil]] state.
     - [[70000]] killed by [[2007]].
   - [[Geography]]
-    - There used to be a land bridge to [[India]].
+    - There used to be a natural land bridge to [[India]].
+    - > The "wet zone" and some of the windward slopes of the central highlands receive up to 2,500 millimetres (98.4 in) of rain each year, but the leeward slopes in the east and northeast receive little rain.
+  - There's [[elephants]] and [[leopards]].
