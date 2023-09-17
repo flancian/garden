@@ -4,4 +4,5 @@
   - [[22 million]] people
   - 70% [[Buddhist]]
   - #pull [[Śrī Laṅkā]] [[Ceylon]] [[Eelam]] [[Taprobana]] [[Sarandib]] 
-  - [[Sri Lankan Civil War]] ~ https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War is very recent
+  - [[Sri Lankan Civil War]] ~ https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War is very recent ([[1983]]-[[2009]]
+    - A group tried to start an independent [[Tamil]] state.
