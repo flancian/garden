@@ -1,6 +1,6 @@
 - #push [[trip to x]]
   - [[three weeks in sri lanka]]
-  - #pull [[Colombo]] [[Kandy]] [[Anuradhapura]] [[Jaffna]]
+  - #pull [[Colombo]] [[Kandy]] [[Anuradhapura]] [[Jaffna]] [[Galle]]
 - #go https://en.wikipedia.org/wiki/Sri_Lanka
   - [[22 million]] people
   - 70% [[Buddhist]]
@@ -25,5 +25,3 @@
   - [[Jaya Sri Maha Bodhi]] is the oldest planted tree in the world :)
   - #beaches [[Bentota]] [[Unawatuna]]
     - near [[Galle]]
-
-
