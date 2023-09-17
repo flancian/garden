@@ -3,7 +3,7 @@
 - #go https://en.wikipedia.org/wiki/Sri_Lanka
   - [[22 million]] people
   - 70% [[Buddhist]]
-  - [[names]] #pull [[Śrī Laṅkā]] [[Ceylon]] [[Eelam]] [[Taprobana]] [[Sarandib]] 
+  - #pull [[Śrī Laṅkā]] [[Ceylon]] [[Eelam]] [[Taprobana]] [[Sarandib]] 
   - #pull [[Sinhalese]] [[Tamil]]
   - [[Sri Lankan Civil War]] ~ https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War is very recent ([[1983]]-[[2009]]
     - A group tried to start an independent [[Tamil]] state.
