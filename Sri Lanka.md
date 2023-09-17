@@ -8,6 +8,7 @@
   - [[Sri Lankan Civil War]] ~ https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War is very recent ([[1983]]-[[2009]]
     - A group tried to start an independent [[Tamil]] state.
     - [[70000]] killed by [[2007]].
+    - [[Jaffna]] was the second largest city after [[Colombo]] before this conflict. Now it's the 12th largest (!).
   - [[Geography]]
     - There used to be a natural land bridge to [[India]].
     - > The "wet zone" and some of the windward slopes of the central highlands receive up to 2,500 millimetres (98.4 in) of rain each year, but the leeward slopes in the east and northeast receive little rain.
