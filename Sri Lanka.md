@@ -1,5 +1,7 @@
 - #pull [[trip to x]]
-- #pull [[Colombo]] [[Kandy]]
+  - #pull [[Colombo]] [[Kandy]]
 - #go https://en.wikipedia.org/wiki/Sri_Lanka
   - [[22 million]] people
   - 70% [[Buddhist]]
+  - #pull [[Śrī Laṅkā]] [[Ceylon]] [[Eelam]] [[Taprobana]] [[Sarandib]] 
+  - [[Sri Lankan Civil War]] ~ https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War is very recent
