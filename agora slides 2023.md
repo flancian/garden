@@ -9,7 +9,7 @@ What needs updating? Before diving into it, I would guess:
 2. Mention social media integration (Mastodon bot) and other venues for integration with the [[Fediverse]].
 3. Update screenshots (this will be a good opportunity to reconsider some of the changes introduced since 2021, likely).
 
-<hr />
+---
 
 What else would need to be added?
 
@@ -19,7 +19,7 @@ What else would need to be added?
   - SQLite/more stateful Agora.
   - Oauth/other repository providers incoming.
 
-<hr />
+---
 
 Wikilinks stand for the *intention to socially link*.
 
@@ -28,24 +28,24 @@ Wikilinks stand for the *intention to socially link*.
 
 Counter argument in general: on the value of [[building bridges]] and doing meaningful work in the [[Commons]].
 
-<hr />
+---
 
 #Flancia is an entity of category [[protopoi]].
 
 The #Agora is an entity of category [[Commons]].
 
-<hr />
+---
 
 (Here I took a detour to clean the kitchen and think of [[magnetic 3d printing]])
 
-<hr />
+---
 
 You can currently join an Agora in two ways:
 
 - Keep a [[digital garden]] and contribute it to the Agora in question, as defined by you and your friends with loving-kindness :)
 - Follow @agora@botsin.space in the Fediverse and start using [[agora protocol]] in public, or within earshot of the bot.
 
-<hr />
+---
 
 First services in the Commons: 
 
@@ -56,27 +56,27 @@ First services in the Commons:
 - Bridging,
   - meaning porting across all useful and pro-social combinations of formats/mediums/networks.
 
-<hr />
+---
 
 In the Agora your friends are the integration of your friendships over all participating social networks.
 
-<hr />
+---
 
 I searched for [[markdown to google slides]] and I found https://github.com/googleworkspace/md2googleslides thanks precisely to the Agora.
 
 Love how the Agora is self-documenting ;)
 
-<hr />
+---
 
 On the importance of debate and voting in the Agora, in the Fediverse.
 
-<hr />
+---
 
 Node club.
 
-<hr />
+---
 
 Open letters.
 
-<hr />
+---
 
