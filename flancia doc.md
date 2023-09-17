@@ -1,0 +1,1 @@
+- I have a [[Google Docs]] version of https://flancia.org. I thought several times of moving writing there, but I haven't solved the question of how to 'sync back' text to the site, if at all.
