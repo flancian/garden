@@ -1,3 +1,4 @@
 - You approach a [[fork]] on the road.
-  - [[You see Moloch]]. What do you do?
+  - [[You see Moloch]].
+  - What do you try?
   - #pull [[slay moloch]] [[heal moloch]]
