@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# First time I use [[click]], it looks cool like that other [[pallets project]], [[flask]].
+# First time I use [[click]], it looks cool like that other [[pallets project]], [[flask]], which we use in [[agora server]].
 # https://click.palletsprojects.com/en/8.1.x/arguments/
 # https://click.palletsprojects.com/en/8.1.x/options/
 
