@@ -41,8 +41,6 @@ def is_prime(n):
 
 @click.command()
 @click.argument('n', type=click.INT)
-@click.option('-f', '--from', 'n0', type=click.INT, help="Lower bound of the range to factor.")
-@click.option('-t', '--to', 'n1', type=click.INT, help="Upper bound of the range to factor.")
 def prime(n, n0, n1):
     """Simple program that factors a number using a [[Sieve of Eratosthenes]]."""
     if is_prime(n):
