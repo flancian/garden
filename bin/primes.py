@@ -4,7 +4,7 @@
 # https://click.palletsprojects.com/en/8.1.x/options/
 
 import click
-import io
+import io, rich
 import math
 
 # I'm not proud (I am a little bit?).
@@ -16,10 +16,6 @@ class RichGroup(click.Group):
         console = rich.Console(file=sio, force_terminal=True)
         console.print("Hello, [bold magenta]World[/bold magenta]!", ":vampire:")
         formatter.write(sio.getvalue())
-
-@click.group(cls=RichGroup)
-def cli():
-    pass
 
 def factor(n):
     for i in range(2, n+1):
@@ -51,7 +47,6 @@ def is_prime(n):
     # click.echo(f"Sieve: {is_prime}.")
     return is_prime[n]
 
-@click.command()
 @click.group(cls=RichGroup)
 @click.argument('n', type=click.INT)
 def prime(n):
