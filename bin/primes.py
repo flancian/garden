@@ -4,8 +4,8 @@
 # https://click.palletsprojects.com/en/8.1.x/options/
 
 import click
-import io, rich
 import math
+import sys
 
 # I'm not proud (I am a little bit?).
 PROOF = [] # :)
