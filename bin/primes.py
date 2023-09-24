@@ -4,6 +4,7 @@
 # https://click.palletsprojects.com/en/8.1.x/options/
 
 import click
+import io
 import math
 
 # I'm not proud (I am a little bit?).
@@ -50,6 +51,7 @@ def is_prime(n):
     # click.echo(f"Sieve: {is_prime}.")
     return is_prime[n]
 
+@click.command()
 @click.group(cls=RichGroup)
 @click.argument('n', type=click.INT)
 def prime(n):
