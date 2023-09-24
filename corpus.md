@@ -1,0 +1,2 @@
+- an [[essay]].
+  - On the importance of gathering a pro-social rational corpus.
