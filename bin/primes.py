@@ -50,7 +50,6 @@ def is_prime(n):
     # click.echo(f"Sieve: {is_prime}.")
     return is_prime[n]
 
-@click.command()
 @click.group(cls=RichGroup)
 @click.argument('n', type=click.INT)
 def prime(n):
