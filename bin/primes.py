@@ -43,6 +43,7 @@ def is_prime(n):
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
         click.echo("""Usage:
+        - Visit anagora.org/primes to execute this file in the Agora of Flancia.")
         - Visit anagora.org/foo to execute e.g. <bin/foo.py>, <exec/foo.py> from your garden.")
         - Visit anagora.org/foo/1 to execute e.g. <bin/foo.py 1>, <exec/foo.py 1> from your garden.")
         """)
