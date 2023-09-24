@@ -44,7 +44,7 @@ class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
         click.echo("Usage: Visit anagora.org/foo to execute e.g. bin/foo.py, exec/foo.py from your garden.")
 
-@click.command(cls=AgoraCommand)
+@click.command(cls=AgoraCmd)
 @click.argument('n', type=click.INT)
 def prime(n):
     """Simple program that factors a number using a [[Sieve of Eratosthenes]]."""
