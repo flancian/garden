@@ -40,6 +40,10 @@ def is_prime(n):
     # click.echo(f"Sieve: {is_prime}.")
     return is_prime[n]
 
+class AgoraCmd(click.Command):
+    def format_help(self, ctx, formatter):
+        click.echo("Usage: Visit anagora.org/foo to execute e.g. bin/foo.py, exec/foo.py from your garden.")
+
 @click.command(cls=AgoraCommand)
 @click.argument('n', type=click.INT)
 def prime(n):
