@@ -44,7 +44,8 @@ class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
         click.echo("""Usage:
         - Visit anagora.org/primes to execute this file in the Agora of Flancia.
-        - In general visit anagora.org/foo, anagora.org/foo/bar to execute e.g. <bin/foo.py bar> from your garden.")
+        - Visit e.g. anagora.org/primes/17 to test if 17 is prime.
+        - In general visit anagora.org/foo, anagora.org/foo/bar to execute e.g. <bin/foo.py bar> from your garden.
         """)
 
     def __call__(self, *args, **kwargs):
