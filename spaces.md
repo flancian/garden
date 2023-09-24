@@ -7,4 +7,5 @@
   - [[go]] https://siliconjungle.substack.com/p/spaces
 - a [[thing]].
   - in the [[Agora]], a [[node]].
+  - in the [[Agora]], a [[stoa]].
   - on [[Wikipedia]], an [[article]].
