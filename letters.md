@@ -1,5 +1,2 @@
 - #pull [[open letters]] [[closed letters]]
-- [[trip to x]]
-  - [[japan]]
-    - [[best japanese movies]]
-  - [[sri lanka]]
+
