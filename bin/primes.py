@@ -9,6 +9,17 @@ import math
 # I'm not proud (I am a little bit?).
 PROOF = [] # :)
 
+class RichGroup(click.Group):
+    def format_help(self, ctx, formatter):
+        sio = io.StringIO()
+        console = rich.Console(file=sio, force_terminal=True)
+        console.print("Hello, [bold magenta]World[/bold magenta]!", ":vampire:")
+        formatter.write(sio.getvalue())
+
+@click.group(cls=RichGroup)
+def cli():
+    pass
+
 def factor(n):
     for i in range(2, n+1):
         click.echo(f"Is {i} a factor of {n}, I wonder?")
@@ -40,8 +51,9 @@ def is_prime(n):
     return is_prime[n]
 
 @click.command()
+@click.group(cls=RichGroup)
 @click.argument('n', type=click.INT)
-def prime(n, n0, n1):
+def prime(n):
     """Simple program that factors a number using a [[Sieve of Eratosthenes]]."""
     if is_prime(n):
         click.echo(f"[[{n}]] is prime.")
