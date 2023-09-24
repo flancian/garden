@@ -48,7 +48,7 @@ class AgoraCmd(click.Command):
         """)
 
 @click.command(cls=AgoraCmd)
-@click.option('n', type=click.INT)
+@click.argument('n', type=click.INT)
 def prime(n):
     """Simple program that factors a number using a [[Sieve of Eratosthenes]]."""
     if is_prime(n):
