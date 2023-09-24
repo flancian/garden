@@ -1,2 +1,3 @@
-- an [[essay]].
-  - On the importance of gathering a pro-social rational corpus.
+- An [[essay]].
+  - On the importance of gathering a pro-social, rational good corpus.
+  - The [[Agora]] is a mechanism that tries to aid a community to gather an optimal corpus.
