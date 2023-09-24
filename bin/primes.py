@@ -42,7 +42,10 @@ def is_prime(n):
 
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
-        click.echo("Usage: Visit anagora.org/foo to execute e.g. bin/foo.py, exec/foo.py from your garden.")
+        click.echo("""Usage:
+        - Visit anagora.org/foo to execute e.g. <bin/foo.py>, <exec/foo.py> from your garden.")
+        - Visit anagora.org/foo/1 to execute e.g. <bin/foo.py 1>, <exec/foo.py 1> from your garden.")
+        """)
 
 @click.command(cls=AgoraCmd)
 @click.argument('n', type=click.INT)
