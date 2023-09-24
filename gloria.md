@@ -1,3 +1,3 @@
 - #push [[13]]
-  - Gloria!
+  - Gloria, gloria, gloria!
   - [[Gloria a las maravillas del universo]]!
