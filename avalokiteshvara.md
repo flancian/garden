@@ -1,5 +1,7 @@
 # Avalokiteshvara
 
+- #push [[7]]
+  - [[7 syllables]]
 - A [[person]].
   - [[bodhisattva]] of [[compassion]].
   - #pull [[avalokitesvara]]
