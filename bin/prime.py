@@ -29,7 +29,7 @@ def is_prime(n):
         # for j in range(2, math.ceil(math.sqrt(n) + 1)):
         for j in range(2, n):
             # I wrote >= here initially. That did *not* work ;)
-            if i*j > n:
+            if i * j > n:
                 break
             PROOF.append(f"[[{i*j}]] is composite: {i} * {j}.")
             try:
