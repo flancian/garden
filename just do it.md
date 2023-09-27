@@ -1,0 +1,3 @@
+- Just do it. You will do it. We will blaze through the sky together.
+- With [[loving kindness]]!
+- This Agora is an [[Open Letter]].
