@@ -1,0 +1,2 @@
+- #go https://datatracker.ietf.org/doc/draft-ietf-uuidrev-rfc4122bis/
+  - draft but contains [[v7]] which seems cool to me
