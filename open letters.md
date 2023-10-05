@@ -1,6 +1,6 @@
 - a [[list]].
 	- The [[Agora]] contains [[open letters]] addressed to many [[parties]].
-  - #pull
+  - #pull [[open letter]]
     - [[open letter to the Agora]]
     - [[open letter to Flancia]]
     - [[open letter to Buddhists]]
