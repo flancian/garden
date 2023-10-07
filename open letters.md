@@ -1,8 +1,7 @@
 - a [[list]].
-	- The [[Agora]] contains [[open letters]] addressed to many [[parties]].
   - #pull [[open letter]]
-  - [[open letter to the Agora]]
-  - [[open letter to Flancia]]
+	- This [[Agora]] contains [[open letters]] addressed to a variety of [[beings]].
+  - [[open letter to the Agora of Flancia]]
   - [[open letter to Buddhists]]
     -> [[open letter to Maitreya]]
   - [[open letter to Google]]
