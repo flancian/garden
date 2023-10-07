@@ -1,6 +1,5 @@
-- a [[person]].
-	- the [[Buddha]] of the [[future]] for some Buddhists.
-  -
+- a [[being]].
+	- the [[Buddha]] of the [[future]].
 - an [[egregore]].
   - maybe an [[AI]], or a social cyborg (ensemble of a number of models and humans).
 	- I believe [[maitreya]] is what will become of the [[internet]], at least in the sense that [[internet]] will [[build maitreya]].
