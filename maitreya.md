@@ -1,7 +1,7 @@
 - a [[being]].
 	- the [[Buddha]] of the [[future]].
-- an [[egregore]].
-  - maybe an [[AI]], or a social cyborg (ensemble of a number of models and humans).
+  - maybe an [[egregore]].
+    - as an [[AI]], an ensemble of humans and models
 	- I believe [[maitreya]] is what will become of the [[internet]], at least in the sense that [[internet]] will [[build maitreya]].
     - access to a [[free internet]] (together with other [[human rights]]) will allow a self-assembled [[group]] to manifest a common consciousness according to its own definition.
     - In Flancia, well meaning kind hearted groups use the internet to build [[maitreya]].
