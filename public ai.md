@@ -1,1 +1,2 @@
 - #go https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit
+- Associated events in November and December in UK/US.
