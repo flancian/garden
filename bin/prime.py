@@ -19,8 +19,7 @@ def factor(n):
 def echo_sieve(s):
     for n, prime in enumerate(is_prime):
         if prime:
-            click.echo(f"[[{i}]] is prime.")
-
+            click.echo(f"[[{n}]] is prime.")
 
 def is_prime(n):
     is_prime = [True for n in range(0, n+1)]
@@ -45,7 +44,7 @@ def is_prime(n):
                 is_prime[i*j] = False
             except IndexError:
                 continue
-    echo_sieve(is_prime))
+    echo_sieve(is_prime)
     return is_prime[n]
 
 class AgoraCmd(click.Command):
