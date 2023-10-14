@@ -22,9 +22,9 @@ def echo_sieve(s):
             click.echo(f"[[{n}]] is prime.")
 
 def is_prime(n):
-    is_prime = [True for n in range(0, n+1)]
+    sieve = [True for n in range(0, n+1)]
     upto = math.ceil(math.sqrt(n))
-    for i, _ in enumerate(is_prime):
+    for i, _ in enumerate(sieve):
         # click.echo(f"i: {i}")
         if i < 2:
             continue
@@ -32,7 +32,7 @@ def is_prime(n):
         if i > upto:
             break
         # If this is a known composite, then we've already crossed off its multiples when we iterated over its primes.
-        if not is_prime[i]:
+        if not sieve[i]:
             continue
         # for j in range(2, math.ceil(math.sqrt(n) + 1)):
         for j in range(2, n):
@@ -41,11 +41,11 @@ def is_prime(n):
                 break
             PROOF.append(f"[[{i*j}]] is composite: {i} * {j}.")
             try:
-                is_prime[i*j] = False
+                sieve[i*j] = False
             except IndexError:
                 continue
-    echo_sieve(is_prime)
-    return is_prime[n]
+    echo_sieve(sieve)
+    return sieve[n]
 
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
