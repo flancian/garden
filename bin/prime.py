@@ -8,7 +8,7 @@ import math
 import sys
 
 # I'm not proud (I am a little bit?).
-global SIEVE
+SIEVE = []
 PROOF = [] # :)
 
 def factor(n):
@@ -43,7 +43,7 @@ def is_prime(n):
                 SIEVE[i*j] = False
             except IndexError:
                 continue
-    return n >= 2 and SIEVE[n]
+    return (n >= 2 and SIEVE[n], SIEVE)
 
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
@@ -70,7 +70,8 @@ class AgoraCmd(click.Command):
 @click.argument('n', type=click.INT)
 def prime(n):
     """Simple program that factors a number using a [[Sieve of Eratosthenes]]."""
-    if is_prime(n):
+    p, sieve = is_prime(n)
+    if p:
         click.echo(f"[[{n}]] is prime.")
     else:
         click.echo(f"{n} is not prime. Want proof? :)")
