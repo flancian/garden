@@ -36,7 +36,7 @@ def rand(n):
     for i in range(2, n+1):
         r = random.randint(1, i)
         if i == 2:
-            proof.append(f"You throw a fair coin and it lands [[{bool(r)}]].")
+            proof.append(f"You throw a fair coin and it lands [[{bool(r-1)}]].")
         else:
             proof.append(f"You throw a die of [[{i}]] sides and it comes up [[{r}]].")
         
