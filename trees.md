@@ -1,7 +1,7 @@
 # Trees
 
-- a [[list]].
-  - [[pull]] [[tree]]
+- a [[list]] of items of type tree :)
+  - #pull [[tree]]
 - a [[being]].
   - [[pull]] a form of [[graph]]
   - https://twitter.com/flancian/status/1355504964181889024
