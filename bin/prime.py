@@ -9,6 +9,7 @@ import sys
 
 # I'm not proud (I am a little bit?).
 PROOF = [] # :)
+LOG = [] # :)
 
 def factor(n):
     for i in range(2, n+1):
@@ -26,6 +27,7 @@ def is_prime(n):
             break
         # If this is a known composite, then we've already crossed off its multiples when we iterated over its primes.
         if not is_prime[i]:
+            LOG.append(f"[[{i*j}]] is composite: {i} * {j}.")
             continue
         # for j in range(2, math.ceil(math.sqrt(n) + 1)):
         for j in range(2, n):
@@ -70,6 +72,8 @@ def prime(n):
     else:
         click.echo(f"{n} is not prime. Want proof? :)")
         click.echo("\n".join([line for line in PROOF if f'[[{n}]]' in line]))
+        click.echo(f"Also: ")
+        click.echo("\n".join([line for line in LOG if f'[[{n}]]' in line]))
 
 if __name__ == '__main__':
     prime()
