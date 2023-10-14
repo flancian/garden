@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-# First time I use [[click]] ~ anagora.org/click, it looks cool like the other [[pallets project]], [[flask]], which we use in [[agora server]].
 # https://click.palletsprojects.com/en/8.1.x/arguments/
 # https://click.palletsprojects.com/en/8.1.x/options/
+# boilerplate shamelessly cloned from prime.py.
 
 import click
 import math
