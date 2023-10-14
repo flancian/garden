@@ -15,10 +15,12 @@ def factor(n):
         click.echo(f"Is {i} a factor of {n}, I wonder?")
 
 def print_sieve(sieve):
+    primes = []
     for n, prime in enumerate(sieve):
         if n >= 2 and prime:
-
-            click.echo(f"{n}")
+            primes.append(n)
+    return ", ".join(output)
+     
 
 def is_prime(n):
     sieve = [True for n in range(0, n+1)]
