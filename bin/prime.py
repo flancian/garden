@@ -40,7 +40,7 @@ def is_prime(n):
                 is_prime[i*j] = False
             except IndexError:
                 continue
-    click.echo(f"Sieve: {is_prime}.")
+    print_sieve(is_prime)
     return is_prime[n]
 
 class AgoraCmd(click.Command):
