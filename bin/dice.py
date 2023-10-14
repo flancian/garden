@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
+#
 # https://click.palletsprojects.com/en/8.1.x/arguments/
 # https://click.palletsprojects.com/en/8.1.x/options/
-# boilerplate shamelessly cloned from prime.py.
+#
+# boilerplate shamelessly cloned from prime.py :).
 
 import click
 import math
