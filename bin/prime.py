@@ -15,7 +15,7 @@ def factor(n):
     for i in range(2, n+1):
         click.echo(f"Is {i} a factor of {n}, I wonder?")
 
-def echo_sieve(sieve):
+def print_sieve(sieve):
     for n, prime in enumerate(sieve):
         if n >= 2 and prime:
             click.echo(f"[[{n}]] is prime.")
@@ -77,7 +77,7 @@ def prime(n):
         click.echo(f"{n} is not prime. Want proof? :)")
         click.echo("\n".join([line for line in PROOF if f'[[{n}]]' in line]))
 
-    click.echo(sieve)
+    print_sieve(sieve)
 
 if __name__ == '__main__':
     prime()
