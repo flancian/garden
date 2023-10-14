@@ -17,7 +17,7 @@ def factor(n):
         click.echo(f"Is {i} a factor of {n}, I wonder?")
 
 def is_prime(n):
-    SIEVE = [True for n in range(0, n+1)]
+    is_prime = [True for n in range(0, n+1)]
     upto = math.ceil(math.sqrt(n))
     for i, _ in enumerate(is_prime):
         # click.echo(f"i: {i}")
@@ -40,7 +40,7 @@ def is_prime(n):
                 is_prime[i*j] = False
             except IndexError:
                 continue
-    # click.echo(f"Sieve: {is_prime}.")
+    click.echo(f"Sieve: {is_prime}.")
     return is_prime[n]
 
 class AgoraCmd(click.Command):
