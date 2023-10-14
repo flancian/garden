@@ -14,4 +14,4 @@
   - Or when you open them
   - (...)
   - As we [[merge]] we'll [[fork]]!
-    - As we [[fork]] we'll [[merge]]!
+    - As we [[fork]] we'll [[merge]] we'll [[fork]]!
