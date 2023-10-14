@@ -28,7 +28,6 @@ def is_prime(n):
             break
         # If this is a known composite, then we've already crossed off its multiples when we iterated over its primes.
         if not is_prime[i]:
-            LOG.append(f"[[{i*j}]] is composite: {i} * {j}.")
             continue
         # for j in range(2, math.ceil(math.sqrt(n) + 1)):
         for j in range(2, n):
@@ -40,7 +39,7 @@ def is_prime(n):
                 is_prime[i*j] = False
             except IndexError:
                 continue
-    print_sieve(is_prime)
+    echo_sieve(is_prime))
     return is_prime[n]
 
 class AgoraCmd(click.Command):
