@@ -44,7 +44,7 @@ def is_prime(n):
                 sieve[i*j] = False
             except IndexError:
                 continue
-    echo_sieve(sieve)
+    # echo_sieve(sieve)
     return n >= 2 and sieve[n]
 
 class AgoraCmd(click.Command):
