@@ -18,6 +18,7 @@ def factor(n):
 
 def echo_sieve(sieve):
     for n, prime in enumerate(sieve):
+        if i >= 2 and prime:
         if prime:
             click.echo(f"[[{n}]] is prime.")
 
