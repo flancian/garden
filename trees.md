@@ -12,4 +12,5 @@
   - All the trees you would like to meet
   - Are always there when you close your eyes
   - Or when you open them
-  - As we merge we'll fork!
+  - (...)
+  - As we [[merge]] we'll [[fork]]!
