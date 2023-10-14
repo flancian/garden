@@ -78,7 +78,7 @@ def prime(n):
         click.echo(f"{n} is not prime. Want proof? :)")
         click.echo("\n".join([line for line in PROOF if f'[[{n}]]' in line]))
 
-    click.echo(f"Primes up to {n}: {print_sieve(sieve)}.")
+    click.echo(f"\nPrimes up to {n}: {print_sieve(sieve)}.")
 
 if __name__ == '__main__':
     prime()
