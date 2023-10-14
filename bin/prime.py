@@ -10,7 +10,6 @@ import sys
 # I'm not proud (I am a little bit?).
 SIEVE = []
 PROOF = [] # :)
-LOG = [] # :)
 
 def factor(n):
     for i in range(2, n+1):
@@ -76,6 +75,7 @@ def prime(n):
     else:
         click.echo(f"{n} is not prime. Want proof? :)")
         click.echo("\n".join([line for line in PROOF if f'[[{n}]]' in line]))
+        echo_sieve(SIEVE)
 
 if __name__ == '__main__':
     prime()
