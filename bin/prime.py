@@ -8,6 +8,7 @@ import math
 import sys
 
 # I'm not proud (I am a little bit?).
+SIEVE = []
 PROOF = [] # :)
 LOG = [] # :)
 
@@ -16,7 +17,7 @@ def factor(n):
         click.echo(f"Is {i} a factor of {n}, I wonder?")
 
 def is_prime(n):
-    is_prime = [True for n in range(0, n+1)]
+    SIEVE = [True for n in range(0, n+1)]
     upto = math.ceil(math.sqrt(n))
     for i, _ in enumerate(is_prime):
         # click.echo(f"i: {i}")
