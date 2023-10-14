@@ -1,1 +1,1 @@
-- A [[tool]].
+- You have a [[set]] of [[dice]] in your [[bag of holding]].
