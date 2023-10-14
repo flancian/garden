@@ -8,7 +8,6 @@ import math
 import sys
 
 # I'm not proud (I am a little bit?).
-SIEVE = []
 PROOF = [] # :)
 
 def factor(n):
@@ -18,12 +17,13 @@ def factor(n):
 def print_sieve(sieve):
     for n, prime in enumerate(sieve):
         if n >= 2 and prime:
-            click.echo(f"[[{n}]] is prime.")
+
+            click.echo(f"{n}")
 
 def is_prime(n):
-    SIEVE = [True for n in range(0, n+1)]
+    sieve = [True for n in range(0, n+1)]
     upto = math.ceil(math.sqrt(n))
-    for i, _ in enumerate(SIEVE):
+    for i, _ in enumerate(sieve):
         # click.echo(f"i: {i}")
         if i < 2:
             continue
@@ -31,7 +31,7 @@ def is_prime(n):
         if i > upto:
             break
         # If this is a known composite, then we've already crossed off its multiples when we iterated over its primes.
-        if not SIEVE[i]:
+        if not sieve[i]:
             continue
         # for j in range(2, math.ceil(math.sqrt(n) + 1)):
         for j in range(2, n):
@@ -40,10 +40,10 @@ def is_prime(n):
                 break
             PROOF.append(f"[[{i*j}]] is composite: {i} * {j}.")
             try:
-                SIEVE[i*j] = False
+                sieve[i*j] = False
             except IndexError:
                 continue
-    return (n >= 2 and SIEVE[n], SIEVE)
+    return (n >= 2 and sieve[n], sieve)
 
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
@@ -77,7 +77,7 @@ def prime(n):
         click.echo(f"{n} is not prime. Want proof? :)")
         click.echo("\n".join([line for line in PROOF if f'[[{n}]]' in line]))
 
-    print_sieve(sieve)
+    click.echo(print_sieve(sieve))
 
 if __name__ == '__main__':
     prime()
