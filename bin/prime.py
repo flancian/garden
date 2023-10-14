@@ -19,8 +19,7 @@ def print_sieve(sieve):
     for n, prime in enumerate(sieve):
         if n >= 2 and prime:
             primes.append(n)
-    return ", ".join(output)
-     
+    return ", ".join(primes)
 
 def is_prime(n):
     sieve = [True for n in range(0, n+1)]
