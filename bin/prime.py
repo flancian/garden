@@ -16,6 +16,12 @@ def factor(n):
     for i in range(2, n+1):
         click.echo(f"Is {i} a factor of {n}, I wonder?")
 
+def echo_sieve(s):
+    for n, prime in enumerate(is_prime):
+        if prime:
+            click.echo(f"[[{i}]] is prime.")
+
+
 def is_prime(n):
     is_prime = [True for n in range(0, n+1)]
     upto = math.ceil(math.sqrt(n))
