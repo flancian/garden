@@ -72,7 +72,7 @@ def prime(n):
     else:
         click.echo(f"{n} is not prime. Want proof? :)")
         click.echo("\n".join([line for line in PROOF if f'[[{n}]]' in line]))
-        click.echo(f"Also: ")
+        # Also...
         click.echo("\n".join([line for line in LOG if f'[[{n}]]' in line]))
 
 if __name__ == '__main__':
