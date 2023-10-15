@@ -18,7 +18,7 @@ def print_sieve(sieve):
     primes = []
     for n, prime in enumerate(sieve):
         if n >= 2 and prime:
-            primes.append(str(n))
+            primes.append('[[' + str(n) + ']]')
     return ", ".join(primes)
 
 def is_prime(n):
@@ -73,9 +73,9 @@ def prime(n):
     """Simple program that factors a number using a [[Sieve of Eratosthenes]]."""
     p, sieve = is_prime(n)
     if p:
-        click.echo(f"*{n}* is *prime*.")
+        click.echo(f"**{n}** is **prime**.")
     else:
-        click.echo(f"*{n}* is *not prime*. Want proof? :)")
+        click.echo(f"**{n}** is **not prime**. Want proof? :)")
         click.echo("\n".join([line for line in PROOF if f'[[{n}]]' in line]))
 
     click.echo(f"\nPrimes up to {n}: {print_sieve(sieve)}.")
