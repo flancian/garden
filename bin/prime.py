@@ -39,7 +39,7 @@ def is_prime(n):
             # I wrote >= here initially. That did *not* work ;)
             if i * j > n:
                 break
-            PROOF.append(f"{i*j} is composite: [[{i}]] * [[{j}]].")
+            PROOF.append(f"[[{i*j}]] is composite: {i} * {j}.")
             try:
                 sieve[i*j] = False
             except IndexError:
