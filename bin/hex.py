@@ -33,7 +33,7 @@ class AgoraCmd(click.Command):
 @click.command(cls=AgoraCmd)
 @click.argument('n', type=click.INT)
 def hexnum(n, centered=True):
-    """Calculates the first n hex numbers: buggy for now, it both under- and over-prints :)."""
+    """Calculates the first n hex numbers just for fun :)"""
 
     # Going through this from first principles (from memory/deducing this) for fun :) 
 
