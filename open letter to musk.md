@@ -1,2 +1,3 @@
 - an [[open letter]].
   - #go https://docs.google.com/document/d/1RpO8zn2DbG6_pUiLmtk6aoJawZV3UA_cz8Z57jMEubg/edit
+  - #pull [[open letter to elon musk]]
