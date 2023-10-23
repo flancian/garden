@@ -1,0 +1,4 @@
+- a [[tool]].
+  - [[videoconferencing]]. [[jitsi]] based.
+  - #go https://framatalk.org/framatalk 
+    - drops you straight into call [[framatalk]], beautiful.
