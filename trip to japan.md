@@ -10,4 +10,4 @@
   - [[31]]: Museum day -- visited three museums in Kyoto. Then took the metro to Osaka. Had [[Takoyaki]], then ended the day (night) in a very packed (due to Halloween) [[Dotonbori]].
 - [[November 2023]]
   - [[1]]: Walked in Osaka. Had a very nice pastry. Then an interesting experience in a grilling place.
-  -
+  - [[2]]: Took the [[Shinkansen]] to Tokyo. Went to [[Mori Museum]] and the [[Google]] office in [[Roppongi]].
