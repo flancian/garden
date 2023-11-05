@@ -1,2 +1,3 @@
 - [[October 2023]]
-  - [[23]] we arrived in [[Tokyo]] as the sun was setting after a long but pleasant journey; we had a short layover in [[Hong Kong]].
+  - [[23]] we arrived in [[Tokyo]] as the sun was setting after a long but pleasant journey; we had a short layover in [[Hong Kong]]. We stayed in [[Shinjuku]].
+  - [[24]]
