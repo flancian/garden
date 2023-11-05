@@ -11,5 +11,5 @@
 - [[November 2023]]
   - [[1]]: Walked in Osaka. Had a very nice pastry. Then an interesting experience in a grilling place.
   - [[2]]: Took the [[Shinkansen]] to Tokyo. Went to [[Mori Museum]] and the [[Google]] office in [[Roppongi]].
-  - [[3]]: Tokyo museum day on culture day (so they were all free). Went to the national museum(s) in [[Ueno]].
-  - [[4]]: Tokyo.
+  - [[3]]: Tokyo museum day on culture day (so they were all free). Went to the national museum(s) in [[Ueno]]. [[Ueno park]] with its beautiful lotus-filled lake.
+  - [[4]]: Last day in Tokyo and Japan. [[Meguro]], then [[Hajuku]] (check spelling?). Had vegetarian ramen and gyoza.
