@@ -11,3 +11,5 @@
 - [[November 2023]]
   - [[1]]: Walked in Osaka. Had a very nice pastry. Then an interesting experience in a grilling place.
   - [[2]]: Took the [[Shinkansen]] to Tokyo. Went to [[Mori Museum]] and the [[Google]] office in [[Roppongi]].
+  - [[3]]: Tokyo museum day.
+  - [[4]]: Tokyo.
