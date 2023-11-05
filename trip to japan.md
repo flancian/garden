@@ -4,6 +4,6 @@
   - [[25]]: Asakusa, Akihabara, then went up to a very tall building. 
   - [[26]]: Took the train to Hakone. We stayed in a beautiful old school hotel, [[Fujiya]]. We went to the [[Onsen]] both days.
   - [[27]]: Took the bus to the lake and walked alongside it. We visited a [[Shinto]] shrine and had dinner next to the train station.
-  - [[28]]: Travelled to Kyoto in the [[Shinkansen]]. We went to the park at night.
-  - [[29]]: Went to the Shinto shrine up at the top of a local mountain.
+  - [[28]]: Travelled to Kyoto in the [[Shinkansen]]. We went to the park at night. Had conveyor belt sushi.
+  - [[29]]: Went to the Shinto shrine up at the top of a local mountain. Had [[Okonomiyaki]].
   - [[30]]: Bought tea, visited the gardens of the emperor's palace. Then wandered in a relatively dead neighborhood. Then went to a Buddhist temple that was opened by night and visited its bamboo grove.
