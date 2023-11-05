@@ -1,7 +1,7 @@
 - [[October 2023]]
   - [[23]]: We arrived in [[Tokyo]] as the sun was setting after a long but pleasant journey; we had a short layover in [[Hong Kong]]. We stayed in [[Shinjuku]], had sushi around midnight in a place that closes at 5am (!) and is also good.
   - [[24]]: Shibuya.
-  - [[25]]: Asakusa. 
+  - [[25]]: Asakusa, Akihabara, then went up to a very tall building. 
   - [[26]]: Took the train to Hakone. We stayed in a beautiful old school hotel, [[Fujiya]]. We went to the [[Onsen]] both days.
   - [[27]]: Took the bus to the lake and walked alongside it. We visited a [[Shinto]] shrine and had dinner next to the train station.
   - [[28]]: Travelled to Kyoto in the [[Shinkansen]]. We went to the park at night.
