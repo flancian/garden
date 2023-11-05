@@ -7,7 +7,7 @@
   - [[28]]: Travelled to Kyoto in the [[Shinkansen]]. We went to the park at night. Had conveyor belt sushi.
   - [[29]]: Went to the Shinto shrine up at the top of a local mountain. Had [[Okonomiyaki]].
   - [[30]]: Bought tea, visited the gardens of the emperor's palace. Then wandered in a relatively dead neighborhood. Then went to a Buddhist temple that was opened by night and visited its bamboo grove.
-  - [[31]]: Museum day -- visited three museums in Kyoto. Then took the metro to Osaka. Ended the day (night) in [[Dotonbori]].
+  - [[31]]: Museum day -- visited three museums in Kyoto. Then took the metro to Osaka. Had [[Takoyaki]], then ended the day (night) in a very packed (due to Halloween) [[Dotonbori]].
 - [[November 2023]]
   - [[1]]: Walked in Osaka. Had a very nice pastry. Then an interesting experience in a grilling place.
   -
