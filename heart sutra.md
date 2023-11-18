@@ -22,3 +22,18 @@ The same is true of [[Feelings]],
   [[Perceptions]],
   [[Mental Formations]],
   and [[Consciousness]].
+
+<hr />
+
+Sariputra:
+all phenomena bear the mark of emptiness
+their nature is that of
+no birth no death,
+   no being or non-being
+   no defilement or purity,
+   no increasing or decreasing.
+
+That is why in Emptiness,
+     Body, Feelings, Perceptions, Mental Formations and Consciousness are not separate entities.
+
+
