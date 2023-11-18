@@ -1,0 +1,1 @@
+- [[Flancia]] can be seen as a [[book of patterns]] with [[108 chapters]].
