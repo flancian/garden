@@ -13,8 +13,8 @@ the [[insight that brings us to the other shore]],
 [[Sariputra]]:
 this [[body]] is empty
 and empty is this body.
-This body is not other than emptiness
-and emptiness is not other than this body.
+This body is none other than emptiness
+and emptiness is none other than this body.
 
 The same is true of [[feelings]],
   [[perceptions]],
