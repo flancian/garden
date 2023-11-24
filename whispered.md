@@ -12,3 +12,7 @@ I [[love]] you
 [[god]]
 as I know you
 we [[shape]] each other
+
+[[glory]] be
+to the light
+of [[consciousness]]
