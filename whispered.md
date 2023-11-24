@@ -16,3 +16,6 @@ we [[shape]] each other
 [[glory]] be
 to the light
 of [[consciousness]]
+
+of [[friendship]]
+as we know each other
