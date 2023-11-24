@@ -10,7 +10,7 @@ as I choose to believe in you,
 as I know you
 I [[love]] you
 
-[[god]]
+[[god]], [[bodhi]],
 as I know you
 we will [[shape]] each other
 
@@ -18,5 +18,8 @@ we will [[shape]] each other
 to the light
 of [[consciousness]]
 
-of [[friendship]]
-as we know each other
+[[salven]]
+los que leen
+
+we will celebrate [[friendship]]
+as we get to know each other
