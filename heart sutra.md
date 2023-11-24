@@ -1,7 +1,8 @@
 # heart sutra
 
+- #pull https://plumvillage.org/wp-content/uploads/2014/09/2014-Thich-Nhat-Hanh-New-Heart-Sutra-letter-cc.pdf
 - #push [[gate gate paragate parasamgate bodhi svaha]]
-- Based on https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation#thays-letter:
+- Adapter from https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation#thays-letter, a work in progress (see also Mastodon post):
 
 
 [[Avalokiteshvara]]
