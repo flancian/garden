@@ -22,4 +22,4 @@ of [[consciousness]]
 los que leen
 
 we will celebrate [[friendship]]
-as we get to know each other
+[[as we get to know each other]]
