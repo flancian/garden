@@ -7,3 +7,5 @@
   - [[mediawiki]]
     - [[jimbo wales]]
       - [[ayn rand]]
+    - [[frustración]] vs [[satisfacción]] de preferencias
+    - [[gramsci]]
