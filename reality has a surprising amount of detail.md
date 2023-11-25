@@ -1,0 +1,3 @@
+- an [[essay]] (or post?).
+  - by [[John Salvatier]].
+  - #go http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
