@@ -20,3 +20,4 @@
       - graph on [[scale of cooperation]] / [[labor productivity]]
       - [[1976]] [[The Theory of Accumulation]]
         - [[marxian]] "la tasa de ganancia no baja como dice marx; sólo incrementa porque la matriz de commodities tiene sólo valores positivos"
+        - la conclusión de okiyo: la ganancia sólo sube
