@@ -18,3 +18,4 @@
       - [[maldición holandesa]]
     - [[nobuo okishio]]
       - graph on [[scale of cooperation]] / [[labor productivity]]
+      - [[1976]] [[The Theory of Accumulation]]
