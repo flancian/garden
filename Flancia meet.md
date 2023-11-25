@@ -19,3 +19,4 @@
     - [[nobuo okishio]]
       - graph on [[scale of cooperation]] / [[labor productivity]]
       - [[1976]] [[The Theory of Accumulation]]
+        - [[marxian]] "la tasa de ganancia no baja como dice marx; sólo incrementa"
