@@ -24,3 +24,4 @@
         - la conclusión de okiyo: la ganancia sólo sube
     - [[spritz]] y sus patentes
     - [[Arthashastra]]
+    - [[Bharat Ganarajya]] ~ [[India]]: https://en.wikipedia.org/wiki/India
