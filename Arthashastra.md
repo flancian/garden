@@ -1,1 +1,1 @@
-- #go Arthashastra
+- #go https://en.wikipedia.org/wiki/Arthashastra
