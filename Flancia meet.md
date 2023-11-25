@@ -13,6 +13,8 @@
     - [[optimismo]] [[pesimismo]]
       - [[maximalismo del optimismo]]
     - [[leonor silvestri]]
+      - [[Qué hacer]] :)
+        - Crítica de [[Lenin]]
     - [[milei]] vs [[maduro]]
       - [[el estado mágico]]
       - [[maldición holandesa]]
