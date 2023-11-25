@@ -5,3 +5,5 @@
 - [[j0lms]]
   - [[gwern]] on [[inclusionism]]
   - [[mediawiki]]
+    - [[jimbo wales]]
+      - [[ayn rand]]
