@@ -9,3 +9,4 @@
       - [[ayn rand]]
     - [[frustración]] vs [[satisfacción]] de preferencias
     - [[gramsci]]
+    - [[claudia goldin]] y [[human capital]]
