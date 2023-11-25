@@ -10,3 +10,5 @@
     - [[frustración]] vs [[satisfacción]] de preferencias
     - [[gramsci]]
     - [[claudia goldin]] y [[human capital]]
+    - [[optimismo]] [[pesimismo]]
+      - [[maximalismo del optimismo]]
