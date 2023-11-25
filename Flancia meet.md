@@ -30,3 +30,6 @@
     - [[Qué hacer]] :)
       - "Agenciar estructuras para-estatales de cooperación."
     - [[Richard Wolff]]
+    - [[Deleuze]] [[Guattari]]
+      - [[anti natalidad]]
+    - [[poemas]] sumarizando con [[Bard]] y [[ChatGPT]]
