@@ -1,1 +1,7 @@
 - Hosted on [[jitsi meet]]: https://meet.jit.si/flancia-meet
+
+# [[2023-11-25]]
+
+- [[j0lms]]
+  - [[gwern]] on [[inclusionism]]
+  - [[mediawiki]]
