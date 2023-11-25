@@ -27,3 +27,5 @@
     - [[spritz]] y sus patentes
     - [[Arthashastra]]
     - [[Bharat Ganarajya]] ~ [[India]]: https://en.wikipedia.org/wiki/India
+    - [[Qué hacer]] :)
+      - "Agenciar estructuras para-estatales de cooperación."
