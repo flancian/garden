@@ -17,3 +17,4 @@
       - [[el estado mágico]]
       - [[maldición holandesa]]
     - [[nobuo okishio]]
+      - graph on [[scale of cooperation]] / [[labor productivity]]
