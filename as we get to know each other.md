@@ -20,3 +20,5 @@ When you lose your [[bodhicitta]], sit down and find it!
 When you find your [[bodhicitta]], lay down and rest!
 
 <hr />
+
+-> [[Venceremos a Moloch]]
