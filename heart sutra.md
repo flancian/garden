@@ -7,7 +7,7 @@
 
 [[Avalokiteshvara]]
 while practicing deeply
-the [[insight that brings us to the other shore]],
+in the [[insight that brings us to the other shore]],
   discovered
   that the [[five Skandhas]] are [[empty]],
   and with this realization
@@ -27,14 +27,19 @@ The same is true of [[Feelings]],
 <hr />
 
 Sariputra:
-all phenomena bear the mark of emptiness
-their nature is that of
+all phenomena bear the mark of emptiness;
+their nature is that of:
 no birth no death,
-   no being or non-being
-   no defilement or purity,
-   no increasing or decreasing.
+   no being no non-being
+   no defilement no purity,
+   no increasing no decreasing.
 
-That is why in Emptiness,
-     Body, Feelings, Perceptions, Mental Formations and Consciousness are not separate entities.
+That is why Emptiness,
+     Body, 
+     Feelings, 
+     Perceptions, 
+     Mental Formations 
+     and Consciousness 
+     are not separate [[self entities]].
 
 
