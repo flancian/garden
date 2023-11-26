@@ -6,4 +6,4 @@ When you regain your [[bodhicitta]], sit down and work!
 
 When you lose your [[bodhicitta]], sit down and find it!
 
-When you gain your [[bodhicitta]], stand up and work!
+When you find your [[bodhicitta]], step up and work!
