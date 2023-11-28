@@ -61,10 +61,10 @@ def hexnum(n, centered=True):
     # -> https://en.wikipedia.org/wiki/Centered_hexagonal_number
     # It is a cubic polynomial and Wikipedia shows how to convince yourself that it works. 
     # Beautiful :)
-    hexnums = [3*n*(n+1)+1 for n in range(0,n+1)]
+    hexnums = [3*n*(n+1)+1 for n in range(0,n)]
 
     for nth, hexnum in enumerate(hexnums):
-        click.echo(f"hex({nth}) is {hexnum}.")
+        click.echo(f"hex({nth+1}) is {hexnum}.")
 
 
 if __name__ == '__main__':
