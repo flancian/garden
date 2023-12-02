@@ -1,4 +1,5 @@
 - an [[adventure]].
+  - #go https://eli.li/december-adventure
   - Do some coding on something that you care about, or that you just find interesting, every day of [[December 2023]].
   - I'm in!
   - My default project will be the [[Agora]] (are you surprised?) :)
