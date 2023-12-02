@@ -1,2 +1,3 @@
 - #pull [[december adventure 2023]] [[december 2023 adventure]]
 - #go https://eli.li/2022/12/9/december-adventure
+- by [[eli]]
