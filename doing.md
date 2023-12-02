@@ -1,0 +1,2 @@
+- from [[flancia meet]] [[2023-12-02]]
+  - [ ] sign up for [[december adventure]] :)
