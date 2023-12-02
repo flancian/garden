@@ -4,6 +4,6 @@
   - I'm in!
   - My default project will be the [[Agora]] (are you surprised?) :)
 
-I started on December 1st, meaning [[2023-12-01]], after midnight -- I think it still counts as I hadn't gone to bed yet at 2AM, and in UTC it was still the first :)
+I started on December 1st, meaning [[2023-12-01]], after midnight -- I think it still counts as I hadn't gone to bed yet at 2AM when I started finally coding the fix for the Agora I had planned, and in UTC it was still the first :)
 
 I learnt from the challenge
