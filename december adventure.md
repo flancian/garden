@@ -1,3 +1,5 @@
-- #pull [[december adventure 2023]] [[december 2023 adventure]]
-- #go https://eli.li/2022/12/9/december-adventure
-- by [[eli]]
+- a [[thing]].
+  - #go https://eli.li/2022/12/9/december-adventure
+  - like [[advent of code]], but chiller.
+  - by [[eli]]
+  - #pull [[december adventure 2023]] [[december 2023 adventure]]
