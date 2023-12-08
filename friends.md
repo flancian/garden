@@ -1,4 +1,4 @@
-- I dedicate this [[agora]], and [[flancia]], to [[you]], my [[friend]]!
+- I dedicate this [[Agora]], and [[Flancia]], to [[you]], my [[friend]]!
 	- #pull [[eight pomodoros for the benefit of all beings]]
 - a [[list]].
 	- #pull [[friend]]
