@@ -1,1 +1,4 @@
 - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfHYcAFzLT-TGLK-3aUOUhhs&si=zzIRENY_GJ6CU7JT
+  - First track: OK
+  - Second track: not my thing I think
+  - Third: knew it
