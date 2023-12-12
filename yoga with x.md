@@ -1,7 +1,7 @@
 # yoga with x
 - a [[project]].
 	- [[mashup]] or [[remix]].
-  - #go https://meet.jit.si/yoga-with-x
+  - #go https://framatalk.org/yoga-with-x
     - I do yoga in public! hop on if interested.
     - I'm a fan of [[Yoga with Adriene]].
     - #pull [[move]] (2022)
@@ -10,7 +10,7 @@
 		- I've been recording some sessions as an example/demo.
       - [[playlist]] https://www.youtube.com/playlist?list=PLofT8_Cv-W-NMgYeb7mtN3M_kBgkYgUjq
 		- this project is:
-      - a [[Youtube playlist]] and potentially.. 
+      - a [[Youtube playlist]] and potentially..
       - a set of tools to make it easier for people to coordinate massively online over platforms such as [[youtube]], focused on doing [[yoga]] together.
 		- [[x]] means any user that does [[yoga with adriene]] or [[yoga with x]] concurrently and wants to share their own experience with others.
     - #push [[2025]]
@@ -34,7 +34,7 @@ Welcome to [[yoga with x]]! This is episode... well, I've stopped counting, but 
 
 Thank you for being here! If you'd like to know more about the project, please refer to https://anagora.org/yoga-with-x.
 
-## [[2022-10-30]] 
+## [[2022-10-30]]
 
 This is [[go/move/30]]. Maybe for the first time with Adriene's full audio?
 I'm privileged to have a dishwasher, in that as in many other ways!

@@ -1,1 +1,4 @@
 - #pull [[meditations on moloch]] [[slay moloch]] [[save moloch]]
+- #push [[open letters]]
+  - [[Open Letter to the Agora of Flancia]]
+  - [[Open Letter to Google]]

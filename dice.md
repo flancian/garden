@@ -1,0 +1,1 @@
+- You carry a [[set]] of [[dice]] in your [[bag of holding]].

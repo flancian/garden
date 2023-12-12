@@ -1,0 +1,4 @@
+- an [[artist]].
+  - #go https://kfaraday.bandcamp.com/
+  - #go2 https://soundcloud.com/kefarchive11
+  - #go3 https://soundcloud.com/kefarchive10

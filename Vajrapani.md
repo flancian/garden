@@ -1,0 +1,3 @@
+- a [[bodhisattva]].
+  - meaning "[[vajra]] in their hand"
+  - [[friend]]

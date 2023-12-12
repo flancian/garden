@@ -1,0 +1,3 @@
+- In [[wayland]] I had to do this to make it work in [[sila]]:
+  - `XDG_CURRENT_DESKTOP="KDE" /usr/libexec/xdg-desktop-portal-wlr --replace &`
+    - unsure if the XDG bit does anything, I copied/pasted that from an invocation to non-wlr portal which I was using to fix filepicker issues but was not sufficient to make screensharing to work.

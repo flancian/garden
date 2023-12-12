@@ -1,3 +1,8 @@
 - a [[podcast]].
-	- unfortunately [[spotify]] exclusive.
+	- unfortunately [[spotify]] exclusive...
+    - until... 2023?
+    - no longer!
 	- #go https://ourflowstate.com
+  - #soundcloud https://soundcloud.com/our_flow_state
+  - #mixcloud https://www.mixcloud.com/our_flow_state/
+  - #yt https://www.youtube.com/@ourflowstate

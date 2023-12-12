@@ -1,0 +1,2 @@
+- [[sheet music]]:
+  - #go https://www.visionmusic.com/manuscript/treblebass.gif

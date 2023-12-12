@@ -1,6 +1,4 @@
 - a [[book]].
   - A [[thing]] you find some day, free on the [[internet]].
-  - Assembled from fragments found in https://flancia.org and https://anagora.org.
-  - #go https://github.com/flancian/flancia
-  - #git [[flancia/git]] 
-  - #pull [[flancia org]] [[flancia doc]]
+  - Assembled from fragments, like those found in https://flancia.org and https://anagora.org.
+  - #pull [[agora doc]] [[flancia doc]]

@@ -1,5 +1,6 @@
 - a [[working group]].
   - #pull [[social coop tech group]]
+  - #go https://meet.mayfirst.org/social-coop-tech
   - #meet https://meet.mayfirst.org/social-coop-tech
   - [[minutes]] https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes
   - [[wiki]] https://git.coop/social.coop/tech/operations/-/wikis/home

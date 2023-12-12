@@ -1,5 +1,7 @@
 - a [[meeting]].
-	- #go https://meet.jit.si/flancia-meet
+	- #oldgo https://meet.jit.si/flancia-meet
+	- #go https://framatalk.org/flancia-meet
+  - #doc https://doc.anagora.org/flancia-meet?edit
   - recurring, just show up if interested :) I attend often but not always.
   - we take notes in the Stoa below or sometimes in the Agora at large (in [[journal]] entries).
   - no [[fomo]], no [[stress]]! 

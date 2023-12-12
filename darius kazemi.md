@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[friend]] (going by [[public view]] at least, or speaking in the Fediverse way, as of 2023.)
+  - #go https://runyourown.social/

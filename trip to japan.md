@@ -1,0 +1,16 @@
+- [[October 2023]]!
+  - [[23]]: We arrived in [[Tokyo]] as the sun was setting after a long but pleasant journey; we had a short layover in [[Hong Kong]]. We stayed in [[Shinjuku]], had sushi around midnight in a place that closes at 5am (!) and is also good.
+  - [[24]]: Shibuya, then Ginza. Had curry in [[Shinjuku]].
+  - [[25]]: Asakusa, Akihabara, then went up to a very tall building. Had sub-par ramen in Asakusa as our first choice was full.
+  - [[26]]: Took the train to Hakone. We stayed in a beautiful old school hotel, [[Fujiya]]. We went to the [[Onsen]] both days.
+  - [[27]]: Took the bus to the lake and walked alongside it. We visited a [[Shinto]] shrine and had dinner next to the train station.
+  - [[28]]: Travelled to Kyoto in the [[Shinkansen]]. We went to the park at night. Had conveyor belt sushi.
+  - [[29]]: Went to the Shinto shrine up at the top of a local mountain. Had [[Okonomiyaki]].
+  - [[30]]: Bought tea, visited the gardens of the emperor's palace. Then wandered in a relatively dead neighborhood. Then went to a Buddhist temple that was opened by night and visited its bamboo grove.
+  - [[31]]: Museum day -- visited three museums in Kyoto. Then took the metro to Osaka. Had [[Takoyaki]], then ended the day (night) in a very packed (due to Halloween) [[Dotonbori]].
+- [[November 2023]]!
+  - [[1]]: Walked in Osaka. Had a very nice pastry. Then an interesting experience in a grilling place.
+  - [[2]]: Took the [[Shinkansen]] to Tokyo. Went to [[Mori Museum]] and the [[Google]] office in [[Roppongi]].
+  - [[3]]: Tokyo museum day on culture day (so they were all free). Went to the national museum(s) in [[Ueno]]. [[Ueno park]] with its beautiful lotus-filled lake.
+  - [[4]]: Last day in Tokyo and Japan. [[Meguro]], then [[Hajuku]] (check spelling?). Had vegetarian ramen and gyoza.
+  - [[5]]: Woke up early for our flight to [[Colombo]].

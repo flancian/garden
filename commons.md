@@ -4,18 +4,18 @@
     - The [[Agora of Flancia]] is a [[knowledge commons]].
 	- #go https://en.wikipedia.org/wiki/Commons
 	- In all matters pertaining the Commons I consider [[doubleloop]] ~ [[@neil]] the steward of this Agora.
-  - The following picks from his notes below:
-		- "beyond [[market]] and [[state]]"
-		- I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets.
-		- recommended [[free, fair and alive]], it's great. from his notes below:
-		- [[commons]] are [[social organisms]], [[social systems]], [[social forms]]
-		- a [[commons]] is not only about [[sharing]] but about creating [[systems]] that produce [[shareable things]]
-		- they enable [[self organized problem solving]]
-		- through social processes that build on the sharing of knowledge and physical resources
-		- they are [[spaces]] that are born out of the impulse to [[help others]]
-		- they bring together solutions to social, political and economic challenges into an integrated whole
-		- [[pull]] [[commoning]] [[ontology]]
-	- [[vera]] (from wiki below)
+    - The following picks from his notes below:
+    - "beyond [[market]] and [[state]]"
+    - I sometimes think of them as [[embedding]] and thus potentially [[regulating]] markets.
+    - recommended [[free, fair and alive]], it's great. from his notes below:
+    - [[commons]] are [[social organisms]], [[social systems]], [[social forms]]
+    - a [[commons]] is not only about [[sharing]] but about creating [[systems]] that produce [[shareable things]]
+    - they enable [[self organized problem solving]]
+    - through social processes that build on the sharing of knowledge and physical resources
+    - they are [[spaces]] that are born out of the impulse to [[help others]]
+    - they bring together solutions to social, political and economic challenges into an integrated whole
+    - [[pull]] [[commoning]] [[ontology]]
+    - [[vera]] (from wiki below)
 		- "The commons is the cultural and natural [[resources]] [[accessible to all]] members of a society, including natural materials such as air, water, and a habitable earth. These resources are held in common, [[not owned privately]]."
 		- [[pragmatix]]
 		- [[garrett hardin]]
