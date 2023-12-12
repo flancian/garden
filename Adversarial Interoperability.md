@@ -7,3 +7,7 @@ Or: [[The Two AIs]]
 Link: https://anagora/adversarial+interoperability
 
 Adversarial must be qualified and quantified immediately: what we set out to achieve is [[Digital Independence]] and increased public benefit, with [[Right Intention]]. If it seems to contradict (maybe temporarily) the alignment of corporations and be against their interests, so be it, because we need to do what is right for the future of [[humanity]] and our [[friends]].
+
+--
+
+TODO: write the rest :)
