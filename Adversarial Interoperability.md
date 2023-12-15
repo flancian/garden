@@ -13,4 +13,4 @@ Adversarial must be qualified and quantified immediately: what we set out to ach
 - [[doing]]:
   - TODO: write the rest :)
   - Maybe after I write to [[Milei]] and [[Musk]]?
-  - Or maybe those letters and this one are entangled, as this concept is part of my proposal to them.
+  - Or maybe those letters and this one are entangled, as this concept is part of my [[proposal]] to them.
