@@ -1,4 +1,4 @@
 - My proposal:
   - #pull [[cooperative competition]]
     - #pull [[for the benefit of all beings]]
-      - in the [[Commons]]!
+      - #pull in the [[Commons]]!
