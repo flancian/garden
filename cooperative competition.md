@@ -1,1 +1,1 @@
-- #pull we will resort to [[adversarial interoperability]] if we have to, but we'd rather share freely!
+- #pull we will resort to [[adversarial interoperability]] if we have to, but we'd rather [[share freely]]!
