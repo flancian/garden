@@ -1,0 +1,1 @@
+- #go https://www.fourmilab.ch/cgi-bin/Earth?img=NASAmMM-l.evif&imgsize=512&gamma=1.32&opt=-l&lat=47&ns=North&lon=7&ew=East&alt=35785&bird=From+elements+below&tle=LAGEOS+1%0D%0A&date=0&utc=2069-07-20+20%3A17%3A43&jd=2476948.34564
