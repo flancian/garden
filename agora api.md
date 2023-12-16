@@ -1,1 +1,5 @@
-- See [[go/agora server/git]] for implemented endpoints, in particular `app/agora.py`.
+- a [[thing]].
+  - See [[go/agora server/git]] for implemented endpoints, in particular `app/agora.py`.
+  - Back here on [[2023-12-16]] thinking of [[markdown on git]] and what comes next.
+    - I think this has to do with the [[Fediverse]]: how to share it and integrate it together.
+    - And, more generally, with [[what we choose to do with the Internet]].
