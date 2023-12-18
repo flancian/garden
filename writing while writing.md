@@ -82,3 +82,5 @@ The term [[data sovereignty]] as per [[wp]] seems to be mostly taken over alread
 --
 
 Back here while [[today]] resolves to [[2023-12-18]] :)
+
+Finally I've added support for -- resulting in an hr element in the Agora, I think I have a bug, let's see :)
