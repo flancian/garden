@@ -79,3 +79,6 @@ The term [[data sovereignty]] as per [[wp]] seems to be mostly taken over alread
 
 [[agora graph]]
 
+--
+
+Back here while [[today]] resolves to [[2023-12-18]] :)
