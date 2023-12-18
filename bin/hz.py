@@ -46,7 +46,9 @@ def hz(freq):
     note_index = n % 12
     note = notes[note_index]
 
-    click.echo(f"hz({freq}) is {note}.")
+    octave = 4 + (n // 12)
+
+    click.echo(f"hz({freq}) is {note}{str(octave)}.")
 
 
 if __name__ == '__main__':
