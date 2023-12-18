@@ -88,3 +88,5 @@ Finally I've added support for -- resulting in an hr element in the Agora, I thi
 --
 
 Fixed now using [[smartypants]] to process -- as em-dash whenever it's in-sentence  :)
+
+-> thinking of [[Right Speech]]

@@ -1,0 +1,2 @@
+- #pull Third aspect of the in the [[eightfold path]].
+- #pull [[three gates of speech]]
