@@ -39,16 +39,15 @@ def hz(freq):
 
     # Number of half steps away.
     n = 12 * math.log2(freq / A4)
-    n = round(n)
+    octave = 4 + (n // 12)
+    n_rounded = round(n)
+    note_index = n_rounded % 12
 
     notes = ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
-
-    note_index = n % 12
     note = notes[note_index]
 
-    octave = 4 + (n // 12)
-
-    click.echo(f"hz({freq}) is {note}{str(octave)}.")
+    # click.echo(f"hz({freq}) is {note}{str(octave)}.")
+    click.echo(f"hz({freq}) is {note}.")
 
 
 if __name__ == '__main__':
