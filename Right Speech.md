@@ -1,2 +1,2 @@
-- #pull Third aspect of the in the [[eightfold path]].
-- #pull [[three gates of speech]]
+- #pull Third aspect of the [[eightfold path]].
+- #pull The [[three gates of speech]] might be useful.
