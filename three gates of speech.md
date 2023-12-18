@@ -1,2 +1,2 @@
-- #pull [[discourse]]
-- #go https://wiki.xxiivv.com/site/discourse.html
+- [[Discourse]]:
+  - #go https://wiki.xxiivv.com/site/discourse.html
