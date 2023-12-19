@@ -6,9 +6,6 @@ import click
 import math
 import sys
 
-# I'm not proud (I am a little bit?).
-PROOF = [] # :)
-
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
         click.echo("""Usage:
@@ -31,7 +28,7 @@ class AgoraCmd(click.Command):
                 sys.exit(exc.exit_code)
 
 @click.command(cls=AgoraCmd)
-@click.argument('freq', type=click.INT)
+@click.argument('freq', type=click.FLOAT)
 def hz(freq):
     """Calculates the closest note to input hz :)"""
 
@@ -39,15 +36,19 @@ def hz(freq):
 
     # Number of half steps away.
     n = 12 * math.log2(freq / A4)
-    octave = 4 + (n // 12)
-    n_rounded = round(n)
-    note_index = n_rounded % 12
+    n = round(n)
+    note_index = n % 12
 
     notes = ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
     note = notes[note_index]
 
-    # click.echo(f"hz({freq}) is {note}{str(octave)}.")
-    click.echo(f"hz({freq}) is {note}.")
+    octave = 4 + (n // 12)
+    if note in ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]:
+        # compensate for the fact that octaves are counted from C
+        octave += 1
+
+    click.echo(f"hz({freq}) is {note}{str(octave)}.")
+    # click.echo(f"hz({freq}) is {note}.")
 
 
 if __name__ == '__main__':
