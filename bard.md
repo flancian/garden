@@ -1,1 +1,4 @@
-- #go https://bard.google.com/
+- a [[process]].
+  - [[assistant]]
+  - #go https://bard.google.com/
+  - #api ?
