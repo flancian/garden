@@ -22,6 +22,7 @@ This is a usable [[nginx snippet]] -- the original docs linked above only provid
 
 The short of it would be:
 
+- Check out in /var/www/pinhole -- I run it under user pinhole. To set up a separate user, you can use e.g. `adduser pinhole` in Debian based systems and then `su - pinhole` to execute the rest.
 - Install [[certbot]] and configure a host running SSL.
 - Install [[uwsgi]] using your distribution package manager or [[pipx]]/[[poetry]] to manage dependencies.
 - Add the following snippet to the host:
