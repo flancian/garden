@@ -1,4 +1,5 @@
 - a [[process]].
   - [[assistant]]
   - #go https://bard.google.com/
-  - #api ?
+  - #api https://github.com/dsdanielpark/Bard-API
+    - unofficial?
