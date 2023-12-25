@@ -1,0 +1,2 @@
+- For the benefit of all being, hopefully
+  - Meaning truly with hope
