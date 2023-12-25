@@ -13,3 +13,27 @@ Trying this out on [[2023-12-25]] :) I got it to run in dev mode as such:
 ```
 
 Now considering whether I take the step to set up nginx to serve this in a way 'readable' to ActivityPub ecosystem as per instructions in [[go/pinhole]] :)
+
+--
+
+I did :)
+
+This is a usable [[nginx snippet]] -- the original docs linked above only provide the equivalent for Apache2, which I don't use nowadays.
+
+The short of it would be:
+
+- Install [[certbot]] and configure a host running SSL.
+- Install [[uwsgi]] using your distribution package manager or [[pipx]]/[[poetry]] to manage dependencies.
+- Add the following snippet to the host:
+
+```
+location / {
+  include uwsgi_params;
+  uwsgi_pass unix:/var/www/pinhole/pinhole.sock;
+  # Set the parameters for the uWSGI application
+  uwsgi_param UWSGI_PYHOME /var/www/pinhole;
+  uwsgi_param UWSGI_CHDIR /var/www/pinhole;
+  uwsgi_param UWSGI_SCRIPT pinhole:application;
+  uwsgi_param UWSGI_THREADS 5;
+  }
+```
