@@ -1,6 +1,7 @@
 - a [[bridge]].
   - [[bluesky]] [[fediverse]]
   - #go https://fietkau.software/pinhole
+  - #git https://fietkau.software/Pinhole.git
 
 Trying this out on [[2023-12-25]] :) I got it to run in dev mode as such:
 
