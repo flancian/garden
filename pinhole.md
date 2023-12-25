@@ -61,4 +61,4 @@ die-on-term = true
 poetry run uwsgi uwsgi.ini
 ```
 
-Run :) Or optionally set up a [[systemd service]].
+Run and restart nginx :) Or optionally set up a [[systemd]] user service.
