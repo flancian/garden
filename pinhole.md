@@ -38,3 +38,17 @@ location / {
   uwsgi_param UWSGI_THREADS 5;
   }
 ```
+
+- Set up uwsgi. I created the following uwsgi.ini and ./run-uwsgi.sh scripts:
+
+```
+>
+>
+```
+
+```
+>
+>
+```
+
+Run :)
