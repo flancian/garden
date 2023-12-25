@@ -42,12 +42,23 @@ location / {
 - Set up uwsgi. I created the following uwsgi.ini and ./run-uwsgi.sh scripts:
 
 ```
+[uwsgi]
+# module = app:create_app()
+touch-reload = /tmp/pinhole-restart
+home = /home/pinhole/.cache/pypoetry/virtualenvs/pinhole-_elcgCn9-py3.11
+master = true
+processes = 6
+socket = /var/www/pinhole/pinhole.sock
+chmod-socket = 666
+vacuum = true
+die-on-term = true
+```
 >
+>
+```
+#!/bin/bash
+
+poetry run uwsgi uwsgi.ini
 ```
 
-```
->
->
-```
-
-Run :)
+Run :) Or optionally set up a [[systemd service]].
