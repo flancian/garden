@@ -62,3 +62,5 @@ poetry run uwsgi uwsgi.ini
 ```
 
 Restart nginx and run :) Or optionally set up a [[systemd]] user service.
+
+I tried to make it work without uwsgi, using just a reverse proxy to the flask dev server, and for some reason it didn't work. Maybe it was some unrelated complication having to do with some mis-configuration on that mode, but I just moved on and went the uwsgi way as I already run the [[Agora]] like this.
