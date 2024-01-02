@@ -1,5 +1,5 @@
 - Part of [[open letters]].
-  - #push [[Javier Milei]]
+  - [[Javier Milei]]:
     - #pull [[carta abierta a milei]]
     - #pull [[milei]]
 
