@@ -6,6 +6,7 @@
     - I'm a fan of [[Yoga with Adriene]].
     - #pull [[move]] (2022)
     - #pull [[center]] (2023)
+    - #pull [[flow]] (2024)
     - I usually announce it on [[twitter]]/[[mastodon]]
 		- I've been recording some sessions as an example/demo.
       - [[playlist]] https://www.youtube.com/playlist?list=PLofT8_Cv-W-NMgYeb7mtN3M_kBgkYgUjq
