@@ -1,8 +1,5 @@
 # Flow
 
-- a [[30 days]] cycle with [[Adriene]] and [[yoga with x]]
-  - #1 https://www.youtube.com/watch?v=Qbnpbqd-jhQ
-  - #2 https://www.youtube.com/watch?v=4rZAQ2LfDAs
 - a [[state]]
   - [[mental state]] [[desirable]]
   - #wp https://en.wikipedia.org/wiki/Flow_(psychology)
@@ -16,3 +13,11 @@
 I don't enter flow as often as I would like and that usually frustrates me; it's low key frustration but frustation nevertheless, and it builds up the longer it is sustained. It's like a part of my brain knows that we should get back to it, but life gets in the way; or, most often, I just procrastinate on triggering the right conditions.
 
 Sometimes I like to get into flow with a [[quick fix]].
+
+--
+
+- a [[calendar]].
+  - [[30 days]] of [[yoga with Adriene]] and [[yoga with x]]
+  - #1 https://www.youtube.com/watch?v=Qbnpbqd-jhQ
+  - #2 https://www.youtube.com/watch?v=4rZAQ2LfDAs
+
