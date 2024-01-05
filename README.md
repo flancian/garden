@@ -10,7 +10,7 @@
 
 ## Navigating this garden
 
-- Please use the search function in https://anagora.org, or just begin by browsing one of the following popular nodes (in the sense that they are highly connected):
+- Please use the search function in the [[Agora of Flancia]] as shown above, or begin by browsing one of the following starting points which tend to be interestingly connected :)
   - [[person]]
   - [[thing]]
   - [[idea]]
