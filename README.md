@@ -1,7 +1,7 @@
 # Welcome to Flancian's digital garden!
 
 - This is my [[digital garden]] or [[personal knowledge graph]].
-  - This garden is part of the [Agora](https://anagora.org/agora) and can be found rendered in https://anagora.org/.
+  - This garden is part of the [Agora of Flancia](https://anagora.org/agora), an experimental social knowledge graph, and can be found rendered with others in https://anagora.org/.
   - If you're viewing this on Github, Gitlab or some other [[git]] host, you will likely have a suboptimal experience and [[wikilinks]] may not work.
   - If you'd like help setting up a [[digital garden]] like this one for yourself, please reach out to me in any way you find convenient: [[flancian]].
   - For more information about my other projects, please refer to https://flancia.org.
