@@ -16,18 +16,22 @@
   - [[idea]]
   - [[do]]
   - [[contract]]
-  - [[twitter]]
-  - [[mastodon]]
-  - [[matrix]]
   - [[flancia]]
-  - [[manifesto]]
-  - [[agora]]
-    - [[agora server]]
-    - [[agora bridge]]
-    - [[agora plan]]
-    - [[agora discuss]]
-    - [[agora protocol]]
+    - [[manifesto]]
+    - [[twitter]]
+    - [[mastodon]]
+    - [[matrix]]
+    - [[agora]]
+      - [[agora project]]
+        - [[agora server]]
+        - [[agora bridge]]
+        - [[agora plan]]
+        - [[agora discuss]]
+      - [[agora protocol]]
       - [[agora rfcs]]
       - [[wikilinks everywhere]]
-- #pull [[flancian]]
+
+## All nodes in this garden
+
+Should follow.
 
