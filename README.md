@@ -1,4 +1,4 @@
-# Flancian's digital garden
+# Welcome to a Flancian's digital garden!
 
 - Welcome to my [[digital garden]]!
   - This garden is part of the [Agora](https://anagora.org/agora) and can be found rendered in https://anagora.org/. If you're viewing this on Github, Gitlab or some other [[git]] host, you will likely have a suboptimal experience (wikilinks may not work).
