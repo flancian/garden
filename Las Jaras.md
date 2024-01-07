@@ -10,13 +10,16 @@ Las de [[Avalokiteshvara]]!
 --
 
 [[Las Jaras]], que jaras?
+
   - Las tiradas con [[recta intención]].
   - Las de [[Avalokiteshvara]]
   - Las de [[Tara]]
   - Las de [[Maitreya]]!
+    - Las de [[Lady Burup]] :)
 
 --
 
-Las [[Lady Burup]]
-
-=> I want to be [[Straight as an arrow]]
+O what if we could be
+[[Straight as an arrow]]
+Like an arrow
+ever bending
