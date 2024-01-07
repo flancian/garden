@@ -11,7 +11,7 @@ Las de [[Avalokiteshvara]]!
 
 [[Las Jaras]], que jaras?
 
-  - Las tiradas con [[recta intención]].
+- Las tiradas con [[recta intención]].
   - Las de [[Avalokiteshvara]]
   - Las de [[Tara]]
   - Las de [[Maitreya]]!
