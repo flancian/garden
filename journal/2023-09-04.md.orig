@@ -1,0 +1,15 @@
+- [[AG]] :)
+- [[work]]
+  - trying to enjoy [[focus week]]!
+- [[Olof]] recommended https://www.youtube.com/watch?v=DurPqcBkI4g for when I learn [[Swedish]] :)
+- #push [[poems]]
+  - [[deep]]
+- #push [[todo]]
+  - [[autopush]], finally?
+<<<<<<< HEAD
+
+=======
+- trying out [[wlvncc]], which I will try to remember as [[WayLand VNC Client]], also for machine-to-machine connections -- so far I was only using it for [[portal]], the script that I use to have a recursive view into a computer I'm using.
+  - it works very well but it doesn't have 'raw keyboard mode', which I need to be able to forward [[sway]] events to the target host that is also running sway.
+  - commented on https://github.com/any1/wlvncc/issues/24
+>>>>>>> d997e4b6ea6115305feb01a31cf9e13f851894a2
