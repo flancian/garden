@@ -3,7 +3,7 @@
   - We'll burn like chrome, all willing
   - Happily
   - Free from suffering
-  - Gone gone, gone beyond!
+  - Gone gone, [[gone beyond]]!
   
-From [[The Chronicles of Flancia]], [[83]]: Flancian
+From [[The Chronicles of Flancia]], by [[83]]: Flancian
   
