@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[Writer]] [[Budhist]].
+  - Author of [[Right Concentration]]: a [[Practical Guide to the Jhanas]]
