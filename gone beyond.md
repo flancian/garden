@@ -1,0 +1,5 @@
+- [[Gone]]:
+  - Gone gone
+  - Gone beyond
+  - Everybody gone to the other shore
+  - Free from suffering!
