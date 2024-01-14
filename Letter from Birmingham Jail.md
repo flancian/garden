@@ -2,4 +2,6 @@
   - by [[Martin Luther King]].
   - #1963
   - > It says that people have a moral responsibility to [[break unjust laws]] and to [[take direct action]] rather than waiting potentially forever for justice to come through the courts.
-  - -> [[civil disobedience]]
+    - -> [[civil disobedience]]
+    - [[injustice anywhere is a threat to justice everywhere]]
+    - [[justice too long delayed is justice denied]]
