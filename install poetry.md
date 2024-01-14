@@ -1,0 +1,5 @@
+- #go https://python-poetry.org/docs/
+  - with [[pipx]]:
+    - `pipx install poetry`
+  - without:
+    - `curl -sSL https://install.python-poetry.org | python3 -`
