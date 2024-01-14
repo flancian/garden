@@ -6,3 +6,4 @@
       - [[injustice anywhere is a threat to justice everywhere]]
       - [[justice too long delayed is justice denied]]
       - [[an unjust law is no law at all]]
+  - Led to [[Why We Can't Wait]], a book which includes this letter and expands on it.
