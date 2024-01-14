@@ -1,0 +1,3 @@
+- an [[open letter]].
+  - by [[Martin Luther King]].
+  - > It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts.
