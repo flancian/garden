@@ -1,0 +1,4 @@
+- a [[person]].
+  - died in early [[2024]].
+  - Creator of [[NTP]].
+  - [[Dave Mills Stories]]: https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit
