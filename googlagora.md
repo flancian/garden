@@ -1,1 +1,2 @@
-- #pull free [[agora assistant]] + [[google assistant]]
+- a [[project]].
+  - #pull a free [[agora assistant]] + [[google assistant]] is best for all
