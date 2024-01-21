@@ -1,0 +1,1 @@
+- I once heard that there's mostly two industries who call their clients [[user]]: [[drug dealers]] and [[corporations]].

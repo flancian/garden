@@ -1,3 +1,4 @@
 - a [[project]].
   - #pull a free [[agora assistant]] + [[google assistant]] is best for all
   - [[an Agora is what Google should be]] for the [[user]], for the [[person]]
+  - I believe in Google the corporation, the group of [[people]] and [[computers]] collaborating, as per their [[initial public values]]
