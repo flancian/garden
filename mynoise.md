@@ -6,4 +6,5 @@
     - #go https://mynoise.net
     - #pull [[Dr. Ir. S. Pigeon]] [[Stephane Pigeon]]
     - [[help]] https://mynoise.net/NoiseMachines/help.php
+    - [[blog]] https://mynoise.net/blog.php
 

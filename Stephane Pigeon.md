@@ -1,0 +1,3 @@
+- a [[person]].
+  - #pull [[mynoise.net]]
+  - #go https://stephanepigeon.com/
