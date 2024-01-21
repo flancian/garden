@@ -1,3 +1,5 @@
-- #push [[google]] 
-  - #go https://abc.xyz/investor/founders-letters/ipo-letter/
-  - #original https://www.sec.gov/Archives/edgar/data/1288776/000119312504142742/ds1a.htm#toc59330_1
+- #push [[2004-08-18]]
+  - #push [[google]] 
+    - #go https://abc.xyz/investor/founders-letters/ipo-letter/
+    - #original https://www.sec.gov/Archives/edgar/data/1288776/000119312504142742/ds1a.htm#toc59330_1
+    - #19605052 shares
