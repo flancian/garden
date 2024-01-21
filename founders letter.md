@@ -1,1 +1,3 @@
-- #go https://abc.xyz/investor/founders-letters/ipo-letter/
+- #push [[google]] 
+  - #go https://abc.xyz/investor/founders-letters/ipo-letter/
+  - #original https://www.sec.gov/Archives/edgar/data/1288776/000119312504142742/ds1a.htm#toc59330_1
