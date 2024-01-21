@@ -1,2 +1,2 @@
 - #pull [[open letter to google]]
-- #pull [[agora assistant]]
+- #pull [[googlagora]]
