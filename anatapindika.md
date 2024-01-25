@@ -1,2 +1,3 @@
 - a [[disciple of the Buddha]].
   - I enjoyed chapter [[20]] of the book I'm listening to, about him.
+  - #pull [[Anathapindika]]
