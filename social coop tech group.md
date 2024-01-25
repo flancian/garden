@@ -9,8 +9,8 @@
 	- #push [[done]]
 		- help [[derek kozel]] (open chatroom) try to recover his account
 			- https://discourse.joinmastodon.org/t/is-it-possible-to-restore-a-deleted-user-account/1945
-			- ran: `mastodon@564f268b311f:~$ tootctl accounts create dkozel --reattach --force --email=derek@bitstovolts.com`
-			- to get to a shell in the right container, ran: `docker exec -it docker_web_1 /bin/bash` in [[runko]]
+			- To reset an account/un-disable, run `$ tootctl accounts create <user> --reattach --force --email=<email>`
+        - to get to a shell in the right container, ran: `docker exec -it docker-web-1 /bin/bash` in [[rhizome]]
 		- start proposal to move registrations to [[mastodon]] by moving to [[approval required]], wiki process seems unnecessarily involved at this stage
     - #push [[spam trap fix]]
       - https://git.coop/social.coop/general/-/wikis/registration-form/diff?version_id=998731decc4e27f3c2bc17fd49c3d3c1faa64df3
