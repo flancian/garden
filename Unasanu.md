@@ -1,0 +1,1 @@
+- Immediately resonated with me because of the mentions of [[dust theory]] and the work of [[Deutsch]] and [[Wolfram]].
