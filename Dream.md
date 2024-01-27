@@ -9,4 +9,4 @@ Chose instead to drink their blood,
 --
 
 Because of this in my present life
-I will not think twice before sparing them
+I will think twice of sparing them
