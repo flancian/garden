@@ -4,10 +4,6 @@ I dreamt I was a [[deva]]
 
 --
 
-Chose instead to drink their blood,
+Chose instead maybe to drink their blood,
       and in doing so became them
 
---
-
-Because of this in my present life
-  I will (not?) think twice of sparing them
