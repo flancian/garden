@@ -7,7 +7,3 @@ I dreamt I was a [[deva]]
 Chose instead to drink their blood,
       and in doing so became them
 
---
-
-Because of this in my present life
-  (...)
