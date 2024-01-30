@@ -6,7 +6,4 @@
       - [[duhkha]] means [[unsatisfactory]] by nature
     - [[all phenomena are empty and selfless]]
     - [[nirvana is true peace]]
-- [[flancia]]!
-  - [[agora development]]
-    - fixed [[turtle]] :)
-      - in two ways. two degrees of brokenness came up while browsing and I decided to just fix it :) felt great
+
