@@ -1,5 +1,6 @@
 - a [[meeting]].
 	- #go https://meet.evolix.org/flancia-meet
+    - or just open the video stoa in this node in whichever [[Agora of Flancia]] you're in :)
   - #doc https://doc.anagora.org/flancia-meet?edit
 	- #oldgo https://meet.jit.si/flancia-meet
     - we moved away due to it requiring login nowadays
