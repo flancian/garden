@@ -10,3 +10,11 @@
   - with [[loving kindness]]!
 	- #when [[Saturdays]] at [[9AM UTC]] (or maybe rather [[11AM Zürich]]) by default.
 	- see also older node: [[flancia meet notes]]
+
+# Dramatis personae so far in alphabetical order
+
+- [[bouncepaw]]
+- [[flancian]]
+- [[j0lms]]
+- [[neil]]
+- [[vera]]
