@@ -11,7 +11,7 @@
 	- #when [[Saturdays]] at [[9AM UTC]] (or maybe rather [[11AM Zürich]]) by default.
 	- see also older node: [[flancia meet notes]]
 
-# Dramatis personae so far in alphabetical order
+# [[Dramatis personae]] so far, approximate, in alphabetical order
 
 - [[bouncepaw]]
 - [[flancian]]
