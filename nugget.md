@@ -1,0 +1,2 @@
+- in [[neobooks]]:
+  - a quantum of knowledge -- or interest.
