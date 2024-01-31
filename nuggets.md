@@ -8,8 +8,8 @@ In actuality, only the nodes which are interesting or beautiful to the reader ma
 
 In the context of a [[Neobook]] as a shared project, for example in the [[Fellowship of the Link]], I believe the following nodes might be considered good starting nuggets:
 
-- [[Pattern Languages]]
 - [[Neobooks]]
 - [[Agora]]
 - [[Massive Wiki]]
+- [[Patterns]]
 - [[Transclusion]]
