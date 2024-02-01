@@ -15,10 +15,13 @@
       - [[patera]]
       - [[hypatia]]
 
-Oh nice, I came here to write this and it was already written, or started anyway :)
+--
 
-The above and below, like Flancia, are all written half tongue in cheek.
+Oh nice, I came here to write this months later and it was already written, or started anyway :)
 
-Some more things I want to think of every day:
+(The above and below fragments, like most of Flancia, are all written half tongue in cheek.)
 
-- [ ] [[gate gate paragate parasamgate bodhisatta]]
+Some more things I want to remember, or think of, every day as part of my [[practice]] are:
+
+- [[gate gate paragate parasamgate bodhisatta]] and variations
+- how to be [[mindful]]
