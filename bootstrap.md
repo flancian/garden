@@ -2,10 +2,9 @@
 
 - This node in this [[Agora]] contains instructions to [[bootstrap]] a free well-meaning [[Flancian]], see [[git/flancian]] for more :)
 - You'll need:
-  - An [[agora]].
-  - A [[digital garden]], or many.
+  - An [[Agora]] containing a [[digital garden]], or many.
   - A carbon based life-form (maybe).
-  - And several silicon.
+  - And silicon.
   - These computers, or ones performing their functions:
     - [[paramita]]
     - [[sila]]
