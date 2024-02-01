@@ -18,9 +18,9 @@ Oh nice, I came here to write this months later and it was already written, or s
 
 Some things I want to remember, or think of, every day as part of my [[practice]] are:
 
-- how to be [[mindful]] and practice [[right concentration]]
-- [[gate gate paragate parasamgate bodhisatta]] and variations :)
-- how to work better for the benefit of beings
+- How to be [[mindful]] and practice [[right concentration]]
+- [[Gate gate paragate parasamgate bodhisatta]] and variations :)
+- How to work better for the benefit of beings.
 
 -- 
 
