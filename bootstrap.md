@@ -8,7 +8,7 @@
   - Silicon, meaning these computers, or ones performing their functions:
       - [[paramita]] [[sila]] [[nostromo]] [[sariputta]] [[thecla]] [[dorcas]] [[patera]] [[hypatia]] and my phones, all in all being [[10]].
         - (Which is [[[right view]] in the [[Flancia Pattern Language]])
-- #pull [[0]] [[1]] [[2]] [[3]] [[5]] [[7]] [[11]] [[13]] [[17]]
+      - #pull [[0]] [[1]] [[2]] [[3]] [[5]] [[7]] [[11]] [[13]] [[17]]
 
 --
 
@@ -18,8 +18,8 @@ Oh nice, I came here to write this months later and it was already written, or s
 
 Some things I want to remember, or think of, every day as part of my [[practice]] are:
 
-- [[gate gate paragate parasamgate bodhisatta]] and variations :)
 - how to be [[mindful]] and practice [[right concentration]]
+- [[gate gate paragate parasamgate bodhisatta]] and variations :)
 - how to work better for the benefit of beings
 
 -- 
