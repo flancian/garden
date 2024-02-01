@@ -17,4 +17,8 @@
 
 Oh nice, I came here to write this and it was already written, or started anyway :)
 
+The above and below, like Flancia, are all written half tongue in cheek.
+
+Some more things I want to think of every day:
+
 - [ ] [[gate gate paragate parasamgate bodhisatta]]
