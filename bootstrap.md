@@ -21,7 +21,8 @@ Oh nice, I came here to write this months later and it was already written, or s
 
 (The above and below fragments, like most of Flancia, are all written half tongue in cheek.)
 
-Some more things I want to remember, or think of, every day as part of my [[practice]] are:
+Some things I want to remember, or think of, every day as part of my [[practice]] are:
 
 - [[gate gate paragate parasamgate bodhisatta]] and variations
 - how to be [[mindful]]
+- how to work better for the benefit of beings
