@@ -8,7 +8,8 @@
   - Silicon, meaning these computers, or ones performing their functions:
       - [[paramita]] [[sila]] [[nostromo]] [[sariputta]] [[thecla]] [[dorcas]] [[patera]] [[hypatia]] and my phones, all in all being [[10]].
         - (Which is [[[right view]] in the [[Flancia Pattern Language]])
-      - #pull [[0]] [[1]] [[2]] [[3]] [[5]] [[7]] [[11]] [[13]] [[17]]
+- #push [[0]] 
+  - #pull [[11]] [[2]] [[3]] [[5]] [[6]] [[7]] [[8]] [[9]] [[10]] [[11]] [[13]] [[14]] [[17]]
 
 --
 
