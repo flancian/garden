@@ -25,4 +25,5 @@ Some things I want to remember, or think of, every day as part of my [[practice]
 
 - [[gate gate paragate parasamgate bodhisatta]] and variations
 - how to be [[mindful]]
+- [[right concentration]]
 - how to work better for the benefit of beings
