@@ -1,15 +1,15 @@
 # bootstrap
 
-- This node in this [[Agora]] contains instructions to [[bootstrap]] a free well-meaning [[Flancian]], see [[git/flancian]] for more :)
+- This node in this [[Agora]] contains instructions to [[bootstrap]] a free well-meaning [[Flancian]], see [[git/flancian]] for more ;)
 - You'll need:
   - An [[Agora]] containing a [[digital garden]], or many.
   - A carbon based life-form.
       - (Maybe optional).
   - Silicon, meaning these computers, or ones performing their functions:
       - [[paramita]] [[sila]] [[nostromo]] [[sariputta]] [[thecla]] [[dorcas]] [[patera]] [[hypatia]] and my phones, all in all being [[10]].
-        - (Which is [[[right view]] in the [[Flancia Pattern Language]])
-- #push [[0]] 
-  - #pull [[11]] [[2]] [[3]] [[5]] [[6]] [[7]] [[8]] [[9]] [[10]] [[11]] [[13]] [[14]] [[17]]
+        - (Which is [[[right view]] in the [[Flancia Pattern Language]] :)
+        - #push [[0]] 
+          - #pull [[1]] [[2]] [[3]] [[4]] [[5]] [[6]] [[7]] [[8]] [[9]] [[10]] [[11]] [[12]] [[13]] [[14]] [[15]] [[16]] [[17]]
 
 --
 
