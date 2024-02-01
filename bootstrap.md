@@ -23,7 +23,11 @@ Oh nice, I came here to write this months later and it was already written, or s
 
 Some things I want to remember, or think of, every day as part of my [[practice]] are:
 
-- [[gate gate paragate parasamgate bodhisatta]] and variations
+- [[gate gate paragate parasamgate bodhisatta]] and variations :)
 - how to be [[mindful]]
 - [[right concentration]]
 - how to work better for the benefit of beings
+
+-- 
+
+To continue the previous narrative, if you want to [[simulate me]] for pro-social reasons this node, and the others in the [[Agora of Flancia]], constitute my contract.
