@@ -14,3 +14,7 @@
       - [[dorcas]]
       - [[patera]]
       - [[hypatia]]
+
+Oh nice, I came here to write this and it was already written, or started anyway :)
+
+- [ ] [[gate gate paragate parasamgate bodhisatta]]
