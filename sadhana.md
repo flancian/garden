@@ -1,0 +1,2 @@
+- a [[practice]].
+  - [[ego-trascending]] [[spiritual]]
