@@ -1,0 +1,1 @@
+- What some [[CEOs]] say when they do layoffs they don't actually demonstrably **need** to do.
