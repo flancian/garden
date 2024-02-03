@@ -22,4 +22,5 @@ Sometimes I like to get into flow with a [[quick fix]].
     - #go https://www.youtube.com/watch?v=0et6I930LaU&list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
     - #1 https://www.youtube.com/watch?v=Qbnpbqd-jhQ
     - #2 https://www.youtube.com/watch?v=4rZAQ2LfDAs
+    - #3 https://www.youtube.com/watch?v=SZF7Jp6SyPI&list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy&index=5
 
