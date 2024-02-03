@@ -16,9 +16,10 @@ Sometimes I like to get into flow with a [[quick fix]].
 
 --
 
-- a [[calendar]].
-  - [[30 days]] of [[yoga with Adriene]] and [[yoga with x]] in [[2024]]
-  - #go https://www.youtube.com/watch?v=0et6I930LaU&list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #1 https://www.youtube.com/watch?v=Qbnpbqd-jhQ
-  - #2 https://www.youtube.com/watch?v=4rZAQ2LfDAs
+- #push [[yoga]]
+  - a [[calendar]].
+    - [[30 days]] of [[yoga with Adriene]] and [[yoga with x]] in [[2024]]
+    - #go https://www.youtube.com/watch?v=0et6I930LaU&list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
+    - #1 https://www.youtube.com/watch?v=Qbnpbqd-jhQ
+    - #2 https://www.youtube.com/watch?v=4rZAQ2LfDAs
 
