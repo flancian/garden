@@ -1,10 +1,9 @@
-- a [[meeting]].
+- a [[meet]].
+  - #pull https://flancia.org/meet
 	- #go https://meet.evolix.org/flancia-meet
     - or just open the video stoa in this node in whichever [[Agora of Flancia]] you're in :)
   - #doc https://doc.anagora.org/flancia-meet?edit
-	- #oldgo https://meet.jit.si/flancia-meet
-    - we moved away due to it requiring login nowadays
-  - recurring, just show up if interested :) I attend often but not always.
+  - Recurring, just show up if interested :) I attend often but not always.
   - we take notes in the Stoa below or sometimes in the Agora at large (in [[journal]] entries).
   - no [[fomo]], no [[stress]]! 
   - with [[loving kindness]]!
