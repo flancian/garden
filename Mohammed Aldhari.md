@@ -1,0 +1,1 @@
+- Currently (as of 2024) back in [[Yemen]], trying to purchase land in a safe location for him and his family.
