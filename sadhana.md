@@ -1,0 +1,3 @@
+- a [[practice]].
+  - [[ego-trascending]] [[spiritual]]
+  - done for attaining detachment?
