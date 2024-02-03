@@ -16,3 +16,7 @@
   > -> [[Alexander Sokurov]]
   > -> [[Flaubert]] through [[Salammbo]]
   > -> [[Asimov]] through [[The Dead Past]]: https://en.wikipedia.org/wiki/The_Dead_Past
+
+--
+
+Somehow I arrived at [[e acc]] ([[e/acc]] is not a good Agora link as slashes usually mean actions, and action e/ currently doesn't exist). I can instantly relate mildly with their utopian side I guess, even as I dislike many of their positions and their super-capitalist stance. Also [[Shkreli]] is involved, sigh.
