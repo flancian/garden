@@ -1,0 +1,2 @@
+- a [[book]].
+  - #review https://slatestarcodex.com/2016/05/28/book-review-age-of-em/
