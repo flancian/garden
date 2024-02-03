@@ -1,11 +1,10 @@
 - a [[list]].
-  - #pull [[open letter]]
-	- This [[Agora]] contains [[open letters]] addressed to a variety of [[beings]].
-  - [[open letter to the Agora of Flancia]]
-  - [[open letter to Buddhists]]
-    -> [[open letter to Maitreya]]
-  - [[open letter to Google]]
-    - [[open letter to Alphabet]]
-  - [[open letter to Musk]]
-  - [[open letter to Christopher Alexander]]
-  - [[open letter to Peter Singer]]
+	- The [[Agora]] is a repository of [[open letters]].
+  - #push [[open letter]]
+    - [[Open letter to the Agora]]
+    - [[Open letter to Christopher Alexander]]
+    - [[Open letter to Google]]
+    - [[Open letter to Milei]]
+    - [[Open letter to Musk]]
+    - [[Open letter to Peter Singer]]
+    - [[Open letter to Maitreya]]

@@ -1,0 +1,2 @@
+- a [[thing]].
+  - a collection of [[nuggets]]: interlinked, intertwined, [[intertwingled]] :)
