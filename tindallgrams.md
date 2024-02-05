@@ -1,0 +1,3 @@
+- [[memorandums]]
+  - by [[Bill Tindall]]
+  - #go https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html
