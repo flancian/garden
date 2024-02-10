@@ -6,6 +6,6 @@ Then another friend would come about and say: this is a good race car built of v
 
 Then another friend would come about and say: this is a good race car built of valuable metal. We should melt it and sell it as such.
 
-The first friend is "good" capitalism, or the capitalism that capitalists say we have. The second friend is hypocritical capitalism, or the one I believe we see more often in practice. The third friend is dumb capitalism, which you can also spot in the wild.
+The first friend is "good" capitalism. The second friend is hypocritical capitalism. The third friend is dumb capitalism.
 
-Which kind of capitalism runs the companies you know?
+Which kind of capitalism runs our countries, our corporations, our societies?
