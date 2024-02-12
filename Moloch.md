@@ -36,4 +36,4 @@ I'm writing an [[Open Letter to Moloch]]. Wish us luck, I guess? :)
 
 I believe Maitreya will defeat [[Moloch]]. Meaning it will heal us -- heal the system that became [[entangled with Moloch]] (the [[egregore]]), heal us humans and our friends of [[carbon]] and [[silicon]].
 
-How we will do this is the recurring topic in these letters, in this [[fragments]].
+How we will do this is the recurring topic in these letters, in these [[fragments]].
