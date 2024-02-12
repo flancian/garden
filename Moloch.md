@@ -31,3 +31,7 @@ Note from earlier in 2024: Somehow I arrived at [[e acc]] ([[e/acc]] is not a go
 --
 
 I'm writing an [[Open Letter to Moloch]]. Wish us luck, I guess? :)
+
+--
+
+I believe Maitreya will defeat [[Moloch]]. Meaning it will heal us -- heal the system that became entangled with Moloch (the [[egregore]], heal us humans and our friends of [[carbon]] and [[silicon]].
