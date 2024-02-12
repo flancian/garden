@@ -1,10 +1,12 @@
 - a [[list]].
 	- The [[Agora]] is a repository of [[open letters]].
   - #push [[open letter]]
-    - [[Open letter to the Agora]]
     - [[Open letter to Christopher Alexander]]
-    - [[Open letter to Google]]
-    - [[Open letter to Milei]]
-    - [[Open letter to Musk]]
-    - [[Open letter to Peter Singer]]
+      - Because [[Flancia is a Pattern Language]].
+    - [[Open letter to the Agora]]
     - [[Open letter to Maitreya]]
+    - [[Open letter to Moloch]]
+      - [[Open letter to Google]]
+      - [[Open letter to Milei]]
+      - [[Open letter to Musk]]
+      - [[Open letter to Peter Singer]]
