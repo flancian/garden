@@ -1,1 +1,1 @@
-- [[future of knowledge cards]]: https://docs.google.com/spreadsheets/d/1Q5R0mZA4N7ZePJlAa2wd_pErVpCjZcQip261mOZriy4/edit?pli=1#gid=0
+- [[building bridges]]
