@@ -7,4 +7,4 @@
       - contains links to nodes about [[people]]
     - [[go]]
       - contains links to URLs tagged as canonical for some node
-- Here again on 
+- Here again on [[2024-02-19]] as I'm trying out [[silver]]
