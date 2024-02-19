@@ -1,1 +1,1 @@
-- I [[Zoogler]] because I currently work for [[Google Switzerland]].
+- I identify as a [[Zoogler]] because I currently work for [[Google Switzerland]].
