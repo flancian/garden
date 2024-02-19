@@ -7,4 +7,4 @@
       - contains links to nodes about [[people]]
     - [[go]]
       - contains links to URLs tagged as canonical for some node
-- Here again on [[2024-02-19]] as I'm trying out [[silver]]
+- Here again on [[2024-02-19]] as I'm trying out [[silverbullet]] = [[silver bullet]] as [[Agora Editor]]. It is looking highly promising -- if you want to try out note taking, in the Agora or in your private garden, consider giving it a shot!
