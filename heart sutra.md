@@ -41,8 +41,7 @@ That is why Emptiness,
      and Consciousness 
      are not separate [[self entities]].
 
-
-     - #push [[gate gate paragate parasamgate bodhi svaha]]
+- #pull [[gate gate paragate parasamgate bodhi svaha]]
 
 
 
