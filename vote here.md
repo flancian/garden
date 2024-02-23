@@ -1,2 +1,2 @@
 - A [[placeholder]] :)
-  - #pull [[democracy]] [[fediverse]] [[agora]]
+  - #pull improve [[democracy]] through the [[fediverse]] with the [[agora]]
