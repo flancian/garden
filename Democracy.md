@@ -3,3 +3,7 @@
     - The election results, of course, may or may not stand in practice depending on the kind of [[state]] that is in control of said territory most fully -- and other relevant [[material conditions]], ever changing.
     - But calling for elections for any government position with good arguments should be taken as a pro social action.
   - In particular, global entities can call for elections in what can be proven beyond reasonable doubt are totalitarian states, states that oppress without relief, states that refuse to let themselves be improved non-violently for the benefit of their people and all beings.
+- [[Flancia]] is calling for elections in:
+  - [[Russia]]
+  - [[Iran]]
+  - [[Venezuela]]
