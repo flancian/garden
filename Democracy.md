@@ -1,4 +1,5 @@
 - A [[democratic revolution]] could work like this:
   - Any entity with [[good intent]] can call for elections in any country or territory with good arguments.
     - The election results, of course, may or may not stand in practice depending on the kind of [[state]] that is in control of said territory most fully -- and other relevant [[material conditions]], ever changing.
-    - But calling for elections with good arguments should be taken as a pro social action.
+    - But calling for elections for any government position with good arguments should be taken as a pro social action.
+  - In particular, global entities can call for elections in what can be proven beyond reasonable doubt totalitarian states
