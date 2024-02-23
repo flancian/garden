@@ -1,2 +1,2 @@
 - A [[democratic revolution]] could work like this:
-  - Any entity with [[good intent]] can call for elections in any country or territory with good arguments.
+  - Any entity with [[good intent]] can call for elections in any country or territory with good arguments. The election results, of course, may or may not stand in practice depending on the kind of [[state]] that is in control of said territory most fully and other [[material conditions]], ever changing.
