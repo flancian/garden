@@ -1,0 +1,2 @@
+- A [[democratic revolution]] could work like this:
+  - Any entity with [[good intent]] can call for elections in any country or territory with good arguments.
