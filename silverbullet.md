@@ -11,3 +11,17 @@ I thought I'd keep a node here detailing what I had to do to turn it into a good
 
 ### Run on docker
 I'm running it on docker on port [[5019]]. The default port is [[3000]] but in my case [[5019]] made sense because I run [[agora server]] in [[5017]] and [[agora bridge]] in [[5018]]. This choice is purely personal of course.
+
+This is the very simple script I use to run it as a daemon:
+
+```bash
+#!/bin/bash -x
+docker stop silverbullet
+docker rm silverbullet
+docker run -d --restart unless-stopped --name silverbullet -p 5019:3000 -v /home/flancian/garden:/space zefhemel/silverbullet
+```
+More instructions in the official documentation.
+
+### Import core
+
+https://silverbullet.md/Library/Core
