@@ -29,4 +29,4 @@ As per https://silverbullet.md/Library/Core.
 
 Now you'll have access to lots of almost-but-not-quite-built-in functionality.
 
-Then do the same for [[journal]] facilities `!silverbullet.md/Library/Journal/`.
+Then do the same for [[journal]] facilities `!silverbullet.md/Library/Journal/` as per https://silverbullet.md/Library/Journal.
