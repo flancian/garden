@@ -23,5 +23,7 @@ docker run -d --restart unless-stopped --name silverbullet -p 5019:3000 -v /home
 More instructions in the official documentation.
 
 ### Import core
-If you start from an existing digital garden, like I did, you'll have to manually import the core library which in turn sets up several [[plugs]] -- meaning [[silverbullet plugins]]. To do so, run the Library: Import command (by https://silverbullet.md/Library/Core
+If you start from an existing digital garden, like I did, you'll have to manually import the core library which in turn sets up several [[plugs]] -- meaning [[silverbullet plugins]]. To do so, run the Library: Import command (by searching for that command in ctrl-/) and enter: `!silverbullet.md/Library/Core/`.
+
+As per https://silverbullet.md/Library/Core
 https://silverbullet.md/Library/Core
