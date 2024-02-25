@@ -6,6 +6,8 @@ Hi Peter, I'm sure you get this often: you don't know me but I feel like I know 
 
 ## Thank you
 
+Thank you for your writing and for your ideas and evaluations as you have expressed them through your life. I am inspired by them, and by the works you have inspired. You have brought light to the world, 
+
 ## A question
 
 ## Farewell
