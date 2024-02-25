@@ -12,4 +12,3 @@
   - will lead you to a variety of nodes matching a date, like:
     - [[journal/2024-02-23]]
     - [[2024-02-24]] is also acceptable
-    - As is [[2024-04-25]] ;):
