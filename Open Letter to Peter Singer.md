@@ -1,3 +1,3 @@
 - I thought I'd write this now years ago, maybe it will finally happen.
 
-Hi Peter, you don't know me but I know you I feel -- 
+Hi Peter, you don't know me but I feel I know you -- through your books and your public conversations. I am writing this [[open letter]] in the hope that you will eventually find time to read it, 
