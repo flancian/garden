@@ -10,6 +10,6 @@ Thank you for your writing and for your ideas and evaluations on ethical matters
 
 ## A question
 
-I am a Staff Engineer in Google. I am engaged in Effective Altruism and occasionally hedge irrationally with calculation :) 
+I am a Staff Engineer working for [[Google]]. I am engaged in [[Effective Altruism and occasionally allow myself to hedge irrationally after careful consideration :) 
 
 ## Farewell
