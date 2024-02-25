@@ -6,8 +6,10 @@ Hi Peter, I'm sure you get this often: you don't know me but I feel like I know 
 
 ## Thank you
 
-Thank you for your writing and for your ideas and evaluations on ethical matters as you have expressed them through your life. I am inspired by them, and by the works you have inspired. You have brought light to the world in many ways, however you care to define it, and for that I and many other sentient beings will be .
+Thank you for your writing and for your ideas and evaluations on ethical matters as you have expressed them through your life. I am inspired by them, and by the works you have inspired. You have brought light to the world in many ways, however you care to define it, and for that I and many other sentient beings will be thankful for, I believe, as long as we're around.
 
 ## A question
+
+I am a Staff Engineer in Google
 
 ## Farewell
