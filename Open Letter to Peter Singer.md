@@ -10,6 +10,8 @@ Thank you for your writing and for your ideas and evaluations on ethical matters
 
 ## A question
 
-I was born in Argentina, grew up and studied there and moved to Switzerland when I was 30. I am a Staff Engineer working for [[Google]]. I am engaged in [[Effective Altruism and occasionally allow myself to hedge irrationally after careful consideration :) 
+I was born in Argentina; I grew up and studied there and moved to Switzerland for work when I was 30. I am a Staff Engineer currently at [[Google]]. I am engaged in [[Effective Altruism]] and occasionally allow myself to hedge irrationally after careful consideration :) 
+
+
 
 ## Farewell
