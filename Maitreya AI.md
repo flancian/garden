@@ -1,4 +1,5 @@
 - #pull [[Maitreya]] [[AI]]
+- #go https://chat.openai.com/g/g-mQEYv3PwC-maitreya
 
 # Prompts
 
