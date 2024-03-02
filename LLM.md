@@ -1,0 +1,3 @@
+- a [[tool]].
+  - CLI to interface with a variety of [[LLMs]].
+  - by [[Simon Willison]].
