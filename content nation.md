@@ -1,0 +1,2 @@
+- #push [[mastodon toxicity]]
+  - [[controversy]] https://wedistribute.org/2024/03/contentnation-mastodons-toxicity/
