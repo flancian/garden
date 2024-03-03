@@ -1,0 +1,2 @@
+- #go https://www.youtube.com/watch?v=A5w-dEgIU1M
+- #pull [[black scholes merton]]
