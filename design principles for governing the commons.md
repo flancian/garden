@@ -1,4 +1,6 @@
-- #go https://www.lifewithalacrity.com/article/10-design-principles-for-governing-the-commons/
+- an [[article]].
+  - [[10 design principles for governing the commons]]
+  - #go https://www.lifewithalacrity.com/article/10-design-principles-for-governing-the-commons/
   - [[DEFINE BOUNDARIES]]: There are clearly defined boundaries around the common resources of a system from the larger environment.
   - [[DEFINE LEGITIMATE USERS]]: There is a clearly defined community of legitimate users of those resources.
   - [[ADAPT LOCALLY]]: Rules for use of resources are adapted to local needs and conditions.
