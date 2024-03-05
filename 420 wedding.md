@@ -1,0 +1,5 @@
+- 20 april: wedding
+- 21 april: brunch at apartment, then long drive
+- 22, 23, 24 april: ashvile
+- 24 april: drive back from ashvile or flight to NYC late at night
+- stay until early 27th in NYC
