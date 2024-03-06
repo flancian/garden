@@ -1,0 +1,2 @@
+- a [[person]].
+  - #go https://www.linkedin.com/in/richburdon

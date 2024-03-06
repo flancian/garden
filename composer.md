@@ -1,3 +1,5 @@
+- a [[project]].
+  - by [[Rich Burdon]].
 - [[Peter Kaminski]] wrote the following
 
 # Pete's Composer Overview, 2024-03-05
