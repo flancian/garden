@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[philosopher]]
+  - #go https://lapaul.org/
