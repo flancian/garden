@@ -23,7 +23,7 @@ If you are reading this in [[git]] or a partially supported [[editor]], please r
     - [[journal/2024-02-23]].
     - [[2024-02-24]].
 
-## How to edit this Agora
+# How to contribute to this Agora
 See [[Agora editors]] for alternatives. I ([[Flancian]]) currently recommend:
 
 - [[Silver Bullet]] ([[MIT]] license) <- start here by default as of the time of writing ([[2024]]).
