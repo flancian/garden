@@ -46,4 +46,4 @@ Once you sign up to the [[Fediverse]], you can follow [[@agora@botsin.space]] an
 Consider just leaving an anonymous note anywhere around the [[Agora]] in a [[stoa]], which is a public space meant for collaboration (think [[wiki]] or shared editor) available in each [[node]].
 
 ## For more
-Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need help in general!
+Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need [[help]] in general!
