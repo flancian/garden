@@ -14,7 +14,7 @@ The following are maybe interesting nodes to serve as entry points to this garde
     
 Beyond checking the resources in the nodes proper (mostly text notes), remember to check for [[links]] in and out of each context established through use.
 
-If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org to render nodes with fully resolved links and offered context :).
+If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org or another well known Agora to render what you're reading with fully resolved links and offered context :).
 
 # Journals
 - Nodes matching [[ISO 8601]], [[RFC 3339]] and derivations are interpreted as declarations of [[journals]].
