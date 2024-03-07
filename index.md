@@ -30,7 +30,7 @@ See [[Agora editors]] for alternatives. I ([[Flancian]]) currently recommend:
 - [[Logseq]] ([[AGPL]]).
 - [[Obsidian]] (closed source).
 
-Then sign up for a [[git]] provider, like https://codeberg.org (or the better known and decent but corporate-run https://github.com), upload your garden (this also gives the nice side effect of keeping it backed up!) and send us its location and your desired username.
+Then sign up for a [[git]] provider, like https://codeberg.org (or the better known and decent but corporate-run https://github.com), upload your garden to it (this yields the nice side effect of keeping it backed up but under your control!) and send us its location and your desired username. See [[Agora signup]] for more.
 
 You can also contribute straight from the [[Fediverse]] once you get an account in a server (e.g. one providing [[Mastodon]] to a community, or one you run yourself). I am part of and help run [[social.coop]]; it is a good one if you are interested in [[cooperativism]]. There's thousands more! See [[Map of the Fediverse]] for more.
 
