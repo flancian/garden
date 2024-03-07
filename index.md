@@ -15,15 +15,15 @@ The following are maybe interesting entry points to this garden, and to the Agor
 - Nodes matching [[ISO 8601]], [[RFC 3339]] and derivations are interpreted as declarations of [[journals]].
 - Thereafter [[journals]]:
   - ...will lead you to a variety of nodes matching a date, like:
+    - [[2024-02-19]].
     - [[journal/2024-02-23]].
     - [[2024-02-24]].
-    - [[2024-02-19]] as I'm trying out [[silver bullet]]]] as the [[Agora Editor]].
 
 ## How to edit this Agora
 See [[Agora editors]] for alternatives. As a [[Flancian]] I currently recommend:
 
-- [[Silver Bullet]] <- start here if in doubt.
-- [[Logseq]] (AGPL)
+- [[Silver Bullet]] <- start here by default as of the time of writing ([[2024]]).
+- [[Logseq]] (AGPL).
 - [[Obsidian]] (closed source).
 
 Please [[reach out]] if you want to try [[note taking]], in the Agora or in your private garden, and need help!
