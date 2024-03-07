@@ -9,12 +9,12 @@ The following are maybe interesting entry points to this garden, and to the Agor
   - #go
     - contains, and [[redirects]] to, URLs tagged as canonical for some node.
     
-If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org to render nodes with fully resolved links and :).
+If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org to render nodes with fully resolved links and offered context :).
 
 # Journals
 - Nodes matching [[ISO 8601]], [[RFC 3339]] and derivations are interpreted as declarations of [[journals]].
-- Thereafter [[journals]]:
-  - ...will lead you to a variety of nodes matching a date, like:
+- Thereafter if you visit [[journals]]:
+  - ...it will lead you to a variety of resources having to do (matching) eatching a date, like:
     - [[2024-02-19]].
     - [[journal/2024-02-23]].
     - [[2024-02-24]].
