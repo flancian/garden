@@ -3,7 +3,9 @@
   - You can add your own contribution to the index of any Agoras you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question; please see [[how to edit this Agora]] below if interested.
   
 # Nodes
-The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for links.
+A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
+
+The following are maybe interesting nodes to serve as entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for links.
 
   - [[person]]
     - contains links to nodes about [[people]]
