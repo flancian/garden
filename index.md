@@ -1,5 +1,5 @@
 - An [[index]].
-  - To this (my) [[digital garden]], and by extension to the [[Agora of Flancia]].
+  - To this(my) [[digital garden]], and by extension to the [[Agora of Flancia]].
     - If you are reading this in an Agora, you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
   - You can add your own index by storing an `index.md` file in your garden and contributing it to the Agora.
   - The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for links.
