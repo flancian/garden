@@ -4,7 +4,7 @@ If you are reading this in an [[Agora]] proper, you should see it rendered surro
 
 You can add your own contributions to the index of any Agoras you participate in by adding a resource like `index.md` to your [[garden]] or [[stoa]]. More in general, resources matching a particular title will show up in matching nodes or Agora locations. 
 
-Please see [[how to edit this Agora]] below if you're interested in contributing or running your own.
+Please see [[how to edit this Agora]] below if you're interested in contributing or [[how to run an Agora]] for instructions for running your own.
   
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
