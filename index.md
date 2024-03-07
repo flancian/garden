@@ -5,7 +5,7 @@
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
 
-The following are maybe interesting nodes to serve as entry points to this garden, and to the Agora at large. Beyond the resources (mostly text [[notes]]) in the nodes themselves, check for links in and out established through use
+The following are maybe interesting nodes to serve as entry points to this garden, and to the Agora at large. Beyond the resources (mostly text [[notes]]) in the nodes themselves, check for [[links]] in and out established through use.
 
   - [[person]]
     - contains links to nodes about [[people]]
