@@ -42,7 +42,7 @@ You can also contribute straight from the [[Fediverse]] once you get an account 
 Once you sign up to the [[Fediverse]], you can follow [[@agora@botsin.space]] and it will watch your posts for [[wikilinks]]. You can configure the bot to include the full text of your post or only links; and to also include, and respond to, post with #hashtags.
 
 ## If you are in a rush and don't care about attribution
-Consider just leaving a note anywhere around the [[Agora]] 
+Consider just leaving an anonymous note anywhere around the [[Agora]] in a [[stoa]], which is a public space meant for collaboration (think [[wiki]] or shared editor).
 
 ## For more
 Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; same if you have questions or just need help in general!
