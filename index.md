@@ -2,7 +2,7 @@ Here we are in the [[index]] of my [[digital garden]] -- and by extension, throu
 
 If you are reading this in an [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :) If you are reading this in [[git]] or an only partially supported editor, please refer to https://anagora.org or some other well-known Agora to render this with resolved links and full context :).
 
-You can add your own contributions to the index of any Agoras you participate in by adding a resource like `index.md` to your [[garden]] or [[stoa]]. Please see [[how to edit this Agora]] below if interested.
+You can add your own contributions to the index of any Agoras you participate in by adding a resource like `index.md` to your [[garden]] or [[stoa]]. In general, resources matching a particular title will show up in matching nodes (Agora locations). Please see [[how to edit this Agora]] below if interested.
   
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
