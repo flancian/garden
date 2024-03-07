@@ -5,13 +5,16 @@
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
 
-The following are maybe interesting nodes to serve as entry points to this garden, and to the Agora at large. Beyond the resources (mostly text [[notes]]) in the nodes themselves, check for [[links]] in and out established through use.
+The following are maybe interesting nodes to serve as entry points to this garden, and to the Agora at large. 
 
   - [[person]]
     - contains links to nodes about [[people]]
+  - 
   - #go
     - contains, and [[redirects]] to, URLs tagged as canonical for some node.
     
+Beyond the resources (mostly text [[notes]]) in the nodes themselves, check for [[links]] in and out established through use.
+
 If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org to render nodes with fully resolved links and offered context :).
 
 # Journals
