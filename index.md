@@ -8,7 +8,7 @@ A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing
 The following are maybe interesting nodes to serve as entry points to this garden, and to the Agora at large. 
 
   - [[Person]]: contains links to nodes about [[people]].
-  - [[Agora]]: I write about the Agora often, in the Agora of course :) This node 
+  - [[Agora]]: I write about the Agora often, in the Agora of course :) This node, like all and the Agora proper, is a [[work in progress]] -- 
   - [[Commons]]: the [[Free]] [[Commons]] is an ideal that the Agora tries to uphold and represent for the benefit of its users and all sentient beings. A lot of my writing has to do with the Commons in one way or another.
   - #go: you can find in the context links to nodes which contain a URL marked as canonical for the topic in question. It is an example of an [[Agora action]] which [[redirects]] to these URLs on demand.
     
