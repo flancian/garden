@@ -22,8 +22,8 @@ The following are maybe interesting entry points to this garden, and to the Agor
 ## How to edit this Agora
 See [[Agora editors]] for alternatives. As a [[Flancian]] I currently recommend:
 
-- [[Silver Bullet]] <- start here by default as of the time of writing ([[2024]]).
-- [[Logseq]] (AGPL).
+- [[Silver Bullet]] (([[MIT]] license)<- start here by default as of the time of writing ([[2024]]).
+- [[Logseq]] ([[AGPL]]).
 - [[Obsidian]] (closed source).
 
 Please [[reach out]] if you want to try [[note taking]], in the Agora or in your private garden, and need help!
