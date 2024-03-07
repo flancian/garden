@@ -2,7 +2,7 @@ Here we are in the [[index]] of my [[digital garden]] -- and by extension, throu
 
 If you are reading this in the [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :)
 
-You can add your own contributions to the index of any Agoras you participate in by contributing a resource like `index.md` in your [[garden]] or [[stoa]] and contributing it to the Agora in question. Please see [[how to edit this Agora]] below if interested.
+You can add your own contributions to the index of any Agoras you participate in by adding a resource like `index.md` to your [[garden]] or [[stoa]]. Please see [[how to edit this Agora]] below if interested.
   
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
@@ -40,6 +40,8 @@ Then sign up for a [[git]] provider, like https://codeberg.org (or the better kn
 You can also contribute straight from the [[Fediverse]] once you get an account in a server (e.g. one providing [[Mastodon]] to a community, or one you run yourself). I am part of and help run [[social.coop]]; it is a good one if you are interested in [[cooperativism]]. There's thousands more! See [[Map of the Fediverse]] for more.
 
 Once you sign up to the [[Fediverse]], you can follow [[@agora@botsin.space]] and it will watch your posts for [[wikilinks]]. You can configure the bot to include the full text of your post or only links; and to also include, and respond to, post with #hashtags.
+
+
 
 ## For more
 Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; same if you have questions or just need help in general!
