@@ -26,7 +26,7 @@ See [[Agora editors]] for alternatives. As a [[Flancian]] I currently recommend:
 - [[Logseq]] ([[AGPL]]).
 - [[Obsidian]] (closed source).
 
-You can also contribute from the [[Fediverse]] by signing up to a server (providing e.g. [[Mastodon]] to a community). I am part of [[social.coop]]; it is a good one if you are interested in [[cooperativism]]. There's thousands more!
+You can also contribute straight from the [[Fediverse]] by signing up to a server (providing e.g. [[Mastodon]] to a community). I am part of [[social.coop]]; it is a good one if you are interested in [[cooperativism]]. There's thousands more!
 
 Once you sign up to the [[Fediverse]], you can follow [[@agora@botsin.space]]
 
