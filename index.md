@@ -1,6 +1,8 @@
-Here we are in the [[index]] of my [[digital garden]] -- and by extension, through composition, an entry point to the [[Agora of Flancia]], which is a [[Knowledge Commons]].
+Here we are in the [[index]] of my [[digital garden]] -- and by extension, through composition, an entry point to the [[Agora of Flancia]], which is meant to be a [[Knowledge Commons]].
 
-If you are reading this in the [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :)
+If you are reading this in an [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :)
+
+If you are reading this in [[git]] or a partially supported [[editor]], please refer to https://anagora.org or some other well-known Agora to see what you're reading with fully resolved links and offered context :).
 
 You can add your own contributions to the index of any Agoras you participate in by adding a resource like `index.md` to your [[garden]] or [[stoa]]. Please see [[how to edit this Agora]] below if interested.
   
@@ -16,7 +18,6 @@ The following are maybe interesting nodes to serve as entry points to this garde
     
 Beyond checking the resources in the nodes proper (mostly text notes), remember to check for [[links]] in and out of each context established through use.
 
-If you are reading this in [[git]] or a partially supported [[editor]], please refer to https://anagora.org or some other well-known Agora to see what you're reading with fully resolved links and offered context :).
 
 # Journals
 - Nodes whose titles look like dates, like e.g. those matching [[ISO 8601]] or [[RFC 3339]], are interpreted as declarations of public [[journals]].
