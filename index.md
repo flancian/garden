@@ -18,7 +18,7 @@ If you are reading this in [[git]] or a partially supported [[editor]], please r
 
 # Journals
 - Nodes whose titles look like dates, like e.g. those matching [[ISO 8601]] or [[RFC 3339]], are interpreted as declarations of public [[journals]].
-- Thereafter if you visit [[journals]] in an Agora, it should lead you to a variety of resources:
+- If you visit node [[journals]] in an Agora, it should lead you to a variety of time-anchored contributions, e.g.:
     - [[2024-02-19]].
     - [[journal/2024-02-23]].
     - [[2024-02-24]].
