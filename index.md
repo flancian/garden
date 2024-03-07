@@ -12,7 +12,7 @@ The following are maybe interesting nodes to serve as entry points to this garde
   - [[Commons]]: the [[Free]] [[Commons]] is an ideal that the Agora tries to uphold and represent for the benefit of its users and all sentient beings. A lot of my writing has to do with the Commons in one way or another.
   - #go: you can find in the context links to nodes which contain a URL marked as canonical for the topic in question. It is an example of an [[Agora action]] which [[redirects]] to these URLs on demand.
     
-Beyond checking the resources (mostly text [[notes]]) in the nodes themselves, check for [[links]] in and out established through use.
+Beyond checking the resources in the nodes proper, remember to check for [[links]] in and out established through use in each context.
 
 If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org to render nodes with fully resolved links and offered context :).
 
