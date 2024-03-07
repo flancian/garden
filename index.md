@@ -1,8 +1,8 @@
 Here we are in the [[index]] of my [[digital garden]] -- and by extension, through composition, an entry point to the [[Agora of Flancia]].
 
-If you are reading this in the [[Agora]] proper, you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
+If you are reading this in the [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :)
 
-You can add your own contribution to the index of any Agoras you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question; please see [[how to edit this Agora]] below if interested.
+You can add your own contributions to the index of any Agoras you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question; please see [[how to edit this Agora]] below if interested.
   
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
