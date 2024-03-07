@@ -16,10 +16,11 @@ The following are maybe interesting entry points to this garden, and to the Agor
 - See for example [[2024-02-19]] as I'm trying out [[silver bullet]]]] as the [[Agora Editor]].
 
 ## How to edit this Agora
-- See [[Agora editors]] for alternatives. I currently recommend:
+See [[Agora editors]] for alternatives. I currently recommend:
+
 - [[Silver Bullet]] <- start here if in doubt.
-- [[Logseq]]
-- [[Obsidian]] are the recommended ones if you want to try [[note taking]], in the Agora or in your private garden, consider giving it a shot!
+- [[Logseq]] (AGPL)
+- [[Obsidian]] (closed source) are the recommended ones if you want to try [[note taking]], in the Agora or in your private garden, consider giving it a shot!
 - [[journals]]
   - will lead you to a variety of nodes matching a date, like:
     - [[journal/2024-02-23]]
