@@ -1,4 +1,4 @@
-Here we are in the [[index]] of my [[digital garden]], meaning in effect a possible [[entrypoint]] to it and by extension to the [[Agora of Flancia]].
+Here we are in the [[index]] of my [[digital garden]] -- and by extension to the [[Agora of Flancia]].
 
 If you are reading this in an [[Agora]] proper, you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
 
