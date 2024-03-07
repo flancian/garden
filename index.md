@@ -9,7 +9,7 @@ The following are maybe interesting nodes to serve as entry points to this garde
 
   - [[Person]]: contains links to nodes about [[people]].
   - [[Commons]]: the [[Free]] [[Commons]] is an ideal that the Agora tries to uphold and represent for the benefit of its users and all sentient beings. A lot of my writing has to do with the Commons in one way or another.
-  - #go: contains, and [[redirects]] to, URLs tagged as canonical for some node.
+  - #go: you can find in the context links to nodes which contain a URL marked as canonical for the topic in question. It is an example of an [[Agora action]] which [[redirects]] to, URLs tagged as canonical for some node.
     
 Beyond the resources (mostly text [[notes]]) in the nodes themselves, check for [[links]] in and out established through use.
 
