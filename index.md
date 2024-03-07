@@ -1,7 +1,7 @@
 - Here we are in the [[index]] of the [[Agora]], meaning an [[entrypoint]] for my [[public]] [[digital garden]], and by extension to its composition with the [[Agora of Flancia]] and others I belong to.
   - If you are reading this in an [[Agora]] proper, you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
-  - If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org for services to render 
-  - You can add your own index to any Agoras you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question.
+  - You can add your own index to the Agora you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question; please see [[how to edit this Agora]] below if interested.
+  - If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org for services to render nodes as [[html]] :).
   
 # Nodes
 The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for links.
