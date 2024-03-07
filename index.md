@@ -16,7 +16,7 @@ The following are maybe interesting entry points to this garden, and to the Agor
 - See for example [[2024-02-19]] as I'm trying out [[silver bullet]]]] as the [[Agora Editor]].
 
 ## How to edit this Agora
-See [[Agora editors]] for alternatives. I currently recommend:
+See [[Agora editors]] for alternatives. As a [[Flancian]] I currently recommend:
 
 - [[Silver Bullet]] <- start here if in doubt.
 - [[Logseq]] (AGPL)
