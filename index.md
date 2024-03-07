@@ -1,6 +1,8 @@
-- Here we are in the [[index]] of the [[Agora]], meaning an [[entrypoint]] for my [[public]] [[digital garden]], and by extension to its composition with the [[Agora of Flancia]] and others I belong to.
-  - If you are reading this in an [[Agora]] proper, you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
-  - You can add your own contribution to the index of any Agoras you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question; please see [[how to edit this Agora]] below if interested.
+Here we are in the [[index]] of the [[Agora]], meaning an [[entrypoint]] for my [[public]] [[digital garden]], and by extension to its composition with the [[Agora of Flancia]] and others I belong to.
+
+If you are reading this in an [[Agora]] proper, you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
+
+You can add your own contribution to the index of any Agoras you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question; please see [[how to edit this Agora]] below if interested.
   
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
@@ -40,4 +42,4 @@ You can also contribute straight from the [[Fediverse]] once you get an account 
 Once you sign up to the [[Fediverse]], you can follow [[@agora@botsin.space]] and it will watch your posts for [[wikilinks]]. You can configure the bot to include the full text of your post or only links; and to also include, and respond to, post with #hashtags.
 
 ## For more
-Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; also if you have questions or need help in general!
+Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; same if you have questions or just need help in general!
