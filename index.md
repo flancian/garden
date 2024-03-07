@@ -17,7 +17,7 @@ Beyond checking the resources in the nodes proper (mostly text notes), remember 
 If you are reading this in [[git]] or a partially supported [[editor]], please refer to https://anagora.org or some other well-known Agora to see what you're reading with fully resolved links and offered context :).
 
 # Journals
-- Nodes matching [[ISO 8601]], [[RFC 3339]] and derivations are interpreted as declarations of [[journals]].
+- Nodes whose titles look like dates, like e.g. those matching [[ISO 8601]] or [[RFC 3339]] are interpreted as declarations of [[journals]].
 - Thereafter if you visit [[journals]]:
   - ...it will lead you to a variety of nodes having contributed resources matching a date, e.g.:
     - [[2024-02-19]].
