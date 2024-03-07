@@ -26,4 +26,6 @@ See [[Agora editors]] for alternatives. As a [[Flancian]] I currently recommend:
 - [[Logseq]] ([[AGPL]]).
 - [[Obsidian]] (closed source).
 
-Please [[reach out]] if you want to try [[note taking]], in the Agora or in your private garden, and need help!
+You can also contribute from the [[Fediverse]] by signing up to 
+
+Please [[reach out]] if you want to try [[note taking]] or contributing to the [[Agora]] in general and need help!
