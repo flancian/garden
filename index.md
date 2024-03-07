@@ -2,6 +2,8 @@
   - To this, meaning my [[digital garden]], and by extension its composition with the [[Agora of Flancia]].
     - If you are reading this in an [[Agora]], you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
   - You can add your own index to the Agoras you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora.
+  
+## Nodes
   - The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for links.
     - [[person]]
       - contains links to nodes about [[people]]
