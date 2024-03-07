@@ -24,11 +24,13 @@ If you are reading this in [[git]] or a partially supported [[editor]], please r
     - [[2024-02-24]].
 
 ## How to edit this Agora
-See [[Agora editors]] for alternatives. I ([[Flancian]]) I currently recommend:
+See [[Agora editors]] for alternatives. I ([[Flancian]]) currently recommend:
 
-- [[Silver Bullet]] (([[MIT]] license)<- start here by default as of the time of writing ([[2024]]).
+- [[Silver Bullet]] ([[MIT]] license) <- start here by default as of the time of writing ([[2024]]).
 - [[Logseq]] ([[AGPL]]).
 - [[Obsidian]] (closed source).
+
+Then sign up for a 
 
 You can also contribute straight from the [[Fediverse]] once you get an account in a server (e.g. one providing [[Mastodon]] to a community, or one you run yourself). I am part of and help run [[social.coop]]; it is a good one if you are interested in [[cooperativism]]. There's thousands more! See [[Map of the Fediverse]] for more.
 
