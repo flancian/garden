@@ -9,7 +9,7 @@ The following are maybe interesting entry points to this garden, and to the Agor
   - #go
     - contains, and [[redirects]] to, URLs tagged as canonical for some node.
     
-If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org for services to render nodes as [[html]] :).
+If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org to render nodes with fully resolved links and :).
 
 # Journals
 - Nodes matching [[ISO 8601]], [[RFC 3339]] and derivations are interpreted as declarations of [[journals]].
