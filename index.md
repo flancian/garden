@@ -30,7 +30,7 @@ See [[Agora editors]] for alternatives. I ([[Flancian]]) currently recommend:
 - [[Logseq]] ([[AGPL]]).
 - [[Obsidian]] (closed source).
 
-Then sign up for a 
+Then sign up for a [[git]] provider, like https://codeberg.org or the better known and decent but corporate-run https://github.com, 
 
 You can also contribute straight from the [[Fediverse]] once you get an account in a server (e.g. one providing [[Mastodon]] to a community, or one you run yourself). I am part of and help run [[social.coop]]; it is a good one if you are interested in [[cooperativism]]. There's thousands more! See [[Map of the Fediverse]] for more.
 
