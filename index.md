@@ -13,7 +13,8 @@ The following are maybe interesting entry points to this garden, and to the Agor
 
 # Journals
 - Nodes matching [[ISO 8601]], [[RFC 3339]] and derivations are interpreted as declarations of [[journals]].
-- See for example [[2024-02-19]] as I'm trying out [[silver bullet]]]] as the [[Agora Editor]]. It is looking highly promising -- if you want to try out [[note taking]], in the Agora or in your private garden, consider giving it a shot!
+- See for example [[2024-02-19]] as I'm trying out [[silver bullet]]]] as the [[Agora Editor]].
+  - See [[Agora editors]] for alternatives but this one and [[Obsidian]] are the recommended ones to start out by default. e- if you want to try out [[note taking]], in the Agora or in your private garden, consider giving it a shot!
 - [[journals]]
   - will lead you to a variety of nodes matching a date, like:
     - [[journal/2024-02-23]]
