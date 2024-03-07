@@ -28,6 +28,6 @@ See [[Agora editors]] for alternatives. As a [[Flancian]] I currently recommend:
 
 You can also contribute from the [[Fediverse]] by signing up to a server (providing e.g. [[Mastodon]] to a community). I am part of [[social.coop]]; it is a good one if you are interested in [[cooperativism]]. There's thousands more!
 
-Once you sign up to the [[Fediverse]], you can follow [[]]
+Once you sign up to the [[Fediverse]], you can follow [[@agora@botsin.space]]
 
 Please [[reach out]] if you want to try [[note taking]] or contributing to the [[Agora]] in general and need help!
