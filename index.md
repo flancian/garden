@@ -20,8 +20,6 @@ See [[Agora editors]] for alternatives. As a [[Flancian]] I currently recommend:
 
 - [[Silver Bullet]] <- start here if in doubt.
 - [[Logseq]] (AGPL)
-- [[Obsidian]] (closed source) are the recommended ones if you want to try [[note taking]], in the Agora or in your private garden, consider giving it a shot!
-- [[journals]]
-  - will lead you to a variety of nodes matching a date, like:
-    - [[journal/2024-02-23]]
-    - [[2024-02-24]] is also acceptable
+- [[Obsidian]] (closed source).
+
+Please [[reach out]] if you want to try [[note taking]], in the Agora or in your private garden, and need help!
