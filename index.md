@@ -1,15 +1,15 @@
 - Here we are in the [[index]] of the [[Agora]], meaning an [[entrypoint]] for my [[public]] [[digital garden]], and by extension to its composition with the [[Agora of Flancia]] and others I belong to.
   - If you are reading this in an [[Agora]] proper, you should see it in the context of several other indexes -- potentially one for each user contributing to that particular Agora :)
-  - You can add your own index to the Agora you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question; please see [[how to edit this Agora]] below if interested.
-  - If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org for services to render nodes as [[html]] :).
+  - You can add your own contribution to the index of any Agoras you participate in by storing an `index.md` file in your [[garden]] or [[stoa]] and contributing it to the Agora in question; please see [[how to edit this Agora]] below if interested.
   
 # Nodes
 The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for links.
-
   - [[person]]
     - contains links to nodes about [[people]]
   - #go
     - contains, and [[redirects]] to, URLs tagged as canonical for some node.
+    
+If you are reading this in [[git]] or an [[editor]], please refer to https://anagora.org for services to render nodes as [[html]] :).
 
 # Journals
 - Nodes matching [[ISO 8601]], [[RFC 3339]] and derivations are interpreted as declarations of [[journals]].
