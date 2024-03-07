@@ -24,6 +24,8 @@ If you are reading this in [[git]] or a partially supported [[editor]], please r
     - [[2024-02-24]].
 
 # How to contribute to this Agora
+
+## If you like to take personal notes (recommended)
 See [[Agora editors]] for alternatives. I ([[Flancian]]) currently recommend:
 
 - [[Silver Bullet]] ([[MIT]] license) <- start here by default as of the time of writing ([[2024]]).
