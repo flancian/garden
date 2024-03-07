@@ -4,6 +4,7 @@
   
 # Nodes
 The following are maybe interesting entry points to this garden, and to the Agora at large. Beyond the notes in the nodes themselves, check for links.
+
   - [[person]]
     - contains links to nodes about [[people]]
   - #go
@@ -14,7 +15,7 @@ If you are reading this in [[git]] or an [[editor]], please refer to https://ana
 # Journals
 - Nodes matching [[ISO 8601]], [[RFC 3339]] and derivations are interpreted as declarations of [[journals]].
 - Thereafter if you visit [[journals]]:
-  - ...it will lead you to a variety of resources having to do (matching) eatching a date, like:
+  - ...it will lead you to a variety of nodes having contributed resources matching a date, e.g.:
     - [[2024-02-19]].
     - [[journal/2024-02-23]].
     - [[2024-02-24]].
