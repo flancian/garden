@@ -6,6 +6,7 @@
     - That is a hypothesis, of course. It seems like it has to do with [[m prime]] and [[protopoi]]
   - [[wp]] https://en.wikipedia.org/wiki/Multiverse
   - [[hypotheses]]:
-    - the observable universe could be consistent with the [[many worlds interpretation of quantum mechanics]].
+    - The observable universe could be consistent with the [[many worlds interpretation of quantum mechanics]].
       - #pull [[david deutsch]] [[max tegmark]]
+    - Some version of [[dust theory]] or [[]]
 
