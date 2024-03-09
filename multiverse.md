@@ -8,5 +8,5 @@
   - [[hypotheses]]:
     - The observable universe could be consistent with the [[many worlds interpretation of quantum mechanics]].
       - #pull [[david deutsch]] [[max tegmark]]
-    - Some version of [[dust theory]] or [[]]
+    - Some version of [[dust theory]] or [[unasanu]] is correct, in that perhaps any computable conscious state will take place 
 
