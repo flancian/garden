@@ -1,0 +1,2 @@
+- How [[unlikely]] it seems to find ourselves with the light of consciousness!
+- How fragile seems sentient [[life]], and how beautiful.
