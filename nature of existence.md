@@ -1,1 +1,1 @@
-- 
+- I believe I have seen the true nature of existence at different times in my life, which was beautiful as it was; thank you universe, and the multiverse in its potentiality.
