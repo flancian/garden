@@ -1,8 +1,9 @@
 # edit
 
-- I am trying to run an easy-to-use [[agora editor]] using, as of the time of writing, [[silverbullet]]:
-  - #pull https://edit.anagora.org
-- an [[action]]
+- an [[action]].
+  - I am trying to run an easy-to-use [[agora editor]] for people to edit the Agora if they don't currently have another host. As of the time of writing, I'm using [[silverbullet]]:
+    - #pull https://edit.anagora.org
+- an [[action]].
 	- I want to execute it at least [[weekly]].
 	- I've been failing *hard* at this, now trying to come up with a [[plan]].
 	- [[push]] [[do]]
