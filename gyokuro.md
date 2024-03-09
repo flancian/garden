@@ -1,1 +1,1 @@
-- I like it normal and [[karigane]].
+- I like it a lot, I enjoy also its [[karigane]].
