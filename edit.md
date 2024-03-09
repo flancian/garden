@@ -1,9 +1,10 @@
 # edit
 
+- #pull https://edit.anagora.org
 - an [[action]].
   - in the [[Agora]]:
     - I am trying to run an easy-to-use [[agora editor]] as a community service for people to [[edit the Agora]] if they don't currently have another host. As of the time of writing, I'm using [[silverbullet]]:
-  - #pull https://edit.anagora.org
+    - If this Agora is correctly set up, you should see an Agora editor above :)
 - an [[action]].
   - in [[real life]] :)
 	- I want to execute it at least [[weekly]].
