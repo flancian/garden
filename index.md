@@ -1,6 +1,6 @@
 Here we are in the [[index]] of my [[digital garden]] -- which serves, by extension, as an entry point to the [[Agora of Flancia]].
 
-(If you remember one thing, remember this: the Agora is a [[Free Knowledge Commons]].)
+(If you remember one thing about the Agora, remember this: the Agora is a [[Free Knowledge Commons]].)
 
 If you are reading this in an [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :) If you are reading this in [[git]] or an only partially supported editor, please refer to https://anagora.org or some other well-known Agora to render this with resolved links and full context :).
 
