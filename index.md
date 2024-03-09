@@ -50,4 +50,4 @@ Consider just leaving an anonymous note anywhere around the [[Agora]] in a [[sto
 ## For more
 Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need [[help]] in general!
 
--> [[2024-03-08]]
+-> [[Agora Development]] [[Agora Discuss]]
