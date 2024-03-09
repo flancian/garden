@@ -1,8 +1,6 @@
 Here we are in the [[index]] of my [[digital garden]] -- which serves, by extension, as an entry point to the [[Agora of Flancia]].
 
-(If you remember one thing about the Agora, remember this: the Agora is a [[Free Knowledge Commons]].)
-
-If you are reading this in an [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :) If you are reading this in [[git]] or an only partially supported editor, please refer to https://anagora.org or some other well-known Agora to render this with resolved links and full context :).
+f you are reading this in an [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :) If you are reading this in [[git]] or an only partially supported editor, please refer to https://anagora.org or some other well-known Agora to render this with resolved links and full context :).
 
 You can add your own contributions to the index of any Agoras you participate in by adding a resource like `index.md` to your [[garden]] or [[stoa]]. More in general, resources matching a particular title will show up in matching nodes or Agora locations. 
 
@@ -49,5 +47,7 @@ Consider just leaving an anonymous note anywhere around the [[Agora]] in a [[sto
 
 ## For more
 Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need [[help]] in general!
+
+If you remember one thing about the Agora, remember this: the Agora is a [[Free Knowledge Commons]].)
 
 -> [[Agora Development]] [[Agora Discuss]]
