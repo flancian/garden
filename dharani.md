@@ -1,0 +1,3 @@
+- a [[recitation]].
+  - #pull https://en.wikipedia.org/wiki/Dharani
+  - #pull [[mantra]]
