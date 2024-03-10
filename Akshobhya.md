@@ -1,2 +1,3 @@
 - a [[person]].
   - [[bodhisattva]].
+  - also one of the [[Five Wisdom Buddhas]].
