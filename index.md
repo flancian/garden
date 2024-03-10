@@ -1,6 +1,6 @@
 Here we are in the [[index]] of my [[digital garden]] -- which serves, by extension, as an entry point to the [[Agora of Flancia]].
 
-If you are reading this in an [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :) If you are reading this in [[git]] or an only partially supported editor, please refer to https://anagora.org or some other well-known Agora to render this with resolved links and full context :).
+If you are reading this in an [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :) If you are reading this in [[git]] or an only partially supported editor, please refer to https://anagora.org/@flancian/index or some other well-known Agora to render this with resolved links and full context :).
 
 You can add your own contributions to the index of any Agoras you participate in by adding a resource like `index.md` to your [[garden]] or [[stoa]]. More in general, resources matching a particular title will show up in matching nodes or Agora locations. 
 
