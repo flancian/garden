@@ -1,1 +1,2 @@
-![](2024-03-10T18:49:23,436855554+01:00.png)- 
+![](2024-03-10T18:49:23,436855554+01:00.png)- The linked screenshot exemplifies a bug that’s been around since I added the AI Assistant to the [[Agora]] -- sometimes the output, once generated, is pasted into the wrong div :D
+  - Should be fun to fix, hypothesis is that I reused class names a bit too much ;)
