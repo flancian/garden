@@ -2,3 +2,4 @@
   - [[bodhisattva]].
   - also one of the [[Five Wisdom Buddhas]].
   - #pull https://en.wikipedia.org/wiki/Akshobhya
+- #pull [[71]]
