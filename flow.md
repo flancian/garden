@@ -20,35 +20,12 @@ Sometimes I like to get into flow with a [[quick fix]].
   - a [[playlist]].
     - [[30 days]] of [[yoga with Adriene]] and [[yoga with x]] in [[2024]]
     - #go https://www.youtube.com/watch?v=0et6I930LaU&list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-    -   - #0 https://www.youtube.com/watch?v=0et6I930LaU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #1 https://www.youtube.com/watch?v=2HKBOfEX7HA?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #2 https://www.youtube.com/watch?v=Qbnpbqd-jhQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #3 https://www.youtube.com/watch?v=4rZAQ2LfDAs?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #4 https://www.youtube.com/watch?v=SZF7Jp6SyPI?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #5 https://www.youtube.com/watch?v=IM1_XI56boY?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #6 https://www.youtube.com/watch?v=GFY356-1K-Q?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #7 https://www.youtube.com/watch?v=MAASAP7qXCQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #8 https://www.youtube.com/watch?v=mACIBRUH5TU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #9 https://www.youtube.com/watch?v=9jZfPYL6ufU?list=  - #go https://www.youtube.com/playlist?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #0 https://www.youtube.com/watch?v=0et6I930LaU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #1 https://www.youtube.com/watch?v=2HKBOfEX7HA?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #2 https://www.youtube.com/watch?v=Qbnpbqd-jhQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #3 https://www.youtube.com/watch?v=4rZAQ2LfDAs?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #4 https://www.youtube.com/watch?v=SZF7Jp6SyPI?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #5 https://www.youtube.com/watch?v=IM1_XI56boY?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #6 https://www.youtube.com/watch?v=GFY356-1K-Q?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #7 https://www.youtube.com/watch?v=MAASAP7qXCQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #8 https://www.youtube.com/watch?v=mACIBRUH5TU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #9 https://www.youtube.com/watch?v=9jZfPYL6ufU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #10 https://www.youtube.com/watch?v=2GVysgcBo_U?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #11 https://www.youtube.com/watch?v=IOwKfP2LWxk?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #12 https://www.youtube.com/watch?v=MaN7TOFv_RQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #13 https://www.youtube.com/watch?v=w2Ynv-m0gzI?list=PL  - #0 https://www.youtube.com/watch?v=0et6I930LaU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #1 https://www.youtube.com/watch?v=2HKBOfEX7HA?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #2 https://www.youtube.com/watch?v=Qbnpbqd-jhQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #3 https://www.youtube.com/watch?v=4rZAQ2LfDAs?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #4 https://www.youtube.com/watch?v=SZF7Jp6SyPI?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-  - #5 https://www.youtube.com/watch?v=IM1_XI56boY?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
+      - #0 https://www.youtube.com/watch?v=0et6I930LaU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
+      - #1 https://www.youtube.com/watch?v=2HKBOfEX7HA?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
+      - #2 https://www.youtube.com/watch?v=Qbnpbqd-jhQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
+      - #3 https://www.youtube.com/watch?v=4rZAQ2LfDAs?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
+      - #4 https://www.youtube.com/watch?v=SZF7Jp6SyPI?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
+      - #5 https://www.youtube.com/watch?v=IM1_XI56boY?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
   - #6 https://www.youtube.com/watch?v=GFY356-1K-Q?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
   - #7 https://www.youtube.com/watch?v=MAASAP7qXCQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
   - #8 https://www.youtube.com/watch?v=mACIBRUH5TU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
