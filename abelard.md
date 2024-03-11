@@ -1,0 +1,5 @@
+- a [[person]].
+  - [[philosopher]].
+  - #pull [[heloise]]
+- a [[person]].
+  - [[online]] https://www.abelard.org/abstracts/quotes1.asp
