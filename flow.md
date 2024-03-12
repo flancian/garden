@@ -20,7 +20,6 @@ Sometimes I like to get into flow with a [[quick fix]].
   - a [[playlist]].
     - [[30 days]] of [[yoga with Adriene]] and [[yoga with x]] in [[2024]]
     - #go https://www.youtube.com/watch?v=0et6I930LaU&list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
-      - #0 https://www.youtube.com/watch?v=0et6I930LaU?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
       - #1 https://www.youtube.com/watch?v=2HKBOfEX7HA?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
       - #2 https://www.youtube.com/watch?v=Qbnpbqd-jhQ?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
       - #3 https://www.youtube.com/watch?v=4rZAQ2LfDAs?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
