@@ -1,1 +1,5 @@
-- #pull [[fediverse papers]] [[federalist papers]]
+- a [[project]].
+  - by [[Darius Kazemi]] and [[Erin Kissane]].
+  - #go https://write.as/fediversalist-papers/
+  - #email <hidden>
+  - #pull [[fediverse papers]] [[federalist papers]] as I occasionally "mis"remembered them initially :)
