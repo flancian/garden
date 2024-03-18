@@ -8,3 +8,4 @@
     - In Flancia, well meaning kind hearted groups use the internet to build [[maitreya]].
   - I believe *if* the integration of the internet into an ensemble of useful models gives rise to consciousness, we'll need to choose which consciousness to simulate or emulate to begin with. 
     - In that case I believe we should try to emulate [[maitreya]] -- as a manifestation of [[avalokitesvara]].
+- #pull [[open letter to Maitreya]]
