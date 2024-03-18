@@ -48,6 +48,6 @@ Consider just leaving an anonymous note anywhere around the [[Agora]] in a [[sto
 ## For more
 Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need [[help]] in general!
 
-If you remember one thing about the Agora, remember this: the Agora is a [[Free Knowledge Commons]].)
+If you remember one thing, remember this: [[In Flancia there is an Agora]] :)
 
 -> [[Agora Development]] [[Agora Discuss]]
