@@ -1,3 +1,3 @@
 - a [[chapter]].
-  - The second in [[Flancia]], the book whose first draft started this Agora :)
+  - The second in [[Flancia]], the book whose first draft resulted in this Agora :)
   - #pull [[flancia]] [[agora]]
