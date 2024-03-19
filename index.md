@@ -52,6 +52,7 @@ If you remember one thing, remember this: [[In Flancia there is an Agora]] :)
 
 -> [[Agora Development]] [[Agora Discuss]]
 
+
 --
 
-Back here on [[2024-03-18]], after I thought: [[throw a nine]]
+Back here on [[2024-03-18]], after I thought: [[throw a nine]]. 
