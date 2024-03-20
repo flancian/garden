@@ -6,3 +6,12 @@
 
 ## [[2024-03-20]]
 Meeting with [[Darius]] and [[Erin]].
+
+AIs: how to connect with friend instances more?
+
+How do we deal with:
+
+- misinformation
+- harassment campaigns/brigading
+- spam
+- state funded influence campaigns
