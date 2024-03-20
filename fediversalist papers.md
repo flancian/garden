@@ -11,7 +11,7 @@ AIs: how to connect with friend instances more?
 
 How do we deal with:
 
+- spam
 - misinformation
 - harassment campaigns/brigading
-- spam
 - state funded influence campaigns
