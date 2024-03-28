@@ -1,4 +1,7 @@
-- a [[musician]].
+- a [[person]].
+  - a [[musician]].
+  - #pull [[Cécile Schott]]
   - #go https://colleenplays.org/
   - #photos https://colleenplays.org/photos/#jp-carousel-211
   - #mix https://colleenplays.org/my-favorite-things/
+  - #listen https://music.youtube.com/watch?v=PIGYIe2S3lQ&si=rrc5EtLtoK6wrq4b
