@@ -1,2 +1,3 @@
 - a [[musician]].
-  - #go https://colleenplays.org/photos/#jp-carousel-211
+  - #go https://colleenplays.org/
+  - #photos https://colleenplays.org/photos/#jp-carousel-211
