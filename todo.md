@@ -3,9 +3,10 @@
 - A [[list]].
   - Of [[actions]] :)
   - See also: [[do]], for the alternate (maybe more regular) phrasing.
-- [[write]] to [[hans widmer]]
-  - I didn't do this yet but I met him in [[Paranoia Verlag]]
+- [ ] [[write]] to [[hans widmer]]
+  - I didn't do this yet but I met him in [[Paranoia Verlag]] and spoke to him shortly :)
 - [[answer]] Riccardo on Foam discord
+  - I am not using Foam, so I think I will deprioritize this -- although I like [[Riccardo]] and [[Foam]] still!
 - Go over my [[twitter todo]] and move items to the agora
   - https://flancia.org/go/twitter-todo.
 - [[answer]] https://twitter.com/peternlimberg/status/1301937727588503554
