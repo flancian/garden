@@ -1,7 +1,10 @@
 # Todo
 
-- See [[do]] for my [[root node]]. This is for free form items, including [[pushes]].
+- A [[list]].
+  - Of [[actions]] :)
+  - See also: [[do]], for the alternate (maybe more regular) phrasing.
 - [[write]] to [[hans widmer]]
+  - I didn't do this yet but I met him in [[Paranoia Verlag]]
 - [[answer]] Riccardo on Foam discord
 - Go over my [[twitter todo]] and move items to the agora
   - https://flancia.org/go/twitter-todo.
