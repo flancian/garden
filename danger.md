@@ -1,0 +1,1 @@
+- #go https://www.ilo.org/static/english/protection/safework/cis/products/safetytm/clasann1.htm
