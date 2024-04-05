@@ -1,1 +1,2 @@
-- #go https://www.ilo.org/static/english/protection/safework/cis/products/safetytm/clasann1.htm
+- #push [[symbols of danger]]
+  - #go https://www.ilo.org/static/english/protection/safework/cis/products/safetytm/clasann1.htm
