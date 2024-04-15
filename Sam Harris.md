@@ -1,0 +1,2 @@
+- a [[person]].
+  - born [[1967]] so I think of him as part of [[67]] in the [[Flancia pattern language]].
