@@ -1,4 +1,4 @@
-Here we are in the [[index]] of my [[digital garden]] -- which serves, by extension, as an entry point to the [[Agora of Flancia]].
+This is the [[index]] of my [[digital garden]] -- which serves, by extension, as an entry point to the [[Agora of Flancia]].
 
 If you are reading this in an [[Agora]] proper, you should see it rendered surrounded by several other indexes -- potentially one for each user contributing to the Agora, in some order :) If you are reading this in [[git]] or an only partially supported editor, please visit <strong>anagora.org</strong> or some other well-known Agora to render this with resolved links and full context :).
 
@@ -17,7 +17,6 @@ The following are maybe interesting nodes to serve as entry points to this garde
   - #go: you can find in the context links to nodes which contain a URL marked as canonical for the topic in question. It is an example of an [[Agora action]] which [[redirects]] to these URLs on demand.
     
 Beyond checking the resources in the nodes proper (mostly text notes), remember to check for [[links]] in and out of each context established through use.
-
 
 # Journals
 - Nodes whose titles look like dates, like e.g. those matching [[ISO 8601]] or [[RFC 3339]], are interpreted as declarations of public [[journals]].
