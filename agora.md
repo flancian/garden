@@ -1,11 +1,5 @@
 # Agora
 
-- A [[protocol]].
-  - #pull [[agora protocol]]
-- A [[platform]].
-  - #pull [[agora platform]]
-- A [[graph]].
-  - #pull [[agora graph]]
 - A [[commons]].
   - **The Agora is a distributed knowledge graph and experimental social network.**
     - See [[go/agora slides]] if you'd like a 10' introduction to the key concepts.
@@ -32,3 +26,9 @@
     - [[bug]] https://github.com/flancian/agora/issues/new
     - [[nutshell]] https://twitter.com/flancian/status/1487110385446576134
     - [[architecture]] https://social.coop/@flancian/108346148663576473
+- A [[protocol]].
+  - #pull [[agora protocol]]
+- A [[platform]].
+  - #pull [[agora platform]]
+- A [[graph]].
+  - #pull [[agora graph]]
