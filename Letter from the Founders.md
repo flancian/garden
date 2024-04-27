@@ -1,5 +1,6 @@
 - #go https://www.nytimes.com/2004/04/29/business/letter-from-the-founders.html
-	- Reproduced in full below. Wikilinks may lead to commentary.
+	- Reproduced in full below.
+  - Wikilinks may lead to commentary.
 
 --
 
