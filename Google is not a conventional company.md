@@ -1,1 +1,1 @@
-- Google started as a non-conventional company that prided itself in being non-conventional, then became more conventional as time went on, until it embraced its conventionality.
+- [[Google]] started as a non-conventional company that prided itself in being non-conventional, then became more conventional as time went on, until it seemed to embrace its conventionality.
