@@ -1,5 +1,5 @@
 - #go https://www.nytimes.com/2004/04/29/business/letter-from-the-founders.html
-	- Reproduced in full below.
+	- Reproduced in full below. Wikilinks may lead to commentary.
 
 --
 
@@ -9,7 +9,7 @@ LETTER FROM THE FOUNDERS
 
 INTRODUCTION
 
-Google is not a conventional company. We do not intend to become one. Throughout Google’s evolution as a privately held company, we have managed Google differently. We have also emphasized an atmosphere of creativity and challenge, which has helped us provide unbiased, accurate and free access to information for those who rely on us around the world.
+[[Google is not a conventional company]]. We do not intend to become one. Throughout Google’s evolution as a privately held company, we have managed Google differently. We have also emphasized an atmosphere of creativity and challenge, which has helped us provide unbiased, accurate and free access to information for those who rely on us around the world.
 
 Now the time has come for the company to move to public ownership. This change will bring important benefits for our employees, for our present and future shareholders, for our customers, and most of all for Google users. But the standard structure of public ownership may jeopardize the independence and focused objectivity that have been most important in Google’s past success and that we consider most fundamental for its future. Therefore, we have designed a corporate structure that will protect Google’s ability to innovate and retain its most distinctive characteristics. We are confident that, in the long run, this will bring Google and its shareholders, old and new, the greatest economic returns. We want to clearly explain our plans and the reasoning and values behind them. We are delighted you are considering an investment in Google and are reading this letter.
 
