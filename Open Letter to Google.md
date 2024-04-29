@@ -36,4 +36,6 @@ Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer 
 In which ways could Google be fairer? Read on for those that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. Some of these I will expand in the version of this letter that is readable only to other Google employees.
 
 # Google should be closer to free
-By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost. By this I mean also that Google should adequately compensate the users for their attention.
+By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost. By this I mean alternatively that Google should adequately compensate the users for their attention.
+
+This might surprise you, but I think Google has been able to stay relatively close to this promise that seems quite close to its original mission (to organize information and make it universally accessible and useful).
