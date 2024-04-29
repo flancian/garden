@@ -45,4 +45,4 @@ The Agora project is my personal proposal, developed as open source and in the o
 
 The Agora puts the user first -- at least some users :) It is currently relatively user unfriendly, but this is because it's a work in progress.
 
-The Agora is a minimum viable governance platform: a space for debate and decision making based on individual exploration.
+The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and decision making based on individual exploration.
