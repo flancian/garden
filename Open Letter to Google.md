@@ -28,7 +28,7 @@ Most corporations have historically not been democratic at all; governance wise 
 
 Google toyed with a form of anti-hierarchy early in its lifetime, way before I joined in 2012. The story goes that Larry and Sergey thought that they could do away with (nascent but ever growing) layers of management, and decided that everyone would report directly to them. The experiment was cancelled after a few months due to the resulting overload. It made sense it would fail, even early in the lifetime of the company, as hierarchies have evolved to reduce coordination overhead and have strong points that have demonstrable evolutionary fitness in the market. My proposal here is, therefore, not that Google should immolate by becoming purely chaotic -- but rather that it should be one of the first companies in the 21st century to adopt techniques that have have demonstrably helped human groups scale beyond the limits imposed by what, organizationally speaking, amounts to a form of monarchy.
 
-The answer to the scaling and growing pains that Google started going through in the 10s and early 20s is not, I believe, to double down on hierarchy and limit information flow as pretty much every other Traditional Company has done while facing the same problems; but rather to inch closer to what could be called [[heterarchy]],  
+The answer to the scaling and growing pains that Google started going through in the 10s and early 20s is not, I believe, to double down on hierarchy and limit information flow as pretty much every other Traditional Company has done while facing the same problems; but rather to inch closer to what could be called [[heterarchy]], in my proposal gradually adopting principles of [[liquid democracy]]. 
 
 # Google should be fairer
 Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large.
@@ -36,6 +36,4 @@ Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer 
 In which ways could Google be fairer? Read on for those that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. Some of these I will expand in the version of this letter that is readable only to other Google employees.
 
 # Google should be closer to free
-By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost.
-
-By this I mean also that Google should adequately compensate the users for their attention.
+By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost. By this I mean also that Google should adequately compensate the users for their attention.
