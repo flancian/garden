@@ -1,4 +1,5 @@
-- [[Flancia]] can be seen as a [[book of patterns]] with [[108 chapters]].
+- #pull [[Flancia is a pattern language]]
+  - [[Flancia]] can be seen as a [[book of patterns]] with [[108 chapters]].
 - [[0]] Bootstrap
 - [[1]] Flancia
 - [[2]] Fork
