@@ -49,8 +49,8 @@ The Agora puts the user first -- at least some users :) It is currently relative
 
 First of all, it tries to make it easy to explore alternatives. The 'web results' bar that shows up just below the query tries to link out directly to as many useful sites as we can reasonably show to a visiting user. As of the time of writing Google is highlighted because I still believe it is the best search engine in the internet; and Marginalia is highlighted as a good (and distinct/quirkly fun) fully free/independent alternative.
 
-Second of all, it always has Wikipedia up top. Enough said, I believe? :)
+Second of all, it always has the Wikipedia article up top if one is found. Enough said, I believe? :)
 
-Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users.
+Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users. Being that users have a way to influence all three of the ways 
 
 Fourth of all: 
