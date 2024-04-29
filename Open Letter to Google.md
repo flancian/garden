@@ -21,7 +21,8 @@ If not these specific proposals, though, ask yourself: which proposals would ind
 
 In that spirit: if you share a proposal for the betterment of Google, I will at least add a link here. If you share a proposal for the betterment of the internet or society at large, please consider joining this Agora :)
 
-An Agora, in short, is: democratic, 
+An Agora, in short, is: free, fair and democratic. Google, being profit driven, need not be free
+
 # Google should consider becoming more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures.
 
