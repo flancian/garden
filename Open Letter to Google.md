@@ -17,7 +17,7 @@ By this I mean not the [[Agora]] as it is in its current form (in which you migh
 
 I started the Agora project back in 2017-2019 (depending on how you count) to demonstrate some basic principles in the field of knowledge management that I thought were [[interesting]] and [[important]] to explore in the open. With this letter, I want to make the argument that the Agora represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if my claims have any merit. 
 
-If not these proposals, though
+If not these specific proposals, though, ask yourself: which proposals would indeed improve Google and society more than these ones? 
 
 # Google should consider becoming more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures.
