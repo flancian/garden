@@ -51,4 +51,6 @@ First of all, it tries to make it easy to explore alternatives. The 'web results
 
 Second of all, it always has Wikipedia up top. Enough said, I believe? :)
 
-Third of all: after that, what we show is what the users have literally written.
+Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users.
+
+Fourth of all: 
