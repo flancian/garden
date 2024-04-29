@@ -26,14 +26,14 @@ An Agora, in short, is: free, fair and democratic. Google, being profit driven, 
 # Google should consider becoming more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures.
 
-Google toyed with a form of anti-hierarchy early in its lifetime, way before I joined in 2012. The story goes that Larry and Sergey thought that they could do away with (nascent but ever growing) layers of management, and decided that everyone would report directly to them. The experiment was cancelled after a few months due to the resulting overload. It made sense it would fail, even early in the lifetime of the company, as hierarchies have evolved to reduce coordination overhead and have strong points that have demonstrable evolutionary fitness in the market. My proposal here is, therefore, not that Google should immolate by becoming purely chaotic -- but rather that it should be one of the first companies in the 21st century to adopt techniques that have have 
+Google toyed with a form of anti-hierarchy early in its lifetime, way before I joined in 2012. The story goes that Larry and Sergey thought that they could do away with (nascent but ever growing) layers of management, and decided that everyone would report directly to them. The experiment was cancelled after a few months due to the resulting overload. It made sense it would fail, even early in the lifetime of the company, as hierarchies have evolved to reduce coordination overhead and have strong points that have demonstrable evolutionary fitness in the market. My proposal here is, therefore, not that Google should immolate by becoming purely chaotic -- but rather that it should be one of the first companies in the 21st century to adopt techniques that have have demonstrably helped human groups scale beyond the 
 
 # Google should be fairer
 Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large.
 
 In which ways could Google be fairer? Read on for those that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. Some of these I will expand in the version of this letter that is readable only to other Google employees.
 
-## Google should be closer to free
+# Google should be closer to free
 By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost.
 
 By this I mean also that Google should adequately compensate the users for their attention.
