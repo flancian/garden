@@ -4,3 +4,8 @@
 - an [[open letter]].
   - Or maybe just a [[node]] in the [[Agora of Flancia]].
   - About [[protopianism]] and the [[commons]] :)
+
+# Introduction
+I bet you don't run into letters with introductions every day :)
+
+This letter was written
