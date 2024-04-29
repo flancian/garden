@@ -31,7 +31,9 @@ Google toyed with a form of anti-hierarchy early in its lifetime, way before I j
 # Google should be fairer
 Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large.
 
-In which ways could Google be fairer? Read on for those that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]].
+In which ways could Google be fairer? Read on for those that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. 
 
 ## Google should be closer to free
-By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at no or minimum cost.
+By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost.
+
+By this I mean also that Google should adequately 
