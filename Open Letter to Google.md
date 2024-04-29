@@ -41,8 +41,8 @@ By this I mean not that it should become a non-profit but rather that profits sh
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
 # How the Agora factors into all of this
-The Agora project is my personal proposal, developed as open source and in the open, for how to solve the problems that ail both Google and the internet at large as they grow, age and learn.
+The Agora project is my personal proposal, developed as [[free software]] and in the open, for how to solve the problems that ail both Google and the internet at large as they grow, age and learn.
+
+The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
 The Agora puts the user first -- at least some users :) It is currently relatively user unfriendly, but this is because it's a work in progress.
-
-The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and decision making based on individual exploration.
