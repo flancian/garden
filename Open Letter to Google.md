@@ -38,4 +38,4 @@ In which ways could Google be fairer? Read on for those that I thought fitting t
 # Google should be closer to free
 By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost. By this I mean alternatively that Google should adequately compensate the users for their attention.
 
-This might surprise you, but I think Google has been able to stay relatively close to this promise that seems quite close to its original mission (to organize information and make it universally accessible and useful).
+This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
