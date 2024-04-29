@@ -40,4 +40,5 @@ By this I mean not that it should become a non-profit but rather that profits sh
 
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
-# Google 
+# How the Agora factors into all of this
+The Agora project is my personal proposal, developed as open source and in the open, for how to solve 
