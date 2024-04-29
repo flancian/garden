@@ -8,4 +8,4 @@
 # Introduction
 I bet you don't run into letters with introductions every day :)
 
-This open letter was written on the occasion of the 20th anniversary of the publication of [[Google]]'s initial [[founders letter]] with the occasion of the company's [[IPO]].
+This open letter was written on the occasion of the 20th anniversary of the publication of [[Google]]'s initial [[founders letter]] with the occasion of the company's [[IPO]] back on [[April 29th]], [[2004]].
