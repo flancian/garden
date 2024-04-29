@@ -29,4 +29,6 @@ Most corporations have historically not been democratic at all; governance wise 
 Google toyed with a form of anti-hierarchy early in its lifetime, way before I joined in 2012. The story goes that Larry and Sergey thought that they could do away with (nascent but ever growing) layers of management, and decided that everyone would report directly to them. The experiment was cancelled after a few months due to the resulting overload. It made sense it would fail, even early in the lifetime of the company, as hierarchies have evolved to reduce coordination overhead and have strong points that have demonstrable evolutionary fitness in the market. My proposal here is, therefore, not that Google should immolate by becoming purely chaotic -- but rather that it should be one of the first companies in the 21st century to adopt techniques that have have 
 
 # Google should be fairer
-Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures.
+Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large.
+
+In which ways could Google be fairer? Read on for those that 
