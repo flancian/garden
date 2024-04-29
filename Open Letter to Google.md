@@ -31,4 +31,4 @@ Google toyed with a form of anti-hierarchy early in its lifetime, way before I j
 # Google should be fairer
 Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large.
 
-In which ways could Google be fairer? Read on for those that 
+In which ways could Google be fairer? Read on for those that I thought fitting to share in public given my employment and what I think is ethics and right livelihood
