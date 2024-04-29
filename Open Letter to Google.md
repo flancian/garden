@@ -21,9 +21,12 @@ If not these specific proposals, though, ask yourself: which proposals would ind
 
 In that spirit: if you share a proposal for the betterment of Google, I will at least add a link here. If you share a proposal for the betterment of the internet or society at large, please consider joining this Agora :)
 
-An Agora, in short, is: free, fair and democratic. Google, being profit driven, need not be free at all times; but in this letter I make the point that, given its position relevance in the evolution of the internet, it *should* be fair and democratic.
+An Agora, in short, is: free, fair and democratic. Google, being profit driven, need not be free at all times; but in this letter I make the point that, given its position relevance in the evolution of the internet, it *should* be increasingly fair and democratic within its possibilities.
 
 # Google should consider becoming more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures.
 
 Google toyed with a form of anti-hierarchy early in its lifetime, way before I joined in 2012. The story goes that Larry and Sergey thought that they could do away with (nascent but ever growing) layers of management, and decided that everyone would report directly to them. The experiment was cancelled after a few months due to the resulting overload. It made sense it would fail, even early in the lifetime of the company, as hierarchies have evolved to reduce coordination overhead and have strong points that have demonstrable evolutionary fitness in the market. My proposal here is, therefore, not that Google should immolate by becoming purely chaotic -- but rather that it should be one of the first companies in the 21st century to adopt techniques that have have 
+
+# Google should be fairer
+Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures.
