@@ -10,4 +10,4 @@ I bet you don't run into letters with introductions every day :)
 
 This open letter was written on the occasion of the 20th anniversary of the publication of [[Google]]'s initial [[founders letter]] with the occasion of the company's [[IPO]] back on [[April 29th]], [[2004]].
 
-As of the time of writing this is a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state by [[May 1st]] or the weekend (depending on how work and personal life go) -- but I have covered many of these topics
+As of the time of writing this is a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state by [[May 1st]] or the weekend (depending on how work and personal life go) -- but I have covered many of these topics elsewhere in the [[Agora]] in the form of [[notes]], so please refer to 
