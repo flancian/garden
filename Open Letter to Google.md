@@ -43,4 +43,6 @@ This might surprise you, but I think Google has been able to stay relatively clo
 # How the Agora factors into all of this
 The Agora project is my personal proposal, developed as open source and in the open, for how to solve the problems that ail both Google and the internet at large as they grow, age and learn.
 
-The Agora is 
+The Agora puts the user first -- at least some users :) It is currently relatively user unfriendly, but this is because it's a work in progress.
+
+The Agora is a minimum viable governance platform.
