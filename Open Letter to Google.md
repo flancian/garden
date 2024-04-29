@@ -51,6 +51,8 @@ First of all, it tries to make it easy to explore alternatives. The 'web results
 
 Second of all, it always has the Wikipedia article up top if one is found. Enough said, I believe? :)
 
-Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users. Being that users have a way to influence all three of the ways 
+Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users. 
 
-Fourth of all: 
+Being that users have a way to influence all three of the ways listed above, I believe it is sufficiently proven that the Agora puts the user first.
+
+(...)
