@@ -47,4 +47,6 @@ The Agora, being a [[commons]], contains a minimum viable governance platform: a
 
 The Agora puts the user first -- at least some users :) It is currently relatively user unfriendly, but this is because it's a work in progress. Even at this early stage, it does put the user first in two key ways.
 
-First of all, it tries to make it easy to explore alternatives. The 'web 
+First of all, it tries to make it easy to explore alternatives. The 'web results' bar that shows up top tries to link out directly to as many useful sites as we can reasonably show to a visiting user.
+
+Second of all, it always has Wikipedia up top. Enough said :)
