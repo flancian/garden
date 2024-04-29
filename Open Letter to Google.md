@@ -1,6 +1,6 @@
 - an [[open letter]].
   - #pull [[googlagora]]
-  - [[Corp only]] as I work for [[Google]] and I believe it is most ethical to work on it within the confines of the circle of trust that the corporation pays me to uphold when it is a matter that .
+  - [[Corp only]] as I work for [[Google]] and I believe it is most ethical to work on it within the circle of trust that the corporation pays me to uphold.
 - an [[open letter]].
   - In the [[Agora of Flancia]].
   - About [[protopianism]] and the [[commons]] :)
