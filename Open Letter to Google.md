@@ -53,9 +53,11 @@ My proposal here is that Google should experiment again with some of the concept
 
 I started the Agora because I believe that the answer to the scaling, growing, aging pains that Google (and other tech corporations) went through in the [[last twenty years]] is *not* to double down on hierarchy, cease to put the user first, focus on maximizing profits while bowing down to market and government pressure and becoming informationally-opaque -- as any "[[traditional company]]" would do. 
 
-I joined Google in [[2012]] thinking the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. 
+Instead I believe the answer is to try to inch closer to what could be called an informed [[heterarchy]], in one of our proposals one yielded by gradually adopting principles of [[liquid democracy]] on top of [[traditional corporate governance]].
 
-**Note** but rather to inch closer to what could be called [[heterarchy]], in my proposal gradually adopting principles of [[liquid democracy]]. 
+Having grown up in a digital context that seems to be becoming known as the [[golden age of the internet]], I joined Google in [[2012]] thinking the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source and [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-good! -- and still make a shitload of money.
+
+
 
 # Google should be fairer
 Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large.
