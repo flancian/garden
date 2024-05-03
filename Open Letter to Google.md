@@ -53,10 +53,13 @@ My proposal here is that Google should experiment again with some of the concept
 
 I started the Agora because I believe that the answer to the scaling, growing, aging pains that Google (and other tech corporations) went through in the [[last twenty years]] is *not* to double down on hierarchy, cease to put the user first, focus on maximizing profits while bowing down to market and government pressure and becoming informationally-opaque -- as any "[[traditional company]]" would do. 
 
-Instead I believe the answer is to try to inch closer to what could be called an informed [[heterarchy]], in one of our proposals one yielded by gradually adopting principles of [[liquid democracy]] on top of [[traditional corporate governance]].
+Instead I believe the answer is to try to inch closer to what could be called an informed [[heterarchy]], in one of our proposals one yielded by gradually adopting principles of [[liquid democracy]] on top of [[traditional corporate governance]]. The Agora project came to life as a demo of a proposal for a free, transparent governance layer to facilitate this process and others similar.
 
-Having grown up in a digital context that seems to be becoming known as the [[golden age of the internet]], I joined Google in [[2012]] thinking the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source and [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-good! -- and still make a shitload of money.
+## Who I am and why I'm writing this
 
+After growing up in the digital context that seems to be becoming known as the [[golden age of the internet]] as experienced from [[Argentina]] , I joined Google in [[2012]] believing the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source]] and the internet [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-well -- and still make a more than sufficient (i.e. a shitload) of money.
+
+So why be evil, indeed, if you can be good and get away with it? Increase total utility and happiness?
 
 
 # Google should be fairer
