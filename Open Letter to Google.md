@@ -4,6 +4,7 @@
 - an [[open letter]].
   - Which you can read in this [[node]] in the [[Agora of Flancia]].
   - About [[protopianism]] in the [[Commons]] :)
+  - Written during [[May 2025]] in the context of [[node club]] on [[digital capitalism]] -- and the [[20th anniversary of the founder's letter]]
 
 # Introduction
 I bet you don't run into letters with introductions every day :)
