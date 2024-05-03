@@ -21,7 +21,7 @@ This letter is written in the spirit of [[openness]] and [[loving kindness]] tow
 
 I write this in the context of [[digital capitalism]], a.k.a. [[late stage capitalism]] for some, as it is in 2024. I want to take the occasion to explore how the internet has evolved in the last 20 years, and the role of [[Google]] in said context.
 
-By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] as is in its current form (in which you might be reading this) -- but rather [[the Agora]] in its full potential, mirroring the set of values and intentions that are closely aligned with the intent of the founders of any human, carbon/silicon group, and of many leaders through the lifetime of the company.
+By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather [[the Agora]] in its full potential, as per the set of values and intentions closely aligned with the intent of the founder and other participating beings, in particular by [[leaders]] at a particular stage of the lifecycle of the company and [[Agora community]].
 
 I started the Agora project back in 2017-2019 (depending on how you count) to demonstrate some basic principles in the field of knowledge management that I thought were [[interesting]] and [[important]] to explore in the open. With this letter, I want to make the argument that the Agora represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if my claims have any merit. 
 
