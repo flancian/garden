@@ -2,3 +2,6 @@
 	- [[guardian]] https://www.theguardian.com/science/sifting-the-evidence/2016/jan/14/does-cannabis-really-lower-your-iq
 - on [[2024-05-03]] I became a registered [[legal cannabis]] user!
   - on [[2024-05-02]] I purchased weed legally for the first time after entering a pilot by the [[swiss cannabis center]] in association with [[eth]] and [[university of zürich]].
+  - on [[2024-05-03]] I consumed it for the first time.
+    - I just vaped [[0.1g]] of [[6% thc]] [[7% cbd]] weed for the first time :)
+    - join me now, whenever and wherever you are, for some [[live noding]] in [[node club]].
