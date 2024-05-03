@@ -19,11 +19,15 @@ This letter is written in the spirit of [[openness]] and [[loving kindness]] tow
 
 # An [[Agora]] is what [[Google]] could be, again :)
 
+I am writing this letter because nobody else seems to be. With the occasion of this anniversary, to me in many ways more significant for my relationship with the company than its original founding, I was hoping for both the company and the wider internet to have a conversation about what happens to be in year 20 of [[Google's]] reign as an internet search engine and provider of [[knowledge tools]].
+
 I write this in the context of [[digital capitalism]], a.k.a. [[late stage capitalism]] for some, as it is in 2024. I want to take the occasion to explore how the internet has evolved in the last 20 years, and the role of [[Google]] in said context.
 
 By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather [[the Agora]] in its full potential, as per the set of values and intentions closely aligned with the intent of the founder and other participating beings, in particular by [[leaders]] at a particular stage of the lifecycle of the company and [[Agora community]].
 
-The writer (my self, Eduardo a.k.a. [[Flancian]]) started the Agora project back in 2017-2019 (depending on how you count) to demonstrate some basic principles in the field of knowledge management that I thought were [[interesting]] and [[important]] to explore in the open. With this letter, I want to make the argument that the Agora represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if my claims have any merit. 
+--
+
+I (meaning my [[self]], Eduardo a.k.a. [[Flancian]]) started the [[Agora project]] back in 2017-2019 (depending on how you count) to demonstrate some basic principles in the field of knowledge management that I thought were [[interesting]] and [[important]] to explore in the open. With this letter, I want to make the argument that the Agora represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if my claims have any merit. 
 
 If not these specific proposals, though, ask yourself: which proposals would indeed improve Google and society more than these ones? The Agora is, most of all, the intention of feeling free to write constructive proposals down and sharing them (ideally IMHO early), in any well-designated forum of your choice. 
 
