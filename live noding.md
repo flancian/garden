@@ -1,0 +1,2 @@
+- A [[thing]].
+  - You write in the Agora while being aware of the fourth dimension and sharing it with others :).
