@@ -13,7 +13,9 @@ This open letter was written in early [[May 2024]] with the occasion of the 20th
 
 This letter is written in the spirit of [[openness]] and [[loving kindness]] towards all beings, as a public individual who happens to be an employee of [[Google]] as of the time of writing.
 
-As of the time of writing this letter is a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state by [[May 1st]] or the weekend after, say for the first week of [[May 2024]] depending on how work and personal life go. I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] in the form of [[nodes]], so please refer to those if at all interested -- and reach out if you have any questions or comments :).
+--
+
+**Note** that as of the time of writing (2024-05-03) this letter is a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state by [[May 1st]] or the weekend after, say for the first week of [[May 2024]] depending on how work and personal life go. I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] in the form of [[nodes]], so please refer to those if at all interested -- and reach out if you have any questions or comments :).
 
 # An [[Agora]] is what [[Google]] chould be, again
 
