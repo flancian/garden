@@ -1,0 +1,3 @@
+- [[2024]]:
+  - [[node club]]:
+    - I'm noding [[digital capitalism]] during [[May 2024]] thanks to [[neil]] ~ [[@neil]] who started it!
