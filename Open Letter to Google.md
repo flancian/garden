@@ -44,7 +44,7 @@ Google is a corporation and a community of employees (traditionally "Googlers", 
 
 Being mostly profit driven as of the time of writing, Google need not be free at all times; but in this letter I make the argument that, given its position of relevance and control at this stage of the evolution of the [[first known internet]], it *should* try to become increasingly fair ("democratic") within available market-reality-bound possibilities.
 
-# Google should consider becoming more democratic
+## Google should experiment again with being more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures.
 
 Google toyed with a form of anti-hierarchy early in its lifetime, way before I joined in 2012. The story goes that Larry and Sergey thought that they could do away with (nascent but ever growing) layers of management, and decided that everyone would report directly to them. The experiment was cancelled after a few months due to the resulting overload. It made sense it would fail, even early in the lifetime of the company, as hierarchies have evolved to reduce coordination overhead and have strong points that have demonstrable evolutionary fitness in the market. My proposal here is, therefore, not that Google should immolate by becoming purely chaotic -- but rather that it should be one of the first companies in the 21st century to adopt techniques that have have demonstrably helped human groups scale beyond the limits imposed by what, organizationally speaking, amounts to a form of monarchy.
