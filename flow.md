@@ -53,4 +53,6 @@ Sometimes I like to get into flow with a [[quick fix]].
       - #30 https://www.youtube.com/watch?v=y1-mbo1nbUM?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
       - #31 https://www.youtube.com/watch?v=7KzRILY6WCM?list=PLui6Eyny-UzwwBB_riVPMdOF3cmheEPpy
 
+--
+
 I am back here on [[2024-05]] during [[live noding]]. I am trying to write in what passes for my [[long form]] these days, which is when I jot a few phrases that don't come in bullet points or are chat messages :)
