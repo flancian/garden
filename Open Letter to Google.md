@@ -23,7 +23,7 @@ I am writing this letter because nobody else seems to be. With the occasion of t
 
 I also write this in the context of what some call [[late stage capitalism]] but we can safely describe as [[digital capitalism]] as it is in [[mid 2024]]. I hope company and wider society can recognize the opportunity to reflect on the occasion; it seems appropriate to stop for a moment and consider together how the internet has evolved in the last 20 years as Google and other tech companies aged (and learnt, and grew), and their roles shifted in the wider societal context.
 
-By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather [[the Agora]] in its full potential, as per the set of values and intentions closely aligned with the intent of the founder and other participating beings, in particular by [[leaders]] at a particular stage of the lifecycle of the company and [[Agora community]].
+By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather their full potential, as per the set of values and intentions closely aligned with the intent of the founders, in particular [[leaders]] and [[community]] at a particular stage of the lifecycle of company or [[commons]].
 
 --
 
