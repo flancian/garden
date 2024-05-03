@@ -56,3 +56,5 @@ Sometimes I like to get into flow with a [[quick fix]].
 --
 
 I am back here on [[2024-05]] during [[live noding]]. I am trying to write in what passes for my [[long form]] these days, which is when I jot a few phrases that don't come in bullet points or are chat messages :)
+
+Working on [[open letters]] and enjoying life! Looking forward to catching up with friends and loved ones. But tonight: [[flow]] in the [[Agora of Flancia]]!
