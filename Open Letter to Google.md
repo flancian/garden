@@ -9,7 +9,7 @@
 # Introduction
 I bet you don't run into letters with introductions every day :)
 
-This open letter was written on the occasion of the 20th anniversary of the publication of [[Google]]'s initial [[founders letter]] with the occasion of the company's [[IPO]] back on [[April 29th]], [[2004]]. Its intent is to address both Google the company and the internet in a constructive and participatory retrospective of the 20 years since this milestone for the company and the [[greater internet community]], written in the spirit of openness and [[loving kindness]], as a public individual.
+This open letter was written in early [[May 2024]]  on the occasion of [[Google]]'s 20th anniversary of the [[April 29th]] publication of the company's initial [[founders letter]] prior to the its [[IPO]] later in [[2004]]. Its intent is to address both Google the company and the internet in a constructive and participatory retrospective of the 20 years since this milestone for the company and the [[greater internet community]], written in the spirit of openness and [[loving kindness]], as a public individual.
 
 As of the time of writing this letter is a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state by [[May 1st]] or the weekend after, say for the first week of [[May 2024]] depending on how work and personal life go. I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] in the form of [[nodes]], so please refer to those if at all interested -- and reach out if you have any questions or comments :).
 
@@ -17,7 +17,7 @@ As of the time of writing this letter is a [[work in progress]]. I started writi
 
 I write this in the context of [[digital capitalism]], a.k.a. [[late stage capitalism]] for some, as it is in 2024. I want to take the occasion to explore how the internet has evolved in the last 20 years, and the role of [[Google]] in this in said context.
 
-By "an Agora" and "could" I mean not the [[Agora]] as it is in its current form (in which you might be reading this) -- but rather [[the Agora]] in its full potential, as a set of values and intentions that I believe are closely aligned with the intent of the founders and of many leaders through the lifetime of the company.
+By "an Agora" and "could" I mean not the [[Agora]] as it is in its current form (in which you might be reading this) -- but rather [[the Agora]] in its full potential, mirroring the set of values and intentions that are closely aligned with the intent of the founders of any human, carbon/silicon group, and of many leaders through the lifetime of the company.
 
 I started the Agora project back in 2017-2019 (depending on how you count) to demonstrate some basic principles in the field of knowledge management that I thought were [[interesting]] and [[important]] to explore in the open. With this letter, I want to make the argument that the Agora represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if my claims have any merit. 
 
