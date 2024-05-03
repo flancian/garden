@@ -31,11 +31,18 @@ With this letter, I want to make the argument that the Agora represents a step f
 
 This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I will try to include [[links]].
 
-If not these specific proposals, though, ask yourself: which proposals would indeed improve Google and society more than these ones? The Agora is, most of all, the intention of feeling free to write constructive proposals down and sharing them (ideally IMHO early), in any well-designated forum of your choice. 
+As you read them, please keep in mind this: if not these proposals, which would you make? If you want, ask yourself: which proposals would indeed improve a tech company of your choice more than these ones? 
+
 
 In that spirit: if you share a proposal for the betterment of Google, I will at least add a link here. If you share a proposal for the betterment of the internet or society at large, please consider joining this Agora :)
 
-An Agora, in short, is: free, fair and democratic. Google, being profit driven, need not be free at all times; but in this letter I make the point that, given its position relevance in the evolution of the internet, it *should* be increasingly fair and democratic within its possibilities.
+## What the Agora and Google are
+
+An Agora, in short, is a pro-social device which tries to be [[free]], [[fair]] for the community (its "users"): put another way, it is a [[Commons]]. 
+
+Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, we will comment on how Google was and how Google is, and what Google could be (again?). 
+
+Being mostly profit driven as of the time of writing, Google need not be free at all times; but in this letter I make the argument that, given its position of relevance at this stage of the evolution of the first known internet, it *should* be increasingly fair and democratic within its possibilities.
 
 # Google should consider becoming more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures.
