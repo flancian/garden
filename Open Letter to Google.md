@@ -13,7 +13,7 @@ This open letter was written on the occasion of the 20th anniversary of the publ
 
 As of the time of writing this letter is a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state by [[May 1st]] or the weekend after, say for the first week of [[May 2024]] depending on how work and personal life go. I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] in the form of [[nodes]], so please refer to those if at all interested and reach out if you have any questions or comments :).
 
-# An Agora is what Google should be
+# An [[Agora]] is what [[Google]] chould be, again
 By this I mean not the [[Agora]] as it is in its current form (in which you might be reading this) -- but rather the Agora in its potential, as a set of values and intentions that I believe are closely aligned with the intent of the founders and of many leaders through the lifetime of the company.
 
 I started the Agora project back in 2017-2019 (depending on how you count) to demonstrate some basic principles in the field of knowledge management that I thought were [[interesting]] and [[important]] to explore in the open. With this letter, I want to make the argument that the Agora represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if my claims have any merit. 
