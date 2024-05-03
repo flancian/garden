@@ -1,1 +1,1 @@
-- [[open letter to google]]
+- [[Open Letter to Google]]
