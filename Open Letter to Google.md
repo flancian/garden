@@ -29,7 +29,7 @@ By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as the
 
 With this letter, I want to make the argument that the Agora represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if the merit of my claims; I welcome, always, all feedback.
 
-This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of its users.
+This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I will try to include [[links]].
 
 If not these specific proposals, though, ask yourself: which proposals would indeed improve Google and society more than these ones? The Agora is, most of all, the intention of feeling free to write constructive proposals down and sharing them (ideally IMHO early), in any well-designated forum of your choice. 
 
