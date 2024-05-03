@@ -9,7 +9,9 @@
 # Introduction
 I bet you don't run into letters with introductions every day :)
 
-This open letter was written in early [[May 2024]] with the occasion of the 20th anniversary of the [[April 29th]] publication of the [[Google]]'s [[founders letter]] prior to the its [[IPO]] on [[Aug 19]]. Its intent is to address both Google the company and the internet in a constructive and participatory retrospective of the 20 years since this milestone for the company and the [[greater internet community]], written in the spirit of openness and [[loving kindness]], as a public individual.
+This open letter was written in early [[May 2024]] with the occasion of the 20th anniversary of the [[April 29th]] publication of the [[Google]]'s [[founders letter]] prior to the its [[IPO]] on [[Aug 19]]. Its intent is to address both Google the company and the internet at large in a constructive and participatory retrospective of the collective years since this milestone, both for the company and the [[greater internet community]]. 
+
+This letter is written in the spirit of [[openness]] and [[loving kindness]] towards all beings, as a public individual who happens to be an employee of [[Google]] as of the time of writing.
 
 As of the time of writing this letter is a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state by [[May 1st]] or the weekend after, say for the first week of [[May 2024]] depending on how work and personal life go. I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] in the form of [[nodes]], so please refer to those if at all interested -- and reach out if you have any questions or comments :).
 
