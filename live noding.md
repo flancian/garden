@@ -10,3 +10,5 @@ As you read this, it is [[2024-05-03]] -- a Friday. I am listening to [[bobby ly
 --
 
 As you read this, it is [[2024-05-04]] and I'm in a cozy place with a jazz band in [[Winterthur]] :)
+
+
