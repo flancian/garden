@@ -1,11 +1,11 @@
 - an [[open letter]].
   - [[external]].
-  - [[draft]].
+  - a [[draft]].
   - Which you can read in this [[node]] in the [[Agora of Flancia]].
   - About democracy, freedom, fairness and [[protopianism]] in the [[Commons]] :)
   - Written during [[May 2025]] in the context of [[node club]] on [[digital capitalism]] -- and the [[20th anniversary of the founder's letter]]
 - an [[open letter]].
-  - [[internal]].
+  -jjjjj[internal]].
   - That version is [[corp only]] as I work for [[Google]] and I believe it is most ethical to work on it within the circle of trust that the corporation pays me to uphold.
 
 # Introduction
