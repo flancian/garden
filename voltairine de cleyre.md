@@ -3,4 +3,4 @@
   - Met her during the trip in a museum; looking forward to learning more about her and reading her work!
   - #meta Turns out that [[silver bullet]]]] on mobile has plenty of bugs maybe I could try to fix :) One has to do with [[vim mode]].
     - Still I'm writing in the Agora from my [[Pixel 7]] and it feels great!
-- What about... 
+- What about... just using [[windows]] mode in my keyboard? It seems to remove all the most surprising functionality :)
