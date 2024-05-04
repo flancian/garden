@@ -105,4 +105,3 @@ Third of all: after that, what we show is exactly what the users have literally 
 As I said earlier, I started writing this letter because nobody else seemed to have yet done so and I thought it was worth writing, apropos of the news and all things considered. Beyond the relative value of my positions contained here I would love it if it were to prompt others; to prompt people like you to write your own and do better, or just explore complementary ideas and approaches. 
 
 If you write an open letter, please share it and I will link it here and elsewhere. You can also comment on this one in the [[Agora]], using [[hypothes.is]] or [[social media]], and I will do my best to respond and learn from your feedback.
-
