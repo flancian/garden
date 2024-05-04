@@ -5,8 +5,9 @@
   - About democracy, freedom, fairness and [[protopianism]] in the [[Commons]] :)
   - Written during [[May 2025]] in the context of [[node club]] on [[digital capitalism]] -- and the [[20th anniversary of the founder's letter]]
 - an [[open letter]].
-  -jjjjj[internal]].
-  - That version is [[corp only]] as I work for [[Google]] and I believe it is most ethical to work on it within the circle of trust that the corporation pays me to uphold.
+  - [internal]].
+  - This version is [[corp only]] as I work for [[Google]] and I believe it is most ethical to work on it within the circle of trust that the corporation pays me to uphold when going into a certain level of detail.
+  - If you work at Google and you would like to read this letter as well, please [[reach out]]!
 
 # Introduction
 I bet you don't run into letters with introductions every day :)
