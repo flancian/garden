@@ -20,7 +20,7 @@ This letter is written in the spirit of [[openness]] and [[loving kindness]] tow
 
 # An [[Agora]] is what [[Google]] could be, again :)
 
-I am writing this letter because nobody else seems to be. With the occasion of this anniversary, to me in many ways more significant for my relationship with the company than its original founding, I was hoping for both the company and the wider internet to have a conversation about what happens to be in year 20 of [[Google's]] reign as an internet search engine and provider of [[knowledge tools]].
+I am writing this letter because nobody else seems to be doing it. With the occasion of this anniversary, to me in many ways more significant for my relationship with the company than its original founding, I was hoping for both the company and the wider internet to have a conversation about what happens to be in year 20 of [[Google's]] reign as an internet search engine and provider of [[knowledge tools]].
 
 I also write this in the context of what some call [[late stage capitalism]] but we can safely describe as [[digital capitalism]] as it is in [[mid 2024]]. I hope company and wider society can recognize the opportunity to reflect on the occasion; it seems appropriate to stop for a moment and consider together how the internet has evolved in the last 20 years as Google and other tech companies aged (and learnt, and grew), and their roles shifted in the wider societal context.
 
