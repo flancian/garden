@@ -59,21 +59,29 @@ Instead I believe the answer is to try to inch closer to what could be called an
 
 After growing up in the digital context that seems to be becoming known as the [[golden age of the internet]] as experienced from [[Argentina]] , I joined Google in [[2012]] believing the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source]] and the internet [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-well -- and still make a more than sufficient (i.e. a shitload) of money.
 
-So why be evil, indeed, if you can be good and get away with it? Increase total utility and happiness?
+So why be evil, indeed, if you can be good and get away with it? Make money while still increasing total utility and happiness?
 
+Because systems will tend to degrade with time, as yet another manifestation of entropy; because of the emergent forces within our social systems that tend to consolidate themselves in hierarchies that risk abusing their positions of power; because things tend not to be, or remain, as good as they seem like they can be.
 
-# Google should be fairer
-Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large.
+Because of inefficiencies and lack of trust and coordination. Because of [[Moloch]], maybe. 
 
-In which ways could Google be fairer? Read on for those that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. Some of these I will expand in the version of this letter that is readable only to other Google employees.
+It is to help defeat [[Moloch]] and improve our systems that I'm writing this, and that I started the [[Agora]].
 
-# Google should be closer to free
+# Google could be fairer
+
+Google should strive to be fair as it was ca. 2004 and as its employees and users care to define it in 2024 and going forward.
+
+Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large and the greater internet ecosystem.
+
+In which ways could Google be fairer? As per the proposals and ideas above and below. Read on for the positions and proposals that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. But some arguments I will expand only in the version of this letter that only Googlers will see.
+
+# Google could be freer
 By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost. By this I mean alternatively that Google should adequately compensate the users for their attention.
 
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
-# How the Agora factors into all of this
-The Agora project is my personal proposal, developed as [[free software]] and in the open, for how to solve the problems that ail both Google and the internet at large as they grow, age and learn.
+# Some proposals 
+The Agora project is the umbrella under which I'm developing my proposal for a platform that improves on the internet status quo on knowledge discovery and governance, developed as [[free software]] and in the open, with the intent of helping to solve the problems that ail human groups, corporations and commons as they grow, learn and age together.
 
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
