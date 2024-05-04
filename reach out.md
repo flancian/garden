@@ -1,1 +1,1 @@
-- #pull [[self]] [[flancian]] [[contact]]
+- #pull [[contact]] [[self]] [[flancian]] 
