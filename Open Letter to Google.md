@@ -1,5 +1,6 @@
 - an [[open letter]].
   - [[external]].
+  - [[draft]].
   - Which you can read in this [[node]] in the [[Agora of Flancia]].
   - About democracy, freedom, fairness and [[protopianism]] in the [[Commons]] :)
   - Written during [[May 2025]] in the context of [[node club]] on [[digital capitalism]] -- and the [[20th anniversary of the founder's letter]]
@@ -10,15 +11,17 @@
 # Introduction
 I bet you don't run into letters with introductions every day :)
 
-This open letter was written in early [[May 2024]] with the occasion of the 20th anniversary of the [[April 29th]] publication of the [[Google]]'s [[founders letter]] prior to the its [[IPO]] on [[Aug 19]]. Its intent is to address both Google the company and the internet at large in a constructive and participatory retrospective of the collective years since this milestone, both for the company and the [[greater internet community]]. 
+This open letter was written in early [[May 2024]] with the occasion of the **20th anniversary of the [[April 29th]] publication of [[Google]]'s [[founders letter]] prior to its [[2024-08-19]] [[IPO]].** Its intent is to address both Google the company and the internet at large in a constructive and participatory retrospective of the collective years since this milestone, both for the company and the [[greater internet community]]. 
 
-This letter is written in the spirit of [[openness]] and [[loving kindness]] towards all beings, as a public individual who happens to be an employee of [[Google]] as of the time of writing.
+This letter is written with good intentions, in the spirit of [[openness]] and [[loving kindness]] towards all beings, as a public individual who happens to be an employee of [[Google]] as of the time of writing.
+
+It contains a series of proposals, meaning a series of well-meaning recommendations and declarations of intents to improve Google according to my views.
 
 --
 
 **Note** that as of the time of writing ([[2024-05-03]]) this letter and all others linked from here should be considered most definitely a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state on the first week of [[May 2024]] (depending on how work and personal life go), but I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] in the form of [[nodes]]; so please refer to those if at all interested, and reach out if you have any questions or comments :).
 
-# An [[Agora]] is what [[Google]] could be, again :)
+# An [[Agora]] is what [[Google]] could be, maybe :)
 
 I am writing this letter because nobody else seems to be doing it. With the occasion of this anniversary, to me in many ways more significant for my relationship with the company than its original founding, I was hoping for both the company and the wider internet to have a conversation about what happens to be in year 20 of [[Google's]] reign as an internet search engine and provider of [[knowledge tools]].
 
@@ -81,9 +84,9 @@ By this I mean not that it should become a non-profit but rather that profits sh
 
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
-## An Agora is my proposal 
+## An Agora is my proposal to move forward
 
-The Agora project is my proposal for a platform that improves in some ways on the internet status quo in the fields of knowledge discovery and governance. The Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
+The Agora project is the umbrella under which I'm developing a proposal for a platform that improves in some ways on the internet status quo in the fields of knowledge discovery and governance. The Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
 
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
