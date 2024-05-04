@@ -93,6 +93,4 @@ Second of all, it always has the Wikipedia article up top if one is found. Enoug
 
 Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users. 
 
-Being that users have a way to influence all three of the ways listed above, I believe it is sufficiently proven that the Agora puts the user first.
-
-(...)
+*(...) more on what the Agora is and how I posit it is relevant to Googlers and other communities? (...)*
