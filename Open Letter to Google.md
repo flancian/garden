@@ -81,6 +81,7 @@ By this I mean not that it should become a non-profit but rather that profits sh
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
 ## An Agora is my proposal 
+
 The Agora project is my proposal for a platform that improves in some ways on the internet status quo in the fields of knowledge discovery and governance. The Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
 
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
@@ -94,3 +95,9 @@ Second of all, it always has the Wikipedia article up top if one is found. Enoug
 Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users. 
 
 *(...) more on what the Agora is and how I posit it is relevant to Googlers and other communities? (...)*
+
+## Your Google, your Agora, might be better
+
+As I said earlier, I started writing this letter because nobody else seemed to have yet done so and I thought it was worth writing, apropos of the news and all things considered. Beyond the relative value of my positions contained here I would love it if it were to prompt others; to prompt people like you to write your own and do better, or just explore complementary ideas and approaches.
+
+If you write an open letter, be it to Google, or the Agora: please share it and I will link it here.
