@@ -67,7 +67,7 @@ Because of inefficiencies and lack of trust and coordination. Because of [[Moloc
 
 It is to help defeat [[Moloch]] and improve our systems that I'm writing this, and that I started the [[Agora]].
 
-# Google could be fairer
+## Google could be fairer
 
 Google should strive to be fair as it was ca. 2004 and as its employees and users care to define it in 2024 and going forward.
 
@@ -75,13 +75,13 @@ Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer 
 
 In which ways could Google be fairer? As per the proposals and ideas above and below. Read on for the positions and proposals that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. But some arguments I will expand only in the version of this letter that only Googlers will see.
 
-# Google could be freer
+## Google could be freer
 By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost. By this I mean alternatively that Google should adequately compensate the users for their attention.
 
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
-# Some proposals 
-The Agora project is the umbrella under which I'm developing my proposal for a platform that improves on the internet status quo on knowledge discovery and governance, developed as [[free software]] and in the open, with the intent of helping to solve the problems that ail human groups, corporations and commons as they grow, learn and age together.
+## An Agora is my proposal 
+The Agora project is my proposal for a platform that improves in some ways on the internet status quo in the fields of knowledge discovery and governance. The Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
 
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
