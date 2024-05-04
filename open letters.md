@@ -2,7 +2,7 @@
 	- The [[Agora]] is a repository of [[open letters]].
   - #push [[open letter]]
     - [[Open letter to Christopher Alexander]]
-      - Because [[Flancia is a Pattern Language]].
+      - (Because [[Flancia is a Pattern Language]]...)
     - [[Open letter to the Agora]]
     - [[Open letter to Maitreya]]
     - [[Open letter to Moloch]]
@@ -12,4 +12,4 @@
     - [[Open letter to Peter Singer]]
     - [[Open letter to Sam Harris]]
     - [[Open letter to Lex Fridman]]
-    - [[Open letter to ]]
+    - [[Open Letter to the Agora of Flancia]]
