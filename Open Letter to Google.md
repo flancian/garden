@@ -46,9 +46,9 @@ My high level intention is the following: to develop, together, a [[commons]] co
 
 When I say provocatively that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
-The [[Agora]], in short, is what I call my umbrella proposal, presented as a [[prototype]].
+The [[Agora]], in short, is what I call my umbrella proposal, presented as a [[prototype]], to help fix Google and similar systems.
 
-With this letter, concretely, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims.
+That is, I make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims.
 
 As you read these proposals, please think and report back optionally: if not these proposals, which? This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
