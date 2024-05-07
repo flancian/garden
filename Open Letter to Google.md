@@ -53,7 +53,6 @@ Being mostly profit driven as of the time of writing, Google need not be free at
 
 As you read these proposals, keep in mind: if not these proposals, which? This, in a nutshell, is if nothing else the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
-
 ## Google could experiment with being more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures. As far as governmental structures go, companies are stuck in the time of [[kings]] and [[feudalism]].
 
@@ -64,6 +63,23 @@ My proposal here is that Google should experiment again with some of the concept
 I started the Agora because I believe that the answer to the scaling, growing, aging pains that Google (and other tech corporations) went through in the [[last twenty years]] is *not* to double down on hierarchy, cease to put the user first, focus on maximizing profits while bowing down to market and government pressure and becoming informationally-opaque -- as any "[[traditional company]]" would do. 
 
 Instead I believe the answer is to try to inch closer to what could be called an informed [[heterarchy]], in one of our proposals one yielded by gradually adopting principles of [[liquid democracy]] on top of [[traditional corporate governance]]. The Agora project came to life as a demo of a proposal for a free, transparent governance layer to facilitate this process and others similar.
+
+
+## On healing
+With this, again, I don't mean that it is the Agora I started or I'm developing that will solve many of these problems and heal these systems; but rather that this Agora is an expression of the idea that will allow us to do so in the future, and that also makes sense as a direction that Google could explore in the mid-to-late 2020s.
+
+To remain what amounts to a good steward of the internet for billions of users, though, Google should try to strive to be better in certain ways as this happens.
+
+## Google could be fairer and freer
+Google should strive to be as fair as it was around 2004. Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large and the greater internet ecosystem.
+
+Google should strive to be freer or closer to free. By this I mean not that it should become a non-profit or self-immolate in the market but rather that profits should not get in the way of providing good quality services to people at minimum monetary cost, as expressed by the letter and manifested by the company's attitudes in the 00s. By this I mean alternatively that Google should more adequately compensate the users for their attention.
+
+In which specific ways could Google be fairer? In which specific ways could Google be freer? By seriously considering the proposals and ideas in this open letter, and others that improve overall happiness and utility while remaining affordable. 
+
+(Note, again, that these are the notes that I thought fitting to share in public despite my employment given what I think is [[right speech]] and [[right livelihood]]; but these arguments and proposals will be expanded in the version of this letter that only Googlers will see.)
+
+This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
 ## Who I am and why I wrote this
 
@@ -82,22 +98,6 @@ The answer, I believe, is on first approximation relatively straightforward: bec
 Because of [[Moloch]], some say. If so: it is to help defeat [[Moloch]] and improve human-computer systems that I'm writing this, and that I started building the [[Agora]].
 
 And it is with the Agora that I intend to [[heal Google]], heal the [[Internet]].
-
-## On healing
-With this, again, I don't mean that it is the Agora I started or I'm developing that will solve many of these problems and heal these systems; but rather that this Agora is an expression of the idea that will allow us to do so in the future, and that also makes sense as a direction that Google could explore in the mid-to-late 2020s.
-
-To remain what amounts to a good steward of the internet for billions of users, though, Google should try to strive to be better in certain ways as this happens.
-
-## Google could be fairer and freer
-Google should strive to be as fair as it was around 2004. Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large and the greater internet ecosystem.
-
-Google should strive to be freer or closer to free. By this I mean not that it should become a non-profit or self-immolate in the market but rather that profits should not get in the way of providing good quality services to people at minimum monetary cost, as expressed by the letter and manifested by the company's attitudes in the 00s. By this I mean alternatively that Google should more adequately compensate the users for their attention.
-
-In which specific ways could Google be fairer? In which specific ways could Google be freer? By seriously considering the proposals and ideas in this open letter, and others that improve overall happiness and utility while remaining affordable. 
-
-(Note, again, that these are the notes that I thought fitting to share in public despite my employment given what I think is [[right speech]] and [[right livelihood]]; but these arguments and proposals will be expanded in the version of this letter that only Googlers will see.)
-
-This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
 ## Why an Agora is part of my proposal
 
