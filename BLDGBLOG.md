@@ -1,1 +1,4 @@
-- #go https://en.wikipedia.org/wiki/Architecture
+- a [[blog]].
+  - #architecture
+  - #go https://www.bldgblog.com/
+  
