@@ -110,7 +110,7 @@ This might surprise you, but I think Google has been able to stay relatively clo
 
 ## Why an Agora is part of my proposal
 
-The Agora project is the umbrella under which I'm for a platform that improves in some ways on the internet status quo in the fields of knowledge discovery and governance. The Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
+The Agora project develops a prototype for a platform for improving the internet status quo in meaningful ways in the fields of knowledge discovery and governance. The Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
 
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
