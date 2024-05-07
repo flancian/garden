@@ -43,11 +43,13 @@ I write this in the context of what some call [[late stage capitalism]] and can 
 
 My intention is the following: to develop, together, a prosocial transparent governance layer for the internet. And I intend to convince Google that this is the right thing for both people ("users") and company.
 
-With this letter, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, reader, will be the judge of the merit of these my claims; please remember that I welcome, always, all [[feedback.
+With this letter, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims; please remember that I welcome, always, all [[feedback]].
+
+--
 
 This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I will try to include [[links]].
 
-As you read them, please keep in mind this: if not these proposals, which would you make? If you want, ask yourself: which proposals would indeed improve a tech company of your choice more than these ones? 
+As you read these proposals, please keep in mind this: if not these proposals, which would you make? If you want, ask yourself: which proposals would indeed improve a tech company of your choice more than these ones? 
 
 
 In that spirit: if you share a proposal for the betterment of Google, I will at least add a link here. If you share a proposal for the betterment of the internet or society at large, please consider joining this Agora :)
