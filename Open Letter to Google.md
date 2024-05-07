@@ -103,7 +103,7 @@ Google should strive to be as fair as it was around 2004. Fairer to all: fairer 
 Google should strive to be freer or closer to free. By this I mean not that it should become a non-profit or self-immolate in the market but rather that profits should not get in the way of providing good quality services to people at minimum monetary cost, as expressed by the letter and manifested by the company's attitudes in the 00s. By this I mean alternatively that Google should more adequately compensate the users for their attention.
 
 In which ways could Google be fairer?  In which ways could Google be freer?
-As per the proposals and ideas above and below, and others that improve overall happiness and utility at no large cost relatively speaking. Note, again, that these are the notes that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. But some arguments I will expand only in the version of this letter that only Googlers will see.
+As per the proposals and ideas above and below, and others that improve overall happiness and utility at no large cost relatively speaking. Note, again, that these are the notes that I thought fitting to share in public despite my employment given what I think is [[right speech]] and [[right livelihood]]; but these arguments will be expanded in the version of this letter that only Googlers will see.
 
 ## Google could be freer
 
