@@ -36,8 +36,7 @@ That's what we are setting out to do, anyway. Join me? :)
 
 # Google should be freer, Google should be fairer, Google should be more alive
 
-
-This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I try to include [[links]].
+This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and he community of [[users]]. Whenever I couldn't expound in full, I try to include [[links]].
 
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. I, as a Google employee, am writing to communicate my recommendations as clearly and as harmlessly as possible to both company and society.
 
