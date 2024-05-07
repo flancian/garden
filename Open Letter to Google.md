@@ -49,7 +49,6 @@ The [[Agora]], in summary, is what I call my umbrella proposal, presented as a [
 
 As you read these proposals, keep in mind: if not these proposals, which? This, in a nutshell, is if nothing else the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
-## Google could be fairer
 Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, we will comment on how Google was and how Google is, and what Google could be (again?). 
 
 Being mostly profit driven as of the time of writing, Google need not be free at all times; but in this letter I make the argument that, given its position of relevance and control at this stage of the evolution of the [[first known internet]], it *should* try to become increasingly fair ("democratic") within available market-reality-bound possibilities.
@@ -87,7 +86,7 @@ And it is with the Agora that I intend to [[heal Google]], heal the [[Internet]]
 ## On healing
 With this, again, I don't mean that it is the Agora I started or I'm developing that will solve many of these problems and heal these systems; but rather that this Agora is an expression of the idea that will allow us to do so in the future, and that also makes sense as a direction that Google could explore in the mid-to-late 2020s.
 
-To remain what amounts to a good steward of the internet for billions of users, though, Google should try to strive to be in certain ways as this happens.
+To remain what amounts to a good steward of the internet for billions of users, though, Google should try to strive to be better in certain ways as this happens.
 
 ## Google could be fairer and freer
 Google should strive to be as fair as it was around 2004. Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large and the greater internet ecosystem.
