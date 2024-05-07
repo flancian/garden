@@ -30,12 +30,12 @@ I am writing this letter because nobody else seems to be doing it, and I thought
 
 I write it with the occasion of the [[founders letter anniversary]], a date to me more significant for my relationship with the company than probably any other. In this occasion I was hoping for both the company and the wider internet to take the opportunity to have an open conversation about the general state of affairs as [[Google]] the /[[public company]] enters the third decade of a mostly deserved reign as internet search engine and provider of [[knowledge tools]] in the market. Instead so far I have seen the date go by mostly unnoticed. People seem jaded by the context, as if Google has lost their trust and can now be expected to [[do no better]] than other corporations; to act just as other corporations do, despite our [[founders letter]] being our public declaration of intentions. The base for which users, and stockholders, decided to trust Google early on.
 
-I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me anyway, very apropos to stop for a moment and consider together how company, internet and market evolved and became [[entangled]] together in the last 20 years as we all (Google, Googlers, users and public society including other tech companies) aged -- and learnt, and grew -- and our roles shifted in the wider socioeconomic context.
+I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me anyway, very apropos to stop for a moment and consider together how company, internet and market evolved and became [[entangled]] together in the last 20 years as we all (Google, Googlers, users and public society including other tech companies) aged -- and learnt, and grew -- and our roles shifted in the wider socioeconomic context. And what we can try to do about it.
 
 That's what we are setting out to do, anyway. Join me? :)
 
 
-# I say, in short: an Agora is what Google could be, maybe
+# I say, in short: Google should be freer, Google n Agora is what Google could be, maybe
 
 The [[Agora]], in short, is what I call my umbrella proposal.
 
