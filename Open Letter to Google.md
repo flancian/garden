@@ -78,7 +78,9 @@ Instead I believe the answer is to try to inch closer to what could be called an
 
 I'm a random guy (and nerd) who got lucky, as others I know :) After coming of age in Argentina in the digital context that seems to be becoming known as the [[golden age of the internet]] around the turn of the millenium, I studied literature and computer science and joined Google in [[2012]] believing the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. 
 
-During the 00s Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source]] and the internet [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-well -- and still make a more than sufficient (i.e. a shitload) of money. Google, what is more, had encoded these values in their [[founders letter]], the public declaration of intents and purposes around a great pithy mission: [[to organize the world's information and make it universally accessible and useful]]. Sure, [[free]] was not in it -- but then again, Google offered a 
+During the 00s Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source]] and the internet [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-well -- and still make a more than sufficient (i.e. a shitload) of money. Google, what is more, had encoded these values in their [[founders letter]], the public declaration of intents and purposes centered around [[don't be evil]] and a great pithy mission: [[to organize the world's information and make it universally accessible and useful]]. 
+
+Sure, [[free]] was not in it -- but then again, Google offered a fair deal; we could pay with our attention.
 
 So why be evil, indeed, if you can be good and get away with it? Make money while still increasing total utility and happiness?
 
