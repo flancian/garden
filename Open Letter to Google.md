@@ -26,7 +26,7 @@ And now, without further ado :)
 
 **Note** that as of the time of writing ([[2024-05-03]]) this letter and all others linked from here should be considered most definitely a [[work in progress]]. I started writing here on [[April 29th]] with the intent to have it in readable state on the first week of [[May 2024]] (depending on how work and personal life go), but I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] in the form of [[nodes]]; so please refer to those if at all interested, and reach out if you have any questions or comments :).
 
-# An [[Agora]] is what [[Google]] could be, maybe :)
+# I say, in short: an [[Agora]] is what [[Google]] could be
 
 I am writing this letter because nobody else seems to be doing it. With the occasion of this anniversary, to me in many ways more significant for my relationship with the company than its original founding, I was hoping for both the company and the wider internet to have a conversation about what happens to be in year 20 of [[Google's]] reign as an internet search engine and provider of [[knowledge tools]].
 
