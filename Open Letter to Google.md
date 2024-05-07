@@ -36,7 +36,7 @@ That's what we are setting out to do, anyway. Join me? :)
 
 # Google should be freer, Google should be fairer, Google should be more alive
 
-This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and he community of [[users]]. Whenever I couldn't expound in full, I try to include [[links]].
+This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I try to include [[links]].
 
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. I, as a Google employee, am writing to communicate my recommendations as clearly and as harmlessly as possible to both company and society.
 
@@ -59,7 +59,7 @@ Google is a corporation and a community of employees (traditionally "Googlers", 
 
 Being mostly profit driven as of the time of writing, Google need not be free at all times; but in this letter I make the argument that, given its position of relevance and control at this stage of the evolution of the [[first known internet]], it *should* try to become increasingly fair ("democratic") within available market-reality-bound possibilities.
 
-### Google should experiment again with being more democratic
+## Google should experiment with being more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures. As far as governmental structures go, companies are stuck in the time of [[kings]] and [[feudalism]].
 
 Google toyed with a form of anti-hierarchy early in its lifetime, way before I joined in 2012. The story goes that Larry and Sergey thought that they could do away (relatively still few but ever growing) layers of management, and decided that everyone would report directly to one of them -- I think it was Sergey (I will, of course, check). The experiment was cancelled after a few months due to the resulting overload and dysfunction. It seems to me that it makes sense it failed, even that early in the lifecycle of the company. Hierarchies seem to have evolved to reduce coordination overhead and they have strong points which yield demonstrable evolutionary fitness. 
