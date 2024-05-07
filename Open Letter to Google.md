@@ -20,7 +20,7 @@ This letter contains, or links to, a series of proposals for changes in the comp
 
 All errors are my own; please believe that I remain committed to improving through your [[feedback]] and personal reflection.
 
-And now, without further ado :)
+And now, without further ado... :)
 
 --
 
@@ -30,7 +30,7 @@ And now, without further ado :)
 # Why I'm writing this letter
 I am writing this letter because nobody else seems to be doing it, and I thought someone should. 
 
-With the occasion of the [[founders letter anniversary]], a date to me more significant for my relationship with the company than probably any other (including its founding), I was hoping for both the company and the wider internet to have an open conversation about what we're up to in year 20 of [[Google's]] mostly deserved reign as internet search engine and provider of [[knowledge tools]].
+With the occasion of the [[founders letter anniversary]], a date to me more significant for the company than probably any other (including its founding), I was hoping for both the company and the wider internet to have an open conversation about what we're up to in year 20 of [[Google's]] mostly deserved reign as internet search engine and provider of [[knowledge tools]].
 
 I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me, very appropriate to stop for a moment and consider together how the internet has evolved in the last 20 years as we all (Google, Googlers, and public society including other tech companies) aged (and learnt, and grew), and our roles shifted in the wider socioeconomic context.
 
