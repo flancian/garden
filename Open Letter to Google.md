@@ -34,14 +34,12 @@ I sincerely hope both company and wider society can recognize the opportunity to
 
 That's what we are setting out to do, anyway. Join me? :)
 
-
-# Google should be freer, Google should be fairer, Google should be more lively 
+# Google should be freer, Google should be fairer, Google should be more alive
 
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. I, as a Google employee, am writing to communicate my recommendations as clearly and as harmlessly as possible to both company and society.
 
 My intention is the following: to develop, together, a [[commons]] containing a prosocial transparent governance layer for the internet and use it in a daring way to try to advance company, society and civilization. And I intend to convince Google that this is the right thing for both people ("users") and company; I intend to convince you, reader, that we should do this together.
 
-This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I try to include [[links]].
 
 With this letter, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims; please remember that I welcome, always, all [[feedback]].
 
