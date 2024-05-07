@@ -42,7 +42,7 @@ By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as the
 
 --
 
-With this letter, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2019 (see [[Agora project]]), represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if the merit of my claims; I welcome, always, all feedback.
+With this letter, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction for a company like Google as we navigate the mid 20s of this century together. You, reader, will be the judge as always. my claims; I welcome, always, all feedback.
 
 This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I will try to include [[links]].
 
