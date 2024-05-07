@@ -41,9 +41,7 @@ When I say that "Google" should be more like "an Agora" I mean not the [[Agora]]
 
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. I, as a Google employee, am writing to communicate my recommendations as clearly and as harmlessly as possible to both company and society.
 
-My intention is the following: to develop, together, a prosocial transparent governance layer for the internet. And I intend to convince Google that this is the right thing for both people and market.
-
---
+My intention is the following: to develop, together, a prosocial transparent governance layer for the internet. And I intend to convince Google that this is the right thing for both people ("users") and company.
 
 With this letter, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction for a company like Google as we navigate the mid 20s of this century together. You, reader, will be the judge of the merit of these my claims; please remember that I welcome, always, all [[feedback.
 
