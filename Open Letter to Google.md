@@ -76,9 +76,11 @@ Instead I believe the answer is to try to inch closer to what could be called an
 
 ## Who I am and why I wrote this
 
-After growing up in the digital context that seems to be becoming known as the [[golden age of the internet]] as experienced from [[Argentina]] , I joined Google in [[2012]] believing the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source]] and the internet [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-well -- and still make a more than sufficient (i.e. a shitload) of money.
+After growing up in the digital context that seems to be becoming known as the [[golden age of the internet]] as experienced from [[Argentina]] around the turn of the millenium, I joined Google in [[2012]] believing the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source]] and the internet [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-well -- and still make a more than sufficient (i.e. a shitload) of money.
 
 So why be evil, indeed, if you can be good and get away with it? Make money while still increasing total utility and happiness?
+
+The answer is relatively straightforward maybe: 
 
 Because systems will tend to degrade with time, as yet another manifestation of entropy; because of the emergent forces within our social systems that tend to consolidate themselves in hierarchies that risk abusing their positions of power; because things tend not to be, or remain, as good as they seem like they can be.
 
