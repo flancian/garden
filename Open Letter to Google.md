@@ -51,7 +51,7 @@ This letter contains, in as succinct a way as I could muster, a series of specif
 
 As you read these proposals, please think and report back optionally: if not these proposals, which?
 
-This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: if you share a proposal for the betterment of society or any interesting subset of it, the Agora will be interested by default. And I will at least add a link to it somewhere here :) If you share a proposal for the betterment of the internet or society at large, please consider joining this Agora :)
+This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: if you share a proposal for the betterment of society, our endeavors together, or any interesting subset of them, an Agora will be interested by default. And I will at least add a link to it somewhere here :) If you share a proposal for the betterment of the internet or society at large, please consider joining this Agora :)
 
 ## What the Agora and Google are
 
