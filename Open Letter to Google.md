@@ -100,7 +100,7 @@ To remain what amounts to a good steward of the internet for billions of users, 
 ## Google could be fairer and freer
 Google should strive to be as fair as it was around 2004. Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large and the greater internet ecosystem.
 
-Google should strive to be freer. By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost. By this I mean alternatively that Google should adequately compensate the users for their attention.
+Google should strive to be freer or closer to free. By this I mean not that it should become a non-profit but rather that profits should not get in the way of providing good quality services to people at minimum cost and actually free whenever possible. By this I mean alternatively that Google should more adequately compensate the users for their attention.
 
 In which ways could Google be fairer?  In which ways could Google be freer?
 As per the proposals and ideas above and below, and others that improve overall happiness and utility at no large cost relatively speaking. 
