@@ -82,7 +82,7 @@ During the 00s Google used and developed open protocols like [[XMPP]] and [[WebR
 
 Sure, [[free]] was not in it -- but then again, Google offered a fair deal; we could pay with our attention. And it had shown that it could make plenty enough money while offering this fair deal.
 
-So why become evil, indeed, if you can be good and get away with it? If you know you can make money while still increasing total utility and happiness?
+So why become evil, indeed, if you can be good and get away with it? If you know you can make money while offering better than average, while being generous? Why not run a still increasing total utility and happiness?
 
 The answer is relatively straightforward: because systems will tend to degrade with time, as yet another manifestation of entropy; because of the emergent forces within our social systems that tend to consolidate themselves in hierarchies that risk abusing their positions of power; because things tend not to be, or remain, as good as they seem like they can be.
 
