@@ -95,11 +95,10 @@ And it is with the Agora that I intend to [[heal Google]], heal the [[Internet]]
 ## On healing
 With this, again, I don't mean that it is the Agora I started or I'm developing that will solve many of these problems and heal these systems; but rather that this Agora is an expression of the idea that will allow us to do so in the future, and that also makes sense as a direction that Google could explore in the mid-to-late 2020s.
 
-To remain what amounts to a good steward of the internet for billions of users
+To remain what amounts to a good steward of the internet for billions of users, though, Google should try to strive to be in certain ways as this happens.
 
 ## Google could be fairer
-
-Google should strive to be fair as it was ca. 2004 and as its employees and users care to define it in 2024 and going forward.
+Google should strive to be closer to fair as it was around 2004 and as its employees and users care to define it in 2024 and going forward.
 
 Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large and the greater internet ecosystem.
 
