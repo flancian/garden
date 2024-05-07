@@ -51,11 +51,9 @@ This letter contains, in as succinct a way as I could muster, a series of specif
 
 As you read these proposals, please think and report back optionally: if not these proposals, which? This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
-If you are interested in sharing proposals for the betterment of a company or other actor in society, please consider joining this Agora :)
-
 ## What the Agora and Google are
 
-An Agora, in short, is a pro-social device which tries to be [[free]], [[fair]] for the community (its "users"): put another way, it is a [[Commons]]. 
+An Agora, in short, is a platform and pro-social device which tries to be [[free]], [[fair]] for the community (its "users") like way, it is a [[Commons]]. 
 
 Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, we will comment on how Google was and how Google is, and what Google could be (again?). 
 
