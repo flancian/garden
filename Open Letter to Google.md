@@ -80,7 +80,7 @@ After growing up in the digital context that seems to be becoming known as the [
 
 So why be evil, indeed, if you can be good and get away with it? Make money while still increasing total utility and happiness?
 
-The answer is relatively straightforward maybe: because systems will tend to degrade with time, as yet another manifestation of entropy; because of the emergent forces within our social systems that tend to consolidate themselves in hierarchies that risk abusing their positions of power; because things tend not to be, or remain, as good as they seem like they can be.
+The answer is relatively straightforward: because systems will tend to degrade with time, as yet another manifestation of entropy; because of the emergent forces within our social systems that tend to consolidate themselves in hierarchies that risk abusing their positions of power; because things tend not to be, or remain, as good as they seem like they can be.
 
 Because of inefficiencies and lack of trust and coordination. Because of [[Moloch]], as some say. If so: it is to help defeat [[Moloch]] and improve human-computer systems that I'm writing this, and that I started building the [[Agora]].
 
