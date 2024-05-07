@@ -49,10 +49,9 @@ With this letter, I want to make the argument that the project I started persona
 
 This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I will try to include [[links]].
 
-As you read these proposals, please keep in mind this: if not these proposals, which would you make? If you want, ask yourself: which proposals would indeed improve a tech company of your choice more than these ones? 
+As you read these proposals, please think and report back optionally: if not these proposals, which?
 
-
-In that spirit: if you share a proposal for the betterment of Google, I will at least add a link here. If you share a proposal for the betterment of the internet or society at large, please consider joining this Agora :)
+It is spirit: if you share a proposal for the betterment of Google, I will at least add a link here. If you share a proposal for the betterment of the internet or society at large, please consider joining this Agora :)
 
 ## What the Agora and Google are
 
