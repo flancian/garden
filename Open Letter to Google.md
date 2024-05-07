@@ -42,11 +42,11 @@ I write this in the context of what some call [[late stage capitalism]] and can 
 
 My high level intention is the following: to develop, together, a [[commons]] containing a prosocial transparent governance layer for the internet and use it in a daring way to try to advance company, society and civilization. I intend to convince Google that this is the right thing for both people ("users") and company; and I intend to convince you, reader, that we should do this together.
 
-## An Agora is what Google could be, maybe
+## An Agora is what Google could be
 
-When I say that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
+When I say provocatively that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
-The [[Agora]], in short, is what I call my umbrella proposal presented as a [[prototype]].
+The [[Agora]], in short, is what I call my umbrella proposal, presented as a [[prototype]].
 
 With this letter, concretely, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims.
 
