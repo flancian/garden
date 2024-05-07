@@ -109,6 +109,7 @@ In which specific ways could Google be fairer? In which specific ways could Goog
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
 ## Why an Agora is part of my proposal
+
 The Agora you are likely reading this in, https://anagora.org, is a prototype for a proposed platform that tries to meaningfully improve the status quo in the fields of corpus management, knowledge discovery and governance. This Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
 
 This Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
@@ -125,11 +126,11 @@ Third of all: after that, what we show is exactly what the users have literally 
 
 ## More information
 
-*(...) link to [[go/agora chapter]] for more (...) for more.*
+*(...) link to [[go/agora chapter]] for more (...)*
 
 
 ## Your Google, your Agora, might be better than this
 
-As I said earlier, I started writing this letter because nobody else seemed to have yet done so and I thought it was worth writing, apropos of the news and all things considered. Beyond the relative value of my positions contained here I would love it if it were to prompt others; to prompt people like you to write your own and do better, or just explore complementary ideas and approaches. 
+As I said in the beginning, I started writing this letter because nobody else seemed to have yet done so and I thought it was worth writing, apropos of the news and all things considered. Beyond the relative value of my positions contained here I would love it if it were to prompt others; to prompt people like you to write your own and do better, or just explore complementary ideas and approaches. 
 
 If you write an open letter, please share it and I will link it here and elsewhere. You can also comment on this one in the [[Agora]], using [[hypothes.is]] or [[social media]], and I will do my best to respond and learn from your feedback.
