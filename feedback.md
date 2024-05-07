@@ -1,6 +1,7 @@
 # Feedback
 
 - Please feel free to send me a message me anytime on any of the supported platforms: [[flancian]].
+- [[email]] eduardo@flancia.org.
 - [[twitter]] https://twitter.com/flancian
   - DMs are open.
 - [[mastodon]] https://social.coop/@flancian
