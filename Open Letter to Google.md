@@ -34,7 +34,7 @@ I sincerely hope both company and wider society can recognize the opportunity to
 
 That's what we are setting out to do, anyway. Join me? :)
 
-# Google should be freer, Google should be fairer, Google should be more alive
+# Google should be freer, Google should be fairer, Google should again focus on the user
 
 This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I try to include [[links]].
 
@@ -49,7 +49,6 @@ When I say that "Google" should be more like "an Agora" I mean not the [[Agora]]
 The [[Agora]], in short, is what I call my umbrella proposal presented as a [[prototype]].
 
 With this letter, concretely, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims.
-
 
 As you read these proposals, please think and report back optionally: if not these proposals, which? This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
