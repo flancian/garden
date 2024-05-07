@@ -16,7 +16,7 @@ This open letter was written in early [[May 2024]] with the occasion of the **20
 
 This letter is written with good intentions, in the spirit of [[openness]] and [[loving kindness]] towards all beings, following the [[principle of charity]], as an individual with a public internet presence who happens to be an employee of [[Google]] as of the time of writing.
 
-This letter contains, or links to, a series of proposals for changes in the company and in the nature of its engagement with [[people]] (alternatively "employees" or "users"). These are essentially a series of related well-meaning recommendations and declarations of intents to improve the world according to my views, and as such they are subject to error and 
+This letter contains, or links to, a series of proposals for changes in the company and in the nature of its engagement with [[people]] (alternatively "employees" or "users"). These are essentially a series of related well-meaning recommendations and declarations of intents to improve the world according to my views, and as such they are subject to error and other kinds of imperfections. All errors are my own, and I remain committed to improving through feedback and reflection.
 
 --
 
