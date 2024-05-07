@@ -51,7 +51,7 @@ But when I say that "Google" should be more like "an Agora" I mean not the [[Ago
 
 As you read these proposals, please think and report back optionally: if not these proposals, which? This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
-## Google and the as they are currently, and as they could be
+## Google as it should be
 Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, we will comment on how Google was and how Google is, and what Google could be (again?). 
 
 Being mostly profit driven as of the time of writing, Google need not be free at all times; but in this letter I make the argument that, given its position of relevance and control at this stage of the evolution of the [[first known internet]], it *should* try to become increasingly fair ("democratic") within available market-reality-bound possibilities.
