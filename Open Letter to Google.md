@@ -12,7 +12,7 @@
 # Introduction
 I bet you don't run into letters with introductions every day :)
 
-This open letter was written in early [[May 2024]] with the occasion of the **20th anniversary of the [[April 29th]] publication of [[Google]]'s [[founders letter]] on the occasion of its [[2024-08-19]] [[IPO]].** Its intent is to address both Google the company and the internet at large in a constructive and participatory retrospective of the collective years since this milestone, both for the company and the [[greater internet community]]. 
+This open letter was written in early [[May 2024]] with the occasion of the **20th anniversary of the [[April 29th]] publication of [[Google]]'s [[founders letter]] on the occasion of its [[2004-08-19]] [[IPO]].** I write with the good intent to address both Google the company and the internet at large in a constructive and participatory retrospective of the collective years since this milestone, both for the company and the [[greater internet community]]. 
 
 This letter is written with good intentions, in the spirit of [[openness]] and [[loving kindness]] towards all beings, as a public individual who happens to be an employee of [[Google]] as of the time of writing.
 
