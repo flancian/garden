@@ -37,11 +37,12 @@ I sincerely hope both company and wider society can recognize the opportunity to
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. 
 
 # I say, in short: an Agora is what Google could be, maybe
+
 By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather their full potential, as per the set of values and intentions closely aligned with the intent of the [[founders]] and [[leaders]] at a particular stage of the lifecycle of [[company]] or [[community]].
 
 --
 
-With this letter, I want to make the argument that the Agora represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if the merit of my claims; I welcome, always, all feedback.
+With this letter, I want to make the argument that the project I have started as a 20%, see [[Agora project]], represents a step forward in the right direction for a company like Google as it navigates the mid 20s. You will be the judge if the merit of my claims; I welcome, always, all feedback.
 
 This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I will try to include [[links]].
 
