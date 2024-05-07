@@ -86,9 +86,11 @@ So why become evil, indeed, if you can be good and get away with it? If you know
 
 Manichean labels like 'good' (googly) or 'evil' (ungoogly) aside, the question is: why do companies degrade over time? (is [[enshittification]] unavoidable?)
 
-The answer, I believe, is on first approximation relatively straightforward: because all systems will tend to degrade with time, as a manifestation of entropy; because of the emergent forces within social systems that tend to seek to consolidate themselves in hierarchies and occasionally abuse or mismanage their positions of power; because things on the whole tend not to be, or remain, as good as they seem like they can be.
+The answer, I believe, is on first approximation relatively straightforward: because all systems will tend to degrade with time, as a manifestation of entropy; because of the emergent forces within social systems that tend to seek to consolidate themselves in hierarchies and occasionally abuse or mismanage their positions of power; because things on the whole tend not to be, or remain, as good as they seem like they can be in general. Because of inefficiencies and lack of trust and coordination. 
 
-Because of inefficiencies and lack of trust and coordination. Because of [[Moloch]], as some say. If so: it is to help defeat [[Moloch]] and improve human-computer systems that I'm writing this, and that I started building the [[Agora]].
+Because of [[Moloch]], some say. If so: it is to help defeat [[Moloch]] and improve human-computer systems that I'm writing this, and that I started building the [[Agora]].
+
+And it is with the Agora that I intend to [[heal Google]].
 
 ## Google could be fairer
 
