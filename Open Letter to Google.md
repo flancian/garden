@@ -35,21 +35,23 @@ I sincerely hope both company and wider society can recognize the opportunity to
 That's what we are setting out to do, anyway. Join me? :)
 
 
-# I say, in short: Google should be freer, Google should be fairer, Google should be more lively 
+# Google should be freer, Google should be fairer, Google should be more lively 
 
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. I, as a Google employee, am writing to communicate my recommendations as clearly and as harmlessly as possible to both company and society.
 
 My intention is the following: to develop, together, a [[commons]] containing a prosocial transparent governance layer for the internet and use it in a daring way to try to advance company, society and civilization. And I intend to convince Google that this is the right thing for both people ("users") and company; I intend to convince you, reader, that we should do this together.
-
-The [[Agora]], in short, is what I call my umbrella proposal.
-
-But when I say that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
 This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I try to include [[links]].
 
 With this letter, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims; please remember that I welcome, always, all [[feedback]].
 
 As you read these proposals, please think and report back optionally: if not these proposals, which? This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
+
+
+The [[Agora]], in short, is what I call my umbrella proposal.
+
+But when I say that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
+
 
 ## The Agora and Google as they are currently, and as they could be
 
