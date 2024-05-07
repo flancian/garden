@@ -4,10 +4,11 @@
 - [[email]] eduardo@flancia.org
 - [[twitter]] https://twitter.com/flancian
   - DMs are open.
-  - Update (2023): no longer my primary social presence due to the evolution of the company's policies.
-- [[mastodon]] https://social.coop/@flancian
+  - Update (2023): no longer my primary social presence due to the evolution of the company's policies away from openness.
+- [[fediverse]] https://social.coop/@flancian
   - I believe in the huge potential of the [[fediverse]] and the [[knowledge metaverse]].
-- This is feedback I've gotten.
+  - Also at [[merveilles]]: https://merveilles.town/flaneur
+- This is feedback I've gotten in the past.
   - [[flancia]]
     - Improve the slogans. "In Flancia there is no poverty" sounds a bit "save the world", generic, a platitude; but the idea behind Flancia *is* to write a plan together to at least try to "[[change the world]]"; it could communicate that. I should in general make it clearer that it's an action-based rational, creative movement.
       - Perhaps: In Flancia they [[changed the world]]?
