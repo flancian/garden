@@ -103,7 +103,7 @@ And it is with the Agora that I intend to [[heal Google]], heal the [[Internet]]
 
 The Agora you are likely reading this in, https://anagora.org, is a prototype for a proposed platform that tries to meaningfully improve the status quo in the fields of corpus management, knowledge discovery and governance. This Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
 
-This Agora is informed by the principles expounded in the [[founders letter]], which is why I've decided to make it an intepart of my proposal.
+This Agora is informed by the principles expounded in the [[founders letter]], which is why I've decided to make it an integral part of my proposals.
 
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration. This is done with the intent to help a participating community shape policies, essentially defining "don't be evil".
 
