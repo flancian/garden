@@ -45,7 +45,7 @@ My high level intention is the following: to develop, together, a [[commons]] co
 ## An Agora is what Google could be, maybe
 The [[Agora]], in short, is what I call my umbrella proposal presented as a [[prototype]].
 
-With this letter, concretely, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims; please remember that I welcome, always, all [[feedback]].)
+With this letter, concretely, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims.
 
 But when I say that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
