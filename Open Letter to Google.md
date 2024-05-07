@@ -32,11 +32,12 @@ I am writing this letter because nobody else seems to be doing it, and I thought
 
 With the occasion of the [[founders letter anniversary]], a date to me more significant for my relationship with the company than probably any other (including its founding), I was hoping for both the company and the wider internet to have an open conversation about what we're up to in year 20 of [[Google's]] mostly deserved reign as internet search engine and provider of [[knowledge tools]].
 
-I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me, very appropriate to stop for a moment and consider together how the internet has evolved in the last 20 years as we all (Google, Googlers, and public society including other tech companies) aged (and learnt, and grew), and their roles shifted in the wider societal context.
+I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me, very appropriate to stop for a moment and consider together how the internet has evolved in the last 20 years as we all (Google, Googlers, and public society including other tech companies) aged (and learnt, and grew), and our roles shifted in the wider socioeconomic context.
 
-I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. 
 
 # I say, in short: an Agora is what Google could be, maybe
+
+I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. 
 
 By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather their full potential, as per the set of values and intentions closely aligned with the intent of the [[founders]] and [[leaders]] at a particular stage of the lifecycle of [[company]] or [[community]].
 
