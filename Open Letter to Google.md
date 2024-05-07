@@ -34,8 +34,12 @@ With the occasion of the [[founders letter anniversary]], a date to me more sign
 
 I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me anyway, very apropos to stop for a moment and consider together how company, internet and market evolved and became [[entangled]] together in the last 20 years as we all (Google, Googlers, users and public society including other tech companies) aged -- and learnt, and grew -- and our roles shifted in the wider socioeconomic context.
 
+That's what we are setting out to do, anyway. Join me? :)
+
 
 # I say, in short: an Agora is what Google could be, maybe
+
+The [[Agora]], in short, is what I call my umbrella proposal.
 
 When I say that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
