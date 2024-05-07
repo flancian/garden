@@ -125,7 +125,8 @@ Third of all: after that, what we show is exactly what the users have literally 
 
 ## More information
 
-*(...) link to [[go/agora chapter]] (...) for more.
+*(...) link to [[go/agora chapter]] for more (...) for more.*
+
 
 ## Your Google, your Agora, might be better than this
 
