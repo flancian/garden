@@ -14,7 +14,7 @@ I bet you don't run into letters with introductions every day :)
 
 This open letter was written in early [[May 2024]] with the occasion of the **20th anniversary of the [[April 29th]] publication of [[Google]]'s [[founders letter]] ahead of its [[2004-08-19]] [[IPO]].** I write this with the pro-social intent of inviting Google the corporation, its employees and the internet at large to a constructive retrospective of the years lived together since Google started engaging with the [[greater internet community]] as a public company. 
 
-This letter is written with good intentions, in the spirit of [[openness]] and [[loving kindness]] towards all beings, following the [[principle of charity]], as an individual with a public internet presence who happens to be an employee of [[Google]] as of the time of writing.
+This letter is written with good intentions, with [[loving kindness]] towards all beings, following the [[principle of charity]], as an individual with a public internet presence who happens to be an employee of [[Google]] as of the time of writing.
 
 This letter contains, or links to, a series of proposals for changes in the company and in the nature of its engagement with [[people]] (alternatively "employees" or "users"). These are essentially a series of related well-meaning recommendations and declarations of intents to improve the world according to my views, and as such they are subject to error and other kinds of imperfections. 
 
