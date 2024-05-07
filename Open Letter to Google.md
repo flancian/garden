@@ -53,7 +53,7 @@ As you read these proposals, please think and report back optionally: if not the
 
 This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: if you share a proposal for the betterment of society, our endeavors together, or any interesting subset of them, an Agora will be interested by default. 
 
-If you share a proposal for the betterment of a company, the internet or society at large, please consider joining this Agora :)
+If you are interested in sharing proposals for the betterment of a company or other actor in society, please consider joining this Agora :)
 
 ## What the Agora and Google are
 
