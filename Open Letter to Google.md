@@ -123,7 +123,9 @@ Third of all: after that, what we show is exactly what the users have literally 
 
 *(...) more on what the Agora is and how I posit it is relevant to Googlers and other communities? (...)*
 
+## More information
 
+*(...) link to [[go/agora chapter]] (...) for more.
 
 ## Your Google, your Agora, might be better than this
 
