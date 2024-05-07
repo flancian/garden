@@ -37,9 +37,11 @@ I sincerely hope both company and wider society can recognize the opportunity to
 
 # I say, in short: an Agora is what Google could be, maybe
 
-When I say that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[leaders]] of a [[company]] or [[community]].
+When I say that "Google" should be more like "an Agora" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. I, as a Google employee, am writing to communicate my recommendations as clearly and as harmlessly as possible to both company and society.
+
+My intention i
 
 --
 
