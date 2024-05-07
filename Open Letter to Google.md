@@ -47,11 +47,11 @@ When I say, perhaps provocatively, that "Google" could or should be more like "a
 
 The [[Agora]], in summary, is what I call my umbrella proposal, presented as a [[prototype]], to help fix Google and similar systems. That is, I make the argument that the project I started personally and then developed as an informal 120% since around 2020 (see [[Agora project]]), represents a step forward in a good direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of these claims.
 
-As you read these proposals, keep in mind: if not these proposals, which? This, in a nutshell, is if nothing else the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
-
-Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, we will comment on how Google was and how Google is, and what Google could be (again?). 
+Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, I comment on how Google was and how Google is, and what Google could be (again?). 
 
 Being mostly profit driven as of the time of writing, Google need not be free at all times; but in this letter I make the argument that, given its position of relevance and control at this stage of the evolution of the [[first known internet]], it *should* try to become increasingly fair ("democratic") within available market-reality-bound possibilities.
+
+As you read these proposals, keep in mind: if not these proposals, which? This, in a nutshell, is if nothing else the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
 
 ## Google could experiment with being more democratic
