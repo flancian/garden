@@ -113,7 +113,7 @@ The Agora you are likely reading this in, https://anagora.org, is a prototype fo
 
 This Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
-The Agora puts the user first -- at least some users :) It is currently relatively user unfriendly, but this is because it's a work in progress. Even at this early stage, it does put the user first in two key ways.
+The Agora puts the user first -- although currently only those of some users :) It is currently relatively user unfriendly, being relatively early stage and a work in progress. Even at this early stage, it does put the user first in two key ways.
 
 First of all, it tries to make it easy to explore alternatives. The 'web results' bar that shows up just below the query tries to link out directly to as many useful sites as we can reasonably show to a visiting user. As of the time of writing Google is highlighted because I still believe it is the best search engine in the internet; and Marginalia is highlighted as a good (and distinct/quirkly fun) fully free/independent alternative.
 
