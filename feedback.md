@@ -15,6 +15,7 @@
     - "In Flancia there is no privilege" and "In Flancia there is an Agora" got better reviews.
     - I should read more on: [[postmodernism]] [[privilege]] [[ethics]] [[feminism]]
       - Let it be known that [[Peter Singer]] is my delegate for [[ethics]], together with the [[Buddha]].
-      - If you have a delegate in a certain area (think of [[liquid democracy]]), it seems to me one is ethically bound to stay up to date with criticism of the delegate.
+      - I try to read criticisms of both to hedge :)
+      - (If you have a [[delegate]] in a certain area (think of [[liquid democracy]]), it seems to me one is ethically bound to stay up to date with criticism of the delegate.)
 
 
