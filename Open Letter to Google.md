@@ -95,7 +95,7 @@ And it is with the Agora that I intend to [[heal Google]], heal the [[Internet]]
 ## On healing
 With this, again, I don't mean that it is the Agora I started or I'm developing that will solve many of these problems and heal these systems; but rather that this Agora is an expression of the idea that will allow us to do so in the future, and that also makes sense as a direction that Google could explore in the mid-to-late 2020s.
 
-To do so, 
+To remain what amounts to a good steward of the internet for billions of users
 
 ## Google could be fairer
 
