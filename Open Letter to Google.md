@@ -30,7 +30,7 @@ And now, without further ado :)
 # Why I'm writing this letter
 I am writing this letter because nobody else seems to be doing it, and I thought someone should. 
 
-With the occasion of the [[founders letter anniversary]], a date to me in many ways more significant for my relationship with the company than its original founding, I was hoping for both the company and the wider internet to have a conversation about what we're up to in year 20 of [[Google's]] maybe-reign as an internet search engine and provider of [[knowledge tools]].
+With the occasion of the [[founders letter anniversary]], a date to me more significant for my relationship with the company than probably any other (including its founding, I was hoping for both the company and the wider internet to have a conversation about what we're up to in year 20 of [[Google's]] maybe-reign as an internet search engine and provider of [[knowledge tools]].
 
 I sincerely hope both company and wider society can recognize the opportunity to reflect on the occasion; it seems appropriate to stop for a moment and consider together how the internet has evolved in the last 20 years as Google and other tech companies aged (and learnt, and grew), and their roles shifted in the wider societal context.
 
