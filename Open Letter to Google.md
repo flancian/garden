@@ -114,7 +114,6 @@ The Agora you are likely reading this in, https://anagora.org, is a prototype fo
 
 This Agora is informed by the principles expounded in the [[founders letter]], which is why I've decided to make it part of my proposal.
 
-This Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
 The Agora puts the user first -- although currently only those of some users :) It is currently relatively user unfriendly, being early stage and a work in progress. Even at this stage, it does put the user first in two key ways.
 
@@ -123,6 +122,8 @@ First of all, it tries to make it easy to explore alternatives. The 'web results
 Second of all, it always has the Wikipedia article up top if one is found. Enough said, I believe? :)
 
 Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users. 
+
+In addition to these basic points note also that this Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
 *(...) more on what the Agora is and how I posit it is relevant to Googlers and other communities? (...)*
 
