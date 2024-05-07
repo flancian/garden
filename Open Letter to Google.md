@@ -55,7 +55,7 @@ With this letter, I want to make the argument that the project I started persona
 
 As you read these proposals, please think and report back optionally: if not these proposals, which? This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
-## The Agora and Google as they are currently
+## The Agora and Google as they are currently, and as they could be
 
 An Agora, in short, is a platform and pro-social device that tries to be [[free]], [[fair]] and [[alive]] for its community (its "users").
 
@@ -63,10 +63,7 @@ Google is a corporation and a community of employees (traditionally "Googlers", 
 
 Being mostly profit driven as of the time of writing, Google need not be free at all times; but in this letter I make the argument that, given its position of relevance and control at this stage of the evolution of the [[first known internet]], it *should* try to become increasingly fair ("democratic") within available market-reality-bound possibilities.
 
-## The Agora and Google as they could be
-
-
-## Google should experiment again with being more democratic
+### Google should experiment again with being more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures. As far as governmental structures go, companies are stuck in the time of [[kings]] and [[feudalism]].
 
 Google toyed with a form of anti-hierarchy early in its lifetime, way before I joined in 2012. The story goes that Larry and Sergey thought that they could do away (relatively still few but ever growing) layers of management, and decided that everyone would report directly to one of them -- I think it was Sergey (I will, of course, check). The experiment was cancelled after a few months due to the resulting overload and dysfunction. It seems to me that it makes sense it failed, even that early in the lifecycle of the company. Hierarchies seem to have evolved to reduce coordination overhead and they have strong points which yield demonstrable evolutionary fitness. 
@@ -77,7 +74,7 @@ I started the Agora because I believe that the answer to the scaling, growing, a
 
 Instead I believe the answer is to try to inch closer to what could be called an informed [[heterarchy]], in one of our proposals one yielded by gradually adopting principles of [[liquid democracy]] on top of [[traditional corporate governance]]. The Agora project came to life as a demo of a proposal for a free, transparent governance layer to facilitate this process and others similar.
 
-## Who I am and why I'm writing this
+## Who I am and why I wrote this
 
 After growing up in the digital context that seems to be becoming known as the [[golden age of the internet]] as experienced from [[Argentina]] , I joined Google in [[2012]] believing the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source]] and the internet [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-well -- and still make a more than sufficient (i.e. a shitload) of money.
 
