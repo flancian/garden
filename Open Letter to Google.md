@@ -80,9 +80,9 @@ I'm a random guy (and nerd) who got lucky, as others I know :) After coming of a
 
 During the 00s Google used and developed open protocols like [[XMPP]] and [[WebRTC]]. Google contributed to [[open source]] and the internet [[commons]] before it was cool. Google proved that companies could treat their employees very well -- clearly better than average! high-percentile-well -- and still make a more than sufficient (i.e. a shitload) of money. Google, what is more, had encoded these values in their [[founders letter]], the public declaration of intents and purposes centered around [[don't be evil]] and a great pithy mission: [[to organize the world's information and make it universally accessible and useful]]. 
 
-Sure, [[free]] was not in it -- but then again, Google offered a fair deal; we could pay with our attention.
+Sure, [[free]] was not in it -- but then again, Google offered a fair deal; we could pay with our attention. And it had shown that it could make plenty enough money while offering this fair deal.
 
-So why be evil, indeed, if you can be good and get away with it? Make money while still increasing total utility and happiness?
+So why become evil, indeed, if you can be good and get away with it? If you know you can make money while still increasing total utility and happiness?
 
 The answer is relatively straightforward: because systems will tend to degrade with time, as yet another manifestation of entropy; because of the emergent forces within our social systems that tend to consolidate themselves in hierarchies that risk abusing their positions of power; because things tend not to be, or remain, as good as they seem like they can be.
 
