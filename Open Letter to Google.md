@@ -93,7 +93,9 @@ Because of [[Moloch]], some say. If so: it is to help defeat [[Moloch]] and impr
 And it is with the Agora that I intend to [[heal Google]], heal the [[Internet]].
 
 ## On healing
-With this, again, I don't mean that it is the Agora I started or I'm developing that will solve many of these problems and heal these systems; but rather that this Agora is an expression of the idea that will allow us to do so in the future.
+With this, again, I don't mean that it is the Agora I started or I'm developing that will solve many of these problems and heal these systems; but rather that this Agora is an expression of the idea that will allow us to do so in the future, and that also makes sense as a direction that Google could explore in the mid-to-late 2020s.
+
+To do so, 
 
 ## Google could be fairer
 
