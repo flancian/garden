@@ -84,7 +84,7 @@ Sure, [[free]] was not in it -- but then again, Google offered a fair deal; we c
 
 So why become evil, indeed, if you can be good and get away with it? If you know you can make money while offering better than average, while being generous to users and employees? 
 
-Manichean labels like 'good' (googly) or 'evil' (ungoogly) aside, the question is: why do companies particular systems of the type public company, degrade over time? Are we condemned to [[enshittification]]? The answer is relatively straightforward: maybe all systems will tend to degrade with time, as yet another manifestation of entropy; because of the emergent forces within our social systems that tend to consolidate themselves in hierarchies that risk abusing their positions of power; because things tend not to be, or remain, as good as they seem like they can be.
+Manichean labels like 'good' (googly) or 'evil' (ungoogly) aside, the question is: why do companies degrade over time? Are we condemned to [[enshittification]]? The answer, I believe, is relatively straightforward: all systems will tend to degrade with time, as yet a manifestation of entropy; because of the emergent forces within our social systems that tend to consolidate themselves in hierarchies that risk abusing their positions of power; because things tend not to be, or remain, as good as they seem like they can be.
 
 Because of inefficiencies and lack of trust and coordination. Because of [[Moloch]], as some say. If so: it is to help defeat [[Moloch]] and improve human-computer systems that I'm writing this, and that I started building the [[Agora]].
 
