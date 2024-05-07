@@ -26,7 +26,7 @@ And now, without further ado... :)
 
 
 # Why I'm writing this letter
-I am writing this letter because nobody else seems to be doing it, and I thought it should be written.
+I am writing this letter because nobody else seems to be doing it, and I thought it needed to be written.
 
 With the occasion of the [[founders letter anniversary]], a date to me more significant for my relationship with the company than probably any other (including its founding), I was hoping for both the company and the wider internet to take the opportunity to have an open conversation about the general state of affairs as [[Google]] the /[[public company]] enters the third decade of a mostly deserved reign as internet search engine and provider of [[knowledge tools]] in the market. Instead so far I have only seen silence. People seem jaded, as if Google has lost their trust and can now be expected to [[do no better]] than other corporations; to act just as other corporations do, despite our [[founders letter]] being our public declaration of intentions. The base for which users, and stockholders, decided to trust Google early on.
 
