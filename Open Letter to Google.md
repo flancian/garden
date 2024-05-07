@@ -53,7 +53,7 @@ As you read these proposals, please think and report back optionally: if not the
 
 ## What the Agora and Google are
 
-An Agora, in short, is a platform and pro-social device that tries to be [[free]], [[fair]] and [[alive]] for its community (its "users") way, it is a [[Commons]]. 
+An Agora, in short, is a platform and pro-social device that tries to be [[free]], [[fair]] and [[alive]] for its community (its "users").
 
 Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, we will comment on how Google was and how Google is, and what Google could be (again?). 
 
