@@ -42,7 +42,8 @@ This letter contains, in as succinct a way as I could muster, a series of specif
 
 My high level intention is the following: to develop, together, a [[commons]] containing a prosocial transparent governance layer for the internet and use it in a daring way to try to advance company, society and civilization. And I intend to convince Google that this is the right thing for both people ("users") and company; I intend to convince you, reader, that we should do this together.
 
-The [[Agora]], in short, is what I call my umbrella proposal.
+## An Agora is what Google could be, maybe
+The [[Agora]], in short, is what I call my umbrella proposal presented as a [[prototype.
 
 With this letter, concretely, I want to make the argument that the project I started personally and then developed as an informal 20% since around 2020 (see [[Agora project]]), represents a step forward in the right direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of the merit of these my claims; please remember that I welcome, always, all [[feedback]].)
 
