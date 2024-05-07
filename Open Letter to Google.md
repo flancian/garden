@@ -108,9 +108,9 @@ In which specific ways could Google be fairer? In which specific ways could Goog
 
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
-## An Agora is my proposal to move forward
+## Why an Agora is part of my proposal
 
-The Agora project is the umbrella under which I'm developing a proposal for a platform that improves in some ways on the internet status quo in the fields of knowledge discovery and governance. The Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
+The Agora project is the umbrella under which I'm for a platform that improves in some ways on the internet status quo in the fields of knowledge discovery and governance. The Agora is developed as [[free software]] and in the open, with the intent of helping solve problems that ail human groups, corporations and commons as they grow, learn and age together.
 
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration.
 
