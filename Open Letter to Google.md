@@ -36,6 +36,7 @@ I sincerely hope both company and wider society can recognize the opportunity to
 
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. 
 
+# I say, in short: an Agora is what Google could be, maybe
 By "an Agora" and "could" I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather their full potential, as per the set of values and intentions closely aligned with the intent of the [[founders]] and [[leaders]] at a particular stage of the lifecycle of [[company]] or [[community]].
 
 --
