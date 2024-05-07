@@ -49,7 +49,7 @@ With this letter, I want to make the argument that the project I started persona
 
 This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I will try to include [[links]].
 
-As you read these proposals, please think and report back optionally: if not these proposals, which? This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by the community. if you share a proposal for the betterment of society, our endeavors together, or any interesting subset of them, an Agora will be interested by default.
+As you read these proposals, please think and report back optionally: if not these proposals, which? This, in a nutshell, is the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
 If you are interested in sharing proposals for the betterment of a company or other actor in society, please consider joining this Agora :)
 
