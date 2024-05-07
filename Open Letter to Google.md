@@ -39,7 +39,7 @@ That's what we are setting out to do, anyway. Join me? :)
 
 I write this in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. I, as a Google employee, am writing to communicate my recommendations as clearly and as harmlessly as possible to both company and society.
 
-My intention is the following: to develop, together, a [[commons]] containing a prosocial transparent governance layer for the internet and use it in a daring way to try to advance society and civilization. And I intend to convince Google that this is the right thing for both people ("users") and company; I intend to convince you, reader, that we should do this together.
+My intention is the following: to develop, together, a [[commons]] containing a prosocial transparent governance layer for the internet and use it in a daring way to try to advance company, society and civilization. And I intend to convince Google that this is the right thing for people and corporation; I intend to convince you, reader, that we should do this together.
 
 The [[Agora]], in short, is what I call my umbrella proposal.
 
