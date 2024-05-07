@@ -90,7 +90,7 @@ The answer, I believe, is on first approximation relatively straightforward: bec
 
 Because of [[Moloch]], some say. If so: it is to help defeat [[Moloch]] and improve human-computer systems that I'm writing this, and that I started building the [[Agora]].
 
-And it is with the Agora that I intend to [[heal Google]].
+And it is with the Agora that I intend to [[heal Google]], heal the [[Internet]].
 
 ## Google could be fairer
 
