@@ -1,9 +1,10 @@
 # Feedback
 
-- Please feel free to send me a message me anytime on any of the supported platforms: [[flancian]].
-- [[email]] eduardo@flancia.org.
+- Please feel free to send me a message me anytime on any of the supported platforms :) see [[flancian]] for more.
+- [[email]] eduardo@flancia.org
 - [[twitter]] https://twitter.com/flancian
   - DMs are open.
+  - Update (2023): no longer my primary social presence due to the evolution of the company's policies.
 - [[mastodon]] https://social.coop/@flancian
   - I believe in the huge potential of the [[fediverse]] and the [[knowledge metaverse]].
 - This is feedback I've gotten.
