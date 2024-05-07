@@ -98,9 +98,7 @@ With this, again, I don't mean that it is the Agora I started or I'm developing 
 To remain what amounts to a good steward of the internet for billions of users, though, Google should try to strive to be in certain ways as this happens.
 
 ## Google could be fairer
-Google should strive to be closer to fair as it was around 2004, both to employees and users, as they care to define it in 2024 and going forward.
-
-Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large and the greater internet ecosystem.
+Google should strive to be as fair as it was around 2004. Fairer to all: fairer to employees, fairer to users (a.k.a. [[people]]), fairer to society at large and the greater internet ecosystem.
 
 In which ways could Google be fairer? As per the proposals and ideas above and below. Read on for the positions and proposals that I thought fitting to share in public given my employment and what I think is [[right speech]] and [[right livelihood]]. But some arguments I will expand only in the version of this letter that only Googlers will see.
 
