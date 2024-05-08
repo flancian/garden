@@ -1,7 +1,6 @@
 - an [[open letter]].
-  - [[external]].
-  - a draft.
-  - Which you can read in this [[node]] in the [[Agora of Flancia]].
+  - Of which you can read a [[draft]] in this [[node]] in the [[Agora of Flancia]].
+    - [[external]].
   - About democracy, freedom, fairness and [[protopianism]] in the [[Commons]] :)
   - Written during [[May 2025]] in the context of [[node club]] on [[digital capitalism]] -- and the [[20th anniversary of the founder's letter]]
 - an [[open letter]].
