@@ -119,7 +119,7 @@ The Agora puts the user first -- although currently only those of some users :) 
 
 *(...) link to [[go/agora chapter]] for more (...)*
 
-## Your Agora might be better than this
+## Your Agora might be better than this one
 
 As I said in the beginning, I started writing this letter because nobody else seemed to have yet done so and I thought it was worth writing, apropos of the news and all things considered. Beyond the relative value of my positions contained here I would love it if it were to prompt others; to prompt people like you to write your own and do better, or just explore complementary ideas and approaches. 
 
