@@ -46,7 +46,7 @@ I am writing down this set of optimistic, some would say [[naive]], **proposals*
 
 Because of ethical considerations, this letter has two facets: its other side is available only to Googlers.
 
-My high level proposal, if there is one that can serve as an umbrella to all others, is the following: we should develop together a digital [[Commons]] containing a prosocial transparent governance layer for the internet and use it in a daring way to try to advance all of company, society and civilizati. 
+My high level proposal, if there is one that can serve as an umbrella to all others, is the following: we should develop together a digital [[Commons]] containing a prosocial, transparent, altruistic governance layer to complement the wilderness of the internet and use it in a daring way to try to advance all of: company, society and civilization. 
 
 I intend to convince Google that this is the right thing for both people ("users") and company; and I intend to convince you, reader, that we should do this together.
 
