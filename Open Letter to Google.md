@@ -55,6 +55,8 @@ When I say, perhaps provocatively, that "Google" could or should be more like "a
 
 The [[Agora]], in summary, is what I call the umbrella proposal that I mentioned above, presented as a [[prototype]], to help us “fix” (improve) Google and similar carbon-silicon systems :) That is, in this letter I make the argument that the project I started personally and then developed as an informal 120% since around 2020 (see [[Agora project]]), represents a step forward in a good direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of these claims.
 
+
+## In short: an Agora is what Google could be
 Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, I comment on how Google was and how Google is, and what Google could be (again?). 
 
 Being mostly profit driven as of the time of writing, Google need not be free at all times; but in this letter I make the argument that, given its position of relevance and control at this stage of the evolution of the [[first known internet]], it *should* try to become increasingly fair ("democratic") within available market-reality-bound possibilities.
