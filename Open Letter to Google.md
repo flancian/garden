@@ -28,7 +28,9 @@ I am writing this letter because nobody else seems to be doing it, and I thought
 
 As I said earlier I write this with the occasion of the [[founders letter anniversary]], a date to me more significant for my relationship with the company than probably any other. In this occasion I was hoping for both the company and the wider internet to take the opportunity to have an open conversation about the general state of affairs as [[Google]] enters its third decade as a [[public company]] while still holding a mostly deserved reign as internet search engine and provider of [[knowledge tools]]. 
 
-Instead so far I have seen the date go by mostly unnoticed. People (some out, some in the company) seem jaded by the context and recent actions. It is as if Google has lost our trust and can now be expected to [[do no better]] than other corporations; to act just as traditional corporations do, despite our [[founders letter]] being our public declaration of intents guarding against this outcome. The base for which users, and stockholders, decided to trust Google early on.
+Instead so far I have seen the date go by mostly unnoticed. People (some out, some in the company) seem jaded by the context and recent actions. It is as if Google has lost our trust and can now be expected to [[do no better]] than other corporations; to act just as traditional corporations do, despite our [[Founders Letter]] being our public declaration of intents of guarding against this outcome. 
+
+But the Founders Letter was the base on which users, and stockholders, decided to trust Google early on.
 
 I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me anyway, very apropos to stop for a moment and consider together how company, internet and market evolved and became [[entangled]] together in the last 20 years as we all (Google, Googlers, users and public society including other tech companies) aged -- and learnt, and grew -- and our roles shifted in the wider socioeconomic context. And what we can try to do about it.
 
