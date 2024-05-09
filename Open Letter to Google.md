@@ -84,8 +84,6 @@ Google should strive to be as fair as it was around 2004. Fairer to all: fairer 
 
 Google should strive to be freer or closer to free. By this I mean not that it should become a non-profit or self-immolate in the market but rather that profits should not get in the way of providing good quality services to people at minimum monetary cost, as expressed by the letter and manifested by the company's attitudes in the 00s. By this I mean alternatively that Google should more adequately compensate the users for their attention.
 
--->
-``
 In which specific ways could Google be fairer? In which specific ways could Google be freer? By seriously considering the proposals and ideas in this open letter, and others that improve overall happiness and utility while remaining affordable. 
 
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
@@ -117,6 +115,8 @@ This Agora is informed by the principles expounded in the [[founders letter]], w
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration. This is done with the intent to help a participating community shape policies, essentially defining "don't be evil".
 
 The Agora puts the user first -- although currently only those of some users :) It is currently relatively user unfriendly, being early stage and a work in progress. Even at this stage, it does put the user first in two key ways. First of all, it tries to make it easy to explore alternatives. The 'web results' bar that shows up just below the query tries to link out directly to as many useful sites as we can reasonably show to a visiting user. As of the time of writing Google is highlighted because I still believe it is the best search engine in the internet; and Marginalia is highlighted as a good (and distinct/quirkly fun) fully free/independent alternative. Second of all, it always has the Wikipedia article up top if one is found. Enough said, I believe? :) Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users who opt into crawling.
+
+-->
 
 ## More information
 
