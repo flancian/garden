@@ -30,7 +30,7 @@ As I said earlier I write this with the occasion of the [[founders letter annive
 
 Instead so far I have seen the date go by mostly unnoticed. People (some out, some in the company) seem jaded by the context and recent actions. It is as if Google has lost our trust and can now be expected to [[do no better]] than other corporations; to act just as traditional corporations do, despite our [[Founders Letter]] being our public declaration of intents of guarding against this outcome. 
 
-But the Founders Letter was the base on which users, and stockholders, decided to trust Google early on.
+But the Founders Letter was the base on which users, and stockholders, decided to trust Google early on -- that together with the company’s user-friendly, generous actions as they were common [[back in the 00s]].
 
 I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me anyway, very apropos to stop for a moment and consider together how company, internet and market evolved and became [[entangled]] together in the last 20 years as we all (Google, Googlers, users and public society including other tech companies) aged -- and learnt, and grew -- and our roles shifted in the wider socioeconomic context. And what we can try to do about it.
 
