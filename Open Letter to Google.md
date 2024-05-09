@@ -87,7 +87,7 @@ In which specific ways could Google be fairer? In which specific ways could Goog
 
 This might surprise you, but I think Google has been able to stay relatively close to this promise that seems very core to its original mission ([[to organize the world's information and make it universally accessible and useful]]). Still, we could do better even.
 
-## Who I am and why I wrote this
+## Right intent
 
 I'm a random guy (and nerd) who got lucky, as others I know :) After coming of age in Argentina in the digital context that seems to be becoming known as the [[golden age of the internet]] around the turn of the millenium, I studied literature and computer science and joined Google in [[2012]] believing the [[founders]] cared about the health of the internet and the good of society ahead of profits, and showed it through their public actions and their treatment of employees and users. 
 
@@ -114,8 +114,6 @@ This Agora is informed by the principles expounded in the [[founders letter]], w
 The Agora, being a [[commons]], contains a minimum viable governance platform: a space for debate and group decision making coupled with individual exploration. This is done with the intent to help a participating community shape policies, essentially defining "don't be evil".
 
 The Agora puts the user first -- although currently only those of some users :) It is currently relatively user unfriendly, being early stage and a work in progress. Even at this stage, it does put the user first in two key ways. First of all, it tries to make it easy to explore alternatives. The 'web results' bar that shows up just below the query tries to link out directly to as many useful sites as we can reasonably show to a visiting user. As of the time of writing Google is highlighted because I still believe it is the best search engine in the internet; and Marginalia is highlighted as a good (and distinct/quirkly fun) fully free/independent alternative. Second of all, it always has the Wikipedia article up top if one is found. Enough said, I believe? :) Third of all: after that, what we show is exactly what the users have literally written -- meaning both full Agora users (people who sign up to contribute notes) and social media users who opt into crawling.
-
-*(...) more on what the Agora is and how I posit it is relevant to Googlers and other communities? (...)*
 
 ## More information
 
