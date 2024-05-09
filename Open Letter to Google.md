@@ -40,7 +40,7 @@ That's what we are setting out to do, anyway. Join me? :)
 
 ## Google could be more generous
 
-This letter contains, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of [[users]]. Whenever I couldn't expound in full, I try to include [[links]].
+This letter is meant to contain, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of our [[users]], as a whole and as arbitrary subgroups. Whenever I couldn't expound in full, I try to include [[links]].
 
 I write this set of optimistic, some would say [[naive]], **proposals** knowingly in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] in [[mid 2024]]. Yet I, as a Google employee, want to communicate my recommendations as clearly and as ethically as possible to both company and society. Because of this, the rest of this letter for now will be available in a forum available only to Google employees.
 
