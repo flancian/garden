@@ -53,7 +53,7 @@ While I am employed (which I hope will be many more years to come, in open colla
 ## In short: an Agora is what Google could be
 When I say, perhaps provocatively, that "Google" could or should be more like "an Agora", I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
-The [[Agora]], in summary, is what I call the umbrella proposal that I mentioned above, presented as a [[prototype]], to help fix Google and similar systems. That is, I make the argument that the project I started personally and then developed as an informal 120% since around 2020 (see [[Agora project]]), represents a step forward in a good direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of these claims.
+The [[Agora]], in summary, is what I call the umbrella proposal that I mentioned above, presented as a [[prototype]], to help us “fix” (improve) Google and similar carbon-silicon systems :) That is, in this letter I make the argument that the project I started personally and then developed as an informal 120% since around 2020 (see [[Agora project]]), represents a step forward in a good direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of these claims.
 
 Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, I comment on how Google was and how Google is, and what Google could be (again?). 
 
