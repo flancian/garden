@@ -40,9 +40,9 @@ That's what we are setting out to do, anyway. Join me? :)
 
 ## Google could be more generous
 
-This letter is meant to contain, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of our [[users]], as a whole and as arbitrary subgroups. Whenever I couldn't expound in full, I try to include [[links]].
+This letter is meant to contain, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of our [[users]], as a whole and as arbitrary subgroups. Whenever I couldn't expound in full, I would try to include [[links]].
 
-I write this set of optimistic, some would say [[naive]], **proposals** knowingly in the context of what some call [[late stage capitalism]] and can safely be alternatively described as [[digital capitalism]] as it is as of mid [[2024]]. I need to clarify that I know that my chances of **success, defined as effecting meaningful change in the policies of the company**, are low. Yet I still want to try and communicate my recommendations as clearly and as ethically as I can manage to both company and society. Because of this, this letter will actually have to be two letters: its other half for now will be available only to Googlers.
+I am writing down this set of optimistic, some would say [[naive]], **proposals** knowingly in the context of what some call [[late stage capitalism]] and can safely be described as [[digital capitalism]] as it is as of mid [[2024]]. I need to clarify that I know that my chances of **success, defined as effecting meaningful change in the policies of the company**, are low. Yet I still want to try and communicate my recommendations as clearly and as ethically as I can manage to both company and society. Because of this, this letter will actually have to be two letters: its other half for now will be available only to Googlers.
 
 My high level intention is the following: to develop, together, a [[commons]] containing a prosocial transparent governance layer for the internet and use it in a daring way to try to advance company, society and civilization. I intend to convince Google that this is the right thing for both people ("users") and company; and I intend to convince you, reader, that we should do this together.
 
