@@ -48,12 +48,12 @@ Because of ethical considerations, this letter has two facets: its other side is
 
 My high level proposal, if there is one that can serve as an umbrella to all others, is the following: we should develop together a digital [[Commons]] containing a prosocial, transparent, free governance layer that complements the power and wilderness of the internet and allows us to use it in a daring way to try to advance all of: company, society and civilization. 
 
-While I am employed (which I hope will be many more years to come, in open collaboration) I intend to try to convince Google that this is the right thing for both people ("users") and the company; and I intend to convince you, reader, that we should do this together.
+While I am employed (which I hope will be many more years to come, in open collaboration) I intend to try to convince Google that this is the right thing for both people ("users") and the company; and I intend to convince you, reader, that we should try to do this together.
 
-## An Agora is what Google could be
+## In short: an Agora is what Google could be
 When I say, perhaps provocatively, that "Google" could or should be more like "an Agora", I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
-The [[Agora]], in summary, is what I call my umbrella proposal, presented as a [[prototype]], to help fix Google and similar systems. That is, I make the argument that the project I started personally and then developed as an informal 120% since around 2020 (see [[Agora project]]), represents a step forward in a good direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of these claims.
+The [[Agora]], in summary, is what I call the umbrella proposal that I mentioned above, presented as a [[prototype]], to help fix Google and similar systems. That is, I make the argument that the project I started personally and then developed as an informal 120% since around 2020 (see [[Agora project]]), represents a step forward in a good direction as we navigate the mid 20s together. You, [[dear reader]], will be the judge of these claims.
 
 Google is a corporation and a community of employees (traditionally "Googlers", assumed to be practicing "Googlyness" :) In this letter, I comment on how Google was and how Google is, and what Google could be (again?). 
 
