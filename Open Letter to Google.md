@@ -48,7 +48,7 @@ Because of ethical considerations, this letter has two facets: its other side is
 
 My high level proposal, if there is one that can serve as an umbrella to all others, is the following: we should develop together a digital [[Commons]] containing a prosocial, transparent, free governance layer that complements the power and wilderness of the internet and allows us to use it in a daring way to try to advance all of: company, society and civilization. 
 
-I intend to convince Google that this is the right thing for both people ("users") and the company; and I intend to convince you, reader, that we should do this together.
+While I am employed (which I hope will beI intend to convince Google that this is the right thing for both people ("users") and the company; and I intend to convince you, reader, that we should do this together.
 
 ## An Agora is what Google could be
 When I say, perhaps provocatively, that "Google" could or should be more like "an Agora", I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
