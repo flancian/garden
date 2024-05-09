@@ -21,7 +21,7 @@ And now, without further ado... :)
 
 --
 
-***Note: as of the time of writing ([[2024-05-03]], [[2024-05-07]], [[2024-05-09]], ...), this letter should be considered most definitely a [[work in progress]]. I started writing in this node on [[April 29th]] with the intent to have a short essay in readable state on the first week of [[May 2024]] (depending on how work and personal life went), but then I decided to make it my month-scoped priority. I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] in the form of [[nodes]]; so please refer to those if at all interested, and reach out if you have any questions or comments :).***
+***Note: as of the time of writing ([[2024-05-03]], [[2024-05-07]], [[2024-05-09]], ...), this letter should be considered most definitely a [[work in progress]]. I started writing in this node on [[April 29th]] with the intent to have a short essay in readable state on the first week of [[May 2024]] (depending on how work and personal life went), but then I decided to make it my month-scoped priority and to take the opportunity to write also the internal proposal. Note I have covered many of these topics before, as fragments, elsewhere in the [[Agora]] of [[nodes]]; so please refer to those if at all interested, and reach out if you have any questions or comments :).***
 
 
 # Why I'm writing this letter
