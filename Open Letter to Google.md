@@ -62,7 +62,6 @@ Being mostly profit driven as of the time of writing, Google need not be free at
 
 As you read these proposals, keep in mind: if not these proposals, which? This, in a nutshell, is if nothing else the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
-<!--
 ## We could experiment with being more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures. As far as governmental structures go, companies are stuck in the time of [[kings]] and [[feudalism]].
 
