@@ -8,7 +8,8 @@
 	- [[amsomniac]] told me about it
 	- [[archive]] https://archive.org/details/TrueNames/mode/2up
 - a [[letter]].
+  - in the [[Agora of Flancia]].
 
-I started writing this letter approximately a year ago, then I never sent it (this is a [[pattern]]). Now we come to this point and I think again of sending you a letter explaining some things, I thought 
+I started writing this letter approximately a year ago, then I never sent it (this is a traditional [[pattern]] in my behavior). Now we come to this point and I think again of sending you a letter explaining some things, I thought of rescuing that unsent letter and continuing it in a 
 
 
