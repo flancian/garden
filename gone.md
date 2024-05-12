@@ -1,4 +1,5 @@
 - a [[poem]].
+  - #pull with apologies to [[gate gate paragate parasamgate bodhi svaha]]
   - [[Gone]], gone.
     - Gone beyond!
     - Everybody gone to the other shore.
@@ -7,7 +8,8 @@
     - Gone beyond!
     - Everybody gone to the other shore.
     - [[Awakening]]!
-  - #pull [[gate gate paragate parasamgate bodhi svaha]]
+
+-- 
 
 Gone, gone!
 Gone beyond
@@ -15,14 +17,11 @@ Gone beyond
 Everybody gone to the other shore
 
 Gone kindly.
+
 If you have to go, go kindly!
 
 --
 
-- [[maybe also]]:
--
-Love
-Burn kindly!
+- -> [[maybe also]]
 
-If you have to burn,
-   burn kindly!
+
