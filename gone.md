@@ -9,3 +9,11 @@
     - [[Awakening]] together!
     - [[Bodhi Svaha]]
   - #pull [[gone gone gone]] [[avalokiteshvara]]
+
+Gone, gone!
+Gone beyond
+
+Everybody gone to the other shore
+
+Gone kindly!
+If you have to go, go kindly.
