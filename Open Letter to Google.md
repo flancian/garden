@@ -32,24 +32,27 @@ Instead so far I have seen the date go by mostly unnoticed. People (some out, so
 
 But the Founders Letter was the base on which users, and stockholders, decided to trust Google early on -- that and the company’s user-friendly, standards-setting generous actions as they seemed to come more naturally [[back in the 00s]]. And because I believe this letter should be written, and barring someone better I should be the one to write it.
 
-# On reflecting together as a skill
-
-I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me anyway, very apropos to stop for a moment and consider together how company, internet and market evolved and became [[entangled]] together in the last 20 years as we all (Google, Googlers, users and public society including other tech companies) aged -- and learnt, and grew -- and our roles shifted in the wider socioeconomic context. And what we can try to do about it.
-
-That's what we are setting out to do, anyway. Join me? :)
-
-## My intentions
+# My intentions
 
 This letter is meant to contain, in as succinct a way as I could muster, a series of specific proposals to [[Google]] and the community of our [[users]], as a whole and as arbitrary subgroups. Whenever I couldn't expound in full, I would try to include [[links]].
 
 I am writing down this set of optimistic, some would say [[naive]], **proposals** knowingly in the context of what some call [[late stage capitalism]] and can safely be described as [[digital capitalism]] as it is as of mid [[2024]]. I will clarify that I know that my chances of **success, defined as effecting meaningful change in the policies of the company**, are low. Yet I still want to try and communicate my recommendations as clearly and as ethically as I can manage to both company and society and try to engage in constructive dialogue with these parties. 
 
-Because of ethical considerations, this letter has two facets: its other side is available only to Googlers.
+Because of ethical considerations, this letter has two facets: its most explicit other facet is currently available only to Googlers.
 
 My high level proposal, if there is one that can serve as an umbrella to all others, is the following: we should develop together a digital [[Commons]] containing a prosocial, transparent, free governance layer that complements the power and wilderness of the internet and allows us to use it in a daring way to try to advance all of: company, society and civilization. 
 
-While I am employed (which I hope will be many more years to come, in open collaboration) I intend to try to convince Google that this is the right thing for both people ("users") and the company; and I intend to convince you, reader, that we should try to do this together.
 
+# On reflecting together as a skill
+
+I sincerely hope both company and wider society can recognize the opportunity to reflect together on the occasion. It seems, to me anyway, very apropos to stop for a moment and consider together how company, internet and market evolved and became [[entangled]] together in the last 20 years as we all (Google, Googlers, users and public society including other tech companies) aged -- and learnt, and grew -- and our roles shifted in the wider socioeconomic context. And what we can try to do about it.
+
+While I am employed (which I hope could mean through many more years to come, in open collaboration) I intend to try to convince Google that this is the right thing for both people ("users") and the company; and I intend to convince you, reader, that we should try to do this together.
+
+That's what we are setting out to do, anyway. Wish us luck! :)
+
+
+<!--
 ## In short: an Agora is what Google could be
 When I say, perhaps provocatively, that "Google" could or should be more like "an Agora", I mean not the [[Agora]] and [[Google]] exactly as they are in their current form, but rather in their full potential or [[entelechy]]; as per the set of values and intentions most closely aligned with the intent of the [[founders]] or [[stewards]] of a [[company]] or [[community]].
 
@@ -62,7 +65,6 @@ Being mostly profit driven as of the time of writing, Google need not be free at
 
 As you read these proposals, keep in mind: if not these proposals, which? This, in a nutshell, is if nothing else the spirit of the [[Agora]] I am proposing and have been trying to build: it is a [[commons]] focused on finding [[rational]] [[incremental improvements]] achievable by its community. Put another way: if you share proposals for the betterment of society, our endeavors together, or any interesting subset of them, an Agora can be defined that will be interested by default.
 
-<!--
 ## We could experiment with being more democratic
 Most corporations have historically not been democratic at all; governance wise they tend to be (or become) highly hierarchical, in particular as they age and emergent hierarchies solidify and negotiate market pressures. As far as governmental structures go, companies are stuck in the time of [[kings]] and [[feudalism]].
 
