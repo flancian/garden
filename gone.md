@@ -1,14 +1,13 @@
 - a [[poem]].
   - [[Gone]], gone.
-    - Everyone gone to the other shore.
-    - Gone kindly!
-  - Gone, [[gone]].
-    - All gone to the other shore.
     - Gone beyond!
-    - Gone with compassion.
-    - [[Awakening]] together!
-    - [[Bodhi Svaha]]
-  - #pull [[gone gone gone]] [[avalokiteshvara]]
+    - Everybody gone to the other shore.
+    - Gone kindly!
+  - Gone, gone.
+    - Gone beyond!
+    - Everybody gone to the other shore.
+    - [[Awakening]]!
+  - #pull [[gate gate paragate parasamgate bodhi svaha]]
 
 Gone, gone!
 Gone beyond
@@ -20,6 +19,8 @@ If you have to go, go kindly!
 
 --
 
+- [[maybe also]]:
+-
 Love
 Burn kindly!
 
