@@ -1,4 +1,4 @@
-- coming from [[gone]]:
+- coming from [[gone]], one for the [[non strictly monastic]] life:
 
 [[Love]]
 Burn kindly!
