@@ -10,7 +10,7 @@ Sos tan bella, [[Lady Burup]]."
 
 --
 
-- #pull [[Burup Peninsula]] :)
+- #pull At some point I found out about the [[Burup Peninsula]] :)
 
 --
 
