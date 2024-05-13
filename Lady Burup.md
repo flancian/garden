@@ -8,3 +8,11 @@ Bella, bella. Tan bella. Sos tan bella, [[Lady Burup]].
 --
 
 - #pull [[Burup Peninsula]] :)
+
+--
+
+Hay, quién tuviera!
+Los ojos negros de Lady Burup
+
+Sus ojos negros
+Sus suaves rayas
