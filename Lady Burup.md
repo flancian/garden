@@ -7,9 +7,6 @@ Tan bella.
 Sos tan bella, [[Lady Burup]]."
 
 - Pienso en la [[Burup de ojos verdes]] y la [[Burup de ojos negros]].
-
---
-
 - #pull At some point I found out about the [[Burup Peninsula]] :)
 
 --
@@ -44,7 +41,7 @@ Hay, quíén tuviera
 Las bellas rayas de Lady Burup
 
 Sus olas suaves
-Fluyendo
+Irradiando
 
 Sus rayas bellas! 
 
