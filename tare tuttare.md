@@ -1,0 +1,4 @@
+- Oh [[Tara]]:
+  - Tare tuttare ture,
+  - Tuttare tuttare ture!
+  - Avalokiteshvara! Maitreya
