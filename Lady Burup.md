@@ -24,4 +24,5 @@ Sus suaves rayas!
 Hay, quíén tuviera
 Las suaves rayas de Lady Burup
 
-Sus 
+Sus bellas olas
+
