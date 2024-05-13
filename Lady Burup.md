@@ -10,6 +10,9 @@ Bella, bella. Tan bella. Sos tan bella, [[Lady Burup]].
 - #pull [[Burup Peninsula]] :)
 
 --
+
+1
+
 Hay, quién tuviera!
 Los ojos verdes de Lady Burup
 
@@ -20,6 +23,8 @@ Sus bellas rayas!
 
 --
 
+2
+
 Hay, quién tuviera!
 Los ojos negros de Lady Burup
 
@@ -29,6 +34,8 @@ Resplandeciendo
 Sus bellas rayas!
 
 --
+
+3
 
 Hay, quíén tuviera
 Las bellas rayas de Lady Burup
