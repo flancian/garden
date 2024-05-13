@@ -41,7 +41,7 @@ Hay, quíén tuviera
 Las bellas rayas de Lady Burup
 
 Sus olas suaves
-Irradiando
+Fluyendo
 
 Sus rayas bellas! 
 
