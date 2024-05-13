@@ -1,11 +1,12 @@
 # 0
 
-- #pull [[Ocell]], my [[lady burup]]
+- #pull [[Ocell]], mi [[Lady Burup]]!
 
-"Bella, bella. Tan bella. Sos tan bella, [[Lady Burup]]."
+"Bella, bella. 
+Tan bella. 
+Sos tan bella, [[Lady Burup]]."
 
-- [[Burup de ojos verdes]].
-- [[Burup de ojos negros]].
+- Pienso en la [[Burup de ojos verdes]] y la [[Burup de ojos negros]].
 
 --
 
