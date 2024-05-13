@@ -11,10 +11,17 @@ Bella, bella. Tan bella. Sos tan bella, [[Lady Burup]].
 
 --
 
-Hay, quién tuviera!
+Hay, quién tuviera
 Los ojos verdes de Lady Burup
 
 Sus ojos negros
 Trasnochando
 
-Sus suaves rayas
+Sus suaves rayas!
+
+--
+
+Hay, quíén tuviera
+Las suaves rayas de Lady Burup
+
+Sus 
