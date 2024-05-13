@@ -22,10 +22,10 @@ Sus bellas rayas!
 --
 
 Hay, quíén tuviera
-Las suaves rayas de Lady Burup
+Las bellas rayas de Lady Burup
 
 Sus suaves curvas
-Pernoctando
+Trasnochando
 
 Sus bellas rayas! 
 
