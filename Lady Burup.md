@@ -1,6 +1,8 @@
+# 0
+
 - #pull [[Ocell]], my [[lady burup]]
 
-Bella, bella. Tan bella. Sos tan bella, [[Lady Burup]].
+"Bella, bella. Tan bella. Sos tan bella, [[Lady Burup]]."
 
 - [[Burup de ojos verdes]].
 - [[Burup de ojos negros]].
@@ -40,8 +42,8 @@ Sus bellas rayas!
 Hay, quíén tuviera
 Las bellas rayas de Lady Burup
 
-Sus curvas suaves
-Trasnochando
+Sus olas suaves
+Fluyendo
 
 Sus rayas bellas! 
 
