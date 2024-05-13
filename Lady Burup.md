@@ -17,12 +17,14 @@ Los ojos negros de Lady Burup
 Sus ojos verdes
 Resplandeciendo
 
-Sus suaves rayas!
+Sus bellas rayas!
 
 --
 
 Hay, quíén tuviera
 Las suaves rayas de Lady Burup
 
-Sus bellas olas
+Sus suaves olas
 Trasnochando
+
+Sus 
