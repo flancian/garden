@@ -7,6 +7,7 @@ while true; do
     git add journal/*md
     git add Journal
     git add assets/*
+    git add *png *jpg
     git commit -a -m 'autopushed'
     git pull
     git push
