@@ -16,4 +16,5 @@
 - If it's time, review [[weekly]] in the style of [[weekly reviews]].
   - It's time when it's been more than 7d since the last review.
   - Default: [[sunday]].
+- #go https://edit.anagora.org/daily
 
