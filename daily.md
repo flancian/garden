@@ -3,12 +3,12 @@
 - a [[list]].
   - Of activities I would like to consider and review daily.
   - #go https://edit.anagora.org/daily
-- [[meditate]] for at least one minute now.
-- [[think]] about how to make my future [[self]] and others glad.
-- [[think]] about other long term goals:
-  - [[fight procrastination]]: 
+- [[Meditate]] for at least one minute now.
+- [[Think]] about how to make my future [[self]] and others glad.
+- [[Think]] about other long term goals:
+  - [[Fight procrastination]]: 
     - Update (2024): I think this fight is well advanced :) It still takes me too long to do some things, but I think I've gotten a lot better at prioritizing and a lot of the time when something does take me long it ends up being because 1. it is quite difficult (so it just literally takes time to do) or 2. I am balancing it with a lot of other things, so it makes sense it takes me a while to get to it.
-  - [[help others]]:
+  - [[Help others]]:
     - Update (2024): I have been quite involved in subsets of [[Effective Altruism]] in the last few years. Recently I ramped down some of my recurring donations to prepare for a [[new economic reality]], but I remain active and committed to donating a significant chunk of my income.
   - Build an [[Agora]]:
     - You are likely reading this in an Agora, so that exists :)
@@ -26,7 +26,7 @@
 - Find and allocate time to continue my meditation practice. 
   - Write down the time now. Default: one hour after starting on this daily routine.
   - Update (2024): this has now been a core part of my daily routine for long enough that I can call this done. I usually meditate in the mornings after my first coffee and before I leave for the office. When I don't do that because e.g. I need to leave in a particular rush or there is a production issue the minute I wake up, I meditate in the afternoon or evening.
-- Go over tasks: [[do]].
+- Go over pending tasks: [[do]], [[done]], etc.
   - Nudge them lightly as I can towards a state that my future self will appreciate :)
 - If it's time, review [[weekly]] in the style of [[weekly reviews]].
   - It's time when it's been more than 7d since the last review.
