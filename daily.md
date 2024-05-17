@@ -1,5 +1,6 @@
 # Daily
 
+- #go https://edit.anagora.org/daily
 - [[meditate]] for at least one minute now.
 - [[think]] about how to make my future [[self]] and others glad.
 - [[think]] about long term goals:
@@ -22,8 +23,7 @@
     - I have recently gotten back into [[cycling]] and that makes me happy as well.
 - Find and allocate time to continue my meditation practice. 
   - Write down the time now. Default: one hour after starting on this daily routine.
-  - Update (2024): this has now been a core part of my daily routine for long enough that I can call this done. I usually meditate in the mornings after my first coffee and before I leave for the office. When I don't do that because 
-- #go https://edit.anagora.org/daily
+  - Update (2024): this has now been a core part of my daily routine for long enough that I can call this done. I usually meditate in the mornings after my first coffee and before I leave for the office. When I don't do that because e.g. I need to leave in a particular rush or there is a production issue the minute I wake up, I meditate in the afternoon or evening.
 - Go over tasks: [[do]].
   - Nudge them lightly as I can towards a state that my future self will appreciate :)
 - If it's time, review [[weekly]] in the style of [[weekly reviews]].
