@@ -29,7 +29,7 @@
 - Go over pending tasks: [[do]], [[done]], etc.
   - Nudge them lightly as I can towards a state that my future self will appreciate :)
   - The fact that I don't really have a properly unified task inbox is a bit of an issue occasionally; part of me likes the haphazard nature of task tracking in the Agora, but I'd love to have one place to look for loose threads and pending tasks.
-- Once a week, review [[weekly]] in the style of [[weekly reviews]].
+- At least once a week, review [[weekly]] in the spirit of [[weekly reviews]].
   - It's time when it's been more than 7d since the last review.
   - Default: [[sunday]].
 
