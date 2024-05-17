@@ -1,9 +1,11 @@
 # Daily
 
-- #go https://edit.anagora.org/daily
+- a [[list]].
+  - Of activities I would like to consider and review daily.
+  - #go https://edit.anagora.org/daily
 - [[meditate]] for at least one minute now.
 - [[think]] about how to make my future [[self]] and others glad.
-- [[think]] about long term goals:
+- [[think]] about other long term goals:
   - [[fight procrastination]]: 
     - Update (2024): I think this fight is well advanced :) It still takes me too long to do some things, but I think I've gotten a lot better at prioritizing and a lot of the time when something does take me long it ends up being because 1. it is quite difficult (so it just literally takes time to do) or 2. I am balancing it with a lot of other things, so it makes sense it takes me a while to get to it.
   - [[help others]]:
