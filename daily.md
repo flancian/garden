@@ -17,7 +17,9 @@
     - That has happened over the last few years for sure :D
     - I hope it will keep happening for many more!
   - [[Maintain my body]]:
-    - [[yoga]] has thankfully become part of my routine
+    - [[Yoga]] has thankfully become part of my routine and I'm much better off thanks to it.
+    - I do some [[weight lifting]] but I should probably do more of this as I age (I'm [[40]] as I write this).
+    - I have recently gotten back into [[cycling]] and that makes me happy as well.
 - Find and allocate time to continue my meditation practice. 
   - Write down the time now. Default: one hour after starting on this daily routine.
 - #go https://edit.anagora.org/daily
