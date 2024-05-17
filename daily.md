@@ -28,6 +28,7 @@
   - Update (2024): this has now been a core part of my daily routine for long enough that I can call this done. I usually meditate in the mornings after my first coffee and before I leave for the office. When I don't do that because e.g. I need to leave in a particular rush or there is a production issue the minute I wake up, I meditate in the afternoon or evening.
 - Go over pending tasks: [[do]], [[done]], etc.
   - Nudge them lightly as I can towards a state that my future self will appreciate :)
+  - The fact that I don't really have a properly unified task inbox is a bit of an issue; I liked the haphazard nature of task tracking in the Agora previously, but I'd love to at least have a 
 - If it's time, review [[weekly]] in the style of [[weekly reviews]].
   - It's time when it's been more than 7d since the last review.
   - Default: [[sunday]].
