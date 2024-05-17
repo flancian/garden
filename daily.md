@@ -22,7 +22,7 @@
     - I have recently gotten back into [[cycling]] and that makes me happy as well.
 - Find and allocate time to continue my meditation practice. 
   - Write down the time now. Default: one hour after starting on this daily routine.
-  - Update (2024): this has now been a core part of my daily routine for long enough that I can call this done.
+  - Update (2024): this has now been a core part of my daily routine for long enough that I can call this done. I usually meditate in the mornings after my first coffee and before I leave for the office. When I don't do that because 
 - #go https://edit.anagora.org/daily
 - Go over tasks: [[do]].
   - Nudge them lightly as I can towards a state that my future self will appreciate :)
