@@ -2,11 +2,12 @@
 
 - [[meditate]] for at least one minute now.
 - [[think]] about how to make my future [[self]] and others glad.
-- [[think]] about long term goals.
+- [[think]] about long term goals:
   - [[fight procrastination]]. 
+    - Update (2024): I think this fight is well advanced
   - [[help others]].
-  - Build an [[agora]].
-  - Write [[flancia]].
+  - Build an [[Agora]].
+  - Write [[Flancia]].
   - Learn [[useful]] and [[interesting]] things.
   - [[Maintain my body]].
 - Find and allocate time to continue my meditation practice. 
