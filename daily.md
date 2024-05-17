@@ -13,8 +13,11 @@
   - Write [[Flancia]]:
     - I have been doing this, if at all, in the form of many small [[fragments]] spread across the Agora.
     - But I also want to do this properly, meaning sitting down and writing more long form text again in the shape of essays, short stories, blog posts.
-  - Learn [[useful]] and [[interesting]] things.
-  - [[Maintain my body]].
+  - Learn [[useful]] and [[interesting]] things:
+    - That has happened over the last few years for sure :D
+    - I hope it will keep happening for many more!
+  - [[Maintain my body]]:
+    - [[yoga]] has thankfully become part of my routine
 - Find and allocate time to continue my meditation practice. 
   - Write down the time now. Default: one hour after starting on this daily routine.
 - #go https://edit.anagora.org/daily
