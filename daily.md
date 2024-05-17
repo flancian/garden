@@ -4,7 +4,7 @@
 - [[think]] about how to make my future [[self]] and others glad.
 - [[think]] about long term goals:
   - [[fight procrastination]]. 
-    - Update (2024): I think this fight is well advanced
+    - Update (2024): I think this fight is well advanced :) It still takes me too long to do some things, but I think I've gotten a lot better at prioritizing and a lot of the time when something does take me long it 
   - [[help others]].
   - Build an [[Agora]].
   - Write [[Flancia]].
