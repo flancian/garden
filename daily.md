@@ -10,7 +10,9 @@
   - Build an [[Agora]]:
     - You are likely reading this in an Agora, so that exists :)
     - It still needs a lot of building and improvements, though, clearly. It needs to be more user friendly and more generally useful; ideally it would become a platform that is useful to a lot more people. But maybe we'll get there!
-  - Write [[Flancia]].
+  - Write [[Flancia]]:
+    - I have been doing this, if at all, in the form of many small [[fragments]] spread across the Agora.
+    - But I also want to do this properly, meaning sitting down and writing more long form text again in the shape of essays, short stories, blog posts.
   - Learn [[useful]] and [[interesting]] things.
   - [[Maintain my body]].
 - Find and allocate time to continue my meditation practice. 
