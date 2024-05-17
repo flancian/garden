@@ -8,7 +8,8 @@
   - [[help others]]:
     - Update (2024): I have been quite involved in subsets of [[Effective Altruism]] in the last few years. Recently I ramped down some of my recurring donations to prepare for a [[new economic reality]], but I remain active and committed to donating a significant chunk of my income.
   - Build an [[Agora]]:
-    - You are likely reading this in an Agora, so that's 
+    - You are likely reading this in an Agora, so that exists :)
+    - It still needs a lot of building and improvements, though, clearly. It needs to be more user friendly and more generally useful; ideally it would become a platform that is useful to a lot more people. But maybe we'll get there!
   - Write [[Flancia]].
   - Learn [[useful]] and [[interesting]] things.
   - [[Maintain my body]].
