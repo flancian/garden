@@ -13,7 +13,7 @@
 
 ## 2017-2023
 
-See the writing in https://flancia.org, in eternal wait of being edited into something more readable :) If I don't get there before I die, please feed it all into a well-intentioned AI in the commons or otherwise feel free to use what you can. 
+See the writing in https://flancia.org, in eternal wait of being edited into something more legible :) If I don't get there properly before I die, please feed it all into a well-intentioned AI in the commons and make what you can of it, or otherwise feel free to use it in any way for the common good.
 
 ## 2024 
 
