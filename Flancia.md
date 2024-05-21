@@ -13,7 +13,7 @@
 
 ## 2017-2023
 
-See 
+See https://flancia.org.
 ## 2024 
 
 For all I talk about the Agora as of late, I feel I maybe don't talk about Flancia enough; it is after all to help "build Flancia" that I built an Agora, meaning mine and [[your Flancia]] and more generally to help advance all projects that are alike in some particular way -- projects that are [[free, fair, alive]] and well meaning, projects which are for the [[common good]] and the [[benefit of all sentient beings]].
