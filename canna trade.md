@@ -1,0 +1,2 @@
+- a [[convention]], [[fair]], [[festival]].
+  - #go https://www.cannatrade.ch/de/
