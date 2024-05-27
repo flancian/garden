@@ -32,4 +32,5 @@
 - At least once a week, review [[weekly]] in the spirit of [[weekly reviews]].
   - It's time when it's been more than 7d since the last review.
   - Default: [[sunday]].
+- Think of what I wanted to accomplish soon/next for my top projects currently
 
