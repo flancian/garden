@@ -1,2 +1,3 @@
 - a [[conference]].
-- 
+  - in [[Portland]]]].
+  - I applied to attend the 2024 one.
