@@ -15,4 +15,4 @@
 
 --
 
-Back to this particular node... after long :) I've been mostly pushing here it seems.
+Back to this particular node... after long :) I've been mostly pushing here it seems. Which reminds me I wanted to implement something like [[collect]], an action which would pull somehow coalesce all incoming pushes/integrate them maybe in some way?
