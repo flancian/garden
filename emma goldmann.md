@@ -1,1 +1,1 @@
-- "Das Gewaltt
+- "Das Gewaltt (...) Element der Gesellschaft ist die Unwissenheit."
