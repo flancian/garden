@@ -34,8 +34,7 @@
   - Default: [[sunday]].
 - Think of what I wanted to accomplish soon/next for my top projects as I see them currently:
   - [[Agora development]]
-  - [[Agora writing]]
   - [[Open Letters]]
   - [[p10g]]
-  - 
+- Do I want to do [[writing]]? Do I want to work on [[presentations]]? 
 
