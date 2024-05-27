@@ -1,4 +1,4 @@
 - a [[conference]].
   - in [[Portland]].
   - I applied to attend the 2024 one.
-  - heard of it through [[Darius Kazemi]] and [[w]]
+  - heard of it through [[Darius Kazemi]] and [[Erin Kissane]]
