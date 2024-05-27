@@ -1,2 +1,3 @@
-- As named in a flier I got.
-- "Das Gewaltt (...) Element der Gesellschaft ist die Unwissenheit."
+- #pull [[Emma Goldman]]
+  - As named in a flier I got.
+  - "Das Gewaltt (...) Element der Gesellschaft ist die Unwissenheit."
