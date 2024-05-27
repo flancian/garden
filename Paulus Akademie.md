@@ -1,2 +1,3 @@
 - a [[place]].
-  - 
+  - https://maps.app.goo.gl/CbgRrdKHpDjxEgYb6
+  - #go https://www.paulusakademie.ch/
