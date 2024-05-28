@@ -8,14 +8,14 @@ In an Agora, a [[node]] is a collection of [[resources]] having to do with a top
 
 The resources are files found in gardens like this one. This note, for example, belongs to node [[index]] because its name is [[index.md]].
 
-The following might be interesting nodes to serve as entry points to this garden.
+The following might be interesting nodes to start browsing this garden and the Agora at large.
 
   - [[Person]]: contains links to nodes about [[people]].
   - [[Agora]]: I write about the Agora often, in the Agora of course :) This node, like all and the Agora proper, is a [[work in progress]] -- but it should be a reasonable starting point to understand what the [[Agora]] is and what it tries to achieve.
   - [[Commons]]: the [[Free]] [[Commons]] is an ideal that the Agora tries to uphold and represent for the benefit of its users and all sentient beings. A lot of my writing has to do with the Commons in one way or another.
   - #go: this tag marks URLs as canonical for a given node. The associated Agora action then lets users jump to the URL by visiting e.g. location [[go/agora]]. 
     
-Beyond checking the resources proper, which are mostly but not exclusively notes, remember to check for [[links]] in and out of each context established through use.
+Beyond checking the resources proper, which are mostly but not exclusively notes, remember to check for [[links]] in and out of each node.
 
 # Journals
 - Nodes whose titles look like dates, like e.g. those matching [[ISO 8601]] or [[RFC 3339]], are interpreted as declarations of public [[journals]].
