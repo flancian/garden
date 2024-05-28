@@ -1,6 +1,6 @@
-This is the [[index]] of my [[digital garden]] -- which serves also as an entry point to the wider [[Agora of Flancia]].
+This is the [[index]] of my [[digital garden]], which serves also as an entry point of sorts to the wider [[Agora of Flancia]].
 
-If you are reading this in an [[Agora]] proper, you should see it rendered in context and with a [[navigation UI]]. If you are reading this garden directly in its [[git repository]], consider visiting <strong>anagora.org</strong> or some other well-known Agora this garden is known to be in to render this with resolved [[wikilinks]] and amenities ;)
+If you are reading this in the [[Agora]] proper, you should see it rendered in context and with a [[navigation UI]]. If you are reading this garden directly in its source (e.g. its [[git repository]], consider visiting <strong>anagora.org</strong> or some other well-known Agora this garden is known to be in to render this with resolved [[wikilinks]] and amenities ;)
 
 Please see [[how to edit this Agora]] below if you're interested in contributing or [[how to run an Agora]] for instructions for running your own.
   
