@@ -3,7 +3,7 @@
   - with [[31]] syllables!
     - (I like that number.)
    
-My first [[tanka]]:
+My first [[tanka]] approximation:
 
 Gone gone
 Gone beyond
@@ -11,5 +11,6 @@ Everybody gone
 to the other shore
 go free
 go kindly
+
 if you have to go,
 go kindly!
