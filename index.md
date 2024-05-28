@@ -5,9 +5,9 @@ If you are reading this in an [[Agora]] proper, you should see it rendered in co
 Please see [[how to edit this Agora]] below if you're interested in contributing or [[how to run an Agora]] for instructions for running your own.
   
 # Nodes
-A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want it to be.
+A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want the node to mean.
 
-The following are maybe interesting nodes to serve as entry points to this garden, and to the Agora at large. 
+In this sense, the following might be interesting nodes to serve as entry points to this garden, and to the Agora at large. 
 
   - [[Person]]: contains links to nodes about [[people]].
   - [[Agora]]: I write about the Agora often, in the Agora of course :) This node, like all and the Agora proper, is a [[work in progress]] -- but it should be a reasonable starting point to understand what the [[Agora]] is and what it tries to achieve.
