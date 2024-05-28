@@ -13,7 +13,7 @@ The following might be interesting nodes to serve as entry points to this garden
   - [[Person]]: contains links to nodes about [[people]].
   - [[Agora]]: I write about the Agora often, in the Agora of course :) This node, like all and the Agora proper, is a [[work in progress]] -- but it should be a reasonable starting point to understand what the [[Agora]] is and what it tries to achieve.
   - [[Commons]]: the [[Free]] [[Commons]] is an ideal that the Agora tries to uphold and represent for the benefit of its users and all sentient beings. A lot of my writing has to do with the Commons in one way or another.
-  - #go: this is an Agora action you can find in the context links to nodes which contain a URL marked as canonical for the topic in question. It is an example of an [[Agora action]] which [[redirects]] to these URLs on demand.
+  - #go: this is an Agora action that marks URLs as canonical for a given node. It lets users jump to the URL marked as canonical for the topic in question. It is an example of an [[Agora action]] which [[redirects]] to these URLs on demand.
     
 Beyond checking the resources in the nodes proper (mostly text notes), remember to check for [[links]] in and out of each context established through use.
 
