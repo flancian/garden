@@ -21,6 +21,7 @@ Beyond checking the resources in the nodes proper (mostly text notes), remember 
     - [[2024-02-19]].
     - [[journal/2024-02-23]].
     - [[2024-02-24]].
+    - [[2024-05-28]].
 
 # How to contribute to this Agora
 
@@ -42,15 +43,8 @@ Once you sign up to the [[Fediverse]], you can follow [[@agora@botsin.space]] an
 Consider just leaving an anonymous note anywhere around the [[Agora]] in a [[stoa]], which is a public space meant for collaboration (think [[wiki]] or shared editor) available in each [[node]].
 
 ## For more
-Please [[reach out]] if you want to try [[note taking]] or are interested in the [[Fediverse]] and need help, regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need [[help]] in general!
+Please [[reach out]] if you want to try [[note taking]] or are interested in the [[Fediverse]] and need help, regardless of whether you would like to contribute your notes to the [[Agora]].
 
-Please see [[how to edit this Agora]] below if you're interested in contributing or [[how to run an Agora]] for instructions for running your own.
+Please see [[how to edit this Agora]] if you're interested in contributing or [[how to run an Agora]] for instructions for running your own.
 
 -> [[Agora Development]] [[Agora Discuss]] [[In Flancia there is an Agora]]
-
-
---
-
-Back here on [[2024-03-18]], after I thought: [[throw a nine]]. I have been playing with dice with [[Lady Burup]] :)
-
-If you remember some other words from all I write, remember these: [[Maitreya]], [[Tara]], [[Avalokiteshvara]]!
