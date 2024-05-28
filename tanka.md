@@ -6,13 +6,16 @@
 My first [[tanka]] approximation:
 
 Gone gone
-Gone beyond
+Gone beyond (5)
+
 Everybody gone 
-to the other shore
+to the other shore ()
 
 go free (17)
 go kindly (20)
 
 if you have to go,
 go free! (27)
-go kindly! ()
+go kindly! (30)
+
+come
