@@ -6,6 +6,8 @@ If you are reading this in the [[Agora]] proper, you should see it rendered in c
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want the node to mean.
 
+The resources are those found in gardens like this one. This note, for example, belongs to node [[index]] because its
+
 In this sense, the following might be interesting nodes to serve as entry points to this garden, and to the Agora at large. 
 
   - [[Person]]: contains links to nodes about [[people]].
