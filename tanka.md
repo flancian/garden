@@ -12,10 +12,10 @@ Everybody gone
 to the other shore (15)
 
 Go free (17)
-
 Go kindly (20)
 
-If you have to go, go kindly! (28)
+If you have to go,
+go kindly! (28)
 
-Now awake
+Now awake (31)
 
