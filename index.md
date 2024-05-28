@@ -1,6 +1,6 @@
 This is the [[index]] of my [[digital garden]] -- which serves also as an entry point to the wider [[Agora of Flancia]].
 
-If you are reading this in an [[Agora]] proper, you should see it rendered in context and with a [[navigation UI]]. If you are reading this directly in [[git]] or an only partially supported editor, please visit <strong>anagora.org</strong> or some other well-known Agora to render this with resolved links and full context :).
+If you are reading this in an [[Agora]] proper, you should see it rendered in context and with a [[navigation UI]]. If you are reading this garden directly in its [[git repository]] , please visit <strong>anagora.org</strong> or some other well-known Agora to render this with resolved links and full context :).
 
 You can add your own contributions to the index of any Agoras you participate in by adding a resource like `index.md` to your [[garden]] or [[stoa]]. More in general, resources matching a particular title will show up in matching nodes or Agora locations. 
 
