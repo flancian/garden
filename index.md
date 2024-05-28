@@ -42,13 +42,11 @@ Once you sign up to the [[Fediverse]], you can follow [[@agora@botsin.space]] an
 Consider just leaving an anonymous note anywhere around the [[Agora]] in a [[stoa]], which is a public space meant for collaboration (think [[wiki]] or shared editor) available in each [[node]].
 
 ## For more
-Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need [[help]] in general!
-
-If you remember one thing, remember this: [[In Flancia there is an Agora]] :)
+Please [[reach out]] if you want to try [[note taking]] or are interested in the [[Fediverse]] and need help, regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need [[help]] in general!
 
 Please see [[how to edit this Agora]] below if you're interested in contributing or [[how to run an Agora]] for instructions for running your own.
 
--> [[Agora Development]] [[Agora Discuss]]
+-> [[Agora Development]] [[Agora Discuss]] [[In Flancia there is an Agora]]
 
 
 --
