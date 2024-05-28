@@ -9,13 +9,12 @@ Gone gone
 Gone beyond (5)
 
 Everybody gone 
-to the other shore ()
+to the other shore (15)
 
 go free (17)
+
 go kindly (20)
 
 if you have to go,
-go free! (27)
-go kindly! (30)
+go kindly! (28)
 
-come
