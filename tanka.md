@@ -5,16 +5,16 @@
    
 My first [[tanka]] approximation:
 
-Gone gone
+Gone gone (2)
 Gone beyond (5)
 
-Everybody gone 
+Everybody gone (10)
 to the other shore (15)
 
 Go free (17)
 Go kindly (20)
 
-If you have to go,
+If you have to go (25)
 go kindly! (28)
 
 Now awake (31)
