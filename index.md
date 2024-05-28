@@ -18,13 +18,7 @@ The following might be interesting nodes to start browsing this garden and the A
 Beyond checking the resources proper, which are mostly but not exclusively notes, remember to check for [[links]] in and out of each node.
 
 # Journals
-These are nodes whose titles look like dates, like e.g. those matching [[ISO 8601]] or [[RFC 3339]] dates. They are interpreted as [[journals]] and aggregated there.
-
-- If you visit node [[journals]] in an Agora, it should lead you to a variety of time-anchored contributions, e.g.:
-    - [[2024-02-19]].
-    - [[journal/2024-02-23]].
-    - [[2024-02-24]].
-    - [[2024-05-28]].
+These are nodes whose titles look like dates, like e.g. those matching [[ISO 8601]] or [[RFC 3339]] dates. They are interpreted as [[journals]] and aggregated in that Agora location.
 
 # How to contribute to this Agora
 
