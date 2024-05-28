@@ -11,10 +11,11 @@ Gone beyond (5)
 Everybody gone 
 to the other shore (15)
 
-go free (17)
+Go free (17)
 
-go kindly (20)
+Go kindly (20)
 
-if you have to go,
-go kindly! (28)
+If you have to go, go kindly! (28)
+
+Now awake
 
