@@ -2,7 +2,6 @@ This is the [[index]] of my [[digital garden]], which serves also as an entry po
 
 If you are reading this in the [[Agora]] proper, you should see it rendered in context and with a [[navigation UI]]. If you are reading this garden directly in its source (e.g. [[git repository]]), consider visiting <strong>anagora.org</strong> or some other Agora this garden is known to be in to render it with resolved [[wikilinks]] and amenities ;)
 
-Please see [[how to edit this Agora]] below if you're interested in contributing or [[how to run an Agora]] for instructions for running your own.
   
 # Nodes
 A [[node]] is a collection of [[resources]] having to do with a topic; a [[thing]] or an [[idea]] or whatever you want the node to mean.
@@ -46,6 +45,8 @@ Consider just leaving an anonymous note anywhere around the [[Agora]] in a [[sto
 Please [[reach out]] if you want to try [[note taking]] or the [[Fediverse]], regardless of whether you would like to contribute your notes to the [[Agora]]; if you have any questions; or if you need [[help]] in general!
 
 If you remember one thing, remember this: [[In Flancia there is an Agora]] :)
+
+Please see [[how to edit this Agora]] below if you're interested in contributing or [[how to run an Agora]] for instructions for running your own.
 
 -> [[Agora Development]] [[Agora Discuss]]
 
