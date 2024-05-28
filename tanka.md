@@ -9,8 +9,9 @@ Gone gone
 Gone beyond
 Everybody gone 
 to the other shore
-go free
-go kindly
+
+go free (17)
+go kindly (20)
 
 if you have to go,
 go kindly!
