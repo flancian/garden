@@ -1,2 +1,5 @@
 - a [[festival]].
-  - #go https://xoxofest.com/guide/about-xoxo/ 
+  - #go https://xoxofest.com/
+  - #about https://xoxofest.com/guide/about-xoxo/ 
+  - in [[Portland]].
+  - [[2024]] will be its last 
