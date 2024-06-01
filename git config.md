@@ -11,4 +11,6 @@ git config --global user.email "0@flancia.org"
 
 ```
 git config push.autoSetupRemote true
-``
+```
+
+To make pushing after setting up a new branch more seamless.
