@@ -3,8 +3,11 @@
   - with [[31]] syllables!
     - (I like that number.)
    
-My first [[tanka]]:
+--
 
+My first [[tanka]] written:
+
+```
 Gone gone (2)
 Gone beyond (5)
 
@@ -18,5 +21,9 @@ If you have to go (25)
 go kindly! (28)
 
 Now awake (31)
-  (or: [[meditate]])
+  (or: meditate)
+```
 
+-- 
+
+My second:
