@@ -1,0 +1,2 @@
+- a [[short story]]?
+  - about the [[entropy]] in [[Lady Burup]]'s writing :)
