@@ -1,0 +1,2 @@
+- I keep track of todos mostly in the shape of a series of notebooks I leave laying around the house on work surfaces :)
+  - I currently am actually using [[7]].
