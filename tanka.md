@@ -26,4 +26,41 @@ Now awake (31)
 
 -- 
 
-My second:
+My "second":
+
+```
+Gone gone! (2)
+Gone beyond (5)
+
+Everybody gone (10)
+to the other shore (15)
+
+Gone free (17)
+Gone kindly (20)
+
+If you have to go (25)
+go kindly! (28)
+
+Meditate (31)
+```
+
+--
+
+My third, now dropping quotes :)
+
+```
+Gone gone! (2)
+Gone beyond (5)
+
+Everybody gone (10)
+to the other shore (15)
+
+Gone free (17)
+Gone kindly (20)
+
+If you have to burn (25)
+burn kindly! (28)
+
+Meditate (31)
+```
+
