@@ -1,1 +1,3 @@
-- #pull [[flow state]]
+- a [[person]].
+  - [[friend]] (at least in my mind! he seems good and chill)
+  - #pull [[flow state]]
