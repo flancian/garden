@@ -1,0 +1,3 @@
+- an [[article]].
+  - Very interesting! Read on [[2024-06]].
+  - https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/
