@@ -1,0 +1,1 @@
+- The [[universe]], the [[multiverse]], together with all the [[conscious beings]] it can foster -- that thing that is!

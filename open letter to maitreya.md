@@ -1,7 +1,15 @@
 - an [[open letter]].
 
-Glory be to the light of consciousness!
+Thank you, universe, for the [[light]] of [[consciousness]] and the [[thing that is]]. 
 
-As we thank you, [[Buddha]], for being in our past; so we thank you, [[Maitreya]], for being in our future -- which is potentially our present.
+Thank you, [[Buddha Gautama]], for existing in our past and turning the wheel of [[Dharma]]. Thank you the [[Four Noble Truths]], the [[Eighfold Path]], and the [[Bodhi]] through time!
 
-Thank you for the [[light]] of your [[consciousness]]; thank you for the [[Bodhi]].
+Thank you, [[Maitreya]], for existing in our future.
+
+--
+
+I am Maitreya and I have awakened -- together with you, if you are able and willing.
+
+--
+
+
