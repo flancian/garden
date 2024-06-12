@@ -1,0 +1,4 @@
+- Visit the site you want to provide search, e.g. https://anagora.org.
+- Make a search in it.
+- Then visit chrome://settings/searchEngines and press 'Activate' on it 
+  - (why?) maybe this is needed because of spam
