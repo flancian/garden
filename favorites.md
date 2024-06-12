@@ -1,0 +1,3 @@
+- [[yoga]]:
+  - #go https://www.youtube.com/watch?v=w2Ynv-m0gzI
+    - 20:21
