@@ -1,3 +1,4 @@
 - Trying writing to the Agora straight from the Agora, finally :)
   - I'm cheating as I'm embedding Silverbullet which currently only works for yours truly.
   - But I hope to improve on that soon :)
+- Theory of value looks interesting, thanks @neil as usual.
