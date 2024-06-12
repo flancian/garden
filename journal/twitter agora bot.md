@@ -1,2 +1,0 @@
-- #pull [[agora twitter bot]]
-  - #1 run bot in tmux in thecla
