@@ -1,3 +1,3 @@
 - a [[place]].
   - [[Pfingstweidstrasse 101]] [[8005]]
-  - #pull [[Kraftwerk1]] had a gathering here in [[June 2024]].
+  - #pull [[Kraftwerk1]] had a gathering here on [[2024-06-08]], I missed it as I was not up to date with correspondence but I learnt about this place and the exact address of [[Hardturm]], which I had been meaning to check out.
