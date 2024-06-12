@@ -1,0 +1,5 @@
+- a [[thing]].
+  - that happened and felt serendipitous!
+- a [[brand]].
+  - of an auto-timer for the power network I have.
+  - #go file:///home/eivanec/Downloads/4007123192038_1507500_4_xx_data_sheet.pdf

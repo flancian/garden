@@ -1,0 +1,3 @@
+- a [[blog post]].
+  - I'm giving this a try in a new computer: how hard is it to 1. add a [[search engine]] and 2. make it the [[default]] on [[Chromium]] as of June, 2024[?
+  - #pull [[adding a new search engine]]
