@@ -1,0 +1,2 @@
+- una [[persona]].
+  - nació el [[1947-04-23]] (aprox.; quizás el 20) y desapareció el [[1976-01-13]]

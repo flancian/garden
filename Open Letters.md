@@ -1,3 +1,3 @@
-- #pull [[Open Letter to Flancia]]
-- #pull [[Open Letter to the Agora]]
-- #pull [[Open Letter to Google]]
+- #pull [[Open Letter to Flancians]]:
+  - #pull [[Open Letter to the Agora of Flancia]]
+  - #pull [[Open Letter to Google]]

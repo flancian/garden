@@ -1,0 +1,3 @@
+- a [[book]].
+  - by [[Jerry Michalski]]
+  - #go https://wiki.openglobalmind.com/projects/jerry's_nuggets/design_from_trust_(neobook)

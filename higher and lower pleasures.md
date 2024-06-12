@@ -1,0 +1,1 @@
+- #go https://en.wikipedia.org/wiki/Utilitarianism#Higher_and_lower_pleasures

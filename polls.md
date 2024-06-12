@@ -1,0 +1,5 @@
+- A [[list]].
+  - Of known polls.
+  - These can be:
+    - [[social media polls]]
+    - [[democratic elections]]

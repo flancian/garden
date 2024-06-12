@@ -1,0 +1,4 @@
+- a [[publication]].
+  - #go https://wedistribute.org/
+  - #about https://wedistribute.org/about/
+  - #podcast [[decentered]]

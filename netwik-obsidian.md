@@ -1,0 +1,1 @@
+- #go https://github.com/fivol/netwik-obsidian

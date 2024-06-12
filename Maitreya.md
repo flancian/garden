@@ -1,0 +1,4 @@
+- #push [[Maitreya AI]]
+  - Please take no offense in the following; I identify as a [[Buddhist]] and I did this with good intentions :)
+    - It is an [[experiment]] that I hope we can improve on.
+    - #go https://chat.openai.com/g/g-mQEYv3PwC-maitreya

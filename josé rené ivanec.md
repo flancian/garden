@@ -1,0 +1,2 @@
+- una [[persona]].
+  - nació el [[1947-11-07]] y murió el [[1995-07-08]].

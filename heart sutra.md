@@ -1,8 +1,7 @@
 # heart sutra
 
-- #pull https://plumvillage.org/wp-content/uploads/2014/09/2014-Thich-Nhat-Hanh-New-Heart-Sutra-letter-cc.pdf
-- #push [[gate gate paragate parasamgate bodhi svaha]]
-- Adapter from https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation#thays-letter, a work in progress (see also Mastodon post):
+- #go https://plumvillage.org/wp-content/uploads/2014/09/2014-Thich-Nhat-Hanh-New-Heart-Sutra-letter-cc.pdf
+- Adapted from https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation#thays-letter, a work in progress (see also Mastodon posts):
 
 
 [[Avalokiteshvara]]
@@ -14,8 +13,8 @@ in the [[insight that brings us to the other shore]],
   overcame ill-being.
 
 [[Sariputra]]:
-this [[Body]] is empty
-and empty is this body.
+this [[Body]] (form) is empty
+and emptiness is this body.
 This body is none other than emptiness
 and emptiness is none other than this body.
 
@@ -41,5 +40,8 @@ That is why Emptiness,
      Mental Formations 
      and Consciousness 
      are not separate [[self entities]].
+
+- #pull [[gate gate paragate parasamgate bodhi svaha]]
+
 
 

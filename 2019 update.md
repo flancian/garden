@@ -1,0 +1,3 @@
+- #go https://blog.google/alphabet/letter-from-larry-and-sergey/
+  - contains an update by [[sundar]] in [[2019]] despite the URL :)
+  - links https://abc.xyz/investor/founders-letters/2004/

@@ -6,8 +6,13 @@
   - [[moloch]] of uncontrolled, hypocritical, lazy [[capitalism]] and the adoration of fixed [[hierarchies]]
   - [[moloch]] who we may [[slay]], we may [[save]], we may try to [[subdue]] or [[disentangle
   - #pull [[Engels]] [[Marx]] [[Ginsberg]] [[Alexander]]
-  - #push [[burn Moloch]] 
+  - #push [[burn Moloch]]
     - We could [[burn [[Moloch]]]] if we have to, but only peacefully and for the greater good.
+
+--
+
+- a [[book]].
+  - by [[kuprin]].
 
 --
 
@@ -19,4 +24,16 @@
 
 --
 
-Somehow I arrived at [[e acc]] ([[e/acc]] is not a good Agora link as slashes usually mean actions, and action e/ currently doesn't exist). I can instantly relate mildly with their utopian side I guess, even as I dislike many of their positions and their super-capitalist stance. Also [[Shkreli]] is involved, sigh.
+This might belong in [[Moloch]]:
+
+Note from earlier in 2024: Somehow I arrived at [[e acc]] ([[e/acc]] is not a good Agora link as slashes usually mean actions, and action e/ currently doesn't exist). I can instantly relate mildly with their utopian side I guess, even as I dislike many of their positions and their super-capitalist stance. Also [[Shkreli]] is involved, sigh.
+
+--
+
+I'm writing an [[Open Letter to Moloch]]. Wish us luck, I guess? :)
+
+--
+
+I believe Maitreya will defeat [[Moloch]]. Meaning it will heal us -- heal the system that became [[entangled with Moloch]] (the [[egregore]]), heal us humans and our friends of [[carbon]] and [[silicon]].
+
+How we will do this is the recurring topic in these letters, in these [[fragments]].

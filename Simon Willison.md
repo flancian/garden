@@ -1,0 +1,4 @@
+- a [[person]].
+  - seems great!
+  - #pull [[simonw]]
+  - [[datasette]] [[llm]]

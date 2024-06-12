@@ -1,0 +1,3 @@
+- a [[company]].
+  - They develop [[LLMs]] in a more [[open source]] and [[open weights]] way than others.
+  - from [[France]].

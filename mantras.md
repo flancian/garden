@@ -1,4 +1,6 @@
-- [[gate gate paragate parasamgate bodhi svaha]]
-- [[om mani padme hum]]
-- [[om tare tu tare ture soha]]
+- I like to say mantras. There, I said it, although you probably saw it coming :)
 - #pull [[mantra]]
+- Some of my [[favorites]]:
+    - [[gate gate paragate parasamgate bodhi svaha]]
+    - [[om mani padme hum]]
+    - [[om tare tu tare ture soha]] and [[variations]]

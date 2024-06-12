@@ -1,10 +1,15 @@
 - a [[list]].
 	- The [[Agora]] is a repository of [[open letters]].
   - #push [[open letter]]
-    - [[Open letter to the Agora]]
     - [[Open letter to Christopher Alexander]]
-    - [[Open letter to Google]]
+      - (Because [[Flancia is a Pattern Language]]...)
+    - [[Open letter to the Agora]]
+    - [[Open Letter to the Agora of Flancia]]
+    - [[Open letter to Maitreya]]
+    - [[Open letter to Moloch]]
+    - [[Op__en letter to Google]]
     - [[Open letter to Milei]]
     - [[Open letter to Musk]]
     - [[Open letter to Peter Singer]]
-    - [[Open letter to Maitreya]]
+    - [[Open letter to Sam Harris]]
+    - [[Open letter to Lex Fridman]]

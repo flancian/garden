@@ -1,0 +1,2 @@
+- #go https://www.komoot.com/de-de/tour/1387576555
+- https://www.zuerich.com/de/besuchen/sport/gratwanderung-laegern

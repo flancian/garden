@@ -1,0 +1,7 @@
+- a [[tool]].
+  - CLI to interface with a variety of [[LLMs]].
+  - by [[Simon Willison]].
+  - I set it up on [[2024-03-02]] and added API keys for:
+    - [[openai]]
+    - [[mistral]]
+    - [[google]] ([[gemini]]) -- this was the hardest, needlessly IMHO.

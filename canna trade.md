@@ -1,0 +1,4 @@
+- [[cannatrade]]:
+  - a [[convention]], [[fair]], [[festival]].
+    - #go https://www.cannatrade.ch/de/
+    - #en https://www.cannatrade.ch/en

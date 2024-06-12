@@ -1,0 +1,2 @@
+- [[plugins]] for [[silverbullet]]:
+  - #go https://silverbullet.md/Plugs

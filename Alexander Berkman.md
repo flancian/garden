@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[Anarchist]] thinker.
+  - Knew (to varying degrees) [[Emma Goldman]], [[Nestor Makhno]], [[Becky Edelson]].

@@ -1,7 +1,8 @@
 # yoga with x
 - a [[project]].
 	- [[mashup]] or [[remix]].
-  - #go https://framatalk.org/yoga-with-x
+  - #go https://meet.evolix.org/yoga-with-x
+  - #oldgo https://framatalk.org/yoga-with-x
     - I do yoga in public! hop on if interested.
     - I'm a fan of [[Yoga with Adriene]].
     - #pull [[move]] (2022)

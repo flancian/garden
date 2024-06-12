@@ -1,19 +1,41 @@
 # Daily
 
-- [[meditate]] for at least one minute now.
-- [[think]] about how to make my future [[self]] and others glad.
-- [[think]] about long term goals.
-  - [[fight procrastination]]. 
-  - [[help others]].
-  - Build an [[agora]].
-  - Write [[flancia]].
-  - Learn [[useful]] and [[interesting]] things.
-  - [[Maintain my body]].
+- a [[list]].
+  - Of activities I would like to consider and review daily.
+  - #go https://edit.anagora.org/daily
+- [[Meditate]] for at least one minute now.
+- [[Think]] about how to make my future [[self]] and others glad.
+- [[Think]] about other long term goals:
+  - [[Fight procrastination]]: 
+    - Update (2024): I think this fight is well advanced :) It still takes me too long to do some things, but I think I've gotten a lot better at prioritizing and a lot of the time when something does take me long it ends up being because 1. it is quite difficult (so it just literally takes time to do) or 2. I am balancing it with a lot of other things, so it makes sense it takes me a while to get to it.
+  - [[Help others]]:
+    - Update (2024): I have been quite involved in subsets of [[Effective Altruism]] in the last few years. Recently I ramped down some of my recurring donations to prepare for a [[new economic reality]], but I remain active and committed to donating a significant chunk of my income.
+  - Build an [[Agora]]:
+    - You are likely reading this in an Agora, so that exists :)
+    - It still needs a lot of building and improvements, though, clearly. It needs to be more user friendly and more generally useful; ideally it would become a platform that is useful to a lot more people. But maybe we'll get there!
+  - Write [[Flancia]]:
+    - I have been doing this, if at all, in the form of many small [[fragments]] spread across the Agora.
+    - But I also want to do this properly, meaning sitting down and writing more long form text again in the shape of essays, short stories, blog posts.
+  - Learn [[useful]] and [[interesting]] things:
+    - That has happened over the last few years for sure :D
+    - I hope it will keep happening for many more!
+  - [[Maintain my body]]:
+    - [[Yoga]] has thankfully become part of my routine and I'm much better off thanks to it.
+    - I do some [[weight lifting]] but I should probably do more of this as I age (I'm [[40]] as I write this).
+    - I have recently gotten back into [[cycling]] and that makes me happy as well.
 - Find and allocate time to continue my meditation practice. 
   - Write down the time now. Default: one hour after starting on this daily routine.
-- Go over tasks: [[do]].
+  - Update (2024): this has now been a core part of my daily routine for long enough that I can call this done. I usually meditate in the mornings after my first coffee and before I leave for the office. When I don't do that because e.g. I need to leave in a particular rush or there is a production issue the minute I wake up, I meditate in the afternoon or evening.
+- Go over pending tasks: [[do]], [[done]], etc.
   - Nudge them lightly as I can towards a state that my future self will appreciate :)
-- If it's time, review [[weekly]] in the style of [[weekly reviews]].
+  - The fact that I don't really have a properly unified task inbox is a bit of an issue occasionally; part of me likes the haphazard nature of task tracking in the Agora, but I'd love to have one place to look for loose threads and pending tasks.
+  - At least once a week, review [[weekly]] in the spirit of [[weekly reviews]].
+  - [[Agora writing]]
   - It's time when it's been more than 7d since the last review.
   - Default: [[sunday]].
+- Think of what I wanted to accomplish soon/next for my top projects as I see them currently:
+  - [[Agora development]]
+  - [[Open Letters]]
+  - [[p10g]]
+- Do I want to do [[writing]]? Do I want to work on [[presentations]]? 
 

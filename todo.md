@@ -1,10 +1,17 @@
 # Todo
 
-- See [[do]] for my [[root node]]. This is for free form items, including [[pushes]].
-- [[write]] to [[hans widmer]]
+- A [[list]].
+  - Of [[actions]] :)
+    - To be strict, this is more of a [[tree]], but you get the idea ;)
+  - See also: [[do]], for the alternate (maybe more regular) phrasing.
+- [ ] [[write]] to [[hans widmer]]
+  - I didn't do this yet but I met him in [[Paranoia Verlag]] and spoke to him shortly :)
 - [[answer]] Riccardo on Foam discord
+  - I am not using Foam, so I think I will deprioritize this -- although I like [[Riccardo]] and [[Foam]] still!
 - Go over my [[twitter todo]] and move items to the agora
   - https://flancia.org/go/twitter-todo.
+  - I have mostly moved on from [[Twitter]] due to [[Muskgate]] and such :)
+  - The [[Fediverse]] has replaced it in a way; I think the right [[next action]] here
 - [[answer]] https://twitter.com/peternlimberg/status/1301937727588503554
   - https://thestoa.substack.com/p/just-fucking-send-it [[peternlindberg]] [[read]]
   - https://thestoa.substack.com/p/the-dark-forest [[peternlindberg]] [[read]]

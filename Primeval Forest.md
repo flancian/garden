@@ -1,0 +1,3 @@
+- a [[preset]].
+  - in [[mynoise]]
+  - #go https://mynoise.net/NoiseMachines/primevalEuropeanForestSoundscapeGenerator.php

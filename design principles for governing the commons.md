@@ -1,0 +1,13 @@
+- an [[article]].
+  - [[10 design principles for governing the commons]]
+  - #go https://www.lifewithalacrity.com/article/10-design-principles-for-governing-the-commons/
+  - [[DEFINE BOUNDARIES]]: There are clearly defined boundaries around the common resources of a system from the larger environment.
+  - [[DEFINE LEGITIMATE USERS]]: There is a clearly defined community of legitimate users of those resources.
+  - [[ADAPT LOCALLY]]: Rules for use of resources are adapted to local needs and conditions.
+  - [[DECIDE INCLUSIVELY]]: Those using resources are included in decision making.
+  - [[MONITOR EFFECTIVELY]]: There exists effective monitoring of the system by accountable monitors.
+  - [[SHARE KNOWLEDGE]]: All parties share knowledge of local conditions of the system.
+  - [[HOLD ACCOUNTABLE]]: Have graduated sanctions for those who violate community rules.
+  - [[OFFER MEDIATION]]: Offer cheap and easy access to confict resolution.
+  - [[GOVERN LOCALLY]]: Community self-determination is recognized by higher-level authorities.
+  - [[DON’T EXTERNALIZE COSTS]]: Resource systems embedded in other resource systems are organized in and accountable to multiple layers of nested communities.
