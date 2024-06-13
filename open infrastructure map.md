@@ -1,0 +1,3 @@
+- Just found [[open infrastructure map]] today thanks to the Agora (more specifically, [[neil]] and it is indeed fascinating!
+- The Zürich area: https://openinframap.org/#9.88/47.3681/8.2899
+- #go https://openinframap.org/
