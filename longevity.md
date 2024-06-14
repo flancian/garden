@@ -1,0 +1,1 @@
+- I recently got [[outlive]] by [[Petter Attia]] after listening to an interesting podcast of him with [[Sam Harris]]; it is relevant to the topic of longevity clearly but I still haven't read it :)
