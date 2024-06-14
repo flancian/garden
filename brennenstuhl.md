@@ -4,3 +4,4 @@
   - of an auto-timer for the power network I have.
   - #go https://www.brennenstuhl.com/de-DE/produkte/zeitschaltuhren/primera-line-digitale-wochenzeitschaltuhr-dt
   - #manual https://www.brennenstuhl.com/index.php?module=explorer&index[explorer][action]=download&index[explorer][file]=shop_articles/de-DE/pdf/4007123192038_1507500_4_xx_data_sheet.pdf
+  - After recharging I had to additionally reset it to make any programs actually work, for some reason.
