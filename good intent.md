@@ -1,1 +1,3 @@
-- #pull 11 [[right intentions]] [[right resolve]] [[right thought]]
+- #push [[11]]
+  - [[right intentions]] [[right resolve]] [[right thought]]
+  - in the [[Flancia pattern language]] :)
