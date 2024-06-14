@@ -19,4 +19,7 @@
 			- [[berlin]]
 			- [[tuscany]]
 			- [[innsbruck]]
-			-
+      - [[2023]]
+        - [[Japan]]
+        - [[Sri Lanka]]
+        - [[Chaux-de-fonds]]
