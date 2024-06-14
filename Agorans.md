@@ -1,0 +1,1 @@
+- Maybe by similitude to [[Flancians]] for [[Flancia]], I tend to think of the citizens of the Agora as [[Agorans]]
