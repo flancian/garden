@@ -1,3 +1,4 @@
 - a [[Gandarvha]].
   - Speaks beautifully in [[sutta 21]] of the [[Digha Nikaya]].
+  - Friend of the [[Buddha]] and [[Sakka]].
   - #go https://suttacentral.net/dn21/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin
