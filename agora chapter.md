@@ -1,14 +1,14 @@
-- a [[chapter]].
+- a book [[chapter]].
+  - See also: [[pkg book]], [[agora pkg chapter]], [[agora doc]].
   - #go https://docs.google.com/document/d/1BXcGKLsuXgQy2go2lCI54K6Gv-9vV-zeiD_SNl7JZvo
     - Is the [[living document]] that was published in the Commons proper in [[June 2024]].
   - #oldgo https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
     - Was the only version available in the [[commons]] prior to [[June 2024]] when the post-editing for the [[pkg book]] version became available.
   - #pull https://docs.google.com/document/d/e/2PACX-1vSYDn9CoWlS5MOtgdK4q2etAVDf_IXgDNJE8CKzQ73SGVmSDY5Vd0Azakw9s6ogR7LYADNxG2j-F9Na/pub?embedded=true
-    - [[draft]]
+    - earlier [[draft]], historical notes follow
     - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
     - or maybe [[2022-10-30]] ;)
       - after great comments by [[editors]].
-  - See also [[agora pkg chapter]], [[agora doc]].
   - #meta [[agora doc]] is what will be the actual next deliverable
     - this [[google doc]] has been used for editing rounds after [[2022-09-01]].
     - #push [[2023]]
