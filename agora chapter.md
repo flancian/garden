@@ -7,7 +7,7 @@
   - #pull https://docs.google.com/document/d/e/2PACX-1vSYDn9CoWlS5MOtgdK4q2etAVDf_IXgDNJE8CKzQ73SGVmSDY5Vd0Azakw9s6ogR7LYADNxG2j-F9Na/pub?embedded=true
     - An earlier [[draft]]
   - Historical [[notes]] from writing and editing follow :)
-    - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
+    - This will be a part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
     - or maybe [[2022-10-30]] ;)
       - after great comments by [[editors]].
   - #meta [[agora doc]] is what will be the actual next deliverable
@@ -18,8 +18,9 @@
         - [ ] Try to set up sync on the other direction using [[pandoc]]?
   - #comments from the [[editors]]
     - [x] finish first pass on [[2022-10-28]]
-    - [ ] second pass with a deadline of [[2022-12-04]]
+    - [x] second pass with a deadline of [[2022-12-04]]
     - #push [[next action]]
+      - [x] Publish in the Commons in [[June 2024]].
 
 Some loose notes about the process of writing/editing this follow, started on [[2022-10-27]] as I'm starting to go through editors' comments to try to get the chapter into a good enough shape to call it done.
 
