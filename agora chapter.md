@@ -19,6 +19,7 @@
   - #comments from the [[editors]]
     - [x] finish first pass on [[2022-10-28]]
     - [x] second pass with a deadline of [[2022-12-04]]
+    - The [[PKG book]] got published in [[June 2023]] 🎊
     - #push [[next action]]
       - [x] Publish in the Commons in [[June 2024]].
 
