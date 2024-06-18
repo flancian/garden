@@ -3,7 +3,8 @@
  
 # Tasks
 - [ ] locate link to final version that was worked on by the [[editors]] (thank you [[Ivo]] and company!)
-  - -> https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?usp=sharing as the living document that will live on
   - #go https://docs.google.com/document/d/1BXcGKLsuXgQy2go2lCI54K6Gv-9vV-zeiD_SNl7JZvo/edit
+    - a copy of the snapshot I delivered to the Editors prior to publication in stores on [[June 2023]].
 - [x] get confirmation from Ivo that it's OK to share widely as agreed
 - [ ] redirect Go link in [[Agora chapter]]
+  - -> https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit?usp=sharing is the living document that will live on
