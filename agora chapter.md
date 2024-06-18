@@ -110,3 +110,6 @@ Let's see how it goes though. It's 17:40 now, but the house is ready and dinner 
 ## [[2023-01-07]]
 
 Back in this part of town! Starting pomodoros at 15. I hope to be able to finish this today. I'm primary oncall for Meet but oncall on weekends is usually quiet; let's see :)
+
+## [[2024-06-18]]
+Back here one year after publishing in the [[PKG book]] to re-publish in the [[Commons]] 
