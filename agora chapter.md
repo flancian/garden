@@ -1,10 +1,10 @@
 - a [[chapter]].
   - #go https://docs.google.com/document/d/1BXcGKLsuXgQy2go2lCI54K6Gv-9vV-zeiD_SNl7JZvo
-    - is the [[living document]] that was published in the Commons proper in [[June 2024]].
+    - Is the [[living document]] that was published in the Commons proper in [[June 2024]].
   - #oldgo https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
-    - was the only version in the [[commons]] prior to [[June 2024]] when the post-editing version became available
+    - Was the only version available in the [[commons]] prior to [[June 2024]] when the post-editing for the [[pkg book]] version became available.
   - #pull https://docs.google.com/document/d/e/2PACX-1vSYDn9CoWlS5MOtgdK4q2etAVDf_IXgDNJE8CKzQ73SGVmSDY5Vd0Azakw9s6ogR7LYADNxG2j-F9Na/pub?embedded=true
-  - [[draft]]
+    - [[draft]]
     - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
     - or maybe [[2022-10-30]] ;)
       - after great comments by [[editors]].
