@@ -1,6 +1,7 @@
 - a [[chapter]].
-  - #oldgo https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
   - 
+  - #oldgo https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
+    - was the only version in the [[commons]] prior to [[Jun]]
   - #pull https://docs.google.com/document/d/e/2PACX-1vSYDn9CoWlS5MOtgdK4q2etAVDf_IXgDNJE8CKzQ73SGVmSDY5Vd0Azakw9s6ogR7LYADNxG2j-F9Na/pub?embedded=true
   - [[draft]]
     - part of [[pkg book]] if I write it to a good standard before [[2022-09-01]] :)
