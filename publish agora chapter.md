@@ -4,3 +4,4 @@
 # Tasks
 - [ ] locate link to final version that was worked on by the [[editors]] (thank you [[Ivo]] and company!)
 - [x] get confirmation from Ivo that it's OK to share widely as agreed
+- [ ] redirect Go link in [[Agora chapter]]
