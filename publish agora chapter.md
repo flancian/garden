@@ -3,4 +3,4 @@
  
 # Tasks
 - [ ] locate link to final version that was worked on by the [[editors]] (thank you [[Ivo]] and company!)
-- [ ] get confirmation from Ivo that it's OK to share widely
+- [x] get confirmation from Ivo that it's OK to share widely as agreed
