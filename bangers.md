@@ -1,1 +1,3 @@
 - #pull I like to think 20% of our [[tweets]] and [[toots]] are [[bangers]] in the [[multiverse]].
+- a [[playlist]].
+  - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfE05i4EYzVwq1amdgyE8gHF&si=AZHUZ4NRwuNuWJk3
