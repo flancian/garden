@@ -1,2 +1,2 @@
 - #pull part of [[Agora chapter]]
-- #go https://anagora.org/go/agora-chapter-2023
+- #go https://docs.google.com/document/d/1BXcGKLsuXgQy2go2lCI54K6Gv-9vV-zeiD_SNl7JZvo/edit
