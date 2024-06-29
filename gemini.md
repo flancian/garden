@@ -1,5 +1,5 @@
 # gemini
 
 - a [[project]].
-  - [[go]] https://gemini.circumlunar.space
+  - #go2 https://gemini.circumlunar.space
 
