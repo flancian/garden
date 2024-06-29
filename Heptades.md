@@ -1,2 +1,3 @@
 - Like a [[triumvirate]] but with [[7]] :)
-- Greece once had it.
+- Greece once had one, or several.
+- [[equivalent of triumvirate with 7 members]]
