@@ -1,0 +1,2 @@
+- Like a [[triumvirate]] but with [[7]] :)
+- Greece once had it.
