@@ -1,3 +1,3 @@
 - a [[person]].
   - [[friend]].
-  - Attendant of the [[Buddha]] and third "patriarch" (although Gautama probably wouldn't have used that word) of Buddhism in this Kalpa IIUC, as he succeeded [[Kassapa]] who took the reigns of the Sangha after Gautama passed.
+  - Attendant of the [[Buddha]] and third "patriarch" (although Gautama probably wouldn't have used that word) of Buddhism in this Kalpa IIUC, as he succeeded [[Kassapa]] who took the reigns of the Sangha after Gautama passed into [[parinibbana]].
