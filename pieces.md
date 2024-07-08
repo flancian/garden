@@ -13,3 +13,5 @@ The above means: bring this entity into the current [[context]]. In the Agora of
 --
 
 For an (occasionally!) more cohesive retelling of the inception of the Agora and a description of the intentions behind the project, please see [[Agora chapter]] -- now (2024) available in the Commons.
+
+For a more fragmentary and occasionally up to date take, read on :)
