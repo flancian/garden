@@ -1,0 +1,1 @@
+- One of my favorite phrases by the [[Buddha]]
