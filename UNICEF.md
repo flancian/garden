@@ -1,3 +1,3 @@
 - an [[organization]].
-  - #go https://unicef.ch/jahresbericht-23
+  - #go https://www.unicef.ch/de/jahresbericht-2023
   - [[altruism]]
