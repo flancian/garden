@@ -1,3 +1,3 @@
 - #pull [[bruchstückhaft]]
 
-The [[Agora of Flancia]] is a [[fragmentary]] work]]
+The [[Agora of Flancia]] is a [[fragmentary]] work by definition.
