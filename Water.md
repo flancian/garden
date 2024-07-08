@@ -2,7 +2,7 @@
 
 Agua!
 Agua, agua, [[agua]]!
-Agua para los sedientos
+Agua para los sedientos!
 
 [[Fuego]] para los que tienen [[frío]]
 
@@ -10,5 +10,5 @@ Agua para los sedientos
 
 [[Luz]] para los que leen
 
-[[Agora]] para los oprimidos
+[[Agora]] para los oprimidos!
 
