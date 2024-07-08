@@ -4,5 +4,6 @@ Enough, Brahmin!
 I say: enough.
 
 Enough of your self-importance at the expense of others.
-Enough of your lack of compassion.
-Enough of 
+Enough of your relative lack of compassion.
+
+You know you 
