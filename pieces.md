@@ -2,4 +2,4 @@
 
 The [[Agora of Flancia]] is a [[fragmentary]] work by definition.
 
-This can occasionally strain [[legibility]]. In those cases, f
+This can occasionally strain [[legibility]]. In those cases, I apologize -- I will try to improve over time.
