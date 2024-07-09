@@ -1,3 +1,3 @@
 - Could be seen as an [[info hazard]] I believe, in the sense that learning more about the nature of dementia as it seems to "curse" some humans and animals can be deeply affecting.
   - Then again, this is true for many cases of [[suffering]].
-  - I believe 
+  - I believe discussing the nature of suffering can be beneficial, and it is aligned with the [[Dharma]], so here I will try to 
