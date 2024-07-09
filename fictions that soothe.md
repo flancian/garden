@@ -1,4 +1,6 @@
 - a [[list]].
   - [[dust universe]]
-    - I find this comforting, in particular in combination with [[Dharma]].
+    - I find this comforting, in particular in combination with the [[Dharma]].
+  - [[mathematical universe]]
+    - As per [[Max Tegmark]] and friends.
   - [[pak protector]]
