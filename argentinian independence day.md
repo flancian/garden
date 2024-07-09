@@ -1,1 +1,1 @@
-De repente me acuerdo de muchas cosas que quería decirte.
+De repente me acuerdo de muchas cosas que quería decirte, de cosas que quería contarte.
