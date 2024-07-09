@@ -1,1 +1,1 @@
-- Related to [[info hazard]] I believe, in the sense that learning more about the nature of dementia as it 
+- Could be seen as an [[info hazard]] I believe, in the sense that learning more about the nature of dementia as it seems to "curse" some humans and animals
