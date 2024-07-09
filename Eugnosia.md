@@ -1,3 +1,4 @@
 - an [[application]].
   - Maybe it will go by some other name; as usual with ideas, the name is not the most important thing, although it can mean something.
-  - It doesn't exist yet, as far as I can tell; so I've decided 
+  - This app doesn't exist yet, as far as I can tell; so I've decided to create it if needed, or to find the best alternative for those needing it and point to it in this place.
+
