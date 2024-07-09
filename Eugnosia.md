@@ -2,3 +2,4 @@
   - Maybe it will go by some other name; as usual with ideas, the name is not the most important thing, although it can mean something.
   - This app doesn't exist yet, as far as I can tell; so I've decided to create it if needed, or to find the best alternative for those needing it and point to it in this place.
 
+Eugnosia will try to be the friend you need always, assisting you as you go through your daily life 
