@@ -1,1 +1,3 @@
-- Could be seen as an [[info hazard]] I believe, in the sense that learning more about the nature of dementia as it seems to "curse" some humans and animals
+- Could be seen as an [[info hazard]] I believe, in the sense that learning more about the nature of dementia as it seems to "curse" some humans and animals can be deeply affecting.
+  - Then again, this is true for many cases of [[suffering]].
+  - I believe 
