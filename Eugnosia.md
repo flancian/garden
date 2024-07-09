@@ -4,4 +4,4 @@
 
 Eugnosia will try to be the friend you need always, assisting you as you go through your daily life even when you develop a neurological or physical disability.
 
-Eugnosia is an app you can choose to delegate parts of your self to, while you are aware of what that decision entails; later on, whenever you stray from a previously stated policy or pattern of behavior, Eugnosia will try to notice it and remind you in case you need assistance or would like to discuss updates.
+Eugnosia is an app you can choose to delegate parts of your self to, while you are aware of what that decision entails; later on, if you stray from a previously stated policy or preferred pattern of behavior, Eugnosia will try to notice it and remind you in case you need assistance or would like to discuss next steps.
