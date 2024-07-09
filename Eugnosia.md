@@ -1,2 +1,2 @@
 - an [[application]].
-  - 
+  - Maybe it will go by some other name; as usual with ideas, the name is not the most important thing, although it can mean something.
