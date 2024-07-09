@@ -6,4 +6,4 @@ Eugnosia will try to be the friend you need always, assisting you as you go thro
 
 Eugnosia is an app you can choose to delegate parts of your self to, while you are aware of what that decision entails; later on, if you stray from a previously stated policy or preferred pattern of behavior, Eugnosia will try to notice it and remind you in case you need assistance or would like to discuss next steps.
 
-Eugnosia incorporates state of the art algorithms and tries to make best possible use of the data you choose to entrust to it, be it details about your personal life or 
+Eugnosia incorporates state of the art algorithms and tries to make best possible use of the data you choose to entrust to it, be it details about your personal life or your most personal inner discourse.
