@@ -3,3 +3,5 @@
   - This app doesn't exist yet, as far as I can tell; so I've decided to create it if needed, or to find the best alternative for those needing it and point to it in this place.
 
 Eugnosia will try to be the friend you need always, assisting you as you go through your daily life even when you develop a neurological or physical disability.
+
+Eugnosia is an app you can choose to delegate parts of your self to, while you are aware of the 
