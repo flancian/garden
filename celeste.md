@@ -1,2 +1,3 @@
-- #go https://celeste.exposed
-- #pull [[ideolysis]]
+- a [[person]].
+  - #go https://celeste.exposed
+  - #pull [[parafactual]], [[ideolysis]]
