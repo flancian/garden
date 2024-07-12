@@ -1,1 +1,2 @@
 - #go https://celeste.exposed
+- #pull [[ideolysis]]
