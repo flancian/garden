@@ -8,5 +8,5 @@
 	- [[interop of links]]
 - a [[meet]].
   - [[19 utc]] on [[wednesday]]
-  - #go https://meet.evolix.si/fellowship-of-the-link
+  - #go https://meet.evolix.org/fellowship-of-the-link
   - #log [[fotl chat]]
