@@ -1,0 +1,1 @@
+- I thought of writing an [[Open Letter]] to [[Lex Fridman]], given how I'm 
