@@ -1,7 +1,6 @@
 Llevo en mi carcaj
-Tres jaras
 
-Qué jaras?
+Tres jaras
 
 Las jaras,
     qué jaras?
