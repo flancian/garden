@@ -8,4 +8,4 @@ Fuego para los que tienen frío
 
 Luz para los que leen
 
-Ágora para los que buscan
+Ágora para los oprimidos
