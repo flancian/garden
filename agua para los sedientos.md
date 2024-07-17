@@ -4,9 +4,9 @@ Agua, agua, agua!
 
 Agua para los sedientos
 
-Flan para los hambrientos
-
 Fuego para los que tienen frío
+
+Flan para los hambrientos
 
 Luz para los que leen
 
