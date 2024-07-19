@@ -12,5 +12,6 @@
   - #push [[agoras]]
     - [[an agora]] is run by [[flancia collective]] [[for the benefit of all beings]].
     - An [[Agora]] is like a [[bag of holding]], and it contains among many things [[other agoras]].
+- #pull [[Agoras]]
 
 
