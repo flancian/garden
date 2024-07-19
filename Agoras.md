@@ -1,0 +1,2 @@
+- a [[list]].
+  - Places known to be an [[Agora]] as per the definition of [[this Agora]].
