@@ -4,5 +4,5 @@
 
 --
 
-Back here on [[2024-07-20]], somehow Silverbullet redirected me here from a completely different page.
+Back here on [[2024-07-20]], somehow [[]]
   
