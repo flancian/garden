@@ -31,4 +31,4 @@ Now you'll have access to lots of almost-but-not-quite-built-in functionality.
 
 Then do the same for [[journal]] facilities `!silverbullet.md/Library/Journal/` as per https://silverbullet.md/Library/Journal.
 
-You can open special page /Library/Journal/New%20Page/Daily%20Note to confgiure the daily page template in your instance.
+You can open special page /Library/Journal/New%20Page/Daily%20Note to configure the daily page template in your instance, e.g. change the path.
