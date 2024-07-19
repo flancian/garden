@@ -2,7 +2,4 @@
 - [[feminist]] [[anarchist]]
   - Met her during the trip in a museum; looking forward to learning more about her and reading her work!
 
---
-
-Back here on [[2024-07-20]], 
   
