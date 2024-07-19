@@ -1,5 +1,7 @@
 - an [[open letter]].
-  - Which contains many you find in this [[Agora of Flancia]].
+  - Which contains many.
+  - You find in this [[Agora of Flancia]].
     - #pull [[open letters]]
-  - For and about the Agora of Flancia and all the [[Agoras]] of the future.
-    - #pull [[agora chapter]] [[building bridges]] [[flancia collective]]
+  - For, and about, the Agora of Flancia -- and other [[Agoras of the Future]].
+    - #pull [[agora chapter]] 
+    - #pull [[building bridges]] 
