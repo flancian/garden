@@ -1,1 +1,1 @@
-- [[cambridge heretics]]
+- #pull [[cambridge heretics]]
