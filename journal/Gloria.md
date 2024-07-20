@@ -1,4 +1,4 @@
 - [[Gloria, gloria, gloria]]!
 - Gloria a la luz de tu consciencia
 - Gloria a las maravillas del universo
-- Salve la belleza de tu alma
+- Salve lo bueno y lo bello
