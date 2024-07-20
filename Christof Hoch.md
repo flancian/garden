@@ -1,1 +1,2 @@
-- a [[philosph]]
+- a [[philosopher]]
+  - [[integration theory]]
