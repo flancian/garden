@@ -1,5 +1,5 @@
 - a [[poem]].
-  - [[zine]]:
+  - for the [[zine]]:
  
 Agua, agua, agua!
 
