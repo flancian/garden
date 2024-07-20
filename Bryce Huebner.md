@@ -1,0 +1,4 @@
+- a [[person]].
+  - #pull [[neuroyogacara]]
+  - [[papers]]
+  - [[anger and patience]]
