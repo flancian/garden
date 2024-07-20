@@ -1,1 +1,3 @@
-- a [[philosopher]].
+- a [[person]].
+  - [[author]] [[journalist]]
+  - 
