@@ -1,2 +1,3 @@
 - [[Gloria, gloria, gloria]]!
 - Gloria a la luz de tu consciencia
+- Salven los oprimidos
