@@ -1,5 +1,9 @@
 - [[Gloria, gloria, gloria]]!
 - Gloria a la luz de tu consciencia
 - Gloria a las maravillas del universo
-- Salven la belleza y la bondad
+
+--
+
+- [[Salve, salve, salve]]!
+- Salven lo bello y lo bueno
 - Salven los oprimidos 
