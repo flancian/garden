@@ -1,2 +1,2 @@
-- a [[philosopher]]
+- a [[neuroscientist]]
   - [[integration theory]]
