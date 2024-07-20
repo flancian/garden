@@ -5,5 +5,6 @@
 --
 
 - [[Salve, salve, salve]]!
-- Salven lo bello y lo bueno
+- Salve lo bello 
+- Salve lo bueno
 - Salven los oprimidos 
