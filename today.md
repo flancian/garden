@@ -7,4 +7,6 @@
 - IIRC as of the time of writing the [[Agora]] doesn't display this note because /today is overriden to redirect to e.g. [[2024-01-03]] :)
   - [[2024-02-19]] is... today ;)
   - [[2024-07-21]] is today again ;)
-  - I really should make it so that today pulls itself? but rather also some kind of quote operator, to be able to choose not to 
+  - #push [[todo]]
+    - I really should make it so that today pulls itself? but rather also some kind of quote operator, to be able to choose not to render /today as the [[Agora of Flancia]] does by default but in a way that gets node content.
+    - 
