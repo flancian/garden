@@ -1,0 +1,2 @@
+- a [[person]].
+  - [[friend]] through the ages, like many of the people immortalized by the 
