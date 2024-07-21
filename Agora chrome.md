@@ -1,2 +1,3 @@
 - The [[UX]] of the [[Agora]] could be said to be its [[chrome]] in computer terms.
-- As of the time of writing, these are the priorities for UX 
+- As of the time of writing, these are the priorities for [[Agora UX]] development:
+  - [[navbar]]: I've long wanted to have the Agora show a navigation 
