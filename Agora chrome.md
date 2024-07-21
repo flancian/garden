@@ -1,3 +1,3 @@
 - The [[UX]] of the [[Agora]] could be said to be its [[chrome]] in computer terms.
 - As of the time of writing, these are the priorities for [[Agora UX]] development:
-  - [[navbar]]: I've long wanted to have the Agora show a navigation 
+  - [[navbar]]: for want of a better name, I've long wanted to have the Agora show a navigation menu to the left when there's space; think [[hamburger menu]]. I think this could show some of the context
