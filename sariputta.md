@@ -1,2 +1,4 @@
 - a [[person]].
-  - [[friend]] through the ages, like many of the people immortalized by the 
+  - a [[friend]] through the ages, like many of the people immortalized by the [[Pali canon]].
+- a [[computer]].
+  - one of my work laptops. I think [[venerable Sariputta]] wouldn't mind :)
