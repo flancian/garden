@@ -2,4 +2,4 @@
 
 --
 
-Manjushri says: I will [[cut you, ignorance]
+Manjushri says: I will [[cut you, ignorance].
