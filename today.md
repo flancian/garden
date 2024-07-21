@@ -9,4 +9,4 @@
   - [[2024-07-21]] is today again ;)
   - #push [[todo]]
     - I really should make it so that today pulls itself? but rather also some kind of quote operator, to be able to choose not to render /today as the [[Agora of Flancia]] does by default but in a way that gets node content.
-    - /node used to be this, but then I blundered momentarily maybe by making it render the 'raw' node with no [[Agora chrome at all?
+    - /node used to be this, but then I blundered momentarily maybe by making it render the 'raw' node with no [[Agora chrome]] at all?
