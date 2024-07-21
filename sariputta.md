@@ -2,3 +2,5 @@
   - a [[friend]] through the ages, like many of the people immortalized by the [[Pali canon]].
 - a [[computer]].
   - one of my work laptops. I think [[venerable Sariputta]] wouldn't mind :)
+  - When I make use of it, I am reminded of him and of the virtues he embodies.
+  - A
