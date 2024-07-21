@@ -4,4 +4,4 @@
     - [[navbar]]: for want of a better name, I've long wanted to have the Agora show a navigation menu to the left when there's space; think [[hamburger menu]]. I think this could show some of what we currently show in the context, if there is enough width? But at least it should inline some settings.
       - Like [[autopull]] toggle.
       - It should also maybe contain actions? This would go a bit in the direction of [[Scumm]], which I like, hmm. But in Scumm the actions are at the bottom.
-  - [[Quality of life]] improvements are always on the todo list
+  - [[Quality of life]] improvements are always on the todo list, I try to enjoy them. Things like iterating on how things render in general usually are nice to tackle to get a [[flow]] session started.
