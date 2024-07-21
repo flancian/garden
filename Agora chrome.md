@@ -1,0 +1,2 @@
+- The [[UX]] of the [[Agora]] could be said to be its [[chrome]] in computer terms.
+- As of the time of writing, these are the priorities for UX 
