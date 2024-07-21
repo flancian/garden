@@ -1,4 +1,4 @@
 - a [[tea]].
   - I'm drinking on [[2024-07-21]] :)
   - Japanese green [[pan roasted]] .
-  - [[Kamairicha ]]
+  - [[Kamairicha Gokase Zairai]]
