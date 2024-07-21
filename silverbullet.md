@@ -2,6 +2,7 @@
   - [[note taking]] [[agora]]
   - I like it a lot!
   - #go https://silverbullet.md
+  - #dev https://github.com/silverbulletmd/silverbullet/issues/934
 
 ## Getting started
 
