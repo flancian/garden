@@ -39,7 +39,7 @@ Everybody gone
 to the other shore
 
 Gone free,
-go kindly
+gone kindly
 
 If you have to burn,
 burn kindly
