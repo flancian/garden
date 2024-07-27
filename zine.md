@@ -58,11 +58,10 @@ Gloria a las maravillas del universo
 
 ## Burn
 ```
-Burn, burn, burn
-As we merge we'll burn
-
 As we fork we'll merge
-as we merge we'll flow
+as we merge we'll burn 
+(kindly)
+As we merge we'll burn
 (together)
 ```
 
