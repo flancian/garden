@@ -61,8 +61,9 @@ Gloria a las maravillas del universo
 As we fork we'll merge
 as we merge we'll burn 
 (kindly)
-As we merge we'll burn
-(together)
+
+As we merge we'll fork 
+As we merge
 ```
 
 
