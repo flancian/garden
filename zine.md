@@ -52,9 +52,11 @@ Las de Tara
 Las de Maitreya
 ```
 
-
-
 ## Gloria
+```
 Gloria, gloria, gloria!
+
 Gloria a las maravillas del universo
+
 Gloria a luz de tu consciencia
+```
