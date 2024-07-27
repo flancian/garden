@@ -30,7 +30,6 @@ Luz para los que van como cegados
 Ágora para los oprimidos
 ```
 
-
 ## Gone
 ```
 Gone gone,
@@ -39,8 +38,8 @@ gone beyond
 Everybody gone
 to the other shore
 
-go free
-go kindly
+Gone free,
+gone kindly
 
 If you have to burn,
 burn kindly
