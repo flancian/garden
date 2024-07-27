@@ -39,12 +39,12 @@ Everybody gone
 to the other shore
 
 Gone free,
-gone kindly
+go kindly
 
 If you have to burn,
 burn kindly
 
-Meditate!
+Meditate
 ````
 
 ## Gloria
