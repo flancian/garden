@@ -49,5 +49,5 @@ Meditate
 
 ## Gloria
 Gloria, gloria, gloria!
-Gloria a luz de tu consciencia
 Gloria a las maravillas del universo
+Gloria a luz de tu consciencia
