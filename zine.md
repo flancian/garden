@@ -15,10 +15,10 @@ Las de Avalokiteshvara
 Las de Tara
 Las de Maitreya
 ```
+
 ## Agua
 ```
 Agua, agua, agua!
-
 Agua para los sedientos
 
 Flan para los hambrientos
