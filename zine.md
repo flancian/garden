@@ -9,18 +9,17 @@
 ## Las Jaras
 Las jaras
 Las jaras, qué jaras?
+
 Las de Avalokiteshvara
-Las de Maitreya
 Las de Tara
+Las de Maitreya
 
 ## Burn
 Burn, burn, burn
-Burn
 
 As we merge we'll burn
-kindly
+(kindly)
 
 As we fork we'll merge
-
 as we merge we'll flow
 together
