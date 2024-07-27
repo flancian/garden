@@ -43,5 +43,18 @@ Luz para los que van como cegados
 
 ## Gone
 ```
+Gone gone
+Gone beyond
+
+Everybody gone
+to the other shore
+
+gone free
+gone kindly
+
+if you have to burn,
+burn kindly!
+
+Meditate!
 
 ````
