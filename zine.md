@@ -9,7 +9,7 @@
 ## Las Jaras
 Las jaras
 Las jaras, qué jaras?
-Las de Avalokiteshvara!
+Las de Avalokiteshvara
 Las de Maitreya
 Las de Tara
 
