@@ -31,16 +31,6 @@ Luz para los que van como cegados
 ```
 
 
-## Burn
-```
-Burn, burn, burn
-As we merge we'll burn
-(kindly)
-
-As we fork we'll merge
-as we merge we'll flow
-(together)
-```
 
 
 ## Gone
@@ -59,3 +49,15 @@ burn kindly
 
 Meditate!
 ````
+
+## Burn
+```
+Burn, burn, burn
+As we merge we'll burn
+(kindly)
+
+As we fork we'll merge
+as we merge we'll flow
+(together)
+```
+
