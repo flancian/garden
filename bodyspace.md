@@ -1,2 +1,2 @@
 - #pull [[meatspace]], but maybe with a more neutral/positive connotation?
-  - Not that meatspace is clearly negative.
+  - Not that meatspace is clearly negative, but it is slightly reductive maybe.
