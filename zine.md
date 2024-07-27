@@ -16,10 +16,15 @@ Las de Maitreya
 
 ## Burn
 Burn, burn, burn
-
 As we merge we'll burn
 (kindly)
 
 As we fork we'll merge
 as we merge we'll flow
-together
+(together)
+
+## Agua
+Agua, agua, agua!
+Agua para los sedientos
+
+
