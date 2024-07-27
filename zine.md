@@ -6,19 +6,11 @@
 
 # [[2024-07]]
 
-## Las Jaras
-```
-Las jaras
-Las jaras, qué jaras?
-
-Las de Avalokiteshvara
-Las de Tara
-Las de Maitreya
-```
 
 ## Agua
 ```
 Agua, agua, agua!
+
 Agua para los sedientos
 
 Flan para los hambrientos
@@ -46,6 +38,21 @@ burn kindly
 
 Meditate
 ````
+
+## Las Jaras
+```
+Las jaras
+
+Las jaras, qué jaras?
+
+Las de Avalokiteshvara
+
+Las de Tara
+
+Las de Maitreya
+```
+
+
 
 ## Gloria
 Gloria, gloria, gloria!
