@@ -15,4 +15,12 @@ Las de Tara
 
 ## Burn
 Burn, burn, burn
+Burn
 
+As we merge we'll burn
+kindly
+
+As we fork we'll merge
+
+as we merge we'll flow
+together
