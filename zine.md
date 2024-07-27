@@ -31,8 +31,6 @@ Luz para los que van como cegados
 ```
 
 
-
-
 ## Gone
 ```
 Gone gone,
@@ -41,10 +39,10 @@ gone beyond
 Everybody gone
 to the other shore
 
-gone free
-gone kindly
+go free
+go kindly
 
-if you have to burn,
+If you have to burn,
 burn kindly
 
 Meditate!
@@ -54,16 +52,3 @@ Meditate!
 Gloria, gloria, gloria!
 Gloria a luz de tu consciencia
 Gloria a las maravillas del universo
-
-
-## Burn
-```
-As we fork we'll merge
-as we merge we'll burn 
-(kindly)
-
-As we merge we'll fork 
-As we merge
-```
-
-
