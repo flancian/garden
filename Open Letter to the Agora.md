@@ -1,5 +1,4 @@
 - an [[open letter]].
-  - Which links many.
-    - #pull [[open letters]]
+  - Which is fragmentary, in the sense that it tries to link and embed many others.
   - For and about the Agora of Flancia and all the [[Agoras]] of the future.
-    - #pull [[agora chapter]] [[building bridges]] [[flancia collective]]
+    - #pull [[open letters]] [[agora chapter]] [[flancia collective]]

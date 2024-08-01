@@ -1,41 +1,30 @@
 - a [[collective]].
-	- [[flancia]] [[matrix room]]
-		- #go https://matrix.to/#/#flancia:matrix.org
-		- room is [[open]] now, "official membership" to be defined by the collective
-	- [[open collective]] https://opencollective.com/flancia
-		- within the [[flancia collective]] we track [[projects]] as a team and execute them in the open.
-			- we [[work in public]]
-				- #pull [[open source]] [[open ethics]]
-			- [[matrix]] https://matrix.to/#/#flancia:matrix.org?via=matrix.org
-			- [[telegram]] https://web.telegram.org/#/im?p=g421619990
-		- [[flancia social impact]] exists in the [[us]] thanks to [[vera]]
-	- [[members]] (roughly in order of joining)
-		- [[flancian]]
-		- [[vera]]
-		- [[karlicoss]]
+  - Who works on [[building bridges]] for the benefit of all beings, starting with those of a virtual nature.
+  - We [[work in public]].
+    - We track [[projects]] and execute them in the open.
+    - We try to practice [[open source]] and [[open ethics]].
+  - Known [[members]] (roughly in order of joining):
+		- [[flancian]] ~ [[@flancian]]
+		- [[vera]] ~ [[@vera]]
+      - [[flancia social impact]] exists in the [[us]] thanks to [[vera]]
+		- [[karlicoss]] ~ [[@karlicoss]]
 		- [[metasj]]
 		- [[abstract fairy]]
-		- [[neil]]
+		- [[neil]] ~ [[@neil]
 		- [[mohammed]]
 		- [[luciana]]
-		- [[j0lms]]
-		- [[will]]
+		- [[j0lms]] ~ [[@j0lms]]
+		- [[will]] ~ [[@protopian]]
 		- [[jack kausch]]
-- reach out to a member of the collective if you are interested in joining!
-	- you can opt out of the collective at any moment for any reason. [[flancia]] is fully optional!
-	- the matrix room is open to anyone to join
-- if you are otherwise interested with [[cooperating]] with the [[flancia collective]], we are very interested! We strive to be [[prosocial]].
-	- Please reach out to [[vera]] or [[flancian]] or any of the other members.
-		- our [[goals]]:
-	- [[public utility]]
-		- [[effective altruism]]
-		- our [[projects]]:
-		- [[agora]]
-			- if you would like to [[join the agora]], please join [[agora discuss]]
-		- [[promnesia]]
-		- [[wikilinks everywhere]]
-		- [[moa]]
-	- your project could be here!
-- [[push]] [[flancia]]
-	- a [[thing]] in [[flancia]].
-	- #pull [[flancia discuss]]
+    - Reach out to a member of the collective if you are interested in joining!
+    - You can opt out of the collective at any moment for any reason. [[Flancia]] is fully optional!
+  - We use [[Matrix]]: https://matrix.to/#/#flancia:matrix.org
+    - Also occasionally [[Telegram]]: https://web.telegram.org/#/im?p=g421619990
+    - And [[Open Collective]]: https://opencollective.com/flancia
+  - We are very interested in the following! We strive to be open by default and [[prosocial]] in all ventures.
+    - Maximizing [[public utility]].
+		- [[Altruism]], "effective" or otherwise :)
+		- [[Agora]] writing and development.
+		- Note taking apps, [[promnesia]] and other projects conducive to individual and social cognitive augmentation
+		- Adjacent projects and groups such as [[wikilinks everywhere]], [[moa]], [[fellowship of the link]].
+  - See also [[Flancia meet]], a recurrent meeting usually on Saturdays; and [[Agora Discuss]], a room about the Agora project.
