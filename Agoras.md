@@ -1,2 +1,5 @@
 - a [[list]].
   - Places known to be an [[Agora]] as per the definition of [[this Agora]].
+  - [[Agoras of the past]]
+  - [[Agoras of the present]]
+  - [[Agoras of the future]]
