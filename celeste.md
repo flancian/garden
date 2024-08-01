@@ -1,0 +1,3 @@
+- a [[person]].
+  - #go https://celeste.exposed
+  - #pull [[parafactual]], [[ideolysis]]

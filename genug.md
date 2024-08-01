@@ -1,0 +1,3 @@
+- I received this [[leafleet]] in [[June]] or [[July 2024]].
+- It made me think of:
+  - [[Genug Brahmin]]

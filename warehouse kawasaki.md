@@ -1,0 +1,3 @@
+- a [[place]].
+  - I would have liked to visit.
+  - #go https://en.wikipedia.org/wiki/Warehouse_Kawasaki#/media/File:Cyber_Kowloon_Walled_City_-_01._2nd_floor_-_Warehouse_Kawasaki,_2014-06-02_(by_Ken_OHYAMA).jpg

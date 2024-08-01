@@ -1,0 +1,4 @@
+- a [[protocol]].
+  - #go https://docs.bsky.app/docs/advanced-guides/atproto
+  - with an [[sdk]].
+    - [[python]] https://atproto.blue/en/latest/readme.html

@@ -1,0 +1,2 @@
+- an [[AI]].
+  - #go https://gemini.google.com

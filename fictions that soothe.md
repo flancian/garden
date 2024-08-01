@@ -1,0 +1,7 @@
+- a [[list]].
+  - I mean [[fiction]] in the loose sense, meaning occasionally also things that started as stories and then became reality -- so take this more generally as a [[list of ideas]].
+  - [[dust universe]]
+    - I find this comforting, in particular in combination with the [[Dharma]].
+  - [[pak protector]]
+  - [[mathematical universe]]
+    - As per [[Max Tegmark]] and friends.

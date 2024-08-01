@@ -1,0 +1,3 @@
+- a [[person]].
+  - Into [[manifestos]]: https://manifesto.quest/
+  - Met him through the [[vibecamp]] circle.

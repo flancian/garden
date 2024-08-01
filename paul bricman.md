@@ -5,3 +5,4 @@
 	- [[git]] https://github.com/paulbricman
 	- [[psionica]]
 	- [[beyond knowledge graphs]]
+  - #pull [[Straumli AI]] made me think of the [[Straumli Realm]].

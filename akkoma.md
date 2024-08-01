@@ -1,0 +1,4 @@
+- a [[fediverse]] software.
+  - #go https://akkoma.social/
+  - #dev https://akkoma.dev
+  - a [[fork]] of [[pleroma]].

@@ -1,0 +1,3 @@
+- a [[search engine]].
+  - Focusing on web sites*, not pages.
+  - #go https://kozmonavt.su

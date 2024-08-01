@@ -1,0 +1,1 @@
+- You want [[git restore]] -- for when you want to remove a file from a working set/commit before you actually commit.

@@ -1,3 +1,4 @@
 - an [[organization]].
   - #pull [[United Nations International Children's Emergency Fund]].
   - Donated [[510 CHF]] on [[2023-07-05]].
+  - Donated [[511 CHF]] on [[2024-06-29]].
