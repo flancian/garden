@@ -2,7 +2,7 @@
   - #go https://flancia.org
   - [[Flancia]] is my top level project as of [[2024]] and since at least [[2019]].
     - It encompasses many levels and tries to describe a large scale vision.
-    - It tries to be [[fully open]], [[transparent]], [[ethical]]
+    - It tries to be [[fully open]], [[transparent]], [[ethical]]. Also just plain [[good]] and [[fair]], 
   - In [[Flancia]] they used the [[internet]] to build a global [[Commons]].
     - [[agora]]
       - [[agora doc]]
