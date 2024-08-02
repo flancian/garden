@@ -1,5 +1,6 @@
 - a [[project]].
   - #go https://flancia.org
+  - 
   - [[fully open]] [[transparent]] [[ethical]]
   - In [[Flancia]] they used the [[internet]] to build a global [[Commons]].
     - [[agora]]
