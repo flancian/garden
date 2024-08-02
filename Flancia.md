@@ -1,8 +1,7 @@
-ddddddddddddddds
-nal skills.
+- a [[project]].
   - #go https://flancia.org
   - [[Flancia]] is my top level project as of [[2024]] and since at least [[2019]].
-    - It encompasses many levels, describing a large scale vision.
+    - It encompasses many levels and tries to describe a large scale vision.
   - [[fully open]] [[transparent]] [[ethical]]
   - In [[Flancia]] they used the [[internet]] to build a global [[Commons]].
     - [[agora]]
