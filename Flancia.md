@@ -4,7 +4,7 @@
     - It encompasses many levels and tries to describe a large scale vision.
     - It tries to be [[fully open]], [[transparent]], [[ethical]]. Also just plain [[good]] and [[fair]], 
   - [[Flancia]] is also a fiction of sorts that I've been writing.
-    - In [[Flancia]] they used the [[internet]] to build a global [[Commons]], and they put it to good use for the benefit of all of humanity and our friends :)
+    - In [[Flancia]] they used the [[internet]] to build a global [[Commons]], and they put it to good use for the benefit of all of [[humanity and our [[friends]] :)
     - [[agora]]
       - [[agora doc]]
   - #pull [[agora]]
