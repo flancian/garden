@@ -6,10 +6,8 @@
   - [[Flancia]] is also a fiction of sorts that I've been writing.
     - In [[Flancia]] they used the [[internet]] to build a global [[Commons]], and they put it to good use for the benefit of all of [[humanity]] and our [[friends]] :)
   - In Flancia there is an [[Agora]]!
-      - #pull https://flancia.org
-      - #pull [[agora chapter]]
-      - #pull As of the time of writing (2024) the [[Agora of Flancia]] exists. You're reading this in it :)
-    - I dreamt of seeing an Agora of Flancia with a million [[people]].
+      - #pull As of the time of writing (2024) the [[Agora of Flancia]] exists digitally. You're likely reading this in it :)
+    - It is I dreamt of seeing an Agora of Flancia with a million [[people]].
     - [[1m people]] is approximately 2000 [[bolos]] :)
     - call it [[2048]] to make it even ;)
 
