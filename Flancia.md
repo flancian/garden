@@ -4,10 +4,11 @@
     - It encompasses many levels and tries to describe a large scale vision.
     - It tries to be [[fully open]], [[transparent]], [[ethical]]. Also just plain [[good]] and [[fair]], 
   - [[Flancia]] is also a fiction of sorts that I've been writing.
-    - In [[Flancia]] they used the [[internet]] to build a global [[Commons]], and they put it to good use for the benefit of all of [[humanity]] and our [[friends]] :)
+    - In [[Flancia]] they used the [[internet]] to build a global [[Commons]], and they put it to good use for the benefit of beings -- meaning all of [[humanity]] and our [[friends]] :)
   - In Flancia there is an [[Agora]]!
-      - #pull As of the time of writing (2024) the [[Agora of Flancia]] exists digitally. You're likely reading this in it :)
-    - It is I dreamt of seeing an Agora of Flancia with a million [[people]].
+    - #pull As of the time of writing (2024) the [[Agora of Flancia]] exists digitally. You're likely reading this in it :)
+    - It is something I dreamt, and I've been implementing slowly but surely, piece by piece.
+    - It is currently small, hosting a community of around 100 people, but, I dream of Agoras with million [[people]].
     - [[1m people]] is approximately 2000 [[bolos]] :)
     - call it [[2048]] to make it even ;)
 
