@@ -3,7 +3,8 @@
   - [[Flancia]] is my top level project as of [[2024]] and since at least [[2019]].
     - It encompasses many levels and tries to describe a large scale vision.
     - It tries to be [[fully open]], [[transparent]], [[ethical]]. Also just plain [[good]] and [[fair]], 
-  - In [[Flancia]] they used the [[internet]] to build a global [[Commons]].
+  - [[Flancia]] is also a fiction of sorts that I've been writing.
+    - In [[Flancia]] they used the [[internet]] to build a global [[Commons]], and they put it to good use for the benefit of all beings :)
     - [[agora]]
       - [[agora doc]]
   - #pull [[agora]]
