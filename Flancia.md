@@ -1,8 +1,8 @@
-- a [[project]].
+ddddddddddddddd
   - #go https://flancia.org
   - [[Flancia]] is my top level project as of [[2024]] and since at least [[2019]].
     - It encompasses many levels, describing a large scale vision.
-    - It tries to be [[fully open]], [[transparent]], [[pro social]], more generally [[good]] and [[fair]], meaning [[ethical]].
+  - [[fully open]] [[transparent]] [[ethical]]
   - In [[Flancia]] they used the [[internet]] to build a global [[Commons]].
     - [[agora]]
       - [[agora doc]]
@@ -21,3 +21,4 @@ See the writing in https://flancia.org, in eternal wait of being edited into som
 ## 2024 
 
 For all I talk about the [[Agora]] as of late, I sometimes feel I don't talk about Flancia enough; it is, after all, to help "build Flancia" that I built an Agora -- meaning mine and [[your Flancia]] more generally -- to help advance all projects that are alike in some particular way: projects that are [[free, fair, alive]] and well meaning, which are for the [[common good]] or for the [[benefit of all sentient beings]].
+
