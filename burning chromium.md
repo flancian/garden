@@ -6,7 +6,7 @@
 
 > "I am a candle, I wish I were a spaceship."
 
-They called them Burning Chrome, because of William Gibson's short story, and because they were always melting all their laptops due to the sheer number of browser tabs and terminals.
+They called themselves Burning Chrome, because of William Gibson's short story, and because they were always melting all their laptops due to the sheer number of browser tabs and terminals.
 
 #pull This story is about what they did when they were [[Burning Chrome]].
 
