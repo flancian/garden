@@ -1,0 +1,3 @@
+- a [[restaurant]].
+  - #go https://dontworry-eatcurry.ch/
+  - #map https://g.co/kgs/AVKpv5z
