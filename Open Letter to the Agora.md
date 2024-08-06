@@ -1,5 +1,6 @@
 - an [[open letter]].
-  - Which links many.
+  - Which contains many.
     - #pull [[open letters]]
-  - For and about the Agora of Flancia and all the [[Agoras]] of the future.
-    - #pull [[agora chapter]] [[building bridges]] [[flancia collective]]
+  - In nature fragmentary, in the sense that it tries to link and embed many others.
+  - Addressed to, and about, the [[Agora of Flancia]] and all other well-meaning [[Agoras]] in our future.
+    - #pull [[agora chapter]] [[flancia collective]]

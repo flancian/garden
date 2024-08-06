@@ -1,0 +1,4 @@
+- a [[person]].
+  - #pull [[neuroyogacara]]
+  - [[papers]] https://brycehuebner.weebly.com/papers.html
+  - [[anger and patience]]

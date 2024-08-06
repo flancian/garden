@@ -1,0 +1,3 @@
+- an [[idea]].
+- a [[project]].
+  - #go https://flancia.org/home

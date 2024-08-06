@@ -1,0 +1,6 @@
+- a [[person]].
+  - a [[friend]] through the ages, like many of the people immortalized by the [[Pali canon]].
+- a [[computer]].
+  - One of my work laptops. I think [[venerable Sariputta]] wouldn't mind :)
+  - When I make use of it, I am reminded of him and of the virtues he embodies.
+  - As of [[2024-07-21]] my other work laptop is named [[Guanyin]].

@@ -1,11 +1,14 @@
 - a [[project]].
-  - [[fully open]] [[transparent]] [[ethical]]
-  - In [[Flancia]] they used the [[internet]] to build a global [[Commons]].
-    - [[agora]]
-      - [[agora doc]]
-  - #pull [[agora]]
-    - #pull [[agora of flancia]] exists. You're reading this in it :)
-    - I dreamt of seeing an Agora of Flancia with a million [[people]].
+  - #go https://flancia.org
+  - [[Flancia]] is my top level project as of [[2024]] and since at least [[2019]].
+    - It encompasses many levels and tries to describe a large scale vision.
+    - It tries to be [[fully open]], [[transparent]], [[ethical]]. Also just plain [[good]] and [[fair]], 
+  - [[Flancia]] is also a fiction of sorts that I've been writing.
+    - In [[Flancia]] they used the [[internet]] to build a global [[Commons]], and they put it to good use for the benefit of beings -- meaning all of [[humanity]] and our [[friends]] :)
+  - In Flancia there is an [[Agora]]!
+    - #pull As of the time of writing (2024) the [[Agora of Flancia]] exists digitally. You're likely reading this in it :)
+    - It is something I dreamt, and I've been implementing slowly but surely, piece by piece.
+    - It is currently small, hosting a community of around 100 people; but I dream of Agoras with [[millions of people]].
     - [[1m people]] is approximately 2000 [[bolos]] :)
     - call it [[2048]] to make it even ;)
 
