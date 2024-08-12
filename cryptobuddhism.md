@@ -1,0 +1,3 @@
+- an [[idea]].
+  - Or maybe an [[amalgam]] of ideas, but aren't most ideas one of those? As ideas interelate to each other and thus form different level ideas.
+  - I thought of how [[Flancia]] might be referred o as [[Cryptobuddhist]] in the future, possibly at least in two different related meanings.
