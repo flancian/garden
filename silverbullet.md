@@ -1,8 +1,9 @@
 - An [[editor]].
   - [[note taking]] [[agora]]
-  - I like it a lot!
+  - I like it a lot! My favorite accessible client as of [[2024-08]].
   - #go https://silverbullet.md
   - #dev https://github.com/silverbulletmd/silverbullet/issues/934
+  - #git https://github.com/silverbulletmd/silverbullet
 
 ## Getting started
 
