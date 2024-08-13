@@ -1,2 +1,3 @@
 - [[silverbullet]]:
+  - #934 https://github.com/silverbulletmd/silverbullet/issues/934
   - #1010 https://github.com/silverbulletmd/silverbullet/issues/1010
