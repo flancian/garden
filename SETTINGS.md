@@ -2,7 +2,7 @@ This page contains settings for configuring SilverBullet and its plugs. Any chan
 A list of built-in settings [[!silverbullet.md/SETTINGS|can be found here]].
 
 ```yaml
-indexPage: {{today}}
+indexPage: "journal"
 
 libraries:
 - import: "[[!silverbullet.md/Library/Journal/*]]"
