@@ -1,0 +1,4 @@
+- a [[person]].
+    - a.k.a. [[cogito ergo sum]]
+    - #go https://github.com/standardgalactic
+    - interesting [[alphabet]]: https://github.com/standardgalactic/alphabet

@@ -1,0 +1,3 @@
+- a [[repository]].
+  - of [[bugs]] shared by a [[community]] (of practice or otherwise).
+  - e.g. [[go/agora/bugs]]

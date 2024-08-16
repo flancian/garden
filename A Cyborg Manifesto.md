@@ -1,0 +1,5 @@
+- [[AN IRONIC DREAM OF A COMMON LANGUAGE FOR WOMEN IN THE INTEGRATED CIRCUIT]]
+    - :)
+    - #go https://web.archive.org/web/20120214194015/http://www.stanford.edu/dept/HPS/Haraway/CyborgManifesto.html
+    - "A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction. Social reality is lived social relations, our most important political construction, a world-changing fiction. The international women's movements have constructed 'women's experience', as well as uncovered or discovered this [[crucial collective object]]. This experience is a fiction and fact of the most crucial, political kind. Liberation rests on the construction of the consciousness, the imaginative apprehension, of oppression, and so of possibility. The cyborg is a matter of fiction and lived experience that changes what counts as women's experience in the late twentieth century. This is a struggle over life and death, but the boundary between science fiction and social reality is an optical illusion."
+    - by [[Donna Haraway]]

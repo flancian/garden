@@ -3,4 +3,4 @@
   - I love this one though, so I'll try to focus on it next.
   - The starting node for this initial [[demo]] or [[tour]] of the Agora is, believe it or not:
 
--> [[burning chrome]]
+-> [[Agora chapter]], [[Burning Chromium]], [[bug tracker]]

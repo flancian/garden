@@ -1,0 +1,4 @@
+- a [[conversation]].
+    - or many :)
+    - #pull between [[bill anderson]] and [[flancian]]
+    - #go https://bandstands.praxis101.net/labbench/it-is-a-network
