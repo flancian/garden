@@ -3,7 +3,9 @@
   - I am honored to have the opportunity to contribute to it!
 
 ## Gloria
+
 A short preamble.
+
 ```
 Gloria!
 
@@ -13,7 +15,9 @@ Gloria a las maravillas del universo!
 ```
 
 ## Tanka
+
 Meaning, somewhat loosely, a poem with 31 syllables.
+
 ```
 Gone gone,
 gone beyond
@@ -31,7 +35,9 @@ Meditate
 ````
 
 ## Agua
+
 I like to say variations of this while I water the plants.
+
 ```
 Agua, agua, agua!
 
@@ -47,7 +53,9 @@ Luz para los que van como cegados
 ```
 
 ## Lady Burup
+
 Lady Burup is the cat who lives with me and I love her.
+
 ```
 Ay! Quién tuviera:
 los ojos negros de Lady Burup
@@ -67,7 +75,9 @@ Sus rayas bellas!
 ```
 
 ## Las Jaras
+
 I once found this card at the confluence of two rivers and it answered a question.
+
 ```
 Las jaras
 
@@ -83,7 +93,9 @@ Las de Tara.
 ```
 
 ## Struck by lightning
+
 To learn more about our fight against Moloch, consider visiting anagora.org.
+
 ```
 Some days I feel as if I’m struck by lightning;
 
