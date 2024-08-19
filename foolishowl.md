@@ -1,0 +1,5 @@
+- a [[person]].
+  - #go https://social.coop/@foolishowl
+  - in [[social coop]]
+  - [[sysadmin]]:
+    - https://social.coop/@foolishowl/112973647386356400

@@ -1,28 +1,19 @@
-- a [[thing]].
-  - an [[idea]].
-  - a [[project]].
-    - by [[Bouncepaw]]
-    - I am honored to have the opportunity to contribute to.
+- a [[project]].
+  - by [[Bouncepaw]]
+  - I am honored to have the opportunity to contribute to it!
 
-# [[2024-07]]
-
-
-## Agua
-
+## Gloria
+A short preamble.
 ```
-Agua, agua, agua!
-Agua para los sedientos
+Gloria!
 
-Flan para los hambrientos
+Gloria a luz de tu consciencia!
 
-Fuego para los que tienen frío
-
-Luz para los que van como cegados
-
-Ágora para los oprimidos.
+Gloria a las maravillas del universo!
 ```
 
-## Gone
+## Tanka
+Meaning, somewhat loosely, a poem with 31 syllables.
 ```
 Gone gone,
 gone beyond
@@ -39,30 +30,24 @@ go kindly
 Meditate
 ````
 
-## Las Jaras
+## Agua
+I like to say variations of this while I water the plants.
 ```
-Las jaras
+Agua, agua, agua!
 
-Las jaras, qué jaras?
+Agua para los sedientos
 
-Las de Avalokiteshvara
+Flan (o pan) para los hambrientos
 
-Las de Maitreya
+Fuego para los que tienen frío
 
-Las de Tara
-```
+Luz para los que van como cegados
 
-## Gloria
-```
-Gloria, gloria, gloria!
-
-Gloria a luz de tu consciencia
-
-Gloria a las maravillas del universo
-
+Ágora para los oprimidos
 ```
 
-## Burup 59
+## Lady Burup
+Lady Burup is the cat who lives with me and I love her.
 ```
 Ay! Quién tuviera:
 los ojos negros de Lady Burup
@@ -81,15 +66,32 @@ trasnochando.
 Sus rayas bellas!
 ```
 
-## Burup 31
-
+## Las Jaras
+I once found this card at the confluence of two rivers and it answered a question.
 ```
-Bella, muy bella Burup;
-bella muy bella Burup.
+Las jaras
 
-Bella Burup,
-bella Burup.
+Las jaras, qué jaras?
 
-Bella muy bella Burup:
-Sea!
+Las jaras, mis jaras, tus jaras!
+
+Las de Avalokiteshvara;
+
+Las de Maitreya;
+
+Las de Tara.
+```
+
+## Struck by lightning
+To learn more about our fight against Moloch, consider visiting https://anagora.org.
+```
+Some days I feel as if I’m struck by lightning;
+
+I sometimes catch fire.
+
+I hope you know what I mean;
+
+I can’t tell you what to feel.
+
+But one of these days I think we'll slay [[Moloch]].
 ```
