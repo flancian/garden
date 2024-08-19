@@ -1,0 +1,1 @@
+- [[Stapelberg]] told me about the [[plan9 plumber]] today at lunch.
