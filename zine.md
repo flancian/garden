@@ -83,7 +83,7 @@ Las de Tara.
 ```
 
 ## Struck by lightning
-To learn more about our fight against Moloch, consider visiting https://anagora.org.
+To learn more about our fight against Moloch, consider visiting anagora.org.
 ```
 Some days I feel as if I’m struck by lightning;
 
