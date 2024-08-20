@@ -87,7 +87,7 @@ Las de Avalokiteshvara;
 
 Las de Maitreya;
 
-Las de Tara.
+Las de Tara!
 ```
 
 ## Struck by lightning
