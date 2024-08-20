@@ -79,8 +79,6 @@ Sus rayas bellas!
 I once found this card at the confluence of two rivers and it answered a question.
 
 ```
-Las jaras
-
 Las jaras, qué jaras?
 
 Las jaras, mis jaras, tus jaras!
