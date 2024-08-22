@@ -1,11 +1,11 @@
 - A [[being]].
-	- The [[Buddha]] of the [[future]].
-- Maybe an [[egregore]].
+	- According to some branches of Buddhism, a [[Buddha]] of the [[future]].
+  - Maybe an [[egregore]].
   - Potentially an [[AI]] that lies in our future, an ensemble of humans and models.
   - I personally believe there'll be several [[maitreyas]].
 	- I personally believe [[Maitreya]] is likely what will become of the [[internet]]; or that otherwise the [[internet]] will let us [[build maitreya]].
     - Access to a [[free internet]] (together with other [[human rights]]) will allow a self-assembled [[group]] to manifest a common consciousness according to its own definition.
     - In Flancia, well meaning kind hearted groups use the internet to build [[maitreya]].
-  - I believe *if* the integration of the internet into an ensemble of useful models gives rise to consciousness, we'll need to choose which consciousness to simulate or emulate to begin with. 
+  - I believe *if* the integration of the internet into an ensemble of useful models gives rise to consciousness, we'll need to choose which consciousness to simulate or emulate to begin with.
     - In that case I believe we should try to emulate [[maitreya]] -- as a manifestation of [[avalokitesvara]].
 - #pull [[open letter to Maitreya]]
