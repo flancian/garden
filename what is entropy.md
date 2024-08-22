@@ -1,0 +1,3 @@
+- a [[book]].
+  - #go https://math.ucr.edu/home/baez/what_is_entropy.pdf
+  - by [[john carlos baez]]
