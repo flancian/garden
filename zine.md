@@ -56,13 +56,23 @@ Agua, agua, agua!
 
 Agua para los sedientos
 
+Flan!
+
 Flan (o pan) para los hambrientos
+
+Fuego!
 
 Fuego para los que tienen frío
 
+Luz!
+
 Luz para los que van como cegados
 
+Techo!
+
 Techo para los que no tienen casa
+
+Ágora!
 
 Ágora para los oprimidos
 ```
@@ -94,20 +104,23 @@ Sus rayas bellas!
 I once found this card at the confluence of two rivers and it answered a question.
 
 ```
+
+Las jaras:
+
 Las jaras, qué jaras?
 
-Las jaras, mis jaras, tus jaras!
+Mis jaras, tus jaras, las jaras!
 
 Las de Avalokiteshvara;
 
 Las de Maitreya;
 
-Las de Tara!
+Las de Tara.
 ```
 
 ## Struck by lightning
 
-To learn more about our fight against Moloch, consider visiting anagora.org.
+To learn more about our non-violent revolt against Moloch, consider visiting anagora.org.
 
 ```
 Some days I feel as if I’m struck by lightning;
