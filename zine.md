@@ -4,7 +4,7 @@
 
 ## Gloria
 
-A short preamble.
+Un corto preámbulo.
 
 ```
 Gloria!
