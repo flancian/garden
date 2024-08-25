@@ -43,13 +43,13 @@ Agua, agua, agua!
 
 Agua para los sedientos
 
-Pan!
-
-    para los hambrientos
-
 Fuego!
 
     para los que tienen frío
+
+Pan! O flan
+
+    para los hambrientos
 
 Luz!
 
@@ -57,7 +57,7 @@ Luz!
 
 Casa!
 
-    para los que no tienen techo
+    para los sin techo
 
 Ágora!
 
