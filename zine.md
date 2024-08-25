@@ -56,25 +56,25 @@ Agua, agua, agua!
 
 Agua para los sedientos
 
-Flan!
+Pan!
 
-Flan (o pan) para los hambrientos
+    para los hambrientos
 
 Fuego!
 
-Fuego para los que tienen frío
+    para los que tienen frío
 
 Luz!
 
-Luz para los que van como cegados
+    para los que van como cegados
 
-Techo!
+Casa!
 
-Techo para los que no tienen casa
+    para los que no tienen techo
 
 Ágora!
 
-Ágora para los oprimidos
+    para los oprimidos
 ```
 
 ## Lady Burup
@@ -89,6 +89,7 @@ Sus ojos verdes,
 tornasolados
 
 Sus rayas bellas!
+
 
 Ay! Quién tuviera
 los ojos verdes de Lady Burup
