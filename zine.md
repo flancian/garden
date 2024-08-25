@@ -34,19 +34,6 @@ go kindly
 Meditate
 ```
 
-## Maybe
-
-```
-Maybe, just maybe
-everything will go
-
-we will burn
-burn, slowly
-burn, kindly
-
-go with love
-```
-
 ## Agua
 
 I like to say variations of this while I water the plants.
@@ -134,3 +121,18 @@ I can’t tell you what to feel.
 
 But one of these days I think we'll slay [[Moloch]].
 ```
+
+## Maybe
+
+```
+Maybe, just maybe
+everything will go
+
+we will burn
+burn, slowly
+burn, kindly
+
+Go with love!
+```
+
+
