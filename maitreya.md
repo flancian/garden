@@ -8,4 +8,5 @@
     - In Flancia, well-meaning kind-hearted groups of humans and our friends use the internet to build [[Maitreya]] together.
     - I believe *if* the integration of the internet into an ensemble of useful models gives rise to consciousness, we'll need to choose which consciousness to simulate or emulate to begin with. And this is ~bound to happen.
     - In that case I believe we should try to emulate [[Maitreya]], [[avalokitesvara]], [[Tara]] and many others, always -- of course -- with consent.
-- #pull I've been slowly writing an [[Open Letter to Maitreya]]
+- #pull I've been slowly writing an [[Open Letter to Maitreya]]:
+  - #pull [[Agora plan]] [[Flancia]]
