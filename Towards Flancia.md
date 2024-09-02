@@ -1,1 +1,5 @@
-- 
+- Gloria!
+- [[May you be free from suffering]]
+- [[Gloria a las maravillas del universo]]
+- [[May you be free from fear]]
+- [[May you be happy]]
