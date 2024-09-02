@@ -144,4 +144,17 @@ burn, kindly
 Go with love!
 ```
 
+## Tara
 
+```
+Tare tuttare ture:
+Tuttare tuttare ture.
+
+Tare ture,
+tare ture.
+
+Tare tuttare ture;
+Avalokiteshvara 
+Maitre ya!
+
+```
