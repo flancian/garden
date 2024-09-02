@@ -1,5 +1,7 @@
-- Gloria!
-- [[May you be free from suffering]]
-- [[Gloria a las maravillas del universo]]
-- [[May you be free from fear]]
-- [[May you be happy]]
+- #epigraphs
+  - [[Gloria]]!
+    - [[May you be free from suffering]]
+    - [[Gloria a las maravillas del universo]]
+    - [[May you be free from fear]]
+    - [[Gloria a la luz de la consciencia]]
+  - [[May you be happy]]
