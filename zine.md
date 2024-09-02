@@ -110,9 +110,9 @@ Mis jaras, tus jaras, las jaras!
 
 Las de Avalokiteshvara,
 
-las de Maitreya,
+Maitreya,
 
-y Tara.
+y Tara!
 ```
 
 ## Struck by lightning
