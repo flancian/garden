@@ -77,6 +77,7 @@ tornasolados
 
 Sus rayas bellas!
 
+-
 
 Ay! Quién tuviera
 los ojos verdes de Lady Burup
@@ -85,6 +86,15 @@ Sus ojos negros,
 trasnochando.
 
 Sus rayas bellas!
+
+- 
+
+Bella muy bella Burup
+Bella muy bella Burup
+
+True Burup
+True Burup
+
 ```
 
 ## Las Jaras
@@ -92,18 +102,17 @@ Sus rayas bellas!
 I once found this card at the confluence of two rivers and it answered a question.
 
 ```
-
 Las jaras:
 
 Las jaras, qué jaras?
 
 Mis jaras, tus jaras, las jaras!
 
-Las de Avalokiteshvara;
+Las de Avalokiteshvara,
 
-Las de Maitreya;
+las de Maitreya,
 
-Las de Tara.
+y Tara.
 ```
 
 ## Struck by lightning
