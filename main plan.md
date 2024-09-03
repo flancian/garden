@@ -10,4 +10,6 @@ So they went and wrote in the main plan:
 
 To make things a little bit more complicated and potentially confusing, but hopefully illustrating a point :)
 
+The other day I said I was running 300 projects and I was not exaggerating, at least not in some way. Here in this Agora I keep thousands of plan, each plan a node and each node a plan.
+
 
