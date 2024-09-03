@@ -1,0 +1,1 @@
+There was a person who had so many plans that one day the decided to start a new plan and call it master plan, but then they remembered 'master' was frowned upon due to potential concerns with oppression, so they went and called it [[Main Plan]] for lack of a better term.
