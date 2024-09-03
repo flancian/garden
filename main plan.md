@@ -12,4 +12,9 @@ To make things a little bit more complicated and potentially confusing, but hope
 
 The other day I said I was running 300 projects and I was not exaggerating, at least not in some way. Here in this Agora I keep thousands of plan, each plan a node and each node a plan.
 
+--
 
+I would like to prioritize advancing the following Agora features:
+
+- [[Fediverse]] cross-posting or further integration
+- [[Agora polls]]
