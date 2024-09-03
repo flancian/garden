@@ -1,1 +1,2 @@
 - an [[intention]].
+  - [[Flow]] [[for the benefit of all beings]]
