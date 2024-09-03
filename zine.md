@@ -170,7 +170,8 @@ Las de Tara
 Las de Maitreya!
 
 ## Rainbow folding
-Like a [[rainbow folding]],
+We will be
+like a [[Rainbow folding]],
 like [[Maitreya flowing]]
 
 ## 
