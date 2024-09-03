@@ -11,3 +11,4 @@
   - As we [[fork]],
     - we'll [[glow]].
   - Like a [[rainbow folding]]?
+- As of [[2024-08]] I have kindly acquired the rights to publish this track in the [[Agora of Flancia]] and plan to work on embedding a player to begin with :)

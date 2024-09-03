@@ -171,7 +171,7 @@ Las de Maitreya!
 
 ## Rainbow folding
 We will be
-like a [[Rainbow folding]],
+like a [[rainbow folding]],
 like [[Maitreya flowing]]
 
 ## 
