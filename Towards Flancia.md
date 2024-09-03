@@ -1,4 +1,4 @@
-- [[Flancia]] is a book with many #epigraphs; each node 
+- [[Flancia]] is a book with many #epigraphs; each node in the [[Agora]] can be seen as a possible one.
   - [[Gloria]]!
     - [[May you be free from suffering]]
   - [[Gloria a las maravillas del universo]]
