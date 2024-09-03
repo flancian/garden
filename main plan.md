@@ -6,4 +6,8 @@ There was a person who had so many plans that one day the decided to start a new
 So they went and wrote in the main plan:
 
 - #push [[plan]]
-    - This is my main, [[root plan]] now.
+    - This is my main plan, the [[root]] of that tree now you could say.
+
+To make things a little bit more complicated and potentially confusing, but hopefully illustrating a point :)
+
+
