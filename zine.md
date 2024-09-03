@@ -159,12 +159,13 @@ Maitre ya!
 
 ```
 
-# Carcaj
+# Short pairs
 
+## Carcaj
 Llevo en mi carcaj dos jaras:
 #Flancia y el [[Agora]]!
 
-# Rainbow folding
+## Rainbow folding
 Like a [[rainbow folding]],
 like [[Maitreya flowing]]
 
