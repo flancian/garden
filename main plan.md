@@ -18,3 +18,5 @@ I would like to prioritize advancing the following Agora features:
 
 - [[Fediverse]] cross-posting or further integration
 - [[Agora polls]]
+    - [[Oauth]] 
+- [[Navigation panel]] and more integrations.
