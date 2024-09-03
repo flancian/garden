@@ -1,1 +1,5 @@
 There was a person who had so many plans that one day the decided to start a new plan and call it master plan, but then they remembered 'master' was frowned upon due to potential concerns with oppression, so they went and called it [[Main Plan]] for lack of a better term.
+
+- #pull [[plan]] [[agora plan]] [[todo]]
+
+The previous sentence means that the Agora you are reading this will try to include in this context also the content of the topics mentioned.
