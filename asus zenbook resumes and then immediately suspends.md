@@ -1,0 +1,2 @@
+- a [[problem]].
+  - with laptop [[nostromo]], triggering about once every two weeks
