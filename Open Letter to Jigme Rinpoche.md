@@ -11,19 +11,12 @@ As some of my fellow practitioners may have noticed, I was unable to recite the 
 
 I have been reading your book and researching the [[Karma Kagyu]] school and the [[Karmapa]]. I find it inspiring how the Karmapa is engaged in vegetarianism and environmentalism. I am interested also in learning more about the efforts of [[Shamar Rinpoche]] in the field of [[Buddhism and democracy]], which is one of my greatest interests.
 
-## Questions
-
 I have some questions that arose during the cycle of talks and I wanted to take the opportunity to ask, only if you or someone in your organization have the time to entertain them (no problem if not, of course):
 
 - During the Dharma talks, you gave the example of visiting a market to notice the suffering of living beings and practice compassion. When doing so, how can one maximize the chances of practicing skilfull/right action, given there are many possible ways to try to help, and the world is so complex and inter-dependent? For example one could try to free all animals in the market; or convince the traders to seek other professions; or go home and join organizations for the welfare of animals, then dedicate a significant part of one's efforts to them. How can one try to make the right choice, when there are so many options and a matching opportunity cost?
 - Do you know the work of Monk Taixu (1890-1947), in particular as it relates to the forming of great groups of Bodhisattavas to try to improve the world in a coordinated way and achieve a Pure Land in the Human Realm?
-- Are there any communities for Bodhisattvas that you could recommend interested practitioners join, in particular maybe those online in nature?
+- Are there any communities for Bodhisattvas that you could recommend interested practitioners join, in particular maybe online in nature? I ask this because I believe in the potential of the internet to maximize the benefit of Buddhist practice on a global scale, and if such a platform does not yet exist I could contribute some of my effort to try to build it (I am a Staff Reliability Engineer, meaning an IT/computer person, and could help set up such a platform if needed).
 
-## How to help
-
-
-I would like to tell you a bit more about me. I am a Staff Reliability Engineer, meaning an IT/computer person.
-
-(...)
+Thank you again for your teaching and your direction.
 
 May you be happy! May you be free from suffering! May you continue to shine for the benefit of beings!
