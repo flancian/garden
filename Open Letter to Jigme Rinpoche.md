@@ -5,4 +5,4 @@ Dear Jigme Rinpoche,
 
      Thank you for your teaching and the light of your consciousness which you kindly share, for the [[Dharma]] as you communicated it to me and others live and in your books, and for your patience as you read this letter. Please take only the time you can afford to read this, I understand if you are busy.
 
-     My name is Eduardo Ivanec. I come from Argentina, and have been living, working and practicing Buddhism in Switzerland for years.
+     My name is Eduardo Ivanec. I am originally from Argentina, and have been living and  working and practicing Buddhism in Switzerland for years. The cycle of talks graciously hosted by 
