@@ -12,3 +12,5 @@ Dear Jigme Rinpoche,
     During my practice, I usually 
 
     I have been reading about the [[Karma Kagyu]] school and the [[Karmapa]].
+
+    May you be happy! May you be free from suffering! May you shine for the benefit of all beings if you want to!
