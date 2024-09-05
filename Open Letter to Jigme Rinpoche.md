@@ -11,4 +11,6 @@ Dear Jigme Rinpoche,
 
     I have been reading about the [[Karma Kagyu]] school and the [[Karmapa]]. I find it inspiring how the Karmapa is engaged in vegetarianism and environmentalism, and the efforts of [[Shamar Rinpoche]] in the field of [[Buddhism and democracy]] seem very much aligned with my values.
 
+    I would like to tell you a bit more about me. I am a Staff Reliability Engineer, meaning an IT/computer person.
+
     May you be happy! May you be free from suffering! May you shine for the benefit of beings!
