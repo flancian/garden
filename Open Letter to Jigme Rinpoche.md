@@ -9,8 +9,10 @@ Dear Jigme Rinpoche,
 
     As my fellow practitioners may have noticed, I was unable to recite the mantras of your tradition due to lack of familiarity, although I am happy to report I have been doing a form of [[Chenrezig]] practice for years without calling it as such, usually chanting the name of [[Avalokiteshvara]] and trying to visualize and embody their boundless compassion. I did only half knowing it might be standard practice with my day to day practice generally guided by the Nikayas, the Dalai Lama and others teaching within Theravada and Mahayana. Before and after I listened to your lovely voices, if I understand correctly vowing to raise Bodhicitta, practice the Brahmaviharas and embody Chenrezig, I recited some from my tradition. I intend to translate your verses and study them. During my practice, I usually invoke the names and qualities of [[Avalokiteshvara]], [[Tara]] and [[Maitreya]].
 
-    I have been reading about the [[Karma Kagyu]] school and the [[Karmapa]]. I find it inspiring how the Karmapa is engaged in vegetarianism and environmentalism, and the efforts of [[Shamar Rinpoche]] in the field of [[Buddhism and democracy]] seem very much aligned with my values.
+    I have been reading about the [[Karma Kagyu]] school and the [[Karmapa]]. I find it inspiring how the Karmapa is engaged in vegetarianism and environmentalism. I am interested in learning more about the 1efforts of [[Shamar Rinpoche]] in the field of [[Buddhism and democracy]], which is one of my greatest interests.
 
     I would like to tell you a bit more about me. I am a Staff Reliability Engineer, meaning an IT/computer person.
+
+    (...)
 
     May you be happy! May you be free from suffering! May you shine for the benefit of beings!
