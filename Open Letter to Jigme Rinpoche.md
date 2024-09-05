@@ -1,5 +1,7 @@
 - a [[letter]].
     - I wrote on [[2024-09-05]] in the [[Agora of Flancia]] just before the the cycle of lectures by [[Jigme Rinpoche]] came to an end.
+    - #go https://docs.google.com/document/d/1OsfIa7voIXEh8PevwXM7MuM1gRwWhervBpfzPvak2jM/edit
+      - Is the Google document I printed.
 
 Dear [[Lama Jigme Rinpoche]],
 
