@@ -16,8 +16,8 @@ I have been reading your book and researching the [[Karma Kagyu]] school and the
 I have some questions that arose during the cycle of talks and I wanted to take the opportunity to ask, only if you or someone in your organization have the time to entertain them (no problem if not, of course):
 
 - During the Dharma talks, you gave the example of visiting a market to notice the suffering of living beings and practice compassion. When doing so, how can one maximize the chances of practicing skilfull/right action, given there are many possible ways to try to help, and the world is so complex and inter-dependent? For example one could try to free all animals in the market; or convince the traders to seek other professions; or go home and join organizations for the welfare of animals, then dedicate a significant part of one's efforts to them. How can one try to make the right choice, when there are so many options and a matching opportunity cost?
-- Do you know the work of Monk Taixu (1890-1947), in particular as it relates to the forming groups of great numbers of Bodhisattavas to try to improve the world in a coordinated way?
-- Are there any practicing communities for Bodhisattvas that you could recommend I/we join, in particular some online and international in nature?
+- Do you know the work of Monk Taixu (1890-1947), in particular as it relates to the forming of great groups of Bodhisattavas to try to improve the world in a coordinated way and achieve a Pure Land in the Human Realm?
+- Are there any communities for Bodhisattvas that you could recommend interested practitioners join, in particular maybe those online in nature?
 
 ## How to help
 
