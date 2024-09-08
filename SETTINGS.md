@@ -1,9 +1,11 @@
-This page contains settings for configuring SilverBullet and its plugs. Any changes outside of the yaml block will be overwritten.
-A list of built-in settings [[!silverbullet.md/SETTINGS|can be found here]].
+#meta
+
+This page contains settings for configuring SilverBullet. A list of built-in settings [[!silverbullet.md/SETTINGS|can be found here]].
+
+To update `libraries` specified here: {[Libraries: Update]}
 
 ```yaml
-indexPage: "journal"
-
+indexPage: index
 libraries:
-- import: "[[!silverbullet.md/Library/Journal/*]]"
+- source: "[[!silverbullet.md/Library/Core/*]]"
 ```
