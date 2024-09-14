@@ -1,4 +1,4 @@
 - The [[procrastinator in recovery]] says often :)
+  - (Back here after months.)
 - I've seen many blogs end with this phrase -- often as part of an announcement of an intent to return to form after some prolonged absence. Then, silence.
   - But sometimes one is truly back, like today on [[2024-09-14]] as I write these lines.
-
