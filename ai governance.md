@@ -1,4 +1,7 @@
 - an [[appeal]].
   - For more [[AI]] [[Governance]] in least two interesting meanings:
     - That of governance tools that are informed and enabled by [[AI]].
-    - That of governance of the field of [[AI]], in particular as it intersects with the [[Commons]] and [[digital sovereignity]] as it applies to communities.
+    - That of governance of the field of [[AI]], in particular as it intersects with:
+      - the [[Commons]]
+      - [[digital sovereignity]] as it applies to communities.
+      - [[liquid democracy]]
