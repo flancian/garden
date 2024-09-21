@@ -1,0 +1,4 @@
+- a [[person]].
+  - [[friend]]
+  - otro [[Eduardo]] de [[Argentina]]! :)
+  - #pull [[social coop]] [[may first]] [[ekumen]]
