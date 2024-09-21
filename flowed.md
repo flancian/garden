@@ -12,3 +12,5 @@ Working, believe it or not, in [[burning chrome]] and related -- framing it as p
 [[2024-09-21]] here I am again, just having come back from [[Mallorca]].
 
 As I write this I'm sitting in the balcony. [[Lady Burup]] is sitting with me on the chair in a space efficient way, with her warmth on my lower back as I sit on the green chair facing southwest.
+
+On my right, the music coming from inside and [[Zelazny]] book four.
