@@ -1,0 +1,4 @@
+- I read his [[Greek Myths]] and [[I, Claudius]] when I was a kid.
+- I read [[Seven Years in New Crete]] a few years back.
+- I visited his house on [[2024-09-18]] as we passed through [[Deià]] with [[AG]] :)
+  - I hope to be back soon.
