@@ -1,0 +1,4 @@
+- an [[appeal]].
+  - For [[AI]] [[Governance]] in two interesting meanings:
+    - That of governance tools that are informed and enabled by [[AI]].
+    - 
