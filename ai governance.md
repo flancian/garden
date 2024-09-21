@@ -5,3 +5,5 @@
       - the [[Commons]]
       - [[digital sovereignity]] as it applies to communities.
       - [[liquid democracy]]
+- part of [[open letter to elon musk]], [[open letter to google]] and others.
+  - "stop 
