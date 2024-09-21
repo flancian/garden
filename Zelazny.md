@@ -1,3 +1,3 @@
 - a [[friend]].
   - through [[time]] and [[space]], like many other writers I've loved, usually parasocially but in any case with good intentions :)
-- an [[open letter]].
+  - #pull [[Lord of Light]] [[Chronicles of Amber]]
