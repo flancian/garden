@@ -1,3 +1,4 @@
 - a [[friend]].
   - through [[time]] and [[space]], like many other writers I've loved, usually parasocially but in any case with good intentions :)
   - #pull [[Lord of Light]] [[Chronicles of Amber]]
+  - [[37]] as he was born in [[1937]].
