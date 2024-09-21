@@ -1,4 +1,4 @@
 - an [[appeal]].
-  - For [[AI]] [[Governance]] in two interesting meanings:
+  - For more [[AI]] [[Governance]] in least two interesting meanings:
     - That of governance tools that are informed and enabled by [[AI]].
-    - 
+    - That of governance of the field of [[AI]], in particular as it intersects with the [[Commons]] and the 
