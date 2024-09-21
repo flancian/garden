@@ -1,0 +1,4 @@
+- a [[place]].
+  - #pull [[Majorca]]
+- a [[trip]].
+  - [[2024]]
