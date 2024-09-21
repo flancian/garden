@@ -1,4 +1,5 @@
 - a [[place]].
   - #pull [[Majorca]]
+  - #pull [[Robert Graves]] lived, wrote and died in [[Deià]]
 - a [[trip]].
   - [[2024]]
