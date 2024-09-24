@@ -14,4 +14,12 @@ Maybe Gebet is offering? Checking. Ah no, it's [[prayer]]. Well, I don't normall
 --
 
 Wow, this got real. The next two pages have 6-7 sentences each, and three illustrations overall.
-2.
+
+2. Allgegenwärtiger, grosser Dordje Tschang, denken an uns,
+  Tilopa "Reine Weisheit", denke an uns,
+  Naropa "Verwirklichung von Gewahrsein", denke an uns,
+  Marpa "Verstandnis der Lehre" (...)
+
+There's eight more pages of this (!). It turns out this is the part that is all about the lineage of teaching. I was surprised at first that it didn't start with the Buddha, but then I realized this is the preliminaries.
+
+--
