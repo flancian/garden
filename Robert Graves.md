@@ -3,4 +3,4 @@
 - I visited his house on [[2024-09-18]] as we passed through [[Deià]] with [[AG]] :)
   - It made me remember [[Robert Graves]] and my love for him.
   - Which led me to think of reading more of his.
-  - I hope to be back soon with more time :)
+  - I hope to be back soon with more time :) We loved the area and [[Valldemossa]] 
