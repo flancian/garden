@@ -1,2 +1,3 @@
 - a [[book]].
+  - Or booklet?
   - I got in [[Dhagpo Männedorf]].
