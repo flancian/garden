@@ -2,6 +2,7 @@
   - by [[Bouncepaw]]
   - I am honored to have the opportunity to contribute to it!
   - #go https://www.overleaf.com/project/6692a0fa2199476302a29b42
+  - The following is a snapshot of some of the fragments I contributed; the source of truth now lives in [[Overleaf]] as of [[2024-09-28]].
 
 ## Gloria
 
