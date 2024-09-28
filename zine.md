@@ -1,6 +1,7 @@
 - a [[project]].
   - by [[Bouncepaw]]
   - I am honored to have the opportunity to contribute to it!
+  - #go https://www.overleaf.com/project/6692a0fa2199476302a29b42
 
 ## Gloria
 
