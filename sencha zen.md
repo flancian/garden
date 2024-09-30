@@ -1,1 +1,2 @@
-- Perhaps my favorite [[tea]]
+- Perhaps my [[favorite tea]]
+  - Along with [[gyokuro]] of whichever kind I can find
