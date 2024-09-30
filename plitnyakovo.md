@@ -1,1 +1,1 @@
-- I visited [[Plitnyakovo]]
+- I visited [[Plitnyakovo]] for the first time today on [[2024-09-30]].
