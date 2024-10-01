@@ -1,1 +1,2 @@
 - Something I thought about on [[2024-09-05]] :)
+- Something I did on [[2024-09-30]] during a call with [[Ishmael]] :)
