@@ -1,4 +1,6 @@
 - a [[project]].
   - with [[edumerco]] :)
+  - #git #go https://codeberg.org/ekumen
 - a [[concept]].
   - from [[Ursula K. Le Guin]]'s work
+  -
