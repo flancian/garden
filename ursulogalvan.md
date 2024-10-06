@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[friend]].
+  - https://github.com/flancian/agora/issues/19
