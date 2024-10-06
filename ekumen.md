@@ -2,6 +2,5 @@
   - with [[edumerco]] :)
   - #go https://codeberg.org/ekumen
   - #git https://codeberg.org/ekumen/ekumen
-- a [[concept]].
-  - from [[Ursula K. Le Guin]]'s work
-  -
+- a [[coalition]].
+  - in some of [[Ursula K. Le Guin]]'s work
