@@ -1,2 +1,3 @@
 - #go https://www.youtube.com/watch?app=desktop&v=F-QA2rkpBSY
-  - according to some :)
+  - According to some :)
+  - An [[Albert A. Bartlett]] lecture
