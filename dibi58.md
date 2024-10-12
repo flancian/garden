@@ -1,2 +1,4 @@
 - a [[person]].
   - [[friend]] in the [[Fediverse]]
+  - @dibi58@this.mouse.rocks
+  - #go https://this.mouse.rocks/@dibi58
