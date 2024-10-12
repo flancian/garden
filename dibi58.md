@@ -2,3 +2,5 @@
   - [[friend]] in the [[Fediverse]]
   - @dibi58@this.mouse.rocks
   - #go https://this.mouse.rocks/@dibi58
+  - seems to be into [[OpenCDE]]
+  - recommended [[the most important video you'll ever see]]
