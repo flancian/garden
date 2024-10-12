@@ -1,0 +1,2 @@
+- a [[person]].
+  - [[friend]] in the [[Fediverse]]
