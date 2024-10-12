@@ -1,0 +1,4 @@
+- one iteration:
+  - when I die
+  - [[take my body to the forest]]
+  - and let the [[mycorrhiza]] take me
