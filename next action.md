@@ -27,3 +27,11 @@
   - #push [[social coop]]
     - read technical documentation as per the blocks pushed
     - follow up on [[missed registrations]] and opening up invites with the community
+
+--
+
+Here again on [[2024-10-12]]. My next actions are:
+
+- [ ] experiment with Agora UI w.r.t. stressing the place and action components.
+- [ ] maybe make agor.ai work (the root Agora for that network/domain)
+- [ ] write to Maitreya and others
