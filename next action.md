@@ -36,3 +36,5 @@ Here again on [[2024-10-12]]. My next actions are:
 - [ ] maybe make agor.ai work (the root Agora for that network/domain)
 - [ ] write to Maitreya and others
 - [ ] I still like that [[CHF]] idea
+- [ ] fix [[org mode]] e.g. [[@jakeisnt]] garden
+  - update orgora?
