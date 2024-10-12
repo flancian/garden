@@ -35,3 +35,4 @@ Here again on [[2024-10-12]]. My next actions are:
 - [ ] experiment with Agora UI w.r.t. stressing the place and action components.
 - [ ] maybe make agor.ai work (the root Agora for that network/domain)
 - [ ] write to Maitreya and others
+- [ ] I still like that [[CHF]] idea
