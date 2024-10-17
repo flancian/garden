@@ -1,0 +1,2 @@
+- [[E. P.]] told me about it.
+  - On [[2024-10-17]]
