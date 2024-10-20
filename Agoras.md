@@ -1,5 +1,6 @@
-- a [[list]].
-  - Places known to be an [[Agora]] as per the definition of [[this Agora]].
+- The Agora of Flancia is but one Agora.
+  - that contains a [[list]] :)
+  - These are places known to be an [[Agora]] as per the definition of [[this Agora]] and our friends.
   - [[Agoras of the past]]
   - [[Agoras of the present]]
   - [[Agoras of the future]]
