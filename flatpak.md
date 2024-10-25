@@ -20,5 +20,9 @@ Thank you for your services in any case :)
 
 Oh, dear Flatpak:
 
-What I said but forget about beta channel, what I actually want is the newest version available([...](....md))
+What I said but forget about beta channel, what I actually want is the newest version available.
+
+--
+
+Also if you could make [[run]] support the same non-fully-qualified names you accept for [[install]] that would be great! :)
 
