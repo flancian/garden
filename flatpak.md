@@ -20,5 +20,5 @@ Thank you for your services in any case :)
 
 Oh, dear Flatpak:
 
-([...](....md))
+What I said but forget about beta channel, what I actually want is the newest version available([...](....md))
 
