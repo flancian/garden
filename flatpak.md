@@ -7,3 +7,11 @@
     - By default flatpak apps are heavily sandboxed to the point they can't access files in your home directory.
       - That's... alright I guess if you care about security that much, but a bit of an unfriendly/unexpected user experience. It made me feel I was using a phone and not a "proper" computer I control.
       - Thankfully this led me to discover [[flatseal]], which is actually a great UI to manage sandbox permissions of all kinds per-app. I flipped the right access, restarted projectm, and I was able to load presents from my home directory :)
+
+--
+
+Oh, dear Flatpak:
+
+How many times do I have to tell you yes when you ask for every operation? Just make it so if you can, and go beta channel by default.
+
+Thank you for your services in any case :)
