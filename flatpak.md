@@ -15,3 +15,10 @@ Oh, dear Flatpak:
 How many times do I have to tell you yes when you ask for every operation? Just make it so if you can, and go beta channel by default.
 
 Thank you for your services in any case :)
+
+--
+
+Oh, dear Flatpak:
+
+([...](....md))
+
