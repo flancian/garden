@@ -1,3 +1,5 @@
 - a [[video]].
+  - which came first, [[rain]] or [[forests]]?
+    - both -- just as the Buddha would say actually, because of [[interbeing]] :)
+    - this happens a lost in ecosystems.
   - #go https://www.youtube.com/watch?v=Y3OWgb0Bv-A
-  - [[forests]] or [[clouds]]?
