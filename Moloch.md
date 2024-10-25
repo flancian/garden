@@ -40,4 +40,4 @@ How we will do this is the recurring topic in these letters, in these [[fragment
 
 --
 
-Back here on [[2024-10-25]]. I still think of [[Moloch]] often, at work and in daily life. I'm not
+Back here on [[2024-10-25]]. I still think of [[Moloch]] often, at work and in daily life. I feel like I've lost some battles this year maybe, or I haven't made as much progress as I 
