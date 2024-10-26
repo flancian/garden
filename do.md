@@ -19,15 +19,19 @@
         - this refers to /settings which has a toggle
         - hmm, maybe I should just embed the settings page in the burger. that also frees up /settings for the actual node about [[settings]] :)
         - I already have the burger menu working in a branch, which is nice
-      - [ ] implement a toggle for it in a burger menu is next :)
+        - [ ] implement a toggle in the burger menu :)
 		- [ ] implement [[auto push]]
 			- probably requires [[agora protocol parsing]] to make efficient/reasonable
-		- [ ] client side pulling
+      - ...I wrote at some point in time. Now it's implemented, both when you say #push [[example]] and when you use a colon.
+      - So I'll think about it but maybe this is done-for-now.
+		- [x] client side pulling
 			- [x] done for: mastodon, twitter, wikipedia
-			- [ ] need to test general URL pulling, see how many sites allow iframes
-				- [ ] test with flancia.org
+			- [x] need to test general URL pulling, see how many sites allow iframes
+				- [x] test with flancia.org
+        - This is done :)
 		- improve [[agora graphs]]
 			- I like what logseq does: show link direction as particles. push/pull could be different particles. hmm. particle diagrams. check out [[feynman]] for inspiration?
+      - this is still a good idea honestly, and I always want to work on graphs
 			- could get inspiration from some diagrams in [[a rosetta stone]]
 		- [[wikilinks everywhere]] -> [[agora ext]]
 			- I really want to move wikilinking to on-demand (push button/ctrl-shift-l) or cronjob-like behaviour but right now it just wikilinks everything every time you click, and some sites break
