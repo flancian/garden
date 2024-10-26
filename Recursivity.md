@@ -1,0 +1,4 @@
+- It turns out that recursivity in computation is expensive. Who would have thought? :)
+  - I crashed [[nostromo]] again after recording too much activity on it.
+  - I know for a fact that running screenshare/vnc on top of the normal workload is quite expensive for the laptop I'm running, and sometimes it overheats.
+  - Focusing the computer into itself, as it happens when I present my screen or use [[portal]] in this computer, seems to add computational load as well. I wonder about the complexity of encoding recursive streams like this; would it make any difference that the image being encoded is recursive? I guess depending on the algorithms used, it could.
