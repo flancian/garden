@@ -9,7 +9,10 @@
 		- I need to just set a pomodoro and do this, but I feel like running the agora at low slo is OK. It's supposed to rely on distribution later on for reliability gains.
 		- Doesn't really apply as an argument to [[moa]] though -- although for [[moa]] we have [[sentry]] set up so that seems reasonable.
 			- [ ] set up [[probing]] for [[moa]]
+        - -> As of 2024 moa is no longer supported, we shut it down when Musk closed down the API. I intend to bring it back, maybe for [[Fediverse]] <-> [[Bluesky]] -- but [[Ryan Barrett]] solved that with [[Bridgy Fed]]. So now I'm back to trying to make it work for Twitter again, even if it means paying, and running an instance for a closely knit community.
 			- [ ] set up [[probing]] for [[anagora]]
+        - Hmm, I should still do this :)
+        - I also need to do something similar for [[social coop]] ideally, so maybe I could try to solve both at a time.
 	- [[push]] [[agora]]
 		- [ ] fix toggle switch for [[auto pull]]
 		- [x] implement [[auto pull]]
