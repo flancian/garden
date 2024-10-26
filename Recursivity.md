@@ -1,3 +1,4 @@
+- Thank you [[Douglas Hofstadter]]!
 - It turns out that recursivity in computation is expensive. Who would have thought? :)
   - I crashed [[nostromo]] again after recording too much activity on it.
   - I know for a fact that running screenshare/vnc on top of the normal workload is quite expensive for the laptop I'm running, and sometimes it overheats.
