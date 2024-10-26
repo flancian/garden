@@ -16,6 +16,7 @@
 	- [[push]] [[agora]]
 		- [ ] fix toggle switch for [[auto pull]]
 		- [x] implement [[auto pull]]
+      - implement a toggle for it in a burger menu is next :)
 		- [ ] implement [[auto push]]
 			- probably requires [[agora protocol parsing]] to make efficient/reasonable
 		- [ ] client side pulling
