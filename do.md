@@ -14,9 +14,12 @@
         - Hmm, I should still do this :)
         - I also need to do something similar for [[social coop]] ideally, so maybe I could try to solve both at a time.
 	- [[push]] [[agora]]
-		- [ ] fix toggle switch for [[auto pull]]
 		- [x] implement [[auto pull]]
-      - implement a toggle for it in a burger menu is next :)
+      - [ ] fix toggle switch for [[auto pull]]
+        - this refers to /settings which has a toggle
+        - hmm, maybe I should just embed the settings page in the burger. that also frees up /settings for the actual node about [[settings]] :)
+        - I already have the burger menu working in a branch, which is nice
+      - [ ] implement a toggle for it in a burger menu is next :)
 		- [ ] implement [[auto push]]
 			- probably requires [[agora protocol parsing]] to make efficient/reasonable
 		- [ ] client side pulling
