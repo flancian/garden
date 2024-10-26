@@ -1,3 +1,3 @@
 - an [[app]].
   - My favorite [[matrix]] client for desktop as of [[2024-10-26]].
-  - [[C++]]] and [[QT]] IIUC.
+  - [[C++]] and [[QT]] IIUC, very snappy!
