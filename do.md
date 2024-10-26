@@ -1,7 +1,7 @@
 - a [[list]].
 	- [[irregular]].
-		- of my [[intents]]
-		- [[pull]] [[intent]] [[later]] [[todo]] [[now]] [[next]] [[some day]] 
+		- An always incomplete collection of my [[intents]] :)
+		- #pull [[todo]] [[now]] [[next]] [[some day]] 
 	- [[meditate]] now.
 	- process inbox (pushes to this node).
 	- configure [[probing]]
