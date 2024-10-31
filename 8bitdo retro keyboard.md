@@ -1,2 +1,4 @@
 - I like it a lot, although updating firmware (for solving bluetooth connectivity issues, thankfully relatively optional as it has other connectivity options) is a bit of a mess.
   - #go https://ladis.cloud/blog/posts/firmware-update-8bitdo.html
+    - Got me a firmware file, but unfortunately [[fwupdmgr]] doesn't really support the keyboard.
+    - Device ID is 61 FWIW.
