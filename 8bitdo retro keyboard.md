@@ -1,0 +1,2 @@
+- I like it a lot, although updating firmware (for solving bluetooth connectivity issues, thankfully relatively optional as it has other connectivity options) is a bit of a mess.
+  - #go https://ladis.cloud/blog/posts/firmware-update-8bitdo.html
