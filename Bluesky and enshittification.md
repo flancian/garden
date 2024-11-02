@@ -1,0 +1,1 @@
+- #go https://pluralistic.net/2024/11/02/ulysses-pact/
