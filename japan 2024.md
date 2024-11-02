@@ -6,3 +6,4 @@
   - 16-18 osaka <- yo?
   - 18-22 tokyo <- yo?
 - -> San Francisco 9-13?
+  - I might be able to make it work!
