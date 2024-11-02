@@ -1,0 +1,6 @@
+- 7-12 tokyo
+- 12-13 kanazawa
+- 13-14 osaka
+- 14-16 hiroshima
+- 16-18 osaka <- yo?
+- 18-22 tokyo <- yo?
