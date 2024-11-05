@@ -1,0 +1,4 @@
+- a [[hackspace]] :)
+  - #yt https://www.youtube.com/c/musichackspace
+  - #go https://musichackspace.org/
+  - [[billy smith]] told me about it
