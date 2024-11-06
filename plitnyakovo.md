@@ -1,2 +1,3 @@
 - I visited [[Plitnyakovo]] for the first time today on [[2024-09-30]].
 - As of [[2024-10-19]] I'm thinking of visiting Plitnyakovo again.
+- 
