@@ -1,0 +1,7 @@
+- I want to [[collimate]] my reflector telescope for the first time; these are some notes taken while doing that.
+- I got two tools for this purpose:
+  - a [[cheshire]] eyepiece
+  - a laser collimator
+- I first put the cheshire eyepiece and I saw something that was clearly not aligned (that's good, that's why we're here).
+  - At first glance I'm unsure if I'm supposed to align first the overall picture (guided by the 'crosshairs' of the secondary mirror I can see) or align the image within the secondary mirror.
+  - It is hard to explain what I'm seeing without a drawing, it is really quite complex. I guess this is why collimation guides are a thing.
