@@ -5,4 +5,4 @@
 	- `ctrl-b` is the default command combination but I more often use `ctrl-a`, after [[screen]], and `ctrl-v` in second-level terminals.
 		- I'm thinking of just using `ctrl-b` everywhere as that way I don't need to do configuration in every new host.
 	- `ctrl-b w` to list windows.
-  - `tmux capture-pane -p -S- > /tmp/output.txt` 
+  - `tmux capture-pane -p -S- > /tmp/output.txt` dumps the full scrollback of the current pane to a temp file. I've tried copying the scrollback fully in other ways... this is the one that worked for me.
