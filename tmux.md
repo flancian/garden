@@ -5,3 +5,4 @@
 	- `ctrl-b` is the default command combination but I more often use `ctrl-a`, after [[screen]], and `ctrl-v` in second-level terminals.
 		- I'm thinking of just using `ctrl-b` everywhere as that way I don't need to do configuration in every new host.
 	- `ctrl-b w` to list windows.
+  - `tmux capture-pane -p -S- > /tmp/output.txt` 
