@@ -1,0 +1,3 @@
+- a [[person]].
+  - Interested in [[public social media]]
+  - #go https://www.uu.nl/staff/MSanders 
