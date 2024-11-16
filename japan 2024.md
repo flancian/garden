@@ -7,3 +7,4 @@
   - 18-22 tokyo <- yo?
 - -> San Francisco 9-13?
   - I might be able to make it work!
+  - Update [[2024-11-16]]: fully booked, flights and hotels! \o/
