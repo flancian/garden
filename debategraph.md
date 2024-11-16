@@ -1,0 +1,4 @@
+- a [[site]].
+  - #go https://debategraph.org
+  - Looks very interesting!
+  - Heard about it from [[Jack Park]], thank you Jack!
