@@ -1,1 +1,1 @@
-- I sometimes say [[work work]] or [[work-work]] to refer to my [[day job]], which as of the time of writing (2024-11) is as a [[Site Reliability Engineer]] at [[Google]ometimes say [[]work  work]] or [[]work-work]][ when  to refer to my [[]day job]], which as of the time of writing (2024-11) is as a [[]Site rReliability Engineer]] at [[]Goopgoglge]]]])]]]]]
+- I sometimes say [[work work]] or [[work-work]] to refer to my [[day job]], which as of the time of writing (2024-11) is as a [[Site Reliability Engineer]] at [[Google]]
