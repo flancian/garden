@@ -1,3 +1,3 @@
 - a [[person]].
-  - Met them with [[Zicklag]], happy to meet them!
+  - They work with [[Zicklag]] on [[weird one]] and I think other projects, happy to meet them!
   - #pull [[weird.one]]

@@ -1,0 +1,3 @@
+- a [[project]].
+  - #go https://weird.one
+  - by [[]]
