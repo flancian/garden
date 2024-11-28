@@ -1,0 +1,2 @@
+- a [[person]].
+  - I met them only recently but I feel like we'll be friends.
