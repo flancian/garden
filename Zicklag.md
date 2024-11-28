@@ -1,2 +1,3 @@
 - a [[person]].
-  - I met them only recently but I feel like we'll be friends.
+  - As of [[2024-11]] I met them only recently but I feel like we'll be friends.
+  - Same for [[Erlend]].

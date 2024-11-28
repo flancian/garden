@@ -1,0 +1,3 @@
+- a [[person]].
+  - Met them with [[Zicklag]], happy to meet them!
+  - #pull [[weird.one]]
