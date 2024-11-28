@@ -1,3 +1,3 @@
 - a [[project]].
   - #go https://weird.one
-  - by [[]]
+  - by [[Zicklag]] and [[Erlend]]
