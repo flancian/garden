@@ -2,5 +2,6 @@
   - with [[edumerco]] :)
   - #go https://codeberg.org/ekumen
   - #git https://codeberg.org/ekumen/ekumen
+  - #miro https://miro.com/app/board/uXjVL-azEBw=/
 - a [[coalition]].
   - in some of [[Ursula K. Le Guin]]'s work
