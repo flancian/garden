@@ -1,0 +1,2 @@
+- [ ] work on [[autopull]]:
+  - make e.g. [[279]] pull [[prime/279]] because it's a number
