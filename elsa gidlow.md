@@ -1,3 +1,3 @@
 - a [[person]].
   - [[writer]], [[poet]].
-  - I learnt about her through reading about [[Alan Watts]]; she was instrumental in [[Druid Heights]]
+  - I learnt about her through reading about [[Alan Watts]]; she was instrumental in setting up and maintaining [[Druid Heights]].
