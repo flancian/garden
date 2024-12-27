@@ -1,0 +1,2 @@
+- #go https://www.maqna.de/
+- https://www.maqna.de/neodym-wurfelmagnet-10x10x10mm-vernickelt-grade-n52
