@@ -4,4 +4,13 @@
 
 --
 
-https://social.coop/@flancian/113585739357982600
+https://social.coop/@flancian/113585739357982600 says:
+
+- [[ActivityPub]] support
+- [[Betula]] support
+- [[Demo mode]] (just for fun :))
+- UX experiments and misc. usability improvements
+
+But I'll start very humbly by...
+
+- [ ] make dark mode default again 
