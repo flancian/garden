@@ -2,10 +2,11 @@
 - #pull [[middle way]]
 
 Maybe, just maybe
-Everything will go
+everything will go
 
 We will burn:
-Burn, slowly
+burn, slowly
 burn, gladly
 burn, kindly
+
 (if you have to burn, burn kindly)
