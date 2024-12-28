@@ -6,5 +6,6 @@ Everything will go
 
 We will burn:
 Burn, slowly
+burn, gladly
 burn, kindly
 (if you have to burn, burn kindly)
