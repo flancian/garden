@@ -14,3 +14,4 @@ https://social.coop/@flancian/113585739357982600 says:
 But I'll start very humbly by...
 
 - [ ] make dark mode the default again 
+- [ ] continue testing restores for social.coop
