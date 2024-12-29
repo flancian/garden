@@ -1,0 +1,4 @@
+- a [[project]].
+  - by [[stapelberg]].
+  - in [[note taking]] space.
+  - #git 
