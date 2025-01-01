@@ -1,2 +1,3 @@
 - #go https://en.wikipedia.org/wiki/Yi_Jian_Mei_(song)
   - [[Xuěhuā piāopiāo běi fēng xiāoxiāo]] and such
+  - #yt https://www.youtube.com/watch?v=W8x4m-qpmJ8
