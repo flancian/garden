@@ -1,0 +1,2 @@
+- [[gotosocial]]:
+  - https://docs.gotosocial.org/en/latest/advanced/host-account-domain/
