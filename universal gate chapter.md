@@ -1,0 +1,1 @@
+- #go https://www.pure-land-buddhism.com/other-sutras/the-universal-gate-chapter-on-bodhisattva-guanyin

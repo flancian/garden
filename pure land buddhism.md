@@ -1,0 +1,4 @@
+- a [[site]] :)
+  - #go https://www.pure-land-buddhism.com/
+  - [[avatamsaka sutra]]
+  - [[universal gate chapter]] on [[bodhisattva guanyin]]
