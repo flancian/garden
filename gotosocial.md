@@ -1,0 +1,5 @@
+- a [[project]].
+  - Fediverse implementation!
+  - [[golang]] based
+  - #go https://gotosocial.org
+  - #docs https://docs.gotosocial.org
