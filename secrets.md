@@ -1,0 +1,4 @@
+- [[coop cloud]]:
+  - e.g.
+    - `abra app secret generate social.agor.ai`
+    - might be needed after [[abra app config]] and before [[abra app deploy]] :)

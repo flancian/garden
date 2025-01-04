@@ -1,0 +1,3 @@
+- a [[person]].
+  - recreational [[mathematician]].
+  - [[DA]] told me about him on [[2024-12-05]]

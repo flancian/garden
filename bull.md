@@ -1,0 +1,4 @@
+- a [[project]].
+  - by [[stapelberg]].
+  - in [[note taking]] space!
+  - #go https://github.com/gokrazy/bull

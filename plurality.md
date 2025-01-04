@@ -1,0 +1,2 @@
+- #go https://www.plurality.net/
+  - #git https://github.com/pluralitybook/plurality

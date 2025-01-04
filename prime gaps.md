@@ -1,0 +1,1 @@
+- I find the sequence of maximal prime gaps quite interesting; it grows in a 'jumpier' way than you could expect, and it seems like we don't really know "why" -- if "why" even makes sense as a question for such an observation.

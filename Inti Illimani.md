@@ -1,0 +1,3 @@
+- a [[band]].
+  - Oh, I hadn't noded [[inti illimani]] as per 2024-11!
+  - Yeah, I like them. And [[Quilapayún]].

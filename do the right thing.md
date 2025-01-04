@@ -1,0 +1,8 @@
+- [ ] work on [[autopull]]:
+  - make e.g. [[279]] pull [[prime/279]] because it's a number
+- [ ] prepare [[guanyin]] for travel
+  - [ ] pack more in general :)
+- [ ] work on [[activitypub]] and [[betulagora]]:
+  - Tymur's original import script could be adopted into [[agora bridge]] and then maybe incrementally modified to hit Betula's [[Activitypub endpoints]].
+- read (during the trip!):
+  - [ ] [[fediversalist papers]]

@@ -1,0 +1,6 @@
+- a [[song]].
+  - #go https://en.wikipedia.org/wiki/Yi_Jian_Mei_(song)
+  - [[Xuěhuā piāopiāo běi fēng xiāoxiāo]] and such
+  - #yt https://www.youtube.com/watch?v=W8x4m-qpmJ8
+    - the original?
+  - [[biden and trump]]: https://social.coop/@flancian/113733452494085223

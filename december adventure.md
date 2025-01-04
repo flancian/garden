@@ -4,4 +4,6 @@
   - like [[advent of code]], but chiller.
   - by [[eli]].
   - [[bouncepaw]] told me about it.
-  - #pull [[december adventure 2023]] [[december 2023 adventure]]
+  - I did it in [[2023]] and I'm doing it as of the time of writing in [[2024]].
+    - I'll be doing [[Agora development]] freely through the month, dedicating time to projects I've wanted to advance for a while -- and also having some days of what I call [[free play]] :)
+  - #pull [[december 2023 adventure]] [[december 2024 adventure]]

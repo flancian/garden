@@ -1,0 +1,3 @@
+- a [[person]].
+  - They work with [[Zicklag]] on [[weird one]] and I think other projects, happy to meet them!
+  - #pull [[weird.one]]
