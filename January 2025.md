@@ -5,6 +5,7 @@
   - looking good
 - [[Bull]]
   - very interesting!
+  - [ ] File bug report for cool bug :) 
 - [[Betula]] support
   - The latest here was: write a simple 'activitypub importer' instead of scraping the Betula UI?
 - [[Demo mode]] (just for fun :))
