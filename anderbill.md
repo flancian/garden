@@ -1,3 +1,4 @@
 - a [[person]].
   - @anderbill:matrix.org
-
+  - https://bsky.app/profile/anderbill.bsky.social
+  - https://hachyderm.io/@band
