@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[friend]] through [[Peter Kaminski]]
+  - #pull [[anderbill]]
