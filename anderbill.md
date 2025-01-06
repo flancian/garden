@@ -1,4 +1,5 @@
 - a [[person]].
+  - #pull [[bill anderson]] [[band]]
   - @anderbill:matrix.org
   - https://bsky.app/profile/anderbill.bsky.social
   - https://hachyderm.io/@band
