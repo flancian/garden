@@ -1,0 +1,1 @@
+- #go https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30
