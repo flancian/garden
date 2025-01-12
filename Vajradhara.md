@@ -1,0 +1,2 @@
+- a [[Buddha]].
+  - The primordial Buddha/manifestation of [[Dharmakaya]] for many Mayahana traditions, Tibetan.
