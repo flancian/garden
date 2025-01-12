@@ -3,3 +3,4 @@
 		- [[music]] as related to [[cinema]]
 	- tuesdays at [[7pm gmt]]
 	- #pull [[radijo musikii]] [[dai]] [[greg]] [[oscar]]
+  - #go https://www.radijo-musikii.net/?fbclid=IwAR1dCkTwvWna0OSDw7CKDk6ZmtJeRfKBs2jEz0IFm9xGk8nofbYqq9GiPk8
