@@ -3,9 +3,9 @@
   - #0
   - #1
   - #2
-  - #3
-  - #4
-  - #5
+  - #3 https://www.youtube.com/watch?v=n1r7axbdH70
+  - #4 https://www.youtube.com/watch?v=pt7AFyWtPGE
+  - #5 https://www.youtube.com/watch?v=p0KSFLf_XJA
   - #6 https://www.youtube.com/watch?v=gALB0Vj93YQ
   - #7 https://www.youtube.com/watch?v=EtJPA0dVTDs
   - #8 https://www.youtube.com/watch?v=DVVxQk2ToxQ
