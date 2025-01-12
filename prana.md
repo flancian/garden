@@ -1,8 +1,9 @@
 - a series of [[yoga flows]]:
-  - by [[Adriene]] -- thank you Adriene and Benji and others as usual!
-  - #0
-  - #1
-  - #2
+  - a [[yoga journey]] by [[Adriene]] -- thank you Adriene and Benji and others as usual!
+  - Remember: you can e.g. anagora.org/go/prana/1 to do day one (it redirects) :)
+  - #0 https://www.youtube.com/watch?v=PYDacIoSeRI
+  - #1 https://www.youtube.com/watch?v=tC-aST6A194
+  - #2 https://www.youtube.com/watch?v=gZ1DtlOJNMI
   - #3 https://www.youtube.com/watch?v=n1r7axbdH70
   - #4 https://www.youtube.com/watch?v=pt7AFyWtPGE
   - #5 https://www.youtube.com/watch?v=p0KSFLf_XJA
