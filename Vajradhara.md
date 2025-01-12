@@ -1,3 +1,4 @@
 - a [[Buddha]].
   - The primordial Buddha/[[Dharmakaya]] for many Mayahana traditions, like those from Tibet.
   - Replaced (or complements?) [[Samantabhadra]].
+  - Linked to [[Vajrasattva]].
