@@ -7,4 +7,5 @@
   - #4
   - #5
   - #6 https://www.youtube.com/watch?v=gALB0Vj93YQ
-  - #7
+  - #7 https://www.youtube.com/watch?v=EtJPA0dVTDs
+  - #8 https://www.youtube.com/watch?v=DVVxQk2ToxQ
