@@ -1,2 +1,3 @@
 - a [[Buddha]].
-  - The primordial Buddha/manifestation of [[Dharmakaya]] for many Mayahana traditions, Tibetan.
+  - The primordial Buddha/[[Dharmakaya]] for many Mayahana traditions, like those from Tibet.
+  - Replaced (or complements?) [[Samantabhadra]].
