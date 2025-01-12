@@ -1,0 +1,3 @@
+- a series of [[yoga flows]]:
+  - by [[Adriene]] -- thank you Adriene and Benji and others as usual!
+  - #6 https://www.youtube.com/watch?v=gALB0Vj93YQ
