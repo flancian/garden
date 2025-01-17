@@ -2,3 +2,4 @@
   - The primordial Buddha/[[Dharmakaya]] for many Mayahana traditions, like those from Tibet.
   - Replaced (or complements?) [[Samantabhadra]].
   - Linked to [[Vajrasattva]].
+  - I think I associated them with [[79]]? But I need to check, it's not solidified yet.
