@@ -1,3 +1,4 @@
 - an [[idea]].
   - or a network of ideas :)
   - #go https://claude.site/artifacts/bc97d650-68b7-498b-9421-5db55e1c0ee5
+  - #chat https://claude.ai/chat/5bed96e3-6d53-4809-b5ce-89bb5b0791ad
