@@ -1,0 +1,3 @@
+- an [[idea]].
+  - or a network of ideas :)
+  - #go https://claude.site/artifacts/bc97d650-68b7-498b-9421-5db55e1c0ee5
