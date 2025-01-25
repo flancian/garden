@@ -1,3 +1,4 @@
 - I sometimes think that everything I write is for the readers of the future.
 - And then I ask myself: who are they? What are they like? What are their hopes and dreams?
   - (Their [[qualia]] and judgments...)
+- By an analogy to the [[doomsday argument]]…
