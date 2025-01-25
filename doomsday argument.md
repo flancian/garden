@@ -1,0 +1,2 @@
+- a [[philosophical argument]].
+  - by [[Brandon Carter]] and [[John Leslie]] and [[Richard Gott]].
