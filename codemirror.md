@@ -1,1 +1,5 @@
-- #go https://codemirror.net/
+- an [[editor]].
+  - Or rather editing component?
+  - #go https://codemirror.net/
+  - [[bull]] uses it.
+  - about [[tabs]]: https://codemirror.net/examples/tab/
