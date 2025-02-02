@@ -1,0 +1,5 @@
+- a [[company]].
+  - http://deepseek.com/
+- an [[AI]].
+  - Developed by the aforementioned company :)
+  - #go https://chat.deepseek.com/
