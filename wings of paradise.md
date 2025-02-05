@@ -1,0 +1,3 @@
+- #pull [[wings of desire]]
+  - As I misremembered it on [[2025-02-05]] :)
+  - Perhaps related to [[mondegreen]]? In the sense that it is a confusion that arises out of affinity.
