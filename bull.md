@@ -3,3 +3,10 @@
   - in [[note taking]] space!
   - #go https://github.com/gokrazy/bull
   - #bugs https://github.com/gokrazy/bull/issues
+- [[PRs]]
+  - a list :)
+  - I've send two or three PRs to Bull and it's been enjoyable, [[Stapelberg]] is a pleasure to work, talk and play with!
+  - These are some I've planned.
+    - More shortcuts:
+      - V, E, R, S underlined in the navbar to indicate ctrl+_?
+      - Ctrl+E toggles editing so it can also be used to go back to view only?
