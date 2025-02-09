@@ -1,0 +1,3 @@
+- [[videos]]:
+  - #go https://www.youtube.com/watch?v=mKCieTImjvU
+  - #other https://www.youtube.com/watch?v=uZo7-bqoELk
