@@ -1,0 +1,2 @@
+- a [[cannabis]] strain.
+  - #go https://www.leafly.com/strains/blue-dream
