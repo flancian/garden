@@ -1,2 +1,2 @@
 - @kota_mos in [[Instagram]] it seems
-- Works at [[Lilo Coffee]] in Osaka.
+- Met them shortly at [[Lilo Coffee]] in [[Osaka]].
