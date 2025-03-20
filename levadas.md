@@ -1,0 +1,2 @@
+- #go https://mynoise.net/NoiseMachines/levadaSoundGenerator.php
+  - like a swiss [[bisse]]?
