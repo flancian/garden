@@ -1,0 +1,2 @@
+- @kota_mos in [[Instagram]] it seems
+- Met them shortly at [[Lilo Coffee]] in [[Osaka]].
