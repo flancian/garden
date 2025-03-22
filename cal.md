@@ -1,0 +1,3 @@
+- a [[service]].
+  - helps you and the people who want to meet with you manage your calendar.
+  - #go https://cal.com/flancian
