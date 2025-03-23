@@ -1,9 +1,18 @@
 # Todo
 
 - A [[list]].
-  - Of [[actions]] :)
-    - To be strict, this is more of a [[tree]], but you get the idea ;)
-  - See also: [[do]], for the alternate (maybe more regular) phrasing.
+  - To be strict, this is more of a [[graph]], but you get the idea ;)
+  - See also: [[do]], for the alternate (maybe more regular) phrasing, and other nodes such as [[next action]], [[agora plan]].
+
+--
+
+This is one of those nodes that must begin with an introduction, or if the bullet list in nodes usually serves as introduction, then a pre-introduction :)
+I have so many todos that my todos often have their own todos. They are distributed around my computers, around my home, around the office.
+
+As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come back here and actually clean up and order things, and try to keep this in roughly priority order so that the things I'm working on next are roughly towards the top. Let's see if it works!
+
+--
+
 - [ ] [[write]] to [[hans widmer]]
   - I didn't do this yet but I met him in [[Paranoia Verlag]] and spoke to him shortly :)
 - [[answer]] Riccardo on Foam discord
