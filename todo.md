@@ -86,9 +86,12 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - The draft is still there, published since its inception. It's weird how much of it has come so much closer to real...
 - [x] [[code]] [[Roam Go Links]]
   - Dropped Roam as a personal platform.
-- [ ] [[read]] [[bolo'bolo]]
+- [x] [[read]] [[bolo'bolo]]
+  - Totally did this!
 - [ ] [[read]] [[Binding Chaos]]
+  - Totally have this on my list still :)
 - [ ] [[read]] [[Seeing like a State]]
+  - I didn't finish it but I read the first chapter so far.
 
 ## Done
 - [x] Meta: fix go links that pointed to Roam. 
