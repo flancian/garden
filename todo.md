@@ -24,10 +24,11 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
 - Meta: Instead of deleting many of these, I may just copy/paste the ones I still want to do above?
 - [ ] [[write]] to [[hans widmer]]
   - I didn't do this yet but I met him in [[Paranoia Verlag]] and spoke to him shortly :)
-  - This would go well into an [[open letter to hans widmer]] node?
+  - -> This would go well into an [[open letter to hans widmer]] node?
 - [[answer]] Riccardo on Foam discord
   - I am not using Foam, so I think I will deprioritize this -- although I like [[Riccardo]] and [[Foam]] still!
 - Go over my [[twitter todo]] and move items to the agora
+  - Update: huh, this is so old that I have since both 1. stopped using Twitter (now X) as Elon Musk shut down API access, and 2. been suspended from X for no clear reason and with no recourse/answer to my questions about motivation.
   - https://flancia.org/go/twitter-todo.
   - I have mostly moved on from [[Twitter]] due to [[Muskgate]] and such :)
   - The [[Fediverse]] has replaced it in a way; I think the right [[next action]] here
