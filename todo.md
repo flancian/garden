@@ -38,9 +38,10 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - https://thestoa.substack.com/p/the-dark-forest [[peternlindberg]] [[read]]
   - ? I am currently on a plane offline but these look intriguing. I think it's about that philosopher's house in SF I once found?
 - [x] Become a contributor for [[social.coop]]: https://opencollective.com/socialcoop
-  - [[tweet]] about it
-  - [[tweet]] about opencollective.com: https://opencollective.com/flancia
+  - [x] [[tweet]] about it
+  - [x] [[tweet]] about opencollective.com: https://opencollective.com/flancia
   - [x] Sign into social.coop
+  - I have definitely become a contributor since :) So, yeah... this is actually done! See [[social coop tech group]], [[twg]], [[organizing circle]] and such.
 - [[read]] https://en.wikipedia.org/wiki/Fediverse
 - [[read]] https://en.wikipedia.org/wiki/OpenSocial
 - [[write]] about things people want to read about: https://twitter.com/flancian/status/1305069564158500865
