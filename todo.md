@@ -76,9 +76,12 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - Which one?
 - [x] Respond to email from [[social.coop]]
 - [x] Investigate social.coop, set up donation.
-- [ ] [[write]] [[Agora for EA]].
+- [x] [[write]] [[Agora for EA]].
+  - Hmm, EA is having reputation problems nowadays after Scammy McScamPants did FTX and such. Just this week someone called me an idiot in the Fediverse because of trying to "defend" the reasonable core of EA.
+  - [ ] Maybe [[Agora for Altruism]] is a better framing?
 - [x] [[read]] [[Zhuangzi]] as recommended by [[ikesharpless]]
 - [ ] [[code]] [[Twitter Go Links]]
+  - I think I did this? I mean, I did have the Agora bot running on Twitter until Musk killed it...
 - [ ] [[write]] [[Caramel City]]
 - [x] [[code]] [[Roam Go Links]]
   - Dropped Roam as a personal platform.
