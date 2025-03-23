@@ -1,28 +1,25 @@
-# Todo
-
 - A [[list]].
+  - Of things I want/wanted to do.
   - To be strict, this is more of a [[graph]], but you get the idea ;)
   - See also: [[do]], for the alternate (maybe more regular) phrasing, and other nodes such as [[next action]], [[agora plan]].
-
---
 
 This is one of those nodes that must begin with an introduction, or if the bullet list in nodes usually serves as introduction, then a pre-introduction :)
 I have so many todos that my todos often have their own todos. They are distributed around my computers, around my home, around the office.
 
 As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come back here and actually clean up and order things, and try to keep this in roughly priority order so that the things I'm working on next are roughly towards the top. Let's see if it works!
 
---
+## [[2025-03]]
 
 - [ ] write in the [[zine]], I've been writing in my head for a while and it's time to do some actual writing?
 - [ ] test mastodon [[agora bot]] "fix"
-- [ ] do some small FR for [[bull]]? which one?
 - [ ] fix [[betulagora]]
+- [ ] respond to the email from Mike Kupfer.
 - [ ] check out the link(s) that [[smurp]] sent to me
 - [ ] process his signup to the Agora! which I saw just before leaving for travel, looking forward :)
+- [ ] do some small FR for [[bull]]? which one?
 - [ ] fill the [[Labör]] survey
-- [ ] respond to the email from Mike Kupfer.
 
---
+## [[2023]] and earlier
 
 - [ ] [[write]] to [[hans widmer]]
   - I didn't do this yet but I met him in [[Paranoia Verlag]] and spoke to him shortly :)
