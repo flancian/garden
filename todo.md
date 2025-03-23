@@ -80,9 +80,10 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - Hmm, EA is having reputation problems nowadays after Scammy McScamPants did FTX and such. Just this week someone called me an idiot in the Fediverse because of trying to "defend" the reasonable core of EA.
   - [ ] Maybe [[Agora for Altruism]] is a better framing?
 - [x] [[read]] [[Zhuangzi]] as recommended by [[ikesharpless]]
-- [ ] [[code]] [[Twitter Go Links]]
+- [x] [[code]] [[Twitter Go Links]]
   - I think I did this? I mean, I did have the Agora bot running on Twitter until Musk killed it...
 - [ ] [[write]] [[Caramel City]]
+  - The draft is still there, published since its inception. It's weird how much of it has come so much closer to real...
 - [x] [[code]] [[Roam Go Links]]
   - Dropped Roam as a personal platform.
 - [ ] [[read]] [[bolo'bolo]]
