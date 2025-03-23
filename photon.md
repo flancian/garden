@@ -1,3 +1,4 @@
 - "We are reminded of the process in which a molecule loses or gains a whole atom or a whole electron but never a fraction of one or the other" -- [[Gilbert Lewis]] in [[The Conservation of Photons]].
   - "[[Einstein]] was led to the idea of light quanta which has proved so fertile"
   - "…two photons, as seen by a single observer, differ in direction of motion, in energy and in polarisation".
+  - "If we were moving with rapid acceleration toward a wireless station, its photons would appear to possess increasing amounts of energy, and would pass over the whole spectral scale through the visible and into the ultraviolet"
