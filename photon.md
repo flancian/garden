@@ -1,2 +1,3 @@
 - "We are reminded of the process in which a molecule loses or gains a whole atom or a whole electron but never a fraction of one or the other" -- [[Gilbert Lewis]] in [[The Conservation of Photons]].
   - "[[Einstein]] was led to the idea of light quanta which has proved so fertile"
+  - "…two photons, as seen by a single observer, differ in direction of motion, in energy and in polarisation".
