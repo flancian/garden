@@ -16,5 +16,5 @@ It is a [[question]] with many interesting [[answers]].
 
 --
 
-As of [[2025-03-23]] I ran into [[Gilbert N. Lewis]]'s letter to Nature where he introduced the word [[photon]] into common usage: https://en.wikipedia.org/wiki/Photon
+As of [[2025-03-23]] I ran into [[Gilbert N. Lewis]]'s letter to Nature where he introduced the word [[photon]] into common usage: https://en.wikipedia.org/wiki/Photon -> [[photon]]
 
