@@ -3,3 +3,4 @@
   - "…two photons, as seen by a single observer, differ in direction of motion, in energy and in polarisation".
   - "If we were moving with rapid acceleration toward a wireless station, its photons would appear to possess increasing amounts of energy, and would pass over the whole spectral scale through the visible and into the ultraviolet"
   - "Even so fundamental a process as the flow of heat must involve two factors, the amount of energy and the number of photons transferred"
+- > The name photon derives from the Greek word for light, [[φῶς]] (transliterated phôs).
