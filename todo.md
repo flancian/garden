@@ -65,13 +65,15 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - This totally happened at some point.
 - [[write]] a sci fi short story about [[orthodox jews that wear 80s clothing]]
   - Wow, this was unexpected :) I don't remember the context at all..
-  - Hmm, now I do :) It was funny, maybe I should still do it? Where do I keep all my fictional + potentially funny ideas again?
+  - [ ] Hmm, now I do :) It was funny, maybe I should still do it? Where do I keep all my fictional + potentially funny ideas again?
 - [[write]] [[Twitter report]]
   - Or adopt suggestions in thread if any?
+  - I don't remember what this was about and X has broke ties with me for some reason, so I guess this just didn't happen in this timeline!
 - [x] [[think]] about https://twitter.com/flancian/status/1297295559133462529
 - [x] Get back to: https://twitter.com/dpovey1/status/1296681168142655490
 - [x] Read [[ribbonfarm]] as recommended by [[AbstractFairy]]
 - [[read]] the original (?) blog post about [[digital garden]]s.
+  - Which one?
 - [x] Respond to email from [[social.coop]]
 - [x] Investigate social.coop, set up donation.
 - [ ] [[write]] [[Agora for EA]].
