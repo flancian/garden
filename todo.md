@@ -42,18 +42,20 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - [x] [[tweet]] about opencollective.com: https://opencollective.com/flancia
   - [x] Sign into social.coop
   - I have definitely become a contributor since :) So, yeah... this is actually done! See [[social coop tech group]], [[twg]], [[organizing circle]] and such.
-- [[read]] https://en.wikipedia.org/wiki/Fediverse
+- [x] [[read]] https://en.wikipedia.org/wiki/Fediverse
   - This probably happened since :) I actually have learnt a lot about the Fediverse, and participated, since I wrote this.
   - The Agora has even had an Agora bot in the Fediverse for years now, currently at social.agor.ai :)
   - So I guess I *did* do some things!
-- [[read]] https://en.wikipedia.org/wiki/OpenSocial
+- [ ] [[read]] https://en.wikipedia.org/wiki/OpenSocial
+  - I think I read this but I'm unsure so I'll leave this open.
 - [[write]] about things people want to read about: https://twitter.com/flancian/status/1305069564158500865
-  - [[write]] "Minimum set of requirements, necessary and sufficient, for Flancia to sprout and flourish. In other words: Why can't we get it done by the end of today (GMT)?"
-  - [[write]] "Is there a place for aesthetic transcendence in Flancia?"
+  - [ ] [[write]] "Minimum set of requirements, necessary and sufficient, for Flancia to sprout and flourish. In other words: Why can't we get it done by the end of today (GMT)?"
+  - [ ] [[write]] "Is there a place for aesthetic transcendence in Flancia?"
     - Trascendence: "to touch the infinite" 
     - Watch https://twitter.com/codexeditor/status/1261626600010866688 recommended by [[Codex]]
     - "Would be interested to hear your thoughts on agorae" by [[cklorentzen]]
-- [[read]] about [[Jainism]]
+- [x] [[read]] about [[Jainism]]
+  - I did this at some point, and I also read a lot of Buddhist suttas, some of which touch on Jainism :)
 - [x] Advance [[Go Links]]
     - Add some graphs?
     - "[[TODO]]: research open source ways of drawing 1. protocol diagrams and 2. graph visualizations. Is dia the best there is, or should I use something higher level? This is sort of implicitly blocking calling my [[Go Links]] post finished."
