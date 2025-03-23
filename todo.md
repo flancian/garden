@@ -21,8 +21,10 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
 
 ## [[2023]] and earlier
 
+- Meta: Instead of deleting many of these, I may just copy/paste the ones I still want to do above?
 - [ ] [[write]] to [[hans widmer]]
   - I didn't do this yet but I met him in [[Paranoia Verlag]] and spoke to him shortly :)
+  - This would go well into an [[open letter to hans widmer]] node?
 - [[answer]] Riccardo on Foam discord
   - I am not using Foam, so I think I will deprioritize this -- although I like [[Riccardo]] and [[Foam]] still!
 - Go over my [[twitter todo]] and move items to the agora
