@@ -13,6 +13,17 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
 
 --
 
+- [ ] write in the [[zine]], I've been writing in my head for a while and it's time to do some actual writing?
+- [ ] test mastodon [[agora bot]] "fix"
+- [ ] do some small FR for [[bull]]? which one?
+- [ ] fix [[betulagora]]
+- [ ] check out the link(s) that [[smurp]] sent to me
+- [ ] process his signup to the Agora! which I saw just before leaving for travel, looking forward :)
+- [ ] fill the [[Labör]] survey
+- [ ] respond to the email from Mike Kupfer.
+
+--
+
 - [ ] [[write]] to [[hans widmer]]
   - I didn't do this yet but I met him in [[Paranoia Verlag]] and spoke to him shortly :)
 - [[answer]] Riccardo on Foam discord
