@@ -43,6 +43,9 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - [x] Sign into social.coop
   - I have definitely become a contributor since :) So, yeah... this is actually done! See [[social coop tech group]], [[twg]], [[organizing circle]] and such.
 - [[read]] https://en.wikipedia.org/wiki/Fediverse
+  - This probably happened since :) I actually have learnt a lot about the Fediverse, and participated, since I wrote this.
+  - The Agora has even had an Agora bot in the Fediverse for years now, currently at social.agor.ai :)
+  - So I guess I *did* do some things!
 - [[read]] https://en.wikipedia.org/wiki/OpenSocial
 - [[write]] about things people want to read about: https://twitter.com/flancian/status/1305069564158500865
   - [[write]] "Minimum set of requirements, necessary and sufficient, for Flancia to sprout and flourish. In other words: Why can't we get it done by the end of today (GMT)?"
