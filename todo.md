@@ -92,8 +92,6 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - Totally have this on my list still :)
 - [ ] [[read]] [[Seeing like a State]]
   - I didn't finish it but I read the first chapter so far.
-
-## Done
 - [x] Meta: fix go links that pointed to Roam. 
 - [x] Figure out [[Foam]] rendering to [[github pages]]
   - Made obsolete by the Agora.
