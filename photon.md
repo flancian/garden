@@ -1,1 +1,1 @@
-- "We are reminded of the process in which a molecule loses or gains a whole atom or a whole electron but never a fraction of one or the other" -- [[gilbert Lewis]].
+- "We are reminded of the process in which a molecule loses or gains a whole atom or a whole electron but never a fraction of one or the other" -- [[gilbert Lewis]] in [[The Conservation of Photons]].
