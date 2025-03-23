@@ -7,3 +7,5 @@
   - > The name photon derives from the Greek word for light, [[φῶς]] (transliterated phôs).
   - > Although Wolfers's and Lewis's theories were contradicted by many experiments and never accepted, the new name was adopted by most physicists very soon after Compton used it.
   - > In physics, a photon is usually denoted by the symbol [[γ]] (the Greek letter gamma). This symbol for the photon probably derives from gamma rays,
+  - (...) (this article is great)
+  - > Dirac's second-order perturbation theory can involve [[virtual photons]], transient intermediate states of the electromagnetic field; the static [[electric]] and [[magnetic]] interactions are mediated by such virtual photons. 
