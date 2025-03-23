@@ -31,10 +31,12 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
   - Update: huh, this is so old that I have since both 1. stopped using Twitter (now X) as Elon Musk shut down API access, and 2. been suspended from X for no clear reason and with no recourse/answer to my questions about motivation.
   - https://flancia.org/go/twitter-todo.
   - I have mostly moved on from [[Twitter]] due to [[Muskgate]] and such :)
-  - The [[Fediverse]] has replaced it in a way; I think the right [[next action]] here
+  - The [[Fediverse]] has replaced it in a way; I think the right [[next action]] here likely has to do with that.
+    - And/or [[Bluesky]]?
 - [[answer]] https://twitter.com/peternlimberg/status/1301937727588503554
   - https://thestoa.substack.com/p/just-fucking-send-it [[peternlindberg]] [[read]]
   - https://thestoa.substack.com/p/the-dark-forest [[peternlindberg]] [[read]]
+  - ? I am currently on a plane offline but these look intriguing. I think it's about that philosopher's house in SF I once found?
 - [x] Become a contributor for [[social.coop]]: https://opencollective.com/socialcoop
   - [[tweet]] about it
   - [[tweet]] about opencollective.com: https://opencollective.com/flancia
