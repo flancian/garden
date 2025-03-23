@@ -60,9 +60,12 @@ As of [[2025-03]] I'm making a "fresh start" in the sense that I intend to come 
     - Add some graphs?
     - "[[TODO]]: research open source ways of drawing 1. protocol diagrams and 2. graph visualizations. Is dia the best there is, or should I use something higher level? This is sort of implicitly blocking calling my [[Go Links]] post finished."
     - Edit
-    - Post to Twitter
-- [[read]] something by [[meaningness]]
+    - [x] Post to Twitter
+- [x] [[read]] something by [[meaningness]]
+  - This totally happened at some point.
 - [[write]] a sci fi short story about [[orthodox jews that wear 80s clothing]]
+  - Wow, this was unexpected :) I don't remember the context at all..
+  - Hmm, now I do :) It was funny, maybe I should still do it?
 - [[write]] [[Twitter report]]
   - Or adopt suggestions in thread if any?
 - [x] [[think]] about https://twitter.com/flancian/status/1297295559133462529
