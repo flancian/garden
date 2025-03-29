@@ -1,0 +1,4 @@
+- a [[place]].
+  - Affolternstrasse 76, Zürich 8050.
+  - #go https://www.laboer.ch
+  - #email mailto:hello@laboer.ch

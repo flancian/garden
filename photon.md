@@ -1,0 +1,11 @@
+- "We are reminded of the process in which a molecule loses or gains a whole atom or a whole electron but never a fraction of one or the other" -- [[Gilbert Lewis]] in [[The Conservation of Photons]].
+  - "[[Einstein]] was led to the idea of light quanta which has proved so fertile"
+  - "…two photons, as seen by a single observer, differ in direction of motion, in energy and in polarisation".
+  - "If we were moving with rapid acceleration toward a wireless station, its photons would appear to possess increasing amounts of energy, and would pass over the whole spectral scale through the visible and into the ultraviolet"
+  - "Even so fundamental a process as the flow of heat must involve two factors, the amount of energy and the number of photons transferred"
+- From Wikipedia:
+  - > The name photon derives from the Greek word for light, [[φῶς]] (transliterated phôs).
+  - > Although Wolfers's and Lewis's theories were contradicted by many experiments and never accepted, the new name was adopted by most physicists very soon after Compton used it.
+  - > In physics, a photon is usually denoted by the symbol [[γ]] (the Greek letter gamma). This symbol for the photon probably derives from gamma rays,
+  - (...) (this article is great)
+  - > Dirac's second-order perturbation theory can involve [[virtual photons]], transient intermediate states of the electromagnetic field; the static [[electric]] and [[magnetic]] interactions are mediated by such virtual photons. 

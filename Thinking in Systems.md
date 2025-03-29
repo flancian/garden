@@ -1,0 +1,4 @@
+- a [[book]].
+  - by [[Donella Meadows]].
+    - It says upfront it's going to be light on math and computer references, which it's a bit of a shame, but I also like that it's written for a general audience.
+    - It's a bit old, from the eighties I believe (but then again, so am I) -- but supposedly it's held up nicely.
