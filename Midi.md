@@ -1,0 +1,2 @@
+- I've been working on a midi related project for some months and I think it's about to come to fruition :)
+  - `playmidi 2024-12-29T19:44:43+01:00-trim.mid 2024-08-27T00:00:52+02:00-trim.mid `
