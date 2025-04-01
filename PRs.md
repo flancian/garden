@@ -1,3 +1,4 @@
 - #go https://github.com/search?q=is%3Aissue+is%3Aopen+user%3Aflancian&type=pullrequests
   - This is all open PRs across all repos.
   - This link only works for me, fix the search to point to your username as needed :)
+  - See also: [[bugs]].
