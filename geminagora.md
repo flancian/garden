@@ -1,0 +1,2 @@
+- #go https://gemini.google.com/app/376339be8f314cec
+  - :)
