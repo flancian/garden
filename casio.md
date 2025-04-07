@@ -1,2 +1,3 @@
 - I recently got an Casio [[ABL-100WEGG-1BEF]] and I like it a lot!
   - It looks retro but it has automated time keeping via bluetooth, and a step counter function that works quite alright.
+  - I guess eventually (after two years? hello there, me from ~2027 if I make it there!) I will have to go through https://www.youtube.com/watch?v=x9IplyTquEc with a [[CR2016]] battery.
