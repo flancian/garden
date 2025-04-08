@@ -1,1 +1,2 @@
-- Appointments are made by calling 044 300 30 70 during working hours.
+- "Appointments are made by calling 044 300 30 70 during working hours."
+- Sat 9 to 11
