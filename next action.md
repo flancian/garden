@@ -38,3 +38,11 @@ Here again on [[2024-10-12]]. My next actions are:
 - [ ] I still like that [[CHF]] idea
 - [x] fix [[org mode]] e.g. [[@jakeisnt]] garden
   - update orgora?
+
+--
+
+Here again on [[2025-04-08]]. I keep looking for a [[root node]] that I defined at some point; I think my problem is that I have several of those -- but maybe also my potential ;)
+
+In any case, I think I may stick with this one and add to this one as a sort of "todo journal".
+
+- [ ] Bring up tar.agor.ai or similar in [[tara]] (to get away from remote development, which just isn't working for me as of late -- I spend too much time solving connectivity issues in vscode)
