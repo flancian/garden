@@ -1,2 +1,7 @@
 - "Appointments are made by calling 044 300 30 70 during working hours."
-- Sat 9 to 11
+- Montag: 07:45 – 12:00, 13:30 – 17:30
+- Dienstag: 07:45 – 12:00, 13:30 – 19:30
+- Mittwoch: 07:45 – 12:00, 13:30 – 17:30
+- Donnerstag: 07:45 – 12:00, 13:30 – 19:30
+- Freitag: 07:45 – 12:00, 13:30 – 17:30
+- Samstag: 09:00 – 11:00
