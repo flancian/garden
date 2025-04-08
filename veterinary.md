@@ -1,0 +1,1 @@
+- Appointments are made by calling 044 300 30 70 during working hours.
