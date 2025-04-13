@@ -46,3 +46,7 @@ Here again on [[2025-04-08]]. I keep looking for a [[root node]] that I defined 
 In any case, I think I may stick with this one and add to this one as a sort of "todo journal".
 
 - [x] Bring up tar.agor.ai or similar in [[tara]] (to get away from remote development, which just isn't working for me as of late -- I spend too much time solving connectivity issues in vscode)
+
+--
+
+[[2025-04-13]]: tar.agor.ai is up since a few days ago :) Now I'm about to start pushing updates to it, and eventually push *something* to prod after quite long without updates in the reference Agora.
