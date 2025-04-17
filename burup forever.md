@@ -19,6 +19,9 @@
     - she should get a maximum of 7 such futter doses daily for a total of ~52.5g of futter provided she gets no snacks and no wet food; if she gets between a third and a half of a tuna can at night, and four snacks a day, that would be more like 4-5 doses (depending on how much of the can and how many snacks).
     - so with one futter dose during the night, one in the morning, one in the afternoon (when I get home from work) and one before bed (~30g of futter on top, like I say, of the wet food and snacks) she should be plenty fine while losing some weight?
 
+--
+
+- Back here on [[2025-04-17]] Burup weighted ~5.55kg today by the same method, let's say 200-250g lost with the diet she's been keeping :) Good that she started losing and she looks better/more athletic already, might be less generous with snacks or keep to 3gr dry food portions instead of 5gr and see more closely how many feedings she asks for during the day but I don't think I've been far from the 30gr dry food target.
 
 
 
