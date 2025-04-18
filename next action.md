@@ -50,3 +50,7 @@ In any case, I think I may stick with this one and add to this one as a sort of 
 --
 
 [[2025-04-13]]: tar.agor.ai is up since a few days ago :) Now I'm about to start pushing updates to it, and eventually push *something* to prod after quite long without updates in the reference Agora.
+
+--
+
+I had forgotten about the idea of noding in the yearly node for some stability but also some time anchoring. [[2025]] is that :)
