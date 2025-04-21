@@ -1,0 +1,511 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0  24660 15876 ?        Ss   Feb08   6:38 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    Feb08   0:03 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    Feb08   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/0:0H-events_highpri]
+root          12  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    Feb08   0:00 [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    Feb08   0:00 [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    Feb08   0:00 [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    Feb08   7:14 [ksoftirqd/0]
+root          17  0.4  0.0      0     0 ?        I    Feb08 200:49 [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    Feb08   0:53 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/2]
+root          22  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/2]
+root          23  0.0  0.0      0     0 ?        S    Feb08   0:32 [migration/2]
+root          24  0.0  0.0      0     0 ?        S    Feb08   2:03 [ksoftirqd/2]
+root          26  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/2:0H-events_highpri]
+root          27  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/4]
+root          28  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/4]
+root          29  0.0  0.0      0     0 ?        S    Feb08   0:31 [migration/4]
+root          30  0.0  0.0      0     0 ?        S    Feb08   1:55 [ksoftirqd/4]
+root          32  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/4:0H-events_highpri]
+root          33  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/6]
+root          34  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/6]
+root          35  0.0  0.0      0     0 ?        S    Feb08   0:30 [migration/6]
+root          36  0.0  0.0      0     0 ?        S    Feb08   1:49 [ksoftirqd/6]
+root          38  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/6:0H-events_highpri]
+root          39  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/8]
+root          40  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/8]
+root          41  0.0  0.0      0     0 ?        S    Feb08   0:49 [migration/8]
+root          42  0.0  0.0      0     0 ?        S    Feb08   1:19 [ksoftirqd/8]
+root          44  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/8:0H-events_highpri]
+root          45  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/10]
+root          46  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/10]
+root          47  0.0  0.0      0     0 ?        S    Feb08   0:48 [migration/10]
+root          48  0.0  0.0      0     0 ?        S    Feb08   1:13 [ksoftirqd/10]
+root          50  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/10:0H-events_highpri]
+root          51  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/12]
+root          52  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/12]
+root          53  0.0  0.0      0     0 ?        S    Feb08   0:47 [migration/12]
+root          54  0.0  0.0      0     0 ?        S    Feb08   1:12 [ksoftirqd/12]
+root          56  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/12:0H-events_highpri]
+root          57  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/14]
+root          58  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/14]
+root          59  0.0  0.0      0     0 ?        S    Feb08   0:47 [migration/14]
+root          60  0.0  0.0      0     0 ?        S    Feb08   1:13 [ksoftirqd/14]
+root          62  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/14:0H-events_highpri]
+root          63  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/1]
+root          64  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/1]
+root          65  0.0  0.0      0     0 ?        S    Feb08   0:16 [migration/1]
+root          66  0.0  0.0      0     0 ?        S    Feb08   1:33 [ksoftirqd/1]
+root          68  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/1:0H-events_highpri]
+root          69  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/3]
+root          70  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/3]
+root          71  0.0  0.0      0     0 ?        S    Feb08   0:17 [migration/3]
+root          72  0.0  0.0      0     0 ?        S    Feb08   0:43 [ksoftirqd/3]
+root          74  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/3:0H-events_highpri]
+root          75  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/5]
+root          76  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/5]
+root          77  0.0  0.0      0     0 ?        S    Feb08   0:18 [migration/5]
+root          78  0.0  0.0      0     0 ?        S    Feb08   0:38 [ksoftirqd/5]
+root          80  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/5:0H-events_highpri]
+root          81  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/7]
+root          82  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/7]
+root          83  0.0  0.0      0     0 ?        S    Feb08   0:18 [migration/7]
+root          84  0.0  0.0      0     0 ?        S    Feb08   0:39 [ksoftirqd/7]
+root          86  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/7:0H-events_highpri]
+root          87  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/9]
+root          88  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/9]
+root          89  0.0  0.0      0     0 ?        S    Feb08   0:27 [migration/9]
+root          90  0.0  0.0      0     0 ?        S    Feb08   0:29 [ksoftirqd/9]
+root          92  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/9:0H-events_highpri]
+root          93  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/11]
+root          94  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/11]
+root          95  0.0  0.0      0     0 ?        S    Feb08   0:28 [migration/11]
+root          96  0.0  0.0      0     0 ?        S    Feb08   0:28 [ksoftirqd/11]
+root          98  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/11:0H-events_highpri]
+root          99  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/13]
+root         100  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/13]
+root         101  0.0  0.0      0     0 ?        S    Feb08   0:28 [migration/13]
+root         102  0.0  0.0      0     0 ?        S    Feb08   0:28 [ksoftirqd/13]
+root         104  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/13:0H-events_highpri]
+root         105  0.0  0.0      0     0 ?        S    Feb08   0:00 [cpuhp/15]
+root         106  0.0  0.0      0     0 ?        S    Feb08   0:00 [idle_inject/15]
+root         107  0.0  0.0      0     0 ?        S    Feb08   0:28 [migration/15]
+root         108  0.0  0.0      0     0 ?        S    Feb08   0:29 [ksoftirqd/15]
+root         110  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/15:0H-events_highpri]
+root         113  0.0  0.0      0     0 ?        S    Feb08   0:00 [kdevtmpfs]
+root         114  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-inet_]
+root         116  0.0  0.0      0     0 ?        S    Feb08   0:00 [kauditd]
+root         117  0.0  0.0      0     0 ?        S    Feb08   0:06 [khungtaskd]
+root         118  0.0  0.0      0     0 ?        S    Feb08   0:00 [oom_reaper]
+root         120  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-write]
+root         121  0.0  0.0      0     0 ?        S    Feb08   4:50 [kcompactd0]
+root         122  0.0  0.0      0     0 ?        SN   Feb08   0:00 [ksmd]
+root         123  0.0  0.0      0     0 ?        SN   Feb08   0:21 [khugepaged]
+root         124  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-kinte]
+root         125  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-kbloc]
+root         126  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-blkcg]
+root         127  0.0  0.0      0     0 ?        S    Feb08   0:03 [irq/9-acpi]
+root         131  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-tpm_d]
+root         132  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-ata_s]
+root         133  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-md]
+root         134  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-md_bi]
+root         135  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-edac-]
+root         137  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-devfr]
+root         138  0.0  0.0      0     0 ?        S    Feb08   0:00 [watchdogd]
+root         139  0.0  0.0      0     0 ?        I<   Feb08   0:05 [kworker/0:1H-kblockd]
+root         141  0.0  0.0      0     0 ?        S    Feb08   0:00 [irq/25-AMD-Vi0-Evt]
+root         142  0.0  0.0      0     0 ?        S    Feb08   0:00 [irq/26-AMD-Vi0-PPR]
+root         143  0.0  0.0      0     0 ?        S    Feb08   0:00 [irq/27-AMD-Vi0-GA]
+root         144  0.0  0.0      0     0 ?        S    Feb08   0:16 [kswapd0]
+root         145  0.0  0.0      0     0 ?        S    Feb08   0:00 [ecryptfs-kthread]
+root         147  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-kthro]
+root         148  0.0  0.0      0     0 ?        S    Feb08   0:00 [irq/30-pciehp]
+root         159  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-acpi_]
+root         161  0.0  0.0      0     0 ?        S    Feb08   0:54 [hwrng]
+root         163  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-mld]
+root         164  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-ipv6_]
+root         166  0.0  0.0      0     0 ?        I<   Feb08   0:06 [kworker/8:1H-kblockd]
+root         172  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-kstrp]
+root         189  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-charg]
+root         213  0.0  0.0      0     0 ?        I<   Feb08   0:05 [kworker/2:1H-kblockd]
+root         216  0.0  0.0      0     0 ?        I<   Feb08   0:02 [kworker/1:1H-kblockd]
+root         218  0.0  0.0      0     0 ?        I<   Feb08   0:06 [kworker/14:1H-kblockd]
+root         251  0.0  0.0      0     0 ?        I<   Feb08   0:06 [kworker/12:1H-kblockd]
+root         252  0.0  0.0      0     0 ?        I<   Feb08   0:02 [kworker/15:1H-kblockd]
+root         255  0.0  0.0      0     0 ?        I<   Feb08   0:02 [kworker/11:1H-kblockd]
+root         256  0.0  0.0      0     0 ?        I<   Feb08   0:02 [kworker/7:1H-kblockd]
+root         257  0.0  0.0      0     0 ?        I<   Feb08   0:02 [kworker/3:1H-kblockd]
+root         258  0.0  0.0      0     0 ?        I<   Feb08   0:02 [kworker/9:1H-kblockd]
+root         259  0.0  0.0      0     0 ?        I<   Feb08   0:05 [kworker/6:1H-kblockd]
+root         260  0.0  0.0      0     0 ?        I<   Feb08   0:02 [kworker/13:1H-kblockd]
+root         261  0.0  0.0      0     0 ?        I<   Feb08   0:02 [kworker/5:1H-kblockd]
+root         265  0.0  0.0      0     0 ?        I<   Feb08   0:05 [kworker/4:1H-kblockd]
+root         267  0.0  0.0      0     0 ?        I<   Feb08   0:06 [kworker/10:1H-kblockd]
+root         295  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-nvme-]
+root         296  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-nvme-]
+root         300  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-nvme-]
+root         303  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-nvme-]
+root         483  0.0  0.0      0     0 ?        S    Feb08  14:58 [jbd2/nvme0n1p2-8]
+root         484  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-ext4-]
+root         552  0.3  0.2 178816 110780 ?       Ss   Feb08 181:29 /usr/lib/systemd/systemd-journald
+root         641  0.0  0.0  30984  9044 ?        Ss   Feb08   0:31 /usr/lib/systemd/systemd-udevd
+root         688  0.0  0.0      0     0 ?        S    Feb08   0:00 [psimon]
+root         840  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-ktpac]
+root         842  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-ipmi-]
+root         888  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-cfg80]
+root         889  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-crypt]
+root         899  0.9  0.0      0     0 ?        S    Feb08 440:16 [irq/95-iwlwifi:default_queue]
+root         900  0.0  0.0      0     0 ?        S    Feb08  17:31 [irq/96-iwlwifi:queue_1]
+root         901  0.0  0.0      0     0 ?        S    Feb08  20:36 [irq/97-iwlwifi:queue_2]
+root         902  0.0  0.0      0     0 ?        S    Feb08  15:27 [irq/98-iwlwifi:queue_3]
+root         903  0.0  0.0      0     0 ?        S    Feb08  17:02 [irq/99-iwlwifi:queue_4]
+root         904  0.0  0.0      0     0 ?        S    Feb08  29:41 [irq/100-iwlwifi:queue_5]
+root         905  0.0  0.0      0     0 ?        S    Feb08  17:25 [irq/101-iwlwifi:queue_6]
+root         906  0.0  0.0      0     0 ?        S    Feb08  17:40 [irq/102-iwlwifi:queue_7]
+root         907  0.0  0.0      0     0 ?        S    Feb08  29:51 [irq/103-iwlwifi:queue_8]
+root         908  0.0  0.0      0     0 ?        S    Feb08  17:53 [irq/104-iwlwifi:queue_9]
+root         909  0.0  0.0      0     0 ?        S    Feb08  16:02 [irq/105-iwlwifi:queue_10]
+root         910  1.2  0.0      0     0 ?        S    Feb08 560:43 [irq/106-iwlwifi:queue_11]
+root         911  0.0  0.0      0     0 ?        S    Feb08  18:16 [irq/107-iwlwifi:queue_12]
+root         912  0.0  0.0      0     0 ?        S    Feb08  17:27 [irq/108-iwlwifi:queue_13]
+root         913  0.0  0.0      0     0 ?        S    Feb08  18:53 [irq/109-iwlwifi:queue_14]
+root         914  0.0  0.0      0     0 ?        S    Feb08   0:00 [irq/110-iwlwifi:exception]
+root        1079  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-amdgp]
+root        1089  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-ttm]
+root        1090  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-amdgp]
+root        1091  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-amdgp]
+root        1092  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-amdgp]
+root        1093  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-amdgp]
+root        1094  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-dm_vb]
+root        1095  0.0  0.0      0     0 ?        S    Feb08   0:00 [card1-crtc0]
+root        1096  0.0  0.0      0     0 ?        S    Feb08   0:00 [card1-crtc1]
+root        1097  0.0  0.0      0     0 ?        S    Feb08   0:00 [card1-crtc2]
+root        1098  0.0  0.0      0     0 ?        S    Feb08   0:00 [card1-crtc3]
+systemd+    1426  0.3  0.0  25596 16024 ?        Ss   Feb08 174:49 /usr/lib/systemd/systemd-resolved
+systemd+    1427  0.0  0.0  91044  7372 ?        Ssl  Feb08   0:08 /usr/lib/systemd/systemd-timesyncd
+avahi       1537  0.0  0.0   8888  4424 ?        Ss   Feb08   1:06 avahi-daemon: running [paramita.local]
+root        1539  1.4  0.0  16440  8604 ?        Ss   Feb08 692:20 /usr/libexec/bluetooth/bluetoothd
+message+    1540  3.6  0.0  13888  8192 ?        Ss   Feb08 1689:49 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gnome-r+    1543  0.0  0.0 439204 15524 ?        Ssl  Feb08   0:00 /usr/libexec/gnome-remote-desktop-daemon --system
+polkitd     1553  0.0  0.0 384828 11320 ?        Ssl  Feb08   0:02 /usr/lib/polkit-1/polkitd --no-debug
+root        1557  0.0  0.0 310988  7320 ?        Ssl  Feb08   0:00 /usr/libexec/power-profiles-daemon
+root        1571  0.0  0.0  18964  9048 ?        S<s  Feb08   0:08 /usr/lib/systemd/systemd-logind
+root        1572  0.0  0.0 313544 10268 ?        Ssl  Feb08   0:34 /usr/libexec/accounts-daemon
+root        1573  0.0  0.0   6760  2664 ?        Ss   Feb08   0:25 /usr/sbin/cron -f -P
+root        1574  0.0  0.0 307164  6452 ?        Ssl  Feb08   0:00 /usr/libexec/switcheroo-control
+root        1576  0.0  0.0 470872 13968 ?        Ssl  Feb08   0:42 /usr/libexec/udisks2/udisksd
+avahi       1604  0.0  0.0   8476  1300 ?        S    Feb08   0:00 avahi-daemon: chroot helper
+root        1630  1.8  0.0 408316 20724 ?        Ssl  Feb08 844:25 /usr/sbin/NetworkManager --no-daemon
+root        1756  0.0  0.0 392100 12804 ?        Ssl  Feb08   0:01 /usr/sbin/ModemManager
+root        1923  0.0  0.0 1646068 17608 ?       Ssl  Feb08   0:10 /usr/bin/mullvad-daemon -v --disable-stdout-timestamps
+root        1939  0.0  0.0 112828 22144 ?        Ssl  Feb08   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1945  0.0  0.1 2910628 50112 ?       Ssl  Feb08  29:01 /usr/bin/containerd
+root        2022  0.0  0.0 312160  9408 ?        Ssl  Feb08   0:00 /usr/sbin/gdm3
+rtkit       2252  0.0  0.0  22940  3396 ?        SNsl Feb08   0:21 /usr/libexec/rtkit-daemon
+root        2329  0.0  0.0      0     0 ?        S<   Feb08   0:00 [krfcommd]
+colord      2346  0.0  0.0 321564 18788 ?        Ssl  Feb08   0:00 /usr/libexec/colord
+root        2528  1.7  0.1 355564 53344 ?        Ssl  Feb08 807:11 /usr/libexec/upowerd
+root        2851  0.0  0.0  17252  5688 tty1     Ss+  Feb08   0:00 /usr/lib/systemd/systemd-sulogin-shell emergency
+root        2855  0.0  0.0   6712  2652 tty1     S+   Feb08   0:00 /usr/sbin/sulogin
+root        2886  0.0  0.2 3255052 87780 ?       Ssl  Feb08   5:36 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+kernoops    2897  0.0  0.0  12744  2268 ?        Ss   Feb08   0:02 /usr/sbin/kerneloops --test
+kernoops    2904  0.0  0.0  12744  2400 ?        Ss   Feb08   0:02 /usr/sbin/kerneloops
+root        2926  0.0  0.0  25192  9284 ?        Ss   Feb08   0:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+root        2951  0.0  0.0  78072 18084 ?        Ss   Feb08   1:03 /usr/sbin/nmbd --foreground --no-process-group
+root        2961  0.0  0.0  90344 26192 ?        Ss   Feb08   0:07 /usr/sbin/smbd --foreground --no-process-group
+root        2967  0.0  0.0  87796  6672 ?        S    Feb08   0:02 smbd: notifyd .
+root        2969  0.0  0.0  87804  6364 ?        S    Feb08   0:02 smbd: cleanupd 
+root        3258  0.0  0.0 1238460 13508 ?       Sl   Feb08   2:36 /usr/bin/containerd-shim-runc-v2 -namespace moby -id ad462addac59d4cc8f739806763b92242d9a723af821ad0f19cfd3bca456190c -address /run/containerd/containerd.sock
+root        3299  0.0  0.0    436   100 ?        Ss   Feb08   0:00 /package/admin/s6/command/s6-svscan -d4 -- /run/service
+root        3342  0.0  0.0    216    72 ?        S    Feb08   0:00 s6-supervise s6-linux-init-shutdownd
+root        3344  0.0  0.0    204    56 ?        Ss   Feb08   0:00 /package/admin/s6-linux-init/command/s6-linux-init-shutdownd -d3 -c /run/s6/basedir -g 3000 -C -B
+root        3357  0.0  0.0    216    64 ?        S    Feb08   0:00 s6-supervise s6rc-fdholder
+root        3358  0.0  0.0    216    76 ?        S    Feb08   0:00 s6-supervise s6rc-oneshot-runner
+root        3367  0.0  0.0    208    64 ?        Ss   Feb08   0:00 /package/admin/s6/command/s6-ipcserverd -1 -- /package/admin/s6/command/s6-ipcserver-access -v0 -E -l0 -i data/rules -- /package/admin/s6/command/s6-sudod -t 30000 -- /package/admin/s6-rc/command/s6-rc-oneshot-run -l ../.. --
+root        3410  0.0  0.0    216    72 ?        S    Feb08   0:00 s6-supervise home-assistant
+root        3411  2.0  1.1 1468748 460760 ?      Ssl  Feb08 972:20 python3 -m homeassistant --config /config
+root        3530  0.0  0.0 1241268 19156 ?       Sl   Feb08   2:23 /bin/go2rtc -c /tmp/go2rtc_r052s4dr.yaml
+root        3541  0.0  0.0      0     0 ?        I<   Feb08   0:00 [kworker/R-tls-s]
+flancian    3554  0.0  0.0  22264 13176 ?        Ss   Feb08  10:31 /usr/lib/systemd/systemd --user
+flancian    3560  0.0  0.0  21456  3676 ?        S    Feb08   0:00 (sd-pam)
+flancian    3574  0.0  0.0 115548 26996 ?        Ss   Feb08  23:44 /usr/bin/appimagelauncherd
+flancian    3576  0.0  0.0   8356  3988 ?        Ss   Feb08  34:44 /bin/bash /home/flancian/garden/autopush.sh
+flancian    3612  0.0  0.0  15784 11112 ?        Ss   Feb08  17:07 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       38294  0.0  0.0 239936 11948 ?        Sl   Feb08   0:00 gdm-session-worker [pam/gdm-password]
+flancian   38439  0.0  0.0 314052  9892 ?        SLsl Feb08   0:01 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+flancian   38475  0.0  0.0 233032  5876 tty2     Ssl+ Feb08   0:00 /usr/libexec/gdm-wayland-session --register-session sway
+flancian   38483  0.0  0.1 1572644 54284 tty2    Sl+  Feb08  44:42 sway
+flancian   38595  0.0  0.0   2800  1804 ?        S    Feb08   0:00 sh -c xss-lock --transfer-sleep-lock -- swaylock
+flancian   38597  0.0  0.0 307192  6484 ?        Sl   Feb08   0:00 xss-lock --transfer-sleep-lock -- swaylock
+flancian   38600  0.0  0.0   2800  1808 ?        S    Feb08   0:00 sh -c nm-applet
+flancian   38603  0.0  0.0 497468 27440 ?        Sl   Feb08   5:05 nm-applet
+flancian   38606  0.0  0.0  26772 19216 ?        Ss   Feb08   0:05 /home/flancian/.local/pipx/venvs/autotiling/bin/python /home/flancian/.local/bin/autotiling
+flancian   38620  0.0  0.0   2800  1812 ?        S    Feb08   0:00 sh -c swaybg -c#000000
+flancian   38621  0.0  0.0  15208  5664 ?        S    Feb08   0:00 swaybg -c#000000
+flancian   38622  0.0  0.0 162652  6624 ?        Ssl  Feb08   0:00 /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+flancian   38625  0.0  0.0   2800  1600 ?        S    Feb08   0:00 sh -c mako
+flancian   38628  0.0  0.2 197404 86168 ?        Sl   Feb08   0:40 mako
+flancian   38649  0.0  0.0 311640  7656 ?        Ssl  Feb08   0:00 /usr/libexec/gvfsd
+flancian   38660  0.0  0.0   2800  1808 ?        S    Feb08   0:00 sh -c ~/bin/redshift
+flancian   38663  0.0  0.0   7312  3440 ?        S    Feb08   0:00 /bin/bash /home/flancian/bin/redshift
+flancian   38667  0.0  0.0   7312  3488 ?        S    Feb08   0:00 /bin/bash /home/flancian/bin/gammastep -l 47:8 -t 6500:4000
+flancian   38668  0.0  0.0   2800  1808 ?        S    Feb08   0:00 sh -c /usr/bin/pasystray
+flancian   38670  0.0  0.0   9772  5072 ?        S    Feb08   5:48 /usr/bin/gammastep -v -t 6500 3141 -l 47.37 8.54
+flancian   38672  0.0  0.0 457032  6720 ?        Sl   Feb08   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+flancian   38673  0.1  0.7 1467160 306944 ?      Sl   Feb08  61:48 /usr/bin/pasystray
+flancian   38708  0.0  0.0 1143676 35644 tty2    Sl+  Feb08   4:32 Xwayland :0 -rootless -core -terminate 10 -listenfd 30 -listenfd 31 -displayfd 65 -wm 62
+flancian   38710  0.0  0.0 383024  7800 ?        Ssl  Feb08   0:00 /usr/libexec/at-spi-bus-launcher
+flancian   38717  0.0  0.0   9476  5048 ?        S    Feb08   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+flancian   38762  0.0  0.0 236068  7316 ?        Sl   Feb08   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+flancian   38794  0.0  0.0  14280  7320 ?        Ss   Feb08   0:00 /usr/bin/foot --server=3
+flancian   38795  0.8  0.3 609204 137668 ?       Ssl  Feb08 404:36 python3 /usr/bin/gammastep-indicator
+flancian   38797  0.0  0.0   9772  5036 ?        Ss   Feb08   1:17 /usr/bin/gammastep
+flancian   38798  0.0  0.0  49072  7288 ?        Ss   Feb08   0:00 /usr/libexec/bluetooth/obexd
+flancian   38818  0.0  0.0 700472 16896 ?        Ssl  Feb08   2:36 /usr/libexec/xdg-desktop-portal
+flancian   38820  0.0  0.0   9384  5004 ?        S    Feb08   1:15 /usr/bin/gammastep -v
+flancian   38827  0.0  0.0 681392  7092 ?        Ssl  Feb08   0:00 /usr/libexec/xdg-document-portal
+flancian   38838  0.0  0.0 306804  5972 ?        Ssl  Feb08   0:00 /usr/libexec/xdg-permission-store
+root       38845  0.0  0.0   2704  2060 ?        Ss   Feb08   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+flancian   38849  0.0  0.1 1168656 65372 ?       Ssl  Feb08   0:09 /usr/libexec/xdg-desktop-portal-gtk
+flancian   38909  0.0  0.0  26752 18988 ?        Ss   Feb08   0:05 /home/flancian/.local/pipx/venvs/autotiling/bin/python /home/flancian/.local/bin/autotiling
+flancian   39061  0.0  0.0 307240  6872 ?        Ssl  Feb08   0:00 /usr/libexec/flatpak-session-helper
+flancian   39066  0.0  0.0   4436   752 ?        Ss   Feb08   0:00 server --sh -n /run/user/1000/.flatpak-helper/pkcs11-flatpak-39061 --provider p11-kit-trust.so pkcs11:model=p11-kit-trust?write-protected=yes
+flancian   39100  0.0  0.0 367984 17548 ?        Ssl  Feb08   0:03 /usr/libexec/flatpak-portal
+flancian   46375  0.1  0.4 220224 163136 ?       Ss   Feb08  51:31 tmux new-session -t 0 ; new-window
+flancian   46445  0.0  0.0   9076  5656 pts/5    Ss+  Feb08   0:00 -bash
+flancian   46450  0.0  0.0   9076  5952 pts/6    Ss   Feb08   0:00 -bash
+root       48481  0.0  0.0      0     0 ?        I    18:00   0:00 [kworker/5:0-mm_percpu_wq]
+root       48502  0.0  0.0      0     0 ?        I    18:00   0:00 [kworker/13:2]
+root       48515  0.0  0.0      0     0 ?        I    18:00   0:00 [kworker/9:0]
+root       66808  0.0  0.0 2357916 38400 ?       Ssl  Mär08   0:52 /usr/lib/snapd/snapd
+root      132410  1.7  0.3 581228 148016 ?       Ssl  Feb08 818:02 /usr/libexec/fwupd/fwupd
+flancian  165565  0.0  0.0   9076  5760 pts/2    Ss+  Mär09   0:00 -bash
+root      251603  0.0  0.0      0     0 ?        I    20:00   0:00 [kworker/7:0-mm_percpu_wq]
+root      251611  0.0  0.0      0     0 ?        I    20:00   0:00 [kworker/11:2-mm_percpu_wq]
+root      262507  0.0  0.0  18380 11896 ?        Ss   Mär05   0:09 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root      320284  0.0  0.0      0     0 ?        I    21:00   0:00 [kworker/8:0-mm_percpu_wq]
+root      339102  0.0  0.0      0     0 ?        I    21:17   0:01 [kworker/u33:4-writeback]
+root      372568  0.0  0.0      0     0 ?        I    21:33   0:01 [kworker/u34:1-events_power_efficient]
+root      373127  0.0  0.0      0     0 ?        I    21:34   0:00 [kworker/7:1]
+root      373196  0.0  0.0      0     0 ?        I    21:34   0:00 [kworker/3:2-mm_percpu_wq]
+root      374707  0.1  0.0      0     0 ?        I    21:37   0:04 [kworker/0:3-events]
+flancian  376405  0.0  0.0   7312  3584 ?        Ss   21:39   0:00 /bin/bash /home/flancian/agora-bridge/run-dev.sh
+flancian  376406  0.0  0.0  94812 16384 ?        Sl   21:39   0:00 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  376416  0.0  0.0  95940 14396 ?        Sl   21:39   0:03 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  376417  0.0  0.0  95940 14396 ?        Sl   21:39   0:03 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  376418  0.0  0.0  96020 14140 ?        Sl   21:39   0:03 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  376419  0.0  0.0  95940 14140 ?        Sl   21:39   0:03 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  376420  0.0  0.0  95940 14396 ?        Sl   21:39   0:03 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  376422  0.0  0.0  95940 14396 ?        Sl   21:39   0:03 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+root      376744  0.0  0.0      0     0 ?        I    21:40   0:00 [kworker/5:2-cgroup_destroy]
+root      378116  0.0  0.0      0     0 ?        I    21:41   0:00 [kworker/11:0]
+root      378889  0.0  0.0      0     0 ?        I    21:42   0:00 [kworker/4:1-cgroup_destroy]
+root      428252  0.2  0.0      0     0 ?        I<   21:56   0:06 [kworker/u35:0-hci0]
+root      438528  0.0  0.0      0     0 ?        I    22:00   0:00 [kworker/1:3]
+root      438567  0.0  0.0 1672040 4084 ?        Sl   22:00   0:00 /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 5019 -container-ip 172.17.0.2 -container-port 3000
+root      438578  0.0  0.0 1672296 3968 ?        Sl   22:00   0:00 /usr/bin/docker-proxy -proto tcp -host-ip :: -host-port 5019 -container-ip 172.17.0.2 -container-port 3000
+root      438628  0.0  0.0 1238460 13824 ?       Sl   22:00   0:00 /usr/bin/containerd-shim-runc-v2 -namespace moby -id ea5c334b2f99bfa390fda54c6bbc59817a4ec9414d6c945d7f5e70216ffe8158 -address /run/containerd/containerd.sock
+root      438650  0.0  0.0   2464  1152 ?        Ss   22:00   0:00 /tini -- /docker-entrypoint.sh
+root      438694  0.0  0.0   3924  2944 ?        S    22:00   0:00 /bin/bash -e /docker-entrypoint.sh
+root      438716  0.0  0.0   4120  2688 ?        S    22:00   0:00 su silverbullet -s /bin/bash -c deno run -A --unstable-kv --unstable-worker-options /silverbullet.js 
+flancian  438717  1.3  1.0 41603472 425276 ?     Ssl  22:00   0:29 deno run -A --unstable-kv --unstable-worker-options /silverbullet.js
+root      442114  0.0  0.0      0     0 ?        I<   22:02   0:00 [kworker/u36:1-rb_allocator]
+www-data  455911  0.0  0.0  26600 20100 ?        S    Feb21   0:42 nginx: worker process
+www-data  455912  0.0  0.0  26600 19972 ?        S    Feb21   0:44 nginx: worker process
+www-data  455913  0.0  0.0  26600 20228 ?        S    Feb21   0:43 nginx: worker process
+www-data  455914  0.0  0.0  26600 20228 ?        S    Feb21   0:42 nginx: worker process
+www-data  455915  0.0  0.0  26600 20228 ?        S    Feb21   0:43 nginx: worker process
+www-data  455916  0.0  0.0  26600 19844 ?        S    Feb21   0:43 nginx: worker process
+www-data  455917  0.0  0.0  26600 20356 ?        S    Feb21   0:43 nginx: worker process
+www-data  455918  0.0  0.0  26600 19972 ?        S    Feb21   0:43 nginx: worker process
+www-data  455919  0.0  0.0  26600 20100 ?        S    Feb21   0:43 nginx: worker process
+www-data  455920  0.0  0.0  26600 20228 ?        S    Feb21   0:43 nginx: worker process
+www-data  455921  0.0  0.0  26600 20100 ?        S    Feb21   0:44 nginx: worker process
+www-data  455922  0.0  0.0  26600 19972 ?        S    Feb21   0:43 nginx: worker process
+www-data  455923  0.0  0.0  26600 20356 ?        S    Feb21   0:43 nginx: worker process
+www-data  455924  0.0  0.0  26600 19972 ?        S    Feb21   0:43 nginx: worker process
+www-data  455925  0.0  0.0  26600 19972 ?        S    Feb21   0:43 nginx: worker process
+www-data  455926  0.0  0.0  26600 19844 ?        S    Feb21   0:44 nginx: worker process
+flancian  464732  0.0  0.0   5656  1920 pts/8    S    22:08   0:00 timeout 3600 ./run-dev.sh Local
+flancian  464733  0.0  0.0   7312  3584 pts/8    S    22:08   0:00 /bin/bash ./run-dev.sh Local
+root      466193  0.0  0.0      0     0 ?        I    22:09   0:00 [kworker/u32:0-comp_1.2.0]
+root      469640  0.0  0.0      0     0 ?        D    22:10   0:00 [kworker/u33:0+events_unbound]
+root      477146  0.0  0.0      0     0 ?        I<   22:13   0:00 [kworker/u37:7-ttm]
+flancian  481650  0.5  0.0 307632  9344 ?        Sl   22:14   0:07 espeak -a 70 -v en+m5 meditate
+flancian  481698  0.0  0.0 115508 13696 ?        S<sl 22:14   0:00 /usr/bin/pipewire
+flancian  481700  0.0  0.0  95080  5760 ?        Ssl  22:14   0:00 /usr/bin/pipewire -c filter-chain.conf
+flancian  481701  4.6  0.0 403612 18036 ?        S<sl 22:14   1:01 /usr/bin/wireplumber
+flancian  481750  0.0  0.1 664724 59392 ?        Ssl  22:14   0:00 /usr/libexec/xdg-desktop-portal-wlr
+root      481838  0.0  0.0      0     0 ?        I    22:14   0:00 [kworker/8:1]
+flancian  481963  0.0  0.0 122792 13952 ?        S<Lsl 22:14   0:00 /usr/bin/pipewire-pulse
+flancian  482152  0.0  0.0   2800  1664 ?        S    22:14   0:00 sh -c ~/bin/wofi --show run
+flancian  482153  0.0  0.0   7312  3584 ?        S    22:14   0:00 /bin/bash /home/flancian/bin/wofi --show run
+flancian  482154  0.0  0.0   7312  3456 ?        S    22:14   0:01 /bin/bash /home/flancian/bin/chromium
+flancian  482184  0.0  0.0   3580  1920 ?        S    22:14   0:00 bwrap --args 39 -- chromium
+flancian  482189  0.0  0.0   3580  1920 ?        S    22:14   0:00 bwrap --args 38 -- xdg-dbus-proxy --args=42
+flancian  482191  1.8  0.0 233168  5880 ?        Sl   22:14   0:24 xdg-dbus-proxy --args=42
+flancian  482196  0.0  0.0   3688  1280 ?        S    22:14   0:00 bwrap --args 39 -- chromium
+flancian  482197  6.4  0.8 34343440 314956 ?     Sl   22:14   1:25 /app/chromium/chrome --enable-features=WebRTCPipeWireCapturer --disable-features=WebAssemblyTrapHandler,DesktopPWAsRunOnOsLogin
+flancian  482304  0.0  0.0 33568756 3840 ?       Sl   22:14   0:00 /app/chromium/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/flancian/.var/app/org.chromium.Chromium/config/chromium/Crash Reports --annotation=lsb-release=Freedesktop SDK 23.08 (Flatpak runtime) --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=129.0.6668.89 --initial-client-fd=5 --shared-client-connection
+flancian  482306  0.0  0.0 33560544 3456 ?       S    22:14   0:00 /app/chromium/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/flancian/.var/app/org.chromium.Chromium/config/chromium/Crash Reports --annotation=lsb-release=Freedesktop SDK 23.08 (Flatpak runtime) --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=129.0.6668.89 --initial-client-fd=4 --shared-client-connection
+flancian  482309  0.0  0.1 33937600 61312 ?      S    22:14   0:00 /app/chromium/chrome --type=zygote --no-zygote-sandbox --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+flancian  482353  0.0  0.0   3580  1920 ?        Ss   22:14   0:00 bwrap --args 40 -- /app/chromium/chrome --type=zygote --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+root      482363  0.0  0.0      0     0 ?        I    22:14   0:00 [kworker/15:2]
+flancian  482366  0.0  0.0   3684  1536 ?        S    22:14   0:00 bwrap --args 40 -- /app/chromium/chrome --type=zygote --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+root      482367  0.0  0.0      0     0 ?        I    22:14   0:00 [kworker/6:1]
+flancian  482368  0.0  0.1 33937600 62080 ?      S    22:14   0:00 /app/chromium/chrome --type=zygote --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+flancian  482407  3.3  0.5 34449844 231108 ?     Sl   22:14   0:45 /app/chromium/chrome --type=gpu-process --ozone-platform=wayland --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482409  0.1  0.3 34004220 120056 ?     Sl   22:14   0:02 /app/chromium/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482411  0.0  0.1 33996528 54748 ?      Sl   22:14   0:00 /app/chromium/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482513  0.0  0.2 1211894304 103172 ?   Sl   22:14   0:00 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2794885659486 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482546  0.0  0.1 1211894108 71932 ?    Sl   22:14   0:00 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=13 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2794885682374 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482547  0.0  0.3 1211961016 117556 ?   Sl   22:14   0:00 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2794885684357 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482565  0.0  0.3 1213601348 116816 ?   Sl   22:14   0:00 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=14 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2794885758408 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+root      482582  0.0  0.0      0     0 ?        I    22:14   0:00 [kworker/u32:3-comp_1.3.0]
+flancian  482598  0.0  0.0 155076  3200 ?        SLsl 22:14   0:00 /usr/bin/gpg-agent --supervised
+flancian  482602  0.0  0.0  12316 10364 ?        S    22:14   0:00 p11-kit-remote --provider p11-kit-trust.so pkcs11:model=p11-kit-trust?write-protected=yes
+root      482708  0.0  0.0      0     0 ?        I    22:14   0:00 [kworker/u33:7-flush-259:0]
+flancian  482778  6.2  1.8 1212058508 716000 ?   Sl   22:14   1:23 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=24 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2794891528459 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482787  0.0  0.3 1211924680 131920 ?   Sl   22:14   0:00 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=29 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2794891569021 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482796  0.4  0.4 1212011892 179544 ?   Sl   22:14   0:06 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=30 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2794891593086 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482827  0.3  0.4 1212028624 174148 ?   Sl   22:14   0:04 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=21 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2794891650834 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  482848  1.3  0.2 34000964 80000 ?      Sl   22:14   0:17 /app/chromium/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+root      483510  0.0  0.0      0     0 ?        I    22:15   0:00 [kworker/u34:3-events_unbound]
+root      485005  0.0  0.0      0     0 ?        I    22:15   0:00 [kworker/14:2-events]
+root      488144  0.0  0.0      0     0 ?        I    22:16   0:00 [kworker/u34:6-flush-259:0]
+flancian  488146  0.0  0.2  95964 78536 pts/8    S    22:16   0:00 /home/flancian/.cache/pypoetry/virtualenvs/agora-server-S8-AgJOI-py3.12/bin/python /home/flancian/.cache/pypoetry/virtualenvs/agora-server-S8-AgJOI-py3.12/bin/flask --debug run -h 0.0.0.0 -p 5017
+flancian  488161  0.8  0.2 169848 78480 pts/8    Sl   22:16   0:09 /home/flancian/.cache/pypoetry/virtualenvs/agora-server-S8-AgJOI-py3.12/bin/python /home/flancian/.cache/pypoetry/virtualenvs/agora-server-S8-AgJOI-py3.12/bin/flask --debug run -h 0.0.0.0 -p 5017
+root      493447  0.1  0.0      0     0 ?        I    22:19   0:01 [kworker/0:2-events]
+flancian  495903  0.0  0.0 1904220 20820 ?       Ssl  22:20   0:00 /usr/bin/snap userd --agent
+root      495995  0.0  0.0      0     0 ?        I    22:20   0:00 [kworker/10:1-cgroup_destroy]
+root      498252  0.0  0.0      0     0 ?        I    22:21   0:00 [kworker/2:1]
+root      498974  0.0  0.0      0     0 ?        I    22:22   0:00 [kworker/u34:0-flush-259:0]
+root      501752  0.0  0.0      0     0 ?        R    22:23   0:00 [kworker/u32:1-gfx_low]
+root      502881  0.0  0.0      0     0 ?        I<   22:23   0:00 [kworker/u35:1-hci0]
+root      506623  0.0  0.0   3212  1780 ?        S    22:24   0:00 sleep 3600
+root      511175  0.0  0.0      0     0 ?        I<   22:26   0:00 [kworker/u36:2-rb_allocator]
+root      512976  0.0  0.0      0     0 ?        I<   22:27   0:00 [kworker/u37:0-ttm]
+root      513280  0.0  0.0      0     0 ?        I    22:27   0:00 [kworker/12:1-cgroup_destroy]
+root      519547  0.0  0.0      0     0 ?        I    22:29   0:00 [kworker/0:0-events]
+root      520884  0.0  0.0      0     0 ?        I    22:30   0:00 [kworker/u34:2-events_power_efficient]
+root      527966  0.0  0.0      0     0 ?        I    22:32   0:00 [kworker/u33:1-flush-259:0]
+root      528536  0.0  0.0      0     0 ?        I<   22:32   0:00 [kworker/u37:2]
+root      536065  0.0  0.0      0     0 ?        I    22:34   0:00 [kworker/12:2-cgroup_destroy]
+root      536220  0.0  0.0      0     0 ?        I    22:34   0:00 [kworker/u33:2]
+root      536667  0.0  0.0      0     0 ?        I<   22:34   0:00 [kworker/u35:2]
+flancian  540629  0.0  0.0   7312  3584 ?        Ss   22:35   0:00 /bin/bash /home/flancian/bin/start-vnc-server
+flancian  540632  0.0  0.0   7312  3456 ?        S    22:35   0:00 /bin/bash -x /home/flancian/bin/wayvnc -k us_intl 0.0.0.0
+flancian  540634  2.8  0.1 2522736 49280 ?       SLl  22:35   0:02 /home/flancian/wayvnc/build/wayvnc -k us_intl 0.0.0.0
+root      541835  0.0  0.0      0     0 ?        I    22:35   0:00 [kworker/0:1]
+flancian  544677  0.2  0.2 1213532636 93536 ?    Sl   22:36   0:00 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2796196462082 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  544678  0.2  0.2 1213543976 105040 ?   Sl   22:36   0:00 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=41 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2796196464682 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  544679  0.2  0.2 1213532636 92772 ?    Sl   22:36   0:00 /app/chromium/chrome --type=renderer --string-annotations --crashpad-handler-pid=9 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --force-color-profile=srgb --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=42 --time-ticks-at-unix-epoch=-1739019192766576 --launch-time-ticks=2796196467524 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,8708038834270076181,1032461868730222016,262144 --enable-features=WebRTCPipeWireCapturer --disable-features=DesktopPWAsRunOnOsLogin,EyeDropper,WebAssemblyTrapHandler --variations-seed-version
+flancian  544713  0.0  0.0   5652  2048 ?        S    22:36   0:00 sleep 30
+flancian  544895  0.0  0.0   2800  1664 ?        S    22:36   0:00 sh -c kitty -- tmux new-session -t 0 \; new-window $@
+flancian  544896  4.0  0.3 1339340 125180 ?      Sl   22:36   0:00 kitty -- tmux new-session -t 0 ; new-window
+flancian  544941  0.0  0.0   9264  4864 pts/0    Ss+  22:36   0:00 tmux new-session -t 0 ; new-window
+flancian  544956  0.2  0.0   9076  5760 pts/16   Ss   22:36   0:00 -bash
+flancian  545385  0.0  0.0   5656  1920 pts/11   S    22:36   0:00 timeout 60 git fetch origin
+flancian  545386  0.0  0.0   7904  4224 pts/11   T    22:36   0:00 git fetch origin
+flancian  545387  0.0  0.0   7904  3584 pts/11   T    22:36   0:00 /usr/lib/git-core/git remote-https origin https://github.com/hdarlim/quartz
+flancian  545388  0.2  0.0 101092 16356 pts/11   T    22:36   0:00 /usr/lib/git-core/git-remote-https origin https://github.com/hdarlim/quartz
+flancian  546369  0.0  0.0   5656  1920 pts/11   S    22:36   0:00 timeout 60 git fetch origin
+flancian  546370  0.0  0.0  10628  4608 pts/11   S    22:36   0:00 git fetch origin
+flancian  546374  0.0  0.0   5656  1920 ?        S    22:36   0:00 timeout 60 git fetch origin
+flancian  546375  0.0  0.0   8960  4608 ?        S    22:36   0:00 git fetch origin
+flancian  546376  0.0  0.0   7904  3584 ?        S    22:36   0:00 /usr/lib/git-core/git remote-https origin https://codeberg.org/j0lms/notes-md
+flancian  546377  8.8  0.0 101092 16476 ?        S    22:36   0:00 /usr/lib/git-core/git-remote-https origin https://codeberg.org/j0lms/notes-md
+flancian  546379  0.0  0.0   5656  1920 pts/11   S    22:36   0:00 timeout 60 git fetch origin
+flancian  546380  0.0  0.0   7916  4608 pts/11   S    22:36   0:00 git fetch origin
+flancian  546381  0.0  0.0   7904  3584 pts/11   S    22:36   0:00 /usr/lib/git-core/git remote-https origin https://github.com/khinsen/agora-garden
+flancian  546382 12.5  0.0 102120 16480 pts/11   S    22:36   0:00 /usr/lib/git-core/git-remote-https origin https://github.com/khinsen/agora-garden
+flancian  546385  0.0  0.0   5656  1920 pts/11   S    22:36   0:00 timeout 60 git fetch origin
+flancian  546386  0.0  0.0   7948  4608 pts/11   S    22:36   0:00 git fetch origin
+flancian  546387  0.0  0.0   7904  3456 pts/11   S    22:36   0:00 /usr/lib/git-core/git remote-https origin https://github.com/blindpill/notes.git
+flancian  546388 17.6  0.0 102120 16476 pts/11   S    22:36   0:00 /usr/lib/git-core/git-remote-https origin https://github.com/blindpill/notes.git
+flancian  546394  100  0.0  11124  4608 pts/16   R+   22:36   0:00 ps auxwww
+root      823553  0.0  0.0   2892  1536 ?        Ss   Mär07   0:00 /bin/sh /snap/cups/1070/scripts/run-cupsd
+root      823562  0.0  0.0   2892  1536 ?        Ss   Mär07   0:00 /bin/sh /snap/cups/1070/scripts/run-cups-browsed
+root      823821  0.0  0.0  63804 13440 ?        S    Mär07   0:00 cupsd -f -s /var/snap/cups/common/etc/cups/cups-files.conf -c /var/snap/cups/common/etc/cups/cupsd.conf
+root      823822  0.0  0.0 241736  9728 ?        Sl   Mär07   0:00 cups-proxyd /var/snap/cups/common/run/cups.sock /run/cups/cups.sock -l --logdir /var/snap/cups/1070/var/log
+root      823861  0.0  0.0   2892   896 ?        S    Mär07   0:00 /bin/sh /snap/cups/1070/scripts/run-cups-browsed
+flancian  861280  0.0  0.0   2800  1812 ?        S    Feb08   0:00 sh -c kitty -- tmux new-session -t 0 \; new-window $@
+flancian  861282  0.0  0.1 1306136 64012 ?       Sl   Feb08   0:53 kitty -- tmux new-session -t 0 ; new-window
+flancian  861326  0.0  0.0   9264  4488 pts/7    Ss+  Feb08   0:00 tmux new-session -t 0 ; new-window
+flancian  861338  0.0  0.0   9076  5472 pts/9    Ss+  Feb08   0:00 -bash
+flancian  861692  0.0  0.0   7312  3464 pts/8    Ss+  Feb08   0:00 /bin/bash ./run-localdev.sh
+flancian  861702  0.0  0.1 966616 68708 pts/10   Ssl+ Feb08   0:14 npm exec esbuild app/js-src/index.ts --bundle --outfile=app/static/js/index.js --watch
+flancian  861706  0.0  0.0   7312  3632 pts/11   Ss+  Feb08   0:00 /bin/bash ./run-dev.sh
+flancian  861708  0.0  0.0  94812 13776 pts/11   Sl+  Feb08   0:00 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  861745  0.0  0.0  95004 12668 pts/11   Sl+  Feb08  25:04 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  861746  0.0  0.0  95068 12524 pts/11   Sl+  Feb08  25:16 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  861747  0.0  0.0  95036 12724 pts/11   Sl+  Feb08  25:09 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  861750  0.0  0.0  95028 12560 pts/11   Sl+  Feb08  25:09 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  861751  0.0  0.0  95012 12416 pts/11   Sl+  Feb08  25:04 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  861753  0.0  0.0  95040 12796 pts/11   Sl+  Feb08  25:05 python3 ./pull.py --config /home/flancian/agora/sources.yaml --output-dir /home/flancian/agora --delay 1 --reset_only True
+flancian  862199  0.0  0.0   2800  1812 pts/10   S+   Feb08   0:00 sh -c esbuild app/js-src/index.ts --bundle --outfile=app/static/js/index.js --watch
+flancian  862200  2.0  0.0 724244 15736 pts/10   Sl+  Feb08 955:48 esbuild app/js-src/index.ts --bundle --outfile=app/static/js/index.js --watch
+root      910364  0.0  0.0      0     0 ?        I    04:00   0:04 [kworker/3:1-cgroup_destroy]
+flancian 1012248  0.0  0.0   2800  1808 ?        S    Feb10   0:00 sh -c ~/bin/wofi --show run
+flancian 1012249  0.0  0.0   7312  3512 ?        S    Feb10   0:00 /bin/bash /home/flancian/bin/wofi --show run
+flancian 1012250  0.0  0.0   7312  3624 ?        S    Feb10   0:00 /bin/bash /home/flancian/bin/nostromo-vnc
+flancian 1012309  1.2  0.2 1075388 100576 ?      Sl   Feb10 551:01 remmina -c vnc://192.168.1.5?VncUsername=user&VncPassword=1WwE%2FljFqLqoc94hwWdPnA%3D%3D
+root     1168259  0.0  0.0      0     0 ?        I    05:00   0:04 [kworker/14:0-events]
+flancian 1359288  0.0  0.0 2059060 24524 pts/15  Sl   Mär09   0:09 chezmoi cd
+flancian 1359302  0.0  0.0   9936  7128 pts/15   S    Mär09   0:00 /bin/bash
+flancian 1694013  0.0  0.0  13232  7936 pts/15   Sl+  Mär10   0:00 /snap/nvim/3456/usr/bin/nvim burup forever.md
+flancian 1694044  0.0  0.0  23472 17376 ?        Ssl  Mär10   0:07 /snap/nvim/3456/usr/bin/nvim --embed burup forever.md
+root     1955933  0.0  0.0      0     0 ?        I    08:00   0:04 [kworker/6:2-events]
+root     2140779  0.0  0.0      0     0 ?        I<   08:42   0:00 [kworker/u37:1-ttm]
+flancian 2211836  0.0  0.0   7316  3668 pts/6    S+   Feb09   0:00 /bin/bash ./run-dev.sh
+flancian 2212246  0.0  0.0 2643104 17780 pts/6   Sl+  Feb09   2:11 /home/flancian/go/bin/bull -content /home/flancian/garden serve -listen=0.0.0.0:3333 --root=/@flancian
+flancian 2212969  0.0  0.0   2800  1812 ?        S    Feb09   0:00 sh -c kitty -- tmux new-session -t 0 \; new-window $@
+flancian 2212972  0.0  0.1 1280552 59480 ?       Sl   Feb09   0:50 kitty -- tmux new-session -t 0 ; new-window
+flancian 2213033  0.0  0.0   9264  4276 pts/4    Ss+  Feb09   0:00 tmux new-session -t 0 ; new-window
+flancian 2213038  0.0  0.0   9076  5508 pts/13   Ss+  Feb09   0:00 -bash
+root     2219758  0.0  0.0      0     0 ?        I    09:00   0:02 [kworker/13:1-mm_percpu_wq]
+flancian 2223180  0.0  0.0 387280 11748 ?        Ssl  Feb09   6:26 /usr/libexec/gvfs-udisks2-volume-monitor
+flancian 2223195  0.0  0.0 386740  7404 ?        Ssl  Feb09   1:16 /usr/libexec/gvfs-afc-volume-monitor
+flancian 2223202  0.0  0.0 307760  6560 ?        Ssl  Feb09   0:00 /usr/libexec/gvfs-goa-volume-monitor
+flancian 2223211  0.0  0.0 544096 20912 ?        SLl  Feb09   0:04 /usr/libexec/goa-daemon
+flancian 2223221  0.0  0.0 386492  9384 ?        Sl   Feb09   0:55 /usr/libexec/goa-identity-service
+flancian 2223233  0.0  0.0 308248  6292 ?        Ssl  Feb09   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+flancian 2223247  0.0  0.0 307280  6120 ?        Ssl  Feb09   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+flancian 2223252  0.0  0.0 533076  8824 ?        Sl   Feb09   0:09 /usr/libexec/gvfsd-trash --spawner :1.15 /org/gtk/gvfs/exec_spaw/0
+flancian 2223276  0.0  0.0 459772  8696 ?        Sl   Feb09   0:00 /usr/libexec/gvfsd-network --spawner :1.15 /org/gtk/gvfs/exec_spaw/1
+flancian 2223287  0.0  0.0 603524 23036 ?        Sl   Feb09   0:00 /usr/libexec/gvfsd-smb-browse --spawner :1.15 /org/gtk/gvfs/exec_spaw/2
+flancian 2223314  0.0  0.0 387912  9144 ?        Sl   Feb09   0:01 /usr/libexec/gvfsd-dnssd --spawner :1.15 /org/gtk/gvfs/exec_spaw/3
+flancian 2223399  0.0  0.0 230368  5848 ?        Ssl  Feb09   0:00 /usr/libexec/dconf-service
+flancian 2794441  0.0  0.0   9076  5760 pts/14   Ss+  Mär10   0:00 -bash
+flancian 2972165  0.0  0.0   2800  1816 ?        S    Feb09   0:00 sh -c kitty -- tmux new-session -t 0 \; new-window $@
+flancian 2972166  0.0  0.1 1134172 65240 ?       Sl   Feb09   1:47 kitty -- tmux new-session -t 0 ; new-window
+flancian 2972220  0.0  0.0   9264  4240 pts/12   Ss+  Feb09   0:00 tmux new-session -t 0 ; new-window
+flancian 2972227  0.0  0.0   9208  5612 pts/15   Ss   Feb09   0:00 -bash
+flancian 3001445  0.0  0.0   2800  1744 ?        S    Feb09   0:00 sh -c ~/bin/wofi --show run
+flancian 3001446  0.0  0.0   7312  3200 ?        S    Feb09   0:00 /bin/bash /home/flancian/bin/wofi --show run
+flancian 3001447  0.0  0.1 639748 67580 ?        Sl   Feb09   0:30 /usr/bin/pavucontrol
+root     3002893  0.0  0.0      0     0 ?        I<   Feb09   0:00 [kworker/R-ib-co]
+root     3002894  0.0  0.0      0     0 ?        I<   Feb09   0:00 [kworker/R-ib-co]
+root     3002895  0.0  0.0      0     0 ?        I<   Feb09   0:00 [kworker/R-ib_mc]
+root     3002896  0.0  0.0      0     0 ?        I<   Feb09   0:00 [kworker/R-ib_nl]
+root     3147800  0.0  0.0  12020  7552 ?        Ss   Feb21   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root     3194287  0.0  0.0      0     0 ?        I    12:58   0:01 [kworker/15:1-mm_percpu_wq]
+root     3197847  0.0  0.0      0     0 ?        S    12:59   0:00 [psimon]
+flancian 3253317  0.0  0.0   2800  1664 ?        S    Mär11   0:00 sh -c ~/bin/wofi --show run
+flancian 3253318  0.0  0.0   7312  3456 ?        S    Mär11   0:00 /bin/bash /home/flancian/bin/wofi --show run
+flancian 3253319  0.1  0.9 37898648 364812 ?     SLl  Mär11   4:49 /usr/bin/nheko
+root     3389799  0.0  0.0      0     0 ?        I    14:00   0:02 [kworker/10:0-mm_percpu_wq]
+flancian 3402273  0.0  0.0   2816  1792 ?        Ss   14:06   0:00 /usr/bin/kanshi
+root     3409007  0.0  0.0      0     0 ?        I    14:09   0:03 [kworker/2:0-mm_percpu_wq]
+root     3537844  0.0  0.0      0     0 ?        I    15:00   0:01 [kworker/9:1-mm_percpu_wq]
+flancian 3887332  0.0  0.0   2800  1664 ?        S    Mär11   0:00 sh -c kitty -- tmux new-session -t 0 \; new-window $@
+flancian 3887333  0.0  0.3 1155852 139820 ?      Sl   Mär11   0:03 kitty -- tmux new-session -t 0 ; new-window
+flancian 3887377  0.0  0.0   9264  4864 pts/3    Ss+  Mär11   0:00 tmux new-session -t 0 ; new-window
+flancian 3887388  0.0  0.0   9196  5888 pts/17   Ss+  Mär11   0:00 -bash
+flancian 4007151  0.0  0.0   2800  1664 ?        S    Mär11   0:00 sh -c ~/bin/wofi --show run
+flancian 4007174  0.0  0.0   7312  3584 ?        S    Mär11   0:00 /bin/bash /home/flancian/bin/wofi --show run
+flancian 4007175  0.0  0.0   7312  3584 ?        S    Mär11   1:03 /bin/bash /home/flancian/bin/taixu
+root     4042801  0.0  0.0      0     0 ?        I    17:00   0:01 [kworker/12:0-mm_percpu_wq]
+root     4042831  0.0  0.0      0     0 ?        I    17:00   0:01 [kworker/4:2-mm_percpu_wq]
+root     4042834  0.0  0.0      0     0 ?        I    17:00   0:01 [kworker/1:0-events]
+root     4062162  0.0  0.0  33840 12796 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+lp       4062165  0.0  0.0  16832  7040 ?        S    00:00   0:00 /usr/lib/cups/notifier/dbus dbus://

@@ -1,0 +1,3 @@
+- I became a member of [[SGMK]] on [[2025-04]], and with it joined the space in [[Bitwäscherei]] more formally.
+- [[Mechatronic Art]]:
+  - #go https://mechatronicart.ch/

@@ -1,0 +1,4 @@
+- I ran into [[Zebras Unite]] again thanks to the Agora.
+- #go https://zebrasunite.coop/
+- I checked their website and it seems not very updated; there's a reference to a 2023 conference domain which has expired. Twitter seems not updated since 2023. Maybe they didn't make it?
+- Then again, Flancia.org is not updated very often either :)
