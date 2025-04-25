@@ -1,4 +1,5 @@
-- I visited [[Plitnyakovo]] for the first time today on [[2024-09-30]].
-- As of [[2024-10-19]] I'm thinking of visiting Plitnyakovo again.
-- I got back to [[Plitnyakovo]] yesterday [[2024-11-04]] after a long trip back from somewhere far we went to with Tymur to mine for ice; then we got lost on the way back and ended up ~8k coordinate units away from the origin :)
-- 
+- A [[place]].
+  - [[Plitnyak]] for short :)
+  - I visited [[Plitnyakovo]] for the first time today on [[2024-09-30]].
+  - As of [[2024-10-19]] I'm thinking of visiting Plitnyakovo again.
+  - I got back to [[Plitnyakovo]] yesterday [[2024-11-04]] after a long trip back from somewhere far we went to with [[Timur]] to mine for ice; then we got lost on the way back and ended up ~8k coordinate units away from the origin :)
