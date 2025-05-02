@@ -1,1 +1,3 @@
 - ![[Tag der Arbeit]]
+  - Meta: the above transclusion should work but I think it currently doesn't :)
+    - Hmm, I guess I could interpret it as an Agora pull?
