@@ -4,10 +4,8 @@
   - a manifestation of everything we leave on the table because of failing to solve coordination problems.
   - #pull [[meditations on moloch]]
   - #pull [[venceremos a moloch]]
-  - an [[egregore]].
-    - Apologies for calling it a [[thing]] at some point.
-    - Called by some [[the machine]].
-    - Lives in [[Antiflancia]], maybe.
+- an [[egregore]].
+  - Tends to lead humanity into [[Antiflancia]], maybe.
   - [[wp]] https://en.wikipedia.org/wiki/Moloch
   - I believe [[humanity]] is [[entangled]] with [[Moloch]].
     - A manifestation of ignorance, greed and lack of coordination which keeps us in a suboptimal space.
