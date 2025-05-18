@@ -1,7 +1,9 @@
 # Moloch
 
 - a [[being]].
-  - [[juntos venceremos a moloch]]
+  - a manifestation of everything we leave on the table because of failing to solve coordination problems.
+  - #pull [[meditations on moloch]]
+  - #pull [[venceremos a moloch]]
   - an [[egregore]].
     - Apologies for calling it a [[thing]] at some point.
     - Called by some [[the machine]].
