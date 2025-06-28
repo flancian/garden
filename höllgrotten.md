@@ -1,0 +1,3 @@
+- a [[cave]] or [[cave system]].
+  - Near [[Baar]] and [[Zug]] in [[Switzerland]] :)
+  - I visited with my mum on [[2025-06-28]], it was great!
