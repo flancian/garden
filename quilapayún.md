@@ -1,0 +1,2 @@
+- una de mis bandas favoritas.
+  - Le conté de ella a mi mamá el [[2025-07-17]].
