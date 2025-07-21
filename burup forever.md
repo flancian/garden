@@ -21,7 +21,11 @@
 
 --
 
-- Back here on [[2025-04-17]] Burup weighted ~5.55kg today by the same method, let's say 200-250g lost with the diet she's been keeping :) Good that she started losing and she looks better/more athletic already, might be less generous with snacks or keep to 3gr dry food portions instead of 5gr and see more closely how many feedings she asks for during the day but I don't think I've been far from the 30gr dry food target.
+- Back here on [[2025-04-17]] Burup weighed ~5.55kg today by the same method, let's say 200-250g lost with the diet she's been keeping :) Good that she started losing and she looks better/more athletic already, might be less generous with snacks or keep to 3gr dry food portions instead of 5gr and see more closely how many feedings she asks for during the day but I don't think I've been far from the 30gr dry food target.
+
+--
+
+- Back here on [[2025-07-21]]: Burup weighed ~5.6kg today, within error margins of the above, so she seems to be on a maintain trajectory rather than a shed. I wonder which adjustments would be ideal to get her under 5kg by EOY -- ideally more exercise rather than less food as she does love snacks :) maybe a bit less dry food daily? and better accounting of freeze dried snacks?
 
 
 
