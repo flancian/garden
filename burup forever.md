@@ -27,6 +27,7 @@
 
 - Back here on [[2025-07-21]]: Burup weighed ~5.6kg today, within error margins of the above, so she seems to be on a maintain trajectory rather than a shed. I wonder which adjustments would be ideal to get her under 5kg by EOY -- ideally more exercise rather than less food as she does love snacks :) maybe a bit less dry food daily? and better accounting of freeze dried snacks?
   * Anyway, she looks healthy and happy :)
+  * She's been getting 23g of dry food a day on top of the half-can and the night feeder (7g extra) and snacks -- so I think doing 20g of dry food a day and maybe a third of a can could be a good next step?
 
 
 
