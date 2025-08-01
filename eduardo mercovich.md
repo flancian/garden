@@ -1,1 +1,2 @@
 - #pull [[sutty]]
+- Indagación: en qué nos forma, y en qué no, la facultad para interactuar con el resto de la sociedad
