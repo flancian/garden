@@ -5,5 +5,9 @@
     - Y cuáles los más signitivativos que recibiste fuera de la facultad?
   - Técnica Delphi
     - Cómo preguntás, cuando entrás en un área que no conocés, cuando no sabés qué preguntar?
-  
+    - 15-20 personas; análisis semántico de las respuestas
+    - Los temas se repiten con diferentes distribuciones
+    - En siguientes iteraciones explorás temas recurrentes de forma recursiva/fractal  
 - Debería conocer a [[AM]]!
+- Sobre las máquinas que nunca se apagan
+  - El linux secreto en el armario
