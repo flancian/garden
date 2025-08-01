@@ -1,0 +1,1 @@
+- an alternative to [[adderall]], it seems.
