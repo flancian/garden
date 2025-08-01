@@ -5,3 +5,4 @@
   - #miro https://miro.com/app/board/uXjVL-azEBw=/
 - a [[coalition]].
   - in some of [[Ursula K. Le Guin]]'s work
+- we demoed the Agora using [[Ekumen]] on [[2025-08-01]] with [[Eduardo Mercovich]] :D
