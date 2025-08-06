@@ -1,0 +1,4 @@
+- a [[person]].
+  - Lovely one :)
+  - #go https://docs.google.com/document/d/1-3s0hosefnLMpwTKTBnqaeFtwnCAAtxXlCpawXLuXq4/edit?tab=t.0
+  - 
