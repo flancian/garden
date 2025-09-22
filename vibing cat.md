@@ -1,0 +1,2 @@
+- #go https://www.youtube.com/watch?v=NUYvbT6vTPs
+  - #pull [[Bilal Göregen]]
