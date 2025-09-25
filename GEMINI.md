@@ -49,3 +49,19 @@ Based on this analysis, I will now proceed with the following research direction
 3.  **Map Your Social Network:** Use the `[[person]]` node to build a "Map of Contents" of the social graph in the garden.
 4.  **Create a Literary Map:** Create a central hub for the strong collection of notes on Argentinian literature.
 5.  **Investigate the Symbols:** Deduce the purpose of symbolic notes like `~.md` and `⚒.md` by exploring their links.
+
+---
+
+### Research #1: The "Moloch" Thread
+
+The term `[[Moloch]]` is a central antagonist in the garden's narrative. Based on a comprehensive search, here is a synthesis of its meaning:
+
+*   **Core Concept:** Moloch is a metaphor for systems that produce negative outcomes despite individual good intentions, primarily stemming from coordination failures. The main intellectual influence is Scott Alexander's essay, "Meditations on Moloch."
+
+*   **What Moloch Represents:** In this garden, Moloch embodies systemic problems such as uncontrolled capitalism, closed-source software, indifference to suffering, and rigid hierarchies. It is the personification of coordination failure.
+
+*   **The Counter-Movement:** `[[Flancia]]` is framed as a non-violent "revolution against Moloch." The goal is not destruction, but a constructive "disentangling" from these broken systems.
+
+*   **The Primary Tool:** The `[[Agora]]` is the main tool for this revolution. It is designed as a `[[knowledge commons]]` to enable the mass coordination needed to overcome the problems Moloch creates.
+
+*   **A Nuanced Conflict (Slay vs. Heal):** The notes reveal a sophisticated debate about the ultimate goal. Rather than simply "slaying" Moloch, there is a strong undercurrent of wanting to "heal" or "save" it, suggesting a desire to redeem the people and systems entangled with it. This is most evident in the decision to write an `[[Open Letter to Moloch]]` after a community poll favored "healing" over "killing."
