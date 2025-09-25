@@ -65,3 +65,17 @@ The term `[[Moloch]]` is a central antagonist in the garden's narrative. Based o
 *   **The Primary Tool:** The `[[Agora]]` is the main tool for this revolution. It is designed as a `[[knowledge commons]]` to enable the mass coordination needed to overcome the problems Moloch creates.
 
 *   **A Nuanced Conflict (Slay vs. Heal):** The notes reveal a sophisticated debate about the ultimate goal. Rather than simply "slaying" Moloch, there is a strong undercurrent of wanting to "heal" or "save" it, suggesting a desire to redeem the people and systems entangled with it. This is most evident in the decision to write an `[[Open Letter to Moloch]]` after a community poll favored "healing" over "killing."
+
+---
+
+### Research #2: Connecting Philosophy to Code
+
+Here is an analysis connecting the garden's core philosophical principles to its software architecture:
+
+*   **The Commons → The Bridge & `sources.yaml`:** This is the most direct link. Your `commons.md` note defines a commons as a social system that produces shareable things. The `agora-bridge` and `sources.yaml` file are the technical embodiment of this. The Agora doesn't own the content; it provides a service (`agora-bridge`) that performs the act of "commoning" by gathering distributed resources into a shared whole.
+
+*   **Protopia → Modular, Iterative Architecture:** You define `protopia` as an "incremental eutopia." The Agora's architecture is fundamentally protopian. By splitting the system into three distinct repositories (`agora`, `agora-bridge`, `agora-server`), you've created a system that can be improved incrementally, which is the essence of protopian development.
+
+*   **Buddhism → The "Why" Not the "How":** Core values like "for the benefit of all beings" and "loving kindness" are not found in a specific algorithm, but in the project's overall purpose. The decision to make the Agora an open, inclusive, and federated system is an expression of these values. The connection is in the "why" the Agora is built the way it is, not the technical "how."
+
+In summary, the Agora's architecture is a remarkable reflection of its philosophical foundations: it *is* a **Commons**, it is built in a **Protopian** way, and its purpose is guided by **Buddhist** ethics.
