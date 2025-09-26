@@ -1,0 +1,1 @@
+- I first learnt about him on [[2025-09-26]] with [[KM]] in [[Kunsthalle]].
