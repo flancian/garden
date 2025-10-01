@@ -1,0 +1,1 @@
+- An alter ego of [[Mencius Moldbug]], perhaps in Flancia?
