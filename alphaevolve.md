@@ -1,0 +1,2 @@
+- #go https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf
+- [[Alexey]] told me about it while traveling to [[Antalya]] on [[2025-10-20]].
