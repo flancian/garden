@@ -1,0 +1,3 @@
+- #go https://www.youtube.com/watch?v=HkgV_-nJOuE&t=88s
+- a [[musician]].
+- [[j0lms]] told me about them on [[2025-10-26]].
