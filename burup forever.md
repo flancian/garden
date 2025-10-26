@@ -29,6 +29,10 @@
   * Anyway, she looks healthy and happy :)
   * She's been getting 23g of dry food a day on top of the half-can and the night feeder (7g extra) and snacks -- so I think doing 20g of dry food a day and maybe a third of a can could be a good next step?
 
+--
+
+Back here on [[2025-10-26]]; Burup weighed 5.3kg yesterday, looks healthy! I think the 300g lost makes her look skinnier, will continue the same regimen or maybe lower kibble a bit more to 19g. Gemini reviewed the feeding plan and approved yet suggested 17g. I was able to champion Lady Burup's preferences and settle on 19g for now ;) With some bonuses.
+
 
 
 
