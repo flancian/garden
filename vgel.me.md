@@ -1,0 +1,1 @@
+- [[j0lms]] me recordó de ella el [[2025-10-26]] en [[Flancia meet]], creo que la habíamos discutido antes.
