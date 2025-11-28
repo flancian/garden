@@ -9,4 +9,8 @@ Albricias para los muertos!
 
 Y para los vivos: [[Flancia]]!
 
+--
 
+Albricias para los vivos!
+
+Y para los muertos: [[Gloria]]!
