@@ -1,0 +1,3 @@
+- Gemini told me about [[git restore-mtime]] on [[2025-12-06]].
+  - I like it as a potential external solution to the [[agora mtime]] problem.
+  - `apt install git-restore-mtime` then in any repo you want files to have 'true mtimes' (as per repo SoT): `git restore-mtime`.
