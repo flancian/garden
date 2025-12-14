@@ -1,3 +1,12 @@
+# Migration to main
+
+If you are reading this, you are probably reading an old garden last updated December 2025!
+
+My garden moved from the 'master' to 'main' branch (belatedly) on this date.
+
+Please update references:
+
+
 # Welcome to Flancian's digital garden!
 
 - This is my [[digital garden]] or [[personal knowledge graph]].
