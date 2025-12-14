@@ -1,2 +1,2 @@
 - I live in [[Switzerland]]. So...
-  - #go https://www.meteoswiss.admin.ch/#tab=weekly-forecast
+  - #go https://www.meteoswiss.admin.ch/#tab=forecast-map
