@@ -1,11 +1,10 @@
-# Migration to main
+# Important: migration to main
 
-If you are reading this, you are probably reading an old garden last updated December 2025!
+!If you are reading this, you are probably reading an old garden last updated December 2025!
 
 My garden moved from the 'master' to 'main' branch (belatedly) on this date.
 
 Please update references:
-
 
 # Welcome to Flancian's digital garden!
 
@@ -15,29 +14,6 @@ Please update references:
   - For more information about some of my other projects, please refer to https://flancia.org
   - This garden is part of the [Agora of Flancia](https://anagora.org/agora), an experimental social knowledge graph, and can be found rendered with others in https://anagora.org/
 
-## Navigating this garden
+(...)
 
-- Please use the search function in the [[Agora of Flancia]] as linked or embedded above, or begin by browsing one of the following starting points which tend to be interestingly connected :)
-  - [[person]]
-  - [[thing]]
-  - [[idea]]
-  - [[do]]
-  - [[contract]]
-  - [[flancia]]
-    - [[manifesto]]
-    - [[twitter]]
-    - [[mastodon]]
-    - [[matrix]]
-    - [[agora]]
-      - [[agora project]]
-        - [[agora server]]
-        - [[agora bridge]]
-        - [[agora plan]]
-        - [[agora discuss]]
-      - [[agora protocol]]
-      - [[agora rfcs]]
-      - [[wikilinks everywhere]]
-
-## License
-
-[[Flancia]] is [[Creative Commons]] and the [[Agora of Flancia]] is [[Free Software]].
+See https://github.com/flancian/garden.
