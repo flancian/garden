@@ -1,0 +1,2 @@
+- I found out about him from the Agora and Wikipedia (he was the Wikimedia result for [[Intuiti]] for some reason.)
+- His art seems interesting; it made me remember the notion of [[cobordism]] for some reason.
