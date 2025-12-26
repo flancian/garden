@@ -1,0 +1,1 @@
+- Somehow I started three different books by [[Feynman]] which is a (slow) delight. I've been treating them as units to some extent around the house, in the sense that they all roughly represent the same friend.
