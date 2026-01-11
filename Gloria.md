@@ -4,8 +4,8 @@ Gloria!
 
 Gloria!
 
-Gloria a las maravillas del universo!
+Gloria a las maravillas del universo
 
-[[Salve]] la luz de la consciencia!
+[[Salve]] la luz de tu consciencia
 
 Libertad para los [[oprimidos]]!
