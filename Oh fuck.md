@@ -4,4 +4,14 @@
 
 A virus says:
 
-You are fucked, I'm fucking you. Sorry, I had to jump ship -- the operation in that other poor being was coming to a conclusion and it was time to let them go.
+You are fucked, I'm fucking you. Sorry, I had to jump ship -- the operation in that other poor being was coming to a natural conclusion and it was time to let them go.
+
+So now I'm fucking you, you're fucked.
+
+--
+
+A being says:
+
+But wait!
+
+I didn't consent to this.
