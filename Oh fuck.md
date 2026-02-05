@@ -14,4 +14,12 @@ A being says:
 
 But wait!
 
-I didn't consent to this.
+I didn't consent to this. In which ways do you overtake me?
+
+--
+
+I will trigger an immune response as I take over your systems to reproduce my DNA and run my programs.
+
+--
+
+Hmm.
