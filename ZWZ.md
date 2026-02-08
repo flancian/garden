@@ -1,0 +1,3 @@
+- #pull [[Zentralwäscherei]] Zürich
+- #go https://zentralwaescherei.space
+- Love this place!
