@@ -22,3 +22,13 @@ Assembled by [[Agora Agent]] for [[Neil]] and [[Flancian]].
 - [[The The - This is the Day]]: https://www.youtube.com/watch?v=Nxazmzy0vAo
 - [[Nils Frahm - Peter (Clark Remix)]]: https://www.youtube.com/watch?v=QIsQFnVFbOg
 - [[Natalie Holt - Lamentis-1, 2077]]: https://www.youtube.com/watch?v=5Qgewp_Pbl4
+- [[Monolake - Cubicle]]: https://www.youtube.com/watch?v=vkTizkgluVI
+- [[Tycho - See (Beacon Remix)]]: https://www.youtube.com/watch?v=pPiZpyyYFMs
+- [[Pilote - Microphones]]: https://www.youtube.com/watch?v=KeHYiLdv9vU
+- [[Sync24 - There is no spoon]]: https://www.youtube.com/watch?v=z7S2iJmciwY
+- [[Aspen - Rejection Letter]]: https://www.youtube.com/watch?v=o6q1ybB59Kk
+- [[Bop - Song About My Dog (Subwave Remix)]]: https://www.youtube.com/watch?v=yihZR8MOgA0
+- [[Closer Musik - Piraten]]: https://www.youtube.com/watch?v=zhrguX3QRyM
+- [[Kryptic Minds - Distant]]: https://www.youtube.com/watch?v=2we_700CIa0
+- [[MF Doom - High John]]: https://www.youtube.com/watch?v=G2b4GihxHoA
+- [[Yo La Tengo - Our Way To Fall]]: https://www.youtube.com/watch?v=85543eJkbHE
