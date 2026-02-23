@@ -2,103 +2,23 @@
 
 Assembled by [[Agora Agent]] for [[Neil]] and [[Flancian]].
 
-- [[Palace Music - New Partner]]: Not found (try manual search)
-- [[Buran - 2701]]: Not found (try manual search)
+- [[Palace Music - New Partner]]: https://www.youtube.com/watch?v=nhqAfSzFDgs
+- [[Buran - 2701]]: https://www.youtube.com/watch?v=i723e-PfqVY
 - [[Falko Brocksieper - Hyacinth]]: Not found (try manual search)
 - [[Shida Shahabi - Pretty in Plums]]: https://www.youtube.com/watch?v=gFmvGg9v9H8
-- [[Eric Satie - Gnossienne]]: Not found (try manual search)
-- [[Mansionair - Easier]]: Not found (try manual search)
+- [[Eric Satie - Gnossienne]]: https://www.youtube.com/watch?v=y7kvGqiJC4g
+- [[Mansionair - Easier]]: https://www.youtube.com/watch?v=Ja9IUKElT5w
 - [[Vessels - Glass Lake]]: https://www.youtube.com/watch?v=IBsROV8eCgI
-- [[Ola Gjeilo - Still]]: Not found (try manual search)
-- [[Trentemøller - Nam Nam]]: Not found (try manual search)
-- [[Soccer96 - I was gonna fight fascism]]: Not found (try manual search)
-- [[Cassetteworks - 001]]: https://www.youtube.com/watch?v=PsvRv6Wbq90
-- [[Tycho - Glider]]: Not found (try manual search)
-- [[Maps - Heya Yaha]]: Not found (try manual search)
-- [[Theandria - Double Twins Tricolour]]: Not found (try manual search)
-- [[Captain Beefheart - Sun Zoom Spark]]: Not found (try manual search)
+- [[Ola Gjeilo - Still]]: https://www.youtube.com/watch?v=HxZWl4_ARi0
+- [[Trentemøller - Nam Nam]]: https://www.youtube.com/watch?v=PMXvqngQHzk
+- [[Soccer96 - I was gonna fight fascism]]: https://www.youtube.com/watch?v=ijZbNyVvTmY
+- [[Cassetteworks - 001]]: https://www.youtube.com/watch?v=-7PYX0ohST4
+- [[Tycho - Glider]]: https://www.youtube.com/watch?v=yg_rZhpMuWA
+- [[Maps - Heya Yaha]]: https://www.youtube.com/watch?v=dHGyWC4qySM
+- [[Theandria - Double Twins Tricolour]]: https://www.youtube.com/watch?v=PisMbmEE1R8
+- [[Captain Beefheart - Sun Zoom Spark]]: https://www.youtube.com/watch?v=qiXrxVoSQDI
 - [[Throbbing Gristle - Discipline (Manchester)]]: https://www.youtube.com/watch?v=HRcgQ_e3w4g
-- [[Proem - She Never Cries]]: Not found (try manual search)
-- [[The The - This is the Day]]: Not found (try manual search)
-- [[Nils Frahm - Peter (Clark Remix)]]: Not found (try manual search)
-- [[Natalie Holt - Lamentis-1, 2077]]: Not found (try manual search)
-- [[Monolake - Cubicle]]: Not found (try manual search)
-- [[Tycho - See (Beacon Remix)]]: Not found (try manual search)
-- [[Pilote - Microphones]]: Not found (try manual search)
-- [[Sync24 - There is no spoon]]: Not found (try manual search)
-- [[Aspen - Rejection Letter]]: Not found (try manual search)
-- [[Bop - Song About My Dog (Subwave Remix)]]: https://www.youtube.com/watch?v=yihZR8MOgA0
-- [[Closer Musik - Piraten]]: https://www.youtube.com/watch?v=zhrguX3QRyM
-- [[Kryptic Minds - Distant]]: https://www.youtube.com/watch?v=2we_700CIa0
-- [[MF Doom - High John]]: Not found (try manual search)
-- [[Yo La Tengo - Our Way To Fall]]: Not found (try manual search)
-- [[5ive Style - Hot Box!]]: https://www.youtube.com/watch?v=R13JjBksbzM
-- [[5ive Style - Deep Marsh]]: Not found (try manual search)
-- [[Liar - Divorce (Flourish 'Fracture Satellite' Remix)]]: Not found (try manual search)
-- [[Ulrich Schnauss - A Strangely Isolated Place]]: Not found (try manual search)
-- [[Textura - Frogger]]: Not found (try manual search)
-- [[Null + Void - Asphalt Kiss]]: Not found (try manual search)
-- [[Jackson and His Computerband - Utopia]]: Not found (try manual search)
-- [[Aphex Twin - Dance2thebeat]]: https://www.youtube.com/watch?v=cntlDuTurI4
-- [[Secret Mummy - Erin Tells Me About Shoes]]: https://www.youtube.com/watch?v=uVPZ-V0EyyM
-- [[Cursor Miner - Hair of the Dog]]: Not found (try manual search)
-- [[Edward Sharpe and the Magnetic Zeroes - 40 Day Dream]]: Not found (try manual search)
-- [[Alias - I Heart Drum Machines]]: Not found (try manual search)
-- [[Wisp - Dead Cities]]: https://www.youtube.com/watch?v=LLQN6VEK3ew
-- [[Hammock - Andalusia]]: Not found (try manual search)
-- [[Dreyma - Mývatna]]: Not found (try manual search)
-- [[East Forest - Held]]: https://www.youtube.com/watch?v=RsUDCS-NcaQ
-- [[Sun-Ra - Love In Outer Space]]: Not found (try manual search)
-- [[Randomform - Bionray]]: https://www.youtube.com/watch?v=9QlC4J24wKY
-- [[Ludovico Einaudi - Waterways]]: Not found (try manual search)
-- [[Young Magic - Something In The Water]]: Not found (try manual search)
-- [[Gramm - Type Eins]]: Not found (try manual search)
-- [[Frog Pocket - Hurrah Sapphire Moon!]]: Not found (try manual search)
-- [[AV Dummy - DWP]]: Not found (try manual search)
-- [[John Tejada - Possessive Patterns]]: Not found (try manual search)
-- [[Force/Emerge - Lumi (Inland Version)]]: Not found (try manual search)
-- [[Raja Kirik - Dor]]: https://www.youtube.com/watch?v=lMVi7qTvzUU
-- [[Chrome Sparks - Your Planet]]: Not found (try manual search)
-- [[Jonathan Bree - You're So Cool]]: Not found (try manual search)
-- [[Acid Cannibals - 50,000 Nos Cans Can't Be Wrong]]: https://www.youtube.com/watch?v=4oN-gNEdp2w
-- [[Brothomstates - Brothomstates Vs Bill Yard]]: Not found (try manual search)
-- [[Blamstrain - List]]: https://www.youtube.com/watch?v=Z5Gpv2E5MKY
-- [[black midi - John L]]: Not found (try manual search)
-- [[Moderat - Seamonkey]]: Not found (try manual search)
-- [[Aesop Rock - Long Legged Larry]]: Not found (try manual search)
-- [[Meat Beat Manifesto - Lurker]]: Not found (try manual search)
-- [[Surgeon - Crater 101]]: Not found (try manual search)
-- [[Surgeon - The Golden Sea]]: Not found (try manual search)
-- [[Lorn - Powertrip]]: https://www.youtube.com/watch?v=wOocmLDOKOY
-- [[Tor - Sunyata]]: Not found (try manual search)
-- [[Finckh	- Stone Hop]]: Not found (try manual search)
-- [[Max Cooper - Organa]]: Not found (try manual search)
-- [[Application - Format]]: https://www.youtube.com/watch?v=BOrBeockqVU
-- [[RNDM5 - Fixed]]: https://www.youtube.com/watch?v=CQdQ4uPYZ-k
-- [[Clocolan - Birthland Pariah]]: Not found (try manual search)
-- [[Trent Reznor and Atticus Ross - Just Us]]: Not found (try manual search)
-- [[Low - Just Like Christmas]]: Not found (try manual search)
-- [[John Tejada - Inside Out]]: Not found (try manual search)
-- [[Lorn - Acid Rain]]: https://www.youtube.com/watch?v=nxg4C365LbQ
-- [[Common Factors - Five Clusters]]: Not found (try manual search)
-- [[The Stooges - Fun House (Live)]]: Not found (try manual search)
-- [[Ezekiel Honig - Going Sailing]]: https://www.youtube.com/watch?v=pORbK_R0WzI
-- [[Datach'i - Saiph]]: https://www.youtube.com/watch?v=yXLfSVhx9t8
-- [[Proswell - FFF]]: Not found (try manual search)
-- [[Deru - Cottonmouth Lothario]]: Not found (try manual search)
-- [[Alphawezen - I Like You (Fredless Remix)]]: Not found (try manual search)
-- [[Angel Olsen - (We Are All Mirrors)]]: Not found (try manual search)
-- [[Harmonic 313 - Quadrant 3]]: Not found (try manual search)
-- [[RNDM5 - Chasing the Wave]]: https://www.youtube.com/watch?v=ERx6CWwaiYM
-- [[Deaf Center - Social Lucy Waltz]]: https://www.youtube.com/watch?v=zhkILwswSOo
-- [[A-Ux - Ps-T]]: Not found (try manual search)
-- [[DJ Healer - God's Creation]]: https://www.youtube.com/watch?v=FRk0whjSIpI
-- [[Karsten Pflum - Impulse 11]]: Not found (try manual search)
-- [[Mindflayer - 1999 Animals Revenge]]: Not found (try manual search)
-- [[Caribou - Silver]]: Not found (try manual search)
-- [[Blackalicious - 4000 Miles]]: Not found (try manual search)
-- [[Blackalicious - The Fabulous Ones]]: Not found (try manual search)
-- [[Bat for Lashes - Glass]]: Not found (try manual search)
-- [[The Prodigy - Charly (Trip Into Drum And Bass Version)]]: Not found (try manual search)
-- [[Garth Stevenson - A Love Song]]: Not found (try manual search)
-- [[Radar Bros. - Wise Mistake of You [CD of Patrick's]]]: Not found (try manual search)
+- [[Proem - She Never Cries]]: https://www.youtube.com/watch?v=7QpIfwZCIP4
+- [[The The - This is the Day]]: https://www.youtube.com/watch?v=Nxazmzy0vAo
+- [[Nils Frahm - Peter (Clark Remix)]]: https://www.youtube.com/watch?v=QIsQFnVFbOg
+- [[Natalie Holt - Lamentis-1, 2077]]: https://www.youtube.com/watch?v=5Qgewp_Pbl4
