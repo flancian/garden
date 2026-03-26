@@ -2,8 +2,7 @@
     - Thank you for reading!
 
 ```poetry
-We will be straight
-straight, straight
+We will be straight, straight, straight
 straight like an arrow!
 
 Like an arrow true
