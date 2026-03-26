@@ -8,6 +8,6 @@ Straight like an arrow!
 Like an arrow true
 Ever bending
 
-Like a rainbow, folding
-Like Maitreya, glowing
+Like a rainbow folding
+Like Maitreya glowing
 ```
