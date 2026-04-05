@@ -1,0 +1,4 @@
+- Stapelberg wrote about this protocol, it looks cool and somehow I had not heard of it:
+  - https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/
+  - #go https://michael.stapelberg.ch/posts/2021-01-10-mqtt-introduction/
+  - https://michael.stapelberg.ch/posts/2021-03-13-smart-intercom-backpack/
