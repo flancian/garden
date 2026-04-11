@@ -1,2 +1,2 @@
 - [[tasks]]
-  - announce result of [[bluesky vote]].
+  - [x] announce result of [[bluesky vote]].
