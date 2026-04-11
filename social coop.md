@@ -1,9 +1,11 @@
 # social coop
 - a [[cooperative]].
   - #go https://social.coop
-  - I applied to join on [[2020-08-09]], got accepted on [[2020-08-10]] :)
+  - Very interesting experiment IMHO!
+  - I applied to join on August 2020, got accepted on [[2020-08-10]] :) 
+    - I think Matt Noyes and Emi approved my application; they are great. Later we worked in the [[community working group]] together!
 	- As of [[2022-05-11]] I'm a [[social coop admin]] and part of the [[tech working group]] and [[community working group]]. I am privileged to serve the community.
-    - #pull [[social.coop]] [[tech working group]] [[community working group]]
+    * As of [[2026]] I'm part of the [[tech working group]] and occasionally the [[organizing circle]].
     - https://twitter.com/flancian/status/1292401355118845952
   - [[chat]]
     - [[social coop matrix]]:
@@ -14,3 +16,4 @@
       - #cwg https://matrix.to/#/#sc-cwg:matrix.org
       - #twg https://matrix.to/#/#socialcoop-tech:matrix.org
   - [[2021-06-07]] https://pad.disroot.org/p/Social.Coop_Strategy_Summit_%231?utm_source=discussion_mailer&utm_medium=email&utm_campaign=new_discussion
+  - #pull [[social.coop]] [[tech working group]] [[community working group]]
