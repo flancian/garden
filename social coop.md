@@ -1,7 +1,7 @@
 # social coop
 - a [[cooperative]].
   - #go https://social.coop
-  - I applied to join on [[2022-08-09]], got accepted on [[2022-08-10]] :)
+  - I applied to join on [[2020-08-09]], got accepted on [[2020-08-10]] :)
 	- As of [[2022-05-11]] I'm a [[social coop admin]] and part of the [[tech working group]] and [[community working group]]. I am privileged to serve the community.
     - #pull [[social.coop]] [[tech working group]] [[community working group]]
     - https://twitter.com/flancian/status/1292401355118845952
