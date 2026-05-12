@@ -1,0 +1,1 @@
+- #go https://wiki.sgmk-ssam.ch/wiki/Workshops#AI@SGMK
