@@ -8,6 +8,7 @@
 ```poetry
 Algún día, algún día
 Algún día haremos la [[revolución]]
+ 
 Pero si no ahora cuándo?
 Si no ahora [[cuándo]]?
 ```
