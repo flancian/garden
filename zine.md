@@ -22,7 +22,7 @@ to the other shore
 Gone free
 Gone kindly
 
-If you have to go
+If you have to go:
 Go awake
 
 Meditate
