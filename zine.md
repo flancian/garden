@@ -2,7 +2,46 @@
   - by [[Bouncepaw]]
   - I am honored to have the opportunity to contribute to it!
   - #go https://www.overleaf.com/project/6692a0fa2199476302a29b42
-  - The following is a snapshot of some of the fragments I contributed; the source of truth now lives in [[Overleaf]] as of [[2024-09-28]].
+   
+# 2026-07
+ 
+```poetry
+Algún día, algún día
+Algún día haremos la [[revolución]]
+Pero si no ahora cuándo?
+Si no ahora [[cuándo]]?
+```
+
+```poetry
+Gone gone
+Gone beyond
+Everybody gone to the other shore
+Gone free
+Gone kindly
+If you have to go, go kindly!
+```
+
+```poetry
+¡Agua, agua, agua!
+Agua para los sedientos
+
+Sal para los hipotensos
+Pan (o Flan...) para los hambrientos
+
+Fuego para los que tienen frío
+Techo para los desamparados
+
+Luz para los que leen
+Ágora para los que escriben
+
+Libertad para los oprimidos:
+¡Libertad, libertad, libertad!
+```
+
+
+# Earlier
+
+- The following is a snapshot of some of the fragments I contributed; the source of truth now lives in [[Overleaf]] as of [[2024-09-28]].
 
 ## Gloria
 
