@@ -15,10 +15,17 @@ Si no ahora [[cuándo]]?
 ```poetry
 Gone gone
 Gone beyond
-Everybody gone to the other shore
+
+Everybody gone 
+to the other shore
+
 Gone free
 Gone kindly
-If you have to go, go kindly!
+
+If you have to go
+Go awake
+
+Meditate
 ```
 
 ```poetry
