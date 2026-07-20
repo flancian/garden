@@ -1,0 +1,2 @@
+- Stiftung für direkte Demokratie
+- https://www.demokratie.ch/
