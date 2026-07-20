@@ -7,44 +7,65 @@ import click
 import math
 import sys
 
-# I'm not proud (I am a little bit?).
-PROOF = [] # :)
 
-def factor(n):
-    for i in range(2, n+1):
-        click.echo(f"Is {i} a factor of {n}, I wonder?")
+def get_prime_factors(n):
+    """Computes the full prime factorization of n."""
+    factors = []
+    d = 2
+    temp = abs(n)
+    while d * d <= temp:
+        while temp % d == 0:
+            factors.append(d)
+            temp //= d
+        d += 1
+    if temp > 1:
+        factors.append(temp)
+    return factors
 
-def print_sieve(sieve):
-    primes = []
-    for n, prime in enumerate(sieve):
-        if n >= 2 and prime:
-            primes.append(str(n))
-    return ", ".join(primes)
 
-def is_prime(n):
-    sieve = [True for n in range(0, n+1)]
-    upto = math.ceil(math.sqrt(n))
-    for i, _ in enumerate(sieve):
-        # click.echo(f"i: {i}")
-        if i < 2:
-            continue
-        # If we're above the square root, we can stop considering the first factor, as we'll try higher numbers in the inner loop.
-        if i > upto:
-            break
-        # If this is a known composite, then we've already crossed off its multiples when we iterated over its primes.
-        if not sieve[i]:
-            continue
-        # for j in range(2, math.ceil(math.sqrt(n) + 1)):
-        for j in range(2, n):
-            # I wrote >= here initially. That did *not* work ;)
-            if i * j > n:
-                break
-            PROOF.append(f"[[{i*j}]] is composite: {i} * {j}.")
-            try:
-                sieve[i*j] = False
-            except IndexError:
-                continue
-    return (n >= 2 and sieve[n], sieve)
+def get_factor_pairs(n):
+    """Returns all proper factor pairs (a, b) such that a * b = n with a <= b."""
+    pairs = []
+    n_abs = abs(n)
+    for i in range(2, math.isqrt(n_abs) + 1):
+        if n_abs % i == 0:
+            pairs.append((i, n_abs // i))
+    return pairs
+
+
+def get_proper_divisors(n):
+    """Returns all proper divisors of n strictly between 1 and n."""
+    divs = set()
+    n_abs = abs(n)
+    for i in range(2, math.isqrt(n_abs) + 1):
+        if n_abs % i == 0:
+            divs.add(i)
+            divs.add(n_abs // i)
+    return sorted(list(divs))
+
+
+def sieve_primes(n):
+    """Generates all prime numbers up to n using the Sieve of Eratosthenes."""
+    if n < 2:
+        return []
+    sieve = [True] * (n + 1)
+    sieve[0] = sieve[1] = False
+    for i in range(2, math.isqrt(n) + 1):
+        if sieve[i]:
+            for j in range(i * i, n + 1, i):
+                sieve[j] = False
+    return [i for i, is_p in enumerate(sieve) if is_p]
+
+
+def format_primes(primes, limit=50):
+    """Formats a list of primes with wikilinks, capping output if too long."""
+    total = len(primes)
+    if total <= limit:
+        return ", ".join(f"[[{p}]]" for p in primes)
+    else:
+        shown = ", ".join(f"[[{p}]]" for p in primes[:limit])
+        return f"{shown}, ... ({total} total)"
+
 
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
@@ -67,18 +88,41 @@ class AgoraCmd(click.Command):
             except SystemExit:
                 sys.exit(exc.exit_code)
 
+
 @click.command(cls=AgoraCmd)
 @click.argument('n', type=click.INT)
 def prime(n):
-    """Simple program that factors a number using a [[Sieve of Eratosthenes]]."""
-    p, sieve = is_prime(n)
-    if p:
+    """Factors a number using prime decomposition and a [[Sieve of Eratosthenes]]."""
+    if n <= 1:
+        click.echo(f"[[{n}]] is neither prime nor composite.")
+        return
+
+    factors = get_prime_factors(n)
+    is_p = (len(factors) == 1)
+
+    if is_p:
         click.echo(f"[[{n}]] is *prime*.")
     else:
-        click.echo(f"[[{n}]] is *not prime*. Want proof? :)")
-        click.echo("\n".join([line for line in PROOF if f'[[{n}]]' in line]))
+        click.echo(f"[[{n}]] is *not prime* (composite). Want proof? :)")
+        factor_links = " * ".join(f"[[{f}]]" for f in factors)
+        click.echo(f"\nFull prime factorization: {factor_links}")
 
-    click.echo(f"\nPrimes up to {n}: {print_sieve(sieve)}.")
+        pairs = get_factor_pairs(n)
+        if pairs:
+            click.echo("\nFactor pairs:")
+            for a, b in pairs:
+                click.echo(f"  [[{n}]] = [[{a}]] * [[{b}]]")
+
+        divs = get_proper_divisors(n)
+        if divs:
+            divs_str = ", ".join(f"[[{d}]]" for d in divs)
+            click.echo(f"\nProper divisors: {divs_str}")
+
+    primes = sieve_primes(n)
+    if primes:
+        click.echo(f"\nPrimes up to {n}: {format_primes(primes)}.")
+
 
 if __name__ == '__main__':
     prime()
+
