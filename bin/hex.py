@@ -6,14 +6,43 @@ import click
 import math
 import sys
 
-# I'm not proud (I am a little bit?).
-PROOF = [] # :)
+
+def get_centered_hex(k):
+    """Returns the k-th centered hexagonal number (1-indexed)."""
+    if k < 1:
+        return None
+    return 3 * k * (k - 1) + 1
+
+
+def check_centered_hex(n):
+    """Checks if n is a centered hexagonal number.
+    Returns (is_hex, k) if it is, or (False, closest_k) if it isn't.
+    """
+    if n < 1:
+        return False, 1
+
+    # Solve 3k^2 - 3k + 1 - n = 0
+    # k = (3 + sqrt(12n - 3)) / 6
+    d = 12 * n - 3
+    if d < 0:
+        return False, 1
+
+    s = math.isqrt(d)
+    k_approx = (3 + s) // 6
+
+    # Make sure we check k_approx and its neighbor to find the best fit
+    for k in (k_approx, k_approx + 1):
+        if get_centered_hex(k) == n:
+            return True, k
+
+    return False, k_approx
+
 
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
         click.echo("""Usage:
-        - Visit anagora.org/primes to execute this file in the Agora of Flancia.
-        - Visit e.g. anagora.org/primes/17 to test if 17 is prime.
+        - Visit anagora.org/hex to execute this file in the Agora of Flancia.
+        - Visit e.g. anagora.org/hex/19 to test if 19 is a centered hexagonal number.
         - In general visit anagora.org/foo, anagora.org/foo/bar to execute e.g. <bin/foo.py bar> from your garden.
         """)
 
@@ -30,42 +59,45 @@ class AgoraCmd(click.Command):
             except SystemExit:
                 sys.exit(exc.exit_code)
 
+
 @click.command(cls=AgoraCmd)
 @click.argument('n', type=click.INT)
-def hexnum(n, centered=True):
-    """Calculates the first n hex numbers just for fun :)"""
+def hexnum(n):
+    """Checks if n is a centered hexagonal number and provides nearest neighbors."""
+    is_hex, k = check_centered_hex(n)
 
-    # Going through this from first principles (from memory/deducing this) for fun :) 
+    if is_hex:
+        click.echo(f"[[{n}]] is the centered hexagonal number #[[{k}]].")
+    else:
+        click.echo(f"[[{n}]] is *not* a centered hexagonal number.")
+        # Find neighbors
+        if n < 1:
+            h_next = get_centered_hex(1)
+            click.echo(f"The first centered hexagonal number is [[{h_next}]] (index #[[1]]).")
+        else:
+            h1 = get_centered_hex(k)
+            h2 = get_centered_hex(k + 1)
+            if h1 > n:
+                # k was overestimated or we need k-1
+                h2 = h1
+                k2 = k
+                k1 = max(1, k - 1)
+                h1 = get_centered_hex(k1)
+            else:
+                k1 = k
+                k2 = k + 1
 
-    # Why does the first list comprehension I wrote knowing it was wrong not work? 
-    # Is it because of its complexity? Note I don't know the 'closed form' for hex numbers yet but I think it exists.
-    # To calculate them, I only know you need to add 6 more than after the previous number. 
-    # But that can't be (trivially) expressed in a list comprehension.
-    # 
-    # hexnums = [int(centered) + 6*n for n in range(0,n)]
-    # click.echo(f"These are not all hex numbers, but some are: {list(enumerate(hexnums))}")
+            if k1 == k2:
+                click.echo(f"The closest centered hexagonal number is [[{h1}]] (index #[[{k1}]]).")
+            else:
+                click.echo(f"The closest centered hexagonal numbers are [[{h1}]] (index #[[{k1}]]) and [[{h2}]] (index #[[{k2}]]).")
 
-    # If we could skip one, then two, then three from the list above, 
-    # we could exclude all non-hex-numbers.
-    # is there something in itertools that can do this for us?
-    # I don't think so. Maybe dropwhile with the right lambda?
-
-    # ...anyway, going at it old school.
-    # acc = int(centered)
-    # for row in range(0, n+1):
-    #     acc += 6 * row
-    #     click.echo(f"hex({row}) is {acc}.")
-
-    # ...and then https://oeis.org/A003215 to the rescue :)
-    # [[crystal ball sequence for hexagonal lattice]]: why does this work?
-    # -> https://en.wikipedia.org/wiki/Centered_hexagonal_number
-    # It is a cubic polynomial and Wikipedia shows how to convince yourself that it works. 
-    # Beautiful :)
-    hexnums = [3*n*(n+1)+1 for n in range(0,n)]
-
-    for nth, hexnum in enumerate(hexnums):
-        click.echo(f"hex({nth+1}) is {hexnum}.")
+    # Always show first 20 centered hexagonal numbers for context
+    first_20 = [str(get_centered_hex(i)) for i in range(1, 21)]
+    first_20_links = ", ".join(f"[[{x}]]" for x in first_20)
+    click.echo(f"\nFirst 20 centered hexagonal numbers: {first_20_links}.")
 
 
 if __name__ == '__main__':
     hexnum()
+
