@@ -6,6 +6,7 @@ import click
 import math
 import sys
 
+
 class AgoraCmd(click.Command):
     def format_help(self, ctx, formatter):
         click.echo("""Usage:
@@ -27,29 +28,40 @@ class AgoraCmd(click.Command):
             except SystemExit:
                 sys.exit(exc.exit_code)
 
+
 @click.command(cls=AgoraCmd)
 @click.argument('freq', type=click.FLOAT)
 def hz(freq):
-    """Calculates the closest note to input hz :)"""
+    """Calculates the closest musical note to an input frequency in Hz."""
+    if freq <= 0:
+        click.echo("Frequency must be positive.")
+        return
 
-    A4 = 440
+    A4 = 440.0
 
-    # Number of half steps away.
-    n = 12 * math.log2(freq / A4)
-    n = round(n)
-    note_index = n % 12
+    # Exact continuous half steps from A4
+    n_exact = 12 * math.log2(freq / A4)
+    n = round(n_exact)
+
+    # Pitch deviation in cents (100 cents = 1 semitone)
+    cents = round((n_exact - n) * 100)
 
     notes = ["A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]
+    note_index = n % 12
     note = notes[note_index]
 
     octave = 4 + (n // 12)
     if note in ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#"]:
-        # compensate for the fact that octaves are counted from C
+        # compensate for octave starting at C
         octave += 1
 
-    click.echo(f"hz({freq}) is {note}{str(octave)}.")
-    # click.echo(f"hz({freq}) is {note}.")
+    note_name = f"{note}{octave}"
+    cents_str = f" ({'+' if cents > 0 else ''}{cents} cents)" if cents != 0 else " (perfect pitch)"
+
+    click.echo(f"[[hz/{freq}]] is closest to [[{note_name}]] at [[{freq}]] Hz{cents_str}.")
+    click.echo(f"Note class: [[{note}]], Octave: [[octave/{octave}]].")
 
 
 if __name__ == '__main__':
     hz()
+
