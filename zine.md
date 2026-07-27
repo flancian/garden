@@ -12,7 +12,15 @@ Algún día haremos la [[revolución]]
 Pero si no ahora: cuándo?
 Si no ahora [[cuándo]]?
 
-Las Jaras!
+Ay! Quién fuera
+tal flecha derecha
+volando hacia el corazón de [[Moloch]]
+
+Ay! Quién fuera
+tal saeta certera
+doblando hacia el corazón de [[Moloch]]
+
+[[Las Jaras]]:
 Las jaras, qué jaras?
 
 Las de Avalokiteshvara!
