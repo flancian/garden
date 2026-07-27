@@ -9,8 +9,15 @@
 Algún día, algún día
 Algún día haremos la [[revolución]]
  
-Pero si no ahora cuándo?
+Pero si no ahora: cuándo?
 Si no ahora [[cuándo]]?
+
+Las Jaras!
+Las jaras, qué jaras?
+
+Las de Avalokiteshvara!
+Las de Maitreya,
+Y Tara!
 ```
 
 ```poetry
