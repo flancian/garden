@@ -257,8 +257,15 @@ Las de Tara
 Las de Maitreya!
 
 ## Rainbow folding
-We will be
+
+We will be straight, straight, straight!
+Straight like an arrow
+
+Like an arrow,
+true to self
+
+Ever bending
+
 like a [[rainbow folding]],
-like [[Maitreya flowing]]
 
 ## 
