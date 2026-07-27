@@ -28,6 +28,13 @@ Las de Maitreya,
 Y Tara!
 ```
 
+```
+Gloria, gloria, gloria!
+Gloria a las maravillas del universo
+
+Salve, salve, salve!
+Salve la luz de la consciencia
+
 ```poetry
 Gone gone
 Gone beyond
