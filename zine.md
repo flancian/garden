@@ -38,20 +38,25 @@ Salve la luz de la consciencia
 ¡Agua, agua, agua!
 Agua para los sedientos
 
+y
+
 Sal para los hipotensos
+
 Pan (o Flan...) para los hambrientos
 
 Fuego para los que tienen frío
+
 Techo para los desamparados
 
 Luz para los que leen
+
 Ágora para los que escriben
 
-Libertad para los oprimidos:
+Libertad para los oprimidos
+
 ¡Libertad, libertad, libertad!
+```
 `
-
-
 ```poetry
 Gone gone
 Gone beyond
