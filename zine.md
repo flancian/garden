@@ -80,10 +80,9 @@ Meditate
 
 ``
 
-
 # Earlier
 
-- The following is a snapshot of some of the fragments I contributed; the source of truth now lives in [[Overleaf]] as of [[2024-09-28]].
+- The following is a snapshot of some of the fragments I contributed earlier/initially; the source of truth moved to [[Overleaf]] as of [[2024-09-28]], until [[2026]] when it fragmented/came back to Markdown.
 
 ## Gloria
 
@@ -172,6 +171,8 @@ Sus rayas bellas!
 
 - 
 
+(This became a song)
+
 Bella muy bella Burup
 Bella muy bella Burup
 
@@ -182,7 +183,7 @@ True Burup
 
 ## Las Jaras
 
-I once found this card at the confluence of two rivers and it answered a question.
+I once found this card at the confluence of two rivers and it answered a question (this is still true.)
 
 ```
 Las jaras:
@@ -228,6 +229,8 @@ Go with love!
 ```
 
 ## Tara
+
+(This became a mantra.)
 
 ```
 Tare tuttare ture:
