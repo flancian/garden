@@ -245,12 +245,13 @@ Maitre ya!
 
 ```
 
-# Outro
 ## Carcaj
+
 Llevo en mi carcaj dos jaras:
-#Flancia y el [[Agora]]!
+[[Flancia]] y el [[Agora]]!
 
 Las jaras, qué jaras?
+
 Las de Avalokiteshvara
 Las de Tara
 Las de Maitreya!
