@@ -7,20 +7,20 @@
  
 ```poetry
 Algún día, algún día
-Algún día haremos la [[revolución]]
+Algún día haremos la revolución
  
 Pero si no ahora: cuándo?
-Si no ahora [[cuándo]]?
+Si no ahora cuándo?
 
 Ay! Quién fuera
 tal flecha derecha
-volando hacia el corazón de [[Moloch]]
+volando hacia el corazón de Moloch
 
 Ay! Quién fuera
 tal saeta certera
-doblando hacia el corazón de [[Moloch]]
+doblando hacia el corazón de Moloch
 
-[[Las Jaras]]:
+Las Jaras:
 Las jaras, qué jaras?
 
 Las de Avalokiteshvara!
@@ -38,7 +38,7 @@ Salve la luz de la consciencia
 ¡Agua, agua, agua!
 Agua para los sedientos
 
-y
+Y:
 
 Sal para los hipotensos
 
@@ -268,4 +268,3 @@ Ever bending
 
 like a [[rainbow folding]],
 
-## 
