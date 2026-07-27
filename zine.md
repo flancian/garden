@@ -69,7 +69,7 @@ to the other shore
 Gone free
 Gone kindly
 
-When you have to go:
+If you have to go:
 
 Go free
 Go kindly
