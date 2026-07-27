@@ -59,17 +59,22 @@ Libertad para los oprimidos
 `
 ```poetry
 Gone gone
+
 Gone beyond
 
 Everybody gone 
+
 to the other shore
 
 Gone free
 Gone kindly
 
-If you have to go:
-Go awake
+When you have to go:
 
+Go free
+Go kindly
+
+Go awake
 Meditate
 ```
 
