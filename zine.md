@@ -23,15 +23,14 @@ Salve la luz de la consciencia
 Y:
 
 ¡Agua, agua, agua!
-Agua para los sedientos
 
-(Sal para los hipotensos)
+Agua para los sedientos
 
 Pan (o Flan...) para los hambrientos
 
 Fuego para los que tienen frío
 
-Techo para los desamparados
+Techo para los que no tienen casa
 
 Paz para los perseguidos
 
@@ -40,7 +39,8 @@ Luz para los que leen
 Ágora para los que escriben
 
 Libertad para los oprimidos:
-Libertad, libertad, libertad!
+
+¡Libertad, libertad, libertad!
 
 ```
 
