@@ -49,11 +49,10 @@ Libertad para los seres sintientes
 
 ```poetry
 Ay! Quién tuviera
-Los Ojos Verdes de Lady Burup
+Los ojos verdes de Lady Burup
 
 Sus ojos negros
 Trasnochando
-
 Sus bellas rayas!
 
 Ay! Quién tuviera
@@ -61,7 +60,6 @@ Los ojos negros de Lady Burup
 
 Sus ojos verdes
 Tornasolados
-
 Sus bellas rayas!
 ```
 
