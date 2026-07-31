@@ -36,9 +36,9 @@ Paz para los oprimidos
 
 Luz para los que ven
 
-Flancia para los que leen
-
 Ágora para los que escriben
+
+Flancia para los que leen
 
 Libertad para los seres sintientes
 
