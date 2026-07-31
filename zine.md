@@ -30,7 +30,7 @@ Pan (o Flan...) para los hambrientos
 
 Fuego para los que tienen frío
 
-Techo para los que no tienen casa
+Techo para los que no tienen casa (o los desamparados...)
 
 Paz para los oprimidos 
 
