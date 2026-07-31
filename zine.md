@@ -34,7 +34,7 @@ Sus bellas rayas!
 ```poetry
 Ay! Quién fuera
 una flecha derecha
-doblando hacia el corazón de Moloch
+volando hacia el corazón de Moloch
 
 Ay! Quién fuera
 tal saeta certera
@@ -42,7 +42,7 @@ silbando hacia el corazón de Moloch
 
 Ay! Quién fuera
 tal jara dos jaras
-volando hacia el corazón de Moloch
+doblando hacia el corazón de Moloch
 
 Las jaras, qué jaras?
 Las de Avalokiteshvara,
