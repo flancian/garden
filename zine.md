@@ -34,7 +34,9 @@ Techo para los que no tienen casa (o los desamparados...)
 
 Paz para los oprimidos 
 
-Luz para los que leen
+Luz para los que ven
+
+Flancia para los que leen
 
 Ágora para los que escriben
 
