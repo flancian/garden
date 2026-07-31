@@ -40,13 +40,12 @@ tal saeta certera
 silbando hacia el corazón de Moloch
 
 Ay! Quién fuera
-tal jara uno fuera
+tal jara qué jara
 doblando hacia el corazón de Moloch
 
 Las jaras: las jaras, qué jaras?
-
 Las de Avalokiteshvara,
-Maitreya, Y Tara!
+Maitreya! Y Tara…
 ```
 
 ```
