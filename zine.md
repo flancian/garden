@@ -25,21 +25,23 @@ Y:
 ¡Agua, agua, agua!
 Agua para los sedientos
 
-Sal para los hipotensos
+(Sal para los hipotensos)
 
 Pan (o Flan...) para los hambrientos
 
 Fuego para los que tienen frío
 
-Techo para los desamparados (o los sin techo)
+Techo para los desamparados
 
 Paz para los perseguidos
-
-Libertad para los oprimidos
 
 Luz para los que leen
 
 Ágora para los que escriben
+
+Libertad para los oprimidos
+
+Libertad, libertad, libertad!
 
 ```
 
