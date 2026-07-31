@@ -69,7 +69,7 @@ una flecha derecha
 volando hacia el corazón de Moloch
 
 Ay! Quién fuera
-tal saeta certera
+una saeta certera
 silbando hacia el corazón de Moloch
 
 Ay! Quién fuera
