@@ -6,7 +6,7 @@
 # 2026-07
  
 ```poetry
-Algún día, algún día
+Algún día, algún día!
 Algún día haremos la revolución.
  
 Pero si no ahora: cuándo?
@@ -17,18 +17,19 @@ Si no ahora, cuándo?
 Ay! Quién tuviera
 Los Ojos Verdes de Lady Burup
 
-Sus Ojos Negros
+Sus ojos negros
 Trasnochando
 
 Sus bellas rayas!
 
-Ay Quién tuviera
-Los Ojos Negros de Lady Burup
+Ay! Quién tuviera
+Los ojos negros de Lady Burup
 
-Sus Ojos Verdes
+Sus ojos verdes
 Tornasolados
 
 Sus bellas rayas!
+```
 
 ```poetry
 Ay! Quién fuera
@@ -36,7 +37,7 @@ una flecha derecha
 volando hacia el corazón de Moloch
 
 Ay! Quién fuera
-tal saeta certera
+una saeta certera
 silbando hacia el corazón de Moloch
 
 Ay! Quién fuera
