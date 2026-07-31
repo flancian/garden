@@ -7,18 +7,42 @@
  
 ```poetry
 Algún día, algún día
-Algún día haremos la revolución
+Algún día haremos la revolución.
  
 Pero si no ahora: cuándo?
-Si no ahora cuándo?
+Si no ahora, cuándo?
+```
 
+```poetry
+Ay! Quién tuviera
+Los Ojos Verdes de Lady Burup
+
+Sus Ojos Negros
+Trasnochando
+
+Sus bellas rayas!
+
+Ay Quién tuviera
+Los Ojos Negros de Lady Burup
+
+Sus Ojos Verdes
+Tornasolados
+
+Sus bellas rayas!
+
+```poetry
 Ay! Quién fuera
-tal flecha derecha
+una flecha derecha
 volando hacia el corazón de Moloch
 
 Ay! Quién fuera
 tal saeta certera
+silbando hacia el corazón de Moloch
+
+Ay! Quién fuera
+tal jara una fuera
 doblando hacia el corazón de Moloch
+```
 
 Las Jaras:
 Las jaras, qué jaras?
