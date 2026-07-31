@@ -83,19 +83,16 @@ Maitreya! Y Tara…
 
 `
 ```poetry
-Gone gone
-
+Gone gone,
 Gone beyond
 
 Everybody gone 
-
 to the other shore
 
-Gone free
+Gone free,
 Gone kindly
 
-When you have to go:
-
+(When you have to go…)
 Go free
 Go kindly
 
