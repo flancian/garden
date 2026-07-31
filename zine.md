@@ -39,8 +39,7 @@ Luz para los que leen
 
 Ágora para los que escriben
 
-Libertad para los oprimidos
-
+Libertad para los oprimidos:
 Libertad, libertad, libertad!
 
 ```
