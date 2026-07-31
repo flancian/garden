@@ -32,13 +32,13 @@ Fuego para los que tienen frío
 
 Techo para los que no tienen casa
 
-Paz para los perseguidos
+Paz para los oprimidos 
 
 Luz para los que leen
 
 Ágora para los que escriben
 
-Libertad para los oprimidos:
+Libertad para los seres sintientes
 
 ¡Libertad, libertad, libertad!
 
