@@ -41,7 +41,7 @@ una saeta certera
 silbando hacia el corazón de Moloch
 
 Ay! Quién fuera
-una jara dos jaras
+tal jara dos jaras
 doblando hacia el corazón de Moloch
 
 Las jaras, qué jaras?
