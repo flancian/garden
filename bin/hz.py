@@ -57,11 +57,13 @@ def hz(freq):
 
     note_name = f"{note}{octave}"
     cents_str = f" ({'+' if cents > 0 else ''}{cents} cents)" if cents != 0 else " (perfect pitch)"
+    freq_display = int(freq) if freq.is_integer() else freq
 
-    click.echo(f"[[hz/{freq}]] is closest to [[{note_name}]] at [[{freq}]] Hz{cents_str}.")
+    click.echo(f"[[hz/{freq_display}]] is closest to [[{note_name}]] at [[{freq_display}]] Hz{cents_str}.")
     click.echo(f"Note class: [[{note}]], Octave: [[octave/{octave}]].")
 
 
 if __name__ == '__main__':
     hz()
+
 
