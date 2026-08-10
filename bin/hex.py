@@ -67,13 +67,13 @@ def hexnum(n):
     is_hex, k = check_centered_hex(n)
 
     if is_hex:
-        click.echo(f"[[{n}]] is the centered hexagonal number #[[{k}]].")
+        click.echo(f"[[{n}]] is the centered hexagonal number # [[{k}]].")
     else:
         click.echo(f"[[{n}]] is *not* a centered hexagonal number.")
         # Find neighbors
         if n < 1:
             h_next = get_centered_hex(1)
-            click.echo(f"The first centered hexagonal number is [[{h_next}]] (index #[[1]]).")
+            click.echo(f"The first centered hexagonal number is [[{h_next}]] (index # [[1]]).")
         else:
             h1 = get_centered_hex(k)
             h2 = get_centered_hex(k + 1)
@@ -88,9 +88,9 @@ def hexnum(n):
                 k2 = k + 1
 
             if k1 == k2:
-                click.echo(f"The closest centered hexagonal number is [[{h1}]] (index #[[{k1}]]).")
+                click.echo(f"The closest centered hexagonal number is [[{h1}]] (index # [[{k1}]]).")
             else:
-                click.echo(f"The closest centered hexagonal numbers are [[{h1}]] (index #[[{k1}]]) and [[{h2}]] (index #[[{k2}]]).")
+                click.echo(f"The closest centered hexagonal numbers are [[{h1}]] (index # [[{k1}]]) and [[{h2}]] (index # [[{k2}]]).\n")
 
     # Always show first 20 centered hexagonal numbers for context
     first_20 = [str(get_centered_hex(i)) for i in range(1, 21)]
@@ -100,4 +100,3 @@ def hexnum(n):
 
 if __name__ == '__main__':
     hexnum()
-
