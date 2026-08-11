@@ -72,23 +72,6 @@ Libertad para los seres sintientes
 
 ```
 
-```poetry
-Ay! Quién tuviera
-Los ojos verdes de Lady Burup
-
-Sus ojos negros
-Trasnochando
-
-Sus bellas rayas
-
-Ay! Quién tuviera
-Los ojos negros de Lady Burup
-
-Sus ojos verdes
-Tornasolados
-
-Sus bellas rayas
-```
 
 ```poetry
 Ay! Quién fuera
@@ -106,6 +89,24 @@ girando hacia el corazón de Moloch
 Las jaras, qué jaras?
 Las de Avalokiteshvara,
 Tara, y Maitreya!
+```
+
+```poetry
+Ay! Quién tuviera
+Los ojos verdes de Lady Burup
+
+Sus ojos negros
+Trasnochando
+
+Sus bellas rayas
+
+Ay! Quién tuviera
+Los ojos negros de Lady Burup
+
+Sus ojos verdes
+Tornasolados
+
+Sus bellas rayas
 ```
 
 ```poetry
