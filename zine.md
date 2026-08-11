@@ -3,10 +3,12 @@
   - I am honored to have the opportunity to contribute to it!
   - #go https://www.overleaf.com/project/6692a0fa2199476302a29b42
    
-# 2026-07
+# 2026-07 and 2026-08
+
+Thank you Bouncepaw, my friend, for creating this zine and inviting me to participate in it. Thank you also, reader, for reading these words.
+
  
- 
-```
+```poetry
 ¡Gloria, gloria, gloria!
 Gloria a las maravillas del universo
 
@@ -69,7 +71,6 @@ Libertad para los seres sintientes
 ¡Libertad, libertad, libertad!
 
 ```
-
 
 ```poetry
 Ay! Quién tuviera
