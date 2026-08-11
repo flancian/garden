@@ -5,13 +5,6 @@
    
 # 2026-07
  
-```poetry
-Algún día, algún día!
-Algún día haremos la revolución.
- 
-Pero si no ahora: cuándo?
-Si no ahora, cuándo?
-```
  
 ```
 ¡Gloria, gloria, gloria!
@@ -109,10 +102,16 @@ doblando hacia el corazón de Moloch
 
 Las jaras, qué jaras?
 Las de Avalokiteshvara,
-Maitreya! Y Tara…
+Tara! Y Maitreya…
 ```
 
-``
+```poetry
+Algún día, algún día!
+Algún día haremos la revolución.
+ 
+Pero si no ahora: cuándo?
+Si no ahora, cuándo?
+```
 
 # Earlier
 
