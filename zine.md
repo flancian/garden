@@ -7,7 +7,7 @@
 
 Thank you Bouncepaw, my friend, for creating this zine and inviting me to participate. Thank you also, reader, for reading these words. I don't want to distract from the rest of the pieces in this collection for longer than needed so I will try to be straight (like an arrow) if perhaps not to the point.
 
-I'm here to tell you something about cities, but I will share a part of me before it and after it wish you well.
+I'm here to tell you something about cities, but I will share a part of me before it and after it say my goodbyes and wish you well.
 
  
 ```poetry
