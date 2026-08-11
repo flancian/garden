@@ -5,7 +5,7 @@
    
 # 2026-07 and 2026-08
 
-Thank you Bouncepaw, my friend, for creating this zine and inviting me to participate in it. Thank you also, reader, for reading these words.
+Thank you, Bouncepaw, my friend; for creating this zine and inviting me to participate in it. Thank you also, reader, for reading these words.
 
  
 ```poetry
