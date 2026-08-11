@@ -21,7 +21,17 @@ Gloria a las maravillas del universo
 Salve la luz de la consciencia
 ```
 
+```poetry
+We will be free! 
+Free, free!
+
+Free from suffering
+From from fear 
+From from pain
 ```
+
+
+```poetry
 ¡Agua, agua, agua!
 
 Agua para los sedientos
