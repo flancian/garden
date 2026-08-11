@@ -78,14 +78,16 @@ Los ojos verdes de Lady Burup
 
 Sus ojos negros
 Trasnochando
-Sus bellas rayas!
+
+Sus bellas rayas
 
 Ay! Quién tuviera
 Los ojos negros de Lady Burup
 
 Sus ojos verdes
 Tornasolados
-Sus bellas rayas!
+
+Sus bellas rayas
 ```
 
 ```poetry
