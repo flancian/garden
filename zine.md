@@ -5,7 +5,7 @@
    
 # 2026-07 and 2026-08
 
-Thank you Bouncepaw, my friend, for creating this zine and inviting me to participate in it. Thank you also, reader, for reading these words. I don't want to distract from the rest of the pieces in this collection for longer than needed so I will try to be straight (like an arrow) and to the point (ever bending).
+Thank you Bouncepaw, my friend, for creating this zine and inviting me to participate. Thank you also, reader, for reading these words. I don't want to distract from the rest of the pieces in this collection for longer than needed so I will try to be straight (like an arrow) if perhaps not to the point.
 
  
 ```poetry
