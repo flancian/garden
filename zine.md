@@ -38,7 +38,7 @@ to the other shore
 Gone free,
 Gone kindly
 
-(If you have to go for it)
+When you have to go (for it)
 Go free
 Go kindly
 
