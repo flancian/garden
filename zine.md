@@ -22,12 +22,31 @@ Salve la luz de la consciencia
 ```
 
 ```poetry
-We will be free! 
-Free, free!
+We will be free,
+Free, 
+Free!
 
 Free from suffering
 From from fear 
 From from pain
+```
+
+```poetry
+Gone gone,
+Gone beyond
+
+Everybody gone 
+to the other shore
+
+Gone free,
+Gone kindly
+
+(When you have to go…)
+Go free
+Go kindly
+
+Go awake
+Meditate!
 ```
 
 
@@ -91,25 +110,6 @@ doblando hacia el corazón de Moloch
 Las jaras, qué jaras?
 Las de Avalokiteshvara,
 Maitreya! Y Tara…
-```
-
-`
-```poetry
-Gone gone,
-Gone beyond
-
-Everybody gone 
-to the other shore
-
-Gone free,
-Gone kindly
-
-(When you have to go…)
-Go free
-Go kindly
-
-Go awake
-Meditate
 ```
 
 ``
