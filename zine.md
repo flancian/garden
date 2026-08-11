@@ -95,12 +95,12 @@ Ay! Quién fuera
 una flecha derecha
 volando hacia el corazón de Moloch
 
-Quién fuera
+Ay! Quién fuera
 tal saeta certera
 silbando hacia el corazón de Moloch
 
-Quienes fueran
-dos jara, tres jaras
+Ay! Quién fuera
+Una jara, dos jaras
 bailando hacia el corazón de Moloch
 
 Las jaras, qué jaras?
