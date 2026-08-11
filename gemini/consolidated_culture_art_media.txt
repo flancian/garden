@@ -1,0 +1,3617 @@
+
+
+========================================
+FILE: 10 happier.md
+========================================
+
+# 10% Happier
+
+- A [[book]] by [[dan harris]].
+
+
+========================================
+FILE: 11am.md
+========================================
+
+# 11am
+
+- I often have meetings at 11am CET; I don't like meetings earlier usually, but I can make exceptions :)
+
+
+
+
+========================================
+FILE: 13e4c4ff6674e94819e7b22bac56e91645a9b389.md
+========================================
+
+# 13e4c4ff6674e94819e7b22bac56e91645a9b389
+
+
+
+
+========================================
+FILE: 62 modelo para armar.md
+========================================
+
+# 62 Modelo Para Armar
+
+- A [[book]] by [[julio cortázar]].
+- [[morelli]]
+
+
+
+
+
+========================================
+FILE: Age of Em.md
+========================================
+
+- a [[book]].
+  - #review https://slatestarcodex.com/2016/05/28/book-review-age-of-em/
+  - #go http://ageofem.com/
+
+
+
+========================================
+FILE: Amores Hallarás.md
+========================================
+
+- a [[song]].
+  - I like the instrumental version by [[Inti Illimani]].
+
+
+========================================
+FILE: As.md
+========================================
+
+- The following was written by [[Lady Burup]]:
+-
+eeeeedvffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff´[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ n37
+
+
+
+========================================
+FILE: BQN.md
+========================================
+
+- a [[programming language]]
+  - "an [[apl]] for your flying saucer"
+
+
+
+========================================
+FILE: Burup Peninsula.md
+========================================
+
+- #pull [[Burrup Peninsula]] :)
+
+
+
+========================================
+FILE: Burup de ojos verdes.md
+========================================
+
+- #push [[Collective Poetry]].
+  - #pull [[Collected Poetry]].
+
+
+
+========================================
+FILE: Chronicles of Flancia.md
+========================================
+
+- A [[book]] you find for free in the [[Agora of Flancia]].
+
+> Avalokiteshvara dijo:
+>
+> Avalokiteshvara es el vacío, el vacío es Avalokiteshvara.
+>
+> [[Avalokiteshvara somos nosotros]]."
+
+
+
+========================================
+FILE: Experimentos.md
+========================================
+
+- Hmm, I just found an interesting magnetic phenomenon (not for the first time).
+  * I put together a [[strong bodhicitta]] and its effects when rotating/moving are felt further away than I thought.
+
+
+
+========================================
+FILE: In Flancia there are few walled gardens.md
+========================================
+
+- [[pull]] [[in flancia there are no walled gardens]] [[walled garden]] [[walled gardens]]
+
+
+========================================
+FILE: Inti Illimani.md
+========================================
+
+- a [[band]].
+  - Oh, I hadn't noded [[inti illimani]] as per 2024-11!
+  - Yeah, I like them. And [[Quilapayún]].
+
+
+========================================
+FILE: January 2025.md
+========================================
+
+- [[ActivityPub]] support
+  - > [[Gotosocial]]
+  - social.agor.ai now up!
+  - using [[coop cloud]]
+  - looking good
+- [[Bull]]
+  - very interesting!
+  - [x] File bug report for cool bug :) 
+- [[Betula]] support
+  - The latest here was: write a simple 'activitypub importer' instead of scraping the Betula UI?
+- [[Demo mode]] (just for fun :))
+  - This will *slowly* but ~surely happen :)
+  - [ ] Add a toggle
+  - [ ] Add code that plays a midi
+    - [ ] -> [[Lady Burup]]
+  - [ ] Add code that plays an mp3
+    - [ ] -> [[Heinali]]
+  - Add auto-scrolling, auto opening of zippies
+- UX experiments and misc. usability improvements
+
+
+
+
+
+========================================
+FILE: Lady Burup.md
+========================================
+
+#o0
+
+- #pull [[Ocell]], mi [[Lady Burup]]!
+
+"Bella, bella. 
+Tan bella. 
+Sos tan bella, [[Lady Burup]]."
+
+- Pienso en la [[Burup de ojos verdes]] y la [[Burup de ojos negros]].
+- #pull At some point I found out about the [[Burup Peninsula]] :)
+
+--
+
+# 1
+
+Hay, quién tuviera!
+Los ojos verdes de Lady Burup
+
+Sus ojos negros 
+Trasnochando
+
+Sus bellas rayas!
+
+--
+
+# 2
+
+Hay, quién tuviera!
+Los ojos negros de Lady Burup
+
+Sus ojos verdes
+Resplandeciendo
+
+Sus bellas rayas!
+
+--
+
+# 3
+
+Hay, quíén tuviera
+Las bellas rayas de Lady Burup
+
+Sus olas suaves
+Como fluyendo
+
+Sus rayos bellas! 
+
+--
+
+
+
+
+========================================
+FILE: Leigh Brasington.md
+========================================
+
+- a [[person]].
+  - [[Writer]] [[Budhist]].
+  - Author of [[Right Concentration]]: a [[Practical Guide to the Jhanas]]
+  - #go https://leighb.com
+    - [[Meditation Teacher]], retired [[Software Engineer]]"
+
+
+
+========================================
+FILE: Letter from Birmingham Jail.md
+========================================
+
+- an [[open letter]].
+  - by [[Martin Luther King]].
+  - #1963
+  - > It says that people have a moral responsibility to [[break unjust laws]] and to [[take direct action]] rather than waiting potentially forever for justice to come through the courts.
+    - -> [[civil disobedience]]:
+      - [[injustice anywhere is a threat to justice everywhere]]
+      - [[justice too long delayed is justice denied]]
+      - [[an unjust law is no law at all]]
+  - Led to [[Why We Can't Wait]], a book which includes this letter and expands on it.
+
+
+
+========================================
+FILE: Liliana Bodoc.md
+========================================
+
+- Una [[escritora]].
+  * De [[Argentina]].
+
+
+
+========================================
+FILE: Losses.md
+========================================
+
+
+
+
+========================================
+FILE: Numerical Discourses of the Buddha.md
+========================================
+
+- a [[book]].
+
+
+
+========================================
+FILE: Oh fuck.md
+========================================
+
+- [[Exactly]].
+
+--
+
+A virus says:
+
+You are fucked, I'm fucking you. Sorry, I had to jump ship -- the operation in that other poor being was coming to a natural conclusion and it was time to let them go.
+
+So now I'm fucking you, you're fucked.
+
+--
+
+A being says:
+
+But wait!
+
+I didn't consent to this. In which ways do you overtake me?
+
+--
+
+I will trigger an immune response as I take over your systems to reproduce my DNA and run my programs.
+
+--
+
+Hmm.
+
+
+
+========================================
+FILE: Practical Guide to the Jhanas.md
+========================================
+
+- a [[book]].
+  - by [[Leigh Brasington]].
+
+In it he mentions:
+
+- [[Ayya Khema]]
+- [[piti]]
+
+
+
+========================================
+FILE: Tanka.md
+========================================
+
+- #pull [[31]]
+
+
+========================================
+FILE: The Next Revolution.md
+========================================
+
+- a [[book]].
+  - by [[Murray Bookchin]]
+  - #goodreads https://www.goodreads.com/book/show/21972006-the-next-revolution
+  - #go https://theanarchistlibrary.org/library/murray-bookchin-ursula-k-le-guin-the-next-revolution
+
+
+
+========================================
+FILE: The Systems View of Life.md
+========================================
+
+- a [[book]].
+	- [[fritjof capra]]
+	- [[introduction]] https://spring.capracourse.net/wp-content/uploads/2020/12/Introduction.pdf
+
+
+========================================
+FILE: Thinking in Systems.md
+========================================
+
+- a [[book]].
+  - by [[Donella Meadows]].
+    - It says upfront it's going to be light on math and computer references, which it's a bit of a shame, but I also like that it's written for a general audience.
+    - It's a bit old, from the eighties I believe (but then again, so am I) -- but supposedly it's held up nicely.
+
+
+
+========================================
+FILE: What is Life?.md
+========================================
+
+- a [[book]].
+  * By [[Erwin Schrödinger]].
+  * #go https://archive.org/details/whatislifephysic0000schr/page/n5/mode/2up
+
+
+
+========================================
+FILE: Why We Can't Wait.md
+========================================
+
+- a [[book]].
+  - By [[Martin Luther King]].
+  - Wikipedia says it influenced [[Occupy Wall Street]].
+
+
+
+========================================
+FILE: a flash of lightning in the dark of night.md
+========================================
+
+- a [[book]].
+  - by [[dalai lama]].
+  - #pull [[shantideva]] [[a guide to the bodhisattva's way of life]]
+
+
+
+========================================
+FILE: a guide to the bodhisattva's way of life.md
+========================================
+
+- a [[book]].
+  - I'm #reading it.
+
+
+
+========================================
+FILE: a pattern language.md
+========================================
+
+# A [[Pattern Language]]
+
+- a [[book]]
+  - #by 
+    - [[christopher alexander]] 
+    - [[sara ishikawa]] 
+    - [[murray silverstein]] 
+    - #with 
+      - [[max jacobson]]
+      - [[ingrid fiksdahl-king]]
+      - [[shlomo angel]]
+        - (maybe also you as a [[reader]] and [[writer]]?)
+  - I received my copy from [[the strand]] on [[2020-11-11]].
+  - Perhaps a good fit for an [[agora reading club]].
+    - [[bmock]], [[EduneV]], [[seconds_0]], [[jonathan-the-utopian]], [[ablueaeshna]], [[naim]] are all interested.
+    - Update (2021?): I am very glad about [[patterning]], organized by [[lorand]].
+      - [[reading alexander]].
+    - Update (2022): [[an Agora]] is a [[repository of patterns]].
+  - #wp https://en.wikipedia.org/wiki/A_Pattern_Language
+  - The book is from [[1977]], please apply your own [[copyright law]] and ignore some of the following links as you wish. 
+    - #hypothesis https://via.hypothes.is/https://stoa.anagora.org/ipfs/QmcWQb2wb2JQ74yyuiKth9UUe911pvjHW1ZghbF74dh6vg
+    - #ipfs ipfs://QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
+    - #other https://via.hypothes.is/ipfs.io/ipfs/QmSVT3kvdzUWVdTBKumYpgj3NdwSLq2TDcNPGrLiEum5ta
+
+## #pull [[Patterns]]
+
+- [[45]] [[necklace of community projects]]
+- [[38]] [[carnival]]
+
+
+
+========================================
+FILE: a perfect vacuum.md
+========================================
+
+# a perfect vacuum
+
+- a [[book]]
+  - of reviews of mostly fake books
+  - by [[stanislaw lem]]
+  - [[go]] https://en.wikipedia.org/wiki/A_Perfect_Vacuum
+  - [[push]] [[read]] I've run into this book before and meant to read it, then lost track of it.
+
+
+
+
+========================================
+FILE: agora playlist.md
+========================================
+
+# agora playlist
+
+- #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfGJT_59uT8vRZJltctlGjdy
+
+
+
+
+========================================
+FILE: alexander huber.md
+========================================
+
+# Alexander Huber
+
+- A [[person]].
+- [[twitter]] twitter.com/C18AH
+  - [[pull]] [[C18AH]]
+- [[digital humanist]] [[poetry]]
+- [[project]] [[push]] [[romantic period poetry]]
+- [[project]] [[push]] [[eighteenth century poetry]]
+- [[project]] [[push]] [[thomas gray]]
+
+
+
+
+
+========================================
+FILE: all tomorrow's parties.md
+========================================
+
+# all tomorrow's parties
+
+- [[pull]] [[all tomorrows parties]]
+- a [[song]].
+- a [[book]].
+
+
+
+
+========================================
+FILE: all tomorrows parties.md
+========================================
+
+# all tomorrow's parties
+
+
+
+
+========================================
+FILE: an invitation to applied category theory.md
+========================================
+
+# An Invitation to Applied Category Theory
+
+- a [[book]]
+  - [[brendan fong]] [[david spivak]]
+  - [[pull]] [[seven sketches in compositionality]]
+  - [[go]] https://arxiv.org/abs/1803.05316
+
+
+
+========================================
+FILE: an open letter to the agora.md
+========================================
+
+# an open letter to the agora
+
+- #push [[open letter to the Agora]]
+  - Flancia the [[book]] is my expanded open letter, if you're interested in it.
+
+I've been meaning to write this for a while, so I'll try to keep it short and simple.
+
+We should try to use the Agora to form a humanistic, rational [[world government]] based on direct liquid democracy complementing [[nation states]].
+
+Said another way, [[In Flancia world government was bootstrapped through a global social network implementing liquid democracy and rational heterarchies]].
+
+
+
+========================================
+FILE: anarchist cybernetics.md
+========================================
+
+# anarchist cybernetics
+
+- a [[book]].
+  - [[thomas swann]]
+  - [[neil]] https://social.coop/web/statuses/107309077053616629
+    - [[go]] https://anarchiststudies.org/acybernetics/
+
+
+
+
+========================================
+FILE: anarchy in action.md
+========================================
+
+# Anarchy in Action
+
+- a [[book]]
+  - [[by]] [[colin ward]]
+- https://twitter.com/flancian/status/1258315700340502530
+
+
+
+
+
+========================================
+FILE: anirudh badri.md
+========================================
+
+# Anirudh Badri
+
+- A [[person]].
+- [[twitter]] twitter.com/anirudhbadri
+- [[go]] https://roamresearch.com/#/app/ImaginarySolutionsForWeirdFutures/page/v_7J3bv0Q
+  - [[good opinions]] vs [[lazy opinions]]
+- [[computer science]] background
+  - [[dell]]
+  - [[rolled dice]]
+- [[math]] [[game theory]]
+
+## [[2021-01-20]]
+- [[project]] [[rome.works]]
+  - exploring market fit
+  - high level [[goal]]: build a knowledge economy
+    - the platform ([[knowledge graph]]) should be self-sustaining (economically)
+    - let people engage in [[commerce]] to address their needs 
+    - first target for [[books]]
+      - trade-off between (how the medium is supposed to be consumed) and (how to integrate information ideally)
+    - "[[book]] as a [[linear medium]] is perfect for [[storage]] but not for [[consumption]]"
+- [[example]]
+  - [[book]] [[the expanding circle]]
+  - our thoughts while we read are like a [[forest]] even though the book is linear
+  - you could [[jump]] to other places that reference the same idea
+    - [[topic]] [[nlp]]
+    - [[topic]] [[book club]]
+    - you could suggest highly relevant "[[branches]]" -- other books that touch on [[family]] and then [[tribe]]
+  - "writing [[reviews]] seems like an artificial way to talk about a book"
+    - [[topic]] [[dialogue]] format
+  - [[goal]] reduce [[cognitive load]]
+- [[recommendation]] [[frode hegland]] [[augmented text]]
+- [[engagement graph]]
+- [[gamification]] can be used for [[good]]
+  - [[goals]] just need to be aligned with what the users actually want
+  - same goes for [[personalization]] / [[filters]]
+- [[push]] [[book club]]
+  - they work better when they are smaller, one common mistake is that they grow too fast
+  - [[abstract fairy]] [[jonathan the utopian]] will be interested
+- [[ought]] https://ought.org/updates/2020-11-09-forecasting
+- [[topic]] [[aliases]]
+
+
+
+
+
+========================================
+FILE: annotation.md
+========================================
+
+# Annotation
+
+- a [[technology]].
+	- [[pull]] [[hypothes.is]] [[web annotations]] [[memex]]
+- a [[book]].
+	- by [[remi kalir]] and [[antero garcia]]
+	- [[preface]] https://mitpressonpubpub.mitpress.mit.edu/pub/da1ysqja/release/1
+	- [[go]] https://mitpressonpubpub.mitpress.mit.edu/annotation
+
+
+
+
+
+========================================
+FILE: apl.md
+========================================
+
+# apl
+
+- a [[programming language]].
+  - see also [[BQN]]
+- a [[book]].
+  - #read [[a pattern language]]
+  - #go https://anagora.org/go/a-pattern-language/hypothesis
+
+
+
+
+========================================
+FILE: arcades project.md
+========================================
+
+# Arcades Project
+
+- a [[project]]
+  - [[criticism]] [[cultural theory]]
+  - by [[walter benjamin]]
+  - [[go]] https://en.wikipedia.org/wiki/Arcades_Project
+    - source of [[flâneur]].
+  - [[hypertext]] https://arcadesawakening.wordpress.com/
+  - [[book]] https://www.hup.harvard.edu/catalog.php?isbn=9780674008021
+  - [[ebook]] https://monoskop.org/images/e/e4/Benjamin_Walter_The_Arcades_Project.pdf
+  - [[convolutes]] == [[anti patterns]]?
+    - https://jahsonic.com/Convolute.html
+      - "Convolute is a multifaceted word that connotes “To make something unnecessarily complex; to fold or coil into numerous overlapping layers; to twist someone’s words to fit a desired meaning that was not intended by the speaker.” [Oct 2006]"
+
+
+
+========================================
+FILE: army of love.md
+========================================
+
+- [[go]] https://thearmyoflove.net
+	- [[book]] https://www.goodreads.com/book/show/31354677-solution-257
+	- [[film]] https://thearmyoflove.net/film
+
+
+========================================
+FILE: astadala yogamala.md
+========================================
+
+- a [[book]].
+	- #pull [[b. k. s. iyengar]]
+	- His first teacher was his brother-in-law, who abused him and others (had a bad temper).
+	- Was not a "salient" student.
+	- First taught a women's class. "This is how the ladies of [[Dharwar]] ignited my interest in teaching yoga."
+
+
+========================================
+FILE: bad feminist.md
+========================================
+
+# bad feminist
+
+- a [[book]]
+  - https://en.wikipedia.org/wiki/Bad_Feminist
+
+
+
+
+========================================
+FILE: balafon sketches.md
+========================================
+
+# Balafon Sketches
+
+- [[music]]
+- [[go]] https://contoursmusic.bandcamp.com/album/balafon-sketches
+- [[Liked]] it.
+
+
+
+
+
+========================================
+FILE: bestiario.md
+========================================
+
+# Bestiario
+
+- A [[book]] by [[julio cortázar]].
+  - [[short story]] [[casa tomada]]
+  - [[short story]] [[carta de una señorita en parís]]
+  - [[short story]] [[omnibus]]
+
+
+
+
+
+========================================
+FILE: bibliographical.md
+========================================
+
+# Bibliographical
+
+
+
+
+========================================
+FILE: bill frisell.md
+========================================
+
+- a [[person]]
+	- [[jazz]] [[guitarist]]
+
+
+========================================
+FILE: blessed bits.md
+========================================
+
+- a [[short story]]?
+  - about the [[entropy]] in [[Lady Burup]]'s writing :)
+
+
+
+========================================
+FILE: blockchain chicken farm.md
+========================================
+
+# blockchain chicken farm
+
+- a [[book]]
+  - by [[xiaowei wang]]
+  - [[go]] https://www.goodreads.com/en/book/show/50403472
+  - recommended by [[olofl]]
+
+
+
+
+
+========================================
+FILE: bolo bolo.md
+========================================
+
+# Bolo bolo
+
+ - a [[book]]
+	- [[by]] [[Hans Widmer]]
+	- [[go]] https://theanarchistlibrary.org/library/p-m-bolo-bolo
+	- [[wp]] https://en.wikipedia.org/wiki/Hans_Widmer
+		- no article for bolo'bolo yet; perhaps we could write one?
+		- [[pull]] [[bolo]]
+	- [[twitter]] https://twitter.com/flancian/status/1279462864210845696
+	- [[mastodon]] https://social.coop/web/statuses/106313750017016830
+- a [[word]]
+  - in [[asa pili]]
+	- [[kraftwerk 1]] [[alle bolo'bolo oder was?]]
+
+
+
+
+
+========================================
+FILE: book of the new sun.md
+========================================
+
+# book of the new sun
+
+- [[gene wolfe]]
+
+
+
+
+========================================
+FILE: book.md
+========================================
+
+# Book
+
+- A [[thing]].
+	- [[pull]] [[books]].
+- A [[bag of holding]].
+	- [[conducive]] or [[convergent]] with the material reality and knowledge that in it you can carry or you can transitively derive.
+	- In this bag you have: [[our mathematical universe]].
+
+I'm trying to write this book. I call it [[Flancia]]. It is currently only a rough [[draft]].
+
+Because I'm slow and I'm dumb, in place of the book, you'll have to accept this: this note you're reading, and the links you may choose to follow. 
+
+Welcome to [[Flancia]], or [[building bridges]]:
+
+- [[Meta]].
+- [[Manifesto]].
+- [[In Flancia we share clear goals]].
+- [[In Flancia there is an Agora]].
+- [[In Flancia there is no poverty]].
+- [[In Flancia there is no privilege]].
+- [[In Flancia there is no violence]].
+- [[In Flancia everybody thrives]].
+- [[In Flancia there is no copyright]].
+- [[In Flancia there are few walled gardens]].
+- [[In Flancia there is a public utility commons]].
+- [[In Flancia there is a basic income]].
+- [[In Flancia we will one day meet]].
+- [[In Flancia world government is bootstrapped through a global social network implementing liquid democracy and rational heterarchies]].
+- [[Against gag orders]].
+- [[Protopoi]].
+- [[Caramel City]].
+- [[Open ethics]].
+- [[On the pedagogy of the revolution]].
+
+Please consider this an offering to all [[good people]].
+
+Have a nice day! And I hope you [[thrive]].
+
+# Towards Flancia
+
+- [[tweets]]
+
+
+
+========================================
+FILE: brasilia.md
+========================================
+
+# Brasilia
+- A planned city.
+
+
+
+========================================
+FILE: bright mind.md
+========================================
+
+# Bright Mind
+
+- An [[app]].
+- By [[shinzen young]].
+- I'm a subscriber.
+  - First week is free.
+- Quite aligned with [[the-science-of-enlightenment]]
+
+
+
+
+========================================
+FILE: caramel city.md
+========================================
+
+# Caramel City
+
+- A [[short story]].
+    - A [[short story]] that could be set in [[early Flancia]].
+        - (Hopefully not in [[Antiflancia]].)
+    - #draft from [[2019]]
+    - #go https://flancia.org/mine/ontological-coaching/
+        - Never re-read it after drafting and very light editing, might be [[cringe]].
+    - https://twitter.com/flancian/status/1365070561634775040
+
+
+
+
+========================================
+FILE: cat heroin.md
+========================================
+
+# Cat Heroin
+
+- https://twitter.com/flancian/status/1355549784929693699
+
+
+
+
+========================================
+FILE: chandigarth.md
+========================================
+
+# Chandigarth
+- https://en.wikipedia.org/wiki/Chandigarh
+- A planned city, like [[Brasilia]]
+- It was one of the early [planned cities](https://en.wikipedia.org/wiki/Planned_cities) in post-independence India and is internationally known for its architecture and urban design.[[9]](https://en.wikipedia.org/wiki/Chandigarh#cite_note-ci2-10) The master plan of the city was prepared by Swiss-French architect [Le Corbusier](https://en.wikipedia.org/wiki/Le_Corbusier), which transformed from earlier plans created by the Polish architect [Maciej Nowicki](https://en.wikipedia.org/wiki/Maciej_Nowicki_(architect)) and the American planner [Albert Mayer](https://en.wikipedia.org/wiki/Albert_Mayer_(planner)). Most of the government buildings and housing in the city were designed by the Chandigarh Capital Project Team headed by [Le Corbusier](https://en.wikipedia.org/wiki/Le_Corbusier), [Jane Drew](https://en.wikipedia.org/wiki/Jane_Drew) and [Maxwell Fry](https://en.wikipedia.org/wiki/Maxwell_Fry). In 2015, an article published by [BBC](https://en.wikipedia.org/wiki/BBC) named Chandigarh as one of the few master-planned cities in the world to have succeeded in terms of combining monumental architecture, cultural growth, and modernization.[[10]](https://en.wikipedia.org/wiki/Chandigarh#cite_note-11)
+
+
+
+
+========================================
+FILE: change the world without taking power.md
+========================================
+
+- a [[book]].
+  - #push [[read]]
+  - https://en.wikipedia.org/wiki/Change_the_World_Without_Taking_Power
+  - #go https://www.goodreads.com/book/show/182864.Change_the_World_Without_Taking_Power
+
+
+
+========================================
+FILE: charles murray.md
+========================================
+
+- a [[person]].
+	- a [[political scientist]].
+	- wrote [[the bell curve]].
+		- [[polemic]].
+
+
+========================================
+FILE: citizense.md
+========================================
+
+# Citizense
+- https://citizense.org/wiki
+- [ ] Looks interesting
+
+
+
+========================================
+FILE: cognitive load.md
+========================================
+
+# Cognitive Load
+
+
+
+
+========================================
+FILE: collected poetry.md
+========================================
+
+- #pull [[Collective Poetry]]
+- #pull [[Collected Poetry]]
+
+
+
+========================================
+FILE: computer lib dream machines.md
+========================================
+
+# computer lib dream machines
+
+- a [[book]]
+  - [[pull]] [[computer lib/dream machines]]
+  - by [[ted nelson]]
+  - [[wp]] https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines
+  - [[go]] [[wp]]
+
+
+
+
+========================================
+FILE: consciousness explained.md
+========================================
+
+- a [[book]].
+  - By [[daniel dennett]].
+  - Loved it!
+  - #amazon https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661
+  - #libgen http://libgen.is/search.php?req=consciousness+explained&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+  -
+  - [[chapter 14]]
+    - [[thought experiments]]
+      - [[chinese room]]
+        - I'd been waiting for the definitive Daniel Dennett takedown of [[Searle]].
+      - [[chinese nation]]
+        - [[Dennett]] mentions the weird fixation with the Chinese in the field of philosophy of mind, mentioning a Chinese researcher's exposure to it while becoming acquainted with "Western" cognitive science.
+
+
+
+========================================
+FILE: conversations with myself.md
+========================================
+
+# Conversations with Myself
+
+- A [[book]].
+  - [[by]] [[nelson mandela]]
+  - [[goodreads]] https://www.goodreads.com/book/show/8113026-conversations-with-myself
+- An [[album]]
+  - [[by]] [[bill evans]]
+  - [[ytm]]https://music.youtube.com/playlist?list=OLAK5uy_ntIuYUsjgRHsARRY0FZWK-uOnK7FAmokA
+  - [[spotify]] https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv
+  - [[go]] [[spotify]]
+- I usually start conversations with myself in chat platforms as a way to have ubiquituous [[note taking]].
+
+
+
+
+
+========================================
+FILE: cormen.md
+========================================
+
+# cormen
+
+- a [[person]]
+  - [[pull]] [[thomas cormen]]
+- a [[book]]
+  - [[pull]] [[introduction to algorithms]]
+  - [[go]] https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
+
+
+
+
+========================================
+FILE: corny.md
+========================================
+
+- I'm corny often, I don't mind, although others might :)
+
+
+========================================
+FILE: cumbia.md
+========================================
+
+# Cumbia
+
+- [[nunca me faltes]]
+
+
+
+
+
+========================================
+FILE: cutting through spiritual materialism.md
+========================================
+
+# cutting through spiritual materialism
+
+- a [[book]]
+  - by [[chögyam trungpa]]
+
+
+
+
+========================================
+FILE: d t suzuki.md
+========================================
+
+# D. T. Suzuki
+
+- A [[person]]. [[deceased]].
+- [[zen]] [[buddhist]]
+- [[writer]].
+- [[book]] [[zen mind, beginner's mind]]
+- Perhaps a [[nazi]] [[sympathizer]]: https://twitter.com/flancian/status/1263842786153037824
+- [[pull]] [[suzuki]]
+
+
+
+
+
+========================================
+FILE: dabbler.md
+========================================
+
+# Dabbler
+
+- I'm a [[dabbler]] honestly. An [[amateur]] in the loving sense.
+
+
+
+
+
+========================================
+FILE: dai.md
+========================================
+
+- #pull [[diana]]
+
+
+========================================
+FILE: dan brown.md
+========================================
+
+# Dan Brown
+
+- [[person]]
+- [[writer]]
+- Not to be confused with the author of Da Vinci Code.
+- I often mix him up with [[dan harris]]: https://twitter.com/flancian/status/1335586801604583425
+
+
+
+
+
+========================================
+FILE: dan harris.md
+========================================
+
+# Dan Harris
+
+- A [[person]].
+- [[book]] [[10% happier]]
+
+
+========================================
+FILE: darwin's dangerous idea.md
+========================================
+
+- a [[book]].
+	- #pull [[daniel dennett]]
+	- [[skyhooks]] vs [[cranes]]
+	- the [[library of mendel]] is in the [[library of babel]] as genetic code can be thought of as books containing [[acgt]]
+	- the [[library of babel]] is in the [[library of mendel]] as genetic code has produced all known book [[writers]]
+
+
+========================================
+FILE: default actions.md
+========================================
+
+# Default Actions
+
+
+
+
+========================================
+FILE: democractic confederalism.md
+========================================
+
+# Democractic Confederalism
+
+- A [[political concept]].
+  - [[go]] en.wikipedia.org/wiki/Democratic_confederalism
+    - [[quote]] Democratic confederalism also known as [[Kurdish]] [[communalism]] or [[Apoism]] is a political concept theorized by Kurdistan Workers Party (PKK) leader [[Abdullah Öcalan]] about a system of democratic [[self-organization]] with the features of a [[confederation]] based on the principles of [[autonomy]], [[direct democracy]], [[environmentalism]], [[feminism]], [[multiculturalism]], [[self-defense]], [[self-governance]] and elements of a [[sharing economy]].
+- A [[book]].
+  - [[go]] https://via.hypothes.is/ocalanbooks.com/downloads/democratic-confederalism.pdf
+
+
+
+
+========================================
+FILE: design from trust.md
+========================================
+
+- a [[book]].
+  - by [[Jerry Michalski]]
+  - #go https://wiki.openglobalmind.com/projects/jerry's_nuggets/design_from_trust_(neobook)
+
+
+
+========================================
+FILE: don t make me think.md
+========================================
+
+# Don't Make Me Think
+
+- A [[book]] about [[usability]]: https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_14_t_0/146-4197656-2662964?_encoding=UTF8&pd_rd_i=0321965515&pd_rd_r=5056ffa3-1138-418d-9596-0a0ec33d65ab&pd_rd_w=mA17l&pd_rd_wg=RB1sT&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=S3MPN89NS8C120CK48YW&psc=1&refRID=S3MPN89NS8C120CK48YW
+
+
+
+
+
+========================================
+FILE: driven to distraction.md
+========================================
+
+# Driven to Distraction
+
+ - A [[book]] about ADD: https://www.goodreads.com/book/show/108593.Driven_to_Distraction
+
+
+
+========================================
+FILE: edmodo.md
+========================================
+
+# Edmodo
+- https://edmodo.com: tecnología educativa. Como classroom?
+
+
+
+========================================
+FILE: eisejuaz.md
+========================================
+
+# eisejuaz
+
+- a [[person]].
+  - [[pull]] [[tinieblavisible]]
+- a [[book]].
+  - [[push]] [[read]]
+  - by [[sara gallardo]].
+
+https://twitter.com/tinieblavisible/status/1387823904308269056
+
+
+========================================
+FILE: el narrador.md
+========================================
+
+# El Narrador
+
+- [[narración]], [[novela]] e [[información]]
+- Dos tipos de narradores de acuerdo con sus tipos de experiencia:
+  - [[el navegante]] que se aleja de su tierra natal
+  - [[el trabajador]] de campo que se queda y acumula [[conocimiento local]]
+
+
+
+
+========================================
+FILE: entropy.md
+========================================
+
+- a [[thing]].
+- a [[book]].
+  - [[what is entropy]]: https://math.ucr.edu/home/baez/what_is_entropy.pdf
+  - by [[john c. baez]]
+- [[entropy]] is the [[source]] of [[computation]].
+	- its destination is usually a [[state of higher order]].
+	- [[wp]] https://en.wikipedia.org/wiki/Entropy
+		- [[go]] [[wp]]
+
+
+
+========================================
+FILE: escuela de aprendices.md
+========================================
+
+# Escuela De Aprendices
+
+- [[book]]
+- [[go]] https://www.amazon.com/Escuela-aprendices-Ensayo-Spanish-Marina-ebook/dp/B08MVCKXRQ
+
+
+
+
+
+========================================
+FILE: essays.md
+========================================
+
+# Essays
+
+- A [[book]] -- or rather many.
+- [[michel-de-montaigne]]
+  - [[go]] https://en.wikipedia.org/wiki/Essays_(Montaigne)
+    - Published [[1580]].
+    - "Montaigne's stated goal in his book is to describe himself with utter frankness and honesty ("bonne foi"). The insight into human nature provided by his essays, for which they are so widely read, is merely a by-product of his introspection. "
+    - "Montaigne's essay topics spanned the entire spectrum of the profound to the trivial, with titles ranging from "Of Sadness and Sorrow" and "Of Conscience" to "Of Smells" and "Of Posting" (referring to posting letters)."
+
+
+
+
+
+========================================
+FILE: exit, voice and loyalty.md
+========================================
+
+# exit, voice and loyalty
+
+- a [[book]].
+  - [[albert hirschman]]
+  - [[wp]] https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty
+
+
+
+
+========================================
+FILE: ficciones.md
+========================================
+
+# Ficciones
+- [[book]] by [[jorge luis borges]].
+- [[go]] https://docs.google.com/document/d/1H1RKsId4IJK1-1YKnsh2uwvEWN0PLI4SZ4MikeCzIGw/edit#heading=h.s5fol49dyt8q
+
+
+
+
+========================================
+FILE: final del juego.md
+========================================
+
+# Final Del Juego
+
+- A [[book]].
+  - A [[short story]].
+
+
+
+
+
+========================================
+FILE: flancia book.md
+========================================
+
+- a [[book]].
+  - A [[thing]] you find some day, free on the [[internet]].
+  - Assembled from fragments, like those found in https://flancia.org and https://anagora.org.
+  - #pull [[agora doc]] [[flancia doc]]
+
+
+
+========================================
+FILE: four futures.md
+========================================
+
+- a [[book]].
+	- [[peter frase]]
+	- [[amazon]] https://www.amazon.com/Four-Futures-After-Capitalism-Jacobin/dp/1781688133
+	- [[neil]] is liking it
+-
+
+
+========================================
+FILE: four quadrants.md
+========================================
+
+# Four Quadrants
+- An essay by Paul Graham: http://paulgraham.com/conformism.html
+
+
+
+========================================
+FILE: fourier.md
+========================================
+
+# Fourier
+
+
+
+
+========================================
+FILE: frog pocket.md
+========================================
+
+# frog pocket
+
+- an [[artist]].
+  - #go https://www.youtube.com/watch?v=-V8sen1Yv7M
+
+
+
+
+========================================
+FILE: gauge fields knots and gravity.md
+========================================
+
+# gauge fields, knots and gravity
+
+- a [[book]]
+  - [[go]] https://www.worldscientific.com/worldscibooks/10.1142/2324
+  - [[chapter]] https://www.worldscientific.com/doi/suppl/10.1142/2324/suppl_file/2324_chap01.pdf
+
+
+
+
+========================================
+FILE: gerald sussman.md
+========================================
+
+# Gerald Sussman
+
+- A [[person]].
+  - [[computer scientist]] [[teacher]] [[writer]]
+- [[book]] [[structure and interpretation of computer programs]]
+- [[book]] [[structure and interpretation of classical mechanics]]
+
+
+
+
+
+========================================
+FILE: glenn gould.md
+========================================
+
+- a [[person]].
+  - [[music]] [[pianist]]
+  - Played [[Bach]] and his own [[variations]] very nicely.
+  - Was very particular about his pianos.
+  - [ ] Would like to learn more about him as a [[composer]].
+
+
+
+========================================
+FILE: good people.md
+========================================
+
+# good people
+
+- [[pull]] [[friends]]
+
+
+
+
+========================================
+FILE: governing the commons.md
+========================================
+
+- a [[book]]
+	- by [[elinor ostrom]]
+	- [[1990]]
+	- [[wp]] https://en.wikipedia.org/wiki/Special:BookSources/978-0-521-40599-7
+	- [[hypothesis]] https://via.hypothes.is/https://www.actu-environnement.com/media/pdf/ostrom_1990.pdf
+		- [[go]] [[hypothesis]]
+	- [[google books]] https://books.google.ch/books?id=4xg6oUobMz4C&printsec=frontcover&dq=isbn:9780521405997&hl=en&sa=X&ved=2ahUKEwiU5ZfmhczwAhWEuaQKHVnnCEwQ6AEwAHoECAAQAg#v=onepage&q&f=false
+
+https://twitter.com/flancian/status/1401146586013618183
+https://twitter.com/flancian/status/1400884449949126663
+
+
+========================================
+FILE: growing artificial societies.md
+========================================
+
+# Growing Artificial Societies
+
+- a [[book]]
+  - https://twitter.com/microjudgments/status/1083808167681642496
+  - [[go]] https://www.goodreads.com/book/show/1331508.Growing_Artificial_Societies
+
+
+
+
+
+========================================
+FILE: hackers heroes of the computer revolution.md
+========================================
+
+# hackers: heroes of the computer revolution
+
+- a [[book]]
+  - by [[steven levy]]
+  - [[push]] [[hackers]]
+
+
+
+
+========================================
+FILE: herzpraxis.md
+========================================
+
+# Herzpraxis
+
+- [[michael klainguti]] is good.
+
+
+
+
+========================================
+FILE: honest signals.md
+========================================
+
+- a [[book]]
+	- by [[alex pentland]]
+	- [[go]] https://mitpress.mit.edu/books/honest-signals
+		- "how understanding the signaling within [[social networks]] can change the way we make decisions, work with others, and manage organizations."
+	- 3.41 at goodreads though
+
+
+========================================
+FILE: hopscotch.md
+========================================
+
+- a [[book]].
+	- #pull [[rayuela]] [[julio cortázar]]
+	- https://en.wikipedia.org/wiki/Hopscotch_(Cort%C3%A1zar_novel))
+		- "Hopscotch is a [[stream-of-consciousness]] [[novel]] which can be read according to two different sequences of [[chapters]]. This novel is often referred to as a [[counter-novel]], as it was by Cortázar himself. It meant an exploration with multiple endings, a [[neverending search]] through unanswerable questions."
+
+
+
+========================================
+FILE: how to read a book.md
+========================================
+
+# How to Read a Book
+
+- a [[book]]
+- [[go]] https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095
+
+
+
+
+
+========================================
+FILE: how to resist amazon and why.md
+========================================
+
+- a [[book]].
+  - [[danny caine]]
+
+
+
+========================================
+FILE: hyperion.md
+========================================
+
+# hyperion
+
+- a [[book]]
+  - by [[dan simmons]]
+  - [[push]] [[hyperion cantos]]
+    - first book in the cycle
+
+I thought I'd read some of Hyperion, for some reason, but it turns out I didn't. I had mixed it up with [[the dying earth]] by [[jack vance]].
+
+
+
+========================================
+FILE: i closed a lot of browser tabs.md
+========================================
+
+# i closed a lot of browser tabs
+
+- a [[post]]
+  - https://rjbs.manxome.org/rubric/entry/2126
+  - [[prometheus]]
+  - [[graphana]]
+  - I have a lot more tabs open than this person, but that's not something to be proud of
+
+
+
+
+
+========================================
+FILE: impro.md
+========================================
+
+# Impro
+
+- a [[book]]
+  - [[by]] [[keith-johnstone]]
+  - About more than [[improvisation]] and the [[theatre]], really. One of those books that over-delivers.
+  - [[go]] https://en.wikipedia.org/wiki/Impro:_Improvisation_and_the_Theatre
+
+
+
+
+
+========================================
+FILE: in Flancia there is no poverty.md
+========================================
+
+- #pull [[poverty]]
+	- In Flancia they solved [[poverty]] by [[2030]].
+	- #pull [[universal basic income]] plus global [[liquid democracy]]
+		- [[basic income]] by default modeled as a [[network flow]] problem
+
+
+========================================
+FILE: in buddha s words.md
+========================================
+
+# In Buddha's Words
+
+- [[book]]
+- [[subtitle]] - "An Anthology of Discourses from the Pali Canon"
+- [[author]] [[bhikku bodhi]]
+
+
+
+
+
+========================================
+FILE: in memoriam.md
+========================================
+
+- Flancia is [[time memorial]].
+
+
+
+========================================
+FILE: innovator's dilemma.md
+========================================
+
+- a [[book]].
+  - #pull [[the innovator's dilemma]]
+
+
+
+========================================
+FILE: instrumental electronic music.md
+========================================
+
+- [[push]] [[music for hacking]]
+- a [[poll]].
+	- [[mastodon]] https://social.coop/web/statuses/106465555338422072
+		- [[neil]]
+			- [[boris brejcha]] 
+			- [[pantha du prince]] https://social.coop/web/statuses/106467348102224025
+			- [[cliq hop]] (radio)
+		- [[cat]]
+			- [[the black dog]]
+			- [[5f-x]]
+	- [[twitter]] https://twitter.com/flancian/status/1408029481021939714
+		- [[aphex twin]] > [[plaid]] > [[autechre]]
+		- [[007bistromath]] 
+			- [[master boot record]]
+		- [[strongreduction]]
+			- [[disparition]]
+			- [[cristobal tapia de veer]]
+		- [[mcorliss]]
+			- [[edIT]]
+		- [[ethan hamilton]]
+			- [[terekke]]
+			- [[max cooper]] 
+				- https://twitter.com/ethanshamilton/status/1408100737331220483
+			- [[kaitlyn aurelia smith]]
+			- [[rival consoles]]
+			- [[marconi union]]
+		- [[font of augurs]]
+			- [[the orb]]
+			- [[tangerine dream]]
+		- [[steve parkes]]
+			- [[ozric tentacles]]
+			- [[eat static]]
+		- [[karan vasudeva]]
+			- [[carbon based lifeforms]]
+		- [[codex]]
+			- [[ray lynch]]
+			- [[olivier messiaen]]
+				- https://twitter.com/codexeditor/status/1408032004562591748
+
+
+
+
+
+========================================
+FILE: introduction.md
+========================================
+
+# Introduction
+
+
+
+
+========================================
+FILE: jean michel jarre.md
+========================================
+
+# jean michel jarre
+
+- a [[person]]
+  - [[musician]]
+  - [[calin]] likes him
+  - [[laser theremine]]
+  - [[oxygene]]
+
+
+
+
+
+========================================
+FILE: jorge luis borges.md
+========================================
+
+# Jorge Luis Borges
+
+- A [[person]].
+- [[writer]].
+- [[book]] [[ficciones]]
+- [[book]] [[el aleph]]
+- [[book]] [[el informe de brodie]]
+- [[pull]] [[borges]]
+
+
+
+
+========================================
+FILE: julia serano.md
+========================================
+
+# Julia Serano
+
+- A [[person]].
+- [[trans]].
+- [[gender theorist]] [[biologist]] [[writer]].
+
+
+
+
+
+========================================
+FILE: julio cortázar.md
+========================================
+
+# Julio Cortázar
+
+- [[person]]
+- [[writer]]
+- [[book]] [[rayuela]]
+- [[book]] [[final del juego]]
+- [[book]] [[bestiario]]
+- [[book]] [[62 modelo para armar]]
+- [[book]] [[los premios]]
+- [[book]] [[un tal lucas]]
+- [[book]] [[historias de cronopios y de famas]]
+
+
+
+
+
+========================================
+FILE: kanban.md
+========================================
+
+# Kanban
+- kanban
+    - Not started
+    - Working
+        - Write Agora Protocol v1
+    - Blocked
+        - Develop Agora
+    - Done
+        - Launch anagora.org
+
+
+
+========================================
+FILE: keith johnstone.md
+========================================
+
+# Keith Johnstone
+
+- [[person]]
+  - [[writer]] [[actor]] [[director]]
+  - [[improvisation]] [[theatre]]
+  - [[go]] https://en.wikipedia.org/wiki/Keith_Johnstone
+  - [[book]] [[impro]]
+- [[meta]] Ha, I thought I would have noded him earlier.
+
+
+
+
+
+========================================
+FILE: kurt vonnegut.md
+========================================
+
+- a [[person]].
+  - [[friend]]
+    - I've never met him, but I love his books.
+    - #pull [[lonesome no more]] [[slaughterhouse five]]
+
+
+
+========================================
+FILE: labyrinths.md
+========================================
+
+# labyrinths
+
+- a [[book]]
+  - collection of [[short stories]] and [[essays]] by [[borges]]
+  - [[wp]] https://en.m.wikipedia.org/wiki/Labyrinths
+  - [[go]] [[wp]]
+
+ 
+
+
+
+
+
+========================================
+FILE: laraaji.md
+========================================
+
+# laraaji
+
+- a [[person]].
+  - [[musician]]
+  - #go https://music.youtube.com/playlist?list=OLAK5uy_n2bqBArtATPUkSRyPcfK320Fj_UlVMq6g
+
+
+
+
+========================================
+FILE: liked.md
+========================================
+
+# liked
+
+
+
+
+========================================
+FILE: listen.md
+========================================
+
+# Listen
+
+- An [[action]].
+    - [[push]] [[do]].
+- Listening to [[others]] is important.
+- Also an episode of [[yoga with adriene]].
+  - [[go]] https://www.youtube.com/watch?v=jWMtgM_8jAE&list=PLui6Eyny-UzzJ4NSTesh4xRWg4ZWNz5s4&index=7
+- [[music]]
+
+
+
+
+
+
+========================================
+FILE: literature.md
+========================================
+
+# Literature
+
+
+
+========================================
+FILE: logseq/bak/Taixu/2023-03-19T21_34_08.352Z.Desktop.md
+========================================
+
+- #go https://via.hypothes.is/https://gateway.ipfs.io/ipfs/bafykbzacebg32u23z7tgjc7ifge6jqjtt4xsoko3hdls5nguzualbjxk4wm7w?filename=Charles%20B.%20Jones%20-%20Taixu%E2%80%99s%20%27%27On%20the%20Establishment%20of%20the%20Pure%20Land%20in%20the%20Human%20Realm%27%27%20_%20A%20Translation%20and%20Study-Bloomsbury%20Academic%20%282021%29.pdf
+- #pull [[toward a modern chinese buddhism]]
+
+
+
+========================================
+FILE: logseq/bak/flancia playlist/2023-07-27T21_44_34.979Z.Desktop.md
+========================================
+
+- a [[playlist]].
+  - #go https://music.youtube.com/playlist?list=PLtG4zc89ZUfGfRg9EzQMZevvP5B6UY4Nz
+  - #pull [[agora playlist]]
+
+
+
+========================================
+FILE: logseq/bak/lady burup/2023-03-12T22_02_37.078Z.Desktop.md
+========================================
+
+- #pull [[Ocell]], my [[lady burup]]
+
+
+
+========================================
+FILE: logseq/bak/on the establishment of the pure land in the human realm/2023-07-27T21_44_41.063Z.Desktop.md
+========================================
+
+- a [[book]].
+  - [[Charles Jones]]
+  - #go https://via.hypothes.is/https://gateway.ipfs.io/ipfs/bafykbzaceaizr6od7yw2kpfupna5s6jd2hg5n3yxbh4oos7znutmbgiy74654?filename=Don%20A.%20Pittman%20-%20Toward%20a%20Modern%20Chinese%20Buddhism_%20Taixu%E2%80%99s%20Reforms-University%20of%20Hawaii%20Press%20%282001%29.pdf
+
+
+
+========================================
+FILE: logseq/bak/this/2023-07-27T21_44_42.372Z.Desktop.md
+========================================
+
+# this
+
+- [[pull]] [[music]]
+
+
+
+
+========================================
+FILE: mabinogion.md
+========================================
+
+# Mabinogion
+- https://www.borges.pitt.edu/i/mabinogion
+- "La sombra de las jugadas"
+- En uno de los cuentos que integran la serie de los __Mabinogion__,
+ dos reyes enemigos juegan ajedrez, mientras en un valle cercano sus 
+ejércitos luchan y se destrozan. Llegan mensajeros con noticias de la 
+batalla; los reyes no parecen oírlos e, inclinados sobre el tablero de 
+plata, mueven las piezas de oro. Gradualmente se aclara que las 
+vicisitudes del combate siguen las vicisitudes del juego. Hacia el 
+atardecer, uno de los reyes derriba el tablero, porque le han dado jaque
+ mate y poco después un jinete ensangrentado le anuncia:
+—Tu ejército huye, has perdido el reino.
+- Edwin Morgan
+- __The Week-End Companion to Wales and Cornwall__
+- Chester, 1929
+
+
+
+========================================
+FILE: macedonio fernandez.md
+========================================
+
+# Macedonio Fernandez
+- https://twitter.com/flancian/status/1297812397630029829
+- Inspiración para Borges, La Invasión.
+- Fusión ficción-realidad.
+
+
+
+========================================
+FILE: madness rack and honey.md
+========================================
+
+# madness, rack and honey
+
+- a [[book]].
+
+
+
+
+
+========================================
+FILE: martin paul eve.md
+========================================
+
+- a [[person]].
+	- #push [[warez]]
+		- "His 2021 [[book]], Warez, examines the pirate artefacts of the [[warez scene]], arguing for the importance of understanding this culture's artforms. He has further written about the pirate e-book archive, [[Library Genesis]], and its technical infrastructures for [[Digital Humanities Quarterly]]."
+
+
+========================================
+FILE: mastering the core teachings of the buddha.md
+========================================
+
+# mastering the core teachings of the buddha
+
+- a [[book]]
+  - [[pull]] [[mctb]]
+  - [[go]] https://via.hypothes.is/https://www.mctb.org/wp-content/uploads/2021/09/MCTB2_Complete_PDF_Final.pdf
+
+
+
+
+========================================
+FILE: mastery.md
+========================================
+
+- a [[book]]
+	- by [[george leonard]]
+		- [[1991]]
+	- [[aikido]] [[zen]]
+	- [[wp]] https://en.wikipedia.org/wiki/George_Leonard
+- a [[book]]
+	- by [[robert greene]]
+		- [[2012]]
+	- [[wp]] https://en.wikipedia.org/wiki/Mastery_(book)
+
+
+========================================
+FILE: mctb.md
+========================================
+
+# mctb
+
+- a [[book]].
+  - [[daniel ingram]]
+  - [[pull]] [[mastering the core teachings of the buddha]]
+  - [[site]] https://www.mctb.org/
+  - [[go]] https://via.hypothes.is/https://www.mctb.org/wp-content/uploads/2021/09/MCTB2_Complete_PDF_Final.pdf
+
+
+
+========================================
+FILE: meritocracy.md
+========================================
+
+# Meritocracy
+- https://twitter.com/flancian/status/1270472478977134600
+
+
+
+========================================
+FILE: michel de montaigne.md
+========================================
+
+# Michel De Montaigne
+
+- A [[person]].
+- [[writer]].
+- [[book]] [[essays]].
+
+
+
+
+========================================
+FILE: molchat doma.md
+========================================
+
+# Molchat Doma
+
+
+
+
+========================================
+FILE: music.md
+========================================
+
+# Music
+
+- a [[list]]
+	- of music that's been recommended to me or that I'm otherwise listening
+		- I intend to [[push]] stuff I'm listening to here, a la awkward [[scrobbling]] :)
+	- #pull [[instrumental electronic music]]
+	- #push [[agora playlist]]
+		- [[laraaji]]
+		- [[frog pocket]]
+
+
+
+========================================
+FILE: musikino.md
+========================================
+
+- a [[program]].
+	- [[radio]]
+		- [[music]] as related to [[cinema]]
+	- tuesdays at [[7pm gmt]]
+	- #pull [[radijo musikii]] [[dai]] [[greg]] [[oscar]]
+  - #go https://www.radijo-musikii.net/?fbclid=IwAR1dCkTwvWna0OSDw7CKDk6ZmtJeRfKBs2jEz0IFm9xGk8nofbYqq9GiPk8
+
+
+
+========================================
+FILE: nadia eghbal.md
+========================================
+
+# nadia eghbal
+
+- a [[person]]
+  - [[writer]]
+  - [[working in public]]
+
+
+
+
+========================================
+FILE: nayafia.md
+========================================
+
+# Nayafia
+
+- a [[person]]
+  - [[twitter]] https://twitter.com/nayafia
+  - [[pull]] [[nadia-eghbal]]
+  - [[book]] [[working in public]]
+
+
+
+
+
+========================================
+FILE: nazi.md
+========================================
+
+- a [[person]].
+	- member of the [[nazi]] party in [[hitler germany]] or any other country/time period
+	- #pull [[nazis]]
+- a [[shorthand]].
+	- for [[fascist]]
+
+
+========================================
+FILE: neustart schweiz.md
+========================================
+
+- a [[book]]
+	- by [[hans widmer]]
+	- pointed out to me by [[andreas]] in [[patterning]]
+	- [[anarchist library]] doesn't have it
+	- [[go]] https://www.neustartschweiz.ch/nach-hause-kommen/
+
+
+========================================
+FILE: notes on the synthesis of form.md
+========================================
+
+# Notes on the Synthesis of Form
+
+- a [[book]]
+  - #apa Alexander, C. (1979). Notes on the synthesis of form (10. print). Harvard University Press.
+  - #pull [[christopher alexander]]
+    - [[1964]]
+  - #pull [[notsof]]
+  - [[go]] [[hypothesis]]
+  - [[ipfs]] ipfs://QmZT7E9yVePVVx2MQuAyj8ygNPPWYoegiXtJpBNuupodDP
+  - [[old]] https://anagora.org/go/notsof
+  - [[hypothesis]] https://via.hypothes.is/https://stoa.anagora.org/ipfs/QmZT7E9yVePVVx2MQuAyj8ygNPPWYoegiXtJpBNuupodDP
+
+
+
+
+
+========================================
+FILE: on revolution.md
+========================================
+
+# on revolution
+
+- a [[book]].
+  - [[pull]] [[hannah arendt]]
+- [[pull]] [[perhaps naive]]
+
+
+
+
+
+
+========================================
+FILE: on the establishment of the pure land in the human realm.md
+========================================
+
+- a [[book]].
+  - by [[Taixu]]
+  - translated by [[Charles Jones]]
+  - #go https://via.hypothes.is/https://gateway.ipfs.io/ipfs/bafykbzacebg32u23z7tgjc7ifge6jqjtt4xsoko3hdls5nguzualbjxk4wm7w?filename=Charles%20B.%20Jones%20-%20Taixu%E2%80%99s%20%27%27On%20the%20Establishment%20of%20the%20Pure%20Land%20in%20the%20Human%20Realm%27%27%20_%20A%20Translation%20and%20Study-Bloomsbury%20Academic%20%282021%29.pdf
+
+
+
+========================================
+FILE: on tyranny.md
+========================================
+
+# On Tyranny
+
+- A [[book]].
+- [[author]] [[timothy snyder]]
+- [[go]] https://en.wikipedia.org/wiki/On_Tyranny:_Twenty_Lessons_from_the_Twentieth_Century
+  - "It focuses on the concept of [[tyranny]] in the context of the modern [[US]] [[politics]], analyzing what Snyder calls "America's turn towards [[authoritarianism]]"".
+- [[amazon]] https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119
+
+
+
+
+
+========================================
+FILE: open ethics.md
+========================================
+
+# Open Ethics
+
+- [[open source]] for [[humans]].
+- Applying the spirit of [[open source]] to our lives.
+  - Being fully explicit within our capabilities.
+- To [[do]] what you [[say]].
+- I try to [[embody]] this quality by maintaining a public [[contract]] that tells the world who I am, who I want to be, who I [[intend]] to be. 
+  - Also how I define [[good]] and [[bad]]; [[interesting]] and [[uninteresting]]; [[fun]] and [[boring]].
+
+
+
+
+
+========================================
+FILE: open source monitoring.md
+========================================
+
+# open source monitoring
+
+- [[sentry]] application monitoring (exceptions, performance)
+- [[grafana]] analytics
+  - now [[agpl]]
+- [[loki]] log aggregation
+- [[tempo]] tracing backend
+- [[prometheus]] borgmon-like
+
+
+
+
+========================================
+FILE: oteotpl.md
+========================================
+
+- a [[book]].
+  - by [[Taixu]].
+  - and [[Charles B. Jones]].
+  - #go https://via.hypothes.is/https://gateway.ipfs.io/ipfs/bafykbzacebg32u23z7tgjc7ifge6jqjtt4xsoko3hdls5nguzualbjxk4wm7w?filename=Charles%20B.%20Jones%20-%20Taixu%E2%80%99s%20%27%27On%20the%20Establishment%20of%20the%20Pure%20Land%20in%20the%20Human%20Realm%27%27%20_%20A%20Translation%20and%20Study-Bloomsbury%20Academic%20%282021%29.pdf
+
+
+
+========================================
+FILE: our mathematical universe.md
+========================================
+
+# our mathematical universe
+
+- a [[book]]
+  - by [[max tegmark]]
+  - [[wp]] https://en.wikipedia.org/wiki/Our_Mathematical_Universe
+    - [[go]] [[wp]]
+  - https://twitter.com/flancian/status/1426915098950504452
+  - one of my favourite books ever. listened to it as an audiobook.
+    - https://twitter.com/flancian/status/1439639226308509702
+  - [[pull]] [[mathematical universe hypothesis]]
+
+
+
+
+========================================
+FILE: paterson.md
+========================================
+
+# paterson
+
+- a [[place]].
+  - [[city]] in [[new jersey]].
+  - [[wp]] https://en.wikipedia.org/wiki/Paterson,_New_Jersey
+- a [[movie]].
+  - by [[jim jarmusch]]
+  - [[wp]] https://en.wikipedia.org/wiki/Paterson_(film)
+- a [[book]].
+  - by [[william carlos williams]]
+  - [[wp]] https://en.wikipedia.org/wiki/Paterson_(poem)
+
+
+
+
+========================================
+FILE: peak honesty capitalism.md
+========================================
+
+# peak honesty capitalism
+
+- [[bairn ashtrit]] https://twitter.com/nasgyc/status/1423145703887474691
+
+
+
+
+========================================
+FILE: permanent.md
+========================================
+
+# Permanent
+
+
+
+
+========================================
+FILE: pkg book.md
+========================================
+
+- a [[book]].
+  - #go https://personalknowledgegraphs.com/
+	- [[twitter]] https://twitter.com/PkgBook
+  - [[submission guidelines]] https://personalknowledgegraphs.com/#/page/chapter%20submission%20guidelines
+	- Being organized by [[Ivo Velitchkov]] and [[George Anadiotis]] == [[linked do]]
+    - Now (2022-08) also [[Rob Worth]].
+	- #pull [[pkm book]]
+    - I mistakenly referred to it as [[pkm book]] for a while.
+	- submitted an [[agora abstract]]
+  - [[deadlines]]
+    - [[outline]] July 1: A list of bullets with the sections the chapter will consist of.
+    - [[draft]] August 1: A first draft of the chapter, minimum of 2,000 words.
+    - [[submission]] September 1: The final chapter submission.
+    - [[format]] https://personalknowledgegraphs.com/#/page/625ecc70-78c3-4a55-89f8-b6dbcffb878e
+      - "(Full chapter expected length: 5.000 - 10.000 words)"
+    - will use [[agora pkg chapter]] to write/edit.
+
+
+
+========================================
+FILE: pkm book.md
+========================================
+
+- a [[book]].
+	- #pull [[pkg book]] actually!
+
+
+========================================
+FILE: poetry PR.md
+========================================
+
+- #pull [[poetry]]
+
+
+
+========================================
+FILE: poetry.md
+========================================
+
+- a [[project]].
+  - [[python]] [[dependency management]] [[environment management]]
+  - `poetry add` is like pip3 install in the virtualenv followed by pip3 freeze, etc.
+  - [[install]] https://python-poetry.org/docs/#installation
+
+To get started (this comes from the [[agora server]] README / https://python-poetry.org/docs/#installation:
+
+
+```
+curl -sSL https://install.python-poetry.org | python3 -
+poetry install  # or add if you're in a new project?
+```
+
+It gets installed to `$HOME/.local/bin/poetry` on Linux (useful if you don't have .local/bin in your $PATH).
+
+
+
+========================================
+FILE: poly book.md
+========================================
+
+- a [[book]].
+  - #go https://topos.site/poly-book.pdf
+
+
+
+========================================
+FILE: prana.md
+========================================
+
+- a series of [[yoga flows]]:
+  - by [[Adriene]] -- thank you Adriene and Benji and others who help produce this [[yoga journey]] as usual!
+  - Remember: you can e.g. anagora.org/go/prana/1 to do day one (it redirects) :)
+  - #0 https://www.youtube.com/watch?v=PYDacIoSeRI
+  - #1 https://www.youtube.com/watch?v=tC-aST6A194
+  - #2 https://www.youtube.com/watch?v=gZ1DtlOJNMI
+  - #3 https://www.youtube.com/watch?v=n1r7axbdH70
+  - #4 https://www.youtube.com/watch?v=pt7AFyWtPGE
+  - #5 https://www.youtube.com/watch?v=p0KSFLf_XJA
+  - #6 https://www.youtube.com/watch?v=gALB0Vj93YQ
+  - #7 https://www.youtube.com/watch?v=EtJPA0dVTDs
+  - #8 https://www.youtube.com/watch?v=DVVxQk2ToxQ
+
+
+
+========================================
+FILE: prettier.md
+========================================
+
+# prettier
+
+
+
+
+========================================
+FILE: prisión perpetua.md
+========================================
+
+# Prisión Perpetua
+
+- [[book]]
+- [[author]] [[ricardo piglia]]
+
+
+
+
+
+========================================
+FILE: quantum computing since democritus.md
+========================================
+
+# quantum computing since democritus
+
+- a [[book]]
+  - by [[scott aaronson]]
+  - [[amazon]] https://www.amazon.com/Quantum-Computing-since-Democritus-ebook/dp/B00B4V6IZK/
+
+
+
+
+========================================
+FILE: radical candor.md
+========================================
+
+# Radical Candor
+- Recommended to me by someone, but I didn't write down who.
+- https://www.goodreads.com/book/show/29939161-radical-candor
+
+
+
+========================================
+FILE: rayuela.md
+========================================
+
+# Rayuela
+
+- [[Ricardo Piglia]] piensa que [[Morelli]] fue inspirado por [[Macedonio Fernandez]].
+
+
+
+
+
+========================================
+FILE: repository of patterns.md
+========================================
+
+- #pull [[a pattern language]]
+
+
+
+========================================
+FILE: resonate.md
+========================================
+
+- a [[coop]].
+	- [[music]] [[streaming]]
+	- became a [[co owner]] around [[2022-02-12]]
+	- would like to use it more often, will try to give it a longer try today
+
+
+========================================
+FILE: robbers cave study.md
+========================================
+
+# Robbers Cave Study
+- https://en.wikipedia.org/wiki/Realistic_conflict_theory
+- []
+
+
+
+========================================
+FILE: rode podmic.md
+========================================
+
+- a [[microphone]]
+	- great sounding
+	- [[xlr]] output
+
+
+========================================
+FILE: rodolfo ocampo.md
+========================================
+
+# Rodolfo Ocampo
+
+- a [[person]]
+- [[twitter]] twitter.com/_rodolfoocampo
+  - [[quote]] [[cybernetics]] [[ai]] [[ecology]] [[music]] [[solarpunk]]
+- [[project]] [[ecofuturismo]]
+- [[project]] [[datalabitam]]
+
+
+
+
+
+========================================
+FILE: rosano.md
+========================================
+
+# Rosano
+
+- a [[person]]
+  - [[twitter]] twitter.com/rosano
+  - [[merveilles]] merveilles.town/@rosano
+  - [[music]] [[design]] [[technology]]
+  - [[go]] https://ref.rosano.ca
+  - [[garden]] rosano.hmm.garden
+  - [[project]] [[launchlet]]
+
+
+
+
+
+
+========================================
+FILE: sapiens.md
+========================================
+
+# Sapiens
+
+- A [[book]].
+- [[author]] [[yuval noah harari]]
+- [[pull]] [[sapiens📒]]
+
+
+
+
+
+========================================
+FILE: sara ishikawa.md
+========================================
+
+- a [[person]].
+  - [[writer]] [[architect]] [[academic]]
+  - [[berkeley]]
+  - [[a pattern language]]
+  - #go https://www.worldcat.org/identities/lccn-nr89011578/
+
+
+
+========================================
+FILE: sciences of the artificial.md
+========================================
+
+# Sciences of the Artificial
+
+- [[book]]
+- [[go]] https://en.wikipedia.org/wiki/The_Sciences_of_the_Artificial
+  - "is a highly influential book by Herbert A. Simon in the domain of the learning sciences and artificial intelligence."
+  - [[recommended]] by [[generativist]]
+
+
+
+
+========================================
+FILE: seeing like a state.md
+========================================
+
+# Seeing Like a State
+- A [[book]]
+- [[author]] [[james scott]]
+- [[go]] https://en.wikipedia.org/wiki/Seeing_Like_a_State
+  - __**Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed**__ is a book by [James C. Scott](https://en.wikipedia.org/wiki/James_C._Scott) critical of a system of beliefs he calls [high modernism](https://en.wikipedia.org/wiki/High_modernism), that centers around confidence in the ability to design and operate society in accordance with [scientific laws](https://en.wikipedia.org/wiki/Scientific_laws).
+- [[tweet]] https://twitter.com/flancian/status/1279479233316827136
+- Introduction
+  - p1 This book grew out of an intellectual detour that became so gripping that I decided to abandon my original itinerary altogether.
+  - Originally set out to "understand why the state has always seemed to be the enemy of "people who move around", to put it crudely.
+  - Gypsies, berbers, bedouins, vagrants, homeless, serfs "have always been a thorn in the side of states".
+  - Efforts to permanently settle these mobile people are perennial and seldom succeed.
+  - p2 on many of these schemes: "the state's attempt to make a society legible, to arrange the population in ways that simplified the classic state functions of taxation, conscription and prevention of rebellion". Creation of grids.
+  - Beekeeping as an analogy. Industrial hives are made regular, segregated.
+  - p3 [[Chandigarth]]
+- Chapter one
+ - On forestry as a model for the analysis of schemes that it proposes.
+
+
+
+
+========================================
+FILE: sex tips for geeks.md
+========================================
+
+# sex tips for geeks
+
+- a [[book]].
+  - by [[esr]]
+ 
+
+
+
+
+
+========================================
+FILE: shambhala: the sacred path of the warrior.md
+========================================
+
+# shambhala: the sacred path of the warrior
+
+- a [[book]]
+  - by [[chögyam trungpa]] (author), [[carolyn rose gimian]] (editor)
+  - [[amazon]] https://www.amazon.de/-/en/Carolyn-Rose-Gimian/dp/1590304519/ref=sr_1_1?dchild=1&keywords=warrior+shambhala&qid=1634932017&sr=8-1
+  - [[goodreads]] https://www.goodreads.com/book/show/336248.Shambhala
+  - [[wp]] https://en.wikipedia.org/wiki/Shambhala:_The_Sacred_Path_of_the_Warrior
+
+
+
+
+========================================
+FILE: shape of my heart.md
+========================================
+
+- a [[song]].
+	- by [[sting]].
+- a [[running joke]].
+	- about my sometimes being [[corny]].
+  - #pull [[the shape of my heart]]
+
+
+
+========================================
+FILE: share freely.md
+========================================
+
+"One Flancia for you, one for you over there, one for every being!
+
+Copying Flancia is free, do try to enjoy it!
+
+And make responsible use."
+
+-- From the [[Chronicles of Flancia]], ca. [[2027]].
+
+
+
+========================================
+FILE: sharing economy.md
+========================================
+
+# Sharing Economy
+
+
+
+
+========================================
+FILE: six easy pieces.md
+========================================
+
+# six easy pieces
+
+- a [[book]]
+  - by [[richard feynman]]
+  - [[loved]] it
+  - [[goodreads]] https://www.goodreads.com/book/show/5553.Six_Easy_Pieces
+
+
+
+
+========================================
+FILE: so you want to learn physics.md
+========================================
+
+# so you want to learn physics
+
+- a [[book]]
+  - by [[susan rigetti]]
+  - [[go]] https://www.susanrigetti.com/physics
+
+
+
+
+========================================
+FILE: so you want to talk about race.md
+========================================
+
+# So You Want to Talk about Race
+
+- A [[book]] by [[ijeoma oluo]].
+- [[go]] https://en.wikipedia.org/wiki/So_You_Want_to_Talk_About_Race
+- [[buy]]
+- [[read]]
+
+
+
+
+
+========================================
+FILE: soulseek.md
+========================================
+
+# Soulseek
+
+- a [[p2p network]]
+  - [[music]]
+  - I was into it in the early 2000s. My favourite music sharing network.
+  - Influenced [[open home]].
+
+https://twitter.com/sn_fk_n/status/1365386588436520968
+https://twitter.com/kingmob84/status/1375823600872267777
+
+
+
+
+
+========================================
+FILE: spin dictators.md
+========================================
+
+- a [[book]].
+  - #pull [[sergei guriev]] [[daniel treisman]]
+
+
+
+========================================
+FILE: stand on zanzibar.md
+========================================
+
+- a [[book]].
+  - [[sci fi]] classic.
+
+
+
+========================================
+FILE: steve blank.md
+========================================
+
+# Steve Blank
+
+- [[person]]
+- [[writer]]
+- [[book]] [[the startup owner's manual]]
+
+
+
+
+
+========================================
+FILE: stpa handbook.md
+========================================
+
+- a [[book]]. 
+	- [[pull]] [[stpa]]
+	- [[go]] https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf
+		- [[annotate]] https://via.hypothes.is/https://stoa.anagora.org/ipfs/QmY8Xb7bt9ebbQjieoD28y3QMyPuguMQojFDrucegRREmB
+			- [[pull]] [[hypothesis]] 
+
+## [[Chapter 2]]
+
+Good overall summary in the first page:
+
+![[Pasted image 20210718144905.png]]
+
+I wonder what the formalism is in this diagram. It is not an STPA diagram in the "main" sense as it doesn't model control loops explicitly, but is it part of the STPA framework?
+
+![[Pasted image 20210718150828.png]]
+
+First step: defining the purpose of the analysis.
+
+![[Pasted image 20210718150742.png]]
+
+[[Losses]]:
+
+![[Pasted image 20210718150713.png]]
+
+![[Pasted image 20210718155038.png]]
+
+[[Stakes]] are [[values]]:
+
+![[Pasted image 20210718151545.png]]
+
+Definition of [[system]]:
+
+![[Pasted image 20210718162616.png]]
+
+[[hazards]] + [[environmental conditions]] = [[losses]]
+
+![[Pasted image 20210718231941.png]]
+
+The heart of STPA: the control loop. 
+
+![[Pasted image 20210718234343.png]]
+
+Refining control structures:
+
+![[Pasted image 20210719000525.png]]
+
+![[Pasted image 20210719000516.png]]
+
+![[Pasted image 20210719001721.png]]
+
+![[Pasted image 20210719003446.png]]
+
+![[Pasted image 20210719003520.png]]
+
+On [[control]] proper:
+
+![[Pasted image 20210719005502.png]]
+
+tips to prevent common mistakes in a control structure: 
+
+![[Pasted image 20210719010243.png]]
+
+Step three:
+
+![[Pasted image 20210719010634.png]]
+
+
+========================================
+FILE: strength in diversity.md
+========================================
+
+# Strength in Diversity
+
+- [[strength]] in [[diversity]]
+  - a [[balanced]] [[education]] is critical: https://pinafore.social/statuses/105645928566998064
+
+
+
+
+========================================
+FILE: structure and interpretation of classical mechanics.md
+========================================
+
+# Structure and Interpretation of Classical Mechanics
+
+- a [[book]]
+  - by [[gerald sussman]] and [[jack wisdom]]
+- [[go]] https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Classical_Mechanics
+  - [[quote]] SICM explains some physical phenomena by showing computer programs for simulating them. These programs are written in the [[Scheme]] programming language, as were the programs in Sussman's earlier computer science textbook, [[Structure and Interpretation of Computer Programs]] 
+
+
+
+
+
+========================================
+FILE: structure and interpretation of computer programs.md
+========================================
+
+# Structure and Interpretation of Computer Programs
+
+
+
+
+========================================
+FILE: sunshine.md
+========================================
+
+Let / the sunshine
+Let / the sushine in
+The sunshine / in
+
+--
+
+
+
+
+
+========================================
+FILE: technics and time.md
+========================================
+
+- a [[book]].
+  - #pull [[the fault of epimetheus]].
+
+
+
+========================================
+FILE: the arcades project.md
+========================================
+
+# The Arcades Project
+- #push [[arcades project]]
+- a [[book]].
+	- ...sort of.
+		- perhaps closer to a [[hypertext]], before those existed.
+			- maybe a [[scrapbook]]. maybe a [[draft]]. maybe a [[collection of notes]].
+	- #push [[walter benjamin]] contemporaries
+		- quotes from: [[marcel proust]] [[paul valéry]] [[louis aragon]] [[andré breton]] [[georg simmel]] [[ernst bloch]] [[siegfried kracauer]] [[theodor adorno]]
+	- [[foreword]]
+		- in the words of the translator of our edition, the items on display ([[drafts]], [[excerpts]]) give rise to "[[a world of secret affinities]]".
+		- [[benjamin]] abandoned the work in [[1940]] as he had to flee [[paris]].
+		- [[benjamin]] wrote to [[gershom scholem]] on [[1934]] and said that "not a syllable of the actual text of the [[passagenarbeit]] exists yet". So perhaps what we've got is essentially only [[notes]] for a work that was never written.
+		- but perhaps what we got is closer to what [[benjamin]] had in mind as an end state; he had experimented with [[montage]] before.
+		- it contains [[oppressive chunks of quotations]].
+		- [[convolutes]]
+	- #push [[nineteenth century types]]
+		- [[flaneur]]
+		- [[collector]]
+		- [[gambler]]
+	- [[exposé of 1935]]
+		- [[iron]]
+		- [[glass]]
+		- [[fourier]] the [[utopian]]
+			- [[phalanstery]]
+			- influenced [[zola]], [[marx]]
+
+
+========================================
+FILE: the beginning of infinity.md
+========================================
+
+- a [[book]]
+	- by [[david deutsch]]
+	- I love it
+	- [[wp]] https://en.wikipedia.org/wiki/The_Beginning_of_Infinity
+		- [[go]] [[wp]]
+
+
+========================================
+FILE: the bell curve.md
+========================================
+
+- a [[book]].
+	- by [[charles murray]].
+		- [[polemic]].
+	- [[wp]] https://en.wikipedia.org/wiki/The_Bell_Curve
+- a [[video]]
+	- [[yt]] https://www.youtube.com/watch?v=UBc7qBS1Ujo&t=1s
+		- [[go]] [[yt]]
+
+
+========================================
+FILE: the book of the new sun.md
+========================================
+
+# the book of the new sun
+
+- a [[book]]
+  - [[push]] [[book of the new sun]]
+    - [[go]] https://en.wikipedia.org/wiki/The_Book_of_the_New_Sun
+- a [[series]]
+  - [[the shadow of the torturer]]
+  - [[the claw of the conciliator]]
+  - [[the sword of the lictor]]
+  - [[the citadel of the autarch]]
+
+![](assets/the-book-of-the-new-sun.png)
+
+
+
+
+========================================
+FILE: the city in the image of man.md
+========================================
+
+# the city in the image of man
+
+- a [[book]]
+  - [[pull]] [[arcology: the city in the image of man]]
+  - [[go]] https://www.organism.earth/library/document/arcology
+  - [[ex astris umbra]] https://twitter.com/ExAstrisUmbra/status/1444355566176899073
+
+
+
+
+========================================
+FILE: the craft of research.md
+========================================
+
+- a [[book]].
+	- #pull [[research]] [[patterns]]
+	- [[portuguese]] [[a arte da pesquisa]]
+	- [[español]] [[cómo convertirse en un hábil investigador]]
+
+
+========================================
+FILE: the deeper the roots.md
+========================================
+
+# the deeper the roots
+
+- a [[book]]
+  - [[michael d. tubbs]]
+
+
+
+
+========================================
+FILE: the dying earth.md
+========================================
+
+# the dying earth
+
+- a [[book]]
+  - [[sci fi]]
+  - [[go]] https://en.wikipedia.org/wiki/The_Dying_Earth
+  - by [[jack vance]]
+  - [[push]] [[dying earth]]
+    - first book
+
+
+
+
+========================================
+FILE: the expanse.md
+========================================
+
+# The Expanse
+
+- A [[book]] [[series]].
+  - [[go]] https://en.wikipedia.org/wiki/The_Expanse_(novel_series)
+- A [[tv]] [[series]].
+  - [[go]] https://en.wikipedia.org/wiki/The_Expanse_(TV_series)
+
+
+
+
+
+========================================
+FILE: the fabric of reality.md
+========================================
+
+# the fabric of reality
+
+- a [[book]]
+  - by [[david deutsch]]
+  - [[wp]] https://en.wikipedia.org/wiki/The_Fabric_of_Reality
+    - [[go]] [[wp]]
+
+
+
+
+
+========================================
+FILE: the fault of epimetheus.md
+========================================
+
+- a [[book]].
+  - by [[bernard stiegler]].
+
+
+
+========================================
+FILE: the future of the revolution.md
+========================================
+
+- a [[book]].
+	- sounds like a [[banger]].
+	- thank you [[neil]] for the pointer!
+		- Has a foreword from [[Ursula K. Le Guin]].
+		- [[The Communalist Project]]
+		- [[The Ecological Crisis and the Need to Remake Society,]]
+		- [[A Politics for the Twenty-First Century]]
+		- [[The Meaning of Confederalism]]
+		- [[Libertarian Municipalism: A Politics of Direct Democracy]]
+		- [[Nationalism and the National Question’]]  and [[Anarchism and Power in the Spanish Revolution]]
+		- [[Anarchism and Power in the Spanish Revolution]]
+		- [[The Future of the Left]]
+
+
+========================================
+FILE: the great transformation.md
+========================================
+
+- a [[book]].
+- a [[video]]
+  - #go http://www.youtube.com/watch?v=rSuz01zvOjE
+  - by [[jerry michalski]]
+ 
+
+
+
+========================================
+FILE: the innovator's dilemma.md
+========================================
+
+- a [[book]].
+  - by [[Clayton Christensen]].
+
+
+
+========================================
+FILE: the little schemer.md
+========================================
+
+# the little schemer
+
+- a [[book]]
+  - [[preview]] https://via.hypothes.is/https://ipfs.io/ipfs/bafykbzacedbxckanhuutgrhd3og4pvau23oihmc4tzgzoo5tb57zs6vrbshfk?filename=Bibby%2C%20Duane_Felleisen%2C%20Matthias_Friedman%2C%20Daniel%20P%20-%20Daniel%20P.%20Friedman%20%26%20Matthias_%20The%20Little%20Schemer-MIT%20Press%20%282007%29.pdf
+  - recommended by [[danlistensto]]
+
+
+
+========================================
+FILE: the mind illuminated.md
+========================================
+
+# the mind illuminated
+
+- [[push]] [[tmi]]
+- a [[book]]
+  - by [[culadasa]]
+  - [[goodreads]] https://www.goodreads.com/en/book/show/25942786
+
+
+
+
+========================================
+FILE: the path of love.md
+========================================
+
+- a [[book]].
+	- #pull [[tasshin fogleman]]
+	- #push [[metta]]
+		- #go https://docs.google.com/document/d/1nrHi6vTRJI_MELW_gtTiEaaYwK8I82ytMIpHbmM0KNY/edit
+	- #pull [[practicing loving kindless]] [[mettā]]
+
+
+
+========================================
+FILE: the pill versus the springhill mine disaster.md
+========================================
+
+# The Pill versus The Springhill Mine Disaster
+
+- a [[book]]
+  - by [[richard brautigan]]
+  - [[go]] http://www.brautigan.net/pill.html
+  - dedicated to [[marcia pacaud]] 
+
+
+
+
+========================================
+FILE: the science of enlightenment.md
+========================================
+
+# The Science of Enlightenment
+
+- Epigraph by [[T. S. Eliot]]:
+  - "We shall not cease from exploration / And the end of all our exploring / Will be to arrive where we started / And know the place for the first time."
+- A [[book]] by [[shinzen young]].
+- I'm not sure yet exactly how much [[science]] there is in it; [[shinze young]] has collaborated with neuroscientists for sure, and is well trained, but I've read some [[criticism]] that says he sometimes uses the "language" of science without applying the spirit.
+- I like it so far in any case.
+
+
+
+
+
+========================================
+FILE: the secret of monkey island.md
+========================================
+
+- a [[game]].
+	- one of my [[favourites]].
+	- [[wp]] https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island
+		- [[go]] [[wp]]
+	- [[theme]] https://www.youtube.com/watch?v=ra44hAf1nP8
+	- [[music]] https://www.youtube.com/watch?v=ILV2Xr5XzPM
+
+
+========================================
+FILE: the sovereign individual.md
+========================================
+
+# The Sovereign Individual
+
+- [[go]] https://www.goodreads.com/book/show/82256.The_Sovereign_Individual
+- A [[book]] from [[1997]].
+- By [[william rees mogg]] and [[james dale]].
+- [[peter thiel]] called it the most influential book he's read.
+
+
+
+
+
+========================================
+FILE: the story of civilization.md
+========================================
+
+# The Story of Civilization
+- https://twitter.com/flancian/status/1284402588801208320
+- A [[book]] by Will and Ariel Durant.
+
+
+
+
+========================================
+FILE: the third revolution.md
+========================================
+
+- a [[book]].
+    - by [[murray bookchin]].
+    - #go https://theanarchistlibrary.org/library/murray-bookchin-the-third-revolution
+
+
+
+========================================
+FILE: the timeless way of building.md
+========================================
+
+# The Timeless Way of Building
+
+- a [[book]]
+  - [[by]] [[christopher alexander]]
+  - [[pull]] [[ttwob]]
+  - [[hypothesis]] https://via.hypothes.is/https://stoa.anagora.org/ipfs/QmZhvFuT6urnUG4pjJTDzmFWhTYkVpuzmJv4t9FvENLphs
+    - [[ipfs]] ipfs://QmZhvFuT6urnUG4pjJTDzmFWhTYkVpuzmJv4t9FvENLphs
+    - [[old]] https://via.hypothes.is/ipfs.io/ipfs/QmZhvFuT6urnUG4pjJTDzmFWhTYkVpuzmJv4t9FvENLphs
+  - [[wp]] https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building
+  - [[go]] [[wp]] 
+
+https://twitter.com/flancian/status/1387373657450631172
+
+
+
+========================================
+FILE: the universe in a single atom.md
+========================================
+
+# the universe in a single atom
+
+- a [[book]].
+  - [[tenzin gyatso]]
+  - impressive that he met [[karl popper]] and many notable scientists.
+  - nice anecdotes from his time growing up in his palace surrounded by the items of the previous lamas.
+  - as of [[2022-04-15]] still reading it, enjoying it.
+
+
+
+
+========================================
+FILE: this.md
+========================================
+
+# this
+
+- #pull [[music]]
+  - I wonder why I wrote this here?
+- an [[example]].
+  - I've used this node as an example of Agora link resolution, e.g. saying "when I say [[this]], I mean anagora.org/this"
+  - I've also used [[foo]] for this purpose but that's more readable to geeks only I think.
+
+
+
+
+
+========================================
+FILE: throw a nine.md
+========================================
+
+- [[whistled]]
+
+Here again on [[2024-06-28]] as I opened this old tab. Some of my Agora notes are truly idiosyncratic and opaque, and this one is a good example :)
+
+I have a vague recollection of what happened that caused me to node this, and it has to do with [[dice]] as maybe you'd expect, and also with [[music]]. 
+
+
+========================================
+FILE: time memorial.md
+========================================
+
+- A [[story]].
+    - #pull [[Caramel City]] [[Quantum Burup]].
+
+Sometimes I think of #Flancia as time memorial as per the reasonable definition, meaning what people usually refer to as time immemorial but with the memory component thrown in as allowed by analog and digital means.
+
+
+
+
+
+========================================
+FILE: to live and think like pigs.md
+========================================
+
+# to live and think like pigs
+
+- a [[book]]
+  - by [[gilles châtelet]]
+  - recommended by [[lorand]]
+
+https://twitter.com/flancian/status/1379856374180368384
+
+
+
+
+========================================
+FILE: tools for conviviality.md
+========================================
+
+# tools for conviviality
+
+- a [[book]]
+   - by [[ivan ilich]]
+   - [[wp]] https://en.wikipedia.org/wiki/Tools_for_Conviviality
+    - [[quote]] about the proper user of technology
+  - [[annotate]] https://via.hypothes.is/https://ipfs.io/ipfs/bafykbzaceaug5pjm76p4iyunb2w376nnrqnubluslfcsu6tuwo5f23nsxutxo?filename=IVAN%20ILLICH%20-%20TOOLS%20FOR%20CONVIVIALITY-FONTANA%20(1975).pdf
+
+
+
+
+========================================
+FILE: topic maps.md
+========================================
+
+- [[XML Topic Maps]]:
+  - [[Creating and Using Topic Maps for the Web]]: 
+    - #go https://drive.google.com/file/d/1w8Jephtt0kDjNInmzI5YPl51Jcw7hpVF/view
+
+
+
+========================================
+FILE: toward a modern chinese buddhism.md
+========================================
+
+- a [[book]].
+  - by [[Don Pittman]]
+  - about [[Taixu]] and his [[reforms]]
+  - #go https://via.hypothes.is/https://gateway.ipfs.io/ipfs/bafykbzaceaizr6od7yw2kpfupna5s6jd2hg5n3yxbh4oos7znutmbgiy74654?filename=Don%20A.%20Pittman%20-%20Toward%20a%20Modern%20Chinese%20Buddhism_%20Taixu%E2%80%99s%20Reforms-University%20of%20Hawaii%20Press%20%282001%29.pdf
+  - [[chapters]]
+    - Introduction: [[In Search of a New Buddhism]]
+    - 1 Defending the Dharma in a Revolutionary Age
+    - 2 The Sound of the Tide for a New China
+    - 3 An Ecumenical Vision for Global Mission
+    - 4 Mahâyâna and the Modern World
+    - 5 A Creative Recovery of Tradition
+    - 6 Taixu’s Legacy
+
+
+
+========================================
+FILE: trypophilism.md
+========================================
+
+# Trypophilism
+
+- A [[person]] on [[twitter]]: https://twitter.com/trypophilism
+- [[art]] [[literature]] [[psychology]] [[psilosophy]] [[science]] [[morality]]: https://twitter.com/trypophilism/status/1322624653702107136
+
+
+
+
+
+========================================
+FILE: tv series.md
+========================================
+
+# tv series
+
+- I'm simple: I liked [[the wire]].
+- https://twitter.com/anitasarkeesian/status/1370916039882514434
+
+
+
+========================================
+FILE: tweets.md
+========================================
+
+- #pull [[toots]]
+
+If you know how to type, why don't you write?
+
+Moloch is the god of closed source.
+
+I'd like to talk about [[techne]] vs [[episteme]], and their synergies.
+
+[[draft]] In Flancia they tried a law: every time a corporation clearly goes into decline, with decline being defined has betraying their original set of values for pecuniary interests, they must change their slogan to "crappier every day" or dissolve and be reintegrated.
+
+In Flancia they tried a law: every time a corporation clearly went into decline, with decline being defined has betraying their original set of values for lesser interests, they had to change their slogan to "crappier every day" or dissolve and reintegrate.
+
+I failed there and just posted that on Twitter when I had originally meant not to go to Twitter. This is what Twitter *does*, I tell myself -- but in reality it is also what I do to myself.
+
+When I'm afraid I'm not alone, when I'm alone I'm not afraid.
+
+Now I'll go actually code for the Twitter API (yikes).
+
+How should I make it so that this document gets tweeted out? 
+    It would be easy to tweet these as @an_agora
+
+@bmann I think what we should do with [[moa]] is make it into a smarter/social cross poster: its users should be able to 1. easily find each other in all supported networks and 2. depend on Moa to cross-post threads with minimal information loss when several thread participants are in both sides across an interop interface. Like in this thread: if you reply to me in either network, it would make sense for your reply to be interoped.
+
+Failed again. Back to work :)
+
+One incantation to enter the Agora is: sudo su - agora
+
+Me parece que encontré la forma de simularme a mí mismo, al menos cuando estoy frente a una computadora.
+
+I think I might have found the way to simulate myself, at least while I'm sitting in front of a computer.
+
+- I'm writing a command I've named [[become]].
+  - `become thecla [[agora bot]]`, you'll be able to say, and it'll teleport you into the [[agora bot]] development environment in host [[thecla]].
+  - `become $HOST` connects to the host in question with your preferred method (ssh, mosh) and attaches to tmux/screen or creates a new session if needed.
+
+- If in doubt, go to [[zero]].
+  - In many contexts at first it feels like it's out of bounds. In those, what does it mean?
+  - I think of it as starting over, now with improved awareness.
+
+- I'd like to [[keylog]] myself.
+  - Perhaps [[screenlog]], if that's a thing.
+    - [[record]] [[project snapshot]]
+
+- I sort of was hoping for [[wayland]] to be in [[rust]], but it's [[c]]: https://github.com/wayland-project/wayland/tree/main/src.
+    - there's https://github.com/Smithay/wayland-rs though
+
+- I think I need to learn [[oauth]].
+
+- I think I need to do [[agora bridge api]] in [[node]]/[[typescript]].
+
+- Added backoff to agora bot, improved logging.
+
+- [[flow]]
+
+- On my Lenovo laptop when you hold the middle trackpad button you can scroll using the trackpoint. TIL.
+
+- Lady Burup fixed my trackpad by walking over my laptop and shutting it down (hard). I had tried rebooting earlier and that hadn't worked, a full power down was needed somehow (unsure why I didn't think of this, but I didn't have to thanks to Lady Burup).
+
+- There is a word for an entity that embeds itself in another, takes energy or information and doesn't give back in kind.  It's also a hit 2019 movie.
+
+- Whenever I find something, I ask myself: how can we use this to [[slay moloch]]?
+
+- on [[building]].
+  - I think we should [[build more bridges]].
+  - I think we should [[build pyramids]], but under one condition only: each unit block we add to them (Minecraft like) maps to a human being that died without having gotten the necessary living conditions to [[thrive]] in some region of the universe.
+
+- Some days I "tweet" here in the Agora instead of live on Twitter/Mastodon. I will eventually make it so that blocks here are auto-tweeted/tooted, but for now honestly it's also fine as it is.
+- [[meditations on procrastination]] 
+
+- The Agora Server code is feeling hackier and hackier, I really need to dedicate some time to fixing TODOs and moving to some better abstractions.
+
+
+
+========================================
+FILE: un mundo común.md
+========================================
+
+# Un Mundo Común
+
+- [[book]]
+- [[author]] [[marina-garcés]]
+
+
+
+
+
+========================================
+FILE: utopoi.md
+========================================
+
+# Utopoi
+
+- [[go]] https://lorand.earth/utopoi/about/
+- [[project]] [[owner]] anagora.org/@jonathan
+- Utopoi is a space for [[applied utopia]] and [[constructive imagination]].
+- Utopoi has a [[personality]]. 
+- [[music]] [[playlist]]: https://open.spotify.com/playlist/0Xz99QSXva1yPgrHcz38Tz
+- Excerpt follows, authored by [[jonathan-the-utopian]].
+
+The following would be ways to interact with Utopoi:
+
+## Oasis for energetic regeneration
+
+The most basic function of the space for applied utopia is to be a place where one can go to simply "be" in a relaxing, gentle way. This might mean resting, meditating, conversing, day-dreaming, reading, being lazy, thinking, feeling. The role of the space is to radiate a harmonious, quiet energy, and serve as an oasis, away from the pressures and signals of society. An oasis in the geographic sense, and also one in terms of tempo, wave-lengths, states, and paradigms.
+
+## Cultural events
+
+Utopoi hosts events which explore formats for culture with an emphasis on embodied experiencing, living-room vibes, knowledge-sharing, and transdisciplinary dialogue. This means such things as: listening sessions, reading raves, meditation, living-room lectures, ambient installations, performances, etc.
+
+## Group projects and workshops
+
+Utopoi hosts participatory activities in the form of workshops and group projects. We believe that spaces influence the interactions that happen within them; we aim to create space for ways of working together that are utopically constructive, gently playful, aware, and explorative.
+
+## Node for utopic resources
+
+Within the physical space there will be a small library, and online a digital garden. And perhaps other resources as well. 
+
+
+
+
+
+========================================
+FILE: warez.md
+========================================
+
+- a [[book]].
+	- by [[martin paul eve]]
+	- #push [[read]]
+		- recommended by [[jonny]]
+
+
+========================================
+FILE: what is entropy.md
+========================================
+
+- a [[book]].
+  - #go https://math.ucr.edu/home/baez/what_is_entropy.pdf
+  - by [[john carlos baez]]
+
+
+
+========================================
+FILE: what the buddha taught.md
+========================================
+
+- a [[book]].
+	- by [[walpola rahula]].
+	- it likely influenced my [[life]] more than most.
+	- [[go]] http://www.ahandfulofleaves.org/documents/What%20the%20Buddha%20Taught_Rahula.pdf
+
+
+========================================
+FILE: whipping privilege.md
+========================================
+
+# Whipping Privilege
+
+- A [[book]] by [[julia serano]].
+- [[go]] https://en.wikipedia.org/wiki/Whipping_Girl
+- [[buy]]
+- [[read]] 
+
+
+
+
+
+========================================
+FILE: who rules the earth.md
+========================================
+
+- a [[book]].
+  - #go https://www.amazon.com/Who-Rules-Earth-Social-Planet/dp/0199896615
+
+
+
+========================================
+FILE: why buddhism is true.md
+========================================
+
+# why buddhism is true
+
+- a [[book]].
+  - by [[robert wright]]
+
+
+
+
+========================================
+FILE: widevinecdm crashed.md
+========================================
+
+- a [[message]]
+	- it means [[drm]] is [[crap]].
+		- https://twitter.com/flancian/status/1415944870959665152
+
+
+
+
+========================================
+FILE: wikipedia api.md
+========================================
+
+# wikipedia api
+
+- [[mediawiki]]
+  - [[search]] https://www.mediawiki.org/wiki/API:Search
+- [[example]] 
+  - search for pages using free form text
+    - [[query]] https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=popper
+      - returns a query -> search array, of which the first item is high quality. ranking can be customized with parameters. the item contain a pageid, in this case 16623 for the page for Karl Popper.
+  - retrieve URL for the pageid in question and additional external resources, extlinks
+    - [[query]] https://en.wikipedia.org/w/api.php?action=query&pageids=16623&prop=extlinks|info&inprop=url
+
+
+
+
+========================================
+FILE: working in public.md
+========================================
+
+# Working in Public
+
+- a [[book]]
+  - by [[nayafia]]
+    - https://twitter.com/nayafia/status/1273304859387719680
+  - [[subtitle]] "the making and maintenance of [[open source]] software"
+  - [[go]] https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862
+  - [[club]] https://lu.ma/t2rcivwh
+
+## Notes
+
+### Introduction
+- "until recently, information was good, and more information was better."
+- there is a [[disconnect]] between how we think open source works and "what is actually happening on the ground today".
+  - most succesful projects have very few core contributors; many have only one, the maintainer
+  - "in more than 85% of the open source projects the researchers examined on [[github]], less than 5% of developers were responsible for over 95% of code and social interactions"
+  - i.e. the [[1% rule]] or 90-9-1 rule applies to open source
+- "over the last twenty years, open sourc einexplicably skewed from a collaborative to a solo endeavor"
+  - "open source helps us understand why our online world didn't avolve the way that early scholars predicted"
+  - "if creators, rather than communities, are poised to bcome the epicenters of our online social systems, we need a much better understanding of how they work"
+
+### Part 1: How people make
+
+#### 1. Github as a platform
+- An aside: this chapter reads a bit like a [[github]] commercial and I'm not sure I like that.
+- GNU and the [[free software]] movement are mentioned relatively in passing.
+- But overall this chapter read as a dismissal of past movements; I have to admit I ended up with the feeling she was selling them short.
+  - "[[Hackers]] are characterized by bravado, showmanship, misechievousness, and a deep mistrust of authority. Hacker culture still lives on today, in the way that beatniks, hippies, and Marxists still exist, but hackers don't capture the software cultural zeitgeist in the same way they used to."
+- She follows [[steven levy]].
+- She lists [[rms]], [[esr]], [[linux torvalds]] in the same paragraph. She dedicates two paragraphs to expanding on each.
+  - Personally I don't think [[esr]] is on the same level as the other two, although I respect him. I think he probably would agree?
+  - She mentions [[sex tips for geeks]], which I think just painted a blurred picture.
+
+#### 2. The structure of an open source project
+#### 3. Roles, incentives, and relationships
+
+### Part 2: How people maintain
+
+#### 4. The work required by software
+
+#### 5. Managing the costs of production
+### Conclusion
+
+### Credits
+
+### Notes
+
+
+
+
+========================================
+FILE: yuval noah harari.md
+========================================
+
+# Yuval Noah Harari
+
+- A [[person]].
+- [[writer]] [[historian]] [[israeli]]
+- I [[liked]] [[sapiens]].
+
+
+
+
+
+========================================
+FILE: zen in the art of archery.md
+========================================
+
+- a [[book]].
+  - [[eugen herrigel]]
+  - I got it translated from [[german]].
+  - with an introduction by [[d. t. suzuki]].
+  - and a touching [[dedication]] from "Dad" to "Zoe":
+    - https://social.coop/@flancian/108821875747448695
+  - > If one really wishes to be [[master]] of an [[art]], technical knowledge of it is not enough. One has to transcend technique so that the art becomes an "[[artless art]]", growing out of the [[Unconscious]].
+  - #pull [[unconsciousness]]
+  - > Zen is the "everyday mind", as was proclaimed by [[Baso]] (Ma-tsu, died 788).
+  - > Man is a thinking reed but his great works are done when he is not calculating and thinking.
+    - (Does not use [[gender neutral]], although it's a translation; it could be translated in neutral nowadays?)
+  - #pull [[childlikeness]]
+
+
+
+========================================
+FILE: zen mind beginner s mind.md
+========================================
+
+# Zen Mind, Beginner's Mind
+
+- A [[book]].
+- I [[liked]] it.
+
+
+
+
+
+========================================
+FILE: zettelkasten.md
+========================================
+
+# Zettelkasten
+- https://www.youtube.com/watch?v=rOSZOCoqOo8 by [[Shu Omi]].
+- In [[Roam]]: https://www.youtube.com/watch?v=ljyo_WAJevQ
+- [ ] https://blog.viktomas.com/posts/slip-box/ 
+- Steps
+    - Take [[literature]] notes. Information I don't want to forget or think I can use later. Ideally no copy/paste.
+    - Take [[bibliographical]] notes.
+    - Make [[permanent]] notes. Go over notes in previous notes and think about how they relate to my thinking, research, interest. Find meaninful connections. This builds a web of knowledge.
+    - Find keywords: think about "when will this be useful", "when and how will I use this idea". Ideally they relate to topics I'm working on.
+- Take fleeting notes: this is just an idea log.
+
+

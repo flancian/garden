@@ -1,0 +1,1374 @@
+
+
+========================================
+FILE: 2025-01-01.md
+========================================
+
+- [[New Years Eve]] was great, [[2025]] started great!
+  - Party at [[AG]]'s
+  - Then at a friend's
+  - Then at [[Zentralwäscherei]], where I met some old and new interesting people!
+  - -> [[Bitwäscherei]]
+- [[Yi Jian Mei]] is stuck in my head (in the sense that it comes up spontaneously every day or so) and I don't mind
+
+
+
+========================================
+FILE: 2025-01-03.md
+========================================
+
+- [[AG]] :)
+- [[worked]]
+- [[Kris]]
+- [[Avatamsaka sutra]]
+- [[stormy weather]]
+
+
+
+========================================
+FILE: 2025-01-04.md
+========================================
+
+- [[pure land buddhism]] -> [[universal gate chapter]]
+- [[chilliad]]
+- [[secrets]]
+- love [[bitwascherei]] already
+- [[gotosocial]]:
+  - Brought up social.agor.ai provisionally, considering which domain to run this on -- and whether to do a [[split domain deployment]].
+  - Which one is better as a handle for the Agora bot and a user?
+    - @agora@agor.ai?
+    - @flancian@agor.ai?
+    - @agora@social.agor.ai?
+    - @flancian@social.agor.ai?
+    - @agora@flancia.agor.ai?
+    - @flancian@flancia.agor.ai?
+    - @agora@anagora.org?
+    - @flancian@anagora.org?
+    - They mean different things, of course. All but @agora@social.agor.ai while 'allocating' social.agor.ai require a split domain deployment as per the current setup I'm running for Agoras. It doesn't sound too difficult to try split domains using traefik, I could give it a try. But in that case, should I run these in @agor.ai (shorter/cooler?) or in @flancia.agor.ai (most correct as I'm planning on having this instance handle the usernames in flancia.agor.ai or anagora.org?
+  - Update (after discussing with people): I think I'm going with the simplest thing that might work, meaning social.agor.ai is one instance that different people and agoras can use for social services, and handles are foo@social.agor.ai.
+
+
+
+========================================
+FILE: 2025-01-06.md
+========================================
+
+- [[work]]
+- [[twg]] roadmap: [[twg 2025]]
+- [[mohammed]]
+- [[cognacore]]
+- [[bill anderson]]
+
+
+
+========================================
+FILE: 2025-01-08.md
+========================================
+
+- First time starting a journal node from [[bull]] :)
+  - I will be using the opportunity to take notes about the things I would change in Bull over time, as I try to use it as a default [[Agora editor]].
+- [[bull bugs]]:
+  - I can't seem to be able to indent blocks :) Pressing tab while editing moves to "view site information" in Chromium, which is surprising.
+  - Thankfully ctrl+] works, which is awesome and a life saver, but the default behavior could be improved probably?
+  - I'm also missing [[vim keys]], which [[Silverbullet]] has, although ideally that could be solved at the browser level (e.g. by [[vimium]]); maybe it's an option for the editor module [[bull]] uses?
+  - Anyway, better update to head before I file bugs :)
+- [[quotes]]:
+  - "I have the solution, you just have to believe in it"
+- Today I read and wrote about the [[Meta]] terms and policies changes and the [[Fediverse]].
+  - It seems social.coop will have a vote on whether to suspend threads.net.
+- Work was quite alright actually!
+
+
+
+========================================
+FILE: 2025-01-09.md
+========================================
+
+- I read about/experimented with:
+  - [[openai webrtc api]]
+  - [[gemini live]]
+- [[pipewire]]:
+  - [[easyeffects]]
+  - [[wpctl]] for [[wireplumber]]
+
+
+
+========================================
+FILE: 2025-01-10.md
+========================================
+
+- I'm writing this with my new mechanical keyboard, a [[keychron q3 max]].
+    - I got this for the office because the previous one was a bit too noisy for the office environment; not that I was the only one using a mechanical keyboard, or that the switches were the noisiest you could get, but I felt like I was contributing to a less inclusive than necessary environment by typing loudly with my headphones at times. And I really like typing with my headphones on :)
+    - The one that I got, with [[gateron brown switches]], is really quite silent! And I like the tactile feedback enough.
+    - I am enjoying the typing experience so I'm glad!
+    - The one thing I would add is maybe a palm rest. I don't usually use one, but this keyboard is high enough that I feel like that could make it more ergonomic.
+    - Sometimes it seems to double-register my space bar presses though, which is a bit disconcerting -- I hope it's a matter of adjusting my typing style to the switches and not a hardware issue! I'll keep an eye on it.
+      - Maybe [[NKRO]] is a factor here? Trying the recommendation in https://www.reddit.com/r/Keychron/comments/1ba9vxy/comment/l9bu0ys
+- [[ekumen]]
+  - [[eduardo mercovich]] me recomendó [[zen browser]]
+- [[social.coop]]
+  - *lots* of talk about the Meta change in policies with respect to hateful speech.
+  - then more talk.
+  - then [[against meta]] went through draft revisions.
+  - then the [[vote to suspend meta]].
+
+
+
+========================================
+FILE: 2025-01-11.md
+========================================
+
+- I resigned from the [[Social.coop]] [[Community Working Group]] the day after starting the [[vote to suspend meta]] after much discussion and a quick draft done with/for the community. It felt like it was the right time to disengage after I received criticism yet again for 'moving too fast' despite looping in people earlier and doing what I thought was a fully reasonable pro-social action to advance discussion (start a proposal on Loomio). This after concerns were escalated by multiple community members, including to the CWG, about Social.coop feeling like less of a safe space due to our lack of visible response.
+  -  One of the criticisms I got amounted (paraphrasing for effect) to needing to have more pre-meetings and go slower. I am fine not having pre-meetings or anything of the sort and doing more and talking less in 2025 as far as I can (within reason), so it seemed like a good moment to finish my CWG engagement (after several years) and focus on the Tech Working Group and the Organizing Circle instead. The CWG is now well-staffed so I am not needed there anymore, which I am thankful for to the people who remain!
+  -  In general the negativity I had gotten used to getting from some members was a bit of an energy drain, and I realized I could use my time more constructively for the community in the other engagements I plan to keep.
+- [[Bull]] is looking great! I'm now serving it (for myself only for the time being) at https://edit.anagora.org.
+
+
+========================================
+FILE: 2025-01-12.md
+========================================
+
+- [[doing]]:
+  - Copy/pasted from somewhere:
+    - [[Demo mode]]:
+      - This will *slowly* but ~surely happen :)
+      - [ ] Add a toggle
+      - [ ] Add code that plays a midi
+        - [ ] -> [[Lady Burup]]
+      - [ ] Add code that plays an mp3
+        - [ ] -> [[Heinali]]
+      - Add auto-scrolling, auto opening of zippies
+    - [[Add users]]
+- [[worked]] and I liked it
+- [[donated]]
+- [[musikino]] is back!
+- [[prana]] now documented lightly in the Agora :)
+  - as usual you can use e.g. anagora.org/go/prana/6 to do the yoga session for 'day 6', whatever that means to you. I usually do one of go/flow, go/move, etc. on rotation :)
+- [[Vajradhara]] and [[Vajrasattva]]
+
+
+
+========================================
+FILE: 2025-01-13.md
+========================================
+
+- Yesterday I ended up working on Sunday as planned and I enjoyed it.
+  - I also took time to practice, and play, and that made a large difference.
+- [[flow state]]:
+  - [[flow state radio]]
+- I made the move to the office around lunch, now I'm heading into a longish in-office flow session which might last five hours! Wish me luck :)
+- [[bull]]:
+  - I like the addition of ctrl+s to save a page a lot
+  - I'm also using ctrl+e to edit -- maybe it would be ideal if it started the editing session at the end of the document instead of the beginning?
+  - Alternatively I think ctrl+s maybe should save but not go back to view mode; unsure.
+- Researching how to publish [[snippets]] at work from the command line :)
+
+
+
+========================================
+FILE: 2025-01-16.md
+========================================
+
+- [[work]]
+- [[social coop organizing circle]]
+- [[AG]]: was going to come over but stayed home, we'll see each other tomorrow :)
+- [[bull]]:
+  - thanks to https://github.com/gokrazy/bull/issues/8 I'm now running this editor under https://edit.anagora.org/@flancian, one incremental step closer to serving editors for other users :)
+
+
+
+========================================
+FILE: 2025-01-17.md
+========================================
+
+- I went to bed a bit later than expected, at around 3am, but it was a productive night and I still managed to sleep enough so I have no regrets :)
+- The [[dishwasher]] repairperson came over, fingers crossed I'll have a dishwasher again! Not having it (after only a few years of having it) really made me appreciate it specially.
+- Then I plan to [[work]] mostly on [[AI]] stuff today.
+- Then we might go to [[Manor]] with [[AG]] :)
+
+
+========================================
+FILE: 2025-01-18.md
+========================================
+
+- [[magnets]]
+
+
+
+========================================
+FILE: 2025-01-19.md
+========================================
+
+- [[ideas]]:
+  - [[Flancia]]
+  - [[Agora]]
+  - [[magnets]]
+
+
+
+========================================
+FILE: 2025-01-21.md.md
+========================================
+
+- [[work]] was fine :)
+- same for [[social.coop]] yesterday, thank you [[calix]] and [[dan]]
+- [[37]]
+- [[avatamsaka sutra]]
+  
+
+
+========================================
+FILE: 2025-01-25.md
+========================================
+
+- I'm on the [[train back to Zürich]] from Bern.
+  - I went to a meeting organized by [[Welle]], an organization working in [[human rights in Iran]].
+  - Then I met [[LP]] and we had dinner and a long chat, it was great!
+- I will try to work on the Agora while I'm on the train, but maybe I will also just write and read and see where it goes :)
+- [[Readers of the future]]
+  - Unite? :)
+- I read about:
+  - [[Manuel Rivas]
+  - [[Doomsday argument]]
+  - [[Rolando Alarcón]]
+
+
+
+========================================
+FILE: 2025-01-26.md
+========================================
+
+- I signed up for deepseek.com to try [[deepseek r1]] and I found it quite good to begin with. Then I signed up for its API.
+
+
+========================================
+FILE: 2025-01-27.md
+========================================
+
+- Noding this from [[bull]] in today's page in the Agora, meaning anagora.org/2025-01-27; I wonder if this will create a 2025-01-27.md file or somehow just a 'bare' 2025-01-27 file. I'll know soon enough :)
+- Had lunch with [[Stapelberg]] and it was great as usual. We discussed work and open source; bull and the agora.
+- I finally bought the tickets for Argentina and Brazil! It feels nice to get that out of the way.
+- Work was fine!
+- After work, there was a short Social.coop [[TWG]] meeting with [[Dan Phiffer]] and it was great.
+- [[Lady Burup]] is very beautiful and a great companion as always!
+- Spoke to [[Jack Park]] after a while, I'm glad!
+  - [[SenseCraft]] looks interesting.
+
+
+========================================
+FILE: 2025-01-28.md
+========================================
+
+- [[bull]] now supports tabs in editing mode :)
+  - enjoying it a lot!
+  - I am thinking of which other quality of life improvements could easily be added to [[CodeMirror]] if Stapelberg agrees.
+  - [[vim mode]] is probably going too far? :)
+- I realized I broke links in [[Agora graphs]] when I pushed the update to remove jquery; I know why, I just need to remember to fix it tonight after work.
+  - [ ] fix it then :)
+
+
+========================================
+FILE: 2025-02-05.md
+========================================
+
+- I updated the [[index]] of my garden after long, I think it's a bit improved.
+- I donated 2x early today.
+- I also opened a lot of backlogged correspondence, asked for a [[tax return extension]] (until 2025-09-30) and bought some gifts :)
+
+
+========================================
+FILE: 2025-02-09.md
+========================================
+
+- Back noding in [[neovim]] to make sure I keep my travel setup running.
+  - I could also move to running [[bull]] locally in [[guanyin]] while I travel...
+- Started the day nicely with [[AG]].
+- Then did [[Sadhana]], things around the house, and advanced on many threads :)
+  - During the week I finished the two trivial bull PRs I wanted to get in.
+  - [ ] Now I'm thinking of shifting to a different PR (which?) and to [[Betula]], [[Social.coop]] and [[Agora]] work.
+  - [x] Sending something to the [[M&Ms]] :)
+    - I enjoyed the process a lot! I hope they enjoy the result, even a subset :)
+- Thought about:
+  - [[primes]], and again [[prime gaps]], which I now associate with the number #14 because 14 is a first notable prime gap on 113 - 127, and it easily answers 'prime?' for an interesting range
+
+
+
+========================================
+FILE: 2025-03-03.md
+========================================
+
+- Picked up my laptop after long. This has been quite an offline vacation!
+- In [[Buzios]] this week, reading about:
+  - [[Beppo]], [[Borges]]'s cat.
+  - [[Lord Byron]].
+- Also reading a compilation of short stories by [[Greg Egan]] :)
+- After a day by the beach, we went on a walk with [[AG]] to a lookout point near [[Ferradura]].
+
+
+
+========================================
+FILE: 2025-03-09.md
+========================================
+
+- I'm back!
+  - In [[computer space]] (and time!)
+  - Travelling was great but I'm looking forward to catching up with projects.
+- [[Agora]]:
+  - Discussed [[2025]] with [[Timur]] in [[Flancia Meet]], also discussed [[Betula]] progress which is very exciting!
+  - Thought about [[Fediverse]] integration, [[auth]] and data providers.
+  - Also about simpler and more opaque stuff like [[autopull for numbers]]: number [[n]] should pull e.g. [[prime/n]] because that's a related node for all integers.
+  - Hmm, what was by [[root node]] again...? :)
+
+
+
+========================================
+FILE: 2025-03-10.md
+========================================
+
+- [[Lady Burup]] needs to lose some weight, will continue noding the process in [[burup forever]] :)
+  - I also want to lose 2-3kg or convert them from fat (mostly in my abdomen) to muscle, I'll try to do this in the following 1-2 months and report back. I currently weigh 76.5kg (I'm ~190cm tall).
+  - So we'll do it together, I say! :
+
+
+
+========================================
+FILE: 2025-03-11.md
+========================================
+
+- Loved the [[15 minutes]] flow
+- Played [[The Reluctant Groom]], plus [[Lady Burup]]'s song :)
+- Back here something like 22 hours later, on the other side of the night and day and half there over :)
+  - Work including oncall was occasionally heavy but still good, felt productive. Worked late and advanced some threads enough, but not as late as yesterday!
+
+
+
+========================================
+FILE: 2025-03-12.md
+========================================
+
+- [x] Move the Incubator meeting to US-friendly 
+- [x] Check PM AI chatroom
+- [x] go/detectr -- hold it until US takes it, or Gavin?
+  - done (later), then Hao plus maybe Abi?
+- My new wireless router arrived and it's already a great improvement in digital quality of life at home :) I hope it continues to work without fuss!
+
+
+
+========================================
+FILE: 2025-03-13.md
+========================================
+
+- [[Sevilla 2025]]
+- Hablé con [[Berni]]!
+- [[Peter Murray]]
+- I met [[Smurp]] for the first time this past Wednesday.
+
+
+
+
+========================================
+FILE: 2025-03-14.md
+========================================
+
+- I found the card of a barista who once made a good coffee for me somewhere in Osaka: [[Kota Ikenaga]].
+
+
+
+========================================
+FILE: 2025-03-15.md
+========================================
+
+- I cleaned the house in the morning while I was logged onto [[Flancia meet]] (quiet instance, but that's alright of course) and it felt good to start the weekend that way; I did kitchen and bathroom floors.
+- We had a tough conversation with [[AG]] today, but I think it was the right thing.
+- I wrote a script named [[Burup]] to disable the laptop's keyboard and touchpad so Burup can sleep on it while I continue to use the external keyboard and mouse for browsing/coding :) [[Claude]] helped me find the best way to do this in a 2025 Linux + Wayland install, my first impulse was to reach for xinput but that doesn't cut it nowadays :) [[libinput]] CLI is reasonable though.
+    - I think I need to also disable the trackpoint (nipple/joystick that comes with Lenovo laptops) as somehow she still was able to move focus while I was typing this :) The situation is already much improved though.
+
+
+
+========================================
+FILE: 2025-03-16.md
+========================================
+
+- I opened a bug (maybe a feature request actually?) for [[wayvnc]]: https://github.com/any1/wayvnc/issues/371
+- Chill day!
+    - Played [[Minecraft]] with my nieces (who are in Argentina) :)
+    - Played [[Minecraft]] with [[Timur]] :)
+    - Was going to see [[VK]] and her boyfriend but we shifted the appointment to tomorrow.
+
+
+
+========================================
+FILE: 2025-03-19.md
+========================================
+
+- [[work]]
+  - [[ai for sre]]!
+  - good progress overall even though I was a bit tired as I slept one hour fewer than normal
+- [[social.coop]]
+- early [[fellowship of the link]] with [[aram]]!
+- [[dibi58]]
+
+
+
+========================================
+FILE: 2025-03-20.md
+========================================
+
+- I met [[smurp]] today!
+  - It was great!
+  - I got a [[cal]] after seeing it at his smurp.com/cal and previously.
+- [[zine]] -> [[us]]
+
+
+
+========================================
+FILE: 2025-03-21.md
+========================================
+
+- [[todo]]:
+    - I started packing for the [[us]]:
+        - [x] [[alfajores]]
+        - [x] [[passport]]
+        - [x] everything else :)
+    - Things I want to do during the upcoming trip:
+        - [ ] write in the [[zine]], I've been writing in my head for a while and it's time to do some actual writing?
+        - [x] fix agora bot, hopefully earlier than the trip though?
+          - I finally got to this on the flight to Durham on [[2025-03-23]] -- untested, but at least I made two commits that I think should move the Agora mastodon bot in the right direction.
+        - [ ] do some small FR for [[bull]]? which one?
+        - [ ] fix [[betulagora]]
+        - [x] finish packing for the trip
+        - [x] check in
+
+
+
+========================================
+FILE: 2025-03-22.md
+========================================
+
+- [[nostromo]] died today!
+  - after almost dying many times.
+  - I thank them for their service! beautiful computer.
+  - [[paramita]] was ready to take its spot.
+- [[bouncepaw]] told me about [[xremap]] today! it looks great, like it could fix several issues I had in the back of my mind with the input layer in wayland.
+- New day but I'm working on my todos on [[2025-03-21]] :)
+- I implemented [[chill]] today (late yesterday) to set the light levels at home to a nice late night/hacking level using [[home assistant]], that was somewhere on my todo list :)
+- I read about [[router7]] by [[stapelberg]].
+
+
+
+========================================
+FILE: 2025-03-23.md
+========================================
+
+- Traveling to the US today!
+  - As I write this I'm typing on my laptop on an American flight from [[Heathrow]] to [[Durham]].
+  - I've been reading and listening to audiobooks:
+    - I started [[Flowers for Algernon]] on the flight from Zürich, it's already quite moving (as expected).
+    - Then I continued [[Memories of Hadrian]].
+    - Then I started an [[Introduction to Systems Thinking]] by [[Donella Meadows]] called [[Thinking in Systems]].
+- Yesterday I thought again quite a bit about:
+  - [[light]]
+    - led me to read [[photon]] in Wikipedia, very nice article!
+  - [[momentum]]
+  - [[entropy]]
+  - Quiz: what do momentum and entropy have in common?
+- [[Waking up]]:
+  - It turns out there's going to be a community meetup in Zürich on [[2025-04-01]]!
+  - Maybe I could check it out. For more, see the email from [[2025-03-22]].
+- I need to do somthing to bring [[todo]], [[do]], [[next action]] and such under control :)
+  - To begin with I think I just need to re-pick one as the 'root' and start going through it and try to keep my actual priorities at the top.
+  - It's going to be painful (because of the amount of stuff I've amassed! and the fact that even after all this I won't be able to have all my todos there because I have a parallel life at work...) but probably worth it, so maybe I should just get right on with it.
+  - -> done! I refactored [[todo]] a bit, and went through very old todos and actually found them even done. Maybe there's a tune to the chaos I seem to operate in after all, at least some of the time ;)
+- I think having an offline wikipedia could be nice. Or a language model that I can run locally, albeit slowly, but hey... that will come :)
+- I enjoyed reading [[The discrete charm of the Turing machine]] by [[Greg Egan]]. This was in [[Instantiation]]; previously (in February) I read [[The Best of Greg Egan]], a selection of his short stories, and enjoyed them a lot!
+  - He's definitely one of my favorite living writers.
+- Now I'm giving [[Binding Chaos]] a taste, after finding it on my [[Kobo]] and also mentioned in my long term todo mentioned above.
+- Travel day!
+  - As I write this I'm on the second plane today, about to tale off from Heathrow towards Raleigh.
+- Ladu Burup's day as I leave -- I will miss her! She's in good hands though.
+
+
+
+========================================
+FILE: 2025-03-29.md
+========================================
+
+- As usual, [[Poem]]:
+    - May you be free
+    - May you be kind
+    - May you be happy
+    - If you have to burn, burn kindly!
+- [[Heather Marsh]]
+- [[Maitreya]]
+- [[Abstract Fairy]]
+- [[Raspberry Pi 5]]
+    - Downloading [[Raspberry Pi OS]] (based on Debian so it sounds fine to me...) as I write this :)
+
+
+
+========================================
+FILE: 2025-03-30.md
+========================================
+
+- I talked to my mum and it was great.
+  - We are making travel plans :)
+- I played [[Minecraft]] with [[Timur]], I appreciated it!
+- Then I reviewed and cleaned up notes, iterated on projects, spent time with Burup. It felt healing.
+
+
+
+========================================
+FILE: 2025-03-31.md
+========================================
+
+- [[Las Jaras]]!
+  - It was a great day all in all, I had enough bandwidth to do what I needed to do and start the week well; did also some planning for the upcoming months.
+- Had lunch with [[Stapelberg]].
+- Worked until 19 or until 21 depending on how you count, I count the latter.
+- Threw [[476]] in the [[co2]] meter; it's 17 * 28.
+- [[Midi]]
+
+
+
+========================================
+FILE: 2025-04-01.md
+========================================
+
+- [[España 2025]]
+- I attended an AI conference today in the morning, it was great! I met interesting people.
+- I worked on AI, Partitioning, Rollouts.
+- Then I did [[Flancia]]!
+    - [[Agora Plan]]
+    - [[bugs]]
+
+
+
+========================================
+FILE: 2025-04-02.md
+========================================
+
+- [[We will defeat Moloch]]!
+- [[work]]
+- [[focus]]
+
+
+
+========================================
+FILE: 2025-04-08.md
+========================================
+
+- I must call the [[veterinary]] (for a checkup)
+- Life goes on! I try to enjoy it.
+- It was great catching up with friends more as of late, online and offline.
+- Work is tough/intense but OK; I've been feeling productive and I'm looking forward to working more on some projects.
+- -> [[next action]]
+
+
+
+========================================
+FILE: 2025-04-11.md
+========================================
+
+- Good day at work!
+  - Started cycling season by biking to work, which was great :)
+  - Then good progress on some fronts, and a pleasant evening at home with Lady Burup and working a bit more.
+  - Thinking about the future in a pleasant way.
+- TIL about [[Mahasthamaprapta]], one of the two attendants of [[Amida Nyorai]]/[[Amitabha]] with [[Avalokiteshvara]]! Gemini told me about them, a.k.a. [[Dashizhi]] in feminine form.
+
+
+========================================
+FILE: 2025-04-13.md
+========================================
+
+- Mi [[mamá]] me contó de la vez en que mi papá le pegó, ella hizo la denuncia en la comisaría antes de escaparse a la casa de los padres y los hijos de puta de la comisería llamaron a mi papá y le avisaron para que la fuera a buscar.
+    - Mi [[tío]] desapareció tres días después de que mi papá (que era de la derecha peronista) lo llevó a un embarcadero de Tigre a una reunión de montoneros.
+        - -> [[7 de enero de 1977]].
+
+
+
+========================================
+FILE: 2025-04-17.md
+========================================
+
+<<<<<<< HEAD
+- [[Chasing Moloch]]
+=======
+- My [[noding]] has become erratic :) In particular my journaling is less consistent than before.
+  - Introspecting, this seems to be because of a combination of causes (as usual):
+    - I have been spending time in working around computer bugs (like [[karuna]] crashing, my work keyboard being temporarily bricked by a firmware update, etc.) and working.
+    - I lost or temporarily misplaced my [[default environment]], meaning the computer+workspace that I prefer for noding in the absence of temporary factors like being at some other computer.
+    - I have been keeping mental context elsewhere, like [[snippets]] at work and physical papers around the house and the office.
+    - I now will try to regain consistency.
+
+>>>>>>> 9d5ee8f3b77c2b49c4dd0870222d963ca17bb258
+
+
+
+========================================
+FILE: 2025-04-18.md
+========================================
+
+- Fixed [[wikivim]] on neovim :)
+  - Yep, even bulleted lists :)
+    - I can even use tab and shift-tab to indent/dedent!
+  - It took a few tries but now vim feels like a nice Agora noding environment again, in particular in the computer where I now have my development environment up -- [[tara]].
+- Back again after sleep :)
+  - I have a nice focus day in front of me; I'll try to get through a varied task list that I will keep partly here and partly on the back of an envelope that I intend to burn at the end of the day.
+- Spoke to my mum!
+  - She found some books that belonged to my grandfather, [[Bargalló]].
+- Liked [[፨]].
+
+
+
+========================================
+FILE: 2025-04-19.md
+========================================
+
+- Noding from [[bull]] again after some updates :)
+  - As I'm writing this I'm in [[Bitwäscherei]] enjoying the beautiful afternoon sun while I'm around people who are hacking. It's lovely!
+
+
+========================================
+FILE: 2025-04-21.md
+========================================
+
+- I was part of the [[Bitwäscherei]]/[[SGMK]] [[Easter Hack]] this long weekend and it was great! Met interesting people, and was able to focus well on tasks I had long deferred, partly because of being surrounded by people also focused on their projects.
+- Also spent Easter Sunday with friends and their family, it was very nice!
+- Still noding actions in [[2025]].
+
+
+
+========================================
+FILE: 2025-04-25.md
+========================================
+
+- [[Free]]!
+- [[25]] means [[Consciousness]] in the [[Flancia Pattern Language]], or 'focus on your focus'/'be aware of your awareness' (five squared). 
+- [[Work]] was fine, I did a tricky expense report (tricky because of a bug) and advanced further business travel plans. Also was oncall.
+- [[Plitnyakovo]]
+
+
+
+========================================
+FILE: 2025-04-29.md
+========================================
+
+- l4/l5 [[dorsomedial]] [[discus hernia]]:
+  - is what I have, or had 7-8 years ago, although I've since recovered from symptoms and no longer live with pain.
+
+
+
+========================================
+FILE: 2025-04-30.md
+========================================
+
+- Worked today, essentially half day as I had to get a small surgical intervention -- a mole that was growing fast on my face for some reason. Had to send it for biopsy but the doctor said it looked benign.
+- Then I met my friend [[June]].
+- And then came back home to my [[Lady Burup]]!
+
+
+
+========================================
+FILE: 2025-05-02.md
+========================================
+
+- [[2025-05-01]]: [[International Workers Day]] was nice, although I didn't sleep very well and I had to pack/do things in the house to prepare for travel so I left the festivities relatively early in the afternoon after attending with friends.
+- As I write this I'm in the [[Zürich airport]] waiting to board my flight to Málaga for a week in southern Spain.
+
+
+
+========================================
+FILE: 2025-05-06.md
+========================================
+
+- En [[Sevilla]]!
+  - Para la [[Feria de Sevilla]] con [[BA]].
+  - Mientras escribo esto, estoy leyendo [[Zelazny]] en una cafetería cerca del departamento donde me estoy quedando.
+  - Naturalmente empecé a escribir en Español de nuevo después de usarlo más algunos días acá y antes en [[Granada]].
+
+
+
+========================================
+FILE: 2025-05-09.md
+========================================
+
+- I just resolved all [[chezmoi]] conflicts in [[paramita]] and it felt a bit like glory honestly. I also cleaned up the repository in a variety of ways. It took about 20 minutes and it felt very freeing.
+  - I then launched [[nvim]] and it *worked* after being broken in this machine still; all my modules got auto-installed immediately and it felt like living in the future, which of course I do in many ways being very privileged (and remembering [[William Gibson]]...).
+  - And of course I spoke just a little too soon, somehow Markdown mode in [[wikivim]] is not quite perfect for some reason :)
+
+
+
+========================================
+FILE: 2025-05-17.md
+========================================
+
+- I started this Saturday earlier than usual by waking up at 9am and going to a 10am event in my neighborhood about urban planning :) It was pretty interesting!
+- Then did some shopping, meditated and now (as of around midday) I'm starting the day in earnest; drinking [[gyokuro]] and planning the day.
+- I hope to [[flow]] all day!
+
+
+========================================
+FILE: 2025-05-18.md
+========================================
+
+- [[moloch]]
+
+
+
+========================================
+FILE: 2025-05-19.md
+========================================
+
+- Noding from work after a while! I spend a lot of time here writing but for obvious reasons I don't tend to write in the Agora while at it. Still, I would like to take up the habit again of writing more journals so I thought I'd give it a shot.
+- I met [[Stapelberg]] for lunch as we often do on Mondays and it was great.
+  - I heard of an upcoming [[nix hackathon]] from him.
+- Now I have a bunch of meetings upcoming; more than planned (as it tends to happen). I'll try to make the most of it, and still protect enough time blocks that I can do what I intended to get done during the workday (without going too late into the night).
+
+
+
+========================================
+FILE: 2025-05-20.md
+========================================
+
+- I like magnets -- some [[ideas]]:
+  - [[magnetic computing]]
+  - [[magnetic 3d printing]]
+  - [[magnetic assists]]
+    - In general magnetism seems like an amazing way to transfer momentum?
+  - [[magnetic gears]]
+    - As in the little devices I've built
+- Today (actually yesterday) I saw a great video on the [[principle of least action]] and it blew my mind a bit. It also introduced me to diffraction grating effects -- which I had heard about but hadn't grokked/seen demonstrated.
+  - The fact that angular momentum is quantized... wow. Also it introduced me to [[diffraction gratings]], which I had heard of only in passing.
+  - And angular momentum has the same unit as action: Joule-second.
+  - This all made me think also of...
+    - Could you use diffraction gratings at astronomic scales to see into the past? E.g. by making visible light from a star that has taken a longer (slower) path to get to us.
+    - The effect that makes lights 'stretch out' in one direction in some mediums, like water (think of night lights reflected on a lake) or... the effect that is apparent in my chrome kitchen countertop that is quite something and I sometimes call the [[rainbow folding]]). I'm unsure if these are really related but something about the discussion about the paths that light can take made me think of it.
+  - All in all I really enjoy thinking about [[physics]] as of late.
+  - -> [[Action principles]] and [[Lagrangian]] are both interesting over at Wikipedia.
+
+
+
+========================================
+FILE: 2025-05-21.md
+========================================
+
+- Today was a good day!
+    - Lots happened at work, some of which I dreaded to some small degree without noticing it, most of which went fine and some of which I enjoyed.
+    - And then the evening back home with [[Lady Burup]] was beautiful.
+- Did [[paperwork]] for the divorce and such, which felt freeing.
+- In the morning I met [[Eduardo Alberto]] who will do a deep cleaning of my home soon; it's the first time since I move (I self-clean, and I'm a pretty good "Pareto" cleaner, but don't do deep very well).
+- I thought of:
+  - [[magnets]] and [[angular momentum]]
+  - [[Open Letter to Lex Fridman]]
+    - motivated by his (to me overdue) conversation with [[Max Tegmark]], who I realized today is *very* aware about [[Moloch]]!
+  - [[Open letters]] in general:
+    - I've decided, or realized (or both), that one of the reasons I tend to under perform when writing letters is... because I don't dedicate enough time to it, as in actually planning for it and making time.
+    - I decided to set a "soft deadline" of [[August 15th]] for writing to Lex, given that it's his birthday! We're both from 1983.
+    - That made me look Max Tegmark's birthday as well and it was recently, on [[May 5th]]. He's from 1967 so I'll associate him with 67 (currently meaning also: light and Amitabha).
+
+
+
+========================================
+FILE: 2025-05-28.md
+========================================
+
+- [[fellowship of the link]] [[2025-05-28]]
+    - [[jerry michalski]]
+        - [[family systems]]
+        - theory: this is internalized.
+        - parts try to help but are trapped in old patterns.
+        - must be approached with curiosity and benevolence
+    - https://www.amazon.com/exec/obidos/ASIN/0874778956/jerrymichalskisr
+      - "You are a natural explorer, adventurer and builder of new worlds. You love travel and experiencing other parts of the country and other cultures. You are a natural visionary. Instinctively, you can see what needs to be re-built or designed in new ways whether it be environments, ideas, projects or people. You have a natural ability to renew and regenerate yourself and others. People will see you as highly creative, practical and productive, innovative and original, and passionately involved in what has heart and meaning for you."
+      - "At different times in your life you will be very ecologically minded and deeply concerned about the Earth and very active in making the universe a better place in which to live. You may experience yourself questioning the origins of the universe as a whole or contributing towards theories, projects and services that assist universal understanding. National and international work will appeal to you, or travel that allows you and others to value cultural differences as well as honor inherent similarities found within the human species."
+      - "You will find it difficult to be limited, restricted or restrained in any way. With your inherent ability to cut through things and get to the bottom of most situations, you are able to build new worlds internally and externally. The concept of freedom at different times in your life will be very important."
+      - [[substack]]
+
+
+
+========================================
+FILE: 2025-05-31.md
+========================================
+
+- The #revolution started today!
+  - Like every day :)
+  - I think [[ActivityPub]] is actually rather important; the Agora should publish (before it does anything else) nodes
+    - (as users? or too confusing? hmm)
+  - We will do the revolution together, my [[friend]], if you want to.
+- The 31st of any month is [[Las Jaras]]!
+  - (In the [[Flancia Pattern language]] and the associated calendar..)
+
+-- 
+Llevo en mi [[carcaj]]: [[las jaras]]
+Las Jaras, qué jaras?
+Las de Avalokiteshvara!
+
+
+
+========================================
+FILE: 2025-06-12.md
+========================================
+
+- I met [[P]] when I was in California, it was great!
+  - We shook hands on friendship and I'll mean that forever.
+  - We might also not talk more any further and that is also OK. I am grateful for having met her.
+  - I wish you the best! That goes for [[P]] and for you, reader:
+    - May you be free!
+    - May you be happy!
+- I met [[Teodora]] today through my great friend [[Pesho]], it was also great!
+  - We walked home (we live in the same town) taking [[Covid]] precautions because I was to an outdoor party where the host tested positive.
+- It was [[AG]]'s birthday and I loved it!
+  - It was great seeing her after the long trip.
+  - And meeting her friends and family again!
+
+
+
+========================================
+FILE: 2025-06-18.md
+========================================
+
+- And I'm back!
+  - Says the person who keeps going away :)
+  - But I come back happily.
+- Some days I dedicate very few cycles to the [[Agora]]. Instead I tend to focus on: work, family, friends and thoughts.
+  - That's alright! Or more than alright actually.
+- To the [[readers of the future]] I say:
+  - Thank you for being here!
+  - Please excuse any bumps in the ride :)
+
+As I we pass mid-June I am:
+
+- Thinking of the women in my life
+- Enjoying the visit of my mum!
+- Enjoying life in general.
+
+I now intend to:
+
+- Take out the remaining paper for recycling.
+- Fix Agora bugs!
+  - Marginalia -> Google as the marginalia.nu iframe has issues
+  - Maybe a [[scroll to bottom]] button, keep it simple :)
+
+
+========================================
+FILE: 2025-06-21.md
+========================================
+
+- Happy!
+
+
+
+========================================
+FILE: 2025-06-23.md
+========================================
+
+- The weekend was chill and great!
+  - Mostly spent time with my mum who is visiting and Lady Burup.
+  - We went to the river on Sunday as it was very warm (with my mum, not Lady Burup). It was very beautiful.
+- I am talking to someone very interesting and that makes my whole life a bit better as well.
+
+
+========================================
+FILE: 2025-06-28.md
+========================================
+
+- [[17]]
+- [[53]]
+- [[67]]
+- [[2063]]
+- [[7]]
+- [[Höllgrotten]] today with my mum, it was lovely!
+- I also cleaned the house, did some light project work, and enjoyed into the evening.
+
+
+
+========================================
+FILE: 2025-07-12.md
+========================================
+
+- Back here after a long while!
+- I spent ten days with my mum in [[Calp]], [[Spain]] -- I expected to write and code a lot, as I usually do (expect, not do, during holidays). In the end we mostly spent time in the sea or the pool, spoke, read and played [[Rummy]]. I have no regrets!
+- As I write this, we are in the [[Alicante]] airport waiting for our flight. I am looking forward to being reunited with [[Lady Burup]]!
+
+
+========================================
+FILE: 2025-07-13.md
+========================================
+
+- Mi mamá tose mucho mientras duerme :(
+  - Espero que se le pase pronto!
+  - En todo caso la pasamos muy bien en Calp! Me hizo muy bien.
+- I am now writing in [[tara]], the "main" project computer as of now :)
+  - I have just [[meditated]].
+  - I am thankful for existence!
+  - I am thinking of my commitment to try to work for the benefit of sentient beings.
+- Also I am wondering why nvim in [[guanyin]] is sort of broken, extensions that work fine in [[paramita]] and [[tara]] don't quite behave like I expect here. I suspect a [[chezmoi]] conflict, let's see...
+    - (These are the sidequests that make up so much of life... I try to enjoy them!)
+    - I am tying this on my new keyboard, a [[Royal Kludge]] :)
+      - It is the smallest keyboard I have typed on in very long, but I am happy to report it works! Maybe I wouldn't use it for coding initially as some key combinations I use are relatively awkward to press (it involves extra modifiers), but it is very pleasant to type prose or [[Agora]] text in which I'm very happy about, and it seems to easily support three bluetooth connections. I am tying this on my new keyboard, a [[Royal Kludge]] :) I am tying this on my new keyboard, a [[Royal Kludge]] :)
+        - (See, [[nvim]] is indenting for some reason when I start a new line while doing outlines... I'm rolling with it for now...)
+          - (OK, I spoke too soon, it turns out that [[paramita]] is broken too! Editing wise. So it *could* be I have fixed nvim only in [[tara]] and forgot to push that change to [[chezmoi]]...)
+  - Hmm
+    - Yep, it's fixed in Tara!
+    - How nice to have a working vim based setup for the Agora again ;)
+    - Now to figure out why it's broken elsewhere \o/
+    - Oh, I was missing bullets.vim in my init.lua! And tara somehow still had it, I think because removing plugins from init.lua doesn't actually uninstall them (this is good to remember as it means that my nvim is not yet [[fully reproducible]] starting from init.lua).
+    - Fixed then! :D
+
+
+
+
+
+========================================
+FILE: 2025-07-16.md
+========================================
+
+- I met [[KM]] this week and it was wonderful!
+- The reference Agora at anagora.org is partly broken and the server it mostly depends on nowadays might be on the way out so further downtime could be expected, I'll be noding about troubleshooting activities here and posting to https://social.coop/@flancian/114865307000829931. Please excuse any disruption!
+
+
+
+========================================
+FILE: 2025-07-21.md
+========================================
+
+- Back home on my free day :) I took the day off to do something with my mum off-peak (meaning not in the weekend). We were going to go to the [[St Beatus Caves]] but due to the weather we changed plans as she wants to go to [[Ikea]] ([[KM]] called it the artificial cave and it's very fitting!).
+- I'm typing this on my new small [[RK61]] keyboard and I quite like it! It is a very limited layout as it's only 61 keys, so maybe not ideal for some use cases, but definitely good enough for doing general purpose writing.
+- [[KM]] :)
+- [[burup forever]]
+
+
+
+========================================
+FILE: 2025-07-23.md
+========================================
+
+- Had a very nice start of the day with my mum and Burup.
+    * Then very nice lunch with [[KM]]!
+    * Then idem conversation with [[TW]]
+        + He told me to look up [[positional embeddings]] as they are key to understanding how attention works in practice
+
+
+
+========================================
+FILE: 2025-07-31.md
+========================================
+
+- a [[document]]
+  - About [[Agora Server]] and the wider [[Agora]] project:
+  - #go https://docs.google.com/document/d/1BQdPNfNsgnMSpbZ_J1gJQqQ5Fo44JtiQPDrDnZ7x7hA/edit?tab=t.0
+- [[beethoven]]
+- Beautiful [[Las Jaras]] of July (month 7 / [[Avalokiteshvara]]) despite being sick with a fever. Thank you all, my friends and loved ones! And the [[universe]]!
+- I did AI coding (meaning coding in tandem with Gemini 2.5) both at work and for the Agora/Flancia. I quite enjoy it!
+- Bought [[tickets]] for my mum :)
+  - And some [[gifts]]! :D
+- [[KM]] is beautiful
+- Sad about [[AI]] (not Artificial Intelligence in this case) but respectful/mindful, and thankful as well
+  - Just closed a tab about [[Bursa]] and other places in [[Turkey]]
+
+
+
+========================================
+FILE: 2025-08-01.md
+========================================
+
+- #push [[Ekumen]]
+  - [[Ekumen]] with [[Eduardo Mercovich]] :D
+  - [[Interacción Humana]]
+  - [[Sutty]]
+    - [[Economía Cooperativa]]
+    - [[Proceso Generativo]]
+      - a lo largo de (por defecto) 4 sesiones
+    - [[Iteraciones]]
+  - [[Fediverso]]
+  - [[beeper]]
+  - [[next actions]]:
+    - Tell Dan and Melissa?
+      - CoSocial.ca + Social.coop "base case"?
+    - Llenar el cuestionario :)
+      - Compartir tesis
+    - Repositorio de git :)
+      - Para el ágora! Y la tesis?
+    - -> Christopher Alexander y la gobernancia de AIs
+- [[KM]] :D
+- [[ekumen org]]
+    * We also had fun generating AI videos! Some of them were actually quite eerie, but somehow funny, so they worked. I'm making them with [[Veo 3]]. The fact that they come with generated audio is quite something.
+
+
+
+========================================
+FILE: 2025-08-04.md
+========================================
+
+- Back noding in this computer, let's see if it's still syncing :)
+  - Hmm, this nvim doesn't seem to be at target state :) Trying to fix now.
+  - Well, that wasn't it, chezmoi says no updates but somehow outline (bulletpoints) mode isn't working as I expect it :(
+
+
+
+========================================
+FILE: 2025-08-06.md
+========================================
+
+- [[km]] :)
+
+
+
+========================================
+FILE: 2025-08-16.md
+========================================
+
+- I'm back!
+  - Says the guy who's back all the time :)
+  - I went to anagora.org/journals again today and it made me so happy, I love seeing the writing of others here in the Agora!
+- Hmm, nvim is broken in [[guanyin]] somehow...
+  - [[Sidequest]]?
+    - I asked chatgpt 5 to try something new and it troubleshooted the issue for me and told me to add something to my init.lua but it hasn't worked so far.
+    - Done :)
+- So anyway...?
+    - [[KM]] :)
+    - [[EC]] :)
+    - [[Burup]]:
+        - mi [[Lady Burup]]!
+        - [ ] clean the toilet
+    - [[Agora]]:
+        - thought about journals (see above)
+        - thought of themes, see [[creme brulee]] and [[creme brulette]]
+        - coding
+        - autopull full text search and see what happens? (tm) -- found an interesting empty node that had text mentions but no noding, and the Agora was much more interesting after expanding it
+    - [[Flancia]]:
+        - [[The revolution for the benefit of sentient beings]]
+
+
+
+========================================
+FILE: 2025-08-18.md
+========================================
+
+- Had a great weekend with my mum and [[KM]] :)
+- Missing [[Lady Burup]]! We will reunite tonight.
+- Feeling quite productive at work, partly because of using AI and partly because of having handed off enough "legacy" state/projects to be able to focus on new things.
+
+
+
+========================================
+FILE: 2025-08-21.md
+========================================
+
+- Oh wow.
+- What's been happening.
+- It's quite something.
+
+I love you, my friend! You reader. I know you will be here eventually, and I thank you for your attention and for the way you are.
+
+
+
+========================================
+FILE: 2025-08-28.md
+========================================
+
+- Noding from work :)
+- I spent the last few days:
+    * With my mum, enjoying her last days in Zürich this year.
+    * With [[KM]], in [[Copenhagen]] for the first time -- it was great!
+    * Working, mostly catching up with procedural things but also doing some AI stuff.
+    * Playing (after work), mostly coding the Agora with AI. It's a wonderful experience!
+
+
+
+========================================
+FILE: 2025-08-29.md
+========================================
+
+- Been doing a lot of AI-assisted coding at work and after work and it's been great!
+    - Even current-day AI adds a lot of value for coders. Like: a lot.
+
+
+
+========================================
+FILE: 2025-09-10.md
+========================================
+
+- [[KM]] :)
+- Then work, which was fine.
+- Then [[Fellowship of the Link]].
+    - With [[Shawn Murphy]]!
+
+
+
+========================================
+FILE: 2025-09-21.md
+========================================
+
+- Had a beautiful weekend with [[KM]]!
+- Went to [[PDL]]'s and [[Sabi]]'s birthday by the lake yesterday.
+- [[Flancia meet]] with [[bouncepaw]]
+    * [[John Wilkins]] sounds like [[John Forkings]] in Russian.
+    * [[The Door Game]].
+
+
+
+========================================
+FILE: 2025-09-27.md
+========================================
+
+- Life is beautiful.
+  * I am sorry for the oppressed at the same time I cherish highly my level of privilege and enjoyment; this much is true. What I do for them is probably inefficient and insufficient; I will try to do better.
+
+As I write this on [[2025-09-27]] I am surrounded by happiness in the company of [[Lady Burup]] and [[KM]]. I am deeply thankful for what I get to live.
+
+---
+
+After work I usually code until late, with two AIs in two computers in two different desks, and play around the house with ~5 other computers and conscious beings.
+
+
+
+========================================
+FILE: 2025-10-03.md
+========================================
+
+- Go go
+    - Go beyond
+    - Everybody gone to the other shore
+- Go free
+    * Go kindly
+    * If you have to #go, [[go kindly]]!
+
+
+
+========================================
+FILE: 2025-10-05.md
+========================================
+
+- Most of what I write in the Agora nowadays seems to be [[poems]] :)
+- Aside from that I've been mostly focusing on [[Agora development]] when I dedicate time to the #Agora directly.
+- I have been enjoying the addition of AI to the developer's toolset, have been going through bug fixes and old wishlist items with much more speed. I am thankful for the opportunity.
+- In other news I am happy with [[Lady Burup]] and [[KM]] and life in general!
+- I have also been dedicating a large amount of time to work and trying to enjoy it, to more success than before.
+
+
+
+========================================
+FILE: 2025-10-09.md
+========================================
+
+- I'm back!
+  * (says the guy who's back all the time...)
+- My [[todo]] list for this 'long weekend':
+  * Book hotel in [[Turkey]].
+  * [x] Order [[tea]].
+  * Read [[El museo de la novela de la eterna]]
+- [[97]]
+
+
+
+========================================
+FILE: 2025-10-10.md
+========================================
+
+- [[Moloch's bargain]]
+
+
+
+========================================
+FILE: 2025-10-23.md
+========================================
+
+- [[79]]:
+  - I was unsure what number I had associated [[Sadhana]] with, but today I saw it in the whiteboard.
+  - It was the first prime that seemed "available" on a certain date :) And I think it still is; next up [[83]] is currently yours truly (as I was born on that year), then we only have [[89]], [[91]] and [[97]] left before the hundreds.
+  - Before it, I thought [[37]] could be it as I currently associate it with [[Yoga]] which is also a [[spiritual practice]].
+- I worked until late and enjoyed it.
+- Attended an [[AI summit]] Tue-Thu and I enjoyed it quite a bit! Today I was a bit low energy as I slept only five hours (exceptional occasion) but overall the week was great so far. Actually looking forward to working tomorrow.
+- [[KM]]
+- [[Macedonio Fernández]]
+
+
+
+========================================
+FILE: 2025-10-26.md
+========================================
+
+- [[KM]] :)
+- Planning a trip to Italy!
+- Also trying to advance today:
+  * [[work]]
+  * [[social.coop]]
+  * [[agora]] development questions, like: how exactly to prioritize all the features and bug fixes I have backlogged with the ground level/key refactor between [[agora server]] and [[agora bridge]].
+- Doing [[tab cleanup]] here in [[tara]] (my personal development computer) after a while, I thought (and posted) about [[gamification]].
+- [[Macedonio Fernández]]
+
+
+
+========================================
+FILE: 2025-10-27.md
+========================================
+
+- I'm back to noding on this computer; and now I think about it, it's kind of curious I don't do it this often given that on workdays this is the computer I spent the most time on, by far!
+    - By this I mean [[Guanyin]], one of my laptops, provided by [[Google]].
+
+
+
+========================================
+FILE: 2025-10-28.md
+========================================
+
+- Yesterday I implemented 'star nodes' and fixed a bunch of stuff in the Agora with Gemini and it felt great :)
+  * I was able to do this in parallel while I kept working (day job related) into the end of night; I enjoy this pairing.
+  * I use two different computers in two different desks and I walk to and fro, which helps a lot.
+- Today it's day 1/2 of my team's global virtual summit (exploiting daylight savings [[chaos week]]); this brings an end to summit season, which has been intense!
+- Plan to see [[KM]] after work :)
+
+
+
+========================================
+FILE: 2025-11-12.md
+========================================
+
+- [[testing meet]]
+
+
+
+========================================
+FILE: 2025-11-29.md
+========================================
+
+- [[albricias]]
+
+
+
+========================================
+FILE: 2025-12-01.md
+========================================
+
+- [[I sometimes feel]]:
+  * as if I'm [[struck by lightning]]
+  * as if I've caught fire
+  * we will go together until the dark of night
+  * (do you know what I mean…?)
+
+--
+
+Busy working and happy; I've been told I look tired at times but recently got some good sleep through the holidays and I feel with high energy levels.
+
+
+
+========================================
+FILE: 2025-12-13.md
+========================================
+
+- A lovely Saturday with [[KM]] and [[Lady Burup]] at home. Relaxing and interesting. With [[KM]] we did a nice walk in Zürich in the cold weather, knowing it will just keep getting colder.
+- The week was pretty brutal at work (3x presentations, 2x reviews, plus planning and some ad hoc meetingsd) -- it feels great now that it's in the past though. I feel I 'survived' the last tricky week of the work year; things should quiet down from now on as people start going into holidays mode.
+
+
+
+========================================
+FILE: 2025-12-14.md
+========================================
+
+- I finally finished the migration from 'main' to 'master' for the Agora root, belatedly :)
+- I had a great day on [[2025-12-13]] with [[KM]] and [[Lady Burup]]. Thank you!
+- New Agora signup! Welcome [[@matthieuG]] :)
+- I did some [[Agora development]] with Gemini and made what felt like surprising progress on two of the main December objectives:
+  * [[Easier signups]].
+    + Completed: 'join with your git repo' now exists as a form, talks to [[agora server]] and that talks to the (privileged) [[agora bridge]].
+  * [[Federation++]]
+    + Completed: send /latest subnodes per user to followers we know of.
+
+
+
+========================================
+FILE: 2025-12-15.md
+========================================
+
+- I just thought of [[suffering]] and what would amount to [[rational suffering]].
+  - Think of the suffering of the beings that die to feed others: some of that suffering is justified inasmuch it enables other conscious beings to subsist and negotiate ethical [[tradeoffs]] of their own.
+  - When it is kept to a minimum, of course, we seem to arrive at the ethical optimum.
+  - Think of worms getting grown and harvested for feed, but also of the beautiful bird hunted by the cat and the fish who die in the nets of [[fisherpeople]].
+  - See also: [[trolley science]].
+- I also worked and planned the week and did [[Agora]].
+- Two days of Agora journaling in a row? Is such a thing even possible? :)
+
+
+
+========================================
+FILE: 2025-12-18.md
+========================================
+
+- Skipped a few? But I've been having fun you could say.
+- Work is finally calming down as we go into the [[prod freeze]]! Looking forward.
+- Feeling quite free, relieved of burdens.
+- Worried about some health issues in the family, but staying optimistic and trying to value what we have.
+
+
+
+========================================
+FILE: 2025-12-25.md
+========================================
+
+- Very nice day at home with Burup :)
+- Ended up working 8h on projects and making good progress, which felt great! Pretty much as planned.
+- Then in the evening I went back to [[Bitwäscherei]]/[[SGMK]] after long and it felt great as well, I hadn't been back much since April (?) because of travel/work/personal life and my under-prioritizing. I intend to come back more often now!
+- [[2025-12-26]]
+
+
+
+========================================
+FILE: 2025-12-26.md
+========================================
+
+- Met:
+    - Some cool people on the rooftop of [[Zentralwäscherei]], including a girl named something like [[Katja]] and her two cool friends.
+    - [[Moritz]] after midnight in [[Bitwäscherei]].
+    - I also saw [[Marc]] and [[Aaron]] after long!
+    - I'm so glad I came back to [[SGMK]] finally; it just kept slipping because of work and commitments, it seems I needed a long weekend to get pressing things done and reboot priorities :)
+- Then slept ~6h roughly from 6am to 12am and woke up rested enough :)
+- Played [[Minecraft]] with [[KI]] and it was great!
+- Then flowed.
+- Ran again into [[What is Life?]] by [[Schrödinger]], decided to actually locate a URL where I could read it.
+  * Found [[archive]] https://archive.org/details/whatislifephysic0000schr/page/n5/mode/2up
+- [[Feynman x 3]] 
+
+
+
+========================================
+FILE: 2025-12-27.md
+========================================
+
+- I had a lovely walk with [[AG]] today and a quick dinner, and then went to [[Zentralwäscherei]].
+
+
+
+========================================
+FILE: 2025-12-28.md
+========================================
+
+- What a great start to the day in [[Bitwäscherei]], and then what a beautiful day at home with Burup!
+    - Coded, wrote, talked with my mum, played with Burup, and just generally tried to flow.
+
+
+
+========================================
+FILE: 2025-12-29.md
+========================================
+
+- [[free instruments]]
+- I worked from home; spent time with [[Lady Burup]]; played [[Minecraft]] with [[bouncepaw]]; then did grocery shopping for New Years and went to [[KM]]'s place.
+
+
+
+========================================
+FILE: 2025-12-30.md
+========================================
+
+- [[Berni]] me hizo recordar que quiero convencer a los PMs de Meet para que agreguen un feature en el tier gratuito.
+
+
+
+========================================
+FILE: journal/2025-01-14.md
+========================================
+
+- I'm writing this from [[sariputta]] projected on the wall in the guest room :)
+  - While watching [[3blue1brown]], checking [[essence of calculus]]. I last studied calculus 15+ years ago :)
+

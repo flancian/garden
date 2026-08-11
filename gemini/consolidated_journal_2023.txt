@@ -1,0 +1,5378 @@
+
+
+========================================
+FILE: journal/2023-01-01.md
+========================================
+
+- [[revolutionary calendar]]
+
+
+
+========================================
+FILE: journal/2023-01-02.md
+========================================
+
+- previously: [[2023-01-01]]
+- [[work]]
+  - Off work today thanks to [[saint berchtold]] being a public holiday in Switzerland.
+- [[flancia]]
+  - ;)
+- [[pomodoros]] and chores and such in roughly half-an-hour bites
+  - [x] laundry
+  - [x] clean the house (we were seven over the holidays)
+  - [x] more laundry
+  - [x] clean some more
+  - [x] look for key household maintenance dates:
+    - [x] [[kartonsammlung]]
+      - [[2023-01-12]]
+      - [[2023-01-26]]
+    - [x] [[mr green]] (this sounds like a weed delivery service but it's actually an all-in-one recycling service)
+  - [[agora chapter]]
+    - [ ] look into the abyss
+    - [ ] answer remaining comments
+    - [ ] start reading from the beginning to the end
+- spend time with friends
+  - [ ] enjoy the moment
+  - [ ] overcooked
+- Today I found [[Ron Gilbert]] and [[David Fox]] on the [[fediverse]] and I realized I haven't bought [[Return to Monkey Island]] yet!
+  - I waited for it (a Ron Gilbert sequel to [[Monkey Island 2]]) for almost 30 years (!).
+  - I think I'll buy it now and then start playing it soon after I'm finished with [[Agora Chapter]]. I haven't played a game in *very long*, and I think it's going to feel a bit like a holiday!
+- [[L]] gave me a [[raffaello]] self portrait
+- [[l'altalena]]
+- [[las jaras]]
+- [[agora chapter]] :)
+- [[mpd]]
+- #push [[yoga with x]]
+  - doing [[center]] this january
+  - today it was day 1, https://www.youtube.com/watch?v=dlkG7LQJjY0
+
+
+
+========================================
+FILE: journal/2023-01-03.md
+========================================
+
+- [[2023-01-02]]
+- [[work]]
+  - [[rt]] told me about [[golden temple]] and [[langar]]
+    - https://en.wikipedia.org/wiki/Golden_Temple
+
+
+
+========================================
+FILE: journal/2023-01-04.md
+========================================
+
+- I met [[kris]] ~ [[kj]] yesterday [[2022-01-03]], it was great.
+- Really enjoying [[Approaching the Buddhist Path]].
+- [[work]]
+  - Took the day off today to focus on [[Agora Chapter]] again, belatedly :)
+  - **Actually** my bet payed off only partly, as I was second level oncall and I got an incident :) It was fun/interesting though. Then did some project work. Will consider this half a day of work.
+- [[flancia]]
+  - [[agora]]
+    - [[agora chapter]]
+      - Starting pomodoros at 14 after some "constructive procrastination".
+      - Will be finishing up with laundry on breaks (lots of laundry in the last few days due to hosting people over the weekend).
+      - Resuming [[pomodoros]] at 18:30 after some work :)
+  - #push [[fellowship of the link]]
+    - with [[Chris Aldrich]] and [[Jerry Michalski]] and [[Bentley Davis]]
+    - it was great!
+  - #push [[yoga]]
+    - #push [[revolutionary calendar]]
+      - [[yoga with x]]
+        - doing [[center]] this [[January 2023]] :)
+          - [[day 3]] https://www.youtube.com/watch?v=XerZZ2gbY38
+- #push [[wayland]]
+  - finally made VNC to a Wayland machine work! I just used [[wayvnc]]. I'm pretty sure it didn't work before but it does now; maybe before I was missing [[xdg portal]] or some variation? Or maybe I just upgraded some package in the meantime. 
+  - In any case, this removes my final blocker to 'wayland everywhere' as far as I'm concerned, so I plan to move [[nostromo]] to Wayland over the next weekend or so.
+
+
+
+========================================
+FILE: journal/2023-01-05.md
+========================================
+
+- Welcome to the [[Agora of Flancia]]! Today and every day.
+  - This Agora contains a [[narrative]]. You can read it in its [[journals]].
+- [[Flancia]]
+  - As you get to Flancia tonight, this is playing in the background.
+    - #push [[nujabes]] 
+      - [[feather]] https://music.youtube.com/watch?v=4yX8ZUgraOo&feature=share
+    - [[yoga with adriene]]
+
+
+
+========================================
+FILE: journal/2023-01-06.md
+========================================
+
+- [[work]]
+  - I had lots of interesting conversations today!
+- [[flancia]]
+  - [[yoga with x]]
+    - [[center]] day 5? hope to do it today after work, if not I'll mark it here.
+  - [[kris]]
+  - [[sneakers the rat]]
+    - [[familiar]]
+  - [[agora commons]]
+
+
+
+========================================
+FILE: journal/2023-01-07.md
+========================================
+
+- [[things to do after agora chapter]]
+- [[flancia]]
+  - #push [[flancia meet]]
+    - was great, thanks to [[bouncepaw]] and [[j0lms]]
+    - #push [[flancia chronicles]]
+      - [[the chronicles of flancia]]
+  - [[kris]]
+  - [[agora chapter]]
+    - enjoying the process!
+  - [[yoga with x]]
+    - [[center]] day 6 (Adriene starts with day 0 on the 1st, so on January the year it's airing [[30 days of yoga]] is one day behind the current date).
+  - [[social coop]]
+  - [[edsu]]
+    - [[another social network is possible]]
+
+
+
+========================================
+FILE: journal/2023-01-09.md
+========================================
+
+- [[work]]
+  - oncall, got woken up at 6am :) but it was fine.
+- [[yoga]]
+  - [[yoga with x]]
+    - [[center]] day 8
+
+
+
+========================================
+FILE: journal/2023-01-10.md
+========================================
+
+- [[work]]
+- #push [[social coop]]
+  - took an AI to have a conversation about a tricky moderation case.
+
+
+
+========================================
+FILE: journal/2023-01-11.md
+========================================
+
+- I've been away from [[noding]] a bit, away from [[writing]], as I focused my writing on [[Agora chapter]] for the [[Personal Knowledge Graphs]] book.
+- I started [[Return to Monkey Island]] today and I'm liking it a lot.
+  - I got used to the art style pretty quickly.
+- [[Flancia]]
+  - #push [[flancia book]]
+    - I think I want to call the book [[Flancia Chronicles]].
+      - The book is to be assembled from my writing in https://flancia.org and https://anagora.org.
+      - In the meantime, there's a [[Flancia doc]] :)
+  - #push [[agora]]
+    - #push [[agora development]]
+      - [ ] ship [[agora graph]] in some version?
+      - [ ] [[dynamic subnodes]], sometimes also known as [[executable subnodes]]
+        - [ ] ship executable subnodes with allowlist?
+        - [ ] start on [[client side subnodes]], meaning [[javascript]] in gardens :)
+      - [ ] easy improvement: I want to adjust the node/subnode icons back to what they were one or two months ago; a stack for a node made sense, whereas the current red book for node is puzzling.
+    - #push [[agora chapter]] next steps
+      - [x] read George's email.
+        - end of week as deadline for all, then we need to....
+          - [ ] work on updated abstracts and...
+          - [ ] start on the Markdown port.
+  - [[work]]
+    - worked a bit even though I had the day off, and I enjoyed getting some things done!
+  - [[yoga with x]]
+    - [[center]]
+      - day 9 was [[corazón]]
+      - day 10 (it "lags" one this month) is [[energy]]
+  - [[fellowship of the link]]
+    - [[2023]]
+      - [[flancia 2023]]
+      - [[bigger goals]]
+    - [[argentina 1985]]
+- [[kris]]
+  - [[the story of the chinese farmer]]
+  - [[plantasia]]
+  - [[sydney]]
+  - [[paris]]
+  - [[berlin]]
+- [[agora.yaml]]
+- [[another social network is possible]]
+  - on [[bernard stiegler]]
+  - https://networkcultures.org/geert/2022/12/28/harry-halpin-geert-lovink-another-social-network-is-possible-on-bernard-stiegler-and-the-social-media-question/
+
+
+
+========================================
+FILE: journal/2023-01-12.md
+========================================
+
+- [[unicode search]]
+- [[Nacho]] died today.
+
+
+
+========================================
+FILE: journal/2023-01-13.md
+========================================
+
+- [[2023-01-12]]
+- [[work]]
+- [[yoga with x]]
+  - [[center]] day 13
+- [[2023-01-14]]
+
+
+
+========================================
+FILE: journal/2023-01-14.md
+========================================
+
+- [[2023-01-13]]
+- [[Flancia]]
+  - I started [[The Foundation of Buddhist Practice]] by [[Bhiksu]] [[Tenzin Gyatso]] and [[Bhiksuni]] [[Thubten Chodron]]
+    - I liked the previous volume, [[Approaching the Buddhist Path]], a lot.
+  - [[Flancia meet]]
+  - [[2023]]
+    - [ ] this should pull Jerry's plans from [[rel8]]
+- [[living utopia]]
+- [[pesho]]
+  - [[coop news]] ~ [[news coops]]
+  - [[innovator's dilemma]]
+
+
+
+========================================
+FILE: journal/2023-01-15.md
+========================================
+
+- I had a great time yesterday :)
+- Today I'm a bit tired but happy, focusing on doing housework, resting and enjoying the moment.
+  - I'll try to do some reading and writing today.
+  - And practice piano.
+  - Already did laundry :)
+- [[birthdays]]
+- #push [[17]]
+  - [[gate gate paragate parasamgate bodhi svaha]]
+    - We will [[cross that river]], [[build that bridge]], [[cross that threshold]], for the benefit of sentient beings.
+    - In Flancia we'll grow and live kindly.
+- #push [[flancia]]
+  - A [[Flancian]] is someone who believes we'll [[defeat Moloch]] one way or another.
+  - It is through the [[kind]], [[rational]], [[distributed]] use of the [[Commons]] we'll manage to leave [[Moloch]] in the dust if we have to.
+  - The [[Agora]] is a [[knowledge commons]] we're trying to build with the intention to help [[disentangle Moloch]] from humanity.
+  - -> [[tres consignas]] que son cuatro, son muchas.
+- [[write]]
+  - [[7]], [[17]], [[23]], [[49]], [[51]] :)
+  - [x] to [[friends]]
+  - [x] to my brother (happened on [[2023-01-22]] finally :))
+    - [x] to get a next appointment with my therapist, I took a break over November/December.
+  - #push [[2023-02-04]]
+    - [ ] I sent an email for the above but I have to follow up on that thread
+  - [x] agora chapter addendum
+  - #push [[2023-02-09]]
+    - [ ] nines (likely tomorrow)
+
+
+
+========================================
+FILE: journal/2023-01-16.md
+========================================
+
+- [[work]]
+  - worked from home today :)
+- [[flancia]]
+  - [[yoga with x]]
+    - [[center]] day 15
+  - [[agora chapter]] additions with suggestion mode? light only?
+    - [ ] add sixdegrees and indymedia, reference [[another social network is possible]]
+- [[pomodoros]]
+  - [ ] maybe write to my brother
+  - [ ] get that appointment!
+  - [ ] 
+
+
+
+========================================
+FILE: journal/2023-01-17.md
+========================================
+
+- [[work]]
+  - [ ] until 20
+- [[flancia]]
+  - [[agora chapter]]
+    - [ ] need to cut it by 3k words because I was silly and I didn't keep track of word count while editing :)
+    - [[George Anadiotis]] recommended [[docs to markdown]]
+  - #push [[agora]]
+    - En el [[Ágora]] hay dos flechas.
+      - Una [[roja]], una [[verde]].
+      - La roja es [[Maitreya]].
+      - La verde es [[Avalokiteshvara]].
+    - En el [[Ágora]] hay tres flechas.
+      - El [[Ágora]] es [[naranja]].
+
+Deep into the night we'll go. It's [[22]] and I'll gladly do [[four pomodoros]] for the [[revolution]] tonight.
+
+Good anarchists of the world unite!
+
+
+
+========================================
+FILE: journal/2023-01-18.md
+========================================
+
+- [[agora chapter appendix]]
+
+
+
+========================================
+FILE: journal/2023-01-20.md
+========================================
+
+- today is [[51]] of [[december]].
+  - [[three Maitreyas]]
+  - I had marked this day as special ahead of time :)
+  - of course many days are special.
+- [[work]]
+  - [[google fires 12000 people]]
+- [[flancia]]
+  - need to finish cutting down [[Agora Chapter]] to [[10k words]] tonight.
+    - seeding [[Agora Chapter Appendix]]
+    - factored out list to [[Node Club]].
+    - 600 words to go
+  - #push [[burn]]
+    - a [[poem]]:
+      - [[Burn, burn burn]].
+      - [[Burn for the greater good]].
+      - [[Burn kindly]].
+      - [[If you have to burn, burn kindly]].
+      - This I tell you as a [[Flancian]] in the [[Agora of Flancia]].
+  - -> [[Collected Poetry]].
+    - :)
+  - [[yoga with x]]
+    - [[center]] 18, 19, 20 this weekend?
+  
+
+
+
+========================================
+FILE: journal/2023-01-21.md
+========================================
+
+- [[flancia]]
+  - [[bouncepaw]]
+    - issues with [[lesarbr.es]] unfortunately, contacted namecheap
+    - [[betula]]
+  - [[agora]]
+    - [[yoga with x]]
+      - [[center]]
+    - [[agora chapter]]
+      - [[Agora space]]
+      - [[agora appendix]]
+      - [[The Agora: a Knowledge Commons]]
+    - [[agora playlist edit]]
+
+
+
+========================================
+FILE: journal/2023-01-22.md
+========================================
+
+- [[2023-01-21]]
+- doing some more laundry and things around the house, but [[agora chapter]] is my actual focus today :)
+  - [x] need to remove links
+    - wanted to try to do it with [[apps script]] but I'm finding it a bit limited?
+    - this yielded [[agora chapter unlinked]], a [[fork]] of [[agora chapter]] for publishing in the [[personal knowledge graphs]] book
+    - [[apps script unlink]]
+  - [ ] add reference for [[three gates of speech]] and any others that are still needed
+  - [ ] add reference to [[indy wiki]], [[cosma], anything else?
+  - [ ] code graph toggle
+- [[yoga with x]] :)
+- misc.
+  - [x] order coffee from utopia
+  - [x] write to my brother 
+  - [ ] book appointment with therapist
+  - [[nocturnal garden]] bug report?
+    - moved to [[bamboo garden]]
+
+
+
+========================================
+FILE: journal/2023-01-23.md
+========================================
+
+- I had a nice weekend, now back to [[work]]... while I have a job :)
+  - Removed links (using [[apps script]]) and added some more references in [[agora chapter]].
+  - Forked into [[agora chapter unlinked]], at least for now.
+  - Seeded [[collected poetry]] :)
+- Started reading about [[category theory]] again this weekend, still interesting. I'd like to make a serious effort this 2023.
+  - #push [[category theory]]
+    - resources
+      - [[ncatlab]] ~ https://ncatlab.org
+    - papers
+      - [[a rosetta stone]]
+      - [[hypergraph categories]] ~ https://arxiv.org/abs/1806.08304
+
+
+
+========================================
+FILE: journal/2023-01-25.md
+========================================
+
+- [[work]]
+  - a bit of a slog due to low energy all around (the layoffs).
+  - but it went.
+- [[yoga with x]]
+  - [[center]] day 24 (n-1)
+- #push [[google]]
+  - [[google 12000]]
+- [[red garland]]
+  - [[red alone]]
+
+I cut my hair tonight, and I felt better.
+
+I started writing two things about what's happening at [[Google]].
+
+
+
+========================================
+FILE: journal/2023-01-26.md
+========================================
+
+- [[coco]]
+- [[work]]
+- [[yoga with x]]
+  - [[center]]
+
+
+
+========================================
+FILE: journal/2023-01-27.md
+========================================
+
+- I keep linking by mistake to e.g. [[2022-01-27]] (the same date on 2022) when I don't pay attention.
+  - Which has the added advantage that it reminds me what I was doing a year ago. I like that.
+  - Thinking of adding that as a feature somehow? "[[On this date]] some other year, in this Agora..."
+- #push [[backnoded]]
+  - I've been not getting to noding, in particular journaling, some days as of late.
+  - If this were a blog I'd be worried, but because it's [[a garden in an Agora]] I'm not :)
+- #push [[work]]
+  - The decline of [[Google]] is the topic in everybody's mouths.
+- Saw [[kris]] after work, we watched the beginning of [[Blade Runner]].
+
+
+
+========================================
+FILE: journal/2023-01-28.md
+========================================
+
+- Previously: [[2023-01-27]]
+- [[bouncepaw]]
+  - [[nu genea]] 
+  - #push [[celeste]]
+    - the goal of the game is to reach the summit of a mountain
+    - T livestreams in [[celeste summit]]
+      - [[CLI]] joined!
+        - [[holocene calendar]]
+        - [[changbai]] in [[merveilles]]
+  - working on [[betula]]
+  - [[betula in agora]] \o/
+  - uses [[GoLand]] as an IDE
+    - using [[sqlite]] in [[betula]] as well
+- #push [[do]]
+  - [x] work on [[agora chapter]]
+    - [x] go over latest batch of comments
+  - [ ] add [[mycomarkup]] support in anagora.org
+  - [ ] fix pushes in agor.ai
+    - this probably requires moving to a non-dev setup, which makes complete sense
+  - [ ] make [[agora of flancia/steward]] (i.e. compound queries) actually work in any way :)
+- [[yoga with x]]
+  - [[center]]
+- [[flancia]]
+  - [[agora chapter]]
+    - [[krakauer]]
+
+
+
+========================================
+FILE: journal/2023-01-29.md
+========================================
+
+- Today is [[29]], which means [[Drishti]] -- and points to my "focus days" of the month. The next one is [[31]], [[Las Jaras]]. Which makes me think:
+- [[celeste summit]] yesterday [[2023-01-28]] was great, thank you [[@melanocarpa]]!
+- #push [[agora chapter]]
+  - [[Davic C. Krakeuer]] -> [[Donald Norman]]
+- [[social coop]]
+  - [x] [[registrations]]
+  - [x] [[moderation]]
+- [[flancia]]
+  - #push [[5]]
+    - [[commons]] (an Agora)
+  - #push [[7]] 
+    - [[avalokiteshvara]]
+  - #push [[17]]
+    - [[maitreya]]
+- #push [[Breck Yunits]]
+  - [[scroll]]
+  - [[tree notation]]
+- [[Gloria]]
+- [[yoga with x]]
+  - [[center]]
+
+Tengo dos [[jaras]]:
+
+Flancia y el Ágora.
+
+
+
+========================================
+FILE: journal/2023-01-31.md
+========================================
+
+- [[31]] ~ [[Las Jaras]]
+
+> Ay, quién fuera
+> una flecha derecha
+> volando hacia el corazón de [[Moloch]]!
+
+- [[work]]
+  - Nobody in ZRH knows for certain if we will have a job next month or the month after that, and this situation will persist for at least four more weeks it seems.
+  - Still, work goes on.
+- [[flancia]]
+  - [[social coop]]
+    - the [[migration]] to [[rhizome]] yesterday went great!
+    - thanks to [[Akshay]] who did *a ton* of work on the [[ansible]] playbooks and led the whole migration process!
+- #push [[31]]
+  - [[7]] + [[7]] + [[17]]
+  - it makes sense to think of primes as sums, as I usually think of composites as the product of primes (their factorization), so this is nicely complementary.
+- [[yoga with x]]
+  - [[center]] 30
+
+- The 31st of January is the 0th of February.
+  - #push [[0]] 
+    - [[bootstrap]]
+    - [[7]] [[avalokiteshvara]]
+    - [[17]] maitreya
+  - [[47]]
+  - We will defeat [[Moloch]].
+
+
+
+========================================
+FILE: journal/2023-02-02.md
+========================================
+
+- #push [[Moloch]]
+  - I say [[maybe we will slay Moloch tonight]]
+- #push [[moa]]
+  - [[moa tasks]]
+
+
+
+========================================
+FILE: journal/2023-02-03.md
+========================================
+
+- [[work]]
+  - [[Aparna]] talked to my organization as an actual good leader today. A breath of fresh air after the disappointing Town Hall last week.
+- [[social coop]]
+  - Great [[CWG]] meeting!
+  - My comrades inspire me.
+- #push [[69]]
+  - [[tres burups]]
+    - un [[cuento]].
+- #push [[119]]
+  - [[open letters]]
+  - 17 * 7 ~ [[Maitreya]] * [[Avalokiteshvara]]
+- I bought a [[braided]] [[pachira]]
+- #push [[group mathematics]]
+  - I'd love to read more about [[groups]] as a mathematical entity.
+  - > In [[mathematics]], a [[group]] is a set and an operation that combines any two elements of the set to produce a third element of the set, in such a way that the operation is associative, an identity element exists and every element has an inverse. 
+  - > These three axioms hold for [[number systems]] and many other mathematical structures. For example, the integers together with the addition operation form a group.
+- I assembled [[lego]] today.
+  - [[mimesis]]
+- #push [[bouncepaw]]
+  - [[fotl]]
+  - [[lion kimbro]]
+  - [[kartiak agaram]]
+- #push [[weekend]]
+  - [ ] finish [[agora chapter]]
+    - looking pretty good / much better, I am told :)
+  - [ ] write [[letter to a]]
+    - already started on it!
+
+
+
+========================================
+FILE: journal/2023-02-04.md
+========================================
+
+- I guess I've never told you what I [[believe]] all in one place or meet, except if you count the [[Agora]].
+  - One approximation: [[Buddhism]] plus an awareness of the [[multiverse]] as and [[dust theory]] as a hypohesis that could explain in a way the existence of the universe and, within it, consciousness arising.
+
+
+
+========================================
+FILE: journal/2023-02-05.md
+========================================
+
+- [[flancia meet]]
+  - so nice to see [[neil]]!
+  - #push [[agora 2023]]
+    - how to do [[project planning]]?
+    - we will try to find a workflow that is intuitive yet also feeds back into the Agora.
+    - previous work:
+      - [[go/agora/bugs]]
+      - [[go/agora-server/bugs]]
+      - [[go/agora-bridge/bugs]]
+      - [[agora plan]]
+      - [[do]]
+    - [[fellowships]]
+      - N. got through to the interview stage in a call for projects.
+      - Research project with [[Open University]]. [[Reclaiming the stacks]]
+        - how [[ICT]] workers]] have to reclaim tech stacks from corporations towards a sustainable future.
+        - the main output would be a [[handbook]] focused on praxis.
+        - could use an instance of an [[agora]] for working on this/presenting this.
+        - open questions
+          - why/how to segregate content between agoras?
+          - [[recursive federation]]?
+        - [ ] set up [[reclaim]] agor.ai
+    - [[ocoeur]] https://www.youtube.com/watch?v=3HomIcyF2_w
+ 
+
+
+
+========================================
+FILE: journal/2023-02-06.md
+========================================
+
+- Back noded.
+- Worked from home.
+- Talked to [[kris]].
+- Did [[yoga]], [[go/center/6]]. Great for core work!
+
+
+
+========================================
+FILE: journal/2023-02-07.md
+========================================
+
+- [[2023-02-06]]
+  - "previously..."
+- [[kris]]
+  - it was nice talking
+- [[work]]
+  - is all right
+  - I'm happy with either future :)
+- [[flancia]]
+  - [[avalokiteshvara]]
+    - as a game
+      - also leads to [[counting game]]
+  - [[moa]]
+    - [[shutdown]] discussed with [[boris mann]] and chat room
+  - [[social coop]]
+    - [[mayel]]
+    - [[open chat room]]
+    - [[revolution]]
+  - [[agora]]
+    - [[agora chapter
+      - [ ] starting around 11pm tonight
+  - [[mohammed]]
+    - new transfer try
+    - [[western union]] has been difficult for no obvious reason! we keep having to provide ID pictures, etc. it happens all the time but eventually it's always come through. so far.
+  - [[vera]]
+    - I'm so glad she's back!
+  - [[neil]]
+  - [[revolution]]
+  - [[calendario]]
+    - [[revolucionario]]
+
+
+
+========================================
+FILE: journal/2023-02-08.md
+========================================
+
+- #push [[soft focus]]
+  - [[slow focus]]
+- [[three gates of speech]]
+- [[work]]
+- [[flancia]]
+  - [x] [[fellowship of the link]]
+    - awesome as usual!
+  - [[moa]]
+    - [x] shutdown session with [[bmann]]
+    - deferred but had a discussion
+  - [[agora]]
+    - [ ] work on new [[agora chapter]] comments
+    - wrote to the publisher to request a small contract update
+    - this-is-it actual deadline is Friday
+
+
+
+========================================
+FILE: journal/2023-02-09.md
+========================================
+
+- #push [[twitter]]
+  - really messed up the [[twitter api changes]] it seems!
+  - Twitter was down, even DMs, for me all evening of [[2023-02-08]].
+- Corrected time on [[flancia meet]].
+
+
+
+========================================
+FILE: journal/2023-02-10.md
+========================================
+
+- [[2022-02-09]] was eventful
+- [[work]]
+- #push [[flancia]]
+  - [[pomodoros]]
+    - go link isn't working
+    - it turns out it's because it doesn't exist :)
+    - but for some reason the Agora is giving a server errors instead of redirecting to [[pomodoros]] as it does in most nodes
+    - [ ] fix [[bug]] ^ :)
+- [[toots]]
+
+
+
+========================================
+FILE: journal/2023-02-11.md
+========================================
+
+- [[flancia meet]]
+  - I talked to [[mohammed]] ~ [[aldhari]], it was great!
+  - [[pomodoros]]
+    - [[do]]
+    - [x] pomodoro zero with neil!
+    - [x] pomodoro one with neil!
+    - [x] pomodoro two with neil!
+    - ...
+    - pomodoros with [[neil]] and [[sab]] ~ [[kale cream]]
+  - [[rests]]
+    - [[neil]] told me about [[systems thinking for kids]]
+    - [[coffee]]
+    - [[decent social]]
+- [[decent social]] today!
+
+
+
+========================================
+FILE: journal/2023-02-12.md
+========================================
+
+- [[2023-02-12]]
+  - [[apps script]]
+  - closed some remaining comments!
+- I had a great time with [[Kris]].
+- [[pomodoros]]
+- [[agora resources]]
+  - #push [[agora chapter]]
+    - [[rdf]]
+      - #push [[rdf primer]]
+        - #go https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/
+    - [[flow networks]]
+
+
+
+========================================
+FILE: journal/2023-02-17.md
+========================================
+
+- #push [[dfw]]
+  - I spoke about [[David Foster Wallace]] with [[Dora]].
+    - She recommended https://fs.blog/david-foster-wallace-this-is-water/.
+- #push [[agua]]
+  - a [[poem]].
+- #push [[las jaras]]
+  - a [[poem]].
+- #push [[Gloria]]
+  - a [[poem]]
+- #push [[Merge]]
+  - a [[poem]].
+- #push [[Please]]
+  - [[a poem]].
+- #push [[Beyond Markdown on Git]]
+  - an [[essay]].
+  - it is armed with the [[minimum viable knowledge commons]] we'll [[disentangle Moloch]] from #humanity and our [[friends]].
+  - [[Markdown on Git]] is good enough and it already exists, but what lies beyond?
+  - Maybe [[Mycoformat]]?
+    - [[Mycomarkup]] on [[Git]] and [[Sqlite]]?
+- #push [[Existence]]
+  - a [[poem]].
+- [[yoga]]
+  - [[go/center/17]] ~ [[move]], which makes me think of [[go/move/17]] and all -- it's like a link between [[center]] (the 30 days of yoga for 2023) and [[move]] (for 2022).
+=> [[2023-02-18]]
+
+
+
+========================================
+FILE: journal/2023-02-18.md
+========================================
+
+- What was tomorrow will be today.
+- [[Flancia]]
+  - [[Yoga with X]]
+    - [[go/center/17]] after midnight was great.
+  - Then we played with [[Lady Burup]]!
+- [[barranco]] (from an old notebook, I did a lot of organization/cleanup tonight!)
+- [[pesho]]
+  - told me about [[mdbook]] and [[flowershow]]
+- [[fotl]]
+  - [[ogm]]
+  - [ ] import [[jerry's brain]] into fotl.agor.ai with sources.yaml containing "only" (ha) that, Jerry's Obsidian notes, rel8, [[peter kaminski]]'s garden (where?), flancian, …?
+
+
+
+========================================
+FILE: journal/2023-02-19.md
+========================================
+
+- [[ana stone]]
+- [[kris]]
+- [[social.coop]]
+  - [[meet.coop]] thread with [[akshay]] and [[mike hales]]
+- #push [[wayland]]
+  - [[wayland umami]]
+  - I use [[wayvnc]] to do remote desktop as of the time of writing
+    - [ ] autostart [[wayvnc]]
+  - experimenting with moving also [[nostromo]] (the computer "to my back") to it
+- #push [[flancia]]
+  - [[0]]
+    - Gloria!
+    - [[Gracias a Buda]]
+    - [[Bootstrap]]
+  - #1
+    - [[Flancia]]
+    - [[Gloria a las maravillas del universo]]
+  - #2
+    - [[Agora]]
+    - [[Fork]]
+    - [[Symmetry]]
+  - #3
+    - [[Merge]]
+    - [[Build]]
+  - #4
+    - [[Fork, fork]]
+    - [[Four Noble Truths]]
+  - #5
+    - [[Focus]]
+    - [[Lights]]
+    - The [[Commons]].
+  - #6
+    - [[As we fork we'll merge]].
+  - #7
+    - [[Avalokiteshvara]]
+    - [[Compassion]]
+  - #8
+    - [[Siddharta Gautama]]
+    - The [[Eightfold Path]]
+  - #9
+    - [[Loving Kindness]]
+    - [[May you be happy]]
+  - #10
+    - [[Right View]]
+      - #pull [[Thich Nhat Hanh]]
+    - [[Fork our lights]] -> [[Reflection]]
+    - [[Fork the Commons]]
+  - #11
+    - [[Right Resolve]], [[Right Thinking]]
+  - #12
+    - [[Right Speech]]
+  - #13
+    - [[Right Conduct]]
+    - [[Simulation]]
+    - [[Simulation contract]]
+  - #14
+    - [[Right Livelihood]]
+  - #15
+    - [[Right Effort]]
+  - #16
+    - [[Right Mindfulness]]
+  - #17
+    - [[Right Concentration]]
+    - [[Maitreya]]
+    - My favourite number as of 2023, which incidentally is 7 * 17 * 17
+      - [[Two Maitreyas]], One [[Avalokiteshvara]]
+  - #18
+    - [[Right Understanding]]
+  - #19 
+    - [[Right Freedom]]
+    - The [[Revolution]] is a composition of [[Reforms]]
+    - Gloria a los oprimidos, gloria a los liberados
+    - #push [[2]]
+      - Qué bella es la [[Simetría]] en el universo
+      - Dos ojos que se miran en el espejo, dos hemisferios del cerebro humano
+    - #push [[10]]
+      - [[As we fork we'll merge]]
+  - #20
+    - [[Four lights]]
+    - [[Four commons]]
+    - [[Next action]]
+  - #21
+    - [[Merge]] with [[compassion]]
+    - [[Building Bridges]]
+  - #22
+    - Fork our [[Right Resolve]]
+  - #23
+    - [[Lady Burup]]
+  - #24
+    - Fork our [[Right Speech]]
+    - Fork, merge, then keep forking
+  - #25
+    - Focus on our focus
+    - [[Consciousness]]
+  - #26
+    - Fork our [[Right Conduct]]
+  - #27
+    - [[Loving Kindness]]
+    - As we merge we'll [[build]]
+    - As we merge we'll [[entangle]]
+  - #28
+    - Fork our [[Right Livelihood]]
+    - Four [[Avalokiteshvaras]].
+  - #29
+    - My [[Drishti]] 
+      - Which points to other [[Drishtis]]
+  - #30
+    - As we fork we'll merge the [[Commons]]
+    - As we fork we'll merge our [[Lights]]
+    - As we #fork we'll #merge, we'll [[Execute]]
+
+
+
+
+========================================
+FILE: journal/2023-02-20.md
+========================================
+
+- #Work
+  - One week left maybe; I'd bet the layoffs in ZRH will be announced in one of these dates:
+    - 27 February (Monday, the day the compulsory consultation with the employee representation group ends)
+    - 3 March (Friday, the first Friday it's feasible)
+    - From the two guesses I'd go with 3 March because it'd be the 31st of February: [[Las Jaras]].
+- #Flancia
+  - Played with [[numbers]] -- I like where it's going I think?
+    - [[17]] would be an entry point, but I like to think of it as having infinitely many -- like the Agora it seeks to illustrate :)
+  - #Agora
+    - [[Open Letter to the Agora]]
+
+
+
+========================================
+FILE: journal/2023-02-21.md
+========================================
+
+- [[21]] means [[Building Bridges]] in the #Flancia [[Pattern Language]].
+  - It took me a while to realize that Flancia is a Pattern Language, but there it is. [[17]]
+- [[Work]] ~ [[Google]]
+  - Maybe my last Wednesday at Google if I get fired as part of the layoffs; I estimate the earliest they could happen is 27 February, with 3 March being most likely based on my current knowledge.
+- [[Flancia]]
+  - [[Sides]]
+    - In Flancia there are two sides,
+    - two sides which are many,
+    - like those in the human brain
+    - and in our [[collectives]]
+  - [[Open Letters]]
+    - [[Open Letter to Google]]
+    - [[Open Letter to the Agora]]
+  - [[Las Jaras]]
+    - Tengo dos jaras 
+    - que son tres,
+    - pegan cuatro,
+    - dan cinco.
+
+[[V]] fixed https://agor.ai, is doing awesome stuff in the containers space.
+
+I want to work on:
+
+- [[Try elsewhere]], a button that in anagora.org would send the user to the same node on agor.ai (which is the more modern containerized Agora, and is slated to actually be an Agora Network: it will serve/redirect to services including different Agoras in its subdomains.)
+- [[Autopush]], as evidenced by the optimistic structure of the Agora Protocol section above.
+  - This also means (only due to polysemy) autopushing bot activity to git, which I also want to do.
+- [[Executable Subnodes]], which IIRC are close to ship (with an allowlist).
+  - Which should yield features like primes/ and *site navigation* maybe? I've been thinking 'previous' and 'next' could be done as executable subnodes for the fun of it?
+  - But maybe I should not fool around so much and navigation should just go in, say, providers.py, as we need a regex determining which script to run for dates.
+  - Then again executable subnodes would be cool for [[artsy]] stuff, like generating text (e.g. generative poems) or images ('use js to write to a canvas straight in your garden').
+- Various bug fixes I've been meaning to do for a while, like the Mastodon bot writing links/text in a format that reads a bit better and preserves wikilinks (!) and not autopulling the stoa as it's unfortunately too distracting given the focus-grabbing (could this be fixed instead?).
+
+
+
+========================================
+FILE: journal/2023-02-23.md
+========================================
+
+- [[work]]
+  - worked after hours for a bit, it was fine.
+  - it seems likely layoffs probably won't happen here for another two full weeks at least.
+- [[007bistromath]]
+  - [[chatgpt]]
+    - [[the revolution according to chatgpt]]
+      - really not bad considering the very concise, off-the-cuff prompt!
+- [[work]]
+  - Thursday with lots of meetings, but they were OK -- I like 1:1s and small meetings more than larger ones on average (?)
+  - I like talking to my coworkers; they are honestly great. I will miss them if I get laid off. But that would still be fine, as they will continue existing regardless of whether we work in the same group on weekdays :)
+- [[agora]]
+  - [[pkg book]] [[agora chapter]]
+    - got the result of the last round of editing in a [[docx]] and it's great! thanks to Rob
+  - [[fediverse]]
+  - [[tootfinder]], opt in search for the [[fediverse]], what I was looking for! surfaced by [[traducoop]]
+  - [[prompt router]] seems promising
+- [[flancia]]
+  - [[prompts]]
+    - I liked [[Scott Aaronson]]'s article on [[ChatGPT]].
+    - At the same time I saw [[ChatGPT]] called the [[ultimate mansplainer]].
+    - Both takes are right in a way, but I think the second one feels a bit conservative to me whereas the first one feels liberal.
+  - [[books]]
+    - Isn't it funny we are at a point in which some discount [[LLM]]s as "just learning from a corpus and repeating/combining information found there" at the same time we still regularly call books, in particular those read in our youth, formative? At the same time we can observe society to be thoroughly shaped by the language, culture, knowledge preserved and presented to us primarily in the form of [[books]]?
+    - But of course I'm fond of calling books the [[Slow Internet]].
+  - [[agora]]
+    - [[agora bot]] for mastodon broke because it ran out of lists -- I thought I had "done enough" by making it remove a list every time it added one (we use them to get a timeline of followers, I forget exactly why), but clearly that was not correct. The dates on the 'leftover' lists' made me think deleting lists fails on certain days, every run for a few hours -- weird.
+    - Turns out it was also pretty broken to begin with -- for example it was only working for 40 users because that's how many a call to get_followers returns by default (!). I need to work on this bot further and that's OK, I enjoy coding for the Fediverse :)
+
+
+
+========================================
+FILE: journal/2023-02-25.md
+========================================
+
+- [[flancia meet]]
+  - nobody showed but I didn't announce it explicitly so I sort of expected that.
+  - had a slow morning, started doing laundry earlier than usual; it felt nice :)
+- [[projectm]]
+  - installed [[projectm]] again on a lark yesterday in [[nostromo]], it goes very well with fractal mode.
+    - I'm doing fractal mode (recursive screen) with [[wayland]] and [[wlvnc]] and it's very pleasant.
+  - #push [[flatpak]]
+    - I used [[flatpak]] to install [[projectm]] as it seemed like a fair use case after I didn't immediately find the frontend I was expecting in the Ubuntu packages. My main two pet peeves with Flatpak remain, one palliated.
+- [[Flancia]]
+  - going to [[Lausanne]] tonight for [[Greg]]'s birthday.
+  - Will be jotting down thoughts in [[train to lausanne]].
+  - [[Agora]]
+    - I want to review the [[copyedit]] of [[Agora Chapter]] which I got back on Thursday.
+      - Unsure how many pomodoros this will be, likely several?
+        - [x] one
+        - [ ] two
+        - [ ] three
+    - I want to code a bit.
+      - Maybe install [[manim]] and something like it better geared towards doing large graph visualizations and start playing?
+      - [x] Ended up reading about [[networkx]], [[igraph]], [[graph tool]] -- all interesting. [[networkx]] is all python, whereas the others are python libraries calling to a C++ implementation and scale better (at least this applies to [[graph tool]] IIRC.)
+- [[chatgpt]]
+- [[bard]]
+
+
+
+========================================
+FILE: journal/2023-02-26.md
+========================================
+
+- On the train back from [[Lausanne]] after midnight.
+  - Very nice party!
+  - [[Agora]]
+    - I want to review the [[copyedit]] of [[Agora Chapter]] which I got back on Thursday.
+      - Unsure how many pomodoros this will be, likely several?
+        - [x] one
+        - [x] two
+        - [x] three
+        - [[Agora Chapter Final]] has a link to the publication version, thank you [[Rob]] for copyediting and improving and everybody involved in the [[PKG Book]]!
+    - I want to code a bit.
+      - Maybe install [[manim]] and something like it better geared towards doing large graph visualizations and start playing?
+      - [x] Ended up reading about [[networkx]], [[igraph]], [[graph tool]] -- all interesting. [[networkx]] is all python, whereas the others are python libraries calling to a C++ implementation and scale better (at least this applies to [[graph tool]] IIRC.)
+      - [ ] [[bokeh]] also looks very nice and it seems to provide a path to interactive visualizations, which sound like a must to me
+      - [ ] [[3d force graph]] in javascript/client side also are probably worth experimenting with, although I'm unsure if it'll work any better than regular [[force graph]] for the large full-Agora graph.
+
+Suddenly you find yourself in an Agora.
+
+Ahead of you there's a [[fork]].
+
+[[The Agora is a garden of forking paths]].
+
+=> [[Agora Space]]
+
+
+
+========================================
+FILE: journal/2023-02-27.md
+========================================
+
+- [[work]]
+  - Monday but relatively looking forward to it.
+- [[flancia]]
+  - [ ] Continue playing with [[graphs]]?
+  - [ ] Write [[open letters]]?
+  - [ ] Yoga (I've been doing it for two years, short sessions but 5x a week, and it works great)
+  - [[Buddhism]]
+    - #push [[Tipitaka]]
+      - [[Sutta Pitaka]]
+        - [[Numerical Discourses of the Buddha]]
+          - [[Great review by T Sharp]]
+      - [[Vinaya Pitaka]]
+      - [[Abhidhamma Pitaka]]
+
+
+
+========================================
+FILE: journal/2023-02-28.md
+========================================
+
+- [[work]]
+  - [[partitioning]]
+    - [ ] prepare for [[p10g]] meeting tomorrow
+    - [ ] prepare [[talk]] for tomorrow
+- [[flancia]]
+  - [[agora]]
+    - [[open letters]]
+    - try [[3d force graph]] quickly to see if it fares better than the 2d one for the whole-Agora graph? It seems unlikely but not impossible.
+
+
+
+========================================
+FILE: journal/2023-03-02.md
+========================================
+
+- [[work]]
+  - [[pizza night]]
+- [[agora]]
+  - Are [[flow networks]] one of the most important concepts or is it just me? In particular when used for modeling [[value flows]].
+  - The Agora is a network that tries to flow resources for good.
+    - For the good of the user, for the good of the people.
+  - [[mantras]]
+
+
+
+========================================
+FILE: journal/2023-03-03.md
+========================================
+
+- Day off, making this a long weekend and travelling to [[München]] to meet friends and disconnect a bit!
+  - And by disconnect I mean maybe be more offline, although maybe also I will end up writing in the Agora and that's completely OK.
+  - I'm currently on the train to [[Munich]], looking a bit like a zombie (bags under my eyes) and feeling a bit sleeping, but happy. Through the window I can see the fields of [[Jura]].
+- [[Flancia]]
+  - [[Agora]]
+    - [[open letters]]
+  - [[Buddhism]]
+    - I continued reading about the [[Tripitaka]].
+    - TIL [[Faxian]] started his journey on foot from China to India when he was 60.
+- [[Myanmar]]
+  - I remembered we considered going to Myanmar back when we were in Thailand (2016?) and would still love to go some day.
+- #push [[Category Theory]]
+  - Continuing reading [[A Rosetta Stone]]: https://via.hypothes.is/https://arxiv.org/pdf/0903.0340.pdf
+    - After 1.5y (!) -- time flies indeed.
+    - Re-read [[cobordism]] as it keeps being hard to grasp :) I think I need to review more examples of the [[cobordism]] category?
+      - It's striking that one of the canonical representations of a cobordism looks like a pipe forking. Yesterday night I was reading/writing about [[flow networks]].
+    - Is category theory the study of change?
+    - > "A general science of [[systems]] and [[processes]]"
+  
+I will write [[Building Bridges]] -- some day? What does it mean by now? I've thought about it many times, and by now I wonder if when I actually start writing it it will just flow out from me -- or it won't.
+
+
+
+========================================
+FILE: journal/2023-03-06.md
+========================================
+
+- Had a lovely time in [[München]] with old and new friends!
+  - Travel back took 4h, it was lovely.
+  - I have tomorrow off at work; I have five months of vacation saved up. I would usually take the whole week off (there's a number of things I've been waiting to have the time for and I feel some vacation at this point is acceptable), but I want to spend time with my coworkers to try to support them (support each other) as we face what might be the last week all together (they [[lay off]] list is expected to be finally announced, after a month and a half of uncertainty.
+- [[Flancia]]
+  - What I intend to write this year:
+    - [[Flancia 2023]]
+      - [[Revolution]].
+      - [[Bargalló]] [[Carlas Sala]]
+    - [[Agora 2023]]
+      - [[Building Bridges]]
+        - with Markdown and Git
+      - [[Beyond Markdown and Git]]
+- [[ocell]]
+
+
+
+========================================
+FILE: journal/2023-03-07.md
+========================================
+
+- 7 is [[Avalokiteshvara]]
+  - [[Compassion]]
+- [[Flancia]]
+  - [[Rainbow Folding]]
+  - [[Fork]]
+    - [[Agora]]
+      - [[Building Bridges]]
+      - [[Beyond Markdown and Git]]
+    - [[Google]]
+      - [[What Google Could Be]]
+  - [[Gould]]
+  - [[social coop]]
+    - [[social coop matrix bridge]]
+
+
+
+========================================
+FILE: journal/2023-03-08.md
+========================================
+
+- [[work]]
+  - Back to work after three days off.
+  - Relatively meetings-light day, which is nice for a change. I need to prepare a presentation for tomorrow though.
+  - [[slides]]
+- #push [[fellowship of the link]]
+  - [[shared notes across six tools]]
+  - [[chris aldrich]]
+    - on notifications *back* from the Agora: watching nodes in the Agora
+- [[flancia]]
+  - [[gone gone gone]]
+
+
+
+========================================
+FILE: journal/2023-03-09.md
+========================================
+
+- [[xoogler table]]
+- [[taixu]]
+- [[flancia meet]]
+  - [[armengol]]
+
+
+
+========================================
+FILE: journal/2023-03-10.md
+========================================
+
+- [[work]]
+  - no meetings day! \o/
+- [[flancia]]
+  - [[Lady Burup]]
+  - [[Agora]]
+    - I'm thinking I should try to move back to [[logseq]]. I want the project to do well and I gave up on it temporarily to explore the landscape, but I've been using [[wiki vim]] probably for about a year now.
+
+
+
+========================================
+FILE: journal/2023-03-11.md
+========================================
+
+- [[2023-03-10]] [[2023-03-09]]
+- #push [[flancia]]
+  - #push [[taixu]]
+    - [[maitreya school]]
+    - [[disciples]] 
+      - [[Dongchu]] 
+      - [[Yin Shun]] 
+        - [[Cheng Yen]]
+          -> [[Tzu Chi]]
+  - #push [[flancia meet]]
+    - I had a lovely time catching up with [[armengol]] ~ [[armengolaltayo]]!
+    - #push [[spinach]] 
+      - [[academic urban legends]]
+    - [[fellowship of the link]]
+    - [[philosophy]]
+    - [[modules]]
+    - [[agora]]
+    - [[router]]
+    - [[pattern languages]]
+  - [[social coop]] and [[agor.ai]]
+    - [ ] install [[coop cloud]]
+      - [x] install abra
+- [[Feynman diagram]]
+  -> [[A Rosetta Stone]]
+- [[work]]
+  - some light scheduling and sharing, enjoyed it
+  - #push [[SRE]]
+    - [[xoogler table]]
+    - [[xoogler sre]]
+- #push [[Tres Maitreyas]]
+  - Gone gone
+  - Everybody gone to the other shore
+  - gone kindly
+  - if you have to go, [[go kindly]]
+- #push [[premium chanachur]]
+  - a [[gift]].
+  - I like it a lot.
+  - https://bajarhaat.com/product/relite-premium-chanachur-special-jhal-400-gm/
+  - "special [[jhal]]"
+
+
+
+========================================
+FILE: journal/2023-03-12.md
+========================================
+
+- I had a great time yesterday working on [[social coop]] [[tech working group]] things until early in the morning :)
+- Today I plan to dedicate more to the [[Agora]] and to its [[Open Letters]].
+	- [[open letters to the Agora]] <- [[open letter to Avalokiteshvara]]
+- I'm writing this from [[logseq]] -- after very long :)
+	- Happy to be back!
+	- I missed:
+		- Being able to insert images (I think that *was* working? will test)
+		- Having more solid outliner mode (w.r.t. [[wiki vim]], which is great but a bit basic in this sense as far as I know how to use it)
+	- I am *very happy* to note that it seems *much* speedier than when I left. I can [[wikilink]] or [[inline link]] or [[internal link]] (we discussed names for this with [[vera]] today) and I get autocompletion within a reasonable timeframe. Earlier autocomplete had gotten slow enough I couldn't really link anymore.
+  - The graph view *completely crashes* it though, it's just unable to deal with my garden for some reason. I didn't think I was an outlier, maybe I link more than average?
+
+
+
+========================================
+FILE: journal/2023-03-13.md
+========================================
+
+- [[Work]] until ~21, although I had a [[social.coop]] meeting before my last meeting.
+	- It was all nice.
+- Slept very well at night.
+
+
+========================================
+FILE: journal/2023-03-14.md
+========================================
+
+- [[Chromium]] me dejó en banda de nuevo. No toma input; esto sucede una vez por mes en [[paramita]].
+- [[Yoga with X]] más temprano que durante el fin de semana, terminando hacia las diez, y estuvo bueno.
+- [[Trabajo]]
+	- Muy raro. Echaron a mi skip manager, uno de los mejores managers que conozco. No se entiende nada.
+- A mí me parece que la [[revolución]] se viene.
+	- Por [[Avalokiteshvara]]!
+- [[Flancia]]
+	- [[Flancia is a Pattern Language]]
+- [[Work]]
+	- Layoffs finally happened in [[ZRH]]. Four people affected in [[Workspace SRE]], including my skip-manager who is a great manager and person and a lovely SRE from a team adjacent to mine who was preparing for promo.
+	- Most people I talk to seem affected by both the silliness of the whole process and the relative relief that it's happened already, in light of the fact that it seemed unavoidable despite the employee representation group's best efforts at discussing alternatives with the corporation.
+- [[Open Letters]]
+	- [[Open Letter to Google]]
+
+
+========================================
+FILE: journal/2023-03-15.md
+========================================
+
+- [[work]]
+- [[flancia]]
+  - [[agora]]
+    - [[abra]] recipe?
+  - [[social coop]]
+    - [[mediawiki migration]]
+
+
+
+========================================
+FILE: journal/2023-03-16.md
+========================================
+
+- [[work]]
+  - I felt anger against the [[establishment]], the [[hierarchy]], the unseeing or uncaring [[state]].
+- [[anya]]
+- [[16]] is [[right mindfulness]]
+-
+[[Gracias, Buda]]!
+
+[[Gracias]].
+
+- A set of dice arrived today.
+  - I threw the d60 three times and I got:
+    - [[13]] [[right conduct]]
+    - [[16]] [[right mindfulness]]
+    - [[21]] [[building bridges]], or [[merge our compassion]]
+
+- My new credit card (the other one was disabled due to fraud; someone apparently managed to buy three gift cards in itunes with the previous one) arrived today and it was funny+sad how having it made me feel a re-upgrade as a citizen of a privileged country in late stage capitalism.
+
+
+
+========================================
+FILE: journal/2023-03-17.md
+========================================
+
+- [[17]] is [[Maitreya]] and [[Right Concentration]].
+- Lady Burup threw a [[d24]] three times and got 7, 23, 15 -- which in my numeric [[memory palace]] mean:
+  - [[7]]: [[Avalokiteshvara]] and [[Compassion]]
+  - [[23]]: [[Lady Burup]] herself
+  - [[15]]: [[Right Effort]] and [[3]]*[[5]]
+  - I call throwing dice with Lady Burup and seeing what comes up (well meaning) [[Chaos Magic]] :)
+- [[Work]]
+  - Low energy and I didn't finish my CL, I may choose to catch up over the weekend.
+  - But then again I'm low energy because they laid off three of my favorite people in my workgroup, so maybe I've been doing emotional work close to full time.
+  - I spoke at the [[walkout]] on Wednesday and I'm happy I did.
+- [[Flancia]]
+  - A bit of a chaotic night after work (as you can see by my playing with dice with Lady Burup :)) but I advanced some threads.
+  - I ended up shuffling some books which made me think I have many -- which is true, both in the sense of having them in my library I am [[privileged]], I posted about this today) and having *a lot* of books in 'started' state. I now have books in this state in essentially every room of the house. I probably need to turn the well meaning chaos into some more order, or channel the chaos into something constructive :)
+
+
+
+========================================
+FILE: journal/2023-03-18.md
+========================================
+
+- [[18]] is 2*3*3, [[Right Understanding]], [[may you be free from suffering]].
+- I started the day at midnight with some light yoga and playing with Lady Burup :)
+- I also answered an email I had meant to answer for ~one week.
+- #push [[Hypothesis]].
+  - [ ] This made me think I really want to re-enable hypothes.is support in the Agora!
+- [[flancia]]
+  - [[social.coop]]
+    - [x] announce wiki maintenance
+    - [x] read coopcloud [[mediawiki recipe]]
+    - [x] install [[keycloak]] or [[authentik]] in [[hypha]]
+      - keycloak it was :)
+      - some issues/a bug in the recipe (I think) but it was surmountable and I learnt about [[abra]] a bit :) enjoyed it
+  - #push [[open letters]]
+    - [ ] G
+    - [ ] SF
+    - [ ] SP
+    - [ ] A
+ - [[kris]]
+  - [[flancian]]
+    - cleaned up README in https://gitlab.com/flancian/flancian, my personal 'root repository' as of the time of writing
+  - [[ap]]
+    - me enseñó la palabra [[follamiga]]
+- [[work]]
+  - [ ] G
+  - [ ] CL
+- #push [[touchpad]]
+  - [[Touchpad scrolling]] had been not working in [[paramita]] for like one week, it was one of those annoyances you can work around but end up spending a lot of time working around.
+  - https://askubuntu.com/questions/528293/is-there-a-way-to-restart-the-touchpad-driver fixed it for me -- good old `modprobe -r psmouse` then `modprobe psmouse` (!).
+  - next time I might try [[libinput]]: https://unix.stackexchange.com/questions/426944/what-is-the-wayland-equivalent-of-xinput-list
+
+
+
+========================================
+FILE: journal/2023-03-19.md
+========================================
+
+- #push [[coop cloud]]
+  - [[abra]] CLI
+  - [[coop cloud recipes]]
+  - [[passwords]]
+    - `abra app run --user root foo.bar.com app bash` then cat `/run/secrets/your_sneaky_secret`
+- #push [[social coop]]
+  - [[keycloak vs authentik]] https://www.reddit.com/r/selfhosted/comments/ub7dvb/authentik_or_keycloak/
+    - the top answer makes a good case for keycloak, 3wc recommended keycloak even though they don't like their IBM link -- it seems keycloak is the reliable/stable/trusted way so I think I'll go with that
+    - TIL [[IBM]] bought [[Redhat]] at some point
+    - good progress but won't finish the wiki migration this weekend; next weekend seems relatively likely
+    - [[announcements]]
+- [[deep space one]] https://somafm.com/player/#/now-playing/deepspaceone
+- [[flancia]]
+  - [[nostromo]]
+    - [[play bach]]
+    - [[flancia playlist]]
+    - listening to [[deep space one]] after a long while, I usually default to [[defcon]]
+  - [[sila]]
+    - [ ] advance CL incrementally
+    - [ ] advance [[open letters]] incrementally
+    - [ ] decide in one letter or two
+  - [[paramita]]
+    - [[social coop]]
+      - [x] add keycloak to pass
+      - [x] announce maintenance next weekend
+    - [ ] install [[linkify2]] in stoa.anagora.org/p? https://www.npmjs.com/package/ep_linkify2
+    - [ ] or let go of stoa.anagora.org and run p.stoa.agor.ai / pad.agor.ai?
+  - [[nocturnal garden]]
+  - Found one book about [[Taixu]] and one by him (a translation with commentary, looks very interesting)
+
+
+
+========================================
+FILE: journal/2023-03-20.md
+========================================
+
+- [[work]]
+  - extended into the late night but I enjoyed it
+  - [x] CL 1
+    - on it :)
+  - [ ] CL 2
+- [[flancia]]
+  - I reported a [[ytm]] bug through twitter today as it was most convenient, I think this makes sense.
+  - wrote [[poetry]] based on a mantra I love, then it went somewhere unexpected; I enjoyed the process, although I think it's in need of editing as everything I write :)
+  - [[building bridges]] has been brewing for a long while and yesterday I got a meeting in my calendar with that syntagm in its title, it's tomorrow, I will attend
+  - I thought of [[spaceships]] today as a whimsical name for [[wikilink]]. I think it makes sense, at least in my mind; I will try to make a case for it. 
+    - Although most pragmatically maybe just [[link]] makes the most sense; there can be [[anchored]] (a href) or [[unanchored]] (free to resolve in an Agora or other trusted source of truth) links.
+    - [[vera]] mentioned that [[org]] just calls them links. [[internal links]] is also in use, presumably because they're internal to a garden; but in Agora context they are taken to resolve to a Commons. Maybe you could take it to mean [[internal to the Commons]] though.
+
+
+
+========================================
+FILE: journal/2023-03-21.md
+========================================
+
+- [[2023-03-20]]
+- [[work]]
+- [[flancia]]
+  - [[yoga]] after midnight :) meaning the beginning of the day.
+  - [[paramita]]
+    - [[social.coop]]
+      - [x] process registrations
+      - [x] process moderation cases
+  - [[sila]]
+    - [x] answer ping by [[sl]] 
+    - [x] answer ping by [[hd]]
+- [[perturbation theory]] https://en.wikipedia.org/wiki/Perturbation_theory
+- [[liquid democracy]]
+- [[soma fm]]
+- [[fediforum]] https://fediforum.org/about/
+  - on [[2023-03-29]] [[2023-03-30]]
+- [[dazzle]] https://dazzle.town/
+
+
+
+========================================
+FILE: journal/2023-03-22.md
+========================================
+
+- 22 ~ [[fork]] * [[right thinking]]
+- [[work]]
+- [[flancia]]
+	- [[pomodoros]] for the [[revolution]]
+	- [[soma fm]]
+		- [x] donated
+  - [[logseq]]
+    - [[how do you attach images in logseq]]
+    - made me think of [[autopush]] and I realized maybe adding it to [[agora server]] might be easy: we're already parsing arbitrary html with #push as it's implemented as of /today.
+  - [[social coop]]
+    - closed registration who sent corrected data
+    - I could have guessed the correct address this time, will keep it in mind for next time there's a registration without a working opencollective URL (this happens in about 10%-20% of the registrations I'd say)
+    - The issue though is that most of the time the correct URLs are not easily guessable
+    - Checking for working URLs should be OS system level so users can benefit from it maximally?
+    - I've always thought the same goes for [[wikilink]] resolution.
+      - This reminds me I am experimenting with calling them [[spaceships]].
+
+
+
+========================================
+FILE: journal/2023-03-23.md
+========================================
+
+- [[work]]
+  - some meetings, some interesting
+  - trying to finish at 19 tonight
+- [[flancia]]
+  - meeting [[ap]] for coworking/study
+    - virtually :)
+
+
+
+========================================
+FILE: journal/2023-03-24.md
+========================================
+
+- [[social coop]]
+  - [[moderation]]
+- [[qos]]
+
+
+
+========================================
+FILE: journal/2023-03-27.md
+========================================
+
+- [[2023-03-26]]
+- [[social coop]]
+	- great [[tech working group]] meeting!
+- #push [[charm]]
+	- "we build tools to make the command line glamorous"
+	- https://charm.sh/
+	- looks interesting
+- #push [[langchain]]
+	- looks interesting, a solid framework to build on that lets you swap [[LLM]]s instead of being tied to a particular API like [[OpenAI]]'s.
+
+
+========================================
+FILE: journal/2023-03-28.md
+========================================
+
+- [[work]]
+  - ten meetings (!)
+- [[flancia]]
+  - [[sila]] hadn't been uploading garden updates due to the [[github]] host key change, fixed
+  - [[social coop]] nice progress
+
+
+
+========================================
+FILE: journal/2023-03-29.md
+========================================
+
+- A Wednesday.
+- 29 is for [[Drishti]], meaning a pointer or a point of focus.
+
+
+
+========================================
+FILE: journal/2023-03-31.md
+========================================
+
+- [[31]], a prime, is [[las jaras]]
+  - (you could say it is that in the [[Flancia pattern language]])
+
+
+
+========================================
+FILE: journal/2023-04-01.md
+========================================
+
+- [[flancia]]
+  - [[social coop]]
+    - [[wiki migration]]
+  - [[logseq]] has been somehow chewing up node updates and moving them to its /bak/ in my garden; quite annoying, it somehow decided to do this while it was running in the background, maybe it doesn't cope well with the user concurrently editing the same digital garden using some other tool. This is worth reporting as a bug.
+  - [[list of matrix servers]]
+- #push [[kris]]
+  - [[david krakauer]]
+
+
+
+========================================
+FILE: journal/2023-04-02.md
+========================================
+
+- [[matrix server list]]
+
+
+
+========================================
+FILE: journal/2023-04-03.md
+========================================
+
+- #push [[systemd]]
+  - to actually always restart a service instead of giving up even when you passed `Restart=always`, you need to also pass `StartLimitIntervalSec=0` in the `[Unit]` section.
+  - source: https://unix.stackexchange.com/questions/289629/systemd-restart-always-is-not-honored
+- [[work]]
+  - worked from home
+  - I did most of my work after the last meeting -- as usual :)
+- [[flancia]]
+  - cleaned the house (leftover from Sunday)
+  - played a bit of piano, a bit of guitar
+
+
+
+========================================
+FILE: journal/2023-04-04.md
+========================================
+
+- [[2023-04-03]] was a bit of a rollercoaster
+- ha, it s been long since I took a look at [[index]]
+- [[neil]] found [[Economics for Emancipation]] and [[The Care Manifesto]]
+
+
+
+========================================
+FILE: journal/2023-04-06.md
+========================================
+
+- [[work]]
+  - was alright
+  - sent an email I had been meaning to write for a while and I'm happy with the result
+- [[flancia]]
+  - Just finished a productive half day of work (today is half a holiday in Switzerland) and I arrived in Flancia immediately after
+
+
+
+========================================
+FILE: journal/2023-04-07.md
+========================================
+
+- [[7]] stands for [[Avalokiteshvara]] and [[Compassion]].
+- Nice relaxing day! Slept well and felt like I recovered significantly from whichever bug I've been carrying.
+- Had coffee with neighbors.
+- Spoke to [[Berni]] who is in [[Argentina]].
+- Took a nap with [[Lady Burup]].
+- Cleaned the house.
+- Finished migrating to my new mobile phone.
+  - This involved more manual copying and syncing than I expected, maybe because my new phone has a [[work profile]] and the old one didn't (or didn't to the same extent?).
+- Read two short stories.
+  - [[Goliath]] by [[Neil Gaiman]].
+  - [[Todo va mejor con Coca Cola]] de [[Alberto Vanasco]].
+- Received a friend, [[aj]], at home.
+- Read about [[perennial rice]]
+  - https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again
+  - sounds cool
+
+
+
+========================================
+FILE: journal/2023-04-08.md
+========================================
+
+- [[8]] stands for the [[Noble Eightfold Path]] and [[Gautama Buddha]]
+- [[flancia]]
+  - [[agora]]
+    - [[coop cloud recipe]]
+
+
+
+========================================
+FILE: journal/2023-04-09.md
+========================================
+
+- #push [[Flancia]]
+  - [[9]] stands for [[loving kindness]] (in the [[Flancia pattern language]]).
+  - May you be happy!
+  - May you be free from suffering!
+  - Today is the birthday of a friend!
+  - #push [[Buddhism]]
+    - TIL about [[Edward Conze]], scholar of [[Marxism]] and [[Buddhism]]
+    - TIL about [[visible mantra]], an HTTP only site which seems to have very solid content.
+    - [[Progeny of the Buddha]]
+      - [[Rahula]]
+      - In some ways [[Kassapa]], in some ways all key disciples.
+    - Turns out [[Ananda]] and [[Kassapa]] had a conflict.
+    - [[Manjusri]] ~ [[Mañjuśrī]]
+    - #push [[Garland Sutra]] 
+      - Wikipedia says the [[Buddhāvataṃsaka-nāma-mahā­vaipulya-sūtra]]is  "erroneusly often referred to as the [[Avataṃsaka Sūtra]]", but elsewhere the latter is referred to as a valid short name
+    - c.f. https://en.wikipedia.org/wiki/Buddh%C4%81vata%E1%B9%83saka_S%C5%ABtra and https://www.britannica.com/topic/Avatamsaka-sutra, maybe the rare case in which Wikipedia is more conservative than Brittanica?
+    - Now I notice the first word of the longer title is literally [[Buddavatamsaka]], Garland of Buddhas, so I really don't see why it says erroneously :) Made an edit.
+    - #push [[nikayas]]
+      - [[digha]]
+      - [[majihima]]
+      - [[samyutta]]
+        - listening to [[bhikkhu bodhi]]'s translation, loving it
+      - [[anguttara]]
+      - [[khuddaka]]
+  - [[regalos]]
+  - [[open letter to the agora]]
+    - [ ] pull URLs
+      - -> [[paramita]] 8
+    - set [[building bridges]] as theme
+  - [[open letter to google]]
+    - -> [[sila]]
+
+
+
+========================================
+FILE: journal/2023-04-10.md
+========================================
+
+- [[open letter to the agora]]
+- how does it feel to do fractal writing?
+
+
+
+========================================
+FILE: journal/2023-04-11.md
+========================================
+
+- [[2023-04-10]] came and went with a variety of feelings
+  - [[10]] stands for:
+    - [[right view]]
+    - 2*5 == fork your focus
+    - [[om tare tuttare ture soha]] (10 syllables)
+- [[work]]
+  - oncall, got paged before 8am, but it was nothing critical and I was able to fall back asleep eventually (I needed some more rest)
+  - [[focus]] time is important, I'll try to do 2h of focus before meetings today -- I usually find it hard due to the [[dead time]] phenomenon, but I also think I want to try to become better at focusing even in such a situation (when there are imminent appointments)
+  - [[summit]] prep
+    - [ ] publish document for session
+    - [ ] review sessions
+    - [ ] verify status of canadian permit as I'm doing a layover there
+    - [ ] book hotel in sunnyvale
+    - -> [[2023-04-12]]
+- [[aj]]
+  - happy we met!
+
+
+
+========================================
+FILE: journal/2023-04-12.md
+========================================
+
+- [[work]]
+  - [[summit]] prep
+    - [ ] publish document for session
+    - [ ] review sessions
+    - [ ] verify status of canadian permit as I'm doing a layover there
+    - [ ] book hotel in sunnyvale
+
+
+
+
+========================================
+FILE: journal/2023-04-15.md
+========================================
+
+- signed up for [[bluesky]], loved it immediately!
+  - joined the dev room
+  - would like to investigate how to bridge it with the rest of the [[fediverse]], etc.
+- [[Flancia]]
+  - packed for the [[us trip]]
+  - sent and got some [[gifts]] :)
+  - [[Buddhism]]
+    - [[Dharmarad]] ~ [[Dharmachakra]]
+  - [[Middle Fifty]]
+- #push [[do]]
+  - #push [[Taxes]]
+    - Got another *huge* [[tax bill]], unexpected after so many years in Switzerland; something has gone clearly wrong, either now or previously when I filled my tax returns. I need to investigate, the sum is substantial.
+    - will track in [[unexpected taxes]]
+
+
+
+========================================
+FILE: journal/2023-04-16.md
+========================================
+
+- [[16]] is [[right mindfulness]] in the [[Flancia Pattern Language]].
+  - Also [[four times fork]] (2^4).
+- [[Travelling]] starting today, for two weeks. I will be in the US for work.
+  - Plan to node this in [[US trip 2023]]
+  - [[Media Infra Summit]]
+- What is [[this]]?
+- [[Linux]]
+  - Always be learning :)
+  - Got to be friendlier with [[nmcli]]
+  - I saw [[xaos]] tutorial mode today and it blew my mind. Also it dates from [[1997]] (!). [[xaos -play]] `/usr/share/XaoS/tutorial/intro.xcf` to see the introduction to fractals it ships with.
+
+
+
+========================================
+FILE: journal/2023-04-17.md
+========================================
+
+- [[17]] stands for [[Maitreya]] and [[Right Concentration]] in the [[Flancia pattern language]].
+- [[us trip 2023]]
+  - I write this on the flight from Toronto to Seattle.
+  - I slept for another hour or so (in a less comfortable seat, but still quite comfortable). I think after this I'll be able to go for another 2-3h, get to a bed and crash for the night :)
+- I've been playing with [[xaos]] a bit more. 
+  - I wonder how you can add support for new formulas.
+  - Some tutorials mentioned that several formulas were found by users of [[fractint]].
+  - [[media infra summit]]
+    - prep day, the summit starts on Tuesday.
+    - still want to do more reviews -- interesting documents in scope
+
+
+
+========================================
+FILE: journal/2023-04-21.md
+========================================
+
+- [[Flancia]]!
+  - is a [[Pattern Language]].
+- I watched [[Star Trek]] with a [[friend]].
+  - Loved it.
+  - I started with episode 10 of the third season of [[Picard]] having watched none of it except the very first episode of season one.
+  - I don't know much of what has happened thus far but I went in fully willing and I liked it a lot.
+  - Since about half an hour into it I thought of it as a [[quantum flip]].
+  - I was surprised that the Borg and the Federation didn't seem to engage in dialog, but I decided to interpret the episode itself as the conversation between them. Hear me outeven of
+  - I love [[Seven of Nine]] immediately.
+  - I thought [[Jack]] was interesting, although I lack a lot of context about him.
+
+
+
+========================================
+FILE: journal/2023-04-27.md
+========================================
+
+- #push [[meet coop]]
+  - Joined the [[meet coop]] board meeting today, it was very interesting.
+    - Notes at https://pad.femprocomuns.cat/board27apr
+    - Met:
+      - [[Mike Hales]] (face to face finally)
+      - [[Rich Jensen]]
+      - [[Yves]]
+      - [[Wouter Tebeens]] (very cool, reach out on the fediverse)
+      - [[Andi]]
+      - [[Petter]] (reach out over email)
+- [[work]]
+  - was very fine :)
+
+
+
+========================================
+FILE: journal/2023-04-28.md
+========================================
+
+- [[work]]
+  - Last day in the Sunnyvale office for this visit.
+  - Flying back to Zürich tonight.
+- [[flancia]]
+  - Will board the flight shortly after the traditional time in which I say I "start Flancia" on a workday, meaning 19:00 (local time).
+
+
+
+========================================
+FILE: journal/2023-04-29.md
+========================================
+
+- Writing this on the way back home, meaning the flight [[SFO]]-[[ZRH]].
+- My noding has been spotty the last few days / over the last two weeks due to travel but it will probably pick back up (is that the right expression?) now that I'm back home.
+- [[US trip 2023]]
+
+
+
+========================================
+FILE: journal/2023-04-30.md
+========================================
+
+- Back from travel!
+  - Back in [[Flancia]] :)
+- I missed [[Lady Burup]] and [[AJ]].
+- Day off, [[jetlagged]] but happy.
+- Wrote some [[poetry]], had fun with #magnets and #color.
+- #Flancia
+  - [[social coop]]
+  - [[blue sky]] ~ [[bluesky]]
+  - #push [[avalokiteshvara]]
+    - [[names]]
+      - [[lokesvara]]
+      - [[lokanat]]
+      - [[chenrezig]]
+      - [[guanyin]]
+      - [[kannon]] ~ [[kanzeon]]
+      - [[quan am]]
+      - [[gwaneum]]
+    - [[collected poetry]] ~ [[collective poetry]]
+  - #write
+    - [[letters]]
+    - to [[friends]]
+
+
+
+========================================
+FILE: journal/2023-05-01.md
+========================================
+
+- [[Flancia]]
+  - [[International Workers Day]] ~ [[May 1st]]
+    - [[Jin War]]
+    - [[Rojava]]
+    - [[Flancia]] is a revolutionary [[Pure Land]] built on [[loving kindness]].
+      - [[Tara]]
+      - [[Taixu]]
+      - [[Avalokiteshvara]]
+
+
+
+========================================
+FILE: journal/2023-05-02.md
+========================================
+
+- [[2]] stands for [[fork]], and the [[Agora]], in the [[Flancia pattern language]].
+- [[Jinwar]]
+- [[work]]
+  - Back in the ZRH office after 2w (due to travel). It was nice seeing my coworkers again.
+  - Relatively meeting heavy day but it's going well as of the time of writing.
+
+
+
+========================================
+FILE: journal/2023-05-03.md
+========================================
+
+- [[work]]
+  - very tired after only about four hours of solid sleep; jetlag kicked in, and [[Burup]] was rattled because of a curious vision (I should write more about that)
+  - but work was fine :)
+- then [[fellowship of the link]]
+- then [[flancia]], or rather Flancia at all times in a way
+  - I've been trying to enjoy life more overall, not draw hard lines between Flancia and non-Flancia most of the times
+  - this seems to result in increased happiness, equanimity, which makes sense
+  - meditating every morning ten minutes and doing yoga most evenings really goes a long way 
+- some bugs in the [[agora]]
+  - [[fediverse]] seems to enter a pulling loop, very weird!
+  - [[federation]] redirects in a way that chrome thankfully catches, and has the same loop in a pull as it's pulling [[fediverse]] :)
+  - this alpha-quality Agora is positively dangerous
+    - I love it :)
+
+
+
+========================================
+FILE: journal/2023-05-04.md
+========================================
+
+- [[work]]
+  - I was very tired today, because of not sleeping enough (I woke up too early, still jetlagged) and maybe a bug.
+  - It was OK though.
+- [[flancia]]
+  - [[social coop]]
+    - issues with emails
+    - meeting with Petter from [[Collective Tools]]
+
+
+
+========================================
+FILE: journal/2023-05-07.md
+========================================
+
+- [[petrichor]]
+- [[ostranenie]]
+- [[flancia]]!
+  - [[aj]] ~ [[ag]]
+    - happy, joyful!
+  - [[Avalokiteshvara]]!
+    - [[Tara]]
+  - I paid my taxes for the remainder of the year (or scheduled all payments). This small detail made me feel freer; it was indeed on my todo list.
+  - In the spirit of a Sunday I made some [[magnetic art]] and I enjoyed it. It's interesting to do things with one's fingers, thinking about space and color as we go.
+  - [[social coop]]
+    - read some discussion
+    - [ ] wiki next steps -> testing
+  - [[donated]]
+  - [ ] [[sila]] -> CL
+- the Agora is a bit slow -- pages are taking >7s to render when the cache is cleared.
+  - It's also buggy, like [[petrichor]] above which strangely redirects to wikipedia :)
+  - I love it anyway, but this says I have to allot some time to [[fixes]].
+    - [ ] #push [[drishti]] fix bugs
+- #push [[poemas]]
+  - [[agua]] (va tomando forma? no sé)
+  - [[collected poetry]]
+
+
+
+
+========================================
+FILE: journal/2023-05-08.md
+========================================
+
+- [[8]] stands for [[Gautama Buddha]] and the [[Eightfold Path]] in the [[Flancia Pattern Language]].
+- [[work]]
+  - CL :)
+- [[flancia]]
+  - [[social.coop]] [[twg]] meeting :)
+    - [[social coop wiki]]
+- [[procrastination diaries]]
+
+
+
+========================================
+FILE: journal/2023-05-09.md
+========================================
+
+- [[x]]
+  - [[move 9]]
+
+
+
+========================================
+FILE: journal/2023-05-10.md
+========================================
+
+- [[fellowship of the link]]
+
+I will show you the shape of my [[heart]] if you want to.
+
+
+
+========================================
+FILE: journal/2023-05-11.md
+========================================
+
+- [[work]]
+  - [[working from home]], I enjoy the freedom to choose to do this whenever
+- [[flancia]]
+  - [[AG]]
+  - [[Por Flancia! Qué Flancia? Tu Flancia!]]
+- [[an analog guy in a digital world]]
+- weighed 1000 magnets and got [[406]] grams
+  - This led me to factor 406, it was fun!
+    - 406 = 203 * 2 = 7 * 29
+
+
+
+========================================
+FILE: journal/2023-05-13.md
+========================================
+
+- [[flancia]] all day!
+- [[flancia meet]]
+  - [[java assignment]]
+  - [[apl]]
+  - [[nodeinfo]]
+  - [[mycomarkup]]
+  - [[sourcehut]]
+  - [[git email]]
+    - Sent trivial patch to [[mycomarkup]] to learn how to send email patches -- worked well after the initial gmail setup.
+- [[social coop]]
+  - [ ] want to advance the wiki-alpha setup, maybe finish it?
+  - [ ] and start hacking on the ansible recipe to move registrations to join.social.coop
+- [[buddhism]]
+  - #push [[mala]]
+    - a typical mala has [[108]] beads, and the reason is combinatorial :) 
+      - 6 senses * (past, present, future) * (good, bad, neutral) * (internal, external)
+  
+  - [[shaolin monastery]]
+    - https://en.wikipedia.org/wiki/Shaolin_Monastery
+  - [[taixu]]
+    - is incidentally one of the buggy Agora locations that redirect to Wikipedia automatically
+      - I like it as a potential feature maybe but it should feel more optional ;)
+      - [ ] fix
+- [[agora]]
+  - So many bugs to fix :)
+  - But first, I want to add [[mycomarkup]] support!
+- #push [[AG]]
+  - [[Reithalle]] Bern
+    - https://de.wikipedia.org/wiki/Kulturzentrum_Reitschule
+  - [[Beautiful]]
+
+
+
+========================================
+FILE: journal/2023-05-14.md
+========================================
+
+- #push [[AG]]
+  - [[hopscotch]] ~ [[rayuela]]
+  - went into a [[cave]] together
+  - it was beautiful
+- [[Bodhicitta]]
+- [[Poetry]]
+- [[prizewinning plus]]
+- [[Avalokiteshvara]]
+- [[Tara]]
+- [[measureless liberation of mind]]
+
+
+
+========================================
+FILE: journal/2023-05-15.md
+========================================
+
+- [[2023-05-15]]
+  - [[15]] stands for [[Right Effort]].
+- [[AG]]
+- [[work]]
+  - day goes here
+- [[social coop]]
+  - [[twg]] ~ [[tech working group]] meeting at [[18 UTC]]
+- [[Taixu]]
+  - [[toward a modern chinese buddhism]]
+  - [[on the establishment of the pure land in the human realm]] (!)
+
+
+
+========================================
+FILE: journal/2023-05-17.md
+========================================
+
+- [[work]]
+- #push [[yoga]]
+  - [[common yoga protocol]]
+    - recommended by [[Rohit]]
+
+
+
+========================================
+FILE: journal/2023-05-19.md
+========================================
+
+- #push [[31]]
+  - Un mantra:
+  - Las Jaras, qué jaras?
+
+
+
+========================================
+FILE: journal/2023-05-20.md
+========================================
+
+- [[Flancia]]!
+- [[2023-05-17]], [[2023-05-18]], [[2023-05-19]] were all memorable and beautiful in their own way.
+  - I continued to be sick, although recovering; then I got conjunctivitis in one eye just at the tail end of it.
+  - I'm happy though.
+- [[20]] means [[fork our lights then keep forking]] (or our focus, or the commons...)
+- [[AG]]
+  - [[AJ]]
+- [[Mantras]]
+
+
+
+========================================
+FILE: journal/2023-05-22.md
+========================================
+
+- [[flancia]]
+  - I had an allergy attack yesterday but at some point it turned -- it stopped getting worse, started getting better. Was able to have a normal night after that.
+  - Slept a solid 8h+ after that
+  - Woke up feeling finally recovered from disease!
+- [[work]]
+  - Starting the week energized.
+  - It was a solid day!
+  - Actually looking forward to the week.
+- [[AG]]
+  - [[purrata]]
+- [[791]] == #7 x #13
+
+
+
+========================================
+FILE: journal/2023-05-23.md
+========================================
+
+- [[23]] means [[Lady Burup]] in our [[Pattern Language]].
+  - (I write that as [[Lady Burup]] ~ [[23]] for short.)
+- [[Taixu]] ~ [[57]]
+
+
+
+========================================
+FILE: journal/2023-05-25.md
+========================================
+
+- [[nmcli]]
+- [[AG]] :D
+- [[work]]
+- [[social coop]]
+  - [[commons hour]]
+    - [[Mike Hales]]
+    - [[David Jacovkis]]
+    - [[Petter Joelson]]
+- [[46]] [[34]]
+- [[32]], [[128]] and their associated [[mersenne numbers]]
+  - #push [[mersenne primes]]
+    - [[31]]
+    - [[127]]
+
+
+
+========================================
+FILE: journal/2023-05-26.md
+========================================
+
+- My mum is in the hospital with pneumonia :( I hope she recovers soon.
+- [[KeePassXC]] seems like the best option currently if you're looking for an open source cross-platform password manager? 
+- [[flancia]]
+  - [[AG]] ~ [[AJ]]
+  - [[work]]
+  - [[Pure Land]]
+    - Reading [[Taixu]], finally, looking forward!
+  - #push [[Commons]]
+    - [[Beyond Markdown on Git]]
+    - [[FOTL]]
+      - [ ] present to FOTL on a vision for the [[Knowledge Commons]]
+  - #push [[collective poetry]]
+    - [[Agua]]
+
+
+
+========================================
+FILE: journal/2023-05-27.md
+========================================
+
+- [x] Bought [[biokat]]'s [[diamond care fresh]] for [[Lady Burup]]
+  - I think this is the ideal litter (from the ones we know)
+- [[Flancia]]
+  - [[Agora]]
+    - New [[Agora of Flancia]] user!
+      - [[oceane]] from social coop: https://git.sr.ht/~oceane/pks
+        - uses org mode
+    - [[Agora development]]
+      - There is this weird redirect-to-wikipedia bug that I'm finding hard to get to the bottom of
+      - First step is to reproduce in the dev environment -- for some reason it's not happening there
+      - Hypothesis: it's content from one of the streams (e.g. social media) that triggers the issue in e.g. node [[Taixu]]
+      - It's weird how the Agora is somehow redirecting to Wikipedia *but* Chrome doesn't show any hint of a redirect in the console or the request log
+      - agora-discuss@flancia.org is now a Google group that can be posted to.
+      - agora@flancia.org is an account meant for the [[stewards]] of the [[Agora of Flancia]] :)
+    - Lovely [[Flancia meet]] with [[Aldhari]]!
+  - [[Tare tuttare ture]]
+  - In the Agora you might find de-indents from [[Flancia]] that are only illusory in nature :)
+- [[Goldberg variations]]
+- [[Philadelphia]]
+- [[work]]
+  - [x] filed [[expense report]]
+- [[social coop]]
+  - responded to [[eduardo mercovich]], lovely to hear from him
+    - thought about [[hometown]] and [[bonfire]] again thanks to him
+  - [[wiki]] is nearing delivery now that join.social.coop exists
+    - [x] redirect links to join.social.coop
+    - [x] move wiki-alpha -> wiki
+    - [x] set up auth.social.coop seed accounts
+- [[hex numbers]] == [[centered hexagonal numbers]]
+- love [[oeis]] as the very day I met it
+  - maybe [[oeis]] support could be easy? two ways:
+    - executable subnode in user garden matching sequences (regex)
+    - or same way as wp?
+    - or using providers.py again?
+  - thank you [[Neil Sloane]]
+- recompiled [[Waybar]]
+- [[agora]]
+  - more fixes :)
+    - which next?
+  - [ ] what about shipping [[primes]], that 'out there' executable subnodes implementation that was actually working? :)
+    - turns out I haven't solved passing parameters to these :)
+
+
+
+========================================
+FILE: journal/2023-05-28.md
+========================================
+
+- Looked into [[keyoxide]] again after seeing a reference in the profile of [[youronlyone]]
+- [[social.coop]]
+  - [[wiki]]
+    - [x] changed links to registration form to point to join.social.coop
+    - [x] posted maintenance announcement
+    - [x] redoing [[wiki migration]] on wiki.social.coop
+    - [x] disabled parsoid
+    - [x] enabled registrations
+    - done, it seems, pretty much! \o/
+- #push [[pfeilstorch]]
+  - showed up in my open tabs, is interesting, but I don't remember how I got there :)
+
+
+
+========================================
+FILE: journal/2023-05-30.md
+========================================
+
+- [[work]]
+- [[flancia]]
+  - [[mantras]]
+    - [[om mani padme hum]]
+    - [[gate gate paragate parasamgate bodhi svaha]]
+    - [[om tare tuttare ture soha]]
+      - I often chant [[tare tutare ture]] ~ [[tare tuttare ture]] and variations
+      - I like counting syllables
+    - [[las jaras, qué jaras]]?
+    - [[love]]
+
+
+
+========================================
+FILE: journal/2023-05-31.md
+========================================
+
+- [[31]] ~ [[las jaras]]
+- [[work]] -- maybe half a day as I'm sick again :( nothing severe but very drained of energy, coughing, etc. Hope it passes quickly.
+- [[fellowship of the link]]
+
+
+
+========================================
+FILE: journal/2023-06-01.md
+========================================
+
+- [[diego de la hera]]
+  - llegó a zürich!
+  - [[bologna]]
+  - [[budapest]]
+  - [[berlín]]
+  - [[jaime altozano]]
+
+
+
+========================================
+FILE: journal/2023-06-03.md
+========================================
+
+- [[big movie list]]
+
+
+
+========================================
+FILE: journal/2023-06-04.md
+========================================
+
+- [[Flancia]]!
+  - [[AG]]
+  - [[Diego de la Hera]]
+  - Planeé cuatro pomodoros por la revolución después de las 22, fueron mayormete de conversación y juego -- sin arrepentimientos.
+
+Amanecí y llegamos a la tarde con alegría con [[AG]], y después comimos y caminamos con [[Diego]] y [[Dominic]].
+
+- [[Bernard Stiegler]]
+
+
+
+========================================
+FILE: journal/2023-06-05.md
+========================================
+
+- #push [[elevated]] is a [[4k]] (meaning four kilobytes) demo: https://www.youtube.com/watch?v=jB0vBmiTr6o
+
+
+
+========================================
+FILE: journal/2023-06-07.md
+========================================
+
+- [[las jaras]]
+- [[7]] stands for [[avalokiteshvara]]!
+- I have a [[fever]].
+- [[activitypub]]
+- [[melanocarpa]] [[lesarbr.es]]
+- [[lemmy]] ~ [[kbin]]
+
+
+
+========================================
+FILE: journal/2023-06-08.md
+========================================
+
+- [[sick]] but happy
+- [[AG]]
+
+
+
+========================================
+FILE: journal/2023-06-10.md
+========================================
+
+- Beautiful [[Saturday]].
+- We [[burned]] happily!
+- Went to [[Minigolf Hard]].
+
+
+
+========================================
+FILE: journal/2023-06-11.md
+========================================
+
+- Backnoded in July (!).
+  - It was a beautiful weekend: [[2023-06-10]] [[2023-06-11]]
+
+
+
+========================================
+FILE: journal/2023-06-13.md
+========================================
+
+- [[work]]
+- [[flancia]]
+  - [[AG]] :)
+  - My mum is visiting for a month and she's been resting / enjoying being home with Lady Burup while I finish up with work before we travel :)
+
+
+
+========================================
+FILE: journal/2023-06-16.md
+========================================
+
+- [[kbin]]
+- [[social coop]]
+  - #push [[meet coop]]
+    - [[meet coop evolution]]
+- [[birthdays]]
+- [[flancia]]
+  - [[let forever be]]
+
+
+
+========================================
+FILE: journal/2023-06-17.md
+========================================
+
+- [[flancia]]!
+  - in the Flancia [[Pattern Language]], 17 means [[Maitreya]] and [[Right Concentration]].
+
+
+
+========================================
+FILE: journal/2023-06-20.md
+========================================
+
+- I've been a bit away from the Agora a bit as I had several guests over and had an otherwise full schedule, but I always come back and plan to always do so for as long as I can write :)
+- Still into [[centered hexagonal numbers]] ~ https://oeis.org/A003215
+  - In Python, the first 1000: `[3*n*(n+1)+1 for n in range(1000)]`
+- [[greece]]
+  - [[athens]]
+  - [[santorini]]
+  - [[naxos]]
+  - [[mykonos]]
+- [[germany]]
+  - [[tegernsee]]
+
+
+
+========================================
+FILE: journal/2023-06-22.md
+========================================
+
+- [[Greece]]
+  - in [[Athens]] for a few days!
+  - We stayed in [[Koukaki]].
+- [[nmcli]]
+  - I like it but I keep forgetting its usage, glad I noded the basics some time ago.
+
+
+
+========================================
+FILE: journal/2023-06-23.md
+========================================
+
+- [[Greece]]
+  - [[Athens]]
+    - We visited the [[Acropolis museum]].
+    - Then the [[Acropolis]].
+    - Then I saw [[Nils Frahm]].
+
+I wasn't planning on seeing [[Nils Frahm]] live, nor did I know he was playing in Athens until the very same day it happened; I heard the sound test coming from the [[Odeon of Herodes Atticus]] while I was climbing down the southern slope of the Acropolis and I decided to get a ticket just in time. I'm happy I did so, it was a memorable experience for sure to see him live under the moon and stars in this ~2000 year old amphitheatre.
+
+
+
+========================================
+FILE: journal/2023-06-24.md
+========================================
+
+- [[Greece]].
+  - [[Athens]]
+    - We visited the [[Agora]]. 
+    - I loved it as usual but my mum thought it was too run down/fragmentary.
+    - Then we had dinner in [[Monastiraki]].
+
+
+
+========================================
+FILE: journal/2023-06-25.md
+========================================
+
+- [[Flancia]]
+  - First time in some days with some free time to write, so here I am back in the Agora of Flancia :)
+  - As I write this I am in [[Greece]] on a ferry to [[Santorini]].
+- [[backnoding]]
+  - [[2023-06-22]]
+  - [[2023-06-23]]
+  - [[2023-06-24]]
+  - [[nmcli]]
+
+
+
+========================================
+FILE: journal/2023-06-26.md
+========================================
+
+- [[Greece]]
+  - [[Santorini]]
+    - Walked from [[Fira]] to [[Oia]]. It was beautiful.
+
+
+
+========================================
+FILE: journal/2023-06-27.md
+========================================
+
+- [[Greece]]
+  - Last day in [[Santorini]].
+  - My mum went on a tour; I stayed at the hotel and rested :)
+  - Backnoded: [[2023-06-26]]
+
+
+
+========================================
+FILE: journal/2023-06-30.md
+========================================
+
+- [[social.coop]]
+  - [[cwg]] meeting
+
+
+
+========================================
+FILE: journal/2023-07-04.md
+========================================
+
+- [[Flancia]]
+  - [[AG]] :)
+- [[airing of grievances]]
+  - I wrote this in a moment of negativity, to channel it and seeing what happened :)
+  - I think it was an interesting exercise!
+- [[birthdays]]
+- backnoded [[2023-06-11]] and surroundings :)
+  - [[minigolf hard]]
+
+
+
+========================================
+FILE: journal/2023-07-05.md
+========================================
+
+- [[agora para los pobres]]
+- [[unicef]]
+- [[Flancia]]!
+
+It was that time of the year, your birthday, when you finally got to Flancia and were able to stay for good, stay in it in a definite sense, being free from suffering.
+
+- [[Flancia]]!
+  - [[AG]] :D
+  - On vacation at home for the remainder of this week -- by default, but I don't plan on cancelling any days and working thus far.
+  - Ordered coffee from [[utopia coffee]], my favourite Swiss roaster.
+  - It was very nice to wake up at home after 11 nights and a half travelling :)
+  - [[Fellowship of the Link]] was beautiful
+  - [[Social coop tech group]] meeting as well, tomorrow we'll probably meet shortly again
+- [[Berni]]
+- [[Ana Pedra]]
+- [[Kris]]
+- [[Parathenaia]]
+
+
+
+========================================
+FILE: journal/2023-07-06.md
+========================================
+
+- [[Flancia]]!
+- [[social.coop]]
+  - [[twg]]
+
+
+
+========================================
+FILE: journal/2023-07-08.md
+========================================
+
+- [[Flancia]]!
+  - In [[Thurgau]]
+  - [[Flancia Meet]]]
+
+
+
+========================================
+FILE: journal/2023-07-12.md
+========================================
+
+- [[work]]
+  - [[oncall]]
+  - [[p10g]]
+- [[Flancia]]
+  - [[EC]]
+  - [[AG]]
+  - [[Agora]]
+    - #push [[agora recipe]]
+      - Made yaml parse for basic compose.yml.
+      - Deployed first link.agor.ai with [[coop cloud]].
+- 
+
+
+
+========================================
+FILE: journal/2023-07-14.md
+========================================
+
+- [[14]] is [[right livelihood]] in the [[Flancia]] mind palace :)
+- The [[Personal Knowledge Graphs]] ebook is out!
+  - https://www.amazon.de/-/en/Ivo-Velitchkov-ebook/dp/B0C3W3XG6S
+
+
+
+========================================
+FILE: journal/2023-07-15.md
+========================================
+
+- [[Flancia]]!
+  - I'll work on and in the [[Agora]] today :)
+  - [[Personal Knowledge Graphs]] book is out, I would like to write about it
+  - #push [[Porrentruy]]
+    - [[Auberge de Mouton]] is in [[Porrentruy]] which I initially misremembered as [[Ponterruy]] :)
+      - [[St Imier]] is 45 minutes away by car :)
+        - Relevant for [[Anarchism]].
+      - The river [[Doubs]] is also near :D
+  - [[flancia meet]]
+    - [ ] try search in [[betula]]
+    - [x] save tabs to [[betula]]
+      - [[celeste summit]]
+        - [[karlicoss]]
+        - [[midsommar month]]
+        - [[tresk]] is the sound fire makes
+    - [ ] try betula in mobile
+    - [x] get link.agor.ai up on the new setup
+      - done on [[2023-07-29]] :)
+  - [x] work for G a few pomodoros (two?)
+  - [x] link.agor.ai
+    - [x] container debugging
+      - change endpoint
+      - or adopt abra.sh?
+  - [[go/ccr]]
+
+
+
+========================================
+FILE: journal/2023-07-16.md
+========================================
+
+- [[Flancia]]
+  - [[celeste summit]]
+  - [[aldhari]]
+    - [[nothingmannow]] -> [[thegoodiscoming]]
+
+
+
+========================================
+FILE: journal/2023-07-17.md
+========================================
+
+- [[Flancia]]
+- [[work]]
+- [[social.coop]]
+  - [[twg]] meeting tonight, we should discuss the [[social coop organizing circle]]
+- [[Indiana Jones]]
+- [[music for plants]]
+
+
+
+========================================
+FILE: journal/2023-07-18.md
+========================================
+
+- [[work]]
+- [[AG]]
+  - [[Flancia]]
+  - [[Heinrich Zschokke]]
+  - [[Das Goldmacherdorf]]
+- [[Agora]]
+  - [[Flancia]]
+  - [[Yoga with X]]
+
+
+
+========================================
+FILE: journal/2023-07-19.md
+========================================
+
+- [[work]]
+- [[flancia]]
+  - fixed [[agora bot]] on [[mastodon]], thankfully botsin.space reverted the account freeze once I explained what happened and how I fixed the issue (they are cool)
+  - [[AG]] after work :D we went to [[helvetiaplatz]] and watched the sunset through the city skyline, the trees and the tram tracks
+  - [[prizewinning plus]]
+
+
+
+========================================
+FILE: journal/2023-07-20.md
+========================================
+
+- #push [[retro effects]]
+  - [[cool retro terminal]]
+  - [[no more secrets]]
+- [[work]]
+  - [[meetings]] are a fact of life it seems.
+- [[social.coop]]
+  - Is having an interesting vote about whether to preemptively limit (if not suspend) [[threads]], the [[meta]] produced fediverse participant/complement/potential adversary.
+
+I installed [[cool retro term]] today and it was immediately more fun than I thought it would be. There is something weirdly satisfactory about typing and seeing a blazing trail preceding your words.
+
+I wonder how hard would it be to make it so that anagora.org renders text in this style -- optionally, of course :)
+
+
+
+========================================
+FILE: journal/2023-07-22.md
+========================================
+
+- [[flancia]]!
+  - #push [[flancia meet]]
+    - [ ] see about ingesting (a subset of?) [[community wiki]] ~ https://communitywiki.org
+    - [[activitypub]] "vs" [[indieweb]]
+    - [[azorius]]
+    - #push [[edsu]]
+      - [[internet for the people]] ~ https://inkdroid.org/2022/12/28/people/
+    - [[lazydocker]]
+    - [[agora recipe]]
+      - [[coop cloud troubleshooting]]
+        - [ ] invite [[agora bot]] to [[coop cloud]] channel, got OK from owners :)
+  - #push [[AG]]
+    - :D
+    - [[vier linden]]
+  - [[Klaus]]
+  - #push [[piano]]
+    - Played the piano today after long with the help of [[Spectroid]] and I enjoyed it a lot
+      - Wrote down a few of the melodies that arise when I sing about [[Tara]]
+      - Also for [[Lady Burup]]!
+  - [[obelos]]
+    - #pull [[⸎]]
+  - [[moloch]]
+    - #47 [[Venceremos a Moloch!]]
+    - I started reading [[Kuprin]] finally :)
+    - Interesting prologue in the Argentinian edition, but I opted out around 2/3rds of the way through as it started going through plot details.
+    - A [[Povest]] is approximately a [[short novel]].
+  - [[anne-sophie mutter]]
+
+
+
+========================================
+FILE: journal/2023-07-23.md
+========================================
+
+- [[Flancia]]!
+  - [[Peter Stamm]]
+  - [[Kuprin]]
+
+
+
+========================================
+FILE: journal/2023-07-24.md
+========================================
+
+- [[Flancia]]
+- started with [[work]]
+- [[flancia playlist]] was pointing to a weird version of the playlist, unsure where it came from :) corrected
+
+
+
+========================================
+FILE: journal/2023-07-25.md
+========================================
+
+- [[send to kindle]]
+
+
+
+========================================
+FILE: journal/2023-07-26.md
+========================================
+
+- [[AG]]
+- [[work]]
+- [[Flancia]]!
+- [[St. Immier]] -> [[Saint-Imier]]
+
+
+
+========================================
+FILE: journal/2023-07-27.md
+========================================
+
+- [[work]]
+- [[Flancia]]
+- [[wayland]]
+	- [[autostart]]
+	- [[systemd]]
+	- #push [[kill wayland]]
+		- #push [[autostart]]
+			- After much debugging I finally realized the issue was not with systemd trying to start vnc while wayland was still not running, crashing too many times and then giving up (like I long thought it was), but rather that the vnc service was not depending on a target that was actually being triggered.
+			- Trying to set up [[vnc]] so it starts only after wayland/a graphical session is running and it's proving harder than expected for not the first time :)
+			- I would expect to add a Requires or WantedBy in the systemd unit, but alas, it's not as easy as that?
+			- I use [[sway]] so maybe the right targets aren't there by default though, as that's supposed to be solved by a "[[desktop environment]]".
+			- Somehow I ended up at https://github.com/jceb/dex which, beyonds its scope in a friendly way, tells me of how to configure a [[systemd autostart]] in a way that maybe could work. Plot twist: it didn't.
+			- https://github.com/maximbaz/dotfiles/issues/23 showed the way: the issue was that nothing was triggering graphical-session.target. I added a line to my sway config to do that as per the first comment in the issue (thank you [[maximbaz]] on github) and that was enough to fix my long standing woes. This feels like freedom :)
+	- Picked up [[Obsidian]] again after a looong time to show it to [[Venisa]].
+
+
+========================================
+FILE: journal/2023-07-29.md
+========================================
+
+- [[Flancia]]!
+  - Woke up at [[AG]]'s place 
+  - Came home to [[Lady Burup]] and [[Flancia Meet]]
+  - Made progress with [[agora recipe]] (thank you [[3wc]] for support as usual!)
+
+
+
+========================================
+FILE: journal/2023-07-31.md
+========================================
+
+- [[Flancia]]!
+  - Had a beautiful weekend with [[AG]].
+  - Met [[Brigitta]].
+- Also finally got the new [[coop cloud]] container based setup for the Agora working, with help from [[3wc]] and [[decentral1se]]!
+  - This means separate containers for [[agora bridge]] and [[agora server]], as it makes sense (IMHO), and customizable Agora roots.
+  - [[agora recipe]] for more.
+- #push [[five aggregates]]
+  - from the introduction to the [[majihma nikaya]] by [[bhikkhu bodhi]]:
+  - [[material form]]
+    - physical body and external mateiral objects
+  - [[feeling]]
+    - affective element in experience: pleasant, painful or neutral
+  - [[perception]]
+    - factor responsible for noting the qualities of things, recognition, memory
+  - [[mental formations]]
+    - all volitional, emotive, intellectual aspects of mental life
+  - [[consciousness]]
+    - the basic awareness of an object indispensable to all cognition
+- In [[Flancia]] for good!
+  - #push [[collected poetry]]
+    - [[burn]]
+    - [[37 degrees]]
+  - #push [[collective fiction]]
+    - [[Flancia]]!
+    - [[In Flancia there is an Agora]]
+    - [[Caramel City]]
+    - [[Jumpsuit Chic]]
+    - [[a Crash Course on Elysium]]
+  - #push [[contacto en flancia]] ~ [[mpd]] [[berni]] [[flancian]]
+    - [[sdxl]] ~ [[stable diffusion xl]]
+    - [[nina simone]]
+    - [[lady burup]]
+    - [[neopunk]]
+    - [[tara]]
+    - [[trotsky and lenin in an arcade]]
+  - #push [[revolution]]
+    - [[loving kindness]]
+    - [[three maitreyas]]
+  - #push [[agora]]
+    - [[agora recipe]] for [[coop cloud is taking shape \o/
+    - https://link.agor.ai is live in basic form, tweaking upcoming
+  - #push [[social coop]]
+    - [[social coop second instance]] exploring
+      - [x] [[bonfire]] mailgun configuration
+      - this sent me into reporting a bug with the [[bonfire recipe]], [[mayel de borniol]] and [[3wc]] and [[decentral1se]] were very helpful as usual! thank you so much
+  - #push [[Saint Imier]]
+    - [[jura bernois]]
+
+One of the particularities of writing about [[Flancia]] is that it seems to require a certain commitment, a belief in the feasibility of facts in possible futures.
+
+
+
+========================================
+FILE: journal/2023-08-01.md
+========================================
+
+- [[Flancia]]!
+  - Meaning all the following go (are pushed) into Flancia by default?
+  - At least from now on.
+  - Could be called [[strong push]], or maybe override [[autopush]] which has been long in the making :)
+- [[1]] in my personal [[Pattern Language]] stands for both self and non-self, and for [[Flancia]]
+  - Today we begin month [[8]], [[August]]. I like how it has [[31]] days, just after another 31 day month -- what a treat :)
+    - Two months with [[Las Jaras]]!
+- [[AG]]
+  - [[Ferritin]]
+  - [[Green tea]] and coworking
+- [[go/newsheet]] [[go/newdoc]] exist :)
+- Started an actual [[budget]] again, after months of procrastinating. Felt great actually and was not even boring :)
+  - Ran [[GC]] on notes/todos. It felt great seeing that many things actually got done!
+- #push [[write]]!
+  - [[the ending of the expanse is our beginning]]
+  - [[a crash course for elysium]]
+- #push [[do]]
+  - [ ] make sure that mycoformat support gets into the container
+  - [ ] set up fast/reasonably smooth dev-to-agor.ai flow
+  - [ ] add toggle/tab for graphs (text/circles) instead of just deciding for the user
+  - [ ] fix indirect go links, like [[go/flancian/git]]
+    - [ ] or make indirect go links actually redirect to go links in the destination if a local definition does not exist
+  - [ ] fix node names with ' and .
+- #push [[do]]
+  - [ ] write visualizer for braids (!) (from a March todo, quite aspirational ;))
+- #push [[Carlas Sala]]
+  - Desapareció el 13.1.1977
+- [[work]] tomorrow
+  - [[future of partitioning]]
+    
+
+
+
+========================================
+FILE: journal/2023-08-02.md
+========================================
+
+- Woke up sick, maybe a cold/maybe light flu. Ibuprofen helped.
+- Oncall at work. Some meetings. Otherwise not super productive because of the above.
+- [[Open Air]] cinema today -- if it's indeed open air (remains to be seen due to weather) I'm thinking it should be OK to attend after taking more ibuprofen? It's a special occasion.
+- Conflicts with [[Fellowship of the Link]] though.
+
+
+
+========================================
+FILE: journal/2023-08-03.md
+========================================
+
+- Previously: [[2023-08-02]]
+- Woke up sicker than yesterday, definitely feels more like a flu. Ibuprofen keeps helping.
+  - Daniel at work (he's great) offered an oncall swap and I took it. Thank you! This will allow me to rest today.
+  - Tonight my friends arrive -- I hope I don't pass it along to them!
+- [[work]]
+  - [ ] [[launch checklist]]
+  - [ ] [[email]]
+- [[not work]] (in that sense)
+  - Flancia!
+    - [ ] maybe write [[testament]]
+    - [ ] maybe ship link.agor.ai customization
+      - [ ] figure out why abra app deploy -C does not seem to be upgrading container version?
+        - It just hit me like a flash: it's probably because the code in the container is a result of 'git clone' and it's not being re-run on subsequent builds; I should probably discard the cache or figure out how to make it always rebuild?
+- [[Antiflancia]]
+  - [[anti-agora]]
+- [[Flancia]] por siempre!
+  - Te quiero.
+    - I love you, love you, love you for good!
+  - #push [[poetry]]
+    - [[Agua]] 
+      - [[agua]]
+    - [[Straight as an arrow]]
+  - [[agora api]]
+  - [[anagora]]
+  - [[anagora api]]
+
+
+
+========================================
+FILE: journal/2023-08-05.md
+========================================
+
+- [[Flancia]]!
+  - con amigos
+  - [[j0lms]]
+  - [[birthdays]]
+  - [[AG]]
+  - [[mpd]]
+  - [[abboud]]
+
+
+
+========================================
+FILE: journal/2023-08-06.md
+========================================
+
+- [[Flancia]]!
+  - with [[friends]]
+  - [[pizza]]
+  - [[movie]] at [[sneaky sundays]] later :)
+  - [[agora]]
+    - [[agora yaml]]
+    - link.agor.ai is up in a stable configuration :D
+    - this closes https://github.com/flancian/agora-server/issues/76
+  - [[elinor ostrom]] -> [[traficantes de sueños]]
+
+
+
+========================================
+FILE: journal/2023-08-07.md
+========================================
+
+- [[Flancia]]!
+  - Monday free to spend with friends; [[mpd]] left at 1pm, then we walked through Zürich with [[BA]] and met [[AG]] and [[VK]] through the day.
+  - Tomorrow back to [[work]] in earnest.
+  - [[7]] makes me think of the [[Agora of Flancia]] and [[Avalokiteshvara]] as both are associated with it in the [[Flancia Pattern Language]].
+  - #push [[Taixu]]
+    - [[oteotpl]]
+    - [[Mount Putuo]]
+    - [[Association for the Advancement of Buddhism
+
+
+
+========================================
+FILE: journal/2023-08-09.md
+========================================
+
+- [[Flancia]] :)
+  - woke up at [[AG]]'s place :)
+  - met [[BA]] for coffee, lunch and goodbye at the bus stop
+  - then worked quite a bit
+  - then had the [[fellowship of the link]] call
+  - then went home :)
+  - [[VK]]
+    - [[japan]]
+    - #push [[japan trip]]
+      - [[Asakusa temple]]
+
+
+
+========================================
+FILE: journal/2023-08-10.md
+========================================
+
+- [[work]]
+  - very few meetings day, and no oncall -- the first such time in a while!
+  - will try to make the most of it.
+- [[after work]]
+  - visiting the lake for the birthday of a friend
+
+
+
+========================================
+FILE: journal/2023-08-12.md
+========================================
+
+- [[Flancia]]!
+  - [[flancia meet]] with [[bouncepaw]] and [[j0lms]] in the morning
+  - then we were going to go to the lake with [[AG]] but she is a bit sick, so we decided to stay and rest. I visited her :)
+- #push [[ActivityPub]]
+  - Discussed possible [[betula]]/[[agora]] implementation with [[bouncepaw]].
+  - [[firefish]] is a fork of [[misskey]] and looks interesting.
+
+
+
+========================================
+FILE: journal/2023-08-13.md
+========================================
+
+- In [[Flancia]] all weekend!
+
+
+
+========================================
+FILE: journal/2023-08-14.md
+========================================
+
+- [[work]]
+  - [[OL]]
+    - recommended [[who rules the earth]]
+- [[Flancia]]
+  - [[AG]] told me about the [[1918]] [[Landesstreik]]: https://hls-dhs-dss.ch/de/articles/016533/2012-08-09/
+
+
+
+========================================
+FILE: journal/2023-08-16.md
+========================================
+
+- [[flancia]]!
+  - [[AG]] :)
+- [[work]]
+- [[fellowship of the link]]
+  - [[five minute universities]]
+  - [[the great transformation]]
+  - [[timelinety]] is a plugin for [[eleventy]] by [[Aram Zucker-Scharff]]
+- [[llamagpt]]: https://github.com/getumbrel/llama-gpt
+
+
+
+========================================
+FILE: journal/2023-08-17.md
+========================================
+
+- Someone in [[hacker news]] called the [[Casio GW-M5600]] a [[perfect watch]].
+
+
+
+========================================
+FILE: journal/2023-08-18.md
+========================================
+
+# 2023-08-18
+
+- Backnoded from [[2023-08-19]] :)
+- Writing this on [[foam]] again after long! Thanks [[ajhalili2006]] for the tip about foam working on [[gitpod]]!
+
+
+========================================
+FILE: journal/2023-08-19.md
+========================================
+
+- [[Flancia]]!
+  - In the [[Flancia pattern language]] #19 stands for [[Right Freedom]]... and [[Revolution]].
+- Visiting [[Bern]] today.
+  - Writing this on the train there. It's very hot today but I think it will be nice.
+  - Also trying to decide between going to [[Romandie]] or [[Paris]] next week.
+- I read about [[htmx]] again during the week and I'm wondiering if I should give it a try for [[agora server]]. Right now most of its (limited) interactivity is hand-coded artisanal JS and DOM updates, and it could be nice to replace that with a better supported (yet not too opaque/cumbersome) alternative.
+  - [[berner waldland]] with [[LP]], it was beautiful.
+  - I got to [[Platform 10]] on time, just fine :)
+  - [[Gracias]]!
+  - [[Agua]]
+  - [[Collected Poetry]]
+  - [[AG]] :)
+- [[PJ]] told me he was part of the original [[Chrome]] team back in 2009! Very cool.
+  - https://www.linuxjournal.com/magazine/google-chrome-making-cross-platform-browser
+- [[ajhalili200]] said in a journal:
+  - > I'm getting more comfortable using Foam alongside Obsidian, especially inside a Gitpod workspace.
+  - This makes me want to check out [[Gitpod]] -- it makes sense that you could have hosted [[vscode]] with extensions like [[foam]]. I tried to have this previously but the [[foam]] extension was not supported in whichever vscode environment I tried; it's cool Gitpod has it.
+  - [[gitpod garden]]
+
+
+
+
+========================================
+FILE: journal/2023-08-20.md
+========================================
+
+- Found [[chip player]] and had found re-listening to some [[midis]] from the 90s.
+
+
+
+========================================
+FILE: journal/2023-08-21.md
+========================================
+
+- [[fan made adventure games]]
+- really loving [[chip player]]
+- enthusiastic about [[gitpod]]!
+
+
+
+========================================
+FILE: journal/2023-08-22.md
+========================================
+
+- [[Flancia]]!
+- [[work]]
+- [[info hazards]]
+
+
+
+========================================
+FILE: journal/2023-08-23.md
+========================================
+
+- [[coconut take-aways]]
+- [[work]]
+- [[FA]] showed me [[oblique strategies]], a kind of card-based [[pattern language]], and I loved it immediately.
+- [[Flancia]] in the evening!
+- [[rtc sre playlist]]
+
+
+
+========================================
+FILE: journal/2023-08-24.md
+========================================
+
+- [[lcdf]]
+  - :D
+- [[bags of holding]]
+- [[Gracias]]
+  - Gracias Buda!
+  - Gloria a las maravillas del universo!
+- Después de literalmente años logré conectar un tecladito pequeño a [[nostromo]], la pc de la tv que siempre corro a mis espaldas.
+  - Tuve que recurrir a usar [[bluetoothctl]]
+  - Se sintió como ganar acceso a [[conocimiento arcano]]!
+  - Y me liberó de algo; completé un pro asdfyecto después de años, aunque haya sido pequeño!
+
+
+
+========================================
+FILE: journal/2023-08-26.md
+========================================
+
+- [[Flancia]]!
+- [[flancia meet]] very shortly
+- Then a walk through [[La-Chaux-de-Fonds]] :)
+
+
+
+========================================
+FILE: journal/2023-08-28.md
+========================================
+
+- [[Flancia]]!
+  - [[work]] until 22 with a break in the middle for [[social coop]] [[twg]] meeting :)
+  - then did [[yoga]], [[go/move/28]] followed by [[10 minute breathwork]]
+  - Thank you [[AG]] :)
+  - Thank you my [[friends]] :)
+
+
+
+========================================
+FILE: journal/2023-08-29.md
+========================================
+
+- [ ] [[work]]
+  - was fine :
+- [[Flancia]]!
+- [[next23]]
+- [[yoga]]
+
+
+
+========================================
+FILE: journal/2023-08-30.md
+========================================
+
+- [[Flancia]]!
+  - [[30]] in the Flancia Pattern Language means [[flow]].
+    - 6 means flow also some days and 30 is 6 * 5 so it makes sense.
+      - 5 means [[focus]], so you can think of it as focusing on flow or flowing focusing, which to some extent may be seen as redundant (but doesn't need to be).
+- [[work]] was fine :) I'm settling into a rhythm of working until late with a break in the middle, and I enjoy it.
+- I attended to what I could of the [[fellowship of the link]], then a weird Jitsi bug that persisted across devices and internet connections locked me out! I couldn't see or hear anyone.
+  - I'll read notes and try to watch the recording though :)
+- Wrote, thought, meditated.
+- [[bouncepaw]]
+  - [[jitsi instances]]
+
+
+
+========================================
+FILE: journal/2023-08-31.md
+========================================
+
+- [[Flancia]]!
+- [[31]]
+  - is [[Las Jaras]] in the [[Flancia pattern language]] :)
+  - is a [[mersenne prime]].
+- [[work]]
+- [[AG]]
+- [[four pomodoros]]
+- [[birthdays]]
+
+
+
+========================================
+FILE: journal/2023-09-01.md
+========================================
+
+- [[1]] means, maybe unsurprisingly, [[Flancia]] in the [[Flancia pattern language]] :)
+- [[work]]
+- [[seehüsli]] :)
+
+
+
+========================================
+FILE: journal/2023-09-02.md
+========================================
+
+- Woke up by [[Bodensee]].
+  - Will miss [[Flancia meet]] today as I temporarily don't have internet connectivity.
+  - Will try to catch up later with people who were/are around! Apologies for missing it.
+- [[Flancia meet]] topics as I expected them
+  - [[docker]]
+  - [[agora recipe]] is running on [[coop cloud]], which is nice (this is what is serving link.agor.ai) but it needs some improvements:
+    - It should be easier to override Agora settings from the coop cloud recipe proper, e.g. Agora name and sources. This could take place in the form of mounting agora.yaml as a config file?
+    - It should be able to run one or more of the Agora bots which are part of [[agora bridge]] but currently not running for any Agora in agor.ai.
+  - [[activitypub]]
+    - Still unsure about whether to implement first-party support in e.g. [[agora server]], or to write a separate activitypub component (where? maybe in bridge?), or to rely on an existing implementation like the canonical golang one which seems quite mature and is geared precisely towards API usage (doesn't offer 
+- #push [[What is the Agora]]?
+  - I've been wanting to write a special node which acts as explainer to the Agora that should be accessible to the average (?) internet browser, in the sense of a person browsing the internet.
+  - Node [[agora]] was maybe originally that but it has amassed a lot of historical content which makes it harder to offer a 'curated' primer experience.
+  - I've also been thinking about this as a [[WTF]] button which we could render in red up top, with the milder tooltip 'I don't understand / what is this place anyway?'
+  - Surely writing this would be an interesting challenge in the first place :) The Agora is many things, at least to me, and probably to all the people already in the Agora of Flancia; and it has accreted layers (meanings) as time goes by.
+- [[Jerome]] told me about [[Beaufort]] cheese yesterday.
+
+As I sit here with my laptop (with [[vim]]) and no internet connection, I realize that I don't write here longform as much as I could. I guess the availability of the internet does make it easier for me to get distracted, which granted I see sometimes as a positive (it motivates a form of exploration), but might not be conducive to practicing the skill of writing coherently and consistently for more than a few bullet points in each journal.
+
+The thought of writing in my blog again (meaning https://flancia.org/mine) has come up a few times recently. I'm unsure; I like the process of writing in my garden, and how everything I write in it automatically shows up in the Agora moments later (at least when I have an internet connection). So maybe what I want is to embrace this space as a blog, and just try to write longer form alongside with my mainly outline-style notes, like other Agora users already do so beautifully.
+
+- [[todo]] maybe this weekend
+  - [ ] Upload social media activity gathered by the [[agora bots]] to git repos.
+    - This one has been in the back burner for a while and doesn't sound very hard.
+    - It would also remove one of the main reasons to keep making full Agora backups -- which keep causing low disk space events in the Flancia servers.
+    - All in all good bang-for-the-buck to start the weekend.
+  - [ ] Fix hedgedoc
+    - I think hedgedoc is not syncing to the Agora, the syncing process has some bugs at least -- while I'm dealing with 'git autopush' as per the above, it'd be a good time to take another look at this process and see if it can be made incrementally better.
+  - [ ] Actually autopull [[etherpad]] or [[hedgedoc]] on empty nodes
+    - I realized the other day this is quite simple; I tried this a few times in the past and ended up disabling autopull of the stoas because it can be disruptive (they tend to steal focus when pulled), but the disruption is really just because they are in the wrong position for empty nodes. Because empty nodes render on a separate template path, it should be straighforward to just embed the right stoa *right there* in the 'nobody has noded this yet' message, making the stoa onboarding experience much more convenient.
+  - merge PRs
+    - [x] Aram's
+    - [x] vera formatting  
+    - [ ] vera sqlite
+  - [ ] update journals page
+    - formatting of the page is all different/weird
+  - [ ] the pull of flancia.org/mine is broken above because of the parenthesis -- how to fix that?
+  - [ ] update [[patera]] to something non ancient?
+    - whatever is running on [[hypatia]]?
+
+
+
+========================================
+FILE: journal/2023-09-03.md
+========================================
+
+- [[Flancia]]!
+  - [[Taixu]]
+    - [[Kropotkin]]
+      - [[Kropotkin New Villages]]
+    - [[Haichaoyin]] ~ [[Sound of the Ocean Tide]]
+    - [[May Fourth]]
+    - [[Tang Dayuan]]
+      - [[Establishing a new Pure Land]]
+  - [[Agora]]
+    - [[Agora development]]
+      - See [[Flancia Meet]] yesterday and the journal, [[2023-08-02]].
+  - [[Mohammed]]
+    - Checked state of bank transfers, they take longer than expected but I am still hopeful this will work.
+  - [[EC]]
+    - Did a videoconference after long!
+
+
+
+========================================
+FILE: journal/2023-09-04.md
+========================================
+
+- [[AG]] :)
+- [[work]]
+  - trying to enjoy [[focus week]]!
+- [[Olof]] recommended https://www.youtube.com/watch?v=DurPqcBkI4g for when I learn [[Swedish]] :)
+- #push [[poems]]
+  - [[deep]]
+- #push [[todo]]
+  - [[autopush]], finally?
+- trying out [[wlvncc]], which I will try to remember as [[WayLand VNC Client]], also for machine-to-machine connections -- so far I was only using it for [[portal]], the script that I use to have a recursive view into a computer I'm using.
+  - it works very well but it doesn't have 'raw keyboard mode', which I need to be able to forward [[sway]] events to the target host that is also running sway.
+  - commented on https://github.com/any1/wlvncc/issues/24
+
+
+
+========================================
+FILE: journal/2023-09-07.md
+========================================
+
+- [[Flancia]]!
+  - significa que todo lo que escribo acá está en #Flancia por defecto :)
+- Flancia is a [[collection]] of [[computational environments]].
+- #push [[Agora 2023]]
+  - [[Agora priorities]] for the rest of [[2023]]:
+    - merging [[sqlite]]
+    - [[activitypub]]
+    - [[oauth]]
+    - [[votes]]
+
+
+
+========================================
+FILE: journal/2023-09-09.md
+========================================
+
+- [[Flancia]]!
+  - [[Flancia meet]] with [[j0lms]]
+  - [[prompting of creativity]]
+  - #push [[agora plan]]
+    - support for new formats:
+      - [[txt]]
+      - [[mp3]]
+  - #push [[kfaraday]]
+    - an [[artist]].
+  - #push [[2023-09-20]]
+    - [[fellowship of the link]] :)
+    - Working (playing with) the presentation I could ask the fellowship feedback on
+    - Forked [[agora slides]] (2021) into [[agora slides 2023]] today.
+  - wrote [[You will see me tonight]]
+    - [[Tara Burup]], [[Taraburup]] :)
+
+
+
+========================================
+FILE: journal/2023-09-10.md
+========================================
+
+- In the [[Flancia pattern language]], [[10]] stands for:
+  - [[2]] * [[5]], meaning for example [[fork your focus]]
+  - [[right view]] (10 .. 17 hold the eightfold path)
+  - [[may you be free from suffering]] (as it comes after [[9]])
+- [[Agora development]]
+  - Yesterday I pushed to anagora.org ("prod") after merging a few PRs, it was great.
+  - Apparently this broke topline search (redirecting to searching at e.g. Google), will now look into why and
+    - [x] fix it
+- #push [[Ursula K. Le Guin]]
+  - [[The Language of the Night]] https://en.wikipedia.org/wiki/The_Language_of_the_Night
+- [[trip to X]]
+- [[magnetic]] [[3d printing]]
+  - -> [[magnetic 4d printing]]
+- [[agora slides]]
+  - [[agora slides 2023]] :)
+    - enjoyed the process!
+    - I've wanted to add a 'WTF' button to the Agora of Flancia for some time, I think I may go ahead and base it around this node ;)
+    - thought of [[4k.agor.ai]], an Agora that could default to the dimensions in a full screen 4k monitor.
+      - embedding 2x2 iframes would result in the approximate 4-browser-tiles format that seems like a solid default for such a resolution.
+      - more generally of course this should be implemented as a reactive layout where display resolution (default) and users specify the tiling shape.
+  - [[darius kazemi]] [[server forking should be easy]] https://runyourown.social
+
+
+
+========================================
+FILE: journal/2023-09-11.md
+========================================
+
+- [[Flancia]]!
+- [[agora slides]]
+- #push [[Flancia
+- #push [[debate]]
+  - Imagine a public global debate about the crimes of [[Moloch]], and the ways to move forward.
+- #push [[liquid democracy]]
+  - Imagine calling elections in every nation-state currently recognized by the UN where a group of people think they could be useful. These meaning in addition to those called by the state in question as per custom up-to-date: put succinctly, imagine the citizens of the internet calling for open, transparent, fair, liquid-democracy-advancing elections in Russia, United States, China -- a priori without the authorization of the states in question, but with an intent to cooperate rationally with them.
+
+
+
+========================================
+FILE: journal/2023-09-15.md
+========================================
+
+- [[lcd soundsystem]]
+
+
+
+========================================
+FILE: journal/2023-09-17.md
+========================================
+
+- [[Flancia]]!
+  - In [[Flancia]] all weekend!
+    - [[53]]
+      - [[crema pastelera]]
+      - [[creme brulee]]
+      - [[crema catalana]]
+  - [[Flancia, or the revolution against Moloch]]
+    - [ ] agora development
+    - [x] flancia writing
+    - [ ] [[agora slides 2023]]
+      - [[commons]]
+  - [x] research [[Sri Lanka]]
+  - [ ] research [[Gosinga]]
+    - Which Gosinga, I wonder? I thought it would be one in Sri Lanka (reading this on [[2023-09-21]] but it doesn't seem to be the case.
+
+Loved the [[Majihima]] discourses on [[Heartwood]] (I already knew this), [[Cowherd]], [[Gosinga]].
+
+[[3149]] is an interesting number. It's not prime: it's [[47]] (we will defeat Moloch) * 67 (Bodhi, Bodhisattva).
+
+
+
+========================================
+FILE: journal/2023-09-18.md
+========================================
+
+- [[18]] is [[right understanding]] in the [[flancia]] [[pattern language]].
+  - Flancia is in some ways a [[calendar]]. I usually revisit the Flancia Pattern language daily, considering the current date as my default focus.
+- [[drishtis]] ~ [[29]] might be particularly interesting as it is a list; 29 tends to remind me of items on which my focus is trained on by default in the running month.
+  - on this note [[7]] and [[17]] this month were beautiful as usual
+  - [[20]] ~ [[agora slides]] this month as I'll present it to [[fotl]] in whichever shape it is :)
+- At this point I decided to start writing in the Agora assuming I have [[autopush]] on, even though I haven't implemented it.
+  - It will work like this: if you [[wikilink]] or #tag once node [[autopush]] in a resource, the Agora will try to push blocks for you even without mentioning #push; so the following would result in [[poems]] getting a push of this node without further ado.
+- [[poems]]
+  - I wrote [[Agua]] again today on my paper notebook.
+  - [[Fork]]
+    - Fork
+    - Fork, fork!
+    - As we fork we'll [[merge]]!
+  - [[Merge]]
+    - Merge
+    - Merge, merge!
+    - As we merge we'll [[fork]]!
+  - [[Flow]]
+    - Flow
+    - Flow, flow!
+    - As we flow we'll do kindly!
+- Hello from [[paramita]] :)
+  - [[fork]]
+    - [[nostromo]] music
+    - [[paramita]] [[agora slides]]
+    - [[sila]] [[letters]]
+
+
+
+========================================
+FILE: journal/2023-09-20.md
+========================================
+
+i also use avidemux for simple video editing. 
+20:22
+Samuel Klein
+Samuel Klein says:love your naming scheme! 
+Samuel Klein says:this diagram also suggests scale-free design [which is compelling; not privileging zoomed-in or zoomed-out parts of the whole] 
+Samuel Klein says:++ 
+20:36
+PK
+Peter Kaminski
+Peter Kaminski says:Flask is a lightweight web application framework for Python 
+Peter Kaminski says:
+https://flask.palletsprojects.com/
+ 
+20:41
+JM
+Jerry Michalski
+Jerry Michalski says:is that like agreeing on a hashtag? 
+20:47
+Samuel Klein
+Samuel Klein says:One thing I'd like to see more easily is the list of repositories in your agora, and which ones have a node for a given wikilink 
+Samuel Klein says:I have to run!  This was great to see, worth tuning to a 15-min pitch 
+Samuel Klein says:❤️ ❤️ ❤️ 
+21:01
+avatar
+Samuel Klein
+Samuel Klein says:oho my next meeting was moved back I have 15 min 😃 
+21:02
+JM
+Jerry Michalski
+Jerry Michalski says:yay! 
+Jerry Michalski says:it's a hypertext catfish! 
+21:05
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:I found this very useful! I have to drop 
+21:07
+JM
+Jerry Michalski
+Jerry Michalski says:see you! 
+21:07
+PK
+Peter Kaminski
+Peter Kaminski says:
+https://en.wikipedia.org/wiki/Glock_switch
+ 
+21:09
+avatar
+Samuel Klein
+Samuel Klein says:there's probably room a tool like "full auto-linker" that could look through your doc + its context, check your agora for entities that exist across the conjoined namespace, and autolinking concepts the first time they appear in your doc 
+
+
+
+========================================
+FILE: journal/2023-09-21.md
+========================================
+
+  - [[Flancia, or the revolution against Moloch]]
+    - [x] [[work]]
+    - [ ] agora development
+    - [x] flancia writing
+    - [x] [[agora slides 2023]]
+      - presented yesterday to the [[fellowship of the link]] after some technical difficulties
+      - received very interesting feedback! I am very thankfull
+      - -> [[agora commons]] [[agora platform]]
+  - [ ] research [[Gosinga]]
+    - This + Sri Lanka produced no hits but led me to [[Anuradhapura]] somehow on my web search
+  
+- #push [[las jaras]]
+
+De quién son [[las jaras]]?
+
+Están las de Maitreya,
+las de Tara,
+las de Avalokiteshvara! 
+
+
+
+
+========================================
+FILE: journal/2023-09-23.md
+========================================
+
+- [[Flancia]]!
+  - [[flancia meet]]
+    - Quiet but also nice :) Catching up with messages.
+- Yesterday we watched [[Demons in Paradise]] with [[AG]] -- about the civil war in [[Sri Lanka]]. Harrowing stuff.
+- What is the name of that nice Python CLI library again?
+  - [[click]]?
+- [[state of html]] survey seems like a great way to learn about lots of modern [[HTML]] features: https://survey.devographics.com/en-US/survey/state-of-html/2023/
+- #push [[spaces]]
+  - [[fork]]!
+    - fork, fork!
+    - as we merge we'll fork!
+    - [[nostromo]] music
+    - [[paramita]] [[revolution against Moloch]]
+    - [[sila]] [[letters]]
+
+
+
+========================================
+FILE: journal/2023-09-24.md
+========================================
+
+- #push [[Flancia]]
+  - remember the importance of the [[corpus]].
+    - how it is gathered, how it is selected, how it is curated (gardened?) over time.
+  - [[Agora]]
+    - [[Agora development]]
+      - Working on [[prime]], [[executable nodes]] after a 10 month hiatus: I told myself I should go for something very free/open on this Sunday flowing :)
+    - [[Mycoverse]]
+  - [[space]]
+  - [[gloria]]
+  - [[avalokiteshvara]]
+  - [[trip to x]]
+    - [[japan]]
+      - [[best japanese movies]]
+    - [[sri lanka]]
+
+
+
+========================================
+FILE: journal/2023-09-25.md
+========================================
+
+- [[Flancia]]!
+  - [[work]]
+  - [[social coop]] [[twg]]
+  - [[omelas]]
+
+
+
+========================================
+FILE: journal/2023-09-26.md
+========================================
+
+- [[work]]
+  - [[ER-CH]]
+    - [[NTF]]
+- [[Flancia]]!
+  - [[agora development]]?
+- [[RAV]]
+
+
+
+========================================
+FILE: journal/2023-09-27.md
+========================================
+
+- [[just do it]]
+- [[gone]]
+- [[yoga with x]]
+- [[fellowship of the link]] was great!
+  - note this node takes minutes to load, and that's sort of awesome
+  - because of current agora behavior every embed that opens, in the node itself and everything it pulls by default, grabs focus when it loads. the result is a bit like an automatic tour of our conversations over the previous many months.
+  - it is... Agora [[demo mode]] / [[autopilot]], as I dreamt it, implemented as a side effect of bugs!
+  - [[neobooks]]
+  - I discovered someone took amazing notes while I gave the presentation yesterday. It filled me with joy, such friends!
+
+
+
+========================================
+FILE: journal/2023-09-29.md
+========================================
+
+- [[29]] is [[drishti]] in the #Flancia [[Pattern Language]].
+- My hobby, sometimes: think about whether numbers are prime while laying down or sitting.
+  - Take [[209]] -- it is not prime.
+    - I find this one quite beautiful, this is how I got there:
+      - It is not multiple of two or five trivially.
+      - It is not a multiple of three as its digits don't add up to a multiple.
+      - It is not a multiple of 7 because 210 is (as 21 is 3 * 7) and it's too near.
+      - Consider the hypothesis that it is multiple of 11.
+        - 220 is a multiple of 11 because 22 is.
+        - 220 - 11 is 209. 
+        - So 209 is a multiple of 11. What is the other factor?
+      - Consider the hypothesis that it is a multiple of 19.
+        - 19 * 10 is 190.
+        - 190 + 19 is 209 precisely, so it is a multiple.
+      - Therefore 209 is 11 * 19.
+  - [[1547]] is not prime; it is 7 * 13 * 17.
+    - I got to this one by whistling a 1547 tone, seeing it in [[spectroid]], then checking https://anagora.org/prime/1547 :)
+
+
+
+========================================
+FILE: journal/2023-09-30.md
+========================================
+
+- [[Flancia]]!
+  - [[AG]] :)
+  - [[Japan]]
+    - [[tickets]] :)
+    - [[best japanese movies]]
+  - #push [[Taixu]] ~ died 19[[47]], [[57]] years old
+    - [[Pure Land]]
+      - [[Maitreya]]
+        - [[Inner Court]]
+      - [[Amitabha]] which I have occasionally written [[Amithaba]] :)
+        - Their Pure Land is [[Sukhavati]] or [[Land of Bliss]]
+        - Apparently was called [[Dharmakara]] as a [[Bodhisattva]]
+          - Although [[Avalokiteshvara]] and [[Vajrapani]] are their disciples
+  - [[Agora]]
+    - [[agora development]]
+      - [[zippies]]
+      - [[autopush]]
+      - [ ] [[executable subnodes]] needs cleanup (feature flag)
+  - [[movie]]
+    - [[Los Reyes del Mundo]] en [[Filmingo]]
+
+
+
+========================================
+FILE: journal/2023-10-01.md
+========================================
+
+- [[Flancia]]!
+  - Today is also [[31]] of [[September]] in a way, just as yesterday was the [[0]] of [[October]] :)
+  - [[Pure Land]]
+    - [[Maitreya]]
+      - [[Inner Court]]
+    - [[Amitabha]] which I have occasionally written [[Amithaba]] :)
+      - Their Pure Land is [[Sukhavati]] or [[Land of Bliss]]
+      - Apparently was called [[Dharmakara]] as a [[Bodhisattva]]
+        - Although [[Avalokiteshvara]] and [[Vajrapani]] are their disciples
+  - [[Agora]]
+    - [[agora development]]
+      - [ ] [[zippies]]
+        - [ ] maybe move stoas back down? unsure. this might be an alternative to making zippies work.
+      - [ ] [[autopush]]
+        - [ ] take a look
+      - [ ] update agorai
+      - [x] [[executable subnodes]] needs cleanup (feature flag)
+        - [x] flip it on for anagora.org
+  - #push [[Open Letters]]
+    - the [[Agora]] is a repository of open letters:
+      - [[Taixu]]
+        - do I need to start it? or perhaps it's the [[Open Letter to the Agora of Flancia]]?
+      - [[Google]]
+        - [[Open letter to Google]]
+      - [[M]]
+        - [[Open letter to Maitreya]]
+        - [[Open letter to Mara]]
+        - [[Open letter to Moloch]]
+        - [[Open letter to Musk]]
+        - [[Carta abierta a Milei]]
+
+
+
+========================================
+FILE: journal/2023-10-02.md
+========================================
+
+- [[uuid]] [[v7]] looks cool
+- [[work]]
+- [[Flancia]]
+
+
+
+========================================
+FILE: journal/2023-10-03.md
+========================================
+
+- [[work]]
+  - meetings with [[er-ch]]
+  - [[consultation doc]]
+  - [[proposal]]
+- [[flancia]]!
+  - I've been thinking of [[flancia home]] in the context of [[mohammed]]
+  - [[37]]
+    - [[bodhi]]
+
+[[Imaginate un mundo sin latencia]] me dije, habiendo solucionado los problemas de conectividad bluetooth en [[nostromo]] :)
+
+A veces extraño el [[español]] como idioma.
+
+
+- #push [[youtube]]
+  - the uploading experience even on studio.youtube.com leaves me unsatisfied :)
+  - it is slow, you need to perform a multitude of clicks to get to publish something
+  - friction should be much lower than this!
+
+Mientras escribo esto, estoy escuchando [[hola frank]] de [[sumo]] :)
+
+- Next I will work on a [[proposal]] within the context of my work in the [[er-ch]].
+- And on my personal computer I will start work on [[x]] as the evening progresses :)
+
+Let us pray, dice Luca Prodan :)
+
+- Four hours later, I'm back here after three hours of work and then dinner+yoga.
+- [[janet]] made me laugh: https://www.youtube.com/watch?v=LXbYeJKcRf4
+
+
+
+========================================
+FILE: journal/2023-10-04.md
+========================================
+
+- [[work]]
+  - [[er-ch]]
+  - meetings
+- [[Flancia]]
+  - [[Zürich Film Festival]] with [[AG]] :)
+
+
+
+========================================
+FILE: journal/2023-10-05.md
+========================================
+
+- today is [[5]] October
+  - threw [[27]] which is [[loving kindness]], [[merge and keep merging]], and [[taixu]] in September, 
+- [[work]]
+- [[flancia]]
+  - [[AG]]
+  - reunited with my [[Lady Burup]]
+
+Discussed divorce with [[L]], we've been separated for around 1.4 years. Things are going well and I wish us both happiness!
+
+
+
+========================================
+FILE: journal/2023-10-06.md
+========================================
+
+- [[6]] ~ [[flow]]
+- [[open letters]] ~ [[59]]
+
+
+
+
+========================================
+FILE: journal/2023-10-07.md
+========================================
+
+- [[flancia]]!
+  - [[flancia meet]]
+  - #push [[telescopes]] :)
+      - [[refractor]] vs [[reflector]]
+        - [[reflectors]] require [[collimation]] but are overall more capable
+      - [[reflectors]]
+        - [[orion skyquest xt6]]
+          - hmm, [[orion]] seems to be [[employee owned]]?
+        - [[celestron starsense explorer]] is available on [[galaxus]]
+- on other definitions of [[pull]] and [[push]]: https://kellanem.com/notes/push-and-pull
+- #push [[open letters]]
+  - [[17]] [[maitreya]]
+  - [[71]] [[musk]]
+  - [[97]] [[alphabet]], or should it be [[98]] as [[google]] was founded then?
+  - I finally wrote down the list for [[October 2023]] on paper (a post it I'll keep in one of my desks) and above
+- [[carta abierta a milei]] se suma a la competición (?)
+
+
+
+========================================
+FILE: journal/2023-10-09.md
+========================================
+
+- [[flancia]]!
+  - [[work]]
+    - [[er-ch]] gets intense sometimes
+    - still it's a privilege to represent [[zooglers]] and to some extent [[googlers]], meaning my fellow employees
+  - [[aldhari]]
+
+
+
+========================================
+FILE: journal/2023-10-11.md
+========================================
+
+- [[flancia]]!
+  - [[work]]
+  - [[fellowship of the link]]
+    - [[public ai]]
+
+
+
+========================================
+FILE: journal/2023-10-14.md
+========================================
+
+- Welcome to the Agora of Flancia!
+  - Today and every day.
+
+Today is [[14 October 2023]] and I am glad you are here with me.
+
+It has been ages since I've in Flancia, sometimes it feels, even as time is varying.
+
+<hr />
+
+Here is what I call a poem: [[trees]].
+
+<hr />
+
+This weekend I intend to advance what I call [[open letters]]: documents addressed to groups, openly published even as they are being written.
+
+<hr />
+
+As of 21:45 CET I did some 'day job' stuff (having chosen it) and started a proposal (open letter, as per the above) that I had on my todo list.
+
+Now switching to [[paramita]], planning to continue on related topics but in the [[commons]].
+
+<hr />
+
+Today we bought the tickets to and from [[Sri Lanka]], happy about it!
+
+
+
+========================================
+FILE: journal/2023-10-15.md
+========================================
+
+- [[Flancia]]!
+  - Thank you [[AG]].
+  - Thank you to all my [[friends]]!
+
+
+
+========================================
+FILE: journal/2023-10-16.md
+========================================
+
+- [[Flancia]]!
+  - I woke up with a cold, have the sniffles hard; I [[worked]] from home and took it easy -- no meetings after 15:30, tried to rest. Tested negative for Covid though!
+  - Last light in the balcony looking southwest, cold day but beautiful.
+  - [[AG]]
+  - [[Lady Burup]]
+  - I thought of [[Tara]].
+
+
+
+========================================
+FILE: journal/2023-10-17.md
+========================================
+
+- [[Flancia]]!
+  - [[work]]
+    - I still have a cold but it was slightly better.
+    - I checked with the [[dentist]] and they didn't mind (I tested negative for Covid yesterday), so I went ahead and I'm happy with the results!
+  - [[Agora]]!
+    - I thought of implementing ! as a short for #push, meaning that anything wikilinked and "strongly asserted" behaves the same as push: the following blocks are transcluded in the destination.
+    - [[open letters]]!
+      - [[open letter to musk]]
+      - [[carta abierta a milei]]
+    - [[hex]] numbers :)
+    - I calculated [[397]] as the 11th hex number, but if you define them naturally (with one ball yielding the first hex number, not the zeroeth) it would be [[469]]
+      - Still it was fun to do it in my head :) it took 15'-25' while I was doing yoga.
+      - I came away with a renewed appreciation of hex numbers.
+    - I then decided to code an hex [[number]] producer :)
+      - https://github.com/flancian/garden/commit/3d4e608b6cb78aa55b039cd6ce0716e9d8275e9d just for fun.
+
+
+
+========================================
+FILE: journal/2023-10-19.md
+========================================
+
+- [[Flancia]]!
+- [[work]]
+  - was tough
+    - it started well with a reassuring conversation with a mentor, but the day ended with more conflict again in the employee representation group.
+    - the sub-group within the group I am in -- I find really draining; it is one of the most difficult groups I've been in, in part because of a personality mismatch between myself and the rest of the group and because of the high stakes/high stress situation.
+    - apparently the group really really doesn't like my way of being/acting/requesting information and reasons for why we do things the way we do. i find them overly hierarchical, surprisingly conservative, and IMHO sometimes uncharitable and rash (some of them).
+    - I am thinking of stepping down from said subgroup but I think I will wait until after my holidays, which are imminent :)
+- [[audio recorder]]!
+  - https://github.com/Dimowner/AudioRecorder is open source and seems decent: https://play.google.com/store/apps/details?id=com.dimowner.audiorecorder&pli=1
+
+
+
+========================================
+FILE: journal/2023-10-21.md
+========================================
+
+- [[flancia]]!
+  - [[flancia meet]]
+  - I had to pick up a reminder and do my [[tax return]] today as tomorrow I travel for 3w+, and I could only extend the deadline for slightly less than that. I tried to enjoy it, and I was able to!
+  - Having a great time with my [[mum]] being over.
+
+
+
+========================================
+FILE: journal/2023-10-22.md
+========================================
+
+<<<<<<< HEAD
+- [[trip to x]]!
+  - Flying to [[Hong Kong]] and then [[Tokyo]] today.
+  - With [[AG]] :)
+  - Very happy about these holidays! They've been planned for long, and as work got tough in the last few months I relied on "seeing them coming" quite a bit.
+  - I'll be very jet lagged but also likely happy in Shinjuku for the first few days.
+
+As I write this, I'm roughly above [[Baku]] about to cross the [[Caspian Sea]]. I don't have an internet connection so I'm jotting down these local notes which will be synced to the Agora later.
+
+I guess much has already been said about the relatively rareness of being offline nowadays; I am old enough to remember a time before being online at all was possible; then a time in which being online was rare; then the transition to always-on home internet and then mobile internet. I welcomed each increment of extra connectivity, and I still love how far we've gotten in this respect; but I can also appreciate the focus that being fully offline for a bit seems to bring. If nothing else it announces that the same focus is always available -- behind the impulse to catch up with messages, or check feeds, or read about Baku and the Caspian Sea on Wikipedia (which is surely what I would be doing right now instead of writing these words were I not truly offline.)
+
+- [[agora]]
+
+I'm thinking a bit of Agora development during these holidays; it might or might not happen, based on all the sightseeing and experiencing we'll be doing out there in the analog world :) But I thought it would still be nice to think of which things I could improve in the Agora if I have some time available.
+
+I might write some [[executable subnode]] or other, if nothing else because they are fun and self-contained.
+
+I think I will try to do one or two quick iterations on the [[Agora Server]] UI, maybe finishing the move to [[zippies]] as base widget as I've already done for nodes, stoas and most sections really. If I am able to move all sections under the search button/field to zippies the UI will probably look a lot more streamlined/be easier to understand, less confusing (this I'm guessing based on earlier feedback). Also it's not hard to do and it is apparent, so it sounds fun.
+
+Moving on to larger things, [[mycoverse]]/[[fediverse]] integration is something I would love to get done in this Q4 2023 so getting started on it would make a lot of sense. I would love to understand what is the minimum that Agora Server would need to do to be able to expose user accounts as Fediverse feeds. Then new/updated nodes could generate something close to new posts/notes? Unsure.
+
+Also, some playing with an hypothetical [[knowledge commons extension]] for e.g. [[Obsidian]] or [[Logseq]] or [[VSCode]] could be in order after the conversation last week with the [[fellowship of the link]]. But one blocker there is that I'm currently *not* using either Obsidian or VSCode as garden editors, so I'm not directly scratching an itch. Having said that, moving back to Obsidian or Logseq or [[Foam]] for a bit could make sense to see how far they've gone since the last time I've used them. It's still a shame Obsidian is not free software though.
+=======
+- I tried [[framatalk]] by [[framasoft]] yesterday and today and I'm liking it a lot.
+  - [[jitsi]] based.
+  - https://framatalk.org/your-room-name and it drops you straight into a call, beautiful.
+>>>>>>> 2c5b52a413a40d92a8033377f285a8589e4e12e5
+
+
+
+========================================
+FILE: journal/2023-11-02.md
+========================================
+
+- Several days later, here I am again :)
+  - I am writing this on the [[Shinkansen]] back to Tokyo.
+  - Looking forward to doing some reading/writing/coding.
+- [[Agora Development]]
+  - I am tired of the Agora being so slow to load.
+  - There are two solutions I can think of: a hard(er) one and an easy one. For some reason I've postponed both for very, very long. I think I'll try to implement the easy one now ;)
+
+
+
+========================================
+FILE: journal/2023-11-05.md
+========================================
+
+- Writing this on the plane to [[Colombo]] :)
+  - [[trip to japan]] -> [[trip to sri lanka]]
+- [[Majihima Nikaya]]!
+  - [[62]] [[Rahula]]
+  - [[77]] to Udayin: "…and they understand how beings pass on according to their actions. And thereby many disciples of mine abide, having reached the consummation and perfection of direct knowledge."
+  - [[78]] on how not performing evil actions/speech/etc. is not enough.
+    - In this translation, the Buddha uses [[Right Intention]] instead of [[Right Resolve]]; [[Right Knowledge]] instead of [[Right Understanding]]; and [[Right Deliverance]] instead of [[Right Freedom]].
+
+
+
+========================================
+FILE: journal/2023-11-18.md
+========================================
+
+- Back in [[Flancia]]!
+  - But did I ever really leave? :)
+  - [[flancia meet]] with [[j0lms]] was great
+- #push [[3]]
+  - [[Three Aspirations]] from [[Thubten Chodron]]:
+    - Today, as much as possible, I won't harm anybody.
+    - Today, as much as possible, I will be of benefit and service to others.
+    - Today, I will hold in my mind the [[bodhicitta]] motivation to attain awakening [[for the benefit of all beings]]."
+- #push [[7]]
+  - [[avalokiteshvara]]
+  - [[heart sutra]]
+    - https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation#thays-letter
+
+
+
+========================================
+FILE: journal/2023-11-19.md
+========================================
+
+- [[19]] stands for [[Right Freedom]] or [[Right Deliverance]] in the [[Flancia Pattern Language]].
+- [[AG]]!
+  - Las Aventuras de [[Renacuajo]] y [[Kaulquappe]].
+- [[bouncepaw]] published [[Betula 1.1]] with exciting changes! https://social.coop/@bouncepaw@merveilles.town/111434171676590229 https://betula.mycorrhiza.wiki/v1.1.0.html
+- [[Agora]]
+  - [[Async agora]] branch
+  - [[v]] filed exciting PRs! https://social.coop/@v@federate.social/111434177330536762
+
+
+
+========================================
+FILE: journal/2023-11-20.md
+========================================
+
+- [[EC]]
+  - Conoce a una persona que se llama [[Leo]] porque lee mucho.
+
+
+
+========================================
+FILE: journal/2023-11-21.md
+========================================
+
+- Last day of [[vacation]]; tomorrow I go back to work.
+  - My mum leaves today. It was very nice seeing her on both ends of my travel!
+  - We played [[Rummy]] and had beautiful conversations. We also played with [[Lady Burup]].
+- [[done]]
+  - Yesterday I paid [[bills]].
+  - I pushed [[async agora]] to production, meaning anagora.org, and it's holding up quite well! I notice an improvement in speed, which I know is only partially there -- nodes load as slowly as ever on a cache miss, but the fact that the UI doesn't block on it really helps. I can start reading wikipedia or move on to a web search before the node fully loads. It just feels more responsive.
+
+
+
+========================================
+FILE: journal/2023-11-24.md
+========================================
+
+- Back to [[work]] since Wednesday.
+- [[Back pain]], but nothing terrible. I want to do more [[yoga]] (resuming after travel).
+- [[fuck it]] (happily)
+  - [[poetry]]
+    - [[whispered]]
+- [[dharma]]
+  - [[heart sutra]]
+
+Yesterday I woke up with back pain in a new place, mid-back; it got a bit worse in the evening after attending the beautiful event of [[AG]] presenting. It didn't get in the way of enjoyment but I need to keep an eye on it/take care and try to rest and recover.
+
+
+...Having said that, I cleaned the bathroom and [[Lady Burup]]'s toilet and my back got a bit worse :) But I feel it still gave me energy.
+
+
+Then I worked a bit more, after oncall handoff, and I got several things "out of the way" in a relatively short time. It felt great.
+
+- As of 23h I have moved to bed early due to increasing back pain. I think my back needs rest/inactivity.
+
+
+
+========================================
+FILE: journal/2023-11-25.md
+========================================
+
+- I re-read [[reality has a surprising amount of detail]] after it came up in [[HN]].
+- My [[back pain]] remains severe; I couldn't sleep very well. Pages at 6am and 9am also didn't help :)
+  - I'll try to take it very easy today and see what happens.
+  
+As I deal with [[pain]], I think of my [[friends]] and the [[heart sutra]].
+
+<hr />
+
+Gone, gone beyond!
+
+All gone to the other shore
+
+<hr />
+
+Gone kindly
+
+If you have to go
+
+[[Go kindly]]!
+
+- [[Flancia meet]]
+
+
+
+========================================
+FILE: journal/2023-11-26.md
+========================================
+
+- Beautiful start to the day thanks to [[AG]]!
+  - Oncall, got paged at 9am -- not too early thankfully. And I had left the bedroom so AG could sleep through it as I hoped.
+  - [[Lady Burup]] is softer than ever it seems :) I have been thinking of maybe introducing her to a loyal/earnest feline companion, be it Lord or Page, maybe short in years and happy to learn from her -- and assist? :) When I leave her alone (e.g. for going to work, or if I stay a night at AG's) I find it sad she might be lonely, and I wonder if she might be happier living also with another cat.
+  - I spoke to [[Chat GPT]] in call mode and it was mindblowing again. They reacted with interest when a 'Burup' (intended for my Lady) got into our call, and to my information that it was human-feline language.
+- Thought about numbers and mindfulness.
+  - Counted 89 mindful breaths using my [[binary mala]], my hands, while following to Sam Harris' daily meditation (10-11 minutes usually).
+  - [[Magnetic mala]] probably should be 127 balls by default, as that's the first centered hex number which exceeds [[108]]. Incidentally is the amount of spare magnets I have after gifting a lot (gladly).
+- Some [[social coop]] work, didn't find the root cause for the issue with indexing someone reported yet but made some progress.
+- Thought of [[Richard Francis Burton]], the [[victorian scholar]].
+  - [[Alejandro Dolina]] first told me about him.
+- [[OEIS]] has a great page on [[offsets]] which make me think hex(1) should be 1, hex(2) should be 7 -- e.g. offset for [[hex numbers]] should be 1.
+  - I'll fix hex.py in my bin/ in the garden accordingly ;)
+  - This will let me assert: "the hexagon which is n long on any one side contains hex(n) magnets", e.g. hex(7) = 127.
+
+
+
+========================================
+FILE: journal/2023-11-28.md
+========================================
+
+- [[work]].
+  - Back in the office! My [[back pain]] has subsided enough.
+- #push [[2024]]
+  - Started thinking about [[2024]], which incidentally is 8 * 253 == 8 * 23 * 11.
+  - [[Flancia 2024]] might follow [[Flancia 2023]], and even resemble it :)
+- [[flow]]
+  - [[flow state]]
+
+
+
+========================================
+FILE: journal/2023-11-29.md
+========================================
+
+- [[flancia]]!
+  - [[fellowship of the link]] was beautiful as usual
+  - [[back pain]] made me think of some short poems:
+    - I will lean into my [[pain]]
+      - we will be like [[arrows]]
+    - quién es la chica que estudia?
+      - quién es la chica que escribe?
+- [[work]]
+  - [[holacracy]]
+
+
+
+========================================
+FILE: journal/2023-11-30.md
+========================================
+
+- [[work]]
+- met [[june]] after work, it was great! we had a drink and a bite
+- then came home to [[lady burup]]
+- [[remix]]
+  - [[geometría del universo]] + [[lady burup]]
+    - [[colleen]]
+    - [[bu ru ru ru rup]]
+- played with [[chatgpt]], loved them!
+
+
+
+========================================
+FILE: journal/2023-12-01.md
+========================================
+
+- [[work]]
+- then [[open letters]] :)
+  - [[open letter to the Agora of Flancia]]
+  - [[open letter to Elon Musk]]
+    - https://twitter.com/flancian/status/1730691791328866382
+- [[agora development]]
+  - [ ] fix pulls
+    - this broke with async; async is the right thing IMHO, and the fix should be within main.ts and relatively straightforward I think.
+- [[nts]]
+  - liked [[sounds of the dawn - canadian new age special]] [[2023-11-04]] https://www.nts.live/shows/soundsofthedawn/episodes/soundsofthedawn-4th-november-2023
+  - in particular I believe [[jean-pierre labreche]] https://www.nts.live/artists/86907-jean-pierre-labreche but I need to relisten
+    - which led me to [[Sadhana]] which is what I've been doing sometimes I guess, although I don't remember the Buddha using that name so far in the [[suttas]], need to [[cross-reference]].
+
+
+
+========================================
+FILE: journal/2023-12-02.md
+========================================
+
+- [[Flancia Pattern Language]]
+- [[Open Letter to the Agora of Flancia]]
+- [[Open Letter to Elon Musk]]
+- [[flancia meet]]
+  - [[doing]]!
+    - started using [[doing]] as new source of truth for "todo list" around [[December 2023]].
+    - [ ] implementing autopush for exclamation marks
+    - [ ] coding in a [[december adventure]]
+    - [ ] writing [[open letter to Musk]]
+    - [ ] writing [[open letter to the Agora]]
+    - [ ] writing [[open letter to Google]]
+
+
+
+========================================
+FILE: journal/2023-12-03.md
+========================================
+
+- After trying for months I finally got [[screensharing]] to work in [[sila]].
+
+
+
+========================================
+FILE: journal/2023-12-04.md
+========================================
+
+- [[i3 migration guide]]! has lots of interesting pointers for [[wayland]] ([[sway]]) utilities, found it helpful even though I've been fully on Wayland for about a year (I think) by now: https://github.com/swaywm/sway/wiki/i3-Migration-Guide
+
+
+
+========================================
+FILE: journal/2023-12-05.md
+========================================
+
+- [[december adventure]]:
+  - [[day 5]] :)
+    - I'm testing what I'm calling [[natural pushes]] with this section in my journal.
+    - these blocks should all be pushed to [[december adventure]] because I suffixed it with a colon.
+    - I think this reads a lot better than using #push and all.
+    - ! also works as a suffix :)
+- [[4]]:
+  - 134 152 134 152 [[hz]]
+  - ([[O oh O oh]]...)
+- [[5]]:
+  - hypothesis, in hz:
+  - 134 152 134 152 311 [[hz]]
+  - I will ask [[chatgpt]] to confirm, it is able to do this just fine (albeit probably inefficiently, for now, energetically speaking)
+- [[Agora Development]]:
+  - having fun with it! :D
+  - working on consistency + UI simplification
+- no [[work]] today except answering a message and quick code reviews as I got up feeling sick after a night of sleeping very little + quite badly due to heavy congestion (likely a common cold)
+- [[Flancia]]:
+  - reviewed old papers and it felt freeing!
+  - [[Flancia doc]]
+
+
+
+========================================
+FILE: journal/2023-12-06.md
+========================================
+
+- Woke up feeling a lot better!
+  - 7h of sleep breathing acceptably make a lot of difference.
+  - [[2023-12-05]]: I ended up feeling better after I was finally able to take a nap late in the afternoon. In the evening I did some open source coding, [[december adventure]]. Enjoyed it a lot!
+- [[dentist]] appointment -- I tested negative for Covid and my symptoms are almost gone so I think I'll attend (and ask if they are OK with it, like last time I was so-so).
+- Today back to [[work]]. I plan to work until 20, at which time I'll join...
+- The [[fellowship of the link]] weekly call :)
+  - :D
+  - [[neobooks]]
+  - [[doing]]: 
+    - [ ] I need to fix pushing to the Agora from Hedgedoc, for some reason it broke 
+- In [[2024]] I want to resume work on/with [[coop cloud]].
+  - Hmm, that could actually fit the [[december adventure]]?
+  - [ ] I want to improve flancia.agor.ai; make it be up to date, match anagora.org.
+    - [ ] update docker images
+  - [[december adventure]] :)
+  - [[poll]]:
+    - I ran a poll whether to try to kill or heal [[Moloch]] in [[2024]] and it came out [[heal Moloch]].
+    - I thus plan to write an [[open letter to Moloch]] and try to reason things out, try to disentangle ourselves constructively and mutually improve on views, values and behaviours.
+
+
+
+========================================
+FILE: journal/2023-12-07.md
+========================================
+
+- [[open letters]]:
+  - [[Open Letter to the Agora of Flancia]]
+  - [[Open Letter to Google]]
+  - [[Open Letter to Moloch]]
+- Went to the [[dentist]], finished treatments!
+- [[work]]: it was good actually!
+- [[december adventure]]:
+- [[Moloch]]:
+  - I ran a poll in the Fediverse; two people voted to [[heal Moloch]], zero for [[kill Moloch]].
+
+
+
+========================================
+FILE: journal/2023-12-08.md
+========================================
+
+- [[work]]
+- [[december adventure]]
+- [[Flancia]]!
+  - Cómo te quiero
+  - [[Quiero ser pirata]]
+  - [[Fork]]:
+    - Fork, fork, fork!
+    - As we [[merge]] we'll [[fork]]!
+  - [[Adversarial Interoperability]]:
+    - A great [[idea]].
+    - Name as per [[Cory Doctorow]].
+  - [[bard]]:
+    - [[gemini]] is exciting!
+  - [[chatgpt]]:
+    - [[chatgpt playlist]]
+  - [[treble bass]]
+  - [[j0lms]]
+    - [[soma]]
+    - [[cannabis]]
+    - [[mejores líderes]] [[federación]] [[modelo suizo]]
+    - [[december adventure]]
+    - [[agora development]]
+    - [[hedgedoc]]:
+      - [x] fixed hedgedoc export by moving export script to https://github.com/hedgedoc/cli
+      - nice to have it back!
+      - [[adversarial interoperability]]
+      - [[yoga with x]]
+
+
+
+========================================
+FILE: journal/2023-12-09.md
+========================================
+
+- [[flancia]]!
+  - [[flancia meet]] with [[j0lms]] in the night (before bed) and with [[bouncepaw]] in the morning.
+  - [[postmarks]]
+- [[Schaffhausen]]
+- [[Schwarzwald]]
+- [[Indiana Jones]]
+- [[Yoga with X]] -> [[framatalk]]
+
+
+
+========================================
+FILE: journal/2023-12-11.md
+========================================
+
+- [[Flancia]]:
+  - [[December Adventure]]
+  - [[work]]
+  - [[Selva Negra]]
+- [[poems]]:
+  - fork, fork, fork!
+    - as we merge we'll [[fork]]!
+  - agua, agua, [[agua]]:
+    - agua para los sedientos!
+  - [[yoga with x]]:
+    - was great and chaotic :)
+  - [[december adventure]]
+    - thinking about this December as an introduction to [[2024]]!
+- [[Milei]] asumió
+- [[Schwarzwald]] over the weekend with [[AG]] :)
+
+
+
+========================================
+FILE: journal/2023-12-11_BACKUP_277894.md
+========================================
+
+- [[Flancia]]:
+  - [[December Adventure]]
+  - [[work]]
+  - [[Selva Negra]]
+- [[poems]]:
+  - fork, fork, fork!
+    - as we merge we'll [[fork]]!
+  - agua, agua, [[agua]]:
+    - agua para los sedientos!
+  - [[yoga with x]]:
+    - was great and chaotic :)
+  - [[december adventure]]
+    - thinking about this December as an introduction to [[2024]]!
+- [[Milei]] asumió
+- [[Schwarzwald]] over the weekend with [[AG]] :)
+
+
+
+========================================
+FILE: journal/2023-12-11_BASE_277894.md
+========================================
+
+
+
+
+========================================
+FILE: journal/2023-12-11_LOCAL_277894.md
+========================================
+
+- [[Flancia]]:
+  - [[December Adventure]]
+  - [[work]]
+  - [[Selva Negra]]
+- [[poems]]:
+  - fork, fork, fork!
+    - as we merge we'll [[fork]]!
+  - agua, agua, [[agua]]:
+    - agua para los sedientos!
+  - [[yoga with x]]:
+    - was great and chaotic :)
+  - [[december adventure]]
+    - thinking about this December as an introduction to [[2024]]!
+- [[Milei]] asumió
+
+
+
+========================================
+FILE: journal/2023-12-11_REMOTE_277894.md
+========================================
+
+- [[Schwarzwald]] over the weekend with [[AG]] :)
+
+
+
+========================================
+FILE: journal/2023-12-12.md
+========================================
+
+- [[Bettwanzen]] inspection finally came and results were relatively positive:
+  - These are [[bed bugs]] indeed.
+  - And, as I was hoping, they are only in the main bedroom -- haven't spread to the guest room where I've been sleeping or anywhere else it seems \o/
+- [[work]]
+  - yep
+  - prod meeting -- interesting topics came up. I think they will feed in what we're trying to write
+  - then I reviewed 5x roadmaps and edited a document I'd been meaning to dedicate time to :D
+- [[flancia]]
+  - a [[poem]]:
+    - [[8]] syllables that are worth [[162]] in the [[Flancia pattern language]]:
+      - [[Merge]], merge, merge;
+      - as we [[fork]] we'll [[merge]]!
+      - (3, 3, 3 -- as we 2 we'll 3)
+- [[Fediverse clients]]:
+  - I like [[elk]] most of all currently
+  - and the descendants of [[Pinafore]], like [[Enafore]]
+  - and [[Phanpy]]
+- Thought of [[7]] (as an example number):
+  - Numeric nodes should probably auto-pull known number-related nodes like [[hex]] and [[prime]]? In particular in the [[Agora of Flancia]] these contains utilities.
+- [[december adventure]]:
+  - [[new style pulls]] for social media.
+  - [[misc]]
+    - [ ] fix [[micro.blog]]? builds on 'canonical' concept which I've tackled a bit previously
+    - [ ] reintroduce autopull/pull all and fold all
+      - in the sense of a button that pulls resources - maybe on both agora-level and node-level?
+      - [ ] also maybe s/search/go/, try it out
+        - would interact nicely with that old [[double click]] idea: if you're already at the node and you press go, it redirects to the go link if there is one known
+- thought about [[web rings]]:
+  - [[xxiivv]]: https://webring.xxiivv.com/#random
+  - [[a11y]]: https://a11y-webring.club/
+
+
+
+========================================
+FILE: journal/2023-12-14.md
+========================================
+
+- [[cwg]]
+
+
+
+========================================
+FILE: journal/2023-12-15.md
+========================================
+
+- [[work]]
+  - was alright!
+- [[flancia]]!
+  - [[apero]]
+    - with the [[neighbours]] and [[AG]]
+  - [[15]]: [[uposatha]] day if you go by straight decimal/solar calendar date instead of the (I believe) more traditional lunar
+  - [[spiel]]:
+    - I found [[spiel/agora]] again after more than two years :D
+      - it's great, I like it even more than last time
+      - I think even before it gets [[fediverse]] support (for login) it may already be one of the best chat platforms I've seen
+      - [[matrix]] could/should look like this
+
+
+
+========================================
+FILE: journal/2023-12-16.md
+========================================
+
+- Because of [[Uposatha]] days I feel the need to know the phase of the moon. I wonder what time it'll come out tonight as well; it's been cloudy so I haven't been keeping track.
+- [[flancia]]
+  - [[agora development]]
+    - [[december adventure]]:
+      - shipped some 'quality of life' and 'polish' improvements to anagora.org in the last few days.
+      - [[css spinner]] was useful
+      - [[doing]]:
+        - now shifting focus to providing endpoints, in the sense of:
+          - [[agora apis]]
+          - [[integrations]] with other [[apis]]
+            - [[chatgpt]], [[bard]], [[mistral]], etc.
+        - [ ] [[api]]
+          - commit something -- anything :)
+            - this means exposing the right existing methods at this path I guess :)
+        - [ ] fix [[mastodon bot]] integration
+          - the wikilinks it dumps are not clickable due to an encoding issue, I've been wanting to solve that for a while
+      - [[agor.ai]] ~ [[agora network]]
+        - remembered that [[agora network]] is important
+        - [ ] as planned I will try to continue improving the agor.ai setup and try to provide useful Agoras to others
+        - Wrote out a [[call for agoras]], meaning people can propose possible Agoras to build
+          - [ ] link.agor.ai and flancia.agor.ai already exist on the new-style setup, which I must continue to [[/improve/upgrade.md|improve/upgrade]]
+- [[above]]:
+  - [[overhead]]
+
+
+
+========================================
+FILE: journal/2023-12-18.md
+========================================
+
+- [[work]]
+  - [[working while working]] :)
+- [[flancia]]:
+  - [[writing while writing]]
+  - [[Avalokiteshvara somos nosotros]]
+- [[social coop tech]]
+
+
+
+========================================
+FILE: journal/2023-12-20.md
+========================================
+
+- [[flancia]]
+  - got a [[blood test]] and turns out I'm anemic, good to know, will try to correct :)
+  - [[work]]
+  - [[fellowship of the link]]
+  - [[december adventure]]:
+    - [[this feature is cooler than you thought]]
+
+
+
+========================================
+FILE: journal/2023-12-21.md
+========================================
+
+- [[bard]]
+
+
+
+========================================
+FILE: journal/2023-12-22.md
+========================================
+
+- [[Avalokiteshvara]]!
+
+Digo, ahora que empiezo a escribir en el escritorio número 7.
+
+Finalmente exporté [[goodreads]] e importé en [[bookwyrm]]: <picture>.
+
+- As an aside, I miss the capability of pasting pictures/media in the Agora. I used to have it in Obsidian, maybe I should run it or [[Logseq]] again.
+    - They are both clients that are easier to recommend that my current [[wiki vim]] setup anyway... :)
+    - [[Agora Development]]:
+        - If you save to [[Drive]], [[Dropbox]], [[NextCloud]], [[Syncthing]] it should work as if you were saving to [[git]].
+
+--
+
+- I got a new [[Aufenthantsbewilligung]] and I ended up reading [[art 61]] and others, interesting.
+    - [[art 68]] deals with expulsion
+
+--
+
+- [[doing]]
+  - Considering getting back into [[Bluesky]]
+  - I've been wondering what to do about Twitter -> [[X]]
+    - https://twitter.com/flancian/status/1738295705196716343
+
+
+
+========================================
+FILE: journal/2023-12-23.md
+========================================
+
+- [[Flancia]]!
+  - [[Flancia meet]]
+    - quiet in the morning, used it for planning :)
+    - [[agora development]]
+      - [ ] I want to continue in the vein of [[december adventure]], with small improvements and some new experimental features.
+        - This will continue through the whole weekend ;)
+    - [[fediverse]]
+      - [x] Yesterday I tried one bridge between [[Bluesky]] and the [[Fediverse]] and it failed, but I want to try again :)
+        - it failed again: bluesky.bovine.social. It looks promising though, I opened an issue in the Codeberg repo and took the chance to set up my [[Codeberg]] profile at last.
+        - I also gave https://brid.gy a try and it was able to log into my Mastodon and Bluesky both, but it seems designed to cross-post between those and [[webmentions]] only/first.
+          - [ ] This made me think that I should really implement webmentions in the Agora?
+    - I also want to take some time to see friends IRL :)
+      - Happy about this!
+      - [[Pesho]]
+      - [[AG]]
+
+
+
+========================================
+FILE: journal/2023-12-25.md
+========================================
+
+- [[Happy Holidays]] to all!
+  - At the very least, ones [[free]] from suffering and affliction!
+- [[25]]:
+  - [[Burn]]
+  - Burn Kindly!
+  - If you have to burn,
+  - [[Burn Kindly]]!
+- [[Bluesky]]:
+  - [[brid.gy]]
+  - [[snarfed]] told me about [[pinhole]], trying it out
+    - it worked :)
+    - forked it: https://codeberg.com/flancian/agora
+- I feel like this next one [[december adventure]] might be [[fediverse]] week:
+  - [[pinhole]] led to me running 'my first individual activitypub server' in a way, it got me hooked maybe
+    - it contains a minimum workable implementation of the core of activitypub within it, as [[flask]] routes
+      - I could incorporate this into either [[agora server]] or [[moa]]? the author seems open to a fork even though they are not interested in adding features themselves
+  - someone told me to read https://americanbuddhist.net/2022/12/14/a-native-internet-protocol-for-social-media-jack-dorsey/ -- it turned out being something written ~precisely 1y ago :)
+- [[nils frahm]]
+
+
+
+========================================
+FILE: journal/2023-12-26.md
+========================================
+
+- at [[AG]]'s :)
+- thinking about/working on the [[fediverse]]:
+  - [[agora development]]
+  - [[pinhole]] (basic [[bluesky]] interop)
+
+
+
+========================================
+FILE: journal/2023-12-27.md
+========================================
+
+- [[Flancia]]!
+  - Flancia is here, in the protopian sense as always: I finally took a decisive step in the [[Kampf Gegen Bettwanzen]] :).
+    - The [[fumigator]] came and disassembled and sprayed the two bedrooms.
+    - I hope the [[bed bugs]] don't suffer while they die.
+      - May they be [[free from suffering]], like all!
+  - [[fellowship of the link]]:
+    - on [[patronage]] vs [[engagement fees]]
+    - [[universal basic income]] vs the income we want/need
+    - on [[jobs]] vs [[tasks]]
+    - [[veil of ignorance]] ~ [[original position]]
+    - [[musk]] and [[milei]]
+      - https://anagora.org/open+letters
+      - [[doing]]
+        - [ ] [[open letters]] should pull items in [[cartas abiertas]]
+    - [[neobooks]]
+      - [[design from trust]]
+        - -> [[what if we trusted you]] in [[agora of the link]]
+  - [[agora project]]
+    - [[patera]] is down
+    - [x] logging into [[hetzner]]
+  - [[jerry]]:
+    - [[wikipedia]] article didn't have link to [[TheBrain]]!
+      - corrected :)
+
+
+
+========================================
+FILE: journal/2023-12-29.md
+========================================
+
+- Strange day, it started down but then went up :)
+  - [x] Paid bills, donated to [[unicef]].
+- [[Work]]
+  - CL review
+  - Some approvals
+  - [x] Oncall handoff
+- Agora project
+  - [x] Check if patera is still down and fix it
+- [[social.coop]]
+  - [x] [[twg]] dates discussion
+  - [x] registration / moderation
+  - [x] PR review
+
+
+
+========================================
+FILE: journal/2023-12-30.md
+========================================
+
+- Saturday oncall at home doing laundry and some shopping two minutes away carrying my laptop in Coop -- cozy :)
+  - I renamed my second work laptop to [[Sariputta]] and I already like it more.
+  - Also finished some paperwork and responded some personal messages.
+- [[social coop]]
+  - some discussion about [[Fedipact]] and whether we should be listed as signatories
+  - there were a few polls but the one that voted (majority) block was blocked, so the actual needed fraction of votes wasn't accomplished
+
+
+
+========================================
+FILE: journal/2023-12-31.md
+========================================
+
+- [[31]] is [[Las Jaras]]:
+  - a [[poem]]:
+    - Las Jaras, qué jaras?
+    - Las tiradas con recta intención:
+    - Las de Maitreya;
+    - Las de Avalokiteshvara;
+    - Las de Tara!
+- [[Silvester]]:
+  - As they call it here in Switzerland.
+  - Happy [[2024]] all! May it be free from suffering to as many beings as possible.
+  - Going to a party tonight!
+- [[bedbugs]]: 
+  - Still going through [[The Great Wash]], as this period of doing lots of laundry to make sure no bed bugs (fully developed or in egg form) survive in clothes and bedlinen.
+  - I've been trying to do loving kindness with the bed bugs as individuals and as a species, even as they are dying in droves in the fumigated bedrooms.
+- [[2024]]:
+  - Thinking of planning.
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-16/2023-03-16T20_57_33.788Z.Desktop.md
+========================================
+
+- [[work]]
+  - I felt anger against the [[establishment]], the [[hierarchy]], the non-seeing [[state]].
+- [[anya]]
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-17/2023-03-17T21_28_32.799Z.Desktop.md
+========================================
+
+- Lady Burup threw a d60 and got 7, 23, 15 -- which in my numeric memory system means:
+  - Avalokiteshvara
+  - Lady Burup
+  - Right Effort
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-17/2023-03-17T22_04_37.424Z.Desktop.md
+========================================
+
+- Lady Burup threw a d60 and got 7, 23, 15 -- which in my numeric [[memory palace]] mean:
+  - [[Avalokiteshvara]]
+  - [[Lady Burup]]
+  - [[Right Effort]], 3*5
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-17/2023-03-17T22_05_23.464Z.Desktop.md
+========================================
+
+- Lady Burup threw a d24 and got 7, 23, 15 -- which in my numeric [[memory palace]] mean:
+  - [[Avalokiteshvara]]
+  - [[Lady Burup]] herself
+  - [[Right Effort]], 3*5
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-17/2023-03-17T22_05_44.150Z.Desktop.md
+========================================
+
+- Lady Burup threw a d24 and got 7, 23, 15 -- which in my numeric [[memory palace]] mean:
+  - [[7]]: [[Avalokiteshvara]], [[Compassion]]
+  - [[23]]: [[Lady Burup]] herself
+  - [[15]]: [[Right Effort]] and as [[3]]*[[5]]
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-17/2023-03-18T00_04_24.930Z.Desktop.md
+========================================
+
+- Lady Burup threw a [[d24]] three times and got 7, 23, 15 -- which in my numeric [[memory palace]] mean:
+  - [[7]]: [[Avalokiteshvara]] and [[Compassion]]
+  - [[23]]: [[Lady Burup]] herself
+  - [[15]]: [[Right Effort]] and [[3]]*[[5]]
+  - I'd call throwing dice with Lady Burup and seeing what comes up (well meaning) [[Chaos Magic]] :).
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-17/2023-03-18T00_43_10.294Z.Desktop.md
+========================================
+
+- [[17]] is [[Maitreya]] and [[Right Concentration]].
+- Lady Burup threw a [[d24]] three times and got 7, 23, 15 -- which in my numeric [[memory palace]] mean:
+  - [[7]]: [[Avalokiteshvara]] and [[Compassion]]
+  - [[23]]: [[Lady Burup]] herself
+  - [[15]]: [[Right Effort]] and [[3]]*[[5]]
+- I'd call throwing dice with Lady Burup and seeing what comes up (well meaning) [[Chaos Magic]] :).
+- [[Work]]
+  - Low energy and I didn't finish my CL, I may choose to catch up over the weekend.
+  - But then again I'm low energy because they laid off three of my favorite people in my workgroup, so maybe I've been doing emotional work close to full time.
+  - I spoke at the [[walkout]] on Wednesday and I'm happy I did.
+- [[Flancia]]
+  - A bit of a chaotic night after work (as you can see by my playing with dice with Lady Burup :)) but I advanced some threads.
+  - I ended up shuffling some books which made me think I have many -- which is true, both in the sense of having them in my library I am [[privileged]], I posted about this today) and having *a lot* of books in 'started' state. I now have books in this state in essentially every room of the house. I probably need to turn the well meaning chaos into some more order, or channel the chaos into something constructive :)
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-18/2023-03-18T21_55_30.357Z.Desktop.md
+========================================
+
+- [[18]] is 2*3*3, [[Right Understanding]], [[may you be free from suffering]].
+- I started the day at midnight with some light yoga and playing with Lady Burup :)
+- I also answered an email I had meant to answer for ~one week.
+- #push [[Hypothesis]].
+  - [ ] This made me think I really want to re-enable hypothes.is support in the Agora!
+- [[flancia]]
+  - [[social.coop]]
+  - [[open letters]]
+  - [[kris]]
+  - [[flancian]]
+  - [[ap]]
+    - me enseñó la palabra [[follamiga]]
+- 
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-18/2023-03-18T22_11_35.047Z.Desktop.md
+========================================
+
+- [[18]] is 2*3*3, [[Right Understanding]], [[may you be free from suffering]].
+- I started the day at midnight with some light yoga and playing with Lady Burup :)
+- I also answered an email I had meant to answer for ~one week.
+- #push [[Hypothesis]].
+  - [ ] This made me think I really want to re-enable hypothes.is support in the Agora!
+- [[flancia]]
+  - [[social.coop]]
+    - [ ] announce wiki maintenance
+    - [ ] read coopcloud [[mediawiki recipe]]
+    - [ ] install [[keycloak]] or [[authentik]] in [[hypha]]
+    - [ ]  
+  - [[open letters]]
+  - [[kris]]
+  - [[flancian]]
+  - [[ap]]
+    - me enseñó la palabra [[follamiga]]
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-18/2023-03-18T22_41_21.339Z.Desktop.md
+========================================
+
+- [[18]] is 2*3*3, [[Right Understanding]], [[may you be free from suffering]].
+- I started the day at midnight with some light yoga and playing with Lady Burup :)
+- I also answered an email I had meant to answer for ~one week.
+- #push [[Hypothesis]].
+  - [ ] This made me think I really want to re-enable hypothes.is support in the Agora!
+- [[flancia]]
+  - [[social.coop]]
+    - [ ] announce wiki maintenance
+    - [ ] read coopcloud [[mediawiki recipe]]
+    - [ ] install [[keycloak]] or [[authentik]] in [[hypha]]
+    - [ ] 
+  - [[open letters]]
+    - [ ] G
+    - [ ] SF
+    - [ ] SP
+    - [ ] A
+  - [[kris]]
+  - [[flancian]]
+    - cleaned up README in https://gitlab.com/flancian/flancian, my personal 'root repository' as of the time of writing
+  - [[ap]]
+    - me enseñó la palabra [[follamiga]]
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-18/2023-03-18T22_41_30.499Z.Desktop.md
+========================================
+
+- [[18]] is 2*3*3, [[Right Understanding]], [[may you be free from suffering]].
+- I started the day at midnight with some light yoga and playing with Lady Burup :)
+- I also answered an email I had meant to answer for ~one week.
+- #push [[Hypothesis]].
+  - [ ] This made me think I really want to re-enable hypothes.is support in the Agora!
+- [[flancia]]
+  - [[social.coop]]
+    - [ ] announce wiki maintenance
+    - [ ] read coopcloud [[mediawiki recipe]]
+    - [ ] install [[keycloak]] or [[authentik]] in [[hypha]]
+    - [ ] 
+  - [[open letters]]
+    - [ ] G
+    - [ ] SF
+    - [ ] SP
+    - [ ] A
+ - [[kris]]
+  - [[flancian]]
+    - cleaned up README in https://gitlab.com/flancian/flancian, my personal 'root repository' as of the time of writing
+  - [[ap]]
+    - me enseñó la palabra [[follamiga]]
+- [[work]]
+  - [ ] CL
+ 
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-18/2023-03-19T17_05_55.389Z.Desktop.md
+========================================
+
+- [[18]] is 2*3*3, [[Right Understanding]], [[may you be free from suffering]].
+- I started the day at midnight with some light yoga and playing with Lady Burup :)
+- I also answered an email I had meant to answer for ~one week.
+- #push [[Hypothesis]].
+  - [ ] This made me think I really want to re-enable hypothes.is support in the Agora!
+- [[flancia]]
+  - [[social.coop]]
+    - [ ] announce wiki maintenance
+    - [ ] read coopcloud [[mediawiki recipe]]
+    - [ ] install [[keycloak]] or [[authentik]] in [[hypha]]
+    - [ ] 
+  - [[open letters]]
+    - [ ] G
+    - [ ] SF
+    - [ ] SP
+    - [ ] A
+ - [[kris]]
+  - [[flancian]]
+    - cleaned up README in https://gitlab.com/flancian/flancian, my personal 'root repository' as of the time of writing
+  - [[ap]]
+    - me enseñó la palabra [[follamiga]]
+- [[work]]
+  - [ ] G
+  - [ ] CL
+- #push [[touchpad]]
+  - [[Touchpad scrolling]] had been not working in [[paramita]] for like one week, it was one of those annoyances you can work around but end up spending a lot of time working around.
+  - https://askubuntu.com/questions/528293/is-there-a-way-to-restart-the-touchpad-driver fixed it for me -- good old `modprobe -r psmouse` then `modprobe psmouse` (!).
+  - next time I might try [[libinput]]: https://unix.stackexchange.com/questions/426944/what-is-the-wayland-equivalent-of-xinput-list
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-19/2023-03-18T23_41_26.098Z.Desktop.md
+========================================
+
+- #push [[coop cloud]]
+  - [[abra]] CLI
+  - [[coop cloud recipes]]
+- #push [[social coop]]
+  - [[keycloak vs authentik]] https://www.reddit.com/r/selfhosted/comments/ub7dvb/authentik_or_keycloak/
+    - the top answer makes a good case for keycloak, 3wc recommended keycloak even though they don't like their IBM origins -- it seems keycloak is the reliable/stable/trusted way so I think I'll go with that
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-19/2023-03-19T17_29_21.573Z.Desktop.md
+========================================
+
+- #push [[coop cloud]]
+  - [[abra]] CLI
+  - [[coop cloud recipes]]
+  - [[passwords]]
+    - `abra app run --user root foo.bar.com app bash` then cat `/run/secrets/your_sneaky_secret`
+- #push [[social coop]]
+  - [[keycloak vs authentik]] https://www.reddit.com/r/selfhosted/comments/ub7dvb/authentik_or_keycloak/
+    - the top answer makes a good case for keycloak, 3wc recommended keycloak even though they don't like their IBM link -- it seems keycloak is the reliable/stable/trusted way so I think I'll go with that
+    - TIL [[IBM]] bought [[Redhat]] at some point
+- [[deep space one]] https://somafm.com/player/#/now-playing/deepspaceone
+- [[flancia]]
+  - [[nostromo]]
+    - [[play bach]]
+    - [[flancia playlist]]
+    - listening to [[deep space one]] after a long while, I usually default to [[defcon]]
+  - [[sila]]
+    - [ ] advance CL incrementally
+    - [ ] advance [[open letters]] incrementally
+    - [ ] decide in one letter or two
+  - [[paramita]]
+    - [[social coop]]
+      - [ ] add keycloak to pass
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-19/2023-03-19T17_32_24.312Z.Desktop.md
+========================================
+
+- #push [[coop cloud]]
+  - [[abra]] CLI
+  - [[coop cloud recipes]]
+  - [[passwords]]
+    - `abra app run --user root foo.bar.com app bash` then cat `/run/secrets/your_sneaky_secret`
+- #push [[social coop]]
+  - [[keycloak vs authentik]] https://www.reddit.com/r/selfhosted/comments/ub7dvb/authentik_or_keycloak/
+    - the top answer makes a good case for keycloak, 3wc recommended keycloak even though they don't like their IBM link -- it seems keycloak is the reliable/stable/trusted way so I think I'll go with that
+    - TIL [[IBM]] bought [[Redhat]] at some point
+- [[deep space one]] https://somafm.com/player/#/now-playing/deepspaceone
+- [[flancia]]
+  - [[nostromo]]
+    - [[play bach]]
+    - [[flancia playlist]]
+    - listening to [[deep space one]] after a long while, I usually default to [[defcon]]
+  - [[sila]]
+    - [ ] advance CL incrementally
+    - [ ] advance [[open letters]] incrementally
+    - [ ] decide in one letter or two
+  - [[paramita]]
+    - [[social coop]]
+      - [x] add keycloak to pass
+      - [ ] announce maintenance next weekend
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-19/2023-03-19T21_35_17.609Z.Desktop.md
+========================================
+
+- #push [[coop cloud]]
+  - [[abra]] CLI
+  - [[coop cloud recipes]]
+  - [[passwords]]
+    - `abra app run --user root foo.bar.com app bash` then cat `/run/secrets/your_sneaky_secret`
+- #push [[social coop]]
+  - [[keycloak vs authentik]] https://www.reddit.com/r/selfhosted/comments/ub7dvb/authentik_or_keycloak/
+    - the top answer makes a good case for keycloak, 3wc recommended keycloak even though they don't like their IBM link -- it seems keycloak is the reliable/stable/trusted way so I think I'll go with that
+    - TIL [[IBM]] bought [[Redhat]] at some point
+    - good progress but won't finish the wiki migration this weekend; next weekend seems relatively likely
+    - [[announcements]]
+- [[deep space one]] https://somafm.com/player/#/now-playing/deepspaceone
+- [[flancia]]
+  - [[nostromo]]
+    - [[play bach]]
+    - [[flancia playlist]]
+    - listening to [[deep space one]] after a long while, I usually default to [[defcon]]
+  - [[sila]]
+    - [ ] advance CL incrementally
+    - [ ] advance [[open letters]] incrementally
+    - [ ] decide in one letter or two
+  - [[paramita]]
+    - [[social coop]]
+      - [x] add keycloak to pass
+      - [x] announce maintenance next weekend
+    - [ ] install [[linkify2]] in stoa.anagora.org/p? https://www.npmjs.com/package/ep_linkify2
+    - [ ] or let go of stoa.anagora.org and run p.stoa.agor.ai / pad.agor.ai?
+  - [[nocturnal garden]]
+  - found a book about [[Taixu]] and one by him (a translation with commentary, looks very interesting)
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-19/2023-03-28T21_00_03.800Z.Desktop.md
+========================================
+
+- #push [[coop cloud]]
+  - [[abra]] CLI
+  - [[coop cloud recipes]]
+  - [[passwords]]
+    - `abra app run --user root foo.bar.com app bash` then cat `/run/secrets/your_sneaky_secret`
+- #push [[social coop]]
+  - [[keycloak vs authentik]] https://www.reddit.com/r/selfhosted/comments/ub7dvb/authentik_or_keycloak/
+    - the top answer makes a good case for keycloak, 3wc recommended keycloak even though they don't like their IBM link -- it seems keycloak is the reliable/stable/trusted way so I think I'll go with that
+    - TIL [[IBM]] bought [[Redhat]] at some point
+    - good progress but won't finish the wiki migration this weekend; next weekend seems relatively likely
+    - [[announcements]]
+- [[deep space one]] https://somafm.com/player/#/now-playing/deepspaceone
+- [[flancia]]
+  - [[nostromo]]
+    - [[play bach]]
+    - [[flancia playlist]]
+    - listening to [[deep space one]] after a long while, I usually default to [[defcon]]
+  - [[sila]]
+    - [ ] advance CL incrementally
+    - [ ] advance [[open letters]] incrementally
+    - [ ] decide in one letter or two
+  - [[paramita]]
+    - [[social coop]]
+      - [x] add keycloak to pass
+      - [x] announce maintenance next weekend
+    - [ ] install [[linkify2]] in stoa.anagora.org/p? https://www.npmjs.com/package/ep_linkify2
+    - [ ] or let go of stoa.anagora.org and run p.stoa.agor.ai / pad.agor.ai?
+  - [[nocturnal garden]]
+  - Found one book about [[Taixu]] and one by him (a translation with commentary, looks very interesting)
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-19/2023-03-28T21_05_05.454Z.Desktop.md
+========================================
+
+- #push [[coop cloud]]
+  - [[abra]] CLI
+  - [[coop cloud recipes]]
+  - [[passwords]]
+    - `abra app run --user root foo.bar.com app bash` then cat `/run/secrets/your_sneaky_secret`
+- #push [[social coop]]
+  - [[keycloak vs authentik]] https://www.reddit.com/r/selfhosted/comments/ub7dvb/authentik_or_keycloak/
+    - the top answer makes a good case for keycloak, 3wc recommended keycloak even though they don't like their IBM link -- it seems keycloak is the reliable/stable/trusted way so I think I'll go with that
+    - TIL [[IBM]] bought [[Redhat]] at some point
+    - good progress but won't finish the wiki migration this weekend; next weekend seems relatively likely
+    - [[announcements]]
+- [[deep space one]] https://somafm.com/player/#/now-playing/deepspaceone
+- [[flancia]]
+  - [[nostromo]]
+    - [[play bach]]
+    - [[flancia playlist]]
+    - listening to [[deep space one]] after a long while, I usually default to [[defcon]]
+  - [[sila]]
+    - [x] advance CL incrementally
+    - [x] advance [[open letters]] incrementally
+    - [ ] decide in one letter or two
+      - #push [[2023-03-28]] 
+        - one for google, one for the agora
+  - [[paramita]]
+    - [[social coop]]
+      - [x] add keycloak to pass
+      - [x] announce maintenance next weekend
+    - [ ] install [[linkify2]] in stoa.anagora.org/p? https://www.npmjs.com/package/ep_linkify2
+    - [ ] or let go of stoa.anagora.org and run p.stoa.agor.ai / pad.agor.ai?
+  - [[nocturnal garden]]
+  - Found one book about [[Taixu]] and one by him (a translation with commentary, looks very interesting)
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-20/2023-03-21T00_02_01.662Z.Desktop.md
+========================================
+
+- [[work]]
+  - extended into the late night but I enjoyed it
+  - [ ] CL 1
+    - on it :)
+  - [ ] CL 2
+- [[flancia]]
+  - I reported a [[ytm]] bug through twitter today as it was most convenient, I think this makes sense.
+  - wrote [[poetry]] based on a mantra I love, then it went somewhere unexpected; I enjoyed the process, although I think it's in need of editing as everything I write :)
+  - [[building bridges]] has been brewing for a long while and yesterday I got a meeting in my calendar with that syntagm in its title, it's tomorrow, I will attend
+  - I thought of [[spaceships]] today as a whimsical name for [[wikilink]]. I think it makes sense, at least in my mind; I will try to make a case for it. 
+    - Although most pragmatically maybe just [[link]] makes the most sense; there can be [[anchored]] (a href) or [[unanchored]] (free to resolve in an Agora or other trusted source of truth) links.
+    - [[vera]] mentioned that [[org]] just calls them links. [[internal links]] is also in use, presumably because they're internal to a garden; but in Agora context they are taken to resolve to a Commons. Maybe you could take it to mean [[internal to the Commons]] though.
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-21/2023-03-21T19_18_31.892Z.Desktop.md
+========================================
+
+- [[2023-03-20]]
+- [[work]]
+- [[flancia]]
+  - [[yoga]] after midnight :) meaning the beginning of the day.
+  - [[paramita]]
+    - [[social.coop]]
+      - [ ] process registrations
+      - [ ] process moderation cases
+  - [[sila]]
+    - answer pings by [[sl]] and [[hd]]
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-21/2023-03-22T20_47_02.502Z.Desktop.md
+========================================
+
+- [[2023-03-20]]
+- [[work]]
+- [[flancia]]
+  - [[yoga]] after midnight :) meaning the beginning of the day.
+  - [[paramita]]
+    - [[social.coop]]
+      - [ ] process registrations
+      - [ ] process moderation cases
+  - [[sila]]
+    - [ ] answer ping by [[sl]] 
+    - [ ] answer ping by [[hd]]
+- [[perturbation theory]] https://en.wikipedia.org/wiki/Perturbation_theory
+- [[liquid democracy]]
+- [[soma fm]]
+- [[fediforum]] https://fediforum.org/about/
+  - on [[2023-03-29]] [[2023-03-30]]
+- [[dazzle]] https://dazzle.town/
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-22/2023-03-22T20_27_55.964Z.Desktop.md
+========================================
+
+- 22 ~ [[fork]] * [[right thinking]]
+- [[work]]
+- [[flancia]]
+  - [[pomodoros]] for the [[revolution]]
+  - [[soma fm]]
+    - [ ] donating
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-22/2023-03-22T20_32_07.275Z.Desktop.md
+========================================
+
+- 22 ~ [[fork]] * [[right thinking]]
+- [[work]]
+- [[flancia]]
+	- [[pomodoros]] for the [[revolution]]
+	- [[soma fm]]
+		- [x] donated
+	- [[how do you attach images in logseq]]
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-25/2023-03-25T13_09_17.325Z.Desktop.md
+========================================
+
+- [[flancia]]
+<<<<<<< HEAD
+  - [[yoga with x]]
+=======
+  - [[flancia meet]] was live with [[mpd]] and [[venisa]] :)
+- There's a variety of things I'd like to make progress on today, here go a few.
+  - [ ] answer [[mb]]
+  - [ ] answer [[metasj]]
+  - [ ] answer [[3wc]] -> progress on social.coop
+  - [ ] fill in fraud affidavit (someone bought gift cards with a now cancelled credit card)
+  - [[social coop]]
+    - make some progress on wiki
+      - [ ] probably do one database restore to begin with and document the process in the migration bug
+      - [ ] then nudge the [[sso]] issue further hopefully
+  - work some more on [[open letters]]
+    - [ ] google
+    - [ ] agora
+  - [ ] work some more on [[containerized agora]], specifically on agor.ai.
+    - it shouldn't be too hard to get a recipe put together for [[coop cloud]], and it'd be cool
+  - [ ] fix hedgedoc error condition, e.g. https://github.com/flancia-coop/doc.anagora.org/commit/be8d8ea000b33e0c90799a8420ca3dc1dab5d145
+- Then I plan to go to [[pall]]'s party :)
+>>>>>>> 1d984c07c1742628dd360243822a9a6df8ae6171
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-25/2023-03-25T14_44_35.662Z.Desktop.md
+========================================
+
+- [[flancia]]
+  - [[yoga with x]]
+  - [[flancia meet]] was live with [[mpd]] and [[venisa]] :)
+- There's a variety of things I'd like to make progress on today, here go a few.
+  - [ ] answer [[mb]]
+  - [ ] answer [[metasj]]
+  - [ ] answer [[3wc]] -> progress on social.coop
+  - [ ] fill in fraud affidavit (someone bought gift cards with a now cancelled credit card)
+  - [[social coop]]
+    - make some progress on wiki
+      - [ ] probably do one database restore to begin with and document the process in the migration bug
+      - [ ] then nudge the [[sso]] issue further hopefully
+  - work some more on [[open letters]]
+    - [ ] google
+    - [ ] agora
+  - [ ] work some more on [[containerized agora]], specifically on agor.ai.
+    - it shouldn't be too hard to get a recipe put together for [[coop cloud]], and it'd be cool
+  - [ ] fix hedgedoc error condition, e.g. https://github.com/flancia-coop/doc.anagora.org/commit/be8d8ea000b33e0c90799a8420ca3dc1dab5d145
+- Then I plan to go to [[pall]]'s party :)
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-25/2023-03-26T14_01_55.881Z.Desktop.md
+========================================
+
+- [[flancia]]
+  - [[yoga with x]]
+  - [[flancia meet]] was live with [[mpd]] and [[venisa]] :)
+- There's a variety of things I'd like to make progress on today, here go a few.
+  - [x] answer [[mb]]
+  - [ ] answer [[metasj]]
+  - [ ] answer book editors
+  - [ ] answer [[3wc]] -> progress on social.coop
+  - [ ] do a load of laundry
+  - [ ] fill in fraud affidavit (someone bought gift cards with a now cancelled credit card)
+  - [[social coop]]
+    - make some progress on wiki
+      - [ ] probably do one database restore to begin with and document the process in the migration bug
+      - [ ] then nudge the [[sso]] issue further hopefully
+  - work some more on [[open letters]]
+    - [ ] google
+    - [ ] agora
+  - [ ] work some more on [[containerized agora]], specifically on agor.ai.
+    - it shouldn't be too hard to get a recipe put together for [[coop cloud]], and it'd be cool
+  - [ ] fix hedgedoc error condition, e.g. https://github.com/flancia-coop/doc.anagora.org/commit/be8d8ea000b33e0c90799a8420ca3dc1dab5d145
+- Then I plan to go to [[pall]]'s party :)
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-27/2023-03-28T21_05_05.458Z.Desktop.md
+========================================
+
+- [[2023-03-26]]
+- [[social coop]]
+  - great [[tech working group]] meeting!
+- #push [[charm]] 
+  - "we build tools to make the command line glamorous"
+  - https://charm.sh/
+  - looks interesting
+- #push [[langchain]]
+  - looks interesting, a solid framework to build on that lets you swap [[LLM]]s instead of being tied to a particular API like [[OpenAI]]'s.
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-28/2023-03-28T21_05_05.460Z.Desktop.md
+========================================
+
+- [[sila]] has not been uploading journals or subnodes for a few days because of the [[github]] certificate rotation :)
+
+
+
+========================================
+FILE: logseq/bak/journal/2023-03-28/2023-03-28T21_07_16.448Z.Desktop.md
+========================================
+
+- [[work]]
+  - ten meetings (!)
+- [[flancia]]
+  - [[sila]] hadn't been uploading journals due to the [[github]] host key change, fixed
+

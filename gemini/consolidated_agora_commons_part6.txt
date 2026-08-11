@@ -1,0 +1,3804 @@
+
+
+========================================
+FILE: vote to suspend meta.md
+========================================
+
+- #go https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30
+
+
+
+========================================
+FILE: votes.md
+========================================
+
+- This is a [[list]] of [[votes]] tracked by the [[Agora of Flancia]].
+  - [[President of Russia]]
+  - [[President of the US]]
+  - [[President of China]]
+  - [[Presidents of the Agora]]
+
+
+
+========================================
+FILE: voyager.md
+========================================
+
+- #pull [[Jeri Ryan]] [[Kate Mulgrew]]
+- #pull [[Seven of Nine]] [[Kathryn Janeway]]
+
+
+
+========================================
+FILE: vrandezo.md
+========================================
+
+# Vrandezo
+
+- A [[person]].
+  - [[ontologist]]
+  - [[pull]] [[denny vrandečić]]
+  - One of the [[wikidata]] founders.
+  - [[wikimedia foundation]].
+- [[go]] https://de.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87
+- [[twitter]] twitter.com/vrandezo
+- [[quote]] [[optional conventions]] are [[templates]]
+  - https://twitter.com/vrandezo/status/1352704684012654593
+- [[project]] [[abstract wikipedia]]
+- [[founder]] [[wikidata]]
+
+
+
+
+
+
+========================================
+FILE: vscode extension.md
+========================================
+
+# Vscode Extension
+
+- There are many useful [[extensions]] for [[vscode]].
+  - [[foam]] is a note taking tool, a [[roam like]], which lets you easily maintain a [[digital garden]].
+  - [[agora vscode]] might be an upcoming extension that makes it easier for users of [[foam]] to integrate with the Agora.
+
+
+
+
+
+========================================
+FILE: vscode settings sync.md
+========================================
+
+# vscode settings sync
+
+- [[go]] https://code.visualstudio.com/docs/editor/settings-sync
+
+
+
+
+
+========================================
+FILE: vscode.md
+========================================
+
+# Vscode
+
+- A [[code editor]].
+- Hosts [[foam]], a [[vscode extension]] which is the main client (as of [[2020-11-22]]) for the Agora.
+- Perhaps will eventually have an [[agora vscode]] extension.
+
+
+
+
+
+========================================
+FILE: vtaiwan.md
+========================================
+
+# VTaiwan
+
+ - https://twitter.com/mutual_ayyde/status/1313438502617448448 -> https://www.wired.co.uk/article/taiwan-democracy-social-media 
+
+
+
+========================================
+FILE: vundle.md
+========================================
+
+- an [[extension]].
+  - there's a lot of [[plugin managers]] for [[vim]] but I tend to use [[vundle]] as it seems to work fine for me, and my .vimrc has all the 'Plugin' directives already.
+  - in a new machine, I just need to do:
+
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
+And then in vim/[[nvim]]: `:PluginInstall`
+
+
+
+========================================
+FILE: wabi sabi.md
+========================================
+
+- [[wp]] https://en.wikipedia.org/wiki/Wabi-sabi
+  - [[go]] [[wp]]
+
+
+========================================
+FILE: wakest.md
+========================================
+
+# wakest
+
+- a [[person]]
+  - [[go]] https://wake.st/
+  - [[mastodon]] @liaizon@wake.st
+  - [[growth through replication]] https://two.compost.digital/growth-through-replication/
+  
+
+
+
+========================================
+FILE: walden two.md
+========================================
+
+# walden two
+
+- a [[utopia]]
+  - by [[b. f. skinner]]
+
+
+
+
+========================================
+FILE: walk.md
+========================================
+
+# Walk
+
+- https://twitter.com/flancian/status/1352985570079727618
+- https://twitter.com/flancian/status/1352989283783589893
+
+
+
+
+========================================
+FILE: walkaway.md
+========================================
+
+# walkaway
+
+- a [[novel]]
+  - by [[cory doctorow]]
+  - [[go]] https://en.wikipedia.org/wiki/Walkaway_(Doctorow_novel)
+
+
+
+
+
+========================================
+FILE: walled garden.md
+========================================
+
+# walled garden
+
+- a [[system]] or [[platform]] whose owner that tries to maintain centralized control over content and users.
+  - [[wp]] https://en.wikipedia.org/wiki/Closed_platform
+
+
+
+
+========================================
+FILE: walled gardens.md
+========================================
+
+# walled gardens
+
+- a [[list]]
+  - [[pull]] [[walled garden]]
+  - [[social media]]
+    - [[facebook]]
+    - [[twitter]]
+    - [[instagram]]
+  - [[knowledge]]
+    - [[elsevier]]
+    - [[jstor]]
+- [[in flancia there are no walled gardens]]
+
+
+
+
+
+========================================
+FILE: wallstreetbets.md
+========================================
+
+# Wallstreetbets
+
+- [[go]] https://en.wikipedia.org/wiki/R/WallStreetBets
+  - a [[reddit]] that [[pumped]] a [[stock]] via [[call options]] (long)
+- [[ollybot]] https://twitter.com/ollybot_redux/status/1354186652223229955 
+- [[bloomberg]] https://www.bloomberg.com/opinion/articles/2021-01-25/the-game-never-stops
+  - https://twitter.com/flancian/status/1354437684199108612
+
+
+
+
+
+========================================
+FILE: walpola rahula.md
+========================================
+
+- a [[person]].
+	- [[buddhist]] 
+		- [[theravada]]
+	- [[go]] https://en.wikipedia.org/wiki/Walpola_Rahula_Thero
+	- wrote [[what the buddha taught]]
+
+
+========================================
+FILE: walter benjamin.md
+========================================
+
+# Walter Benjamin
+- [[person]]
+	- [[philosopher]] [[marxist]]
+- Wow, I can't believe I hadn't noded him until [[2020-12-04]]!
+	- I [[like]] him. If he had a twitter account, I'd add him for sure.
+- Died after crossing on foot to [[spain]] escaping from the [[nazis]] / [[vichy france]].
+	- [[suicide]] in [[portbou]]
+	- [[1940]]
+- [[project]] [[arcades project]]
+- [[essay]] [[the work of art in the age of mechanical reproduction]].
+- [[essay]] [[the narrator]]
+- wrote about consuming [[hashish]] in [[marseille]]
+
+
+========================================
+FILE: ward cunningham.md
+========================================
+
+# Ward Cunningham
+
+- A [[person]].
+  - [[programmer]] [[hacker]]
+  - [[twitter]] https://twitter.com/wardcunningham
+  - The inventor of the [[wiki]].
+    - The [[OG]]. 
+  - [[http preferred]]
+  - [[pull]] [[fedwiki]]
+    - [[pull]] [[c2]].
+
+## [[social-knowledge-graphs-discussion]]
+
+- [[Wiki]]
+  - Had experience with Smalltalk, amassed over several months of undirected exploration
+  - People asked for the gist of Smalltalk to learn it over two days. How to condense months of learning in a format that makes that possible?
+  - The initial pattern repository came from that (influenced by [[christopher alexander]]).
+- "Made this thing over a weekend because people were sending me things by email that didn't render right" -- called it wiki because it meant "fast".
+  - "If I make this stupid simple" -- people won't think I tried hard, but they will have the tools to "fix it".
+- [[Tended]] to the wiki a few hours a day -- in the time between "proper work". But that tending paid off.
+  - [[digital garden]]
+- For long, people could have thrashed but didn't. Then someone did, and people just tended to it.
+- The environment that resulted was very [[creative]]. Lots of vocabulary was coined right there.
+- When Wikipedia came along, it did the right things:
+  - They made it in every language
+  - They were bold (paraphrase)
+- Spinning off wikis out of wikis
+  - Wiki on wiki (meta)
+  - Religion wiki
+- Taking pages and refactoring, cross-linking -- that's the core of federated wiki.
+- In a federated wiki, queries propagate -- pages include a history on which wikis have hosted the wiki previously. If a page vanishes, it can be found in a previous version.
+- "When you're talking about yourself, talk of yourself as we"
+- Google-like analytics were interesting
+  - Tried not to pay attention.
+  - Bone (sp?) dialog: you talk to the center of the room, not to any particular person. It's good for sharing, giving.
+- Some people wanted to put graphs in wiki
+- Federated wiki has a few thousand sites on it, 25-30 get daily updates and host vibrant communities and might be interested in your project.
+  - Links are the title of the page
+  - But if you retrieve a page from some other wiki, it fans out/ripples
+  - The sites you pull from become part of your neighborhood
+  - When you search, you can choose to "pull" pages into your sites
+    - [[curational event]]
+  - People might turn out to maintain several sites, specialized on topics
+- If you go to your unicycle page, it will mention there are N pages about unicycle in your neighborhood 
+- http://found.ward.bay.wiki.org/wiki-as-knowledge-graph.html
+
+
+
+
+
+========================================
+FILE: warehouse kawasaki.md
+========================================
+
+- a [[place]].
+  - I would have liked to visit.
+  - #go https://en.wikipedia.org/wiki/Warehouse_Kawasaki#/media/File:Cyber_Kowloon_Walled_City_-_01._2nd_floor_-_Warehouse_Kawasaki,_2014-06-02_(by_Ken_OHYAMA).jpg
+
+
+
+========================================
+FILE: warren mcculloch.md
+========================================
+
+# Warren Mcculloch
+
+- [[person]]
+  - [[cybernetics]]
+- [[go]] https://en.wikipedia.org/wiki/Warren_Sturgis_McCulloch
+  - [[neurophysiologist]] [[cybernetician]]
+- [[heterarchy]]
+
+
+
+
+
+========================================
+FILE: washington.md
+========================================
+
+# Washington
+
+
+
+
+========================================
+FILE: watching.md
+========================================
+
+# watching
+
+- [[ikuru]]
+	- great but a bit depressing?
+- [[promising young woman]]
+- [[can't get you out of my head]]
+	- [[done]]
+- [[yoga with adriene]]
+	- [[always]]
+
+
+
+
+========================================
+FILE: waterfall chart.md
+========================================
+
+# Waterfall Chart
+
+- [[go]] https://en.wikipedia.org/wiki/Waterfall_chart
+
+
+
+
+
+========================================
+FILE: waters edge.md
+========================================
+
+- a [[company]]
+	- [[consultancy]] [[philantropy]]
+	- [[go]] https://watersedge.io/
+
+
+========================================
+FILE: wayback machine.md
+========================================
+
+- a [[tool]].
+	- by [[internet archive]]
+- a [[web extension]].
+	- [[firefox]] https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/
+
+
+========================================
+FILE: ways to nudge future.md
+========================================
+
+- an [[article]].
+	- by [[bill seitz]]
+	- #push [[ways to nudge the future]]
+		- #go http://webseitz.fluxent.com/wiki/2020-06-27-WaysToNudgeFuture
+
+
+========================================
+FILE: we could be monks in space.md
+========================================
+
+- #pull [[monks in space]]
+- unsure if an [[essay]], a [[short story]], or an [[article]].
+	- #meta what's the difference between an [[essay]] and an [[article]]?
+
+
+========================================
+FILE: we distribute.md
+========================================
+
+- a [[publication]].
+  - #go https://wedistribute.org/
+  - #about https://wedistribute.org/about/
+  - #podcast [[decentered]]
+
+
+
+========================================
+FILE: we will be monks in space if we want to.md
+========================================
+
+- ...I hope, or if not monks, whatever you want to be.
+	- #pull [[monks in space]]
+
+
+========================================
+FILE: we will finish what you started.md
+========================================
+
+- We will finish what you started, my [[friend]], and try to honor you through it.
+- #pull [[gone]]
+
+
+========================================
+FILE: we'll be monks in space.md
+========================================
+
+- a [[short story]].
+
+I tell you, [[we will be monks in space]]. If you want to, anyway; we don't need to have exactly the same lifestyles. But being a monk in space could be compatible with yours.
+
+First, think about it -- monks are only celibate because for most of human history they didn't have safe, effective contraception available. But we do. So we can achieve the same result (no kids that we can't afford environmentally or otherwise, or don't have a direct interest on), while optionally having sex, as long as it's all consensual and constructive. And we could still have as many kids as we want and our biosphere can support.
+
+Now, some monks have a religious zeal in them. Some people probably think the best do; but I like to think chill monks can do a lot for humanity, and in any interesting group there's heterogeneity. Chill monks can live with chill monks, and intense ones with intense ones, or they can prefer living in complementary groups and self-organize in that way. Either way it's fine; different spaceships can cultivate different [[cultures]].
+
+- -> [[8]] (comes next).
+
+Within the wide framework of monkhood, then, we can define many different lifestyles. Some, like the ones I often think I prefer, make use of numbers as devices for coordination. This, which sounds like a [[shape rotator]] way of being, of course, is more widespread than you might expect at first: it is the core concept in many cultures under the name of [[calendar]].
+
+
+
+========================================
+FILE: we.md
+========================================
+
+# we
+
+- [[You]] and [[me]], my friend.
+- #pull Imagine an internet with [[wikilinks everywhere]]
+
+
+
+
+========================================
+FILE: weather.md
+========================================
+
+- I live in [[Switzerland]]. So...
+  - #go https://www.meteoswiss.admin.ch/#tab=forecast-map
+
+
+========================================
+FILE: weaving a decentralized semantic web of personal knowledge.md
+========================================
+
+- a [[paper]]
+	- [[go]] https://www.researchgate.net/publication/334126329_Weaving_a_Decentralized_Semantic_Web_of_Personal_Knowledge
+
+
+========================================
+FILE: web annotation standard.md
+========================================
+
+# web annotation standard
+
+- a [[standard]]
+  - provides what amounts to a free [[overlay]] for the internet
+  - [[hypothes.is]] implements it
+  - [[memex]] by [[worldbrain]] too
+  - [[dan whaley]]
+
+
+
+
+========================================
+FILE: web annotations.md
+========================================
+
+# Web Annotations
+
+- [[pull]] [[web annotation standard]]
+
+
+
+
+
+========================================
+FILE: web browser.md
+========================================
+
+# Web Browser
+
+- [[pull]] [[browser]]
+
+
+
+
+
+========================================
+FILE: web browsers.md
+========================================
+
+# Web Browsers
+
+- a [[list]].
+  - [[chrome]]
+  - [[firefox]]
+  - [[qutebrowser]]
+  - [[netsurf]]
+  - [[brave]]
+  - [[vivaldi]]
+  - [[edge]]
+  - [[safari]]
+
+
+
+
+
+========================================
+FILE: web dubois.md
+========================================
+
+# WEB Dubois
+
+- A [[person]].
+- [[sociologist]] [[socialist]] [[civil rights]] [[writer]].
+- [[niagara movement]] [[african-american]]
+- [[pull]] [[w. e. b. du bois]]
+- [[go]] https://en.wikipedia.org/wiki/W._E._B._Du_Bois
+  - "Earlier, Du Bois had risen to national prominence as the leader of the Niagara Movement, a group of African-American activists that wanted equal rights for blacks. Du Bois and his supporters opposed the Atlanta compromise, an agreement crafted by Booker T. Washington which provided that Southern blacks would work and submit to white political rule, while Southern whites guaranteed that blacks would receive basic educational and economic opportunities. Instead, Du Bois insisted on full civil rights and increased political representation, which he believed would be brought about by the African-American intellectual elite. He referred to this group as the Talented Tenth, a concept under the umbrella of Racial uplift, and believed that African Americans needed the chances for advanced education to develop its leadership." 
+
+
+
+
+========================================
+FILE: web extension.md
+========================================
+
+# web extension
+
+- [[pull]] [[web extensions]] [[browser extension]]
+- [[go]] [[mdn]]
+- [[mdn]] https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_second_WebExtension
+
+
+
+
+
+========================================
+FILE: web extensions.md
+========================================
+
+# web extensions
+
+- [[pull]] [[web extension]]
+
+
+
+
+
+========================================
+FILE: web monetization.md
+========================================
+
+# web monetization
+
+- [[bmann]] https://twitter.com/bmann/status/1373368781536387074
+- [[dev]] looks interesting
+
+
+
+
+
+========================================
+FILE: web native.md
+========================================
+
+- a tool or app that runs in a [[cloud computer]], needing no specific server components.
+
+
+========================================
+FILE: web share.md
+========================================
+
+- [[go]] https://www.w3.org/TR/web-share/
+
+
+========================================
+FILE: web0.md
+========================================
+
+# web0
+
+- [[go]] https://web0.small-web.org/
+  - "[[web0]] is [[web3]] without all the corporate right-libertarian [[Silicon Valley bullshit]]."
+
+
+========================================
+FILE: webamp.md
+========================================
+
+# webamp
+
+- [[go]] https://webamp-ipfs.netlify.app/Qmevni3vjqGiSAd7DE7kDhPXAqLNED2zUwJ5XaLyhc7rwK
+  - I don't particularly like the example music, but I like the idea
+
+
+
+
+========================================
+FILE: webaverse.md
+========================================
+
+# webaverse
+
+- a [[nft]] trading platform
+  - [[go]] https://webaverse.com
+  - [[discord]] https://discord.gg/zMKXwTcu 
+
+
+
+
+========================================
+FILE: webcast.md
+========================================
+
+# Webcast
+
+
+
+
+========================================
+FILE: webmentions.md
+========================================
+
+# Webmentions
+
+- [[pull]] [[webmention]]
+  - [[go]] https://www.w3.org/TR/webmention/
+    - "Webmention is a simple way to notify any URL when you mention it on your site. From the receiver's perspective, it's a way to request notifications when other sites mention it."
+    - "A Webmention is a notification that one URL links to another. For example, Alice writes an interesting post on her blog. Bob then writes a response to her post on his own site, linking back to Alice's original post. Bob's publishing software sends a Webmention to Alice notifying that her article was replied to, and Alice's software can show that reply as a comment on the original post."
+    - "Webmention is one of several related specifications being produced by the [[Social Web Working Group]]. Implementers interested in alternative approaches and complimentary protocols should start by reading the overview document [[social-web-protocols]]."
+  - [[by]] [[indieweb]]
+  - I think [[agora protocol]] is a bit like [[webmentions]] for [[wikilinks]]?
+  - Interacts with [[wikilinks everywhere]]?
+
+https://social.coop/web/statuses/106148580664154245
+
+
+
+
+========================================
+FILE: wedistribute.md
+========================================
+
+- #pull [[we distribute]]
+
+
+
+========================================
+FILE: wednesday.md
+========================================
+
+# Wednesday
+
+- [[pull]] [[what I do with my time on wednesdays]]
+- On Wednesdays I [[work]] for [[myself]].
+- On Wednesdays I [[work]] for the [[people]].
+  - On Wednesdays, people are my [[liege]].
+    - The [[people]] are a set of [[entities]] of type [[person]].
+    - I am a [[person]], so [[wednesdays]] are also mine.
+  - On Wednesdays, people are my [[peers]].
+  - In many ways a [[Wednesday]] is a [[day]] like any other.
+
+
+
+
+========================================
+FILE: wednesdays.md
+========================================
+
+# Wednesdays
+
+- [[pull]] [[wednesday]]
+
+
+
+
+
+========================================
+FILE: week 12.md
+========================================
+
+# week 12
+
+- I want to do more [[weekly planning]].
+
+
+
+
+========================================
+FILE: week 20.md
+========================================
+
+- [[push]] [[do]]
+	- [[plan]]
+		- accept [[prs]]
+		- make a javascript library for adding subnodes and nodes dynamically
+	- [[topics]]
+		- putting agora data in hypercore
+		- finish obsidian embeds?
+			- probably
+		- branch [[moa]]
+
+
+========================================
+FILE: week.md
+========================================
+
+# Week
+
+
+
+
+========================================
+FILE: weekend 11.md
+========================================
+
+# weekend 11
+
+- [[2021-03-20]]
+- [[2021-03-21]]
+
+
+
+
+
+========================================
+FILE: weekend 17.md
+========================================
+
+# weekend 17
+
+- [[flancia collective]]
+- [[do]]
+  - plan [[week 18]]
+  - test [[wikilinks everywhere]] extension by [[vera]]
+  - move [[moa dev]] to [[vera]]'s branch with git dumping
+  - monitoring for [[moa]]
+  - monitoring for [[an agora]]
+
+
+
+
+========================================
+FILE: weekend wednesday.md
+========================================
+
+# Weekend Wednesday
+
+- [[go]] https://www.youtube.com/watch?v=ALaTm6VzTBw&feature=emb_logo
+
+
+
+
+========================================
+FILE: weekend.md
+========================================
+
+# weekend
+
+- I know this will sound cliched, but I love weekends. I'm a weekend kind of person.
+  - #pull [[weekends]]
+  - I'll be in the [[Agora]] all weekend and every weekend if I get to.
+
+
+
+
+========================================
+FILE: weekends.md
+========================================
+
+# weekends
+
+- It is my privilege that weekdays are my employer's, but weekends are mine.
+
+
+
+
+========================================
+FILE: weekly plan.md
+========================================
+
+# Weekly Plan
+
+- [[pull]] [[weekly]]
+
+
+
+
+========================================
+FILE: weekly review.md
+========================================
+
+# weekly review
+
+- [[pull]] [[weekly review]]
+
+
+
+
+========================================
+FILE: weekly reviews.md
+========================================
+
+# Weekly Reviews
+
+- https://todoist.com/productivity-methods/weekly-review
+- Part of [[GTD]].
+    - Get clear
+    - Get current
+    - Get creative
+- One hour plan
+    - 0-10 minutes: tidy workspace, file away notes, get all tasks into task management
+    - 10-20 review completed tasks, calendar, notes and goals. Compare plan to what happened.
+    - 20-35 review progress on top priorities. What needs to be updated?
+    - 35-50 what are your most important tasks and events each day the following week?
+    - 50-60 review your 'someday maybe' list. **What things are you excited about? What new things do you want to learn?**
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fflancia%2FTKi3R4rHo6.png?alt=media&token=11b57d20-b300-469c-b39a-97af68069563)
+- Reflect: "I was derailed in my writing this week by several unexpected meetings. I'll speak to my manager about minimizing these occurrences so I can focus.”
+- Obvious time to do it is Friday afternoon. Doing it then lets you "clean up" and go into the weekend confident that you are in a good shape.
+- On Sunday evening, the work week looms large, and we already have Monday on our minds. You can channel that anxiety.
+- On Monday morning, you are refreshed; you can use it to ease into the week.
+- **Be kind to yourself.**
+- [[David Allen]]: "the weekly review is the critical success factor for marrying your larger commitments to your day-to-day activities."
+
+
+
+
+========================================
+FILE: weekly.md
+========================================
+
+# Weekly
+
+- A [[list]] of things I try to do every [[week]].
+	- Review [[daily]], [[monthly]] for other scopes.
+	- [[pull]] [[weekly reviews]]
+	- [[pull]] [[agora feature requests]]
+	- Plan the next week, start a note named 'week N' where N is the output of `date +%U` (this command consider weeks as starting on Sunday)
+		- [[week 20]]
+
+
+========================================
+FILE: wefindx.md
+========================================
+
+# Wefindx
+
+- [[go]] https://wefindx.com/mission/
+
+
+
+
+
+========================================
+FILE: weierstrass function.md
+========================================
+
+- a [[function]]
+	- [[wp]] https://en.wikipedia.org/wiki/Weierstrass_function
+		- [[go]] [[wp]]
+
+
+========================================
+FILE: well intentioned.md
+========================================
+
+# well intentioned
+
+- I usually say I'm a [[chaotic good rogue]] for short, but in general I can only guarantee being [[well meaning]].
+
+
+
+
+========================================
+FILE: wendy doniger.md
+========================================
+
+# Wendy Doniger
+
+- A [[person]].
+- [[indologist]] [[sanskrit]]
+- [[go]] https://en.wikipedia.org/wiki/Wendy_Doniger
+  - "I myself am by both temperament and training inclined to texts. I am neither an archaeologist nor an art historian; I am a Sanskritist, indeed a recovering Orientalist, of a generation that framed its study of Sanskrit with Latin and Greek rather than Urdu or Tamil. I've never dug anything up out of the ground or established the date of a sculpture. I've labored all my adult life in the paddy fields of Sanskrit, ..."
+
+
+
+
+
+========================================
+FILE: wendy hanamura.md
+========================================
+
+# wendy hanamura
+
+- a [[person]]
+  - [[dweb]]
+
+
+
+
+========================================
+FILE: what about human rights.md
+========================================
+
+- [[push]] [[mondegreens]].
+	- a [[song]] https://www.youtube.com/watch?v=-dLPsw3i_P8
+		- [[pull]] [[human rights]]
+
+
+========================================
+FILE: what foreign fighters are seeing in ukraine.md
+========================================
+
+- an [[article]].
+	- [[elliot ackerman]]
+	- #go https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/
+	- [[ukraine's three to one advantage]]
+
+
+========================================
+FILE: what i do with my time on wednesdays.md
+========================================
+
+# What I Do with My Time on Wednesdays
+
+
+
+
+========================================
+FILE: what if we became better protopians.md
+========================================
+
+- #pull [[from what if to what next]]:
+  - #go https://fromwhatiftowhatnext.libsyn.com/95-what-if-we-became-better-protopians
+
+
+
+========================================
+FILE: what is a distributed knowledge graph.md
+========================================
+
+# What Is a Distributed Knowledge Graph
+
+
+
+
+========================================
+FILE: what is flancia like.md
+========================================
+
+# What Is Flancia Like
+
+
+
+
+========================================
+FILE: what is it like to be a cat.md
+========================================
+
+# what is it like to be a cat.md
+
+
+========================================
+FILE: what shape are you.md
+========================================
+
+# What Shape Are You?
+
+- [[go]] https://tynan.com/shapes
+- Pretty good for a piece adjacent to [[management]].
+  - "What shape am I in the context of this particular project" is a good question to ask.
+
+
+
+
+
+========================================
+FILE: what we choose to do with the Internet.md
+========================================
+
+- My proposal:
+  - #pull [[cooperative competition]]
+    - #pull [[for the benefit of all beings]]
+      - #pull in the [[Commons]]!
+
+
+
+========================================
+FILE: whatsapp.md
+========================================
+
+# Whatsapp
+
+
+
+
+========================================
+FILE: when the Agora just works.md
+========================================
+
+- It doesn't happen super often but sometimes the way I've coded things just turns out to be the right thing in retrospect and something that I would maybe have to implement separately had I taken another design decision [[just works]]. In those cases I rejoice and pat myself in the back and feel everything is maybe not hopeless and so on :)
+
+
+
+========================================
+FILE: where did software go wrong.md
+========================================
+
+# Where Did Software Go Wrong
+
+- An [[article]] by [[jesse-li]]
+- [[go]] https://blog.jse.li/posts/software/
+  - "[[Computers]] were supposed to be “[[a bicycle for our minds]]”, machines that operated faster than the speed of thought. And if the computer was a bicycle for the mind, then the plural form of computer, Internet, was a “new home of Mind.”"
+  - See [[a declaration of the independence of cyberspace]]
+
+
+
+
+
+========================================
+FILE: where is my light.md
+========================================
+
+- #push [[3]] [[three]]
+	- As I meditate I often ask myself: where is my [[light]]?
+	- I take it as an opportunity to practice [[loving kindness]].
+	- I start by taking notice of where we are: my [[friends]], my [[partners]] and [[me]].
+		- When I started doing this in [[2021]] I thought of [[l]], [[lady burup]] and me because we lived together so it was easy to think of ourselves as a shared [[consciousness]].
+    - It was our aim to focus our lights as individuals and as a group, our light meaning our degree of [[consciousness]].
+    - I sometimes try to calculate the [[center of gravity]] of the bounding polygon according to a useful definition (in a given base and metric).
+    - Then I think of the possibility of extending the polygon or graph by adding other sentient beings.
+    - [[n + 1]].
+
+
+
+========================================
+FILE: where's my light.md
+========================================
+
+- I like to think of my light as the [[composition]] of all lights in my life, whatever you feel that means.
+	- By default I think of lights as locations of [[consciousness]] -- so the lights I recall most often are [[people]] and other sentient beings I have had the pleasure to meet.
+	- #pull [[let us do loving kindness]]
+
+
+========================================
+FILE: which other languages should you learn and why.md
+========================================
+
+# Which other languages should you learn and why
+
+- I say [[spanish]]. It is spoken by 500 million of many different countries; of many different backgrounds. All languages are culturally bountiful of course, but spanish is very [[diverse]].
+
+
+
+
+========================================
+FILE: white kallax.md
+========================================
+
+- We have a [[white]] [[ikea kallax]], we like it.
+	- The fixed divisions make it sometimes inefficient but it makes up for it in [[structure]].
+	- It is a [[matrix]].
+- #pull [[black kallax]]
+
+
+========================================
+FILE: white rabbit bakery.md
+========================================
+
+- Probably the best bakery in [[zurich]].
+	- [[vegan]]
+	- [[email]] whiterabbitbakerych@gmail.com
+	- [[phone]] 079 175 34 51
+	- [[instagram]] @whiterabbitbakery_ch
+	- [[bianca legorreta]]
+
+
+========================================
+FILE: whomademecrispy.md
+========================================
+
+# Whomademecrispy
+
+
+
+
+========================================
+FILE: why don't we have all.md
+========================================
+
+- #pull [[why don't we have both]]
+
+
+
+========================================
+FILE: why don't we have both.md
+========================================
+
+- a [[meme]].
+  - #pull [[why not both]] actually
+    - https://knowyourmeme.com/memes/why-not-both-why-dont-we-have-both
+  - #pull [[por qué no los dos]]
+
+
+
+========================================
+FILE: why i am not a buddhist.md
+========================================
+
+# Why I Am Not a Buddhist
+
+- [[go]] https://www.goodreads.com/book/show/44439993-why-i-am-not-a-buddhist
+- By [[evan thompson]].
+
+
+
+
+
+========================================
+FILE: why is everyone in such a rush?.md
+========================================
+
+https://twitter.com/flancian/status/1401579456498708483
+
+
+========================================
+FILE: why worker cooperatives are a bad strategy.md
+========================================
+
+# Why Worker Cooperatives Are a Bad Strategy
+
+- [[go]] https://organizing.work/2021/01/you-cant-win-without-a-fight-why-worker-cooperatives-are-a-bad-strategy/
+
+
+
+
+
+========================================
+FILE: wiki engines.md
+========================================
+
+# Wiki Engines
+
+- [[mycorrhiza]]
+  - by [[bouncepaw]]
+- [[xwiki]] 
+  - https://pinafore.social/statuses/105681408588102338
+- [[connectedtext]]
+  - https://pinafore.social/statuses/105681408588102338
+- [[pmwiki]]
+  - https://pinafore.social/statuses/105681408588102338
+- [[mediawiki]]
+- [[dokuwiki]]
+- [[moinmoin]]
+
+
+
+
+========================================
+FILE: wiki migration.md
+========================================
+
+- These are some raw notes taken while trying to set up wiki-alpha.social.coop (and later wiki.social.coop) based off the setup that [[jonny]] did on wiki-dev.social.coop.
+- I'm using [[coop cloud]] and [[abra]].
+  - Initial setup of [[abra]] on [[hypha]] is not covered here; see [[go/twg/bugs]] for that.
+- Copy the database dump and restore:
+  - abra app cp wiki-alpha.social.coop mysqldump db:/root/
+  - abra app run wiki-alpha.social.coop db /bin/bash
+  - mysql -p mediawiki < mysqldump
+    - The password for root can be seen with `cat /run/secrets/db_root_password`
+- copy images from the wiki-dev backup: 
+  - abra app cp wiki.social.coop images app:/var/www/html/images
+  - abra app run wiki.social.coop app /bin/bash
+    - then chown -R www-data:www-data /var/www/html/images
+  - then restart the app server with `abra app restart wiki.social.coop` to make images work (for some reason this is needed)
+- Apply theme changes, optional, e.g. https://git.autonomic.zone/autonomic-cooperative/hacktheplanet
+
+
+
+========================================
+FILE: wiki modes.md
+========================================
+
+# wiki modes
+
+- [[pull]] [[modes]]
+- [[pull]] [[c2]]
+- [[thread mode]]
+- [[chat mode]]
+- [[document mode]]
+
+
+
+
+
+========================================
+FILE: wiki vim.md
+========================================
+
+- a [[tool]].
+  - [[personal knowledge management]]
+  - #go https://github.com/lervag/wiki.vim
+  - #doc https://github.com/lervag/wiki.vim/blob/master/doc/wiki.txt
+    - shortcuts excerpted below
+    - I set <leader> to `,`, the default is `\`
+  - not to be confused with [[vim wiki]].
+  - only thing missing for now is autocomplete for `[[`, which IIUC should be supported -- but I haven't made it play well with [[ncm2]] yet.
+    - opened a bug about this :)
+  - for pasting images, I'm trying [[md img paste]] by [[ferrine]].
+  
+```
+ MODE  LHS                 RHS~
+  ====  ===                 ===
+  `n`     <leader>ww          |<plug>(wiki-index)|                 [GLOBAL]
+  `n`     <leader>wn          |<plug>(wiki-open)|                  [GLOBAL]
+  `n`     <leader>w<leader>w  |<plug>(wiki-journal)|               [GLOBAL]
+  `n`     <leader>wx          |<plug>(wiki-reload)|                [GLOBAL]
+  `n`     <leader>wb          |<plug>(wiki-graph-find-backlinks)|
+  `n`     <leader>wlc         |<plug>(wiki-graph-check-links)|
+  `n`     <leader>wg          |<plug>(wiki-graph-in)|
+  `n`     <leader>wG          |<plug>(wiki-graph-out)|
+  `n`     <leader>wf          |<plug>(wiki-link-toggle)|
+  `n`     <leader>wd          |<plug>(wiki-page-delete)|
+  `n`     <leader>wr          |<plug>(wiki-page-rename)|
+  `n`     <leader>wt          |<plug>(wiki-page-toc)|
+  `n`     <leader>wT          |<plug>(wiki-page-toc-local)|
+  `n`     <leader>wp          |<plug>(wiki-export)|
+  `x`     <leader>wp          |<plug>(wiki-export)|
+  `n`     <leader>wll         |<plug>(wiki-link-show)|
+  `n`     <leader>wlh         |<plug>(wiki-link-extract-header)|
+  `n`     <leader>wsl         |<plug>(wiki-tag-list)|
+  `n`     <leader>wsr         |<plug>(wiki-tag-reload)|
+  `n`     <leader>wss         |<plug>(wiki-tag-search)|
+  `n`     <tab>               |<plug>(wiki-link-next)|
+  `n`     <cr>                |<plug>(wiki-link-follow)|
+  `n`     <c-w><cr>           |<plug>(wiki-link-follow-split)|
+  `n`     <c-w><tab>          |<plug>(wiki-link-follow-vsplit)|
+  `n`     <c-w>u              |<plug>(wiki-link-follow-tab)|
+  `n`     <s-tab>             |<plug>(wiki-link-prev)|
+  `n`     <bs>                |<plug>(wiki-link-return)|
+  `n`     gl                  |<plug>(wiki-link-toggle-operator)|
+  `x`     <cr>                |<plug>(wiki-link-toggle-visual)|
+  `ox`    au                  |<plug>(wiki-au)|
+  `ox`    iu                  |<plug>(wiki-iu)|
+  `ox`    at                  |<plug>(wiki-at)|
+  `ox`    it                  |<plug>(wiki-it)|
+  `n`     <c-n>               |<plug>(wiki-journal-prev)|          [JOURNAL]
+  `n`     <c-p>               |<plug>(wiki-journal-next)|          [JOURNAL]
+  `n`     <leader><c-n>       |<plug>(wiki-journal-copy-tonext)|   [JOURNAL]
+  `n`     <leader>wu          |<plug>(wiki-journal-toweek)|        [JOURNAL]
+  `n`     <leader>wm          |<plug>(wiki-journal-tomonth)|       [JOURNAL]
+```
+
+
+
+========================================
+FILE: wiki.md
+========================================
+
+# Wiki
+
+- a [[thing]].
+  - [[pull]] [[wikis]]
+- A [[technology]].
+	- [[digital]] [[social]]
+	- discovered by [[ward cunningham]].
+	- the [[agora]] tries to be a kind of best-effort integrated [[wiki]].
+		- in my mind it leads to a [[democratic]] [[distributed knowledge graph]].
+			- like [[ewp]] with a focus on [[praxis]].
+			- like [[flancia]]!
+
+
+
+
+========================================
+FILE: wikidata integration.md
+========================================
+
+# wikidata integration
+
+- I'd like to automatically query or transclude [[wikidata]] within a radius of each agora node.
+
+
+
+
+
+========================================
+FILE: wikidata subsetting.md
+========================================
+
+# Wikidata Subsetting
+
+- [[go]] https://www.wikidata.org/wiki/Wikidata:WikiProject_Schemas/Subsetting 
+
+
+
+
+
+========================================
+FILE: wikidata.md
+========================================
+
+# Wikidata
+
+- a [[project]]
+  - perhaps an [[agora]]?
+  - [[wp]] https://en.wikipedia.org/wiki/Wikidata
+  - [[go]] https://www.wikidata.org/wiki/
+  - [[wikidata]] https://www.wikidata.org/wiki/Q2013
+  - [[identifiers]] https://www.wikidata.org/wiki/Wikidata:Identifiers
+    - [[quote]] Each Wikidata entity is identified by an entity ID, which is a number prefixed by a letter.
+      - [[items]], also known as Q-items, are prefixed with Q (e.g. Q12345),
+      - [[properties]] are prefixed by P (e.g. P569) and
+      - [[lexemes]] are prefixed by L (e.g. L1).
+  - [[wptools]] seems to expose a nice interface 
+  - [[quote]] Wikidata stores a large number of types of unique identifiers which can be used to disambiguate you from other people with the same name, and on the other hand can unify records about you no matter how your name is provided. These include, (but are not limited to) [[VIAF]], [[ISNI]], [[ORCID]], [[ResearcherID]], [[Scopus]], and [[Google Scholar]].  
+  - [[entity lookup]] https://www.wikidata.org/w/api.php?action=help&modules=wbsearchentities
+    - https://twitter.com/vrandezo/status/1368274079296282627
+
+
+
+
+
+========================================
+FILE: wikigen.md
+========================================
+
+# Wikigen
+
+- [[go]] https://github.com/jakeisnt/wikigen
+- [[by]] [[jakeisnt]]
+
+
+
+
+
+========================================
+FILE: wikigraph.md
+========================================
+
+# Wikigraph
+
+- [[go]] giantgra.ph
+- [[nopush]] [[agora plan]] add as search target
+  - Cancelled as https://giantgra.ph no longer works as of [[2024-08-01]] :(
+
+
+
+
+========================================
+FILE: wikilink dumping.md
+========================================
+
+# wikilink dumping
+
+- Whenever [[wikilinks everywhere]] goes into action, it can optionally dump seen wikilinks and the URL they were seen at for the user.
+  - The user can [[opt in]] to contribute a subset of this information to an [[agora]].
+
+
+
+
+========================================
+FILE: wikilink.md
+========================================
+
+# Wikilink
+
+- A wikilink looks like this: [[wikilink]]. They are text surrounded by two square brackets.
+  - Not to be confused with an [[ECMAScript internal property]], which is also surrounded by doubel brackets :) 
+- Wikilinks come, wait for it, from [[wiki]]s :) But they need not be limited only to things we usually think of as wikis. 
+  - You could use [[wikilinks everywhere]].
+  - You can think of the Agora as a sort of distributed wiki, although users in this particular kind of wiki volunteer individual contributions instead of editing common pages (for now). 
+- Wikilinks are the heart of this [[agora]].
+  - [[wikilink]] resolves to ```node/wikilink``` in an [[agora]].
+    - [[wikilink]] -> <https://anagora.org/node/wikilink> 
+  - When needed [[slugify]] rules are applied.
+    - [[wikilinks everywhere]] -> <https://anagora.org/node/wikilinks-everywhere>
+  - Wikilinks are great because they allow for very easy linking: you just [[link it as you go along]], then the link either works (because someone wrote that node/article/resource already) or you can click through and backfill it. I call this procedure link-driven writing.
+  - Whenever there is more than one [[node]] with a given wikilink in an Agora (typical use case: notes kept on a certain topic by different users), the Agora will surface all of them when resolving the wikilink in question. Example: [[README]].
+- [[pull]] [[wikilinks]] [[wikilinks everywhere]]
+
+
+
+
+
+========================================
+FILE: wikilinked tools.md
+========================================
+
+# Wikilinked Tools
+
+- [[pull]] [[wikilinking tools]]
+ - [[pull]] [[tiddlyroam]]
+
+
+
+
+
+
+
+========================================
+FILE: wikilinking tools.md
+========================================
+
+# Wikilinking Tools
+
+- [[pull]] [[wikilinked note taking]]
+- a [[list]]
+  - [[pull]] [[roam research]]
+  - [[pull]] [[roam like]]
+  - [[pull]] [[foam]]
+  - [[pull]] [[obsidian]]
+  - [[pull]] [[logseq]]
+  - [[pull]] [[dendron]]
+  - [[pull]] [[athens research]]
+  - [[pull]] [[remnote]]
+  - [[pull]] [[org mode]]
+ 
+
+
+
+========================================
+FILE: wikilinks amount to a lightweight universal standard for knowledge interoperability.md
+========================================
+
+- [[pull]] [[wikilinks everywhere]]
+- [[pull]] [[agora protocol]]
+
+https://twitter.com/flancian/status/1406690361209233415
+
+
+========================================
+FILE: wikilinks everywhere.md
+========================================
+
+- A [[project]]. [[open source]].
+	- The [[goal]] is to make [[wikilinks]] work everywhere on the internet.
+		- A [[wikilink]] is any entity or phrase surrounded by two square brackets.
+		- [[wikilinks]] can be [[lazily resolved]] in a user chosen [[context]].
+			- Default context: an [[agora]] of the user's choice.
+	- It has a [[browser extension]] component.
+		- The [[user]] can install an extension and see "dead" [[wikilinks]] "come to life" anywhere around the internet.
+		- [[prototype]] [[agora ext]]
+	- It has a [[social network]] component.
+		- People could start using [[wikilinks]] on any platform that supports user generated [[content]] online, social networks being likely the most popular interfaces.
+		- For the purpose of connecting to such platforms we'd like to develop an [[agora bridge]].
+	- [[go]] https://docs.google.com/document/d/1h2kSuh7TntPj_XZ7BnLPDwtwshq7skzF3BIYwLgVquA/edit#
+	- [[chat]] https://app.element.io/#/room/#wikilinks:matrix.org
+	- [[tweet]] https://twitter.com/flancian/status/1337835415215202308
+	- See also [[agora rfcs]], in particular 0 and 2.
+## [[2021-04-14]]
+
+The plan is to get in at least two pomodoros in this to advance it somehow in the direction of a prototype. Will try to build on [[agora ext]].
+
+
+========================================
+FILE: wikilinks.md
+========================================
+
+# Wikilinks
+
+- a [[list]].
+	- [[pull]] [[wikilink]]
+- a [[thing]].
+	- I'm excited about [[wikilinks everywhere]].
+	- [[vera]] suggested we rename these. Some brainstorming follows
+		- [[neil]] [[hyphalinks]]
+		- [[multilinks]]: as they are unlike regular links in that they can point to many different places -- which particular URL they resolve to depends on the user clicking them.
+		- [[querylinks]] ([[qlinks]]?): as they essentially behave as queries in the agora. queries return relevant subnodes/resources.
+		- [[nodelinks]] as they map to nodes in the agora.
+			- [[edges]]?
+	- https://twitter.com/flancian/status/1437079541860769803
+	- ![[Pasted image 20210621164333.png]]
+
+
+========================================
+FILE: wikimedia.md
+========================================
+
+# Wikimedia
+
+
+
+
+========================================
+FILE: wikinizer.md
+========================================
+
+- a [[paper]]
+	- [[go]] https://www.researchgate.net/publication/328461108_WikiNizer_Research_A_Personal_Knowledge_Graph_Builder_Harnessing_Freebase_Linked_Data?_sg=sGl9YtHktCInkYVm2mn_9PFx1oUDWX1qXBK9ixEIuOibI-5FJwQBuBMXgV5v6ZloUNRwjI-Cyw6zZVkaN7PY5RKqCvBFDC3aAD-qSGmZ._1s3IimUhhm12fQQXKhZtDrZbB6tOJIFhvKamRNqsdTKceIcHGj3PLWzcsYrIw0QMeq3O0CzU4iRm1hqWmWhYA
+
+
+========================================
+FILE: wikipedia lists.md
+========================================
+
+- #pull I love [[wikipedia]] [[lists]].
+	- including [[lists of lists]] and such
+
+
+========================================
+FILE: wikipedia.md
+========================================
+
+
+- a [[project]].
+	- [[internet]] [[free]] [[encyclopedia]] 
+	- by [[wikimedia foundation]].
+	- one of [[humanity's best]].
+	- #wp https://en.wikipedia.org/wiki/Wikipedia
+		- In [[an Agora]], Wikipedia is top ranked [[by default]].
+      - You can also [[pull]] (transclude) it.
+	- [[poll]]
+		- https://twitter.com/flancian/status/1411682076148047872
+		- https://botsin.space/web/statuses/106522627026135700
+
+
+
+
+
+========================================
+FILE: wikis.md
+========================================
+
+# Wikis
+
+- [[pull]] [[wiki]]
+- [[pull]] [[wiki engines]]
+- a [[list]]
+  - [[wikipedia]] is my favourite wiki, but there are many great ones.
+  - [[c2]] is great.
+
+https://twitter.com/sschuldenzucker/status/1375758622932754434
+
+
+
+
+========================================
+FILE: wildcard.md
+========================================
+
+# Wildcard
+
+- a [[platform]]
+  - [[go]] https://github.com/geoffreylitt/wildcard
+  - [[quote]] Wildcard is a platform that empowers anyone to build browser extensions and modify websites to meet their own specific needs.
+
+
+
+
+
+========================================
+FILE: will walker.md
+========================================
+
+# Will Walker
+
+- A [[person]].
+	- studying [[law]]
+	- [[friend]]
+	- [[twitter]] https://twitter.com/willwalker33
+	- in [[social.coop]].
+
+
+
+
+
+========================================
+FILE: will.md
+========================================
+
+# will
+
+- I used the word [[will]] today and it felt a bit violent/problematic.
+  - It was honest, though.
+  - https://twitter.com/flancian/status/1457376015584579595
+    - I meant a [[subset]] of the internet though, and only when willing.
+- #pull [[free will]]
+
+
+
+========================================
+FILE: william gibson.md
+========================================
+
+# william gibson
+
+
+
+
+========================================
+FILE: william james.md
+========================================
+
+# William James
+- [ ] Should check him out some day. Where to start?
+
+
+
+========================================
+FILE: william macaskill.md
+========================================
+
+# William MacAskill
+
+
+
+
+========================================
+FILE: wilmer van der gaast.md
+========================================
+
+# Wilmer Van Der Gaast
+
+- A [[person]] on [[twitter]]: https://twitter.com/Wilmer
+- Met him a few times face to face, in chat. He's very nice.
+
+
+
+
+
+========================================
+FILE: window manager.md
+========================================
+
+# Window Manager
+
+- Throughout the years I've used many window managers:
+  - windowblinds
+  - enlightenment
+  - fluxbox
+  - openbox
+  - xfce4 (more of a desktop environment)
+  - [[i3]]
+- I've been on [[Sway]] since moving to [[Wayland]] and I love it.
+-
+
+
+
+
+
+========================================
+FILE: wittgenstein plays chess with marcel duchamp.md
+========================================
+
+# Wittgenstein Plays Chess with Marcel Duchamp
+
+- a [[documentary]]
+  - [[go]] https:/
+  - /mubi.com/films/wittgenstein-plays-chess-with-marcel-duchamp-or-how-not-to-do-philosophy/watch
+  - I [[liked]] it a lot.
+  - by [[amit dutta]]
+
+
+
+
+
+
+========================================
+FILE: wittgenstein plays chess.md
+========================================
+
+# wittgenstein plays chess
+
+- [[pull]] [[wittgenstein-plays-chess-with-marcel-duchamp]]
+
+
+
+
+
+========================================
+FILE: wittgenstein protocol.md
+========================================
+
+# Wittgenstein Protocol
+
+- [[push]] [[wittgenstein]]
+	- A [[protocol]] for [[mutual understanding]] perhaps yielding some degree of [[social cognition]].
+		- Built on top of [[agora protocol]].
+			- The [[agora protocol]] can be used in the [[agora]], a [[wiki like]] platform.`
+	- [[2019]] https://anagora.org/wiki/Wittgenstein_Protocol
+	- [[2021]] see [[stoa]] below.
+		- [[go]] https://stoa.anagora.org/p/wittgenstein-protocol
+
+
+
+========================================
+FILE: wittgenstein.md
+========================================
+
+# Wittgenstein
+
+- [[pull]] [[wittgenstein plays chess with marcel duchamp]]
+- [[idea]] fine tune GPT-3/BERT on the writings of Wittgenstein.
+  - What would success look like?
+  - If it "works", it can be tried with other philosophers.
+- [[go]] https://en.wikipedia.org/wiki/Ludwig_Wittgenstein
+  - "His philosophy is often divided into an early period, exemplified by the Tractatus, and a later period, articulated primarily in the Philosophical Investigations. The "Early Wittgenstein" was concerned with the logical relationship between propositions and the world and he believed that by providing an account of the logic underlying this relationship, he had solved all philosophical problems. The "Later Wittgenstein", however, rejected many of the assumptions of the Tractatus, arguing that the meaning of words is best understood as their use within a given language-game."
+- See also: [[wittgenstein protocol]]
+
+
+
+
+
+========================================
+FILE: wohngenossenschaft.md
+========================================
+
+# wohngenossenschaft
+
+- [[pull]] [[de]] [[building coop]]
+  - [[pull]] [[wohngenossenschaften]]
+
+
+
+
+========================================
+FILE: wohngenossenschaften.md
+========================================
+
+# wohngenossenschaften
+
+- a [[list]]
+  - [[wogeno]]
+  - [[mehr als wohnen]]
+
+
+
+
+========================================
+FILE: woke.md
+========================================
+
+# Woke
+
+- A [[problematic]], [[contended]] [[term]]. But one I think could be valuable.
+- I think we need a term for "aware of the plight of those affected by systemic oppression".
+- [[pull]] https://twitter.com/flancian/status/1345054372850524160
+
+
+
+
+
+
+========================================
+FILE: wolfram physics.md
+========================================
+
+- a [[project]].
+  - led by [[stephen wolfram]]
+  - recommended by:
+    - [[stephen wolfram]] ;)
+    - maybe [[lex fridman]] with their impressive multi hour podcast together.
+    - [[xiq]]
+  - #technical https://www.wolframphysics.org/technical-introduction/potential-relation-to-physics/cosmology-expansion-and-singularities/
+  - #paper https://arxiv.org/abs/2004.08210
+  - #go https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
+    - [[hypergraphs]]
+    - [[physical space]]
+      - [[causal invariance]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-phenomenon-of-causal-invariance/
+      - [[multiway graphs]]
+        - [[causal graphs]]
+          - [[black holes]] are disconnections in the causal graph
+    - [[relativity]]
+    - [[quantum physics]] "The Inevitability of Quantum Mechanics" https://hyp.is/DyQ-ADUGEe2WSqvaokeu7w/writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
+      - [[oligons]]
+    - [[branchial space]] https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-concept-of-branchial-graphs/
+      - According to Wolfram the [[uncertainty principle]] is due to curvature in [[branchial space]]
+      - In the same space, the [[Einstein equations]] are the [[path integral]] (?)
+      - #q But causal invariance has other consequences too. One of them is that there should be an analog of special relativity that applies not in spacetime but in branchtime. The reference frames of special relativity are now our quantum observation frames. And the analog of speed in physical space is the rate of entangling new quantum states. 
+        - which is related to the [[quantum zeno effect]].
+      - #q The speed of light c is a fundamental physical constant that relates distance in physical space to time. In our models, there’s now a new fundamental physical constant: the maximum entanglement speed, that relates distance in branchial space to time. I call this maximum entanglement speed ζ (zeta) (ζ looks a bit like a “tangled c”). I’m not sure what its value is, but a possible estimate is that it corresponds to entangling about 10102 new quantum states per second. And in a sense the fact that this is so big is why we’re normally able to “form classical thoughts”.
+    - What if there are multiple rules in our universe?
+      - #q Or could it be that in some fundamental sense it doesn’t matter what the rules for the universe are: that to observers embedded in a universe, operating according to the same rules as that universe, the conclusions about how the universe works will always be the same?
+      - #q In what we’ve discussed so far we’re imagining that there’s a particular, single rule for our universe, that gets applied over and over again, effectively in all possible ways. But what if there wasn’t just one rule that could be used? What if all conceivable rules could be used? What if every updating event could just use any possible rule? (Notice that in a finite universe, there are only ever finitely many rules that can ever apply.)
+      - [[greg egan]]'s [[dust universe]] link, maybe?
+      - leads to [[rule space]]
+    - [[rule space]]
+      - #q It’s a strange but rather appealing picture. The universe is effectively using all possible rules. But as entities embedded in the universe, we’re picking a particular foliation (or sequence of reference frames) to make sense of what’s happening. And that choice of foliation corresponds to a description language which gives us our particular way of describing the universe.
+      - #q There’s one immediate thing: that the universe, whatever foliation one uses to describe it, is just a universal computer, and nothing more. And that hypercomputation is never possible in the universe.
+    - According to Wolfram, [[computer experiments]] are more flexible than traditional mathematical methodology.
+
+
+
+
+========================================
+FILE: wolfram.md
+========================================
+
+# Wolfram
+
+- [[pull]] [[stephen wolfram]]
+
+
+
+
+========================================
+FILE: wolftivy.md
+========================================
+
+# Wolftivy
+
+- [[person]]
+- [[twitter]] twitter.com/wolftivy
+- met them through [[steven-fan]]
+
+
+
+
+
+========================================
+FILE: wonder me.md
+========================================
+
+# wonder me
+
+- [[go]] https://wonder.me
+  - reminded me of [[gather town]] but without maps
+
+
+
+
+========================================
+FILE: wong kar wai.md
+========================================
+
+# Wong Kar Wai
+
+- A [[person]].
+- [[film]] [[director]].
+- I've seen [[happy together]], [[in the mood for love]], [[chunking express]].
+
+
+
+
+========================================
+FILE: wordle es.md
+========================================
+
+# wordle es
+
+- [[go]] https://wordle.danielfrg.com/
+
+
+
+
+========================================
+FILE: wordle.md
+========================================
+
+# wordle
+
+- a [[game]].
+  - [[go]] https://www.powerlanguage.co.uk/wordle/
+  - [[es]] https://wordle.danielfrg.com/
+
+
+
+
+
+========================================
+FILE: wordnik.md
+========================================
+
+- a [[stoa]]
+	- [[go]] https://www.wordnik.com/
+	- [[push]] [[do]] 
+		- add wordnik to [[agora search]]
+
+
+========================================
+FILE: work after work.md
+========================================
+
+# work after work
+
+https://twitter.com/flancian/status/1298701482997538822
+
+
+
+
+========================================
+FILE: work in progress.md
+========================================
+
+# Work in Progress
+
+- [[pull]] [[agora plan]]
+
+
+
+
+
+========================================
+FILE: work in public.md
+========================================
+
+# work in public
+
+- I am a firm believer in [[working in public]].
+  - [[pull]] [[flancia collective]]
+
+
+
+
+========================================
+FILE: work log.md
+========================================
+
+# work log
+
+- My [[journal]] serves as a bit of a work log, although sometimes I wonder if having a single page where I write *only* while actually doing focused work according to some particular definition (e.g. while doing [[pomodoros]]).
+  - [[do]]
+  - [[today]]
+  - [[later]]
+
+9m30 into a 25' first pomodoro of the day, I've done mostly maintenance of todos: ranked tasks to be done (needed to be done, not procrastinating), committed to my plan of four pomodoros today by scheduling pomodoros 1 to 4. Now with 14m20s left I move on and start on task 1.
+
+- [[empty nodes should auto pull stoa]]
+  - vscode isn't ready (remote connection hanged, had to restart). on restarting it takes 10 seconds to boot (!) and it takes me to the wrong workspace. two minutes lost.
+  - looking for an agora page to test on I find [[guernica]] as noded by [[neil]]. It is only a stub but it yields: the single backlink, [[hyperland]], sounds amazing.
+
+
+
+
+========================================
+FILE: worked.md
+========================================
+
+- #pull [[work]]
+
+
+
+========================================
+FILE: working.md
+========================================
+
+# Working
+
+- [[pull]] [[work]]
+
+
+
+
+
+========================================
+FILE: workitect.md
+========================================
+
+# workitect
+
+- a [[person]]
+  - [[pull]] [[geordie keitt]]
+  - [[twitter]] https://twitter.com/geordiekeitt
+  - [[calendly]] https://calendly.com/geordiekeitt
+  - [[the structures of work]] https://twitter.com/geordiekeitt/status/1287743034491314176
+
+
+
+
+========================================
+FILE: world building.md
+========================================
+
+# world building
+
+- [[pull]] [[game]]
+- [[uplifting]]
+
+
+
+
+========================================
+FILE: world happiness foundation.md
+========================================
+
+# world happiness foundation
+
+- a [[foundation]].
+  - [[luis gallardo]] 
+    - https://worldhappiness.foundation/who-we-are/
+  - [[non profit]]
+  - [[go]] https://worldhappiness.foundation/
+  - [[agora]] https://worldhappiness.foundation/community/become-an-agora-host/
+    - [[consensus]] building
+      - matching [[problems]] to [[solutions]]
+  - [[ebook]] https://worldhappiness.foundation/store/ebooks/realizing-a-world-with-freedom-consciousness-and-happiness-for-all/
+    - "realizing a world with freedom, consciousness and happiness for all"
+  - [[geordie keitt]] == [[workitect]] introduced me to this
+  
+
+
+
+
+========================================
+FILE: world improvement.md
+========================================
+
+# World Improvement
+
+- Arguably we are here to solve [[problems]].
+  - To try to [[change the world]].
+  - To explore [[m prime]] in [[protopoi]].
+- Choose a way to [[change the world]].
+
+
+
+========================================
+FILE: world university and school.md
+========================================
+
+# World University and School
+
+- [[dvrandezo]] gifted me [[world university and school]].
+  - https://twitter.com/vrandezo/status/1367929034592509953
+  - an [[agora]].
+  - [[pull]] [[wus]] [[wuas]]
+- [[go]] http://worlduniversityandschool.org/
+- [[twitter]] https://twitter.com/WorldUnivAndSch
+- [[contribution to wikidata]] https://worlduniversityandschool.blogspot.com/2015/10/donation-of-cc-world-university-school.html
+
+
+
+
+
+========================================
+FILE: world's hardest game.md
+========================================
+
+- [[go]] https://www.coolmathgames.com/0-worlds-hardest-game
+
+
+========================================
+FILE: world.md
+========================================
+
+# World
+
+- Our shared [[reality]].
+- Sometimes a stand-in for [[universe]].
+
+
+
+
+========================================
+FILE: worldbrain.md
+========================================
+
+# Worldbrain
+
+- A [[company]].
+- [[go]] worldbrain.io
+- [[project]] [[memex]].
+- By [[oliver sauter]].
+
+
+
+
+========================================
+FILE: wormholes.md
+========================================
+
+- [[marx]]
+
+
+
+========================================
+FILE: worry dream.md
+========================================
+
+# Worry Dream
+
+- [[go]] worrydream.com
+- [[abstraction]] worrydream.com/LadderOfAbstraction
+
+
+
+
+
+========================================
+FILE: worrydream.md
+========================================
+
+# Worrydream
+- A [[person]] on [[twitter]]: Bret Victor https://twitter.com/david_perell/status/1298246090664247296
+
+
+
+
+========================================
+FILE: would you agree.md
+========================================
+
+- https://twitter.com/flancian/status/1411684826579705856
+- https://botsin.space/web/statuses/106522664542214570
+
+
+========================================
+FILE: write freely.md
+========================================
+
+# Write Freely
+
+- an [[agora]]
+  - [[go]] https://writefreely.org/
+- will support [[activitypub]] [[note format]]
+  - [[lrhodes]] https://merveilles.town/@lrhodes/105838710069150199
+- 
+
+
+
+
+
+========================================
+FILE: write.md
+========================================
+
+# Write
+
+- an [[action]].
+  - #push [[do]].
+    - [[write]] to [[hans widmer]]
+      - wow, I keep [[procrastinating]] on this
+      - [ ] remember [[christopher alexander]]!
+    - [ ] [[write]] [[agora protocol]]
+    - [[write]] [[books]]
+      - [[in flancia there is an agora]]
+      - [[building bridges]]
+      - [[burning chromium]]
+    - [ ] [[write]] [[agora pkg chapter]]
+    - #pull [[edit]]
+  - [x] [[write]] to [[will walker]]
+
+
+
+
+
+========================================
+FILE: writer.md
+========================================
+
+# Writer
+
+- When I'm feeling self-serving I tell myself I could be a writer.
+
+
+
+
+========================================
+FILE: writing is an aid to memory.md
+========================================
+
+# Writing Is An Aid To Memory
+
+- A book with a beautiful name that my wife has read and I still haven’t.
+- About [[memory]]: https://flancia.org/mine/memory/
+
+
+
+
+========================================
+FILE: writing pomodoro.md
+========================================
+
+- #pull [[writing while you write]] [[pom dargent]]
+
+
+
+========================================
+FILE: writing while I write.md
+========================================
+
+- #pull [[writing while writing]]
+
+
+
+========================================
+FILE: writing while writing.md
+========================================
+
+- a [[brain dump]].
+  - #push [[writing while you write]]
+    - [[some things I wrote while writing]] something else, e.g. [[agora pkg chapter]].
+
+What would you do if you were an archer and you had only two arrows (maybe [[one green, one red]])? Maybe declared to be your only two arrows through reliable prophecy. What would you shoot in the direction of, and how would your time your shots?
+
+What if I die come Monday, I ask myself? And I smile. Then I would have only two days left and I should make them count. Which of course applies to every day in principle.
+
+(I am reminded of the [[secretary problem]], which in my mind could be called the [[fiancee problem]].)
+
+--
+
+Into the fourth pomodoro already at 15:10, feeling great. I'm glad I'm doing this on the 20th instead of the 27th or the 30th. I feel like I'm living in the future -- always a nice feeling :)
+
+--
+Took a long break, starting fifth pomodoro at 15:55.
+--
+
+Oh, I'll [[burn]] if I have to.
+
+I'll burn myself for good if I can and be happy while I do it, or at least [[free from suffering]].
+
+--
+
+I'm on the seventh, did some [[catharsis]] and thinking on [[consciousness]] with [[daniel dennett]] -- and laundry, which I had planned on doing and wrote down as an intent prior, so that was part of the day's work :)
+
+Now on to [[agora rfcs]].
+
+--
+
+Eight went well :)
+
+Also collected laundry (started in six, so some loss of time, but not major) and in the rest had a bite.
+
+I'm drinking [[mate]].
+
+--
+
+Today is Sunday [[2022-08-21]]. I'm back in this node again :)
+
+I've done four pomodoros today, now I'm about to begin my fifth. It's 16:40.
+
+Towards this number I've not counted the 1.5h of solid coworking with [[bouncepaw]] in [[agora meet]] this morning, which happened thanks to him and was great.
+
+(This block could have been a push from my [[daily]], and the Agora could have rendered it as another update in this timeline without too much extra work.)
+
+I noded [[writing pomodoro]], which is one of a kind I'm about to do.
+
+--
+
+Back here on the [[2022-08-28]], happy for it. [[Working in public]] with friends! A [[dream]] come true.
+
+--
+
+Back here on the [[2022-08-31]]. Yesterday I stayed up late finish work before holidays. Today I'm focusing on [[agora doc]], the deliverable for [[agora pkg chapter]].
+
+Did a diagram in [[excalidraw]], checked some references, discussed some feedback with [[st]] in the morning.
+
+Now on to edit for one pomodoro :)
+
+--
+
+[[agora diagrams]] is improving, I'm happy about it. I shared one with [[ladee]] and [[agora discuss]].
+
+--
+
+Here again on [[2022-09-04]] while on the train to Lisbon. There's plenty to do, enough that I could feel overwhelmed, but somehow I mostly feel happy instead. I have this 2h (remaining) trip in front of me and I'll try to make the most of it.
+
+--
+
+The term [[data sovereignty]] as per [[wp]] seems to be mostly taken over already by states?
+
+-> [[digital self-determination]], already noded by [[neil]] :D
+
+
+(As I write this I listen to [[prizewinning]] by [[Juliana Barwick]].)
+
+--
+
+[[agora graph]]
+
+--
+
+Back here while [[today]] resolves to [[2023-12-18]] :)
+
+Finally I've added support for -- resulting in an hr element in the Agora, I think I have a bug, let's see :)
+
+--
+
+Fixed now using [[smartypants]] to process -- as em-dash whenever it's in-sentence  :)
+
+-> thinking of [[Right Speech]]
+
+
+
+========================================
+FILE: writing while you write.md
+========================================
+
+- #pull [[writing while I write]]
+
+
+
+========================================
+FILE: writing with confidence.md
+========================================
+
+- a [[course]].
+  - in [[udemy]]
+  - recommended by [[ivo]]
+  - #go https://www.udemy.com/course/writing-for-business/
+
+
+
+========================================
+FILE: writing.md
+========================================
+
+# Writing
+
+- [[pull]] [[coding]]
+  - https://twitter.com/flancian/status/1345820974906810370
+
+
+
+
+
+========================================
+FILE: wtf happened in 1971.md
+========================================
+
+# wtf happened in 1971.md
+
+
+========================================
+FILE: wu ming.md
+========================================
+
+# Wu Ming
+
+
+
+
+========================================
+FILE: wuas.md
+========================================
+
+# Wuas
+
+- [[pull]] [[world university and school]] [[wus]]
+
+
+
+
+
+========================================
+FILE: wus.md
+========================================
+
+# Wus
+
+- [[pull]] [[world university and school]] [[wuas]]
+
+
+
+
+
+========================================
+FILE: wuxga.md
+========================================
+
+# wuxga
+
+- [[1920x1200]]
+
+
+
+
+========================================
+FILE: x frame options.md
+========================================
+
+- [[go]] https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+
+
+========================================
+FILE: x frame.md
+========================================
+
+# x-frame
+
+- a [[http header]]
+  - [[pull]] [[x-frame-options]]
+  - [[go]] https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+  - Controls [[HTTP]] permissions for [[frame]], [[iframe]], [[embed]], [[object]].
+
+
+
+
+========================================
+FILE: x spreadsheet.md
+========================================
+
+- a [[spreadsheet]]
+	- in [[javascript]]
+	- [[open source]
+	- [[go]] https://github.com/myliang/x-spreadsheet
+
+
+========================================
+FILE: x with y.md
+========================================
+
+# x with y
+
+- a [[tool]].
+  - [[pull]] [[yoga with x]] [[agora]]
+
+
+
+
+========================================
+FILE: x.md
+========================================
+
+# X
+
+- a [[variable]].
+  - an [[unknown]].
+- a [[place]].
+  - in a [[map]], in a [[context]].
+  - in an [[agora]]: a [[node]] by default :)
+  - https://twitter.com/flancian/status/1368247807665201159
+- an [[episode]].
+  - of [[yoga with x]]
+  - #9 https://youtu.be/mzmpn5MjfTw
+
+
+
+
+========================================
+FILE: xanadu.md
+========================================
+
+- #push [[node club]]
+- [[pull]] [[john ono]] is [[@enki]] in the Agora.
+
+
+========================================
+FILE: xaos.md
+========================================
+
+- a [[tool]]
+	- generates [[fractals]]
+	- `apt-get install xaos`
+	- as of [[2021-05-16]] I usually have `xaos -barnsley -autopilot` running in [[nostromo]]
+
+
+========================================
+FILE: xavivives.md
+========================================
+
+# Xavivives
+
+- A [[person]] on [[github]]: https://github.com/xavivives
+- Collaborator of [[armengolaltayo]].
+
+
+
+
+========================================
+FILE: xin0.md
+========================================
+
+# xin0
+- a [[person]].
+	- [[friend]]
+	- [[pull]] [[249]]
+	- [[meet]] https://meet.google.com/jzw-iamu-ydf
+	- [[logseq]] user
+	- works in [[startup]]
+## [[2021-12-04]]
+- how fast to go, how to decide on a tradeoff that balances:
+	- how much to focus on producing
+	- meditating
+	- self love
+	- [[tcot]] == our kind [[twitter bubble]]
+- [[nick cammarata]]
+	- [[jhanas]]
+		- [[jhana inflation]]
+	- [[andres gomez emilson]]
+		- [[qualia computing]]
+- [[meditation]] and [[memory]]
+- [[flancia]]
+	- [[agora]]
+- how to make [[an agora]] better
+	- would it be better if the agora focused also on finding *mis* aligned values, instead of focusing on shared goals and values?
+	- totally!
+	- [[agora protocol]], old doc, has some on this
+- [[philosophical questions]]
+- [[game]] [[humankind]]
+- something we could disagree on
+	- the role of [[money]]?
+		- agreed
+	- [[non profit]] vs [[for profit]]
+		- less likely to be low hanging fruit in the for profit space
+		- to some extent the distinction is unclear if the organization has a good intent (e.g. it will forward profit to good causes)
+		- it might be a tax code distinction at root?
+- [[democracy]]
+	- [[exit, voice and loyalty]]
+- [[2022-02-27]]
+	- [[burnout]] last year
+	- studying [[data science]], then took a break to on a [[startup]]
+	- a startup is a [[group]], has a [[culture]]
+	- [[unigraph]]
+	- [[agora]]
+		- is it a [[decentralized think tank]] plus a set of tools to optimize itself?
+		- yeah, pretty much :)
+	- [[barrier of entry]]
+		- [[tech]] but also [[concepts]]
+		- [[xin0]] == xin-zero as in [[spanish]] == [[philipp]]
+
+
+========================================
+FILE: xinran zhu.md
+========================================
+
+- a [[person]]
+	- [[researcher]]
+	- [[go]] https://xinran093.github.io
+
+
+========================================
+FILE: xiq.md
+========================================
+
+- a [[person]].
+  - [[friend]]
+  - knows about [[machine learning]], [[ai]], [[moloch]].
+  - [[agora]] https://anagora.org/@xiq
+  - ([[flancia collective]] is likely not my party, but more generally a guild space I meet as often as I can.)
+    - I wonder why I wrote this here? Maybe it came up in conversation with [[xiq]]?
+
+
+
+
+========================================
+FILE: xmpp.md
+========================================
+
+- a [[protocol]]
+	- [[messaging]] [[jabber]] [[gtalk]]
+	- [[phryk]]
+		- https://mastodon.social/@phryk/106657559906866441
+		- https://social.coop/web/statuses/106657561819979729
+		- https://social.coop/web/statuses/106657589248955588
+		- https://social.coop/web/statuses/106657611506398805
+		- https://social.coop/web/statuses/106657613511861055
+		- https://social.coop/web/statuses/106657618934091763
+
+
+========================================
+FILE: xoogler sre.md
+========================================
+
+- a [[document]].
+  - #pull [[SRE in the Real World]]
+  - by [[murali suriar]] [[niall murphy]] with [[mglb]] [[liz fong-jones]] [ryaner]] [[yacoob]]
+  - #go https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/preview
+  - > What SRE is called and what it means in the outside world varies a lot. You can’t just read the text of a job advertisement and expect to understand what’s required. In some ways, the closest analogue in the real world might be [[staff engineer]].
+
+
+
+
+
+========================================
+FILE: xoogler table.md
+========================================
+
+- a [[table]].
+  - by [[john huang]]
+  - [[technology]] review
+  - #go https://github.com/jhuangtw/xg2xg
+
+
+
+========================================
+FILE: xoxo.md
+========================================
+
+- a [[conference]].
+  - in [[Portland]].
+  - I applied to attend the 2024 one.
+  - heard of it through [[Darius Kazemi]] and [[Erin Kissane]]
+
+
+========================================
+FILE: yakomo.md
+========================================
+
+# Yakomo
+- Also know them as Y. A [[person]].
+- Met them on [[twitter]]. Not mentioning their username here as I believe they want to keep their Matrix and Twitter identities decoupled.
+- Signed up again into Matrix after their recommendation. Set up a [[Matrix Agora]].
+- Background in computational linguistics.
+- Pointed me in the direction of [[Progressive International]] and [[Democracy Earth]]. 
+- From Twitter: also https://www.civilizationredesign.one/ and https://www.onenation.party/ambassadorship
+
+
+
+
+========================================
+FILE: yaldabaoth.md
+========================================
+
+# Yaldabaoth
+
+- The [[demiurge]]: https://en.wikipedia.org/wiki/Demiurge#Yaldabaoth.
+
+
+
+
+========================================
+FILE: yaml.md
+========================================
+
+# Yaml
+
+- [[pull]] [[agora yaml]]
+
+
+
+
+
+========================================
+FILE: yancey strickler.md
+========================================
+
+# Yancey Strickler
+- Founder of Kickstarter.
+- Has a "creative background".
+
+
+
+========================================
+FILE: yann lecun.md
+========================================
+
+- a [[person]].
+  - [[ml]] [[researcher]]
+  - [[djvu]]
+
+
+
+========================================
+FILE: yarn.md
+========================================
+
+# yarn
+
+- a [[package manager]] for [[javascript]] and [[node]]
+  - https://en.wikipedia.org/wiki/Npm_(software)#Alternatives
+- [[go]] yarnpkg.com
+
+
+
+
+========================================
+FILE: yatharth.md
+========================================
+
+# yatharth
+
+- a [[person]]
+  - [[twitter]] https://twitter.com/AskYatharth
+
+
+
+
+========================================
+FILE: year 2000.md
+========================================
+
+# year 2000
+
+- a [[year]].
+  - [[2000]].
+  - [[pull]] [[y2k]]
+  - the [[agora]] is inspired by [[y2k]]
+
+
+
+
+========================================
+FILE: years.md
+========================================
+
+- #push [[years and years]]
+  - [[2018]]
+  - [[2019]]
+  - [[2020]]
+  - [[2021]]
+  - [[2022]]
+  - [[2023]]
+  - [[2024]]
+
+
+
+========================================
+FILE: yemenis.md
+========================================
+
+# yemenis
+
+- a [[list]]
+  - [[people]] from [[yemen]]
+  - [[tawakul karman]]
+  - [[man from yemen]]
+
+
+
+
+========================================
+FILE: yes.md
+========================================
+
+# Yes
+
+  - (Read [[viral]] first if you haven't. The children of this paragraph can be considered a virus. If you don't want to catch it, please stop reading now.)
+  - Welcome to [[Flancia]]! It is, I hope, a place interesting to all [[kind]] people.
+    - Whatever happens, I hope you're having a great day or night, wherever [[you]] are.
+    - If you can, have [[a nice day]]!
+    - Note that [[Flancia]] is a complex of memes. You can think of reading Flancia as being akin to be fine with being infected; thank you for taking the risk with this if you do. 
+    - Flancia is meant to be [[fully optional]].
+      - If you don't like Flancia, you can stop thinking of Flancia anytime. You will always remain a friend to our hearts, as of the time we parted. Unless you want to be forgotten; if you'd like to be forgotten, please just let it be known.
+      - This is a device designed such as it's fine if you just ignore it. You can stop reading this anytime :)
+    - Having said that, I hope you like this complex! It tries to be wholly positive; it is meant to be a [[constructive]] subset of knowledge. 
+      - In Flancia there is an [[Agora]] that you can visit anytime if you are so inclined.
+      - It is reachable through the internet.
+      - If you don't currently have internet access, but can reach out to [[flancia collective]] and we will try to secure [[internet rights]] for you. We have limited resources but can at least try to help you find people that can help you better than we currently can.
+    - What is encoded in your most popular [[meme]]?
+      - The one in [[viral]], I guess, is mine; currently my most popular post on social media. I *may* be remembered for it if I don't do any better before I die.
+      - I'd rather be remembered for a better thing, though, which is why I started [[Flancia]].
+      - Which of you would you like to share? Tell me over [[matrix]] and I'll read you gladly.
+    - In Flancia [[you]] and [[I]] both can join a [[gentle revolution]].
+
+
+
+
+
+
+========================================
+FILE: yiction.md
+========================================
+
+# Yiction
+
+- [[person]]
+- [[twitter]] twitter.com/slimdaveyy
+- [[agora]] anagora.org/@yiction
+- [[go]] yiction.com
+- [[garden]] https://yiction.com/feed/
+
+
+
+
+
+========================================
+FILE: yiming.md
+========================================
+
+- a [[person]].
+	- #pull [[ChengduLittleA]]
+	- #go https://www.wellobserve.com/
+
+
+========================================
+FILE: yoga 11.md
+========================================
+
+# yoga 11
+
+- [[go]] https://www.youtube.com/watch?v=UEEsdXn8oG8
+  - [[pull]] [[morning practice]]
+
+
+
+
+========================================
+FILE: yoga 13.md
+========================================
+
+- a [[session]]
+	- from [[yoga with adriene]].
+	- [[13 minutes]] long.
+	- #twitter https://twitter.com/flancian/status/1469040819210534921
+	- #go https://www.youtube.com/watch?v=7agiIk9KgyI
+
+
+========================================
+FILE: yoga 15.md
+========================================
+
+# Yoga 15
+
+- [[push]] [[yoga]]
+- [[go]] https://www.youtube.com/watch?v=oifIkMgm40o&list=PLui6Eyny-UzwxbWCWDbTzEwsZnnROBTIL
+  - [[by]] [[yoga with adriene]]
+  - Lasts 15 minutes.
+- [[pull]] [[easy breezy beautiful yoga]]
+- [[philosophy on alerting]]
+
+
+
+
+
+========================================
+FILE: yoga 17.md
+========================================
+
+# Yoga 17
+
+- Part of [[yoga with adriene]]
+- a [[yoga] ]
+- [[push]] [[yoga]]
+  - [[power]] https://www.youtube.com/watch?v=6rh6pVGTqRU
+  - [[chill]] https://www.youtube.com/watch?v=SedzswEwpPw
+    - [[go]] [[chill]]
+
+
+
+
+
+========================================
+FILE: yoga 2021 09.md
+========================================
+
+# yoga 2021 09
+
+- a [[calendar]]
+  - [[yoga with adriene]]
+  - [[go]] https://s3.amazonaws.com/kajabi-storefronts-production/sites/40265/themes/2380946/downloads/JAM3UJv7Rxejz1B6YujL_Sept._2021_yoga_calendar_-_YWA_version.pdf
+
+
+
+
+========================================
+FILE: yoga 2021 10.md
+========================================
+
+# yoga 2021 10
+
+- a [[calendar]]
+  - [[yoga with adriene]]
+  - [[tbd]]
+
+
+
+
+========================================
+FILE: yoga arrive.md
+========================================
+
+- [[go]] https://www.youtube.com/watch?v=GaL3YF1vY2k&list=PLui6Eyny-UzzJ4NSTesh4xRWg4ZWNz5s4&index=5
+
+
+
+
+
+========================================
+FILE: yoga breath.md
+========================================
+
+# yoga breath
+
+- [[yoga arrive]]
+- [[go]] https://www.youtube.com/watch?v=GaL3YF1vY2k&list=PLui6Eyny-UzzJ4NSTesh4xRWg4ZWNz5s4&index=5
+
+
+
+
+========================================
+FILE: yoga butt kicking.md
+========================================
+
+# Yoga Butt Kicking
+- #push [[yoga]]
+	- [[yoga with adriene]]
+	- [[30 days of yoga]] https://www.youtube.com/watch?v=TB2ISQZ5Mb0
+	- [[move]] https://www.youtube.com/watch?v=8CUzG_ny6sg&list=PLui6Eyny-Uzyp5P3Vcuv5qCHQOC8W6grN&index=28
+	- #go [[move]]
+-
+-
+
+
+========================================
+FILE: yoga calendar.md
+========================================
+
+# yoga calendar
+- #push [[yoga calendars]]
+	- [[yoga with adriene]]
+	- #go https://yogawithadriene.com/calendar/
+		- always links to a calendar for the current month
+			- [[fwfg]] sessions might require membership, but there's always a full episode link for each day from the archives -- it works very well IMHO.
+	- apart from the "rolling calendars" above, [[adriene mishler]] has done several [[30 days of yoga]] programs. below are the ones I know about.
+	- #pull [[30 days of yoga]]
+		- the first one. good to get started, IIRC! will do it again soon.
+		- the first two episodes are above 30 minutes, which might be challenging for beginners. but there's many shorter than that after that.
+	- #pull [[yoga camp]]
+	- #pull [[yoga revolution]]
+		- never done it, just heard of it, it sounds great obviously though so I'm queueing it
+	- #pull [[true]]
+		- hmm, I think we might have done this one? need to check.
+	- #pull [[dedicate]]
+		- never done it so far
+	- #pull [[home]]
+		- we enjoyed this one. Adriene seemed to be going for more of a serious zen vibe -- but sometimes also seemed tired? in any case, solid.
+	- #pull [[move]]
+		- the [[state of the art]] in [[yoga calendars]] IMHO
+		- we do it by default; we just [[go/move]] and play the episode matching the current calendar day
+	- #pull [[foundations of yoga]]
+		- not a calendar, but related: a solid playlist
+
+
+========================================
+FILE: yoga december.md
+========================================
+
+# yoga december
+
+- a [[calendar]]
+  - [[yoga]] [[yoga with adriene]]
+  - [[go]] https://s3.amazonaws.com/kajabi-storefronts-production/sites/40265/themes/2380946/downloads/2xc2wjAPRR64MHf88WPb_BALANCE_-_December_2021_yoga_calendar_-_YWA_version.pdf
+
+
+
+
+========================================
+FILE: yoga for abs.md
+========================================
+
+# yoga for abs
+
+- [[push]] [[yoga abs]]
+  - [[go]] https://www.youtube.com/watch?v=FgfT2fOv31E
+  - [[yoga with adriene]]
+
+
+
+
+========================================
+FILE: yoga for chefs.md
+========================================
+
+# yoga for chefs
+
+- [[push]] [[yoga]]
+  - [[go]] https://www.youtube.com/watch?v=-pv06KbAH5Q
+
+
+
+
+========================================
+FILE: yoga for the future.md
+========================================
+
+- a [[yoga]] session
+	- [[go]] https://www.youtube.com/watch?v=VvYCKlkLhNQ
+
+
+========================================
+FILE: yoga january 2022.md
+========================================
+
+# yoga january 2022
+
+- [[pull]] [[yoga calendar]] [[yoga with adriene]] [[move]]
+
+
+
+
+========================================
+FILE: yoga over the internet.md
+========================================
+
+- [[pull]] [[yoti]]
+- [[pull]] [[breathe]]
+
+https://twitter.com/flancian/status/1393644524098969601
+
+
+========================================
+FILE: yoga september 2021.md
+========================================
+
+# yoga september 2021
+
+- [[yoga 2021 09]]
+  - [[go]] https://s3.amazonaws.com/kajabi-storefronts-production/sites/40265/themes/2380946/downloads/JAM3UJv7Rxejz1B6YujL_Sept._2021_yoga_calendar_-_YWA_version.pdf
+
+
+
+
+========================================
+FILE: yoga september.md
+========================================
+
+# yoga september
+
+- [[pull]] [[yoga september 2021]]
+
+
+
+
+========================================
+FILE: yoga spinal health.md
+========================================
+
+# Yoga Spinal Health
+
+- [[go]] https://www.youtube.com/watch?v=PZwc6gWmOyQ&list=PLui6Eyny-UzwxbWCWDbTzEwsZnnROBTIL&index=13
+- [[yoga with adriene]]
+
+
+
+
+========================================
+FILE: yoga with adriene.md
+========================================
+
+# Yoga with Adriene
+- A [[youtube channel]].
+  - #go https://www.youtube.com/user/yogawithadriene
+- A [[project]].
+	- by [[Adriene Mishler]].
+	- It is essentially the base of our [[yoga]] practice.
+	- #pull [[yoga with x]]
+		- is a side project I've been exploring inspired by it :)
+    - I do [[Move]], part of her [[30 days with yoga]] cycle, by default every day.
+      - In the Agora you can go/move/17 to do the video for day 17, for example.
+
+
+
+========================================
+FILE: yoga with x story.md
+========================================
+
+- a [[short story]].
+  - #pull [[yoga with x]]
+  - Not even a [[draft]] :)
+
+ It started as a joke, partly a reflection on my own egocentrism. We loved doing [[Yoga with Adriene]] and [[Benji]] but sometimes struggled with poses and transitions; the opportunity to watch ourselves while we were doing [[yoga]] proved too tempting, the webcam was pointed, [[meet]] was opened, then we were off.
+	  
+From there to recording us was but a step; and from there to [[fractal yoga]], recursively many (just joking -- it was two.) But that was later. First came the [[mirrors]] -- by which I mean additional [[screens]], phones, laptops -- showing the same yoga video through the convenient mean of a remote screen connection. This solved the issue of not being able to see Adriene (or, indeed, us) while in a pose facing away from the main screen. 
+	  
+(A screen is unlike a mirror in that it doesn't necessarily flip its image nor require opposition with its subject. But I digress. This could lead to [[Caramel City]].)
+
+[[...]]
+
+
+
+========================================
+FILE: yogthos.md
+========================================
+
+# Yogthos
+
+- [[person]]
+- [[twitter]] twitter.com/yogthos
+- [[mastodon]] https://mastodon.social/@yogthos
+
+
+
+
+
+========================================
+FILE: yotam ottolenghi.md
+========================================
+
+# Yotam Ottolenghi
+
+- [[person]]
+- [[twitter]] twitter.com/ottolenghi
+- [[go]] ottolenghi.co.uk
+- I have two [[books]] of him and I like them:
+  - [[jerusalem]]
+  - [[simple]]
+
+
+
+
+
+========================================
+FILE: you can run a flancian in your laptop.md
+========================================
+
+# you can run a flancian in your laptop
+
+- [[tweets]] [[2021-06-01]]
+- only in the sense of running a model of myself as I'm sitting in front of my computer.
+- essentially: I'll make memory states of my personal laptop open, and include models in different levels of abstraction.
+  - git repositories with code and data I use
+  - VMs
+  - window manager state, including which programs I'm running and (pending program support) which content it's loaded in them
+    - currently including browser tabs.
+  - state at different levels can be restored optionally
+- [[pull]] [[project snapshot]]
+
+
+
+
+========================================
+FILE: you can run an agora in your laptop.md
+========================================
+
+# you can run an agora in your laptop
+
+- [[agora bootstrap]]
+
+
+
+
+========================================
+FILE: youbots.md
+========================================
+
+- a [[startup]].
+  - by [[Peter Kaminski]] et al
+  - #go https://youbots.ai
+
+
+========================================
+FILE: young wizards.md
+========================================
+
+- a [[series]] of [[books]]
+	- [[go]] https://www.goodreads.com/series/40400-young-wizards
+	- [[wp]] 
+
+
+========================================
+FILE: youronlyone.md
+========================================
+
+- a [[person]].
+  - https://social.coop/@youronlyone@calckey.social
+
+
+
+========================================
+FILE: youtube.md
+========================================
+
+- [[flancian]] https://www.youtube.com/channel/UCaLQCSda2VkCmbbD46vAO7g
+
+
+========================================
+FILE: yubnub.md
+========================================
+
+# Yubnub
+
+- a [[project]]
+  - a [[social]] [[command line]] for the [[web]]
+  - [[by]] [[jonathan aquino]]
+  - supports more than 10000 commands.
+- an [[agora]].
+  - [[agora search]] will try to cooperate with it.
+  - [[wp]] is a good first point of integration
+  - [[phil]] too
+  - how many more?
+- [[go]] yubnub.org
+- [[git]] [[github]]
+- [[github]] https://github.com/JonathanAquino/yubnub
+- [[group]] https://groups.google.com/g/yubnub
+
+
+
+
+
+========================================
+FILE: z.md
+========================================
+
+- a [[letter]]
+- a [[tool]].
+	- by [[iced quinn]]
+	- #go #go https://iceworks.cc/z/
+
+
+========================================
+FILE: zapier.md
+========================================
+
+- a [[platform]]
+	- for web [[automation]] and web [[mashups]]
+	- [[go]] https://zapier.com/
+
+
+========================================
+FILE: zeno of elea.md
+========================================
+
+- [[pull]]  https://en.wikipedia.org/wiki/Zeno_of_Elea
+
+
+========================================
+FILE: zeno's paradoxes.md
+========================================
+
+- [[pull]] https://en.wikipedia.org/wiki/Zeno%27s_paradoxes
+
+https://twitter.com/flancian/status/1411014503345573890
+
+
+========================================
+FILE: zeno.md
+========================================
+
+- [[pull]] [[zeno of elea]]
+	- [[pull]] [[zeno's paradoxes]] 
+
+
+
+
+========================================
+FILE: zergling.md
+========================================
+
+# zergling
+
+- a [[person]]
+  - [[pull]] [[zergling man]]
+  - [[mastodon]] https://mastodon.linuxbox.ninja/@Zergling_man
+
+
+
+
+========================================
+FILE: zero.md
+========================================
+
+# zero
+
+- a [[thing]].
+  - [[technology]] [[innovation]]
+  - [[guptas]]
+- a [[context]].
+  - new/empty/begun anew.
+
+
+
+
+========================================
+FILE: zeta mask yo.md
+========================================
+
+# Zeta Mask Yo
+
+- [[push]] [[true colors]] [[anarcho capitalism]] https://twitter.com/mormo_music/status/1352726066440372224
+
+
+
+
+
+========================================
+FILE: zettelkasten id.md
+========================================
+
+- an [[id]] standard
+	- [[luhmann]] used hierarchical
+	- some later [[zettelkasten]] implementations use time based
+	- [[obsidian zettelkasten plugin]] uses YYYMMDDHHII (II = seconds)
+	
+	![[Pasted image 20210605161611.png]]
+
+
+========================================
+FILE: zhdk.md
+========================================
+
+# Zhdk
+
+- [[go]] https://www.zhdk.ch
+- in [[toni areal]].
+
+
+
+
+
+========================================
+FILE: zhuangzi.md
+========================================
+
+# Zhuangzi
+- Bought https://www.amazon.de/Way-Chuang-Tzu-Second-English-ebook/dp/B00EEW2ZUS/ref=sr_1_1?keywords=the+Way+of+Chuang+Tzu+thomas+merton&qid=1596908867&sr=8-1
+- Recommended on Twitter in [[twitter-zhuangzi]]. "https://twitter.com/ikesharpless/status/1292154202672644097"
+    - https://twitter.com/ikesharpless/status/1292154202672644097
+    - 
+- 
+
+
+
+
+========================================
+FILE: zidisha.md
+========================================
+
+# zidisha
+
+- a [[project]]
+  - [[go]] https://www.zidisha.org
+
+
+
+
+========================================
+FILE: zigzag.md
+========================================
+
+# Zigzag
+
+- a [[data model]]
+  - by [[ted nelson]]
+- [[go]] https://en.wikipedia.org/wiki/ZigZag_(software)
+
+
+
+
+
+========================================
+FILE: zine.md
+========================================
+
+- a [[project]].
+  - by [[Bouncepaw]]
+  - I am honored to have the opportunity to contribute to it!
+  - #go https://www.overleaf.com/project/6692a0fa2199476302a29b42
+  - The following is a snapshot of some of the fragments I contributed; the source of truth now lives in [[Overleaf]] as of [[2024-09-28]].
+
+## Gloria
+
+Un corto preámbulo.
+
+```
+Gloria!
+
+Gloria a luz de tu consciencia!
+
+Gloria a las maravillas del universo!
+```
+
+## Tanka
+
+Meaning, somewhat loosely, a poem with 31 syllables.
+
+```
+Gone gone,
+gone beyond
+
+Everybody gone
+to the other shore
+
+Gone free,
+gone kindly
+
+If you have to go,
+go kindly
+
+Meditate
+```
+
+## Agua
+
+I like to say variations of this while I water the plants.
+
+```
+Agua, agua, agua!
+
+Agua para los sedientos
+
+Fuego!
+
+    para los que tienen frío
+
+Pan! O flan
+
+    para los hambrientos
+
+Luz!
+
+    para los que van como cegados
+
+Casa!
+
+    para los sin techo
+
+Ágora!
+
+    para los oprimidos
+```
+
+## Lady Burup
+
+Lady Burup is the cat who lives with me and I love her.
+
+```
+Ay! Quién tuviera:
+los ojos negros de Lady Burup
+
+Sus ojos verdes,
+tornasolados
+
+Sus rayas bellas!
+
+-
+
+Ay! Quién tuviera
+los ojos verdes de Lady Burup
+
+Sus ojos negros,
+trasnochando.
+
+Sus rayas bellas!
+
+- 
+
+Bella muy bella Burup
+Bella muy bella Burup
+
+True Burup
+True Burup
+
+```
+
+## Las Jaras
+
+I once found this card at the confluence of two rivers and it answered a question.
+
+```
+Las jaras:
+
+Las jaras, qué jaras?
+
+Mis jaras, tus jaras, las jaras!
+
+Las de Avalokiteshvara,
+
+Maitreya,
+
+y Tara!
+```
+
+## Struck by lightning
+
+To learn more about our non-violent revolt against Moloch, consider visiting anagora.org.
+
+```
+Some days I feel as if I’m struck by lightning;
+
+I sometimes catch fire.
+
+I hope you know what I mean;
+
+I can’t tell you what to feel.
+
+But one of these days I think we'll slay [[Moloch]].
+```
+
+## Maybe
+
+```
+Maybe, just maybe
+everything will go
+
+we will burn
+burn, slowly
+burn, kindly
+
+Go with love!
+```
+
+## Tara
+
+```
+Tare tuttare ture:
+Tuttare tuttare ture.
+
+Tare ture,
+tare ture.
+
+Tare tuttare ture;
+Avalokiteshvara 
+Maitre ya!
+
+```
+
+# Outro
+## Carcaj
+Llevo en mi carcaj dos jaras:
+#Flancia y el [[Agora]]!
+
+Las jaras, qué jaras?
+Las de Avalokiteshvara
+Las de Tara
+Las de Maitreya!
+
+## Rainbow folding
+We will be
+like a [[rainbow folding]],
+like [[Maitreya flowing]]
+
+## 
+
+
+
+========================================
+FILE: zk.md
+========================================
+
+# zk
+
+- a [[tool]].
+  - [[command line]] [[zettelkasten]]
+  - pairs well with [[vim]], [[vscode]]
+  - [[go]] https://github.com/mickael-menu/zk
+
+
+
+
+========================================
+FILE: zooko wilcox.md
+========================================
+
+- a [[person]].
+	- #go https://en.wikipedia.org/wiki/Zooko_Wilcox-O%27Hearn
+	- [[zcash]]
+
+
+========================================
+FILE: zoom games.md
+========================================
+
+# Zoom Games
+
+- [[by]] [[reddy2go]]
+  - [[go]] https://twitter.com/reddy2go/status/1338901196409434112
+    - [[spot the difference]]
+    - [[blink chicken]] 
+    - [[human emoji]]
+    - [[death by zoom]]
+    - [[rollercoaster ride]]
+    - [[antakshari]]
+    - [[mirror mirror]]
+    - [[show and tell]]
+    - [[compliment attack]]
+    - [[how was your day]]
+    - [[20 questions]]
+    - [[a capella]]
+    - [[name, place, animal, thing]]
+    - [[eeb]]
+    - [[rock paper scissors]]
+    - [[where am i]]
+    - [[what time is it]]
+
+
+
+
+
+========================================
+FILE: zoom.md
+========================================
+
+# Zoom
+
+- I don't like Zoom very much. It's got worse A/V sync issues than Meet over long distances in my experience; also I can't improve Zoom myself :)
+- Zoom forces you to install a client for getting the full experience.
+
+
+
+
+========================================
+FILE: zorro.md
+========================================
+
+- [[en]] [[fox]]
+- [[pull]] [[el zorro]]
+
+
+========================================
+FILE: zotero connector.md
+========================================
+
+- https://www.zotero.org/download/connectors
+
+
+
+========================================
+FILE: zotero.md
+========================================
+
+- a [[tool]].
+  - [[open source]]
+    - a project of the [[corporation for digital scholarship]] ([[non profit]])
+  - #go https://www.zotero.org
+    - [[quote]] your personal [[research assistant]]
+  - #git https://github.com/zotero/zotero
+  - [[nate matias]] says: 
+    - https://social.coop/@natematias/109576932673460010 to search for e.g. books in databases instead of adding information by hand, install a [[zotero connector]]
+
+
+
+========================================
+FILE: zulip matrix bridge.md
+========================================
+
+# Zulip Matrix Bridge
+
+- A [[bridge]] between [[zulip]] and [[matrix]].
+- [[go]] https://zulip.com/integrations/doc/matrix
+- Found by [[abstractfairy]].
+
+
+
+
+
+========================================
+FILE: zulip.md
+========================================
+
+# Zulip
+- [[AbstractFairy]] introduced me to it.
+- [[interop]] of zulips would be a wonderful thing.
+
+
+
+
+========================================
+FILE: zurich.md
+========================================
+
+# Zurich
+- https://twitter.com/flancian/status/1290658427698634756
+
+
+
+========================================
+FILE: ~.md
+========================================
+
+- a [[tilde]].
+- an [[action]].
+  - in an Agora.
+  - designates mutual convergence leading to equivalence, at least in certain [[mental contexts]].
+    - [[x]] ~ [[X]]
+    - [[[marx]] ~ [[karl marx]]
+
+
+
+========================================
+FILE: ágora.md
+========================================
+
+# Ágora
+
+- Soy un [[flancés]] y esta es mi historia.
+- En [[Flancia]] hay un [[Ágora]].
+- [[pull]] [[agora]]
+
+
+
+
+
+========================================
+FILE: époisses.md
+========================================
+
+# époisses
+
+- [[push]] [[my favourite things]]
+  - a [[cheese]]
+    - [[wp]] https://en.wikipedia.org/wiki/%C3%89poisses
+    - https://twitter.com/flancian/status/1447159343766556672
+
+
+
+
+========================================
+FILE: öcalan.md
+========================================
+
+# öcalan
+
+- [[pull]] [[Abdullah Öcalan]]
+
+
+
+
+========================================
+FILE: αγρός.md
+========================================
+
+# Αγρός
+
+- Fancy way (if you're not [[greek]]) to write [[agrós]], [[agros]].
+- The [[rural]].
+
+
+
+
+========================================
+FILE: πόλις.md
+========================================
+
+# Πόλις
+
+- Fancy way (if you're not [[greek]]) of writing [[pólis]].
+- The [[urban]].
+- [[pull]] [[polis]] [[pólis]]
+
+
+
+
+
+========================================
+FILE: दृष्टि.md
+========================================
+
+- #pull [[dristi]] [[drishti]]
+- Interestingly, for this term Wikipedia Search (which you can find at the top in the Agora) returns [[Evil Eye]] (!).
+  - It is an interesting article. [[Protection from Evil]] could be a better title.
+  - https://en.wikipedia.org/wiki/Evil_eye
+    - > Some Jews believe that a "good eye" designates an attitude of goodwill and kindness towards others. Someone who has this attitude in life will rejoice when his fellow man prospers; he will wish everyone well. An "evil eye" denotes the opposite attitude.
+
+
+
+========================================
+FILE: ….md
+========================================
+
+I never thought of using ellipsis in a path, sounds like a nice test case.
+
+
+
+========================================
+FILE: ⚒.md
+========================================
+
+- means [[proposal]] / [[request]] / [[rfc]]
+	- proposed by [[metasj]]
+	- [ ] need to figure out how to write it in 
+
+
+========================================
+FILE: ⸎.md
+========================================
+
+- #push [[coronis]]
+  - #go https://en.wikipedia.org/wiki/Coronis_(textual_symbol)
+
+
+
+========================================
+FILE: ﷺ.md
+========================================
+
+# ﷺ
+
+- [[pull]] [[peace be upon him]]
+- A [[honorific]] appended after [[muhammad]]'s name by [[muslims]] and people writing with [[muslims]] in mind.
+  - It also is used for other holy figures.
+  - It is considered respectful to include it.
+
+
+
+
+
+========================================
+FILE: 🦰.md
+========================================
+
+- [[orange hair]]
+- I wish [[unicode]] would just work out of the box in URLs cross platform, essentially [[iri]] everywhere.

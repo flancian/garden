@@ -1,0 +1,4055 @@
+
+
+========================================
+FILE: 2020-04-03.md
+========================================
+
+# April 3rd  2020
+
+
+
+
+========================================
+FILE: 2020-04-05.md
+========================================
+
+# April 5th, 2020
+- Hoy hablé con mi Hermano.
+- Sacar la basura
+
+
+
+========================================
+FILE: 2020-04-06.md
+========================================
+
+# April 6th  2020
+
+
+
+
+========================================
+FILE: 2020-04-07.md
+========================================
+
+# April 7th, 2020
+- Go links are complementary; search is suplementary.
+- 
+
+
+
+========================================
+FILE: 2020-04-09.md
+========================================
+
+# April 9th, 2020
+- Luciana told me about https://en.wikipedia.org/wiki/Inverted_World and [[Christopher Priest]].
+- 
+- 
+
+
+
+
+========================================
+FILE: 2020-04-10.md
+========================================
+
+# April 10th, 2020
+- [x] Do 'hello world' in [[Typescript]]
+- [x] Do codelab
+- [x] Run manually built internal extension
+- [x] Run manually built external extension
+- [x] Make trivial change in internal extension
+- [x] Read code
+- [x] Read https://code.visualstudio.com/docs/getstarted/tips-and-tricks
+
+
+
+
+========================================
+FILE: 2020-04-11.md
+========================================
+
+# April 11th, 2020
+- Escribir: En Flancia todo el mundo tiene cuatro sábados por semana.
+- 20%. Se empieza por los viernes: hacemos algo constructivo.
+- [[Egregore]]
+- [[Complainer bot]]
+
+
+
+
+========================================
+FILE: 2020-04-12.md
+========================================
+
+# April 12th, 2020
+- Talked to my family and Berni.
+- Worked on [[Internal Chrome extension]]
+- Ate two different kinds of cake.
+
+
+
+
+========================================
+FILE: 2020-04-13.md
+========================================
+
+# April 13th, 2020
+- Still working on [[Internal Chrome extension]]. I expect to have *something* working in the dev environment today?
+- Would like to get started on [[External Chrome extension]].
+
+
+
+
+========================================
+FILE: 2020-04-17.md
+========================================
+
+# April 17th, 2020
+- https://roamresearch.com/#/app/metaroam/page/996g9PwMn
+- Found this investment calculator: https://engaging-data.com/will-money-last-retire-early
+- [ ] Research [[Naval]]
+- 
+
+
+
+
+========================================
+FILE: 2020-04-18.md
+========================================
+
+# April 18th, 2020
+- [ ] Write to [[Hofstadter]] and tell him about the Agora. It is a meta idea: to talk about building an Agora is to build an Agora.
+- [[Hofstadter]] writes about [[Martin Gardner]] in the introduction to [[Metamagical Themas]]. I should try him out.
+- 
+
+
+
+
+========================================
+FILE: 2020-04-19.md
+========================================
+
+# April 19th, 2020
+- [[Agora Protocol]]
+- [[Terrorismo constructivo]]
+- [[Agora Links]]
+- 
+
+
+
+
+========================================
+FILE: 2020-04-22.md
+========================================
+
+# April 22nd, 2020
+- Organized my desk and felt good about it.
+- [[ErikAllberg]] provided a pointer to https://en.wikipedia.org/wiki/Argument_map. Looks very relevant for [[Agora]].
+
+
+
+
+========================================
+FILE: 2020-04-23.md
+========================================
+
+# April 23rd, 2020
+- L's birthday!
+
+
+
+========================================
+FILE: 2020-04-24.md
+========================================
+
+# April 24th  2020
+
+
+
+
+========================================
+FILE: 2020-04-25.md
+========================================
+
+# April 25th, 2020
+- Tendremos café!
+- [[Zettelkasten]]
+- [[Kanban]]
+- Found https://twitter.com/iamtrask, works on DeepMind? Seems to think interesting thoughts.
+- [[edmodo]]
+
+
+
+
+========================================
+FILE: 2020-04-26.md
+========================================
+
+# April 26th, 2020
+- Conversaciones con Petra y Henning; Sebek y Martyna; y familia.
+- [[Buscarle profesor de inglés online a mamá]]
+
+
+
+
+========================================
+FILE: 2020-04-27.md
+========================================
+
+# April 27th, 2020
+- Marcus told me about [[Commander]] and recommended it to me.
+- Amadeo me preguntó sobre recursos para aprender a programar. Recopilar.
+- [ ] Write post about recommended resources to learn programming.
+- [ ] Need to read https://en.wikipedia.org/wiki/The_Chemical_Basis_of_Morphogenesis by [[Turing]] -- still. http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf
+- 
+
+
+
+
+========================================
+FILE: 2020-05-01.md
+========================================
+
+# May 1st, 2020
+- International Workers' Day!
+- Having issues to focus. But set four concrete goals related to work (ironic in tihs day, I know). I'll try to get through those today so the rest of the weekend feels "freer".
+- 
+
+
+
+========================================
+FILE: 2020-05-02.md
+========================================
+
+# May 2nd, 2020
+- Set up an Etsy store for Macellaio.
+- Helped Gustavo set up Meet :)
+- Chatted with [[jwz]] on Twitter.
+- [ ] Caramel City: add Infre Tea. The protagonist likes Choco Mountain -> Infre -> Caramel City.
+- [ ] Install Wordpress and check out two federation plugins, see Twitter.
+
+
+
+
+========================================
+FILE: 2020-05-03.md
+========================================
+
+# May 3rd, 2020
+- What happened to Livejournal? It was perfect, then it wasn't.
+
+
+
+========================================
+FILE: 2020-05-04.md
+========================================
+
+# May 4th  2020
+
+
+
+
+========================================
+FILE: 2020-05-05.md
+========================================
+
+# May 5th  2020
+
+
+
+
+========================================
+FILE: 2020-05-06.md
+========================================
+
+# May 6th, 2020
+- Had a nice chat with [[mikaeln]]. 
+
+
+
+
+========================================
+FILE: 2020-05-07.md
+========================================
+
+# May 7th, 2020
+- [[neuroyogacara]] recommended interesting books on Twitter.
+- [[resources to learn to program]]. recommended to Amadeo.
+
+
+
+
+========================================
+FILE: 2020-05-08.md
+========================================
+
+# May 8th, 2020
+- Today I wrote a [[Plan]].
+
+
+
+
+========================================
+FILE: 2020-05-09.md
+========================================
+
+# May 9th, 2020
+- Talked to [[visakanv]]
+
+
+
+
+========================================
+FILE: 2020-05-10.md
+========================================
+
+# May 10th, 2020
+- Joined [[Athens]]
+- https://braid.news/
+
+
+
+
+========================================
+FILE: 2020-05-15.md
+========================================
+
+# May 15th, 2020
+- Trying hypothes.is. pretty good so far.
+- https://www.denizcemonduygu.com/philo/browse/ -- what. this is amazing.
+- Trying to start learning Clojure.
+
+
+
+========================================
+FILE: 2020-05-16.md
+========================================
+
+# May 16th, 2020
+- I think today is going to be a great day. Plan:
+    - [x] Buy presents for others.
+    - [x] Donate.
+    - [x] Continue with my 20% contribution.
+    - [ ] Write something, no matter how trivial, in Clojure.
+    - That's probably enough for a day :) Perhaps for a few. But I'll give it a try.
+- Today I met [[EduneV]]
+- Today I was in a call with [[Athens]] people.
+
+
+
+
+========================================
+FILE: 2020-05-17.md
+========================================
+
+# May 17th  2020
+
+
+
+
+========================================
+FILE: 2020-05-18.md
+========================================
+
+# May 18th, 2020
+- [[EduneV]]
+
+
+
+
+========================================
+FILE: 2020-05-19.md
+========================================
+
+# May 19th  2020
+
+
+
+
+========================================
+FILE: 2020-05-20.md
+========================================
+
+# May 20th  2020
+
+
+
+
+========================================
+FILE: 2020-05-21.md
+========================================
+
+# May 21st  2020
+
+
+
+
+========================================
+FILE: 2020-05-22.md
+========================================
+
+# May 22nd, 2020
+- Started with "clojure from the ground up".
+- [[Clojure]]
+
+
+
+
+========================================
+FILE: 2020-05-23.md
+========================================
+
+# May 23rd  2020
+
+
+
+
+========================================
+FILE: 2020-05-24.md
+========================================
+
+# May 24th  2020
+
+
+
+
+========================================
+FILE: 2020-06-01.md
+========================================
+
+# June 1st, 2020
+- Discussed [[How to become a Flancian]] and [[Wittgenstein Protocol]] with L.; she had good insights.
+- Was introduced to [[John Cowper Powys]] by [[Codex]].
+- Was pointed to [[The Virtue of Selfishness]] by [[Adam Fitchett]] as a good summary of Ayn Rand's thinking.
+    - My a priori is that overall I dislike Randian thinking; might be worth reading this and corroborating/refuting.
+
+
+
+
+========================================
+FILE: 2020-06-02.md
+========================================
+
+# June 2nd  2020
+
+
+
+
+========================================
+FILE: 2020-06-03.md
+========================================
+
+# June 3rd, 2020
+- [[EduneV]] me introdujo a [[Bart Kosko]]
+
+
+
+
+========================================
+FILE: 2020-06-04.md
+========================================
+
+# June 4th, 2020
+- 73% of people think I should not bother with [[Ayn Rand]]: https://twitter.com/flancian/status/1267403773149958150
+    - [[Adam Fitchett]] implied reading [[The Virtue of Selfishness]] might be worth it due to high signal/noise.
+    - Due to this poll, the likelihood I will read any of her novels has gone down.
+- I should write "[[Context]]", a Chrome Extension that for example replaces dollar amounts with the potential impact of that sum as applied to some constructive/charitable goal (e.g. against malaria/saving lives).
+- [[Flancia the game]]
+
+
+
+
+========================================
+FILE: 2020-06-06.md
+========================================
+
+# June 6th, 2020
+- Jonathan: https://twitter.com/l_o_r_a_n_d
+
+
+
+========================================
+FILE: 2020-06-07.md
+========================================
+
+# June 7th, 2020
+- Woke up feeling blue.
+- Reviewed EAGxVirtual 2020's schedule (in "grip"0). Signed into the conference's Slack.
+- Takeaway: it makes me sad that we don't have an Agora. We have a fragmented mess of non-interoperable tools.
+
+
+
+========================================
+FILE: 2020-06-08.md
+========================================
+
+# June 8th, 2020
+- Half day of tying loose ends at work.
+- Then, starting on [[Reading vacation June 2020]]
+- I thought of a great pseudonym the other day and forgot to write it down :( Not it's gone! Or it seems like it.
+
+
+
+
+========================================
+FILE: 2020-06-09.md
+========================================
+
+# June 9th, 2020
+- Livetweeting my reading holiday. Unsure if good or bad idea. It is a form of note taking, though. https://twitter.com/flancian/status/1270290784118542338
+- Chrome extension idea: [[Meritocracy]]
+- 
+- 
+
+
+
+
+========================================
+FILE: 2020-06-10.md
+========================================
+
+# June 10th, 2020
+- https://twitter.com/flancian/status/1270661854117990400
+- [[Antisocial]]
+
+
+
+
+========================================
+FILE: 2020-06-11.md
+========================================
+
+# June 11th, 2020
+- I continued learning [[Clojure]]
+- I reconnected with [[EduneV]]
+- [[Twitter to Roam]]
+- Found [[fpallopides]], [[chophshiy]]
+
+
+
+
+========================================
+FILE: 2020-06-12.md
+========================================
+
+# June 12th, 2020
+- Woke up with a cough :(
+- Got tested for covid-19.
+- [[thewiseturtle]] introduced me to [[Maslow]]
+- Watched [[Malcolm X]]
+
+
+
+
+========================================
+FILE: 2020-06-13.md
+========================================
+
+# June 13th, 2020
+- Attending [[EAGxVirtual 2020]].
+- Live tweeting.
+
+
+
+
+========================================
+FILE: 2020-06-14.md
+========================================
+
+# June 14th, 2020
+- [[Chongli Qin]] from DeepMind gave a talk in [[EAGxVirtual 2020]]
+- [[Michael Aird]] -- why we need a database of existential risk estimates.
+- [[James Fodor]] -- pitfalls of Bayesian reasoning.
+- [[Joey Savoie]] -- tools for decision making.
+- [[Olga Babeeva]]
+
+
+
+
+========================================
+FILE: 2020-06-15.md
+========================================
+
+# June 15th, 2020
+- [[meditationstuff]]
+- Perhaps I should import my TODOs from [[Google Keep]] into Roam?
+- 
+
+
+
+
+========================================
+FILE: 2020-06-16.md
+========================================
+
+# June 16th, 2020
+- It seems I have never written here about [[Greg Egan]]. Funny.
+- Check out [[Radical Candor]]
+- [[Zettelkasten]]
+- [[Effective Altruism Talk]]
+- found [[Citizense]] while reading about tiddlyroam
+- 
+
+
+
+
+========================================
+FILE: 2020-06-17.md
+========================================
+
+# June 17th  2020
+
+
+
+
+========================================
+FILE: 2020-06-18.md
+========================================
+
+# June 18th, 2020
+- Saw [[All About Circuits]] recommended on HN.
+- 
+
+
+
+
+========================================
+FILE: 2020-06-19.md
+========================================
+
+# June 19th, 2020
+- Ran into [[Pais]] while looking for quotes for L.'s thesis.
+- 
+
+
+
+
+========================================
+FILE: 2020-06-20.md
+========================================
+
+# June 20th  2020
+
+
+
+
+========================================
+FILE: 2020-06-21.md
+========================================
+
+# June 21st, 2020
+- Read (backlogged) chat with [[AbstractFairy]]. Very interesting.
+- Remember to check [[TODO]]
+- [[Janique Behman]]
+
+
+
+
+========================================
+FILE: 2020-06-24.md
+========================================
+
+# June 24th, 2020
+- Listening to https://www.villageglobal.vc/podcast/ with [[Yancey Strickler]], recommended to me by [[Bardia]].
+- Remembered [[everything2]] and wrote a thread about it.
+- [[Rodrigo Baraglia]] reminded me of [[c2]].
+
+
+
+
+========================================
+FILE: 2020-06-27.md
+========================================
+
+# June 27th, 2020
+- [[AbstractFairy]] told me about being an atheist in Egypt and the [[Egypt-Ethiopia conflict]].
+- [x] Need to fix my i3 key mapping so that cycling through workspaces only affects the active display, and alt+j/k switch displays instead of moving displays (that should be shift+alt+j/k).
+- Should read more about [[Language Games]]
+- VC with [[nthd3gr33]]
+- Met [[Yakomo]]
+
+
+
+
+========================================
+FILE: 2020-06-28.md
+========================================
+
+# June 28th, 2020
+- Found [[Promnesia]] in HN.
+- Also found [[Lemmy]] in HN.
+- 
+
+
+
+
+========================================
+FILE: 2020-06-29.md
+========================================
+
+# June 29th, 2020
+- Found something for [[Polarization]]
+- 
+
+
+
+
+========================================
+FILE: 2020-07-04.md
+========================================
+
+# July 4th, 2020
+- Thought of the [[Arcades Project]]
+- In [[Flancia]] there are [[Arcades]].
+- Should I read something by [[Taleb]]?
+- [[Yakomo]] told me about [[Foam]] and [[Speech and Language Processing]]
+- [[AbstractFairy]] had an idea about a [[Book Club]]. Told me about [[Heather Marsh]]
+- Started reading [[Seeing like a State]]
+- 
+
+
+
+
+========================================
+FILE: 2020-07-05.md
+========================================
+
+# July 5th, 2020
+- [[Codex]] told me about [[Phalanstery]]
+- Had a long twitter discussion with [[Avery]], who turned out to be way more conservative/Trumpian than I thought.
+- [[Bardia]] pinged me a thread by [[Robin Hanson]]: https://twitter.com/robinhanson/status/1279756822199570433
+- [[Mechanical Monk]] told me about [[onenation.party]], [[inthistogetheramerica.org]]
+- 
+
+
+
+
+========================================
+FILE: 2020-07-06.md
+========================================
+
+# July 6th, 2020
+- A happy day.
+- Got some really nice gifts from Luciana. The best gift, honestly, is being with her.
+- Took https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.7,3.8,4,2.4,4.3#_V, scored ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fflancia%2FOBHnyvDT8k.png?alt=media&token=cf0d0885-a817-4336-958d-6bc1ac745435)
+    - Always unsure about the extrovetr/introvert dimension.
+- Edited flancia.org/me
+    - Set up that redirect too
+    - [ ] I really need to back up/replicate dorcas
+- Ran into [[Tsegue-Maryam Guebrou]]
+
+
+
+
+========================================
+FILE: 2020-07-07.md
+========================================
+
+# July 7th, 2020
+- Met [[techpractical]] on Twitter.
+    - [ ] Join freenode#voxpub
+
+
+
+
+========================================
+FILE: 2020-07-08.md
+========================================
+
+# July 8th  2020
+
+
+
+
+========================================
+FILE: 2020-07-09.md
+========================================
+
+# July 9th  2020
+
+
+
+
+========================================
+FILE: 2020-07-10.md
+========================================
+
+# July 10th, 2020
+- [[AbstractFairy]] told me about [[Daryl Davis]]
+- 
+
+
+
+
+========================================
+FILE: 2020-07-11.md
+========================================
+
+# July 11th  2020
+
+
+
+
+========================================
+FILE: 2020-07-12.md
+========================================
+
+# July 12th, 2020
+- Met [[A Fika Monster]] on Twitter via [[Avery]]
+- Enjoying live-tweeting [[bolo'bolo]].
+- [[namedgraph]] liked the Agora thread.
+- 
+
+
+
+
+========================================
+FILE: 2020-07-14.md
+========================================
+
+# July 14th, 2020
+- Someone recommended https://www.rottentomatoes.com/m/the_nice_guys on Twitter.
+- Five books looks interesting: https://fivebooks.com/category/religion/buddhism/
+- 
+
+
+
+========================================
+FILE: 2020-07-15.md
+========================================
+
+# July 15th  2020
+
+
+
+
+========================================
+FILE: 2020-07-16.md
+========================================
+
+# July 16th  2020
+
+
+
+
+========================================
+FILE: 2020-07-17.md
+========================================
+
+# July 17th, 2020
+- Talked to [[noxaxis1]]
+- [ ] [[victor hugo]] recommended https://www.theatlantic.com/technology/archive/2013/03/a-brief-history-of-applause-the-big-data-of-the-ancient-world/274014/.
+- 
+
+
+
+
+========================================
+FILE: 2020-07-18.md
+========================================
+
+# July 18th, 2020
+- [[Codex]] endorsed [[The Story of Civilization]]
+- [[AbstractFairy]] found out about cakes: https://twitter.com/AbstractFairy/status/1284250003268161541
+    - [[Idea]]: a social network that makes it easy to find who currently shares your memes.
+
+
+
+
+========================================
+FILE: 2020-07-19.md
+========================================
+
+# July 19th, 2020
+- [ ] Idea: improve [[i3]] launcher to support things like ctrl+j/k for navigation, ctrl+w for deleting, etc. Sort of readline light? Or perhaps actual readline?
+
+
+
+
+========================================
+FILE: 2020-07-20.md
+========================================
+
+# July 20th, 2020
+- Day off! Weirdly enough, I woke up not knowing exactly what to do, even though I'm clearly behing on everything :)
+- [[Go Links]]? Seems like they could be a nice little communication/advocacy project.
+- The hype around [[GPT-3]] is ongoing.
+- [[OpenAI]] as a potential employer.
+- [[Eric Linus Kaplan]] and I had an interesting discussion on Twitter.
+
+
+
+
+========================================
+FILE: 2020-07-21.md
+========================================
+
+# July 21st, 2020
+- [[S. S.]] introduced me to [[RDF]] and [[Apache Marmotta]]
+
+
+
+
+========================================
+FILE: 2020-07-22.md
+========================================
+
+# July 22nd, 2020
+- TIL about the five canons of classical [[rhetoric]]: [[inventio]], [[dispositio]], [[elocutio]], [[memoria]], [[pronunciatio]].
+- [[trivium]]
+- [[M. B.]] recommended https://www.pbssocal.org/programs/its-okay-to-be-smart/why-are-so-many-people-allergic-to-food-ywqmpi/ to me.
+- Bought some supplements on vitaminexpress.org, ha. Wish me luck.
+- [[Quick Capture]]
+    - https://twitter.com/Conaw/status/1285741950360883205?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-07-23.md
+========================================
+
+# July 23rd  2020
+
+
+
+
+========================================
+FILE: 2020-07-24.md
+========================================
+
+# July 24th, 2020
+- P. H. (work) told me about his favourite islands in [[Bali]].
+- I had my most popular tweet in the end with transcripts from my conversations with [[GPT-3]].
+- [[Mountains]]: yoga, essay by G., song about mountains on "Luke Mele, 11 Jul 2018" in https://www.nts.live/infinite-mixtapes/slow-focus.
+
+
+
+
+========================================
+FILE: 2020-07-25.md
+========================================
+
+# July 25th  2020
+
+
+
+
+========================================
+FILE: 2020-07-26.md
+========================================
+
+# July 26th, 2020
+- "Who gives the most coherent speeches", 80 votes: https://twitter.com/flancian/status/1286197688019628040
+- Today i want to do something with go links.
+- Met [[Cristi]].
+- Met [[Juan Jose Fernandez]].
+- [[Quick Capture]]
+    - [ ] take the bikes to the shop this week.
+- Spoke to [[J]] about [[MiningCity]]
+- [[G.]] told me about [[Ali Abdaal]].
+- 
+
+
+
+
+
+========================================
+FILE: 2020-07-27.md
+========================================
+
+# July 27th, 2020
+- [[Quick Capture]]
+    - Connections: 50 authors, 50 science fiction stories shorter than novels
+
+http://bitmason.blogspot.com/2020/07/50-favorite-short-science-fiction.html
+
+- Woke up feeling ill. Felt like low blood pressure; likely related to having started on iron supplements yesterday? weird, need to investigate more.
+- Had a good time listening to [[Joscha Bach]] with [[Lex Fridman]], though.
+
+
+
+
+
+========================================
+FILE: 2020-07-29.md
+========================================
+
+# July 29th, 2020
+- [[Quick Capture]]
+    - Machine Dreams - Dreaming Machines - Joscha Bach
+
+http://bach.ai/machine-dreams/
+
+
+
+
+
+
+========================================
+FILE: 2020-07-30.md
+========================================
+
+# July 30th, 2020
+- Found https://www.blakeboles.com/2020/07/book-story/ -- about [[how to self-publish a book]].
+
+
+
+
+========================================
+FILE: 2020-07-31.md
+========================================
+
+# July 31st, 2020
+- Went to sleep around 3am, got woken up at 7am by a page and proceeded to work non stop for 11h.
+- [[Virtual1nstinct]] also takes notes about people: https://twitter.com/Virtual1nstinct/status/1289260967034060800
+- 
+
+
+
+
+========================================
+FILE: 2020-08-01.md
+========================================
+
+# August 1st, 2020
+- [[Quick Capture]]
+    - Check out RadicalxChange (@RadxChange): https://twitter.com/RadxChange?s=09
+
+- I was introduced to rofi by [[snufkin]]. https://twitter.com/flancian/status/1289535557039783936
+- Purslane/portulacas for [[L.]]: https://twitter.com/objetosmentales/status/1289322497561620480
+- Started my [[vacation 2020]].
+- [[AbstractFairy]] recommended [[meaningness]] to me, in particular https://meaningness.com/geeks-mops-sociopaths in the context of how to protect a project from people that try to undermine it (Flancia).
+- 
+- 
+- [[Quick Capture]]
+    - [[bolo'bolo]] 500 people https://photos.app.goo.gl/j4v7h9MsoALm2fUk7
+
+
+    - [[utopians]] [[Fourier]] [[Saint-Simon]] [[Cabet]] [[Owen]]
+
+
+
+
+========================================
+FILE: 2020-08-02.md
+========================================
+
+# August 2nd, 2020
+- Perhaps I should write something about "bastones largos".
+- Zeno wrote a [[utopia]]: https://twitter.com/flancian/status/1289886062114791426
+- 
+- [[Quick Capture]]
+    - read https://www.infobae.com/sociedad/2020/07/29/la-noche-de-los-bastones-largos-los-garrotazos-a-la-universidad-y-el-mayor-exilio-de-mentes-brillantes-de-la-historia/
+
+
+
+
+
+
+========================================
+FILE: 2020-08-03.md
+========================================
+
+# August 3rd, 2020
+- Learnt about [[spoudaiogeloion]].
+- [[Quick Capture]]
+    - [ ] order sencha 
+    - [ ] buy "cómo escribir una tesis"
+- post-it todo dump
+    - [ ] [[Peter Singer]]: leer artículo en perfil ([[G.]]) 
+    - [[nthd3gr33]]: idea: state what the social contract is when starting an Agora conversation. Record by default?
+    - [[Salt]]
+- [[The Great Tab Purge of 2020]]
+- 
+
+
+
+
+========================================
+FILE: 2020-08-04.md
+========================================
+
+# August 4th, 2020
+- Went to bed way too late last night :)
+- Read about the [[anti-civ]] movement
+- Read about [[temporal discounting]]
+- Read about [[Fichte]]
+- Installed a lamp. Always have to look up the [[swiss wiring code]]
+
+
+
+
+========================================
+FILE: 2020-08-05.md
+========================================
+
+# August 5th, 2020
+- I intend to write [[Caramel City]] today.
+- I intend to assemble one piece of Ikea furniture.
+- I intend to properly fix the bathroom light fixture.
+- [ ] Save recovery code for [[matrix]].
+- [ ] Set up [[matrix]] communities.
+- Try out [[pentadactyl]] for [[firefox]]. Actually tried "saka key". Decent, but still interferes with some sites more than I'd like and doesn't have a "default off mode" which I'd like. 
+- Interacted with [[exgenesis]], [[Juan Jose Fernandez]]
+
+
+
+
+========================================
+FILE: 2020-08-06.md
+========================================
+
+# August 6th, 2020
+- [[Quick Capture]]
+    - Perhaps I should model my [[Daily]] routine.
+    - Herta Hammerbacher - Wikipedia
+
+https://en.m.wikipedia.org/wiki/Herta_Hammerbacher
+
+
+
+
+
+
+========================================
+FILE: 2020-08-07.md
+========================================
+
+# August 7th, 2020
+- [[Molchat Doma]]
+- Talked with [[AbstractFairy]] about [[Four Quadrants]], [[Robbers Cave Study]], [[Ben Shapiro]].
+- Gave [[Caramel City]] a new stab: https://docs.google.com/document/d/1fhbSw87riuCrqyskPM_q7inwL0rUtReZzp4WfiF2ZqI/edit
+- "En uno de los cuentos que integran la serie de los [[Mabinogion]]..." 
+- 
+
+
+
+
+========================================
+FILE: 2020-08-08.md
+========================================
+
+# August 8th, 2020
+- Today I'd like to:
+    - Write/edit Caramel City
+    - [x] Clean up my [[TODO]]
+- TIL Cabbage, Brussels sprouts, broccoli, cauliflower, all come from [[brassica oleracea]]
+- [[AbstractFairy]] told me about [[microsolidarity]]
+- [[ikesharpless]] told me about [[Zhuangzi]]
+    - "Recommended on Twitter in [[twitter-zhuangzi]]. "https://twitter.com/ikesharpless/status/1292154202672644097"" 
+- Interacted with [[Eric Linus Kaplan]], [[trotto]], [[conaw]]
+- [[doikayt]] told me about [[new games]]: https://twitter.com/doikayt/status/1292203493512511488 
+- I grokked [[thewiseturtle]]'s model.
+- Thought about [[Roam Go Links]], [[Twitter Go Links]].
+- Quality time.
+
+
+
+
+========================================
+FILE: 2020-08-09.md
+========================================
+
+# August 9th, 2020
+- [[NamePresumably]] seems interesting.
+- Interacted with [[metametrician]], [[unknownquant]]
+- [[spiderfoods]] told me about [[Jevons paradox]]: https://twitter.com/spiderfoods/status/1292495585065435144 -- also is into [[Ross Perot]], which I found surprising but interesting.
+- [[russell conjugations]] -- https://twitter.com/NamePresumably/status/1292527719092228096
+- 
+- [[AbstractFairy]] told me about [[Benjamin Franklin]] and [[shirtless guy]]
+- [[Quick Capture]]
+    - https://twitter.com/flancian/status/1292419427196174338?s=09
+
+
+    - https://twitter.com/Conaw/status/1292164908688134145?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-08-10.md
+========================================
+
+# August 10th, 2020
+- [[Ross Perot]]
+- [[Cheeses of Europe]]
+- [ ] Meta: execute on my [[TODO]]
+- [[matrix]] FR for audio messages: https://github.com/vector-im/riot-android/issues/1237
+- [[Genossenschaft]] [[mehralswohnen]] https://www.mehralswohnen.ch/genossenschaft/mitglied-werden/
+
+
+
+
+========================================
+FILE: 2020-08-11.md
+========================================
+
+# August 11th, 2020
+- [[Quick Capture]]
+    - https://twitter.com/CkLorentzen/status/1293257277009428481?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-08-12.md
+========================================
+
+# August 12th, 2020
+- Tidied up around the house, went to the supermarket, etc.
+- Talked to my family.
+- [[TODO]]
+- [[Ryo Fukui]] sounds interesting
+- Could [[Stephen Wolfram]] grok the [[Agora]]?
+- 
+
+
+
+
+========================================
+FILE: 2020-08-13.md
+========================================
+
+[#](#) August 13th, 2020
+- Talked to [[x]] about P2P
+- Talked to [[AbstractFairy]]
+- Talked to [[Jonathan the Utopian]]
+- Wrote about [[Go Links]]
+- Remembered [[techpractical]] and [[CommonsPub]]
+- Met [[Sarah of the Past]]
+- Thought of all the Agoras thanks to [[snufkin]]
+- Remodeled both bedrooms!
+- Tried something new with [[Flancia]]
+    - https://twitter.com/flancian/status/1293960630697897988
+
+
+
+
+========================================
+FILE: 2020-08-14.md
+========================================
+
+# August 14th, 2020
+- [[doikayt]] does not believe in companies: https://twitter.com/doikayt/status/1294299633443721217
+- [ ] Need to check out [[exuo]] for [[x]]
+- [[evaricweicksel]] pointed out [[Scatland]]
+- 
+- [[Quick Capture]]
+    - If you're on Linux look at
+  perf list 
+then
+  perf top -e [...]
+
+
+
+
+
+
+========================================
+FILE: 2020-08-15.md
+========================================
+
+# August 15th, 2020
+- TIL about the [[aventine keyhole]]: https://twitter.com/flancian/status/1294585895421718528
+- Will meet [[Jonathan the Utopian]] today!
+- [[goblinodds]] is interested in bolos: https://twitter.com/goblinodds/status/1294371322546413569
+- 
+- [[Quick Capture]]
+    - https://twitter.com/PanettaMath/status/1294352106569314304?s=09
+
+
+    - https://twitter.com/thewiseturtle/status/1294398392307679233?s=09
+
+
+    - https://twitter.com/JanelleCShane/status/1294396223303102468?s=09
+
+
+    - https://twitter.com/MushiKachi/status/1294570764981735425?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-08-16.md
+========================================
+
+# August 16th, 2020
+- I should take a look at my [[TODO]].
+
+
+
+
+========================================
+FILE: 2020-08-17.md
+========================================
+
+# August 17th, 2020
+- [[Ikko Tanaka]]
+- [[Vinay Gupta]]
+- [[Interintellect]]
+
+
+
+
+========================================
+FILE: 2020-08-18.md
+========================================
+
+# August 18th, 2020
+- Started work again. Trying to take it easier. So far so good :)
+- Organized my flancia.org email. Procrastination of course, but at least constructive.
+- I still don't know why or how the Roam pinned tab in Firefox becomes unpinned so often and it's driving me a bit crazy. I can't reproduce it consciously.
+- [[Smart Agora]]
+- 
+
+
+
+
+========================================
+FILE: 2020-08-19.md
+========================================
+
+# August 19th, 2020
+- [[iron absorption]] is inhibited by polyphenols in tea/coffee, not caffeine it seems? 
+- 
+
+
+
+
+========================================
+FILE: 2020-08-20.md
+========================================
+
+# August 20th, 2020
+- [[Quick Capture]]
+    - documentaries recommended by [[Joscha Bach]] https://twitter.com/Plinz/status/1296238767192199168?s=09
+- [[Irenes]] recommended [[Furikake]]
+
+
+
+
+
+
+========================================
+FILE: 2020-08-21.md
+========================================
+
+# August 21st, 2020
+- Look at my [[TODO]]
+- 
+
+
+
+
+========================================
+FILE: 2020-08-22.md
+========================================
+
+# August 22nd, 2020
+- Advance my [[TODO]]
+- 
+
+
+
+
+========================================
+FILE: 2020-08-23.md
+========================================
+
+# August 23rd, 2020
+- [[Quick Capture]]
+    - https://twitter.com/RokoMijicUK/status/1297318726778462209?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-08-24.md
+========================================
+
+# August 24th, 2020
+- Renewed anagora.org for two years. By impulse went up to two years, then checked what I had done for flancia.org back in July -- two years as well. I forget but I am sometimes consistent.
+- Vi parte de https://www.youtube.com/watch?v=qyRaDJwP1u4 con Lu, sobre [[Macedonio Fernandez]]
+- Anoté idea de regalo para [[G.]]
+- [[TODO]]: research open source ways of drawing 1. protocol diagrams and 2. graph visualizations. Is dia the best there is, or should I use something higher level? This is sort of implicitly blocking calling my [[Go Links]] post finished.
+- Found https://github.com/thomaswang/minimal-twitter, could be a good base for [[Meritocracy]].
+- 
+
+
+
+
+========================================
+FILE: 2020-08-25.md
+========================================
+
+# August 25th, 2020
+- Read article by [[timetotryagain]].
+- Found [[mymind]] on twitter.
+- Ran into [[intelectualmathematics]] in https://twitter.com/stevenstrogatz/status/1298244419611774984
+- Ran into [[worrydream]]
+- 
+
+
+
+
+========================================
+FILE: 2020-08-26.md
+========================================
+
+# August 26th  2020
+
+
+
+
+========================================
+FILE: 2020-08-27.md
+========================================
+
+# August 27th, 2020
+- 
+
+
+
+========================================
+FILE: 2020-08-28.md
+========================================
+
+# August 28th, 2020
+- Had several good interactions with [[in the wilderless]]
+- "Ran into" [[meaningness]] again.
+- [[TODO]]
+- 
+
+
+
+
+========================================
+FILE: 2020-08-29.md
+========================================
+
+# August 29th, 2020
+- [[TODO]]
+    - [[Flancia]] by default, really.
+    - Some days I see Flancia so clearly. Some days it fades away. [[tweet]]
+- Thought about [[Flanbook]]
+- [[generativist]] brought up [[decision theory]]
+- I should bring up [[Cronopios]] more often.
+- Writing [[In Flancia there are no walled gardens]]
+- [[Flancia]]
+- [[Quick Capture]]
+    - [[L.]] sent me this: https://www.instagram.com/p/CEcWmOUB5VJ/?igshid=6l0cauql0jyf
+
+
+
+
+
+
+========================================
+FILE: 2020-08-30.md
+========================================
+
+# August 30th, 2020
+- Continued writing [[Flanbook]].
+- 
+
+
+
+
+========================================
+FILE: 2020-08-31.md
+========================================
+
+# August 31st, 2020
+- Looked for this under [[Interactive philosophers graph]] and didn't find it: https://www.denizcemonduygu.com/philo/browse/
+- [[Twitter report]]: https://twitter.com/flancian/status/1300391619884208128
+
+
+
+
+========================================
+FILE: 2020-09-01.md
+========================================
+
+# September 1st, 2020
+- Had interesting interactions with [[amish]], a [[person]] on [[twitter]].
+- I wonder who [[doikayt]] is
+- [[Codex]] told me about an ideal city by [[Piero della Francesca]]: https://twitter.com/codexeditor/status/1300386194723807233
+- [[Christopher Alexander]]
+- [[forshaper]]
+- [[mwiik]] has good ideas about how to use Twitter: https://twitter.com/mwiik/status/983735296276795394/photo/1
+- 
+
+
+
+
+========================================
+FILE: 2020-09-02.md
+========================================
+
+# September 2nd, 2020
+- [ ] [[rafathebuilder]] recommended https://www.ribbonfarm.com/2019/11/04/domestic-cozy-9/ go me. [[September 5th, 2020]]
+- https://twitter.com/mwiik/status/1300906060711170050 [[September 5th, 2020]]
+- [[EduneV]] introduced me to [[lucid innocence]]: About "knowing how to play Machiavellian games" I was a bit uncertain too, but it reminds me to a term I like: "lucid innocence" which is about the ability to cause harm and not doing it vs the kind of innocence that is unable of causing harm. I think there's something that the shadows offer in terms of wisdom, even if you don't bring them to presence, you know about them.
+- I can't believe I just head about the [[Fediverse]]
+- Should read more about [[Epicurus]]: https://en.wikipedia.org/wiki/Epicurus
+- [[Quick Capture]]
+    - https://twitter.com/codexeditor/status/1300948375521517568?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-03.md
+========================================
+
+# September 3rd, 2020
+- Likely interesting post about Roam: https://www.nateliason.com/blog/roam
+- [ ] Check out [[conaw]]'s pinned thread: https://twitter.com/adam_keesling/status/1196864424725774336
+- Should read my [[TODO]]
+- Should check my [[Twitter todo]]
+- Should finish perf!
+- Sounds of the dawn 30 apr 2016 [[nts]] nice guitar
+- LONGFORM EDITIONS, 19 FEB 2019 [[nts]] 
+- [[peternlindberg]] founded [[thestoa.ca]]
+
+
+
+
+========================================
+FILE: 2020-09-04.md
+========================================
+
+# September 4th, 2020
+- [[M. B.]] told me about [[Douglas Adams]]'s Pink Glasses: https://en.wikipedia.org/wiki/Somebody_else%27s_problem
+- [ ] Yesterday I met [[whomademecrispy]], a [[person]] on [[twitter]]. I should read this: https://twitter.com/whomademecrispy/status/1301301690235117568
+- Liked this: https://twitter.com/jolielizabeth21/status/1301315843783929856
+- [ ] OK, so I've been procrastinating this for long enough that it seems insurmountable but it clearly isn't: today I finish perf.
+- [[Felix Hoesch]] wrote to me from the [[SP]]. Perhaps I could help them translate material to English? Or write in English. Unsure. Something to [[think about]].
+- Idea: have a [[think about]] list for non-directed periodical revisiting. Could be spaced repetition I guess; see what [[roamcult]] is doing perhaps?
+- I love Roam. The ideas behind it.
+- Roam is an Agora.
+
+
+
+
+========================================
+FILE: 2020-09-05.md
+========================================
+
+# September 5th, 2020
+- One of the best days ever. Had get conversations with my family and [[L.]].
+- [[doqxascott]] is interested in building Agoras: https://twitter.com/DoqxaScott/status/1302194929414754304
+- [[Fogg Behavior Model]] is relevant for [[procrastination]]
+- [[amish]] recommended https://twitter.com/AmishNDAhaus/status/1302262172798660611 for [[procrastination]]
+- [[thewiseturtle]] suggested a [[ritual]]: https://twitter.com/flancian/status/1302019714432946176
+- 
+- [[tjaulow]] is interested in building Agoras: https://twitter.com/tjaulow/status/1302202321632403456
+- 
+- [[Quick Capture]]
+    - https://twitter.com/Jeanvaljean689/status/1301937822215974912?s=09
+
+
+    - https://twitter.com/peternlimberg/status/1301937727588503554?s=09
+
+
+    - https://twitter.com/rafathebuilder/status/1301920490194382849?s=09
+
+
+    - https://twitter.com/harveykrishna_/status/1301916789731983360?s=09
+
+
+    - https://twitter.com/AbstractFairy/status/1302036847191896066?s=09
+
+
+    - https://twitter.com/AbstractFairy/status/1302037043363676167?s=09
+
+
+    - https://twitter.com/thewiseturtle/status/1302049880010039304?s=09
+
+
+    - https://twitter.com/AmishNDAhaus/status/1302070124493627392?s=09
+
+
+    - https://twitter.com/harveykrishna_/status/1302082445517430784?s=09
+
+
+    - https://twitter.com/erienneyoung/status/1278592500072996865?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-06.md
+========================================
+
+# September 6th, 2020
+- [[goals]]: build [[Flancia]]
+    - [[goals]]: [[Agora]] with [[Flancians]]
+        - [[goals]]: [[Go Links]] with [[Flancians]]
+        - [[goals]]: [[Browser extensions]] with [[Flancians]]
+        - [[goals]]: build a [[Stoa]]
+    - Write [[Flancia, or the paradise of those that might have thrived]]
+    - [[goals]]: find more [[Flancians]]
+- [[goals]]: [[Bird Feeder]] with [[L.]]
+- [[goals]] [[meta]]: [[Fight procrastination]]
+- I became friends with [[Luminosity]]
+- [ ] Review this thread: https://twitter.com/timetotryagain1/status/1302649138434113536 
+- 
+- [[Quick Capture]]
+    - https://twitter.com/flancian/status/1302543435342270471?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-07.md
+========================================
+
+# September 7th, 2020
+- Consider watching Starship Troopers: https://twitter.com/AmishNDAhaus/status/1302773063453376512
+- [[Quick Capture]]
+    - https://twitter.com/m_ashcroft/status/1302736123026907141?s=09
+
+
+    - Noita - a roguelite in which every pixel is simulated
+
+https://noitagame.com/
+
+
+    - Erhua
+
+https://en.wikipedia.org/wiki/Erhua?wprov=sfla1
+
+
+    - https://twitter.com/antonjw/status/1302893366464610305?s=09
+
+
+    - https://twitter.com/antonjw/status/1302893366464610305?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-08.md
+========================================
+
+# September 8th, 2020
+- [[Quick Capture]]
+    - Diving Deep into the Jhanas, with guest Leigh Brasington | Deconstructing Yourself
+
+https://deconstructingyourself.com/dy-014-diving-deep-jhanas-guest-leigh-brasington.html
+
+- [[tweet]]: effective altruism is a no brainer. Why not post about it more?
+    - EA in the Agora
+    - EA *is* the Agora
+    - AI is already here, it is "the economy" or increasingly "our culture"
+- [x] Get back to Abstract Fairy about book club
+- [ ] Tweet about my to-read books.
+
+
+
+
+
+========================================
+FILE: 2020-09-09.md
+========================================
+
+# September 9th, 2020
+- [[Quick Capture]]
+    - Ruark Audio MR-1 MK2 (1 pair, 20W, Rich Walnut) - digitec
+
+https://www.digitec.ch/en/s1/product/ruark-audio-mr-1-mk2-1-pair-20w-rich-walnut-hi-fi-home-cinema-speakers-6979914
+
+
+    - Marxism and Buddhism | Aeon
+
+https://aeon.co/essays/how-marxism-and-buddhism-complement-each-other
+
+
+
+
+
+
+========================================
+FILE: 2020-09-10.md
+========================================
+
+# September 10th, 2020
+- [[doctor who]]: should give season 18 a try as per https://twitter.com/dansquier/status/1304084336912871432
+- 
+- [[Quick Capture]]
+    - https://twitter.com/chufucious/status/1304140206551912448?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-11.md
+========================================
+
+# September 11th, 2020
+- Michael W. Taft's podcast with Leigh Brasington on [[jhanas]] is proving very interesting.
+- [[nts]]: new york minimalism vol 1
+- [[dyokomizo]] is interested in coordination problems and governance
+- 
+
+
+
+
+========================================
+FILE: 2020-09-12.md
+========================================
+
+# September 12th, 2020
+- Learnt a bit about [[Epicureanism]]
+- 
+- [[Quick Capture]]
+    - https://twitter.com/mwiik/status/1304793622009786369?s=09 [[doctorow]]
+
+
+
+
+
+
+========================================
+FILE: 2020-09-13.md
+========================================
+
+# September 13th, 2020
+- 11AM: 
+    - created https://flancia.org/go/2020-09-13 (https://docs.google.com/document/d/1k1Dr7eJVGhd7n_4jnEdZUThOUrRPHZTDCvGMxADHJRI/edit) 
+    - opened [[Daily]].
+- Nice interactions with [[Codex]] as per usual.
+    - Recommended [[John Cowper Powys]], I downloaded a book of his.
+    - Recommended [[Nyiregyhazi]]: https://twitter.com/codexeditor/status/1261626600010866688, https://youtu.be/M4neWR7CwgA
+- [[Quick Capture]]
+    - https://twitter.com/codexeditor/status/1305080515347664896?s=09
+- Nice conversation with [[thewiseturtle]].
+- [[dyokomizo]] wrote a meditation manual: https://twitter.com/dyokomizo/status/1296070537396002817
+
+
+
+
+
+
+========================================
+FILE: 2020-09-14.md
+========================================
+
+# September 14th, 2020
+- [[tyler alterman]] wants to buy a castle (?): https://twitter.com/TylerAlterman/status/1303492867311230976
+- Opened [[daily]]
+- Chatted with [[harveykrishna]] on Twitter DMs. Weird I didn't have a node on him/her already!
+- [[unknownquant]] recommended https://ia803108.us.archive.org/5/items/ThatWhichIsTattvarthaSutraNathaMalaTatia/That%20Which%20is%20Tattvartha%20Sutra%20Natha%20Mala%20Tatia.pdf as a starting point to understand [[Jainism]].
+- [[hyperanomalous]]
+
+
+
+
+========================================
+FILE: 2020-09-15.md
+========================================
+
+# September 15th, 2020
+- [[Twitter feature requests]]
+- [[Quick Capture]]
+    - https://twitter.com/aifdn/status/1305661110335533062?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-16.md
+========================================
+
+# September 16th, 2020
+- [[Quick Capture]]
+    - https://twitter.com/forshaper/status/1306012509363724288?s=09
+
+
+    - https://twitter.com/anafabrega11/status/1304853002650636288?s=09 [[Lindy effect]]
+    - 
+
+
+- [[Steven Fan]] is interested in [[bolos]], recommended [[balajis]] to me.
+- The other day [[ding levery]] recommended [[balajis]] to me.
+- Read about stupidity: https://twitter.com/fredgalvao/status/1306195565848469510, recommended by [[fredgalvao]] who is a friend of [[Codex]]
+- Read about [[fed.wiki]]: https://twitter.com/jasonksackey/status/1306197839349977088 recomended by [[jasonksackey]]
+- Read about debt from the PoV of [[graeber]] https://twitter.com/dansquier/status/1306121350017413122 recommended by [[dansquier]]
+- [[L.]] told me about [[proyecto nocilla]]: https://periodistas-es.com/proyecto-nocilla-una-revolucion-en-la-narrativa-espanola-20903. [[proyecto morcilla]] would be a great name for... something?
+
+
+
+
+========================================
+FILE: 2020-09-17.md
+========================================
+
+# September 17th, 2020
+- [ ] [[September 19th, 2020]]: ordenar papeles en lixhult y kallax
+- [ ] [[September 19th, 2020]]: mover lámpara del dormitorio al guest room
+- [ ] [[September 19th, 2020]]: armar lámpara del dormitorio
+- [ ] [[September 19th, 2020]]: colgar lámpara del dormitorio
+- [ ] [[September 19th, 2020]]: comprar atril de estudiante
+- [ ] [[September 19th, 2020]]: pagar facturas
+- [ ] [[September 19th, 2020]]: donar
+- Defined six-hours-long tweet-free period as an experiment. Seeing how it goes. I can always stash tweets here (?).
+    - There is a cold war between shift-tab and ctrl-[ de-indentors and I think I'm rooting for the latter.
+    - In the Agora there are circles.
+        - After the Arthurian round table. Also, spontaneous loosely coupled groups at parties. Also, G+ I guess? 
+    - Agora: circles, stoas, gardens.
+    - "I was in my late thirties when I finally woke the hell up."
+- I should really actually write/finish/publish a draft of [[Caramel City]].
+- [[Quick Capture]]
+    - [ ] check out https://twitter.com/francis_miller/status/1081562810163884032?s=09 [[francis_miller]] as recommended by [[fredgalvao]]
+
+
+    - https://twitter.com/plesmasquerade/status/1306489522289401857?s=09 [[plesmasquerade]]
+
+
+
+
+
+
+========================================
+FILE: 2020-09-18.md
+========================================
+
+# September 18th, 2020
+- [[Quick Capture]]
+    - https://twitter.com/dmdohan/status/1306819256307179520?s=09
+
+
+    - https://twitter.com/hyperanomalous/status/1306740848848252934?s=09
+
+
+    - The Peacock Room
+
+[[washington]] https://en.wikipedia.org/wiki/The_Peacock_Room?wprov=sfla1
+
+
+
+
+
+
+========================================
+FILE: 2020-09-19.md
+========================================
+
+# September 19th, 2020
+- [x] Donate
+- [x] Sacar turno
+- [[goblinodds]] spoke about [[Voltairine de Cleyre ]]
+- 
+- [x] Colgar poster en dormitorio
+- [ ] [[Bird Feeder]]
+- [ ] ""Minimum set of requirements, necessary and sufficient, for Flancia to sprout and flourish.
+
+In other words: Why can't we get it done by the end of today (GMT)?""
+- [[Quick Capture]]
+    - I was heartened by this tweet: https://twitter.com/MMMalign/status/1307087201923194882?s=09 [[mmmalign]]
+
+
+- [[Quick Capture]]
+    - https://twitter.com/Cantide1/status/1307416711243603968?s=09
+
+
+    - https://twitter.com/sadalsvvd/status/1307417882578612227?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-20.md
+========================================
+
+# September 20th, 2020
+- [[Quick Capture]]
+    - check out https://twitter.com/JamieCombs/status/1307427633035083780?s=09
+
+
+    - https://twitter.com/_StevenFan/status/1307455734758608896?s=09
+
+
+    - https://twitter.com/jambarree/status/1307206862950010880?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-21.md
+========================================
+
+# September 21st, 2020
+- https://twitter.com/flancian/status/1307944473960370177?s=09 [[tsunduku]]
+- [[Ikko Tanaka]]
+- [ ] I need to find that email from the [[SP]] party member and get back to them, they were kind.
+- [[QAnon]] is really crazy.
+- [[idea]] separate '[[TODO]]' and '[[read]]' more clearly. Perhaps also [[buy]].
+- [[goto.coop]] is available. Need to a cooperative to register it, though. And perhaps there's no need: [[social.coop]] could run a go links service.
+- [[go links]] [[Flanbook]] [[Siphons]] all interact: if people used go links for their social media URLs, they could easily repoint when they switch platforms!
+- [ ] Write [[A Naive Plan for a Freer Internet]] for [[social.coop]]: [[go links]] + [[Athens]]+ [[Mastodon]]+ [[ActivityPub]] / backlinking + [[Siphons]] as per [[Flanbook]].
+- [[Offline Twitter]]
+    - TIL about [[Ted Nelson]]'s https://en.wikipedia.org/wiki/Literary_Machines
+    - Imagine the productivity boost the world would have if [[Chrome]]'s built in PDF viewer was a bit better: supported annotations (ideally social), docs-like comments, even just remembered where in the PDF you left off on your last visit.
+    - Want to set up a [[Twitter]]->[[Mastodon ]][[Siphon]]. Is anybody working on this? (cross post to [[social.coop]])
+    - Constructive procrastination (e.g. when you procrastinate on urgent tasks by doing less urgent, but still useful, tasks) feels a lot like flow. Flow fueled by quanta of fear and anger.
+    - I feel that, as I integrate my personality, I'm becoming weirder; I like it. It makes sense if you think about it: by integrating N profiles I'm incorporating a wider variety of traits -- thus increasing variance, which likely reduces predictability. One possible outcome: people will like me less (see [[predictable identities]]). I'm willing to take that chance. Let's see how far I can get.
+    - Idea: a CLI for the free internet.
+        - Perhaps Ipython/colab based to begin. Perhaps a browser extension eventually.
+        - Lets you interact with the free internet, that is, that which has open APIs/is not part of a walled garden: Wikipedia. Mastodon. Matrix. Agora.
+        - Lets you drive data exchange between supported properties easily; think UNIX pipes.
+    - TOL = Thinking Out Loud. A spirit.
+        - Cue "school spirit" by Kanye.
+    - Flow feels a lot like meditation, indeed.
+        - It feels like your brain has reached, or is about to reach, a destination. Like approaching it in the limit, perhaps.
+
+- [[Quick Capture]]
+    - https://twitter.com/chophshiy/status/1308138101731135488?s=09 [[shift]]
+
+
+
+
+
+
+========================================
+FILE: 2020-09-22.md
+========================================
+
+# September 22nd, 2020
+- Slept really badly -- for no obvious reason.
+- Lots of work today. Oh well. It'll pass :)
+- [[Offline Twitter]]
+    - Compare Twitter and Mastodon APIs.
+    - How hard would it be to do cross-posting?
+- [[Quick Capture]]
+    - The unrealized potential of federation | Hacker News
+
+https://news.ycombinator.com/item?id=24534148
+
+
+    - https://twitter.com/dyokomizo/status/1308245618301833216?s=09
+
+
+    - https://twitter.com/erienneyoung/status/1308253517149208576?s=09 [[biocentrism]]
+
+
+
+
+
+
+========================================
+FILE: 2020-09-23.md
+========================================
+
+# September 23rd, 2020
+- [[Offline Twitter]]
+    - Auras as a social convention: colours we wear.
+    - Recap research: music for concentration or just silence?
+- [[Procrastination diary]]
+    - Trying silence for one pomodoro.
+    - I'd really benefit from knowing the different between 'authentication' and 'authorization' by heart instead of having to look it up/reason it up every time either of them seems to come up.
+- Ran into someone I had met only yesterday on Twitter at the day job, in an unrelated context (!). Serendipitous.
+    - They recommended [[Shinzen Young]].
+    - 
+
+
+
+
+========================================
+FILE: 2020-09-24.md
+========================================
+
+# September 24th, 2020
+- Had a great DM conversation with [[seconds_0]].
+- Did 1 like = 1 thought about the Agora and it did well: https://twitter.com/flancian/status/1309088913194188801
+- Started reading https://www.rationality.org/resources/updates/2016/double-crux as per the above [[rationality]] [[double crux]] [[dyokomizo]]
+- [[Quick Capture]]
+    - https://twitter.com/dyokomizo/status/1308896445878218753?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-25.md
+========================================
+
+# September 25th, 2020
+- [[Lago Atitlán]] in [[Guatemala]] looks beautiful: https://en.wikipedia.org/wiki/Lake_Atitl%C3%A1n
+- [[Some possible paths to Flancia]]
+- 
+
+
+
+
+========================================
+FILE: 2020-09-26.md
+========================================
+
+# September 26th, 2020
+- [[Quick Capture]]
+    - https://twitter.com/flancian/status/1309895982772097025?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-27.md
+========================================
+
+# September 27th, 2020
+- Play https://twitter.com/sn_fk_n/status/1309942837748871170 recommended by [[snufkin]]
+- Nice thread about [[fonts]] in [[hn]]: https://news.ycombinator.com/item?id=24588225
+- White [[onboarding to the Agora]] / [[using the Agora]] / [[building an Agora]]: https://twitter.com/TitusHora/status/1310253591991586819 [[titushora]]
+- [[santicammi]] joined [[matrix]].
+- [[zulip]] keeps being kind of great.
+- [[barbedcatpenis]] recommended great things to try in the [[piano]]: https://twitter.com/barbedcatpenis/status/1310273754673668097
+- 
+- [[Quick Capture]]
+    - GitHub - 42wim/matterbridge: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
+
+https://github.com/42wim/matterbridge [[ding levery]]
+
+
+    - https://twitter.com/_StevenFan/status/1310228328163323905?s=09
+
+
+
+
+
+
+========================================
+FILE: 2020-09-28.md
+========================================
+
+# 2020 09 28
+ - Nice, daily notes plugin was easy to set up.
+ - Tweeted about my experience for [[Roam]] -> [[Obsidian]]: https://twitter.com/flancian/status/1310487321767219200
+ - I wonder if I'll miss Roam. Perhaps the always-on browser nature of it? Unsure.
+ - I can't believe [[Mastodon]] doesn't have [[quote retweets]]: https://github.com/tootsuite/mastodon/issues/14597, https://twitter.com/flancian/status/1310521211768786945
+ - Another [[A pattern language]] reader: [[ablueaeshna]].
+ -  [ ] Figure out how to attach images and other Media in [[Obsidian]]
+ -  [ ] Do Obsidian -> git -> flancia.org go links. [[Weekend]].
+ -  [ ] Buy [[A pattern language]]
+ -  [[tacitronium]] told me about [[Gossip Networks]]: https://twitter.com/tacitronium/status/1310605483833733121
+
+
+
+
+========================================
+FILE: 2020-09-29.md
+========================================
+
+# 2020 09 29
+- [ ] Get back to [[tsargnus]] -- [[Gebron IV]].
+- [ ] Think about [[A pattern language]].
+- [x] Get back to [[dyokomizo]].
+- [ ] Get back to [[unknownquant]] about the game.
+- [ ] figure out if there is a way to mark tasks as completed in [[Obsidian]] in addition to adding an X by hand. Post in the forum?
+- [ ] figure out if there is a way to use a vim like mode in [[Obsidian]]. [[Foam]] has this.
+- Talked to [[ding levery]] on [[zulip]]
+
+
+
+
+========================================
+FILE: 2020-09-30.md
+========================================
+
+# 2020 09 30
+ - Had a lucid dream! Was having tea, went to sit down at the table and it was positioned weirdly. I realized I was dreaming and decided to meditate.
+ - [[dwhly]] reached out over Twitter DM. Seems very nice. We agreed to have a 1:1 next Friday at 6pm after I finish with work.
+
+
+
+
+========================================
+FILE: 2020-10-01.md
+========================================
+
+# 2020 10 01
+ - [ ] Use hypothesis through the day?
+ - [x] Water the plant in the balcony.
+ - [x] Migrate to Foam.
+ - [x] Get tickets for exhibition.
+ - [ ] Check out daily schedule.
+
+
+========================================
+FILE: 2020-10-02.md
+========================================
+
+# 2020-10-02
+
+ - Recommended in an internal resource about [[ADD]]: [[Driven to distraction]]
+ - No meetings day feels like a free day quite often.
+
+
+
+
+========================================
+FILE: 2020-10-03.md
+========================================
+
+# 2020-10-03
+
+ - Tweeted about [[archetypes]]: https://twitter.com/flancian/status/1312078799547387905.
+   - [[explorers]], [[miners]], [[toolmakers]]
+   - [[dyokomizo]] told me about [[killers]], [[achievers]], [[explorers]] and [[socializers]].
+   - [[AaronEstel]] told me about [[wizard]], [[builder]], [[guardian]] and [[beacon]].
+ 
+
+
+
+========================================
+FILE: 2020-10-04.md
+========================================
+
+# 2020-10-04
+
+ - Yesterday I got roped into some kind of weird Twitter feud and it was *not* my favourite thing. I think I'll try to skip those as much as I can.
+ - Had a long, interesting conversation with [[dyokomizo]] about [[communication]], [[models]], [[theory of mind]], [[Buddhism]].
+ - TODO for today: https://twitter.com/flancian/status/1312463931168813056
+   - [ ] VC with family.
+    - Scheduling didn't work out.
+   - [x] Read Benjamin.
+   - [x] Advance the Agora: [[Agora v1]]
+   - [x] buy books about [[ADD]]: [[driven-to-distraction]], [[scattered-minds]].
+   - [ ] Perhaps I should explore [[zulip]] [[interop]] soon using [[matterbridge]].
+    - Didn't get to this, moving to long term TODO.
+ - [[ArtVolumeOne]] sent me this [[flan recipe]]: https://organicandrea.com/easy-organic-vanilla-flan/.
+ - Found out about [[telekommunism]] in [[theproject.is]]. 
+ - [[ablueaeshna]] told me about the concept of privacy in [[A pattern language]]. 
+ - [[ding levery]] chimed in with an interesting bit from [[Deep Work]]: https://twitter.com/dinglevery/status/1312849766124929024.
+
+
+
+
+
+
+========================================
+FILE: 2020-10-05.md
+========================================
+
+# 2020 10 05
+ - Trying "reminders" by creating this via a linked reference ahead of time.
+ - It seems to work!
+ - Found out about [[telekommunism]] in [[theproject_is]] by [[gptbr00ke]].
+ - [[Offline Twitter]]:
+ - [[Daily]] 
+
+
+
+
+========================================
+FILE: 2020-10-06.md
+========================================
+
+# 2020-10-06
+
+ - Finished listening to podcast episode with [[meaningness]]: [[deconstructing yourself]] with [[michael taft]].
+ - Started listening to [[Shinzen Young]] also on [[deconstructing-yourself]].
+    - Learnt that [[michael-taft]] studied with [[Shinzen Young]]. 
+ - [[foam]]: need to figure out if 'save all' is not generating references when it should.
+ - [[todo]]: look into [[vTaiwan]]
+
+
+
+
+========================================
+FILE: 2020-10-07.md
+========================================
+
+# 2020-10-07
+
+ - [[foam]]: changed "new note directory" to WORKSPACE_ROOT to try to prevent the issue in which notes created by linking from the diary are created in journal/. Let's try it:
+    - Interacted with [[TheEquitableProse]] on [[twitter]].
+    - It worked :)
+ - [[Agora v1]]: perhaps it should be called Agora v0.5? Following Semantic Versioning, I think.
+ - [[Agora v1]]: perhaps its web version could "just" be based on https://github.com/cdr/code-server? I wonder how expensive running a [[code-server]] per user could be.
+ - [[theanine]]: took at 11:40 AM. Unsure if I took it earlier -- an issue with having it on my desk and sometimes taking it as I'm engrossed in a different task. To prevent this from happening again I moved it away from my desk.
+ - [[Charles Stanhope]] told me about [[indieweb]]: https://social.coop/web/statuses/104959656532080052.
+ - Wrote a hacky script to add headers to notes that were missing them, [[addheader.py]].
+ - [[dyokomizo]] told me about [[holonomy]].
+  
+
+
+
+
+
+========================================
+FILE: 2020-10-08.md
+========================================
+
+# 2020-10-08
+
+ - [[Obsidian]] as a platform for [[zettelkasten]]: https://twitter.com/brandontoner/status/1314006682729619458 (thanks to [[Steven Fan]]).
+ - [[idea]]: [[landline emulator]]: https://twitter.com/flancian/status/1314106528660631552 
+ - [[Offline Twitter]]
+   - Social coop?
+   - Athens beta.
+   - I splurged on [[the machinery of life]]: https://www.amazon.de/-/en/David-S-Goodsell/dp/0387849246/ref=sr_1_1?dchild=1&keywords=the+machinery+of+life&qid=1602170739&sr=8-1
+
+
+
+
+========================================
+FILE: 2020-10-09.md
+========================================
+
+# 2020-10-09
+
+ - Got boring stuff done, like going to the hospital for my appointment.
+ - [[hypothes.is]]
+
+
+========================================
+FILE: 2020-10-10.md
+========================================
+
+# 2020-10-10
+
+ - Liked [[nts]] [[slow focus]] [[Sebastian Gandera]], 18 Dec 2018.
+ - [[VC]]'d with family.
+ - [[Victor Hugo]] is in the Agora.
+ - Spent time with you.
+ - [[idea]] for https://anagora.org/wiki/Web_Extensions: Twitter undo. Implemented like Gmail's.
+ - [[todo]] check out [[readwise]]. https://twitter.com/olivierkbb/status/1315005913422495747.
+ - [[Offline Twitter]]
+   - Flancia is a meme with an RFC. Are there any others out there?
+   - The Agora is a submeme.
+
+
+
+
+========================================
+FILE: 2020-10-11.md
+========================================
+
+# 2020-10-11
+
+ - Nice Buddhist temple in Germany: https://goo.gl/maps/TaZzK9vzxBkwjV64A
+   - Recommended by [[ablueaeshna]]: https://twitter.com/ablueaeshna/status/1314991029725138949
+ - Went for a walk, it was great even though it was cold.
+ - Trying to organize myself. What exactly do I want to do in this following week, and in which order?
+ - Things I know I want to do, regardless of specifics:
+   - Set [[intents]]. An intent is a concrete action, often with a physical correlate, that I want to perform in the near future.
+     - Example: write on a specific document. Example: flancia.org/go/agora.
+   - Set [[invariants]].
+     - Example: While the time is between noon and 7pm, I will not be on Twitter.
+     - Do I need this extra concept or is it the same as [[intents]]?
+ - [[todo]] Agora
+   - Move go/agora-v1 to go/agora.
+   - Create go/agora-v0.5, make it all about Foam/Obsidian + github + conventions + scripts + go links.
+
+
+
+
+========================================
+FILE: 2020-10-12.md
+========================================
+
+# 2020-10-12
+
+ - Yesterday [[M.]] told me about [[Aby Warburg]] and his [[Mnemosyne]].
+ - [[dyokomizo]] shared this comic and it's good: https://www.commitstrip.com/en/2014/11/25/west-side-project-story/ [[side projects]]
+ - First day of my vacation: https://twitter.com/flancian/status/1315564737569193984
+ - [[Features of the Agora]]: https://twitter.com/flancian/status/1315566798473965568 
+ - [[Plan]]
+   - Check out [[readwise]] as recommended on Twitter.
+   - Set up [[Agora v0.5]] repo
+     - places/
+     - users/ (or people/)?
+
+
+
+
+========================================
+FILE: 2020-10-13.md
+========================================
+
+# 2020-10-13
+
+ - [[B.]] recomendó [[Gris de Ausencia]] de [[Roberto Cosa]].
+ - Tried out [[Tweetdeck]]. Seems FOMO-inducing, but potentially useful as a dashboard.
+ - [[Carnivalesque]] was trailblazed by [[Bakhtin]] when critiquing [[Doestoevsky]]: https://en.wikipedia.org/wiki/Carnivalesque
+ - [[dan-whaley]] forwarded a very interesting email that prompted me to take up work again on [[Agora Protocol]].
+ - In the [[Foam]] discord, someone asked about an [[Agora Roadmap]]. Yeah, that makes sense. I sketched one on paper yesterday casually, need to write it down in the [[Agora]] proper.
+ - Learnt about [[mathieudutour]], author of the most promising rendering solution for the Agora: https://flancia.org/go/agora-rendering.
+ - [[Jay Dugger]] asked me to get back to him in 36 hours about problems of writing: https://twitter.com/JayDugger/status/1315997842968899584 [[todo]] [[2020-10-16]] [[2020-10-17]]
+ - [[G.]] suggested I prep a slide deck about the Agora, and also that I give a presentation over Meet about it (perhaps before even having a slide deck). Great idea.
+ - Worked on [[Agora publishing]].
+
+
+
+
+========================================
+FILE: 2020-10-14.md
+========================================
+
+# 2020-10-14
+
+ - [[Agora v0.5]]: publishing
+    - [ ] I still have the problem that gatsby-digital-garden does not play well with having notes in many different paths. I should fix it or look elsewhere?
+      - Alternative: https://github.com/yenly/foamy-nextjs
+    - [ ] Another problem: some pages aren't found.
+      - [[Stephen Wolfram]] is found.
+      - [[X]] is not (what is X?)
+    - published just my digital garden to https://anagora.org for now.
+    - Probably need to learn [[Gatsby]] proper today, or part of it. Go through a tutorial?
+     - Read about underlying technologies: [[React]], [[GraphQL]]
+    - Perhaps should at least check out the [[React]] docs as well.
+ - [ ] I'd like to cook [[Baingan Bharta]].
+   - https://www.cookwithmanali.com/baingan-bharta/
+ - [x] I need to order more coffee
+   - [x] [[Utopia Coffee]]
+ - Started recording a [[podcast]] in [[anchor.fm]], recommended by [[meshachthomit is a bit clunky, if only because it is actually an extension for a text editor, vscode.as]].
+ - I'm really unclear at this point on whether Foam likes filenames-with-dashes or "Filenames Just as the Title".
+ - Met [[scottjoe]] on [[foam]] [[discord]]. He's also doing multi-workspaces, calls them 'bottles': https://github.com/scott-joe/foam--workspace.
+ - [[mathieudutour]]
+
+
+
+
+========================================
+FILE: 2020-10-15.md
+========================================
+
+# 2020-10-15
+ - VC with [[Jeff Tang]]. It was great!
+   - Told me about [[Nate Liason]]
+   - See todos in his note proper above (this is where block references would come in handy).
+ - [[S.]] came over and we had concurrent mate (different gourds) with social distancing.
+   - Gifted me [[The 99% Invisible City]]
+ - Got [[Words of My Perfect Teacher]] and [[Four Quartets]] in the mail.
+ - [[LJ]] unbanned me and pointed me to their actually pretty great and reasonable bot policy: https://www.livejournal.com/bots/
+ - Great thread with luminaries from "knowledge graph Twitter" (!): https://twitter.com/metasj/status/1316730679330254848, including [[dan-whaley]].
+ - TIL: [[Vickrey auction]]
+ - Still fighting with Foam rendering to anagora.org, but perhaps tomorrow is the day where I decide to hack together a Markdown links fixer and get out of the woods?
+    - Tried out [[scottjoe]]'s solution for indexing multiple repos.
+        - [[scottjoe]] in [[foam]] [[discord]]: @Flancian interesting. As long as they're accessible to you and your credentials in your local environment, it'd clone them all into the bottles directory with whatever they come with. I've made mine in a way that they're all sort of...content plugins/sources for my overall workspace. As long as Foam doesn't conflict in some way with the workspace mgmt found in each of those tools (assuming you're wanting to keep them as working [obsidian|athens|roam] workspaces s well)
+ - [[dyokomizo]] pointed out [[Global Decision-Making via Local Economic Transactions]]
+
+
+
+
+========================================
+FILE: 2020-10-16.md
+========================================
+
+# 2020-10-16
+
+ - Made a new pager sound: https://twitter.com/flancian/status/1317044663354904576, go link: flancia.org/go/cradles-ringstone.
+ - [[L.]] brought up the [[Agora for students]] ([[Agora profiles]]).
+   - Note taking is of course crucial for students. Most notes go to waste now, unfortunately.
+   - Same goes for class presentations, papers. The Agora could work as a link repository to binary files hosted elsewhere on the internet.
+   - Cluster nodes: classes.
+   - Other possible [[Agora profiles]]: [[Agora for researchers]], [[Agora for professionals]]
+ - Asked about [[Category theory]] on Twitter: https://twitter.com/flancian/status/1317010489210228736
+   - [[codex]] suggested [[Category Theory for Programmers]]: flancia.org/go/category-theory-for-programmers
+   - [[crossslide]] suggested [[Conceptual Mathematics]]: https://bookshop.org/books/conceptual-mathematics/ò
+    - [[encincovoy]] pointed out a Spanish edition: https://www.amazon.es/Matem%C3%A1ticas-conceptuales-primera-introducci%C3%B3n-categor%C3%ADas/dp/9682323916
+   - [[alanlaidlaw]] recommended:
+    - https://twitter.com/alanlaidlaw/status/1317179462774149125 [[category theory in life]]
+    - https://twitter.com/alanlaidlaw/status/1317179549772283906 [[what is category theory]]
+ - [[meschaschthomas]] killed it: https://twitter.com/meshachthomas/status/1317079078478913538
+ - [[codex]] too as per usual, recommended flancia.org/go/standoff-properties
+ - https://notes.knowledgefutures.org/pub/belji1gd/release/2 [[What is a Distributed Knowledge Graph]] recommended by [[metasj]] 
+ - Great conversations / interactions with [[encincovoy]], [[paleoludic]], [[sysid_ace]], [[codexeditor]], [[abstractfairy]], [[steven-fan]], [[ding-levery]], [[yakomo]].
+ - Watched [[the revolution will be annotated]] by [[dan-whaley]]: https://twitter.com/flancian/status/1317127804413218818.
+ - Worked on [[roam-likes]], [[agora howto]]. Got them both to sort-of-usable state, I think, in particular the first
+
+
+
+
+========================================
+FILE: 2020-10-17.md
+========================================
+
+# 2020-10-17
+
+ - The [[Agora]] in a nutshell:
+    - It is a [[convention based social network]]; a layer over the existent internet.
+    - It runs wherever there is used generated content. It is user-controlled, even in corp-controlled platforms.
+    - Wherever users can write text, they can [[annotate]] as per an established convention.
+    - [[wikilinks]] are ubiquituous [[tags]]. Browser extensions can easily auto-link them to whenever the user wants to; for example, to a hub repository of them (https://flancia.org/go/agora-protocol is my current proposal, but that's just a detail; the most useful convention should win).
+    - Images (like those you can attach in, say, [[twitter]] or [[mastodon]]) can encode information; think of attaching QR codes to every tweet using a custom client). Or just screenshots, optionally post-processed (OCR'd) or making use of [[stenographic techniques]].
+    - The Agora includes designated hubs where all annotations can be consolidated into a [[distributed knowledge graph]].
+    - Special applications might be possible. Note that the Agora might presumably break open [[walled gardens]].
+- [[burning temple]]: https://twitter.com/harveykrishna_/status/1306294024790331394 [[kinkaku-ji]]
+- Discussed possible projects in [[zulip]].
+- [[jonathan-the-utopian]] works in [[category theory]]! exchanged voice messages.
+
+
+
+
+
+========================================
+FILE: 2020-10-18.md
+========================================
+
+# 2020-10-18
+
+ - Started the day with a clear [[todo]], although on paper -- my digital [[todo]] still tends to diverge. Need to think about how to solve that... later though :)
+ - [[self-organizing intelligent matter]] https://openreview.net/forum?id=160xFQdp7HR as posted by [[maxjaderberg]]: https://twitter.com/maxjaderberg/status/1314208851667808256
+ - Get back to [[dan-whaley]] (email). I drafted my response but didn't send it yet.
+ - Got back to [[yakomo]] -- I spaced out for a bit, unfortunately. I need to review my scheduling.
+ - Struggled to remember the name of [[Moravec's paradox]] again. Wanted to say "Morley's" for some reason. Moravec sounds more like my name, so perhaps I can use that to remember it.
+ - Worked on [[Agora howto]] further.
+ - [[self-obituary]]: https://www.legacy.com/obituaries/theithacajournal/obituary.aspx?n=michael-morley&pid=196956713
+ - [[mmmalign]] yesterday: "all links on twitter, however short or long, count as 23 characters" https://twitter.com/MMMalign/status/1317450885627334656
+ - Read a message by [[Steven Fan]] on [[procrastination]] and [[mattgoldenberg]]'s workshop. Steven mentioned [[logging]] as a strategy; also recommended by https://hbr.org/2017/10/5-research-based-strategies-for-overcoming-procrastination.
+ - [[ablueaeshna]] recommended the [[Dahlem botanical gardens]] in [[Berlin]]: https://twitter.com/ablueaeshna/status/1317854688331661312
+ - [[museical]] asked about [[logseq]].
+ - Tried [[logseq]] today. It is git-based! The setup experience was simple. Interesting.
+
+
+
+
+========================================
+FILE: 2020-10-19.md
+========================================
+
+# 2020-10-19
+
+ - Back to work!
+ - Good feedback in Athens forums about [[go links]]: [[ilmeschinocalunniato]].
+ - [[L.]] told me about [[Marcuse]].
+
+
+
+========================================
+FILE: 2020-10-20.md
+========================================
+
+# 2020-10-20
+
+ - Lots of work.
+ - Have to:
+   - [x] [[todo]] review Dan's document
+   - [ ] [[todo]] fix flancia.org as [[encincovoy]] suggested
+   - [ ] [[todo]] test Agora howto
+   - [x] [[todo]] get back to [[jonathan-the-utopian]]
+   - [x] [[todo]] get back to [[mechanical-monk]]: https://twitter.com/mechanicalmonk1/status/1318568421274116100
+ - Heard [[ken wilber]] in [[budhist geeks]] with [[ryan oelke]]. First three stages of Buddhism are about [[waking up]]
+    - First stage/turning of Buddhism: nirvana as the goal. Arhat. [[theravada]].
+    - Second stage: nirvana and samsara joined. Non-dual. Bodhisattva. [[Nagarjuna]]. [[mahayana]
+        - [[some rinpoche]]: The Bodhisattva vow is *not* about putting off enlightenment really; you need to know the destination to help others get it. The real point is to just not enter Nirvana and leave Samsara behind; rather to stay in a unified state to serve as a bridge.
+    - Third stage accepts the second stage. Buddha nature is a wisdom mind, it is always present. Explores mind states more thoroughly. [[vajrana]].
+        - [[kundalini]], "[[energy currents]]", etc. all come in here?
+        - The body is a pathway to the spiritual. [[tantra]].
+    - Fourth turning: about [[growing up]] (e.g. [[Piaget]], [[Kegan]]) and [[cleaning up]] (psychotherapy?).
+
+
+
+
+========================================
+FILE: 2020-10-21.md
+========================================
+
+# 2020-10-21
+
+ - Another day with meetings throughout the day and at the end of the day. Sigh.
+ - [[nirodha]]: the third noble truth. Cessation. I keep wanting to say narodhi, so I'm writing this down here.
+
+
+========================================
+FILE: 2020-10-22.md
+========================================
+
+# 2020-10-22
+
+- No idea why I kept leaving a space between the beginning of the line and the first list item. Not doing it anymore.
+- I should check [[daily]] more often.
+  - Same for [[todo]].
+- [[gigafelon]] is into [[tiddlywiki]] and [[digital-garden]]s.
+- Read about the [[diolkos]]: https://en.wikipedia.org/wiki/Diolkos
+- [[garethyorke]] told me about [[medito]], a not-for-profit meditation app.
+- Did:
+  - Paid bills.
+  - Worked.
+- 
+
+
+
+
+========================================
+FILE: 2020-10-23.md
+========================================
+
+# 2020-10-23
+
+- Relatively quiet oncall day.
+- Talked to friends: [[S. Z.]], [[A. M.]], [[J. F.]]. [[B. A.]] of course.
+- [[videoeditbot]] seems like a good example of a non-trivial twitter-based tool.
+- Heard about https://www.poetryfoundation.org/poets/langston-hughes  [[langston hughes]] thanks to [[barbedcatpenis]].
+- Heard about [[integrationism]] thanks to [[ablueaeshna]].
+- [[bmock]] told me about his planned comic and it sounds cool. It's about a [[society by animals]] on the edge of [[human civilization]]. Also about [[common sense]] by [[thomas paine]].
+- [[levity]] is likely into [[social knowledge graphs]], h/t [[abstractfairy]].
+- [[L.]] told me about [[Prisión Perpetua]] by [[Ricardo Piglia]]. Lots of possible interactions with Flancia I think. I'm going to read it.
+
+
+
+
+========================================
+FILE: 2020-10-24.md
+========================================
+
+# 2020-10-24
+
+- Ran errands, but it was a beautiful sunny walk.
+- Tried to advance the goals of the gentle revolution.
+- Great conversations with [[abstractfairy]] and [[ding-levery]].
+- Listened to a bit of [[william-macaskill]] with [[lex-fridman]].
+  - Remembered [[sean carroll]] and [[mindscape]]. I think it was there where [[william-macaskill]] spoke about the potential of groups researching outside of academia?
+
+
+
+
+========================================
+FILE: 2020-10-25.md
+========================================
+
+# 2020-10-25
+
+- Discussed [[mindfulness]] with [[dyokomizo]].
+- [[dyokomizo]] introduced me to [[argdown]], markdown-like syntax to generate argument diagrams: https://argdown.org/.
+  - [ ] read https://medium.com/@dyokomizo/from-theory-to-practice-via-tools-6641c223e8d about [[tools]] and report back [[todo]].
+- [[dyokomizo]] recommended https://www.youtube.com/watch?v=1pPI3cUWeI0 by [[david eagleman]]
+- [[dyokomizo]] recommended the [[podcast]] of the [[future of life institute]] with [[stephen batchelor]]: https://soundcloud.com/futureoflife/stephen-batchelor-on-awakening-embracing-existential-risk-and-secular-buddhism
+- Donation call: https://twitter.com/flancian/status/1320316235947585536
+- [[Twitter D&D roles]]
+- [[font-of-augurs]] asked what would [[ethical abundance]] look like in Flancia.
+  - [ ] incorporate into flancia.org/privilege [[todo]].
+- Today I got into a [[git mess]] (tm): for some reason my Foam client had gotten into the logseq branch of my garden repository, which I had meant to leave exclusively for my logseq experiment. I had to run a series of git cherry-pick into 'master' to correct it; no big deal thankfully.
+- [[ding-levery]] mentioned https://wiki.dbpedia.org/
+- [[abstractfairy]] mentioned [[anti-libraries]].
+- [[E. C.]] recommended [[Once upon a time in Hollywood]].
+- [[offline twitter]]
+  - https://www.metadharma.guide/
+  - Piglia photo?
+- [[G. I.]] told me about his studies. Mentioned [[gatopardismo]].
+
+
+
+
+========================================
+FILE: 2020-10-26.md
+========================================
+
+# 2020-10-26
+
+- Monday.
+- dist-upgraded my desktop. This is how you prevent dist-upgrade from asking you about every configuration file you've modified: ```apt-get --yes --force-yes -o Dpkg::Options::="--force-confdef" -o Dpkg::Options::="--force-confold" dist-upgrade```
+- [[nts]] "[[Sounds of the dawn]], 22 jun 2018" is nice
+- For some reason I didn't log [[gigafelon]] until today.
+
+
+
+
+========================================
+FILE: 2020-10-27.md
+========================================
+
+# 2020-10-27
+
+- Tweeted about a new approach to [[flanbook]]: https://twitter.com/flancian/status/1321153952793198593 [[openfacebook]] [[opentwitter]] [[openreddit]]
+- Talked to [[halikaarn1an]].
+
+
+
+========================================
+FILE: 2020-10-28.md
+========================================
+
+# 2020-10-28
+
+- Checked [[daily]].
+  - Also discussed it with [[1c3k1n9]].
+- Somehow managed to get a meetings free afternoon at work! Will try to make it count.
+- Yesterday moved my chromoting sessions to VNC.
+  - Pro: faster, better quality (colors in particular), lighter memory wise on my laptop.
+  - [ ] Con: clipboard sharing doesn't work although it seems like it should. Using TigerVNC both on server and client sides. Need to dig into this. [[todo]]
+
+
+
+
+========================================
+FILE: 2020-10-29.md
+========================================
+
+# 2020-10-29
+
+- The day started great!
+- My afternoon was looking bleak meetings wise but now it's looking better.
+- I really should fix up anagora.org a bit:
+  - Move the new-style agora to /v1/?
+  - Make the wiki render well again
+  - close registrations and clean up some spam? Perhaps.  
+
+
+========================================
+FILE: 2020-10-30.md
+========================================
+
+# 2020-10-30
+
+- [ ] Select some pictures from our Patagonia trip in Jan 2020: https://twitter.com/flancian/status/1322112765264355331
+- Try 
+
+
+========================================
+FILE: 2020-10-31.md
+========================================
+
+# 2020-10-31
+
+- Did [[tax return]] with [[L.]]. She has superpowers; convinced me to do it first thing this weekend. Now we're done!
+- [[project cat]] is going well.
+- Agora
+  - [ ] Render my garden to /flancian instead of root.
+  - Fix wiki:
+    - [x] Fix CSS
+    - [x] Lock it down to prevent more spammer signups, or perhaps reintroduce the lost captcha
+    - [x] Clean up mess spammers did?
+      - Left some of it, but removed most. Might or might not another pass later.
+  - Render Agora, even if broken, to /v1/
+  - [x] Start Flask project to serve /v1/.
+  - Improved [[agora]], [[agora howto]].
+- Flancia
+  - [ ] Add remnote.io to [[roam likes]]
+  - [ ] Add logseq to [[roam likes]]
+  - [ ] Improved [[go links]].
+- Talked about [[effective altriusm]] with [[dbustac]].
+- [[font-of-augurs]] introduced me to [[evanward97]], who seems interested in [[distributed-knowledge-graph]] and better information quality.
+- Met [[trypophilism]].
+- Interacted with [[sadalsuud]].
+- Spoke to [[jonathan-the-utopian]], [[steven-fan]], [[abstractfairy]], [[ding-levery]].
+- Very interesting link by [[qiaochuyuan]] about [[fermi paradox]]: https://twitter.com/QiaochuYuan/status/1316194941530378241/photo/1
+- Responded to [[ilikealtitude]] in [[mastodon]]: https://social.coop/web/statuses/101739871905082276
+- [[s5bug]] is the second Agora v0.5 user ever: https://twitter.com/s5bug/status/1322614541444808705
+
+
+
+
+========================================
+FILE: 2020-11-01.md
+========================================
+
+# 2020-11-01
+
+- Day's todo:
+  - Do laundry
+  - Talk to family over VC
+- [[ding-levery]] told me about [[roam-to-git]].
+- [[logseq]] told me about [[force-graph]].
+- Met [[kanjun]] on [[twitter]].
+- Worked on the [[agora]] for a few hours and it was lots of fun: https://flancia.org/go/agora has the changelog. Got several things working:
+  - Listing notes.
+  - Finding (multiple) notes by [[wikilink]].
+  - Rendering notes (Markdown).
+  - Auto-linkification (which Foam does for you).
+  - https://anagora.org has this code live now.
+- Tomorrow:
+  - Implement search (full text).
+  - Implement backlinks (of course).
+  - Make the index be just another note [[ding-levery]].
+  - Help [[s5bug]] and [[jonathan-the-utopian]] integrate.
+
+
+
+
+========================================
+FILE: 2020-11-02.md
+========================================
+
+# 2020-11-02
+
+- Spoke to [[ding-levery]], [[abstractfairy]] about how the Agora could work.
+  - Ding is interested in [[agora-protocol]], [[twitter]] integration.
+  - [[abstractfairy]] is interested in [[ranking]], [[tags]], [[graphing]].
+- Wrote [[agora-help]], [[foo]], [[wikilink]] as they're featured as examples in the Agora.
+- Fixed [[daily]], whose format was not working in the Agora.
+- Today:
+  - Implemented backlinks.
+  - Added logo.
+- Next:
+  - Implement search (full text).
+  - Move uwsgi/prod serving off my user into 'agora'.
+  - Add monitoring/alerting.
+  - Make the index be just another note [[ding-levery]].
+  - Help [[s5bug]] and [[jonathan-the-utopian]] integrate.
+  - Define special pages. Are there any?
+    - README is already one, it seems.
+    - CONTRACT seems important.
+    - No more likely for now; we want to reserve all caps for things that are really special.
+    - Nodal pages could become special over time. No need for caps really.
+
+
+
+
+
+========================================
+FILE: 2020-11-03.md
+========================================
+
+# 2020-11-03
+
+- Back to work today. I plan to work 10-19; started a bit earlier technically, will take some breaks to compensate. I do need to finish a few things today, though. Will try to keep myself accountable.
+- [[ablueaeshna]] reviewed their note in the Agora: https://twitter.com/ablueaeshna/status/1323439284272222208
+  - Discussed [[gwern]].
+- [[poll]] results:
+  - People preferred /garden/ over other options for Agora paths: https://twitter.com/flancian/status/1322602649594793985
+  - People seemed to be ok with 'node' as the default abstraction in the Agora.
+- Started discussing [[social credit]] with [[steven-fan]] but had to drop out (I was drained yesterday evening because of unrelated issues): https://twitter.com/_StevenFan/status/1323149238788788224
+- [[1c3k1n9]]
+- [[brave browser]] seems to be taking off? https://news.ycombinator.com/item?id=24972738. Perhaps I should check it out again.
+- Noded:
+  - [[richdecibels]]
+  - [[buddhist geeks]]
+- Next (this evening after 19?):
+  - Integrate [[s5bug]]'s garden.
+  - Add 'dark mode' to the Agora, I like this kind of scheme: https://twitter.com/ablueaeshna/status/1323439284272222208/photo/1
+  - Implement search (full text).
+  - Move uwsgi/prod serving off my user into 'agora'.
+  - Add monitoring/alerting.
+  - Make the index be just another note [[ding-levery]].
+
+
+
+
+
+========================================
+FILE: 2020-11-04.md
+========================================
+
+# 2020-11-04
+
+- Election recount day in the US. It looks like it'll be a mess. I tweeted a meme about this then realized it was probably not Right Speech (thanks to [[aeyokay]]) so I deleted it.
+- Yesterday I had an interesting conversation about the [[agora]] with [[D. C.]]
+- Met [[trailhub1]]. They pointed out something interesting about the term '[[agora]]': https://twitter.com/TrailHub1/status/1323921488358068224
+- [[mwiik]] is using Twitter web intents that let you post with GET to a URL to advance his [[tweetbond]] idea: https://twitter.com/mwiik/status/1323787415698505728.
+- [[codexeditor]] and [[reddy2go]] reviewed this [[agora]]! I am thankful.
+- Will be off Twitter until 19 to focus on the day job more thoroughly; I have a backlog I'd like to clear.
+- Did:
+  - Added /today to redirect to the right daily page.
+  - Integrated [[s5bug]]'s garden: https://twitter.com/flancian/status/1323030467008991246
+- Next:
+  - [[agora-plan]]
+- [[offline twitter]]:
+  - "[[41666]]", a [[short story]] in which whoever just cracked [[Dread Pirate Robert]]'s wallet and got $1bn out of it sets up a system that gives 41666 individuals around the world a basic income of $500/mo for four years.
+
+
+
+
+========================================
+FILE: 2020-11-05.md
+========================================
+
+# 2020-11-05
+
+- Will try to keep [[agora-plan]] up to date.
+- After reading about it yesterday in [[s5bug]]'s nodes, I listened to [[minecraft but it's everywhere at the end of time]], then to [[everywhere at the end of the time]] by [[the caretaker]].
+- [[autechre]] put out a new album two months ago and I didn't know about it: https://twitter.com/flancian/status/1324346861482872833
+- [[neil]] told me about [[sister sites]]: https://social.coop/web/statuses/105148502182757783
+- [[neil]] brought up [[web mentions]] for [[backlinks]]: https://social.coop/web/statuses/105146750811444646
+
+
+
+
+
+========================================
+FILE: 2020-11-06.md
+========================================
+
+# 2020-11-06
+
+- Chatted with [[normanchella]]. Enjoyed it a lot -- see notes.
+- Slept very badly for some reason. Will probably take a nap.
+- Played [[among us]] with the team.
+- Added to [[agora plan]].
+- [[font-of-augurs]] told me about [[brainstorming.com]]: https://twitter.com/Brainstorming03/status/1311397654321127426
+- [[dinglevery]] recommended [[thinkingtools]] on [[zulip]] :)
+- Today I learnt about date snippets in Foam. Neat, I needed them. /
+- [[2020-11-07]] book new meeting with [[evanward97]].
+
+
+
+
+========================================
+FILE: 2020-11-07.md
+========================================
+
+# 2020-11-07
+Trying out plan/reality today.
+
+## Reality
+- Picked up [[ocell]]. She was scared but chill. The people that brought her all the way to Brugg were very nice!
+- Worked on [[agora-plan]]. 
+  - Fixed dev/prod setup (somewhat, still plenty of improvements needed).
+  - Updated [[README]].
+  - Thought about the best way to support other media.
+  - Sent out call for participation: https://flancia.org/go/agora-join.
+- Spammed the Agora a bit :)
+
+## Plan
+- Book meeting with [[evanward97]].
+- Pick up [[ocell]].
+- Work on [[agora-plan]]. Perhaps in particular integrate one more garden onto the Agora.
+- Check out [[c2]] more thoroughly again; interesting stuff related to the Agora keeps coming up.
+- Perhaps review [[ward cunningham]]'s github, try some of the stuff in there.
+
+## Misc
+- Found [[jerry michalski]] ([[nixsee]] mentioned him in the [[Foam discord]]): https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/d67ac5e8-ff56-fdec-3869-a4a0795d660f/attachments/d940aac9-23db-a917-d69e-d357a45bff83
+- [[neil]] told me about http://webseitz.fluxent.com/wiki/DigitalGardenStandards [[digital garden standards]]
+- [[titushora]] [[FR]]: make the [[Agora]] look like this: https://twitter.com/TitusHora/status/1325147589197484036
+- [[plesmasquerade]] told me about [[yaldabaoth]]: https://twitter.com/plesmasquerade/status/1325025099028705281
+- [[pen-coded]] volunteered his [[digital garden]] for the Agora! https://github.com/KGBicheno/KGB_Agora
+
+
+
+
+========================================
+FILE: 2020-11-08.md
+========================================
+
+# 2020-11-08
+
+Trying plan/reality again today.
+
+## Reality
+- Met [[arghzero]].
+- Slept very badly due to [[ocell]]. I hope it was just because it was her first night with us :)
+- Spent two-three hours refactoring [[agora-server]]. It's unfortunately now half broken, but it almost supports [[subnodes]], [[user listings]], and has the beginning of a proper [[graph]] data structure. I hope to fix it and ship it as v0.5b [[2020-11-09]].
+
+## Plan
+- Book meeting with [[evanward97]].
+- Check out references by [[neil]] (see [[2020-11-07]]).
+- Review [[2020-11-07]] for other pending tasks that didn't make it to a longer term todo.
+- Work on the [[agora plan]], in particular multiplayer.
+  - Incorporate [[pen-coded]]'s garden after checking for bugs, currently on dev.anagora.org only.
+
+
+
+
+========================================
+FILE: 2020-11-09.md
+========================================
+
+# 2020-11-09
+
+ - Open source review at work still ongoing. Got some progress today, though.
+ - Learnt about [[PuLa]].
+ - Ran into the [[tao of programming]] -- it seems like the kind of thing I should have encountered twenty years ago, but IIRC I didn't.
+ - Started addressing comments in [[agora protocol]]. Many interesting ones!
+   - [[todo]] get back to [[gyuri lajos]] w.r.t. [[TrailMarks]].
+   - [[todo]] get back to [[jack park]] w.r.t. [[typed wikilinks]]
+
+
+========================================
+FILE: 2020-11-10.md
+========================================
+
+# 2020-11-10
+
+- Got back to [[ethan plante]] about [[stoa]]s.
+- [[codex]] tweeted something very kind that brightened my day: https://twitter.com/codexeditor/status/1326075446568521729
+- [[dr_kvj]] as well: https://twitter.com/dr_kvj/status/1326075716656533505
+- Finished [[brightmind]]'s free 8 sessions. Signed up for seven day trial. Reconsider on [[2020-11-15]] [[2020-11-16]], else will be auto charged.
+- [[ctietze]] found the framing of bids for wikilinks (nodes) interesting: https://twitter.com/ctietze/status/1326139342599938048.
+- [[santicammi]] pointed out the concept of the [[noosphere]] as related to the [[agora]]. Very interesting.
+- [[abstractfairy]] told me about [[dollar auction]].
+
+
+
+
+========================================
+FILE: 2020-11-11.md
+========================================
+
+# 2020-11-11
+
+- Uploaded the [[Agora Server]] code to github yesterday after getting open source approval from my employer: flancia.org/go/agora-server.
+- I'm pretty sure [[Autechre]]'s "esc desc" references [[Duran Duran]]'s "Save a Prayer": 
+  - https://youtube.com/watch?v=EZUurYpv8qY
+  - https://youtube.com/watch?v=zMNZ5Gw3Zbg
+- [[todo]]
+  - get back to [[ethan-plante]] on Twitter.
+  - check out [[museical]]'s graph on [[knowledge os]]: https://twitter.com/museical/status/1326614632417652736
+- Today I got [[a pattern language]] in the mail: https://twitter.com/flancian/status/1326516558303289346
+- [[deferred procrastination]]:
+  - Consider making the goose in [[a pattern language]]'s [[independent regions]] be my avatar.
+
+
+
+
+========================================
+FILE: 2020-11-12.md
+========================================
+
+# 2020-11-12
+
+- TIL you can use [[dezoomify]] to download full res images from hi-res sources like [[Google Arts and Culture]].
+- TIL: [[opsimath]], one who learns late in life.
+
+
+
+
+========================================
+FILE: 2020-11-13.md
+========================================
+
+# 2020-11-13
+
+- Very weird I didn't write this journal during the day; I guess all my notes went into the corp garden.
+- I met [[armengolaltayo]].
+
+
+
+
+========================================
+FILE: 2020-11-14.md
+========================================
+
+# 2020-11-14
+- Review [[2020-11-13]].
+- Tried [[nested [[links]]]] in [[foam]] and the [[agora]]. They don't work; yet :) Should they? [[agora plan]]
+- Ordered hot sauces from elmaiz.ch and yerba mate from yerbamate.ch.
+- Talked with [[fpallopides]] about [[cults]].
+- [[arghzero]] finished a roam importer!
+	- [[todo]] try it out: https://twitter.com/ArghZero/status/1327441592228212742
+- [[new music]]
+- Yesterday I played [[skribbld]] with coworkers and it was fun.
+- I had a nice chat with [[d. p.]]
+- Wrote on the [[agora]] and [[twitter]] about [[memory]].
+- [[Liminal]] things are those whose reality depends on whether people believe in them. The [[Agora]] is liminal.
+- [[stack overflow]] could be an [[Agora]].
+- What is [[time]], anyway?
+- [[Memory]] is a footprint left in [[time]].
+- [[semantic versioning]].
+- [[Codex]] has a [[motto]]: https://twitter.com/codexeditor/status/1327439075511472128, https://twitter.com/flancian/status/1327664339957010432
+- [[solomon-naim]] created [[utopoi]]!
+	- reminded me of [[edunev]]'s [[sensagora]]
+- [[agora-plan]]
+	- [[agora-0-5-1]] is out!
+	- [[ethan-plante]] is interested in [[go links]], and might be interested in collaborating on [[agora-go-links-integration]].
+
+
+========================================
+FILE: 2020-11-15.md
+========================================
+
+# 2020-11-15
+
+ - Start the day by taking a look at:
+   - [[daily]]
+   - [[agora plan]]
+- TIL [[tsegue-maryam-guebrou]] is still alive! At 96: https://twitter.com/flancian/status/1327758892500201473
+- Had many interesting conversations with [[L.]] and [[jonathan-the-utopian]].
+- Need to look into [[ipfs]]: https://twitter.com/flancian/status/1328101892338167808
+- [[idea]]: [[covid-19 game]].
+
+
+
+
+========================================
+FILE: 2020-11-16.md
+========================================
+
+# 2020-11-16
+
+- Got into [[flow]] today. It felt productive.
+- Discussed [[agora-go-links-integration]] with [[ethan-plante]] on [[discord]].
+- Discussed [[open source]] with [[steven-fan]].
+- Discussed [[interplanetary mind map]] with [[armengolaltayo]].
+- Ordered coffee from [[utopia coffee]].
+- Caught up with [[abstractfairy]].
+  - Introduced me to [[mike elias]] == [[harmonylion1]].
+- [[music]] Listened to [[utopoi]] (playlist).
+- Worked on items from [[agora plan]]:
+  - Implemented some degree of [[agora fuzzy matching]]
+  - Cleaned up badly formatted journal entries from Roam days.
+  - Implemented full text search.
+  - Made node/subnode distinction clearer.
+  - Moved to a div based layout.
+  - Improved (or tried to improve) dark mode (which is the default).
+- Random thoughts (could be [[offline twitter]]):
+  - I just realized the [[agora]] could become a lot like [[flanbook]] through projects like [[agora twitter integration]].
+  - https://hackersandslackers.com/flask-wtforms-forms/ " know this: handling form authentication and data submission is the pinnacle of app development. This is where frontend meets backend: a dance of data where a person's keystrokes result in meaningful action. He who creates forms is a harbinger of a golden age: a hero who brings us to the pinnacle of Western technology." ha.
+- Tested [[roam2agora]]. See [[2020-11-17]].
+
+## Planned
+- Get back to [[paleoludic]] (email).
+- Get back to [[jerry-michalski]], evaluate [[ogm]].
+- Update [[roam likes]].
+- Write about [[governance]] in [[Flancia]].
+- Find a way to node to the [[agora]] from mobile. Actually probably add it to the plan first.
+- Write about [[stoa]]s.
+
+
+
+
+========================================
+FILE: 2020-11-17.md
+========================================
+
+# 2020-11-17
+
+- [[2020-11-16]] was productive! I'm glad.
+- Tested [[roam2agora]]. Works great! Two possible improvements:
+  - Always print the number of pages processes and pages selected for publication.
+  - Add a flag to default to public.
+- [x] Remind [[s5bug]] about https://twitter.com/s5bug/status/1328475640954200066
+- [[twitter agora integration]]: auto convert tweets to embeds
+- [[roam2agora]] perhaps could use https://twitter.com/RoamResearch/status/1236142937051762688
+
+## Planned
+- [[agora plan]] after 19.30.
+- Perhaps work on making it easier for people using [[roam2agora]] to submit their gardens to the Agora.
+- Perhaps work on auto-embedding tweets, see [[agora twitter integration]].
+- Sync flancia.org go links setup -> anagora.org, thus bootstrapping anagora.org go links.
+
+
+
+
+========================================
+FILE: 2020-11-18.md
+========================================
+
+# 2020-11-18
+
+ - [[eionrobb]] pointed out that [[pidgin]] now has support for multiple modern IM protocols: https://twitter.com/EionRobb/status/1328936735661826050
+ - [[covid-19]] has infected 56M people and killed 1.3M: https://twitter.com/MeFromBefore/status/1329026957791543297
+ - Fill in [[social knowledge graphs]] discussion doc. skgdoc.
+ - The [[stoa]] is feeling more and more like a [[wiki]] all the time.
+ - TIL that [[Neil Harbisson]] and [[Moon Ribas]] communicate via bluetooth-enabled vibrators in their teeth.
+ - Should work on [[roam likes]]
+   - Add [[logseq]], [[vimwiki]], [[org roam]].
+- Ran into a [[digital garden]]: https://braindump.jethro.dev/
+
+
+
+
+========================================
+FILE: 2020-11-19.md
+========================================
+
+# 2020-11-19
+
+=======
+- [[daily]]
+- Review [[2020-11-18]].
+- Found a great list of [[second brain]]s: https://github.com/KasperZutterman/Second-Brain
+
+## Planned
+
+- Fill in [[social knowledge graphs]] discussion doc. skgdoc.
+- Should work on [[roam likes]]
+   - Add [[logseq]], [[vimwiki]], [[org roam]].
+
+
+
+========================================
+FILE: 2020-11-20.md
+========================================
+
+# 2020-11-20
+
+- It's Friday! Feeling good about this.
+- I have plenty of plans for the weekend, but I also want to take it easy.
+- Met [[Bendini Fettuccini]].
+- TIL about [[Jed McKenna]] via [[a yawning cat]].
+- [[Agora Youtube Integration]].
+- [[Yoga Butt Kicking]]
+- [[noded]] [[open collective]] [[agora actions]].
+
+
+
+
+========================================
+FILE: 2020-11-21.md
+========================================
+
+# 2020-11-21
+
+- [[cat vibing]].
+- [[stephen-wolfram]].
+- [[vc]] with [[G.]].
+- [[agora integration]]
+- [[flancia governance]].
+- [[agora hub]].
+- Met [[forthrighter]] on [[twitter]].
+- Met [[exists_forall]].
+- [[prerationalist]] created Flancia themed [[meme]]s: https://twitter.com/prerationalist/status/1330261017100685312
+
+
+
+
+
+========================================
+FILE: 2020-11-22.md
+========================================
+
+# 2020-11-22
+
+- Woke up late but happy. Today is [[oncall]] and [[Agora]] day.
+  - [[Agora Plan]]
+- Renamed [[piglia]] to [[Ricardo Piglia]]. I think [[foam]] is getting facilities for renaming?
+- [[Luciana]] signed up for the Agora!
+  - Feedback: having a dictionary in VSCode would be useful.
+  - Solution: ctrl-p, copy/paste: ext install yzhang.dictionary-completion
+  - Feedback: having to write a comment to commit is annoying ([[jonathan]] said the same).
+  - Solution: set a default somehow? Need to look into this.
+- Donated 120 CHF to [[UBI Zurich]].
+- Asked [[jonathan]] about [[stephen wolfram]]:
+  - [[stephen wolfram]] does not seem very involved with the math community in general.
+  - Some people whose opinion he trusts have issues with his personality.
+  - Mathematically he does not know much about what his current research is focused on.
+- [[bodhisattva vow]].
+- Set [[auto-commit messages]] in [[foam]] with https://stackoverflow.com/questions/39445199/how-to-make-visual-studio-code-remember-previous-commit-messages
+- [[alan laidlaw]] introduced me to [[human computer interaction]].
+- [[james baker]] has compatible goals.
+- [[markdown]].
+- [[cartola]].
+
+
+
+
+
+========================================
+FILE: 2020-11-23.md
+========================================
+
+# 2020-11-23
+
+- Installed surround in vscode but it didn't do what I expected.
+  - vim mode gets in the way with native surround support -- but it might also provide a solution: https://github.com/VSCodeVim/Vim#vim-surround
+  - ysiw] surrounds a word with [], then I need to do . to surround it with another one.
+  - For visual selections it's S], but no obvious way to surround with two :(
+- Discussed [[agora plan]] with [[arghzero]].
+  - Might want to move FR/improvements tracking to the github tracker.
+- [[offline twitter]]
+  - Game: [[i ching]] lite with an appropriate book.
+  - e.g. random.randint(1, 1169) and A Pattern Language.
+
+
+
+
+========================================
+FILE: 2020-11-24.md
+========================================
+
+# 2020-11-24
+
+- [[offline twitter]]
+  - "In Germany, dick pics are often just pictures of body-positive people."
+  - I wonder if this is offensive.
+- [[bendini-fettuccini]]
+- when in doubt, think of the [[algorithm]].
+
+
+
+
+========================================
+FILE: 2020-11-25.md
+========================================
+
+# 2020-11-25
+
+- Discussed [[agora protocol]], [[agora push]] with [[arghzero]].
+  - Mentioned [[zapier]], hadn't heard of that I believe.
+- Remembered I have next Monday off ([[2020-11-30]]) and felt happy.
+- Set up [[autofs]] so SD cards get automounted in Debian. Usually this is done by the desktop environment but in [[i3]] it needs manual setup (I don't mind).
+- Read on [[equanimity]].
+- Read on [[push down automata]]s.
+- 
+
+
+
+
+========================================
+FILE: 2020-11-26.md
+========================================
+
+# 2020-11-26
+
+- New day, new challenges :)
+- Next Monday being off ended up being fake news.
+- Noded [[juan-carlos-onetti]], [[la-vida-breve]].
+- Added to [[Ricardo Piglia]].
+- Me gustaría leer [[Los Oficios Terrestres]] de [[Rodolfo Walsh]].
+- Thought about [[Flanbook]].
+
+
+
+
+========================================
+FILE: 2020-11-27.md
+========================================
+
+# 2020-11-27
+
+- [x] review [[2020-11-26]]
+- [x] met with [[james baker]].
+  - I had a great time!
+  - I hope we'll keep in touch.
+  - [ ] add list of people and projects that could be compatible with his to the Agora.
+- [ ] comprarle un abanico a mamá [[todo]]
+
+
+
+
+
+========================================
+FILE: 2020-11-28.md
+========================================
+
+# 2020-11-28
+
+ <img src="http://rezepte.lemenu.ch/images/promo_images/spree/tx_netvlmerdb_recipes/000/009/064/promo/LM201912_50_A.jpg?1574079776&imgrefurl=https://rezepte.lemenu.ch/recipes/LM201912_50_A/flambierte-espresso-caramel-flans?locale%3Dfr&tbnid=uyQdvGbOEtHThM&vet=1&docid=XY9Dqr-teTXZvM&w=740&h=440&hl=en-US&source=sh/x/im" width=50%>
+
+- Picture of the day: a nice looking [[flan]], courtesy of [[james baker]]. 
+- [x] Met with [[armengolaltayo]].
+- [x] Met with [[olofl]].
+- Received first PR to [[agora server]] ever! By [[arghzero]]: https://github.com/flancian/agora-server/pull/1/files
+- [[twitter]] https://twitter.com/flancian/status/1332719030600429571
+- [ ] add ideas/contacts/threads to node with [[james baker]].
+- [ ] read about [[game b]]
+- Pursue [[agora plan]].
+- Pursue [[roam2agora]] for [[athens research]].
+  - Spoke to [[jeff tang]] about it.
+- Thought about [[Getting Things Done]].
+- Met [[boris mann]] on [[mastodon]].
+- [[neil]] introduced me to [[bill seitz]].
+- Updated: [[flancian]], [[flancians]], [[contract]].
+- [[revolution]].
+- Learnt the term [[front matter]] from [[armengolaltayo]].
+- [[G. I.]] -> [[G.]]
+- [[threadapalooza]] on [[2020-12-15]]: https://twitter.com/AGWilsonn/status/1332753604575457282
+- [[next action]] fix [[kgbicheno]]'s garden
+
+
+
+
+========================================
+FILE: 2020-11-29.md
+========================================
+
+# 2020-11-29
+
+- [x] Reviewed [[daily]]
+- [x] Reviewed [[do]], added some more [[action]]s.
+- [x] Reorganized/cleaned up my [[todo]].
+- [x] [[write]] to [[O]].
+- [x] [[do]] laundry
+- [x] [[do]] take out garbage
+- [x] [[do]] take a walk
+- [x] [[send]] update to [[james baker]]
+- [x] [[do]] accept [[arghzero]]'s [[PR]]
+  - [x] check CLA in internal system
+  - [x] merge: https://github.com/flancian/agora-server/pull/1/files
+- [x] [[read]] the meeting agenda doc for [[social knowledge graphs discussion]].
+  - [x] Node everyone that currently doesn't have a node
+    - [[samuel klein]]
+    - [[joel gustafson]]
+    - [[denny vrandecic]]
+    - [[ruben verborgh]]
+    - [[todd carpenter]]
+    - [[nettie lagace]]
+    - [[rob sanderson]]
+    - [[jennifer rygh]]
+    - [[fabien gandon]]
+    - [[andrei ciortea]]
+- (here I procrastinated, albeit in a hopefully in a constructive way, due to [[FUD]])
+- [x] [[write]] in the meeting agenda doc for [[social knowledge graphs discussion]].
+- [ ] [[do]] pay internet/phone bills
+- [ ] [[answer]] [[armengolaltayol]]
+- [ ] re-review [[logseq]]
+- work on [[agora plan]]
+- noded [[federated wiki]]
+- noded [[sister sites]]
+- found [[pubpub]] through [[sarah of the past]]
+- [[ben chase]] told me about [[weekend wednesday]]: https://twitter.com/bbchase/status/1333115033757343750
+- [[write]] explicitly about [[roam like]]s as [[distributed knowledge graph]] builders.
+- [[airto moreira]] was sampled in that 90s song, [[samba de janeiro]].
+
+
+
+
+========================================
+FILE: 2020-11-30.md
+========================================
+
+# 2020-11-30
+
+- [[daily]]
+- review [[2020-11-29]]
+- Day off at work!
+  - ...not true in the end because of Reasons.
+  - at least a no meetings day though.
+- [[james baker]] told me about [[letter.wiki]]
+- [x] [[write]] user cases in the meeting agenda doc for [[social knowledge graphs discussion]].
+- [x] [[answer]] [[O.]]
+- [x] [[answer]] [[samuel-klein]]
+- [ ] [[review]] [[social-knowledge-graphs-discussion]]
+- [ ] [[review]] comments in [[agora protocol]]
+- [ ] [[do]] pay internet/phone bills
+- [ ] [[answer]] [[armengolaltayol]]
+- [ ] re-review [[logseq]]
+- [ ] [[read]] [[foam]] code to get an idea of what a vscode extension actually looks like :)
+  - https://github.com/foambubble/foam/blob/b22fd50394bd825c336cba8a7ea3efe1e11ae10b/packages/foam-vscode/src/features/open-dated-note.ts could be a place to start (mainly because I'm interested in adding more such simple commands).
+- work on [[agora plan]]
+- read [[the next AI winter wil lbe due to energy costs]]
+- liked [[how to gpt-2]] by [[mmmalign]].
+- looked into [[printer]]s
+- noded [[bill evans]].
+- [[doikayt]] told me about [[the year of living biblically]].
+
+
+
+
+
+========================================
+FILE: 2020-12-01.md
+========================================
+
+# 2020-12-01
+
+- [[samuel klein]] pointed out [[instant commons]] by [[wikimedia]].
+- [[social-knowledge-graphs-discussion]]
+- [[ding levery]] told me about [[innovator's dilemma]]: https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma.
+
+  
+
+
+
+
+========================================
+FILE: 2020-12-02.md
+========================================
+
+# 2020-12-02
+
+- [[karthikk vijay]] introduced me to [[albert-laszlo barabasi]].
+  - [[prathyvsh]] pointed out [[network science]] is available online: http://networksciencebook.com/
+  - [[bruno winck]] pointed out that he's also written some less reputable books, like [[the universal laws of success]] (!).
+- [x] Set up meeting with [[samuel-klein]]
+- [ ] Review [[agora plan]]
+  - [x] onboard [[dr-kvj]]
+- [x] join [[the productivists]]
+- Twitter thread on [[heat]] and [[computation]]: https://twitter.com/flancian/status/1334013492035252230
+
+
+
+
+========================================
+FILE: 2020-12-03.md
+========================================
+
+# 2020-12-03
+
+- Appointment with the allergist.
+  - I am now officially at the edge of allergy science.
+- [x] Pay g suite (card expired).
+- Learnt about [[Red Star]].
+- Liking [[fka twigs]].
+- Wrote about [[tuberculosis]] on [[twitter]]: https://twitter.com/flancian/status/1334564986295824391.
+- Not a bad day at work, all things considered.
+
+
+
+
+========================================
+FILE: 2020-12-04.md
+========================================
+
+# 2020-12-04
+
+- Sad when I went to bed.
+- Not anymore!
+- [[tweet]] about [[cringe]]: https://twitter.com/flancian/status/1334825462200197121
+- [[tweet]] about [[middle way]]: https://twitter.com/flancian/status/1334839349217808384
+  - [[paleoludic]] told me about [[L'allegro, il penseroso ed il moderato]] by [[george handel]]: https://twitter.com/paleoludic/status/1334848378077900801
+- Great conversation with [[luciana]]. [[shortlist]] (who to read more of/about).
+- [[mondegreen]]
+  - [[raymond williams]]
+  - [[rainbow williams]]
+- Thought about [[virtue]] and [[cringe]].
+- Worked on [[agora plan]] :)
+
+
+
+
+========================================
+FILE: 2020-12-05.md
+========================================
+
+# 2020-12-05
+
+- Need to figure out a good workflow for [[quick capture]] with [[gitjournal]].
+  - [[weekend]] served as quick capture this morning, but the lack of wikilinks in [[gitjournal]] makes it hard to both create a new note for a purpose and link it.
+  - Perhaps I should have an [[inbox]] node, or a [[quick capture]] node, and mostly edit that in mobile.
+- Band name: [[I'll kill your shining lights]].
+- [[telegram]] [[armengolaltayo]].
+- [[meet]] [[samuel-klein]]
+  - [[wikilinks everywhere]]
+  - [[more]]
+- noded [[rainbow folding]]
+- [ ] Comprar silla
+- [[agora plan]]
+  - [ ] Agora help: how to create a note in Foam, shortcuts.
+  - [ ] Agora howto: update clients and procedure for making foam work with a github repo 
+- [[come]]
+- [[surplus value]]
+- [[feedback]]
+- [[ethics]]
+- [[moral principles]]
+- [[liquid democracy]]
+
+
+
+
+========================================
+FILE: 2020-12-06.md
+========================================
+
+# 2020-12-06
+
+- [[2020-12-05]] was great.
+- [[samuel klein]] introduced me to [[don hopkins]].
+- Asked [[twitter]] about [[privilege]]:
+  - [[fluorescing flower]] told me about [[whipping privilege]]: https://twitter.com/ForecastFire/status/1335326168602398720.
+  - [[ben chase]] recommended [[so you want to talk about race]].
+- [[buy]] books as per the above.
+- [[a new kind of science]]
+- [[flanbook]]
+- [[donate 25]]
+- Learnt about [[satyagraha]] and [[saul williams]] from [[space flower]].
+- Still unsure whether I should buy/read [[a new kind of science]]
+- Listened to [[deconstructing yourself]].
+  - [[jud brewer]]
+  - [[dan brown]]
+  - [[evan thompson]]
+- Practiced with [[shinzen young]].
+- TIL about [[eddie higgins]], pianist.
+- Me acordé de [[ritmo de la noche]].
+
+
+
+
+========================================
+FILE: 2020-12-07.md
+========================================
+
+# 2020-12-07
+
+- [[person from porlock]]
+  - To [[porlock]]: https://twitter.com/flancian/status/1335918395632521217
+- Long day at work.
+  - tweeted about this.
+- read [[interstitial journaling]]: https://medium.com/better-humans/replace-your-to-do-list-with-interstitial-journaling-to-increase-productivity-4e43109d15ef
+
+
+
+
+========================================
+FILE: 2020-12-08.md
+========================================
+
+# 2020-12-08
+
+- [[2020-12-07]] 
+- Interesting conversation with [[ablueaeshna]] about [[communes]] and [[communities]]: https://twitter.com/ablueaeshna/status/1336082144305819650
+- Read about [[a mind forever voyaging]], an old [[infocom]] game from the 1980s.
+
+
+
+
+========================================
+FILE: 2020-12-09.md
+========================================
+
+# 2020-12-09
+
+- [[printer]]
+
+
+
+
+========================================
+FILE: 2020-12-10.md
+========================================
+
+# 2020-12-10
+
+- Vimos dos videos de [[ricardo-piglia]] dando conferencias. Fue interesante ver cómo recicla referencias y temas, cómo improvisa dentro de cierta estructura narrativa que también se refleja en sus libros.
+- [[cameras and lenses]]
+- TIL about [[adversarial interoperability]]
+
+
+
+
+
+
+========================================
+FILE: 2020-12-11.md
+========================================
+
+# 2020-12-11
+
+- The day started well: https://twitter.com/flancian/status/1337345908351098880/photo/1
+- [[review]] [[communities]]: https://twitter.com/p_millerd/status/1337253683994693632
+  - [[rebel wisdom]]
+  - [[yak]]
+  - [[interintellect]]
+  - [[stoa]]
+  - [[future thinkers]]
+  - [[ness labs]]
+- Reach out to:
+  - [x] [[t. t.]]
+  - [x] [[p. p.]]
+- [[meet]] [[dan whaley]]
+  - It was great!
+- [[review]] [[daily]]
+- [[review]] [[agora plan]]
+- [[amadeo]].
+- [[jonathan-the-utopian]].
+- [[peace piece]]
+- Received a [[gift]]: [[encyclopedia of world problems and human potential]] by [[samuel klein]].
+- [[Socrates]].
+- [[Avalokiteshvara]]
+- [[Hunger]].
+- The [[wiki]] is a great [[invention]].
+- [[The people, united, will never be defeated]].
+- [[world improvement]].
+- A [[housing underlay]].
+- [[revolution]].
+
+
+
+
+========================================
+FILE: 2020-12-12.md
+========================================
+
+# 2020-12-12
+
+- [[2020-12-11]] was a great day.
+- TIL about [[bassel khartabil]] thanks to [[samuel klein]].
+  - Made me think of [[aaron swartz]].
+- [[jonathan the utopian]]
+- [[hypothesis]]
+- [[dialectical method]]
+- [[zeitgeist movement]]
+- [[p. c.]]
+- [[miro]]
+- [[agora plan]]
+  - [[agora hypothesis integration]]
+- [[avalokiteshvara]]
+- [[latent compass]]
+- [[days of being wild]]
+- Wrote about [[wikilinks everywhere]].
+- [[crowdsourced]] [[wikilinks]]
+- [[pull]] [[links]]
+  - Unclear if this should be one action or two, [[pull]] and [[publish]] or [[broadcast]].
+- [[301works]]
+
+
+
+
+========================================
+FILE: 2020-12-13.md
+========================================
+
+# 2020-12-13
+
+- Talked about [[utopias]] with my family.
+- Talked about [[hypothes.is]] with [[h. m.]], [[anr]], [[g.]].
+
+
+
+
+========================================
+FILE: 2020-12-14.md
+========================================
+
+# 2020-12-14
+
+- Set up a separate node for [[feature requests]].
+- [[agora plan]]
+- [[pull]] [[push]] [[aka]]
+- [ ] I should add a new action and [[document]] it: https://twitter.com/flancian/status/1338270566420262916
+
+
+
+
+========================================
+FILE: 2020-12-15.md
+========================================
+
+# 2020 12 15
+
+- Today is [[threadapalooza]].
+
+# 2020-12-15
+
+- Tuesday that feels like Thursday (could be good or bad).
+- Perhaps read [[facebook is a doomsday machine]] after work.
+
+
+========================================
+FILE: 2020-12-16.md
+========================================
+
+# 2020-12-16
+
+- Rough times at the day job.
+  - But after work, Flancia.
+- [[s5bug]] introduced me to [[david gelernter]] and [[eric freeman]]: https://twitter.com/s5bug/status/1339322256531451904
+
+
+
+========================================
+FILE: 2020-12-17.md
+========================================
+
+# 2020-12-17
+
+- [[goal]] would like to [[learn]] [[reactjs]] over the holidays? Or discard it and learn something equivalent but better.
+- Played with [[blob opera]].
+
+
+========================================
+FILE: 2020-12-18.md
+========================================
+
+# 2020-12-18
+
+- noded [[movies]]
+  - Yesterday we started watching [[cleo from 5 to 7]] by [[agnes varda]]. It's great so far.
+  - [[tenet]], on the other hand, has been [[disappointing]].
+  - [[watch]] [[small axe]] by [[steve mcqueen]].
+- noded
+  - [[i ching]]
+  - [[sci fi]]
+  - [[philip-k-dick]]
+  - [[cimbalom street musicians]]
+  - [[brandenburg concertos]]
+  - [[digital gardeners]]
+  - [[role models]]
+- [[a pattern language]]
+  - [[necklace-of-community-projects]]
+  - [[carnival]]
+- Talked to [[jonathan-the-utopian]]
+- Talked to [[ethan-plante]]
+  - Introduced me to [[polkadot]]
+- Talked to [[eric-linus-kaplan]]
+  - [[wendy doniger]]
+  - [[web dubois]]
+- [[used]] [[autofs]]
+- [[do]]
+  - Install Foam in [[nox]]
+  - [[agora plan]]
+  - [[threadapalooza]]?
+  - [[research]] [[hypothes.is]]
+  - [[tweet]]
+    - Internet comments are the past. A multiplicity of takes on the same object matter are in.
+  - [[research]] [[diaspora]]
+
+
+
+
+========================================
+FILE: 2020-12-19.md
+========================================
+
+# 2020-12-19
+
+- [[role models]]
+  - [[prinssi taivaanlintu]]: [[nietzsche]] [[malcolm-x]] [[rilke]]
+  - [[the equitable prose]]: [[nick vujicic]]
+  - [[exotericist]]: [[d'annunzio]]
+- [[care home that looks like a town]]
+- [[read]]
+  - Assembled a list of books I'd like to read in the coming weeks.
+  - [[good titles]]
+- [[agora]]
+  - [[if I had the means, I-d build an Agora]]
+  - [[talked]] to [[exgenesis]]
+- [[familia]]
+    - [[julio cortázar]]
+      - [[omnibus]]
+      - [[cefalea]]
+      - [[62 modelo para armar]]
+    - [[ricardo piglia]]
+    - [[jorge luis borges]]
+      - [[ficciones]]
+  - "[[el problema son las piedras en el camino]]"
+    - La gente prefiere no colaborar porque tiene una aspiración al poder.
+    - [[low cost airlines]]
+    - [[antonio laje]]
+  - [[alejandro dolina]]
+  - [[e.]]
+  - [[poema de la infancia de alguien]]
+  - [[el casal catalá]]
+  - [[los juegos]]
+  - [[meditation]]
+- [[right livelihood]]
+- [[nts]] [[sounds of the dawn]] [[2019-12-06]]
+- [[sensei]]-[[seito]] [[is like]] [[parent]]-[[child]] == [[True]]
+- [[sensei]]-[[seito]] [[is like]] [[parent]]-[[sibling]] == [[False]]
+- [[series]]
+
+
+
+
+
+========================================
+FILE: 2020-12-20.md
+========================================
+
+# 2020-12-20
+
+- [[queen's gambit]] has been just OK; disappointing.
+- [[do]]
+  - [[agora plan]]
+    - Pushed [[hypothes.is]] to prod, worked around CSS issue by changing toolbar
+    - Work on [[twitter]] integration.
+- Noded:
+  - [[nick szabo]]
+  - [[slate star codex]]
+- [[amir]] told me about [[conflict vs mistake]]
+- [[l.]] baked an amazing [[pie]].
+- We took a nice long walk through the neighborhood. It was cold but sunny, and it was nice being out.
+  - Discussed [[architecture]] with [[e.]].
+
+
+
+
+========================================
+FILE: 2020-12-21.md
+========================================
+
+# 2020-12-21
+
+- [[day job]] but hopefully not too long?
+  - No meetings!
+- Review [[2020-12-20]]
+- [[do]] [[daily]]
+- [[agora plan]]
+  - [x] Fix the fact that backlinks don't work in non-existent nodes (even when there are backlinks, that is).
+  - Keep working on [[pull]] and [[push]].
+    - Write functions that return [[pull]] and [[push]] entities in each subnode
+- catch up with [[comms]].
+- [[liked]] [[nts]] [[slow focus]] [[getting warmer 2 sep 2020]]
+- [[noded]]:
+  - [[project]]
+  - [[yoga]]
+  - [[our Flancia]]
+  - [[slow focus]]
+- [[yoga spinal health]]
+
+
+
+
+========================================
+FILE: 2020-12-22.md
+========================================
+
+# 2020-12-22
+
+- [[olofl]] dream about wikilinks
+  - how to find all the things that are important for a specific link
+- remembered a [[movie]]: [[hackers]]
+- noded:
+  - [[EFF]]
+  - [[phrack]]
+  - [[agora search]]
+  - [[distributed]]
+  - [[deconstructing sensory experience]]
+  - [[meme traditions]]
+  - [[force graph]]
+
+
+
+
+========================================
+FILE: 2020-12-23.md
+========================================
+
+# 2020-12-23
+
+- Read [[guerilla open access manifesto]].
+- [[algernon argument]]
+- [[met]] [[dan whaley]] 
+- [[entity]]
+- [[simulated annealing]]
+- Talked [[adhd]] with [[abstractfairy]] and [[ding levery]].
+  - See also: [[cybernetic toaster]]
+- [ ] get back to [[pupilsofroam]]
+
+
+========================================
+FILE: 2020-12-24.md
+========================================
+
+# 2020-12-24
+
+- [[talked]] to [[thor ciphers]]
+- [[chen]] recommended [[13 sentinels: aegis rim]]
+- Unjammed our [[printer]]
+- [[agora client]]
+- [[codexeditor]] recommended [[gtoolkit]]
+  - previously mentioned by [[ethan-plante]] IIRC
+  - [ ] [[try]] it
+- [ ] [[agora-plan]] code [[jump]]
+- [[victor hugo]] introduced me to [[james gleick]]
+- [[kyosaku-jon]] gave me a [[challah]] [[recipe]]
+- [[memories of green]]
+- [[hackers]]
+- [[groundhog day as a sci fi movie]]
+
+
+
+
+========================================
+FILE: 2020-12-25.md
+========================================
+
+# 2020-12-25
+
+- Had a very nice christmas eve yesterday!
+- Today we woke up late.
+- Had [[glühwein]] with [[P and H]].
+- [[read]] [[what shape are you?]]
+
+
+
+
+
+========================================
+FILE: 2020-12-26.md
+========================================
+
+# 2020-12-26
+
+- [[john-cowper-powys]]
+- Tried [[logseq]] again: https://twitter.com/flancian/status/1342788261232734209
+  - Unfortunately it seems costly to add [[Agora]] support for logseq gardens :(
+- Asked [[twitter]] about a [[digital garden configuration]] [[standard]].
+- [[paleoludic]] told me about [[the cloud of unknowing]].
+- [[nbhdlady]] told me about [[capsule wardrobe]].
+- Ran into the [[open graph protocol]].
+- [[rdf]] 
+  - [[turtle]]
+  - [[rdf-serialization-formats]]
+- [[mid career greatest hits]]
+- [[wolfram]]
+- [[the agora is a social network built by the people for the people]]
+- [[pernambuco e seu conjunto]]
+- [[search and annotation are complementary]]
+- Played [[divinity-2-original-sin]]
+- [[robofriend]]
+
+
+
+
+========================================
+FILE: 2020-12-27.md
+========================================
+
+---
+modified: 2020-12-27T11:32:00+01:00
+---
+
+# 2020-12-27
+
+- Review: [[2020-12-26]], [[tomorrow]]
+- [[tea]] [[connor st george]] recommended mandalatea.com
+- [[ablueaeshna]] likes [[tea]]
+- [x] get usb extender
+- [ ] code [[pull]]
+- [ ] code [[jump]]
+- [ ] read about [[solid]]
+- [ ] read about [[rdf]] (more)
+- [ ] read about [[activitypub]]
+- [ ] try to move to "proper" graph data structure
+- [[third coast percussion]]
+- Met [[harvey michael]]
+- [[defcon]]
+- [[the girl who stole my tamagotchi]]
+- Thought about [[global governance]].
+- [[huerta común]]
+- [[doug engelbart]]
+- [[flancia subtitles]]
+- First mentioned publicly:
+  - [[flansearch]]
+  - [[flanbolo]]
+  - [[you]]
+- [[creative commons]]
+- [[malovilch]]
+- [[catalog of missing devices]]
+- [[sequential wiki]]
+- [[experimental]]
+- Released [[agora server]] [[0.5.6]]
+- [[flancia naming]]: https://twitter.com/hftf/status/1343289788854652929
+  - Great stuff by [[hftf]]
+
+
+
+
+========================================
+FILE: 2020-12-28.md
+========================================
+
+# 2020-12-28
+
+- [[imagesnippets]]
+- [x] go link the last yoga session we did.
+  - [[yoga-15]]
+  - [[yoga-17]]
+- [x] fix node not found template, node header should come before error message.
+- [[piero-della-francesca]]
+- [[houshuang]]
+- [[solid]]
+- [[agora plan]]
+- [[veritasium]]
+- [ ] get back to [[hftf]]: https://twitter.com/hftf/status/1343289788854652929
+- [[roam like]]
+- [[agora like]]
+- [[abstractfairy]] introduced me to [[eric hoffer]], sending https://twitter.com/robkhenderson/status/1341755821978497027
+- [[suzuki]]
+- Heard about [[immers.space]]
+- [[harvey michael]] told me about [[the sovereign individual]]
+
+
+
+
+========================================
+FILE: 2020-12-29.md
+========================================
+
+# 2020-12-29
+
+- Actually yesterday: talked [[digital gardens]] with [[tombielecki]]: https://twitter.com/tombielecki/status/1343620239276318724
+- Thought about the concept of [[post-racial]].
+- [[s5bug]]
+  - [[caramelldansen]] 
+  - [[ocarina of time]]
+- [[cheese]] [[tomme vaudoise]]
+- [[cli]]
+- talked to [[s. y.]]
+- [[solarpunk]]
+- [[roko]]
+  - [[sota]]
+- [[moloch]]
+  - [[sometimes i feel as if I am struck by lightning]]
+- [[Flancia]] es: [[trabajadores y nerds del mundo, uníos]]
+  - [[tweet]] https://twitter.com/flancian/status/1343979229097168896
+- [[nerds of the world, unite]] https://twitter.com/flancian/status/1343979649769103361
+- [[agora editor]]
+- [[potential]]
+- [[transclusion]]
+- [[agora client]]
+- [[agora]]
+- [[michaeldgrahams]] is interested in the Agora.
+- I need to implement:
+  - [[jump]]
+  - [[push]]
+  - [[plan]]
+  - [[journal]]
+  - [[twitter bot]]
+- [[comonad]]
+- [[agora]]
+- I posted the [[agora]] to [[hn]]: https://twitter.com/flancian/status/1344003756908818444
+- [[meshachthomas]] 
+- [[aborto legal]] [[senate]] [[debate]] in [[argentina]]
+- [[anisina]] reached out
+- [[olofl]] recommended [[on tyranny]] by [[tymothy snyder]]
+
+
+
+
+
+========================================
+FILE: 2020-12-30.md
+========================================
+
+# 2020-12-30
+
+- [[web annotations]]
+- [[wiki]]
+- [[agora]]
+- [[other agoras]]
+- [[goals]]
+- [[type0]] mentioned [[ecogwiki]] in [[hn]]
+- [[altilunium]] mentioned [[note]] in [[hn]].
+- [[timetotryagain]] told me about [[the great reset]].
+- [[jesse li]]
+- [[pasta frola]]
+- [[thessaloniki]], [[meteora]], [[athens]], [[crete]].
+- [[πόλις]], [[αγρός]], [[rus]], [[urbs]] 
+- [[make-up-links-that-dont-exist-yet]]
+- [[pkm]]
+- [[clojure]]
+- [[2020-12-29]]
+
+
+
+
+========================================
+FILE: 2020-12-31.md
+========================================
+
+# 2020-12-31
+
+- [[luxury space communism]]
+- [[grimes]]
+- [[agora plan]] Fixed a bug with gardens pulling.
+- [[groundhog day]]
+- [[dinner]] today:
+  - [[malfatti]] (first time making)
+  - [[tiramisu]]
+- [[plan]]
+- [[donate-give-directly]]
+- [[donate-effective-altruism]]
+- [[noding]]
+- [[thomas lisankie]]
+- [[radio]] [[altersapukai]]
+- [[2020-12-30]]
+- [[nano.page]]
+
+

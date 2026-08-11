@@ -1,0 +1,1762 @@
+
+
+========================================
+FILE: 1*.md
+========================================
+
+
+
+
+========================================
+FILE: 17 40.md
+========================================
+
+# 17:40
+
+
+
+
+========================================
+FILE: 202202.md
+========================================
+
+- Test for fuzzy month autopulling :)
+
+
+
+========================================
+FILE: 20220213.md
+========================================
+
+- Testing [[liberal dates]] :)
+
+
+
+========================================
+FILE: 420 wedding.md
+========================================
+
+- 20 april: wedding
+- 21 april: brunch at apartment, then long drive
+- 22, 23, 24 april: ashvile
+- 24 april: drive back from ashvile or flight to NYC late at night
+- stay until early 27th in NYC
+
+
+
+========================================
+FILE: Documentos del club.md
+========================================
+
+- #go https://docs.google.com/document/d/174hZkd7MZZGGYCedLeUHn8pEOjdYSLbOzCAL2kgJCFw/edit
+
+
+
+
+========================================
+FILE: In Flancia there are no hierarchies.md
+========================================
+
+
+
+
+========================================
+FILE: Jiří Kornatovský.md
+========================================
+
+- I found out about him from the Agora and Wikipedia (he was the Wikimedia result for [[Intuiti]] for some reason.)
+- His art seems interesting; it made me remember the notion of [[cobordism]] for some reason.
+
+
+========================================
+FILE: Kota Ikenaga.md
+========================================
+
+- @kota_mos in [[Instagram]] it seems
+- Met them shortly at [[Lilo Coffee]] in [[Osaka]].
+
+
+
+========================================
+FILE: Library/Core/Query/Page.md
+========================================
+
+---
+tags: template
+description: A page reference link as a list item
+---
+* [[{{name}}]]
+
+
+========================================
+FILE: Library/Core/Quick Notes.md
+========================================
+
+This is your {[Quick Note]} inbox.
+
+```query
+page where name =~ /^Inbox\// render [[Library/Core/Query/Page]]
+```
+
+
+
+========================================
+FILE: Library/Core/Snippet/each-directive.md
+========================================
+
+---
+description: (Template) Insert an `#each` directive
+tags: template
+hooks.snippet:
+  slashCommand: "#each"
+  order: 10
+---
+{{escapeDirective("#each |^|")}}
+
+{{escapeDirective("/each")}}
+
+
+========================================
+FILE: Library/Core/Snippet/frontmatter.md
+========================================
+
+---
+tags: template
+description: Insert Frontmatter
+hooks.snippet:
+  slashCommand: frontmatter
+  insertAt: page-start
+  command: "Insert Frontmatter"
+---
+---
+|^|
+---
+
+
+
+========================================
+FILE: Library/Core/Snippet/h1.md
+========================================
+
+---
+tags: template
+description: Make this a level 1 heading
+hooks.snippet:
+  slashCommand: h1
+  matchRegex: "^#*\\s*"
+---
+# 
+
+
+========================================
+FILE: Library/Core/Snippet/h2.md
+========================================
+
+---
+tags: template
+description: Make this a level 2 heading
+hooks.snippet:
+  slashCommand: h2
+  matchRegex: "^#*\\s*"
+---
+## 
+
+
+========================================
+FILE: Library/Core/Snippet/h3.md
+========================================
+
+---
+tags: template
+description: Make this a level 3 heading
+hooks.snippet:
+  slashCommand: h3
+  matchRegex: "^#*\\s*"
+---
+### 
+
+
+========================================
+FILE: Library/Core/Snippet/h4.md
+========================================
+
+---
+tags: template
+description: Make this a level 4 heading
+hooks.snippet:
+  slashCommand: h4
+  matchRegex: "^#*\\s*"
+---
+#### 
+
+
+========================================
+FILE: Library/Core/Snippet/hr.md
+========================================
+
+---
+tags: template
+description: Insert a horizontal rule
+hooks.snippet.slashCommand: hr
+---
+---
+
+
+
+========================================
+FILE: Library/Core/Snippet/if-directive.md
+========================================
+
+---
+description: (Template) Insert an `#if` directive
+tags: template
+hooks.snippet:
+  slashCommand: "#if"
+  order: 10
+---
+{{escapeDirective("#if |^|")}}
+
+{{escapeDirective("/if")}}
+
+
+========================================
+FILE: Library/Core/Snippet/if-else-directive.md
+========================================
+
+---
+description: (Template) Insert `#if` directive with 'else'
+tags: template
+hooks.snippet:
+  slashCommand: "#if-else"
+  order: 10
+---
+{{escapeDirective("#if |^|")}}
+
+{{escapeDirective("else")}}
+
+{{escapeDirective("/if")}}
+
+
+========================================
+FILE: Library/Core/Snippet/let-directive.md
+========================================
+
+---
+description: (Template) Insert a `#let` directive
+tags: template
+hooks.snippet:
+  slashCommand: "#let"
+  order: 10
+---
+{{escapeDirective("#let @|^| = ")}}
+
+{{escapeDirective("/let")}}
+
+
+========================================
+FILE: Library/Core/Snippet/note-admonition.md
+========================================
+
+---
+tags: template
+description: Insert a "note" admonition
+hooks.snippet.slashCommand: note-admonition
+---
+> **note** Note
+> |^|
+
+
+
+========================================
+FILE: Library/Core/Snippet/warning-admonition.md
+========================================
+
+---
+description: Insert a "warning" admonition
+tags: template
+hooks.snippet.slashCommand: warning-admonition
+---
+> **warning** Warning
+> |^|
+
+
+
+========================================
+FILE: Library/Core/Widget/Federated Template Copy.md
+========================================
+
+---
+description: >
+  Adds a convenient "Copy to my space" button to any
+  template found via federation
+tags: template
+hooks.bottom.where: 'name =~ /^!/ and tags="template"'
+---
+# Template actions
+* {[Page: Copy|Copy to my space]}: use this template in your space by making a local copy of it (and tweaking it as you like)
+
+
+========================================
+FILE: Library/Core/Widget/Linked Mentions.md
+========================================
+
+---
+description: Adds Linked Mentions to pages
+tags: template
+hooks.bottom.where: 'true'
+---
+{{#let @linkedMentions = {link where toPage = @page.name and page != @page.name order by page}}}
+{{#if @linkedMentions}}
+# Linked Mentions
+{{#each @linkedMentions}}
+* [[{{ref}}]]: `{{snippet}}`
+{{/each}}
+{{/if}}
+{{/let}}
+
+
+
+========================================
+FILE: Library/Core/Widget/Table of Contents.md
+========================================
+
+---
+description: Adds a Table of Contents to pages
+tags: template
+hooks.top:
+  where: 'true'
+  # Show all the way at the top
+  order: 0
+---
+```toc
+minHeaders: 3
+```
+
+
+
+========================================
+FILE: Omega Attraktor.md
+========================================
+
+- #go https://omegaattraktor.bandcamp.com/
+
+
+
+========================================
+FILE: Peter.md
+========================================
+
+- told me about:
+- timelinize.com
+- dataowners.com
+
+
+========================================
+FILE: RTK.md
+========================================
+
+- Very cool:
+    * #pull [[Real Time Kinematic Positioning]] 
+    * #go https://map.centipede-rtk.org/index.php/view/map
+
+
+
+========================================
+FILE: Specious present.md
+========================================
+
+- #go https://www.youtube.com/watch?v=K4vyRvMASPU
+
+
+
+========================================
+FILE: Untitled 4.md
+========================================
+
+
+
+
+========================================
+FILE: Untitled 5.md
+========================================
+
+
+
+
+========================================
+FILE: Untitled 6.md
+========================================
+
+
+
+
+========================================
+FILE: about children.md
+========================================
+
+- Some thoughts on [[children]] which should probably be unsurprising to most people who know me.
+  - I like [[children]] in general, but not my potential children in particular I guess. This is why I say I don't want to have kids.
+  - If I had [[kids]] I'm pretty sure I'd like them, of course. It's just that I like so many people and things already that I don't see a need to get myself into this state.
+  - In general I think children probably get most interesting around age 10 or 11, when they can do things like read novels and essays, become interested in things like philosophy and science, can have conversations about evolution, etc. Before that I don't have a lot of conversation topics in common with them usually, although I appreciate and value their imagination and their potential.
+
+
+
+========================================
+FILE: adzenys.md
+========================================
+
+- an alternative to [[adderall]], it seems.
+
+
+========================================
+FILE: agor.md
+========================================
+
+- `sudo certbot --nginx -d agor.ai,flancia.agor.ai,fotl.agor.ai,shamanic.agor.ai,social.agor.ai,1.agor.ai,ai.agor.ai,an.agor.ai`
+
+
+
+========================================
+FILE: agora fw.md
+========================================
+
+# Agora FW
+- Stoa
+
+
+
+========================================
+FILE: agora seach.md
+========================================
+
+# Agora Seach
+
+- 
+
+
+
+
+========================================
+FILE: all about circuits.md
+========================================
+
+# All About Circuits
+- https://www.allaboutcircuits.com/textbook/
+- Supposedly a good resource to learn electronics from the way up.
+- [ ] Read two chapters.
+
+
+
+========================================
+FILE: alphaevolve.md
+========================================
+
+- #go https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf
+- [[Alexey]] told me about it while traveling to [[Antalya]] on [[2025-10-20]].
+
+
+========================================
+FILE: altruist.md
+========================================
+
+# Altruist
+
+- 
+
+
+
+
+========================================
+FILE: amnesia haze.md
+========================================
+
+- a [[state]] :)
+
+
+========================================
+FILE: argentinian independence day.md
+========================================
+
+De repente me acuerdo de muchas cosas que quería decirte, de cosas que quería contarte.
+
+(Escribir en español tiende a recordarme cosas, probablemente porque he pasado tanto tiempo pensando y escribiendo en inglés en los últimos 10 años.)
+
+Quería contarte de la revolución argentina como fue en #1816, y como podría ser en #2024.
+
+
+========================================
+FILE: así murió mi papá.md
+========================================
+
+- #pull [[1995-07-08]]
+  - I remember it to be a Saturday.
+
+"Me muero."
+
+Y después, de repente, tras estar inconsciente: "Dejame boludo que estoy bien."
+
+Después una muerte fulminante.
+
+Mäs temprano tuvo visiones? Reportó ver a un vecino que había muerto, a mi abuelo muerto. Tuvo o simuló tener conversaciones.
+
+Predijo que yo ganaría un premio en España (?). Quizás porque le gustó una composición que escribí para el colegio. Mi mamá una vez me dijo que el premio era el Pulitzer, lo que no tendría mucho sentido me parece, pero después me dijo que eso lo 
+
+Dos médicos en su pasado: el Dr. Colon y el Dr. Diamante. La ayuda tardó en venir.
+
+En un momento le hicieron una traqueotomía.
+
+
+
+========================================
+FILE: b a.md
+========================================
+
+# B. A. 
+
+- Horas por semana: 31 (7 cursos).. Antes llegó a trabajar 54.
+- Pagan: 40 por el bachillerato internacional.
+- Horas extra: 10 horas por semana en promedio; corregir, preparar.
+
+
+
+========================================
+FILE: based.md
+========================================
+
+# based
+
+
+
+
+========================================
+FILE: benefolent director for life.md
+========================================
+
+# benefolent director for life
+
+
+
+
+
+
+========================================
+FILE: bhi backups.md
+========================================
+
+root@patera /home/flancian # crontab -l | grep bhi
+10 2 * * 0 tar -czpf /home/backups/patera/bhi.$(date -uI).tgz /home/bouncepaw/bhi
+
+backups@patera:~$ crontab -l | grep -i hypatia
+1 15 * * * ~/bin/hypatia.sh
+
+backups@patera:~$ cat bin/hypatia.sh
+#!/bin/bash
+
+rsync -av ~/patera hypatia.anagora.org:
+
+
+========================================
+FILE: big movie list.md
+========================================
+
+- #go https://docs.google.com/spreadsheets/d/1CIAgIiDbmhsnRubNDeDgZV3KoOd3WT2kX614zwDeDis/edit?usp=sharing
+
+
+
+========================================
+FILE: blockchains.md
+========================================
+
+# Blockchains
+
+
+
+
+========================================
+FILE: blue lp.md
+========================================
+
+# Blue Lp
+
+
+
+
+
+========================================
+FILE: car analogies.md
+========================================
+
+Imagine you inherited a [[race car]], slightly battered and in need of upgrades but overall sound.
+
+Then a friend would come about and say: this is a good race car. I know a good driver. We should fix this race car, enter races together, and win them.
+
+Then another friend would come about and say: this is a good race car built of valuable parts. We should put it in the market whole, or strip it for parts and sell them.
+
+Then another friend would come about and say: this is a good race car built of valuable metal. We should melt it and sell it as such.
+
+The first friend is "good" capitalism. The second friend is hypocritical capitalism. The third friend is dumb capitalism.
+
+Which kind of capitalism runs our countries, our corporations, our societies?
+
+
+
+========================================
+FILE: casio.md
+========================================
+
+- I recently got an Casio [[ABL-100WEGG-1BEF]] and I like it a lot!
+  - It looks retro but it has automated time keeping via bluetooth, and a step counter function that works quite alright.
+  - I guess eventually (after two years? hello there, me from ~2027 if I make it there!) I will have to go through https://www.youtube.com/watch?v=x9IplyTquEc with a [[CR2016]] battery.
+
+
+========================================
+FILE: charitably.md
+========================================
+
+# charitably
+
+
+
+
+========================================
+FILE: charles stanhop.md
+========================================
+
+# Charles Stanhop
+
+
+
+
+========================================
+FILE: chesterton s fence.md
+========================================
+
+# Chesterton's Fence
+
+
+
+
+========================================
+FILE: contents.md
+========================================
+
+## 
+
+
+========================================
+FILE: cómo es el mar_.md
+========================================
+
+- cómo es el mar?
+	- terrible y hermoso
+	- [[sublime]]
+
+
+========================================
+FILE: deepseek.md
+========================================
+
+- a [[company]].
+  - http://deepseek.com/
+- an [[AI]].
+  - Developed by the aforementioned company :)
+  - #go https://chat.deepseek.com/
+
+
+========================================
+FILE: dennis gabor.md
+========================================
+
+- #go https://www.nobelprize.org/uploads/2018/06/gabor-lecture.pdf
+
+
+========================================
+FILE: diretories.md
+========================================
+
+# diretories
+
+
+
+
+========================================
+FILE: disentangle it.md
+========================================
+
+- #pull [[disentangle]] [[it]]
+
+
+
+========================================
+FILE: distributed knowledge grap.md
+========================================
+
+# Distributed Knowledge Grap
+
+
+
+
+========================================
+FILE: distributed press 2019.md
+========================================
+
+
+
+
+========================================
+FILE: don't worry eat curry.md
+========================================
+
+- a [[restaurant]].
+  - #go https://dontworry-eatcurry.ch/
+  - #map https://g.co/kgs/AVKpv5z
+
+
+
+========================================
+FILE: dread pirate roberts.md
+========================================
+
+# Dread Pirate Roberts
+- Ross Ulbricht.
+- Serving two life sentences plus forty years (!).
+
+
+
+
+========================================
+FILE: eduardo carlas sala.md
+========================================
+
+- una [[persona]].
+  - nació el [[1947-04-23]] (aprox.; quizás el 20) y desapareció el [[1976-01-13]]
+
+
+
+========================================
+FILE: ehegattin.md
+========================================
+
+  - [[spouse]]
+    - Aprendí esta palabra por nuestro [[divorcio]]
+      - Te quiero Lu!
+  - #go https://drive.google.com/drive/u/0/folders/1GCcFsPe7zkDT2ro_S569cOBzGp7-IQWB
+
+
+========================================
+FILE: eminems.md
+========================================
+
+- #go https://photos.google.com/u/1/share/AF1QipM5mGg00Mf_xqnHpVCLyS2MNqmSmcqWXoFx8PvqKK2ugGGUZ2FYNonX2HrOYkyrRA
+- [[nyc cool kids]]
+
+
+
+========================================
+FILE: eric weistein with brian keating.md
+========================================
+
+# eric weistein with brian keating
+
+
+
+
+========================================
+FILE: erik d kennedy.md
+========================================
+
+# Erik D. Kennedy
+
+
+
+
+========================================
+FILE: exchange formats.md
+========================================
+
+- #pull [[data exchange formats]]
+
+
+
+========================================
+FILE: february 14th, 2020.md
+========================================
+
+# February 14th, 2020
+- First day trying out Roam Research. Excited! Let's see how it goes.
+
+
+
+========================================
+FILE: fireplace.md
+========================================
+
+- [[videos]]:
+  - #go https://www.youtube.com/watch?v=mKCieTImjvU
+  - #other https://www.youtube.com/watch?v=uZo7-bqoELk
+
+
+========================================
+FILE: five o clock.md
+========================================
+
+# Five O'clock
+
+
+
+
+========================================
+FILE: flancia meets weird.md
+========================================
+
+- #go https://meet.jit.si/FlanciaMeetsWeird
+
+
+========================================
+FILE: flancian git.md
+========================================
+
+
+- [[go/flancian/repo]]
+  - #go https://gitlab.com/flancian/flancian
+
+
+
+========================================
+FILE: flancian pub.md
+========================================
+
+- ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICeWYpPI1uUj2L4VJKeaSSj3PKACm93Mic5NezpW1qE/ flancian@tara
+
+
+
+========================================
+FILE: flanneur.md
+========================================
+
+# Flanneur
+
+
+
+
+========================================
+FILE: foucault s turtlenecks.md
+========================================
+
+# Foucault's Turtlenecks
+
+
+
+
+========================================
+FILE: gauge fields nots and gravity.md
+========================================
+
+# gauge fields, nots and gravity
+
+
+
+
+
+
+========================================
+FILE: geminagora.md
+========================================
+
+- #go https://gemini.google.com/app/376339be8f314cec
+  - :)
+
+
+========================================
+FILE: git forget.conflicted.1721584183256.md
+========================================
+
+- You want [[git restore]] -- for when you want to remove a file from a working set/commit before you actually commit.
+
+
+========================================
+FILE: git forget.md
+========================================
+
+- You want [[git restore]].
+
+
+========================================
+FILE: goodbye.md
+========================================
+
+- a meditation
+
+--
+
+Goodbye, my friend
+I love you
+
+
+========================================
+FILE: historical agora.md
+========================================
+
+# Historical Agora
+
+
+
+
+========================================
+FILE: holepunch.md
+========================================
+
+- #go https://holepunch.to/
+  - #pull [[pears]]
+
+
+========================================
+FILE: horarios.md
+========================================
+
+# Horarios
+
+## 2021H1
+- martes
+  - 14-18
+- miércoles
+  - 10-12 y 16-18
+- jueves
+  - 12-14 y 16-18
+- viernes por medio
+  - 8.30 a 11.45
+
+
+
+========================================
+FILE: how to self publish a book.md
+========================================
+
+# How to Self Publish a Book
+
+
+
+
+========================================
+FILE: hypercorehh.md
+========================================
+
+
+
+
+
+========================================
+FILE: hypha#coop.md
+========================================
+
+# hypha#coop
+
+
+
+
+========================================
+FILE: i ll kill your shining lights.md
+========================================
+
+# I'll Kill Your Shining Lights
+
+- A haunting phrase uttered by a character in [[divinity 2: original sin]].
+
+
+
+
+========================================
+FILE: in an endearing.md
+========================================
+
+# In an [[endearing
+
+
+
+
+========================================
+FILE: in my flancia we cooperate our way to an international liquid democratic federation.md
+========================================
+
+# In my Flancia we cooperate our way to an international liquid democratic federation
+
+
+
+
+========================================
+FILE: inaya.md
+========================================
+
+- an #organization.
+
+
+========================================
+FILE: indra s net.md
+========================================
+
+# Indra's Net
+
+
+
+
+========================================
+FILE: international women day.md
+========================================
+
+- #pull [[international women's day]]
+
+
+========================================
+FILE: iron absorption.md
+========================================
+
+# Iron Absorption
+- https://academic.oup.com/ajcn/article/106/6/1413/4823172
+    - **Conclusions:** This study shows 
+that tea consumed simultaneously with an iron-containing porridge meal 
+leads to decreased nonheme iron absorption and that a 1-h time interval 
+between a meal and tea consumption attenuates the inhibitory effect, 
+resulting in increased nonheme iron absorption. These findings are not 
+only important in relation to the management of iron deficiency but 
+should also inform dietary advice, especially that given to those at 
+risk of deficiency. This trial was registered at [clinicaltrials.gov](http://clinicaltrials.gov) as NCT02365103.
+- https://twitter.com/flancian/status/1296042355800313856
+
+
+
+========================================
+FILE: josé rené ivanec.md
+========================================
+
+- una [[persona]].
+  - nació el [[1947-11-07]] y murió el [[1995-07-08]].
+
+
+
+========================================
+FILE: julio jcortázar.md
+========================================
+
+# Julio Jcortázar
+
+
+
+
+========================================
+FILE: jwz.md
+========================================
+
+# JWZ
+- I know him from long ago -- but he doesn't know me.
+
+
+
+========================================
+FILE: jz feedback.md
+========================================
+
+- #go https://docs.google.com/document/d/1m5NNsZ9LuH4L3DjVTcQoQAXDES-oV9BDs02dtQWunTw/edit
+
+
+
+========================================
+FILE: key lime pie.md
+========================================
+
+# Key Lime Pie
+- https://blog.obormot.net/Key-lime-pie-and-the-methods-of-rationality
+
+
+
+========================================
+FILE: kopiko.md
+========================================
+
+- a [[candy]].
+  - [[coffee]] flavored.
+  - about [[20mg]] of caffeine per piece.
+
+
+========================================
+FILE: letter to angelina.md
+========================================
+
+- #go https://docs.google.com/document/d/1ZkfvJ9ozLo0B5Q1v226219PKfyeoN8pxK_PB-jf_0jM/edit?tab=t.0
+
+
+========================================
+FILE: logitech camera too dark on raspberry pi.md
+========================================
+
+- `v4l2-ctl --device=/dev/video0 --set-ctrl=brightness=128`
+  - :)
+
+
+========================================
+FILE: logseq/bak/Hypothesis/2023-03-18T19_35_42.080Z.Desktop.md
+========================================
+
+- Hypothesis: what you see with your eyes closed, the lights you can see in the dark -- that is not random noise, it is computation.
+  - The visual cortex may be used to compute arbitrary programs given the passage of time: an image can encode a spectrogram, which is then decoded by neural networks.
+
+
+
+========================================
+FILE: logseq/bak/Hypothesis/2023-03-18T19_36_16.016Z.Desktop.md
+========================================
+
+- Hypothesis: what you see with your eyes closed, the lights you can see in the dark -- that is not random noise, it is computation.
+  - The visual cortex may be used to compute arbitrary programs given the passage of time: an image can encode a spectrogram, pattern recognition of shapes of the spectrogram yields at least some sound information (given the "right" neural networks)
+
+
+
+========================================
+FILE: logseq/bak/Hypothesis/2023-03-18T19_38_31.542Z.Desktop.md
+========================================
+
+- Hypothesis: what you see with your eyes closed, the lights you can see in the dark -- that is not random noise, it is computation.
+  - The visual cortex may be used to compute arbitrary programs given the passage of time: an image can encode a spectrogram, for example, and pattern recognition applied to shapes in the spectrogram may yield at least some useful sound information (given the "right" neural networks)
+  - Arbitrary programs could be stored and replayed in the visual cortex by e.g. evolving cellular automata or a neural network that can simulate them, which would mean universal computation as per Wolfram et al
+
+
+
+========================================
+FILE: logseq/bak/meet/2023-03-12T22_02_37.087Z.Desktop.md
+========================================
+
+- As of [[2022-08]] I work on [[Google Meet]].
+
+
+
+========================================
+FILE: mangled in transit.conflicted.0.md
+========================================
+
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+
+
+========================================
+FILE: mathjax.md
+========================================
+
+- #go https://github.com/mathjax/MathJax
+
+
+========================================
+FILE: mediterranean garden.md
+========================================
+
+#go https://mynoise.net/NoiseMachines/mediterraneanGardenSoundscapeGenerator.php
+
+
+========================================
+FILE: meet partitionining.md
+========================================
+
+
+
+
+========================================
+FILE: mencius goldbug.md
+========================================
+
+- An alter ego of [[Mencius Moldbug]], perhaps in Flancia?
+
+
+========================================
+FILE: mikaeln.md
+========================================
+
+# Mikaeln
+- he was a member of the pirate party!
+- recommended resources: 
+    - https://entryscape.com/en/
+    - https://www.datainspektionen.se/nyheter/2018/domstol-ger-datainspektionen-ratt-om-halsa-for-mig/
+
+
+
+========================================
+FILE: name place animal thing.md
+========================================
+
+# Name, Place, Animal, Thing
+
+
+
+
+========================================
+FILE: nationhstates.md
+========================================
+
+
+
+
+========================================
+FILE: naval.md
+========================================
+
+# Naval
+- [nav.al](nav.al)
+- [twitter.com/naval](twitter.com/naval)
+- Interesting but potentially controversial opinions. Research.
+
+
+
+========================================
+FILE: new homes for old friends.md
+========================================
+
+- #go https://new-homes-for-old-friends.cairnwater.com/
+
+
+========================================
+FILE: nfthh.md
+========================================
+
+# nfthh
+
+
+
+
+========================================
+FILE: nick cave zurich.md
+========================================
+
+- https://www.ticketcorner.ch/noapp/event/nick-cave-theater-11-19675877/?affiliate=SKE&utm_campaign=stadtkonzerte&utm_source=ske&utm_medium=dp
+
+
+========================================
+FILE: nixos.md
+========================================
+
+- #go 
+
+
+========================================
+FILE: nodes outlines.md
+========================================
+
+# Nodes Outlines
+
+
+
+
+
+
+========================================
+FILE: notsilverv.md
+========================================
+
+# Notsilverv
+
+
+
+
+========================================
+FILE: nyc cool kids.md
+========================================
+
+- #go https://photos.google.com/u/1/share/AF1QipM5mGg00Mf_xqnHpVCLyS2MNqmSmcqWXoFx8PvqKK2ugGGUZ2FYNonX2HrOYkyrRA
+
+
+
+========================================
+FILE: pais.md
+========================================
+
+# Pais
+- https://drive.google.com/file/d/1h0VZbHHyHQ13b52qCS_mjQNCd6Lwokhc/view?usp=sharing
+- https://twitter.com/flancian/status/1273989349441445888
+
+
+
+========================================
+FILE: pasted image 20210621192811.md
+========================================
+
+- [[risks of thinking in public]] :)
+
+
+========================================
+FILE: pdb post morte.md
+========================================
+
+# pdb post_morte
+
+
+
+
+========================================
+FILE: perhaps.md
+========================================
+
+- Perhaps, [[perhaps]], perhaps.
+
+
+========================================
+FILE: pers![[Pasted imag![[Pasted image 20210703185116.png.md
+========================================
+
+
+
+
+========================================
+FILE: pers![[Pasted image 20210703185115.png.md
+========================================
+
+
+
+
+========================================
+FILE: personal knowledge managment.md
+========================================
+
+# Personal Knowledge Managment
+
+
+
+
+========================================
+FILE: phiinstalllosophy.md
+========================================
+
+
+
+
+========================================
+FILE: pinstallhiinstalllosophy.md
+========================================
+
+
+
+
+========================================
+FILE: pipe alias|pipe aliases.md
+========================================
+
+# pipe alias|pipe aliases
+
+
+
+
+========================================
+FILE: plantey.md
+========================================
+
+# Plantey
+
+
+
+
+========================================
+FILE: polarization.md
+========================================
+
+# Polarization
+- https://phys.org/news/2020-06-theory-political-polarization.html
+
+
+
+========================================
+FILE: romanian street musicians.md
+========================================
+
+# Romanian Street Musicians
+
+
+
+
+
+========================================
+FILE: schuldenzucker com.md
+========================================
+
+# Schuldenzucker.com
+
+
+
+
+========================================
+FILE: send to kindle.md
+========================================
+
+- #go https://www.amazon.de/sendtokindle
+
+
+
+========================================
+FILE: sgmk wiki.md
+========================================
+
+- #go https://wiki.sgmk-ssam.ch/wiki/Workshops#AI@SGMK
+
+
+
+========================================
+FILE: silverbullet multi tenancy.md
+========================================
+
+- #go https://community.silverbullet.md/t/multi-tenancy-multiple-spaces-in-one-server-any-takers/146/9
+
+
+========================================
+FILE: sobre el sentido poético de la vida.md
+========================================
+
+- Un [[Ensayo]].
+- Sobre [[Dorian Grey]], [[Dr. Fausto]] y otres.
+
+
+========================================
+FILE: social algorithm.md
+========================================
+
+# Social Algorithm
+
+
+
+
+========================================
+FILE: starbyte.md
+========================================
+
+- an [[artist]].
+  - [[electronic]]
+  - #go https://soundcloud.com/djstarbyte
+
+
+========================================
+FILE: stony caramel.md
+========================================
+
+- #go https://docs.google.com/document/d/1HE8iwmC9_roSksD2qITLwOLY9CKlP7zaP5x9Z2bWKKQ/edit?tab=t.0
+
+
+
+
+========================================
+FILE: ta heis heauton.md
+========================================
+
+# Ta Heis Heauton
+
+
+
+
+========================================
+FILE: tangjeff0.md
+========================================
+
+# Tangjeff0
+- https://github.com/tangjeff0
+- He seems nice. I hope he does well.
+
+
+
+========================================
+FILE: tesis saer.md
+========================================
+
+- #go https://docs.google.com/document/u/1/d/1qYDG6K8MV-2XlUAnB5LARMu3PgNF_3T4mPOrdEOUrbY/edit?usp=sharing
+
+
+
+========================================
+FILE: test for tld.md
+========================================
+
+# test.for.tld
+
+
+
+
+========================================
+FILE: testing meet.md
+========================================
+
+- #meet https://meet.evolix.org/testing
+
+
+
+========================================
+FILE: testing node.md
+========================================
+
+# testing node
+
+
+
+
+========================================
+FILE: tet.md
+========================================
+
+- #go https://docs.google.com/spreadsheets/d/1Mfc_evjfT33DEkawqZUs5qYTogZXq-m4qtNrL3PnLpA/edit?gid=0#gid=0
+
+
+
+========================================
+FILE: tfm.md
+========================================
+
+- <removed>
+
+
+========================================
+FILE: tfmpb.md
+========================================
+
+- #pull [[tfm]]
+
+
+========================================
+FILE: the kind in yellow.md
+========================================
+
+# the kind in yellow
+
+
+
+
+========================================
+FILE: the little schemerh.md
+========================================
+
+# the little schemerh
+
+
+
+
+========================================
+FILE: the reed wheelbarrow.md
+========================================
+
+# the reed wheelbarrow
+
+
+
+
+========================================
+FILE: the revolution according to chatgpg.md
+========================================
+
+- #go https://docs.google.com/document/d/1Akfyf_NlNq-GZOHzptRXFYYPox8cmErIiwxO4s3gTEk/edit
+
+
+
+========================================
+FILE: theory of value.md
+========================================
+
+- Trying writing to the Agora straight from the Agora, finally :)
+  - I'm cheating as I'm embedding Silverbullet which currently only works for yours truly.
+  - But I hope to improve on that soon :)
+- Theory of value looks interesting, thanks @neil as usual.
+
+
+========================================
+FILE: those that walk away from omelas.md
+========================================
+
+# those that walk away from omelas
+
+
+
+
+========================================
+FILE: tridactylh.md
+========================================
+
+# tridactylh
+
+
+
+
+========================================
+FILE: trivially.md
+========================================
+
+- Or of low [[complexity]], if not of low [[cost]] or [[difficulty]].
+
+
+
+========================================
+FILE: unqualified reservations.md
+========================================
+
+# Unqualified Reservations
+- Not sure where this came from, but at some point I meant to read this: https://www.unqualified-reservations.org/2009/01/gentle-introduction-to-unqualified/
+- Fuzzily remember it 'feeling' like a right wing communication when it came in, unsure why.
+
+
+
+========================================
+FILE: untitled 1.md
+========================================
+
+# Untitled 1
+
+
+
+
+========================================
+FILE: untitled 2.md
+========================================
+
+# Untitled 2
+
+
+
+
+========================================
+FILE: untitled 3.md
+========================================
+
+# Untitled 3
+
+
+
+
+========================================
+FILE: untitled.md
+========================================
+
+# Untitled
+
+
+
+
+========================================
+FILE: verein welle.md
+========================================
+
+- an [[organization]].
+  - I [[donated]] during November.
+  - #go https://vereinwelle.ch
+  - #where https://maps.app.goo.gl/7apFRHUCMBGqktgN9
+
+
+========================================
+FILE: veterinary oerlikon.md
+========================================
+
+- #go https://andreaspark-tieraerzte.ch/kontakt/
+
+
+========================================
+FILE: vibing cat.md
+========================================
+
+- #go https://www.youtube.com/watch?v=NUYvbT6vTPs
+  - #pull [[Bilal Göregen]]
+
+
+
+========================================
+FILE: vicrey auction.md
+========================================
+
+# Vicrey Auction
+
+
+
+
+========================================
+FILE: voxpub.md
+========================================
+
+# Voxpub
+
+
+
+
+========================================
+FILE: waterfall charts.md
+========================================
+
+# Waterfall Charts
+
+
+
+
+========================================
+FILE: we are the future cunt.md
+========================================
+
+- #go https://www.vice.com/en/article/we-are-the-future-cunt-cyberfeminism-in-the-90s/
+
+
+========================================
+FILE: we will go together into the dark of night.md
+========================================
+
+- #go https://docs.google.com/document/d/1HE8iwmC9_roSksD2qITLwOLY9CKlP7zaP5x9Z2bWKKQ/edit?tab=t.0
+
+
+========================================
+FILE: webminar mode.md
+========================================
+
+
+
+
+========================================
+FILE: what the hell.md
+========================================
+
+# What the Hell
+
+What the Hell
+
+
+
+
+========================================
+FILE: www.thetakemachine.co.uk.md
+========================================
+
+# Www Thetakemachine Co Uk
+
+# www.thetakemachine.co.uk
+- My results: http://www.thetakemachine.co.uk/quiz/8jVxLn/results
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fflancia%2Fh3PgZGbce_.png?alt=media&token=82bc1755-6c19-4956-a9a1-92196770ebe6)
+
+
+
+========================================
+FILE: yoga arrivr.md
+========================================
+
+# yoga arrivr
+
+
+
+
+========================================
+FILE: zebras unite capital.md
+========================================
+
+- I ran into [[Zebras Unite]] again thanks to the Agora.
+- #go https://zebrasunite.coop/
+- I checked their website and it seems not very updated; there's a reference to a 2023 conference domain which has expired. Twitter seems not updated since 2023. Maybe they didn't make it?
+- Then again, Flancia.org is not updated very often either :)
+
+
+========================================
+FILE: ❦.md
+========================================
+
+- a [[fleuron]].

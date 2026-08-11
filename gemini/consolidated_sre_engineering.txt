@@ -1,0 +1,2889 @@
+
+
+========================================
+FILE: 2004 update.md
+========================================
+
+- #go https://abc.xyz/investor/founders-letters/2004/
+
+
+
+========================================
+FILE: 2019 update.md
+========================================
+
+- #go https://blog.google/alphabet/letter-from-larry-and-sergey/
+  - contains an update by [[sundar]] in [[2019]] despite the URL :)
+  - links https://abc.xyz/investor/founders-letters/2004/
+
+
+
+========================================
+FILE: Dora.md
+========================================
+
+- a [[friend]].
+
+
+
+========================================
+FILE: Google is not a conventional company.md
+========================================
+
+- [[Google]] started as a non-conventional company that prided itself in being non-conventional, then became more conventional as time went on, until it seemed to embrace its conventionality.
+
+
+
+========================================
+FILE: LLM.md
+========================================
+
+- a [[tool]].
+  - CLI to interface with a variety of [[LLMs]].
+  - by [[Simon Willison]].
+  - I set it up on [[2024-03-02]] and added API keys for:
+    - [[openai]]
+    - [[mistral]]
+    - [[google]] ([[gemini]]) -- this was the hardest, needlessly IMHO.
+
+
+========================================
+FILE: On this date.md
+========================================
+
+- #pull [[ephemeridae]]
+
+
+
+========================================
+FILE: Open Letter to Peter Singer.md
+========================================
+
+- One of a series of [[Open Letters]].
+- I thought I'd write this now years ago, maybe it will finally happen.
+  - I listened to [[Peter Singer]] with [[Sam Harris]] again on [[2024-02-25]].
+
+Hi Peter, I'm sure you get this often: you don't know me but I feel like I know you -- as I've gotten to know you through your books and your public conversations. I am writing this [[open letter]] in the hope that you will eventually find time to read it, or at least to skim it, but I do not write it with the intention of putting a burden on you; I am just doing out of the belief that it is worth thanking you, and asking you a question (which may be answered also for others which have good mental representations of your self, or might hold interesting opinions in their own right).
+
+## Thank you
+
+Thank you for your writing and for your ideas and evaluations on ethical matters as you have expressed them through your life. I am inspired by them, and by the works you have inspired. You have brought light to the world in many ways, however you care to define it, and for that I and many other sentient beings will be thankful for, I believe, as long as we're around.
+
+## A question
+
+I was born in Argentina; I grew up and studied there and moved to Switzerland for work when I was 30. I am a Staff Engineer currently at [[Google]]. I am engaged in [[Effective Altruism]] and occasionally allow myself to hedge irrationally after careful consideration :) 
+
+Inspired by your works, I started a project for 
+
+## Farewell
+
+
+========================================
+FILE: Simon Willison.md
+========================================
+
+- a [[person]].
+  - seems great!
+  - #pull [[simonw]]
+  - [[datasette]] [[llm]]
+
+
+========================================
+FILE: Sri Lanka.md
+========================================
+
+- #push [[trip to x]]
+  - #push [[three weeks in sri lanka]]
+    - #pull [[Colombo]] [[Kandy]] [[Anuradhapura]] [[Jaffna]] [[Ella]] [[Galle]] [[Sigirya]]
+  - [[Negombo]]
+- #go https://en.wikipedia.org/wiki/Sri_Lanka
+  - [[22 million]] people
+  - 70% [[Buddhist]]
+  - #pull [[Śrī Laṅkā]] [[Ceylon]] [[Eelam]] [[Taprobana]] [[Sarandib]] 
+  - #pull [[Sinhalese]] [[Tamil]]
+  - #push [[Sri Lankan Civil War]] ~ https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War is very recent ([[1983]]-[[2009]]
+    - A group tried to start an independent [[Tamil]] state.
+    - [[70000]] killed by [[2007]].
+    - [[Jaffna]] was the second largest city after [[Colombo]] before this conflict. Now it's the 12th largest (!).
+    - See also https://en.wikipedia.org/wiki/2019_Sri_Lanka_Easter_bombings by [[ISIS]]/[[ISIL]]
+  - [[Geography]]
+    - There used to be a natural land bridge to [[India]].
+    - > The "wet zone" and some of the windward slopes of the central highlands receive up to 2,500 millimetres (98.4 in) of rain each year, but the leeward slopes in the east and northeast receive little rain.
+  - There's [[elephants]] and [[leopards]].
+  - [[Gastronomy]]
+    - > Dishes include rice and curry, pittu, kiribath, wholemeal roti, string hoppers, wattalapam (a rich pudding of Malay origin made with coconut milk, jaggery, cashews, eggs, and spices including cinnamon and nutmeg), kottu, and appam.[368] Jackfruit may sometimes replace rice. Traditionally food is served on a plantain leaf or lotus leaf. Middle Eastern influences and practices are found in traditional Moor dishes, while Dutch and Portuguese influences are found with the island's Burgher community preserving their culture through traditional dishes such as lamprais (rice cooked in stock and baked in a banana leaf), breudher (Dutch holiday biscuit), and Bolo fiado (Portuguese-style layer cake).
+  - [[Culture]]
+    - > Ancient Sri Lanka is marked for its genius in [[hydraulic engineering]] and [[architecture]]
+    - > [[Sri Lankan Cinema]]
+    - [[Radio Ceylon]]
+  - The national sport is [[voleyball]] (!) but ~everybody's into cricket.
+  - [[Jaya Sri Maha Bodhi]] is the oldest planted tree in the world :)
+  - #beaches [[Bentota]] [[Unawatuna]]
+    - near [[Galle]]
+
+
+
+========================================
+FILE: agora api.md
+========================================
+
+- a [[thing]].
+  - See [[go/agora server/git]] for implemented endpoints, in particular `app/agora.py`.
+  - Back here on [[2023-12-16]] thinking of [[markdown on git]] and what comes next.
+    - I think this has to do with the [[Fediverse]]: how to share it and integrate it together.
+    - And, more generally, with [[what we choose to do with the Internet]].
+
+
+
+========================================
+FILE: agora bot matrix.md
+========================================
+
+- a [[project]].
+	- [[agora bot]] for [[matrix]]
+	- [[git]] https://github.com/flancian/agora-bot-matrix
+	- #go [[git]]
+
+
+========================================
+FILE: agora code.md
+========================================
+
+- #pull [[agora server]] [[agora bridge]] contain the code for this Agora.
+  - [[go/agora/git]] is the Agora root.
+
+
+
+========================================
+FILE: aquila network.md
+========================================
+
+# aquila network
+
+- a [[project]]
+  - [[pull]] [[aquila]]
+  - [[go]] https://aquila.network/
+  - "[[search]] first [[hub]] for your [[bookmarks]]"
+  - [[git]] https://github.com/Aquila-Network/awesome-aquila-network
+  - [[intelligence is compression]]
+  - [[docker]]
+
+
+
+
+========================================
+FILE: architecture.md
+========================================
+
+- I like [[christopher alexander]], [[lacaton and vassal]], [[solar punk]], [[arcologies]].
+
+
+========================================
+FILE: arcologies.md
+========================================
+
+- [[pull]] [[arcology]]
+- a [[list]]
+	- https://twitter.com/flancian/status/1393939171958476803
+		- [[simcity 2000]] https://medium.com/@LeavittAlone/sim-city-2k-post-capitalism-and-the-four-futures-b21de83381f7
+			- [[launch]]
+			- [[plymouth]]
+			- [[forest]]
+			- [[darco]]
+	- [[arcosanti]]
+	- [[kowloon walled city]]
+	- [[begich towers]]
+	- [[kraftwerk 1]]
+	  ![[arcology.jpg]]
+
+
+========================================
+FILE: argh.md
+========================================
+
+- a [[service]]
+	- by [[infranaut]]
+	- [[go]] https://argh.tweeter.workers.dev
+	- [[git]] https://github.com/i-infra/ARGH
+
+https://twitter.com/infra_naut/status/1411003663947120646
+
+https://twitter.com/flancian/status/1411017040916271109
+
+
+========================================
+FILE: art 61.md
+========================================
+
+- https://www.fedlex.admin.ch/eli/cc/2007/758/de#art_61
+
+
+
+========================================
+FILE: art 68.md
+========================================
+
+- #go https://www.fedlex.admin.ch/eli/cc/2007/758/de#art_68
+
+
+
+========================================
+FILE: assistant.md
+========================================
+
+# Assistant
+
+- A [[thing]].
+  - The [[Google]] assistant.
+
+
+
+
+
+========================================
+FILE: atjson.md
+========================================
+
+- [[git]] https://github.com/CondeNast/atjson
+	- [[go]] [[git]]
+	- by [[blaine]]
+	- [[pull]] [[at json]] [[at json agora]]
+
+
+========================================
+FILE: backnoded.md
+========================================
+
+- #pull [[backnoding]]
+
+
+
+========================================
+FILE: bangle.md
+========================================
+
+# bangle
+
+- a [[markdown editor]].
+  - by [[kepta]]
+  - as it is compatible with [[markdown]] as produced by [[foam]], [[obsidian]] and [[roam]] -- that is, as it supports [[wikilinks]] -- it is an [[agora editor]].
+  - web based
+    - [[go]] https://bangle.io
+  - [[git]] https://github.com/bangle-io/bangle.dev
+  - [[issues]] https://github.com/bangle-io/bangle-io-issues
+  - [[docs]] https://bangle.dev/
+  - [[discord]] https://discord.gg/hFPnbPy8nK
+
+
+
+
+========================================
+FILE: bankline.md
+========================================
+
+# bankline
+
+- https://twitter.com/pookleblinky/status/1377554905892806656
+
+
+
+
+
+========================================
+FILE: beautiful mycorrhiza.md
+========================================
+
+- one iteration in:
+  - when I die
+  - [[take my body to the forest]]
+  - and let the [[mycorrhiza]] take me
+
+
+========================================
+FILE: benedictine rule.md
+========================================
+
+- a [[contract]].
+  - #pull [[benedictine order]]
+  - #pull [[sqlite]]
+    - [[go/sqlite/code of ethics]]
+
+
+
+========================================
+FILE: blackbox exporter.md
+========================================
+
+# blackbox exporter
+
+- push [[prober]].
+  - [[go]] [[git]]
+  - [[git]] https://github.com/prometheus/blackbox_exporter
+  - part of [[prometheus]]
+  - I need to set up one for:
+    - anagora.org
+    - flancia.org
+    - stoa.anagora.org
+    - moa.party
+
+
+
+
+
+========================================
+FILE: botginia.md
+========================================
+
+- a [[bot]]
+	- [[twitter]] https://twitter.com/botginia
+	- [[git]] https://github.com/flancian/botginia
+		- [[go]] [[git]]
+
+
+========================================
+FILE: bouncepaw.md
+========================================
+
+# bouncepaw
+
+- a [[person]].
+  - [[friend]].
+  - #pull [[timur ismagilov]] [[charismatic shell]]
+  - #pull [[mycorrhiza]] [[melanocarpa]] [[cyberrachel]]
+  - #go [[git]] https://github.com/bouncepaw
+
+
+
+
+========================================
+FILE: cacophony society.md
+========================================
+
+- a [[society]].
+	- partially inspired by [[stalker]]
+		- [[trip to the zone]]
+	- [[gustavo]] told me about it
+		- inspired [[fight club]]
+
+
+========================================
+FILE: cardigan bay.md
+========================================
+
+# cardigan bay
+
+- a [[tool]]
+  - [[wiki engine]]
+  - by [[interstar]]
+  - [[git]] https://github.com/interstar/cardigan-bay
+    - [[go]] [[git]]
+    - [[clojure]]
+  - https://twitter.com/interstar/status/1450565926819090437
+
+
+
+
+========================================
+FILE: change remote.md
+========================================
+
+- [[git]]
+	- `git remote set-url origin git@github.com:flancian/garden.git`
+
+
+========================================
+FILE: chezmoi.md
+========================================
+
+- a [[tool]].
+  - [[bmann]] noded it first :)
+  - #go https://www.chezmoi.io
+  - #git https://github.com/twpayne/chezmoi
+  - #start https://www.chezmoi.io/quick-start/
+  - #push [[2022-05-26]] 
+    - [[refusing to merge unrelated histories]]
+  - See update below for the TLDR on how to use templates.
+
+Example from my initial upload:
+
+```
+sh -c "`curl -fsLS chezmoi.io/get`"
+chezmoi add ~/.bashrc
+chezmoi add ~/.vimrc
+chezmoi add ~/.tmux.conf
+chezmoi add ~/.gnupg
+chezmoi cd
+git add .
+git commit -m 'Initial commit from paramita."
+```
+
+After creating an empty repo in any host (I used [[gitlab]]), you can upload the local repo you cd'd into above as per standard [[git]] procedure: 
+
+```
+git remote add origin git@gitlab.com:flancian/flancian.git
+git branch -M main
+git push -u origin main 
+```
+
+Then for syncing files into a new machine, you install chezmoi and then pass the repo as argument to `chezmoi init`:
+
+```
+sh -c "`curl -fsLS chezmoi.io/get`"
+chezmoi init https://gitlab.com/flancian/flancian
+chezmoi apply -v
+```
+
+To upload changes to files already tracked by chezmoi from any host:
+
+```
+chezmoi re-add
+chezmoi cd
+git commit -a -m "chezmoi from $HOSTNAME"
+git push
+```
+
+[[Chezmoi]] supports [[templates]] to special-case files depending on the host they're being installed in.
+
+To apply a template to an already tracked file, e.g. .config/sway/config (in my case):
+
+```
+chezmoi chattr +template .config/sway/config
+chezmoi edit .config/sway/config
+```
+
+Then use template syntax (see https://www.chezmoi.io/user-guide/templating/#simple-logic for the gist of it if you're interested in per-hostname cases, which is what I was after) and then use `chezmoi apply` to "run" the template and produce the file in any host.
+
+Note that after that you need to edit the file with `chezmoi edit` every time essentially, unless you intend to get conflicts later. It seems like a fair tradeoff.
+
+An example from my sway config which shows the syntax for if .. else if .. else:
+
+```
+{{ if eq .chezmoi.hostname "nostromo" }}
+set $focused #b43757
+{{ else if eq .chezmoi.hostname "paramita" }}
+set $focused #472dbc
+{{ else }}
+set $focused #b46b37
+{{ end }}
+```
+
+
+
+========================================
+FILE: christopher alexander.md
+========================================
+
+# Christopher Alexander
+
+- a [[person]]
+  - [[writer]] [[architect]]
+  - [[wp]] https://en.wikipedia.org/wiki/Christopher_Alexander
+    - [[go]] [[wp]]
+  - [[wrote]]
+    - [[notes on the synthesis of form]]
+    - [[the oregon project]]
+    - [[a pattern language]]
+    - [[the timeless way of building]]
+  - [[book club]] [[reading alexander]]
+  - [[people interested]] [[bmock]] [[EduneV]] [[seconds_0]] [[lorand]] [[armengol]]
+
+
+
+
+
+========================================
+FILE: church of the singularity.md
+========================================
+
+# church of the singularity
+
+- a [[church]].
+  - [[go]] https://church-of-the-singularity.github.io/
+  - [[git]] https://github.com/Church-of-the-Singularity
+    - seems [[satirical]]?
+
+
+
+========================================
+FILE: code of conduct.md
+========================================
+
+- [[social coop]] https://pad.disroot.org/p/Social.Coop_Code_of_Conduct_V3.1revs
+
+
+========================================
+FILE: code server.md
+========================================
+
+# Code Server
+
+- a [[project]]
+  - [[vscode]] on your browser
+  - (not maintained by MS, I think) for running VSCode as a web app, essentially 
+  - [[git]] https://github.com/cdr/code-server.
+  - [[go]] [[git]]
+
+
+
+
+========================================
+FILE: config py.md
+========================================
+
+- Per-environment variables for [[agora server]] can be managed in `config.py` in [[go/agora-server/git]]
+- snapshot follows to illustrate
+ 
+ ```
+class DefaultConfig(object):
+    AGORA_PATH = os.getenv('AGORA_PATH', os.path.join('/home', getpass.getuser(), 'agora'))                         
+    # standard: no trailing slashes anywhere in variables.
+    # with protocol
+    URL_BASE = "https://anagora.org"
+    # without protocol
+    URI_BASE = "anagora.org"
+    AGORA = URI_BASE
+
+    # EXPERIMENTS
+    # experiments can be booleans or probabilities (reals in 0..1).                                                 
+    # release process: set them initially to False/0 in the DefaultConfig and then override in the right environment.
+    ENABLE_CTZN = False
+    ENABLE_STATS = False
+
+class ProductionConfig(DefaultConfig):
+
+    # EXPERIMENTS
+    ENABLE_CTZN = True
+	# ENABLE_STATS is False by default
+
+class DevelopmentConfig(DefaultConfig):
+    URL_BASE = "http://dev.anagora.org"
+    URI_BASE = "dev.anagora.org"
+
+    # EXPERIMENTS
+    ENABLE_CTZN = True
+    ENABLE_STATS = True
+```
+
+
+========================================
+FILE: crab fit.md
+========================================
+
+- #go https://crab.fit
+  - [[doodle]] alternative
+
+
+
+========================================
+FILE: ctzn network.md
+========================================
+
+- [[go]] https://ctzn.network
+	- [[schemas]] https://ctzn.network/schemas
+	- [[git]] https://github.com/bluelinklabs/ctzn
+	- [[moderation]]
+
+
+========================================
+FILE: datascript.md
+========================================
+
+# Datascript
+
+- A [[project]].
+- https://twitter.com/TeodorHeggelund/status/1360526233612738563
+- [[go]] https://github.com/tonsky/datascript
+  - [[quote]] An immutable in-memory [[database]] and [[Datalog]] [[query engine]] in [[Clojure]] and [[ClojureScript]].
+- [[git]] https://github.com/tonsky/datascript
+
+
+
+
+
+========================================
+FILE: dave winer.md
+========================================
+
+- a [[person]]
+	- [[coder]]
+	- [[thread viewer]]
+
+
+========================================
+FILE: day job.md
+========================================
+
+# Day Job
+
+- What you do for a living.
+  - If you are unlucky, though, you might need a day job *and* a night job to get by.
+  - If you are really unlucky, having both might not even be enough.
+- I work for [[Google]] as an [[SRE]].
+  - I'm an L5/Senior Engineer.
+
+
+
+
+========================================
+FILE: denny vrandecic.md
+========================================
+
+# Denny Vrandecic
+
+- [[push]] [[vrandezo]]
+  - [[ex]] [[google]] 
+    - recommended by [[s. s.]]
+
+
+
+
+
+
+========================================
+FILE: devops.md
+========================================
+
+# Devops
+
+- [[development]] + [[operations]]
+- [[go]] https://en.wikipedia.org/wiki/DevOps
+  - "DevOps defines five key pillars of success:
+    - Reduce organizational silos
+    - Accept failure as normal
+    - Implement gradual changes
+    - Leverage tooling and automation
+    - Measure everything"
+- [[see also]] [[sre]]
+
+
+
+
+
+========================================
+FILE: distributopia.md
+========================================
+
+# distributopia
+
+- a [[project]]
+  - [[pull]] [[distributed]] [[utopia]]
+  - [[lostinlight]] 
+  - [[git]] https://git.feneas.org/light/distributopia
+    - [[go]] [[git]]
+
+
+
+
+
+========================================
+FILE: dogsheep.md
+========================================
+
+# dogsheep
+
+- a [[bridge]] or [[siphon]]
+  - [[go]] https://dogsheep.github.io/
+  - [[git]] https://github.com/dogsheep/
+- [[see also]] [[promnesia]]
+
+
+
+
+
+========================================
+FILE: doodle alternative.md
+========================================
+
+- [[crab fit]] ~ https://crab.fit
+  - used it once and liked it, feels modern
+
+
+
+========================================
+FILE: dotlit starter.md
+========================================
+
+# dotlit starter
+
+- a [[repository]]
+  - [[git]] https://github.com/dotlitdev/dotlit-starter
+  - [[go]] [[git]]
+
+
+
+
+========================================
+FILE: dotlit.md
+========================================
+
+# dotlit
+
+- a [[format]]
+  - backward compatible with [[markdown]]
+  - by [[an utopian]]
+  - [[go]] https://dotlit.org/
+  - [[git]] https://github.com/dotlitdev/dotlit
+  - [[pull]] [[dotlit starter]]
+
+
+
+
+========================================
+FILE: dylan steck.md
+========================================
+
+# dylan steck
+
+- a [[person]]
+  - [[coder]] [[ceo]]
+  - [[project]] [[cortex]]
+  - [[go]] [[git]]
+  - [[git]] github.com/stecktechnologies
+  - [[roam]] https://roamresearch.com/#/app/Dylan/page/zFta7-s3G
+  - [[notes]]
+    - [[flancian]] https://docs.google.com/document/d/1qS2bqK7289BLwtKcwOGJ2H0dqidA_isDz7aXZy49gPk/edit
+
+## [[2021-04-17]]
+
+- building [[cortex]]
+  - [[open source]]
+  - [[boris]] and [[brooke]] (sp?)
+- companies in this space
+  - [[atomic search]]
+  - [[the browser company]]
+- [[cortex]] is two projects
+  - the browser
+  - the backend / [[nexus]]
+## [[2021-04-06]]
+
+- potential overlap/collaboration areas/areas of shared interested
+- [[actions]]
+- [[bulletpoint trees]] as sufficient to encode logic
+- efficient transfer of [[context]]
+  - [[context]] == [[node]] in the agora, the core abstraction
+- [[trails]] == [[tours]]
+- smaller tractable goals vs huge vision
+  - the tool itself as a way to manage this complexity
+  - [[cooperation]] as a way to manage complexity
+- limitations of extension approach
+  - browser packs?
+- people you should likely talk to (you probably know them already)
+  - [[codex]]
+  - [[metasj]]
+- general [[feedback]]
+  - [[open source]] seems like it would offer many 
+  - share (e.g. the cortex whitepaper) for comments; this could be having it be in a public URL and requesting comments through hypothes.is, for example.
+  - it is unclear
+
+
+
+
+========================================
+FILE: ed summers.md
+========================================
+
+- a [[person]]
+  - [[friend]]
+	- in [[social coop]]
+	- #pull [[edsu]]
+	- #go https://inkdroid.org
+	- [[mastodon]] https://social.coop/@edsu
+	- [[git]] https://github.com/edsu
+	- [[matrix]] @edsu:matrix.org
+	- [[music]] https://bandcamp.com/edsu
+
+
+
+========================================
+FILE: editar el agora.md
+========================================
+
+- estas son instrucciones para pasar a formar parte de este ágora como un usuario 'completo', es decir, uno que puede voluntariar sus notas a diversos [[contextos]] representados por sus [[nodos]].
+	- paso 1: bajar e instalar [[obsidian]]: https://obsidian.md
+		- una vez instalado, creá un 'vault' -- es como un repositorio de notas. después de esto ya podés tomar notas; el resto de los pasos puede postergarse, son para que el ágora pueda recibir tus notas.
+	- paso 2: abrir una cuenta en [[github]]: https://github.com
+		- después de crear una cuenta, crear un repositorio nuevo vacío.
+		- en la página del repositorio, conseguir la URL del repositorio haciendo click en 'code'. debería ser algo como: https://github.com/flancian/garden.git (ejemplo). guardarla.
+	- paso 3: bajar e instalar [[git]].
+		- https://git-scm.com/downloads tiene paquetes
+		- en [[mac os]] ya debería estar instalado
+		- en [[linux]] puede instalarse con `apt-get install git` en ubuntu y debian
+		- en windows bajar e instalar de la dirección de arriba
+	- paso 4: configurar un repositorio git en el directorio del vault de obsidian (pendiente)
+	- paso 5: instalar [[obsidian git]] para habilitar auto-backup en obsidian (pendiente)
+	- después de estos pasos, todos los cambios en obsidian deberían verse reflejados en el ágora dentro de un plazo de ~30 segundos en promedio.
+
+
+========================================
+FILE: eduardo ivanec.md
+========================================
+
+- a [[person]].
+	- originally from [[Argentina]]
+	- [[senior sre]] at [[Google]].
+	- #pull [[flancian]]
+
+
+========================================
+FILE: effortless contact.md
+========================================
+
+# effortless contact
+
+
+
+
+========================================
+FILE: employer.md
+========================================
+
+# employer
+
+- As of [[2021-10]] I'm employed by [[Google]].
+
+
+
+
+========================================
+FILE: entr.md
+========================================
+
+- a [[tool]]
+	- [[git]] https://github.com/eradman/entr
+		- [[go]] [[git]]
+		- a utility for running arbitrary commands when files change
+
+
+========================================
+FILE: fediverse party.md
+========================================
+
+# Fediverse.party
+
+- a [[map]]
+  - of the [[fediverse]]
+  - [[go]] https://fediverse.party
+  - [[git]] https://git.feneas.org/feneas/fediverse/
+  - [[wiki]] https://git.feneas.org/feneas/fediverse/-/wikis/home
+  - [[lightone]] https://social.coop/web/statuses/106581097292734631
+  - [[map of the internet]]
+
+
+
+
+
+========================================
+FILE: fission.md
+========================================
+
+# Fission
+
+- A [[project]].
+	- by [[boris mann]] and [[brooklyn zelenka]]
+		- "Seamlessly deploy websites and store secure user data"
+		- "fast app publishing"
+		- "Publish any front end app in 5 minutes -- free SSL and subdomain included"
+		- "Built in user accounts with storage included -- like an open source iCloud"
+		- "We're here to help you make your app awesome & we take care of protecting your users' data"
+	- [[go]] https://fission.codes
+	- [[docs]] https://runfission.com/docs/
+	- [[git]] https://github.com/fission-suite
+	- [[twitter]] twitter.com/fissioncodes
+	- [[discord]] fission.codes/discord
+	- [[discourse]] talk.fission.codes
+
+  ![[Pasted image 20210514092030.png]]
+
+
+========================================
+FILE: fitbit.md
+========================================
+
+# fitbit
+
+- I have a [[fitbit versa 3]], a gift from my [[employer]].
+
+
+
+
+========================================
+FILE: forgefed.md
+========================================
+
+# Forgefed
+
+- [[go]] https://github.com/forgefed/forgefed
+- [[git]] https://github.com/forgefed/forgefed
+- [[push]] [[agora plan]]
+  - [[do]] implement [[chained links]]
+
+
+
+
+
+
+========================================
+FILE: fossil.md
+========================================
+
+- a [[tool]].
+	- [[source control management]] == [[scm]] system
+	- [[batteries included]]
+	- #go https://fossil-scm.org
+	- [[sqlite]] based, written mostly in [[c]] it seems
+
+
+========================================
+FILE: framadate.md
+========================================
+
+- a [[scheduler]]
+	- like [[doodle]], [[free]] [[open source]]
+	- supports [[polls]]
+	- #go https://framadate.org/abc/en
+	- [[git]] https://framagit.org/framasoft/framadate
+
+
+========================================
+FILE: free instruments.md
+========================================
+
+- #go https://hilbricht.net/foss-sampled-instruments/
+
+
+
+========================================
+FILE: gardens.yaml.md
+========================================
+
+- a [[file]]
+	- which the agora uses to know about its users: about people that have contributed their thoughts to it.
+	- edit `gardens.yaml` in [[go/agora/git]]
+
+
+========================================
+FILE: gather.town.md
+========================================
+
+- a [[videoconferencing]] startup plus associated product
+	- [[pull]] [[gather town]]
+	- [[git]] https://github.com/gathertown
+	- [[go]] https://gather.town/about
+
+
+========================================
+FILE: georgo vassilis.md
+========================================
+
+# Georgo Vassilis
+
+- A [[person]]
+- [[go]] https://blog.georgovassilis.com/
+  - [[technology]] [[architecture]]
+
+
+
+
+
+========================================
+FILE: git alias.md
+========================================
+
+# Git Alias
+
+- git config --global alias.co checkout
+- git config --global alias.br branch
+- git config --global alias.ci commit
+- git config --global alias.F "reset --hard HEAD"
+- git config --global alias.lg "log --graph --oneline --decorate"
+- #pull [[git config]]
+
+
+
+
+========================================
+FILE: git bug.md
+========================================
+
+# Git Bug
+
+- [[project]]
+  - a [[bug tracker]] embedded in [[git]]
+- [[go]] https://github.com/MichaelMure/git-bug
+- [[git]] https://github.com/MichaelMure/git-bug
+- [[adopt]] [[p1]]
+
+
+
+
+
+========================================
+FILE: git config.md
+========================================
+
+# Git Config
+
+```
+git config --local commit.template commit-template.txt
+git config --global user.name "Flancian"
+git config --global user.email "0@flancia.org"
+```
+- #pull [[git alias]]
+- #pull [[git rere]]
+- consider also:
+
+```
+git config push.autoSetupRemote true
+```
+
+To make pushing after setting up a new branch more seamless.
+
+
+========================================
+FILE: git on ipfs.md
+========================================
+
+# Git on Ipfs
+
+- [[git]] on [[ipfs]]
+- [[go]] https://docs.ipfs.io/how-to/host-git-style-repo/
+
+
+
+
+
+========================================
+FILE: git pull strategy.md
+========================================
+
+# git pull strategy
+
+- https://twitter.com/flancian/status/1425132491153739776
+
+
+
+
+========================================
+FILE: git rebase.md
+========================================
+
+# git rebase
+
+- an alternative to [[merge]]
+- it squashes history
+
+- from https://strongbox.github.io/developer-guide/git/rebase-vs-merge.html, the [[golden rule of rebasing]]:
+
+```
+The Golden rule of Rebasing
+So, before you run git rebase, always ask yourself, “Is anyone else looking at this branch?”. If the answer is yes, take your hands off the keyboard and start thinking about a non-destructive way to make your changes. Otherwise, you’re safe to re-write history as much as you like.
+```
+
+
+
+
+========================================
+FILE: git rere.md
+========================================
+
+- from https://news.ycombinator.com/item?id=30521545
+
+```
+git config --global rerere.enabled true
+git config --global rerere.autoUpdate true```
+````
+
+
+========================================
+FILE: git ship.md
+========================================
+
+# Git Ship
+
+- [[pull]] [[ship]]
+
+
+
+
+========================================
+FILE: git-restore-mtime.md
+========================================
+
+- A nice addition to [[git]]!
+
+
+========================================
+FILE: git.md
+========================================
+
+# git
+
+- a [[list]].
+  - of [[repositories]].
+    - #agora https://github.com/flancian/agora
+    - [[agora server]] https://github.com/flancian/agora-server
+    - [[agora bridge]] https://github.com/flancian/agora-bridge
+  - If you [[go/git/project]] in an Agora, you might just land in its well known Git repository (not necessarily [[Github]]).
+- a [[version control system]].
+	- by [[linus torvalds]]
+	- #pull [[git-config]] [[git-alias]] [[git-ship]]
+  - https://twitter.com/flancian/status/1377588651232800771
+
+
+
+========================================
+FILE: gitbug.md
+========================================
+
+# Gitbug
+
+- [[go]] [[git]]
+- [[git]] https://github.com/MichaelMure/git-bug
+- [[help]] https://github.com/MichaelMure/git-bug#help-needed
+
+
+
+
+
+========================================
+FILE: github.md
+========================================
+
+# github
+
+- [[flancian]] https://github.com/flancian
+
+
+
+
+========================================
+FILE: gollum.md
+========================================
+
+# Gollum
+
+- A [[wiki]] [[engine]].
+  - Uses git.
+- [[go]] https://github.com/gollum/gollum/
+- [[git]] https://github.com/gollum/gollum/
+
+
+
+
+
+========================================
+FILE: goodtime.md
+========================================
+
+# goodtime
+
+- an [[open source]] [[pomodoro]] [[app]] for [[android]]
+  - [[go]] [[git]]
+  - [[git]] https://github.com/adrcotfas/Goodtime
+
+https://twitter.com/flancian/status/1374799488615907334
+
+
+
+
+
+
+
+========================================
+FILE: google.md
+========================================
+
+# Google
+
+- As of [[2020-12-12]] I work for Google. I have done so for eight years.
+- A good employer.
+  - My coworkers tend to be great-to-amazing.
+  - Compensation is good. 
+  - Many of the company's products are useful.
+- I'm not a huge fan of ads *but* I think that showing/seeing ads in exchange of free services is a *reasonable* proposition, when it's clear.
+  - It'd be better if it was always optional.
+
+
+
+
+
+========================================
+FILE: googler.md
+========================================
+
+- a [[class]].
+	- I'm a [[googler]]
+		- that means I work for [[google]]
+			- my name there is not [[flancian]]
+
+
+========================================
+FILE: googles.md
+========================================
+
+# googgles
+
+- The future contains infinitely many possible instances of [[google]].
+
+
+
+
+
+========================================
+FILE: hometown.md
+========================================
+
+# hometown
+
+- [[go]] [[git]]
+- [[git]] https://github.com/hometown-fork/hometown
+
+
+
+
+========================================
+FILE: hpi.md
+========================================
+
+# hpi
+
+- a [[project]]
+  - by [[karlicoss]]
+  - [[go]] [[git]]
+  - [[git]] https://github.com/karlicoss/HPI
+  - [[quote]] TLDR: I’m using HPI (Human Programming Interface) package as a means of unifying, accessing and interacting with all of my personal data. The package hides the gory details of locating data, parsing, error handling and caching. You simply ‘import’ your data and get to work with familiar Python types and data structures.
+
+
+
+
+
+========================================
+FILE: hummus.md
+========================================
+
+# Hummus
+
+- I love hummus.
+- [[recipe]] [[by]] [[yotam ottolenghi]] 
+  - https://twitter.com/flancian/status/1358504162854592512
+  - The end result is smoother if you remove the chickpea shells during and after cooking. I flush the chickpeas in cold water after, which causes a lot of the remaining shells to become detached and float to the surface, where I skim them. Repeat as needed. This tip was given to me by [[stephanie]].
+
+
+
+
+
+========================================
+FILE: i3 resurrect.md
+========================================
+
+- a [[tool]]
+	- tries to restore [[i3]] layouts plus running programs
+	- [[git]] https://github.com/JonnyHaystack/i3-resurrect
+		- [[go]] [[git]]
+	- [[pypi]] https://pypi.org/project/i3-resurrect/
+	- inspired by [[tmux resurrect]]
+
+https://twitter.com/flancian/status/1393894731806089223
+https://twitter.com/flancian/status/1393899574306168835
+
+
+========================================
+FILE: initial public values.md
+========================================
+
+- #push [[Google]]
+  - #pull [[founders letter]]
+
+
+
+========================================
+FILE: ipfs search.md
+========================================
+
+# ipfs search
+
+- a [[search engine]]
+  - [[go]] https://ipfs-search.com
+  - [[git]] https://github.com/ipfs-search/ipfs-search
+
+
+
+
+========================================
+FILE: isomorphic git.md
+========================================
+
+# isomorphic git
+
+- [[go]] [[git]]
+  - [[git]] https://github.com/isomorphic-git/isomorphic-git
+
+
+
+
+========================================
+FILE: jekyll wikilinks.md
+========================================
+
+- a [[ruby gem]]
+	- adds wikilinks support to [[jekyll]] sites, plus graphing
+	- [[git]] https://github.com/manunamz/jekyll-wikilinks
+		- [[go]] [[git]]
+
+
+========================================
+FILE: kraftwerk 1.md
+========================================
+
+- a [[genossenschaft]]
+	- #go https://www.kraftwerk1.ch/
+  - I am a member since [[august 2022]].
+  - #pull [[amélie]] [[andreas kaufmann]] [[hans widmer]]
+
+
+
+========================================
+FILE: lacaton and vassal.md
+========================================
+
+- an [[architecture studio]]
+    - [[architecture]]
+	- [[transformation]] https://www.archdaily.com/915431/transformation-of-530-dwellings-lacaton-and-vassal-plus-frederic-druot-plus-christophe-hutin-architecture/5cb893ce284dd11447000159-transformation-of-530-dwellings-lacaton-and-vassal-plus-frederic-druot-plus-christophe-hutin-architecture-photo?next_project=no
+	- [[go]] https://www.lacatonvassal.com/index.php?idp=110
+
+
+========================================
+FILE: lemmy.md
+========================================
+
+# Lemmy
+
+- a [[platform]]
+  - Open source, federated [[reddit]] clone. 
+  - [[git]] https://github.com/LemmyNet/lemmy
+  - [[go]] https://lemmy.ml
+  - Found in https://news.ycombinator.com/item?id=23664067.
+
+
+
+
+========================================
+FILE: linus torvalds.md
+========================================
+
+# linus torvalds
+
+- a [[person]].
+  - [[linux]]
+  - [[git]]
+  - a [[role model]].
+
+
+
+========================================
+FILE: logseq/bak/bootstrap/2023-03-12T22_02_37.020Z.Desktop.md
+========================================
+
+- For instructions to bootstrap a Flancian, see [[go/flancian/git]].
+- You may feel the need to grow a carbon-based Flancian. I wasn't anything special I think, what is great about us is what we have in common I believe :)
+
+
+
+========================================
+FILE: lyra.md
+========================================
+
+# Lyra
+
+- an [[ml]] based [[audio codec]] by [[google]]
+- [[go]] https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html
+
+
+
+
+
+========================================
+FILE: matterbridge.md
+========================================
+
+# Matterbridge
+
+- a [[bridge]]
+  - [[open source]] [[project]]
+    - supports many chat standards, including [[matrix]] and [[xmpp]]
+  - [[git]] https://github.com/42wim/matterbridge
+    - [[go]] [[git]]
+
+
+
+
+========================================
+FILE: mersenne primes.md
+========================================
+
+- #go https://oeis.org/A000668
+
+
+
+========================================
+FILE: mind over chatter.md
+========================================
+
+# Mind over Chatter
+
+- A [[podcast]].
+- [[by]] [[cambridge university]]
+
+
+
+
+========================================
+FILE: mind uploading and the revolution.md
+========================================
+
+# Mind Uploading and the Revolution
+
+- Old people dying is the traditional way of society upgrading social mores.
+- Imagine [[jeff bezos]] living forever.
+
+
+
+
+========================================
+FILE: misskey.md
+========================================
+
+# Misskey
+
+- [[go]] https://misskey.io
+  - [[interplanetary]] [[blogging]] [[platform]]
+- [[git]] https://github.com/syuilo/misskey
+
+
+
+
+
+========================================
+FILE: monday.md
+========================================
+
+# Monday
+
+- A [[day]] of the [[week]].
+- [[pull]] [[mondays]]
+- On Mondays I [[work]] for [[google]].
+
+
+
+
+
+========================================
+FILE: monocle.md
+========================================
+
+- an [[app]]
+	- [[linus lee]]
+	- reminded me of [[promnesia]] when I learnt of it
+	- [[git]] https://github.com/thesephist/monocle
+	- [[go]] [[git]]
+
+
+
+========================================
+FILE: mycorrhiza.md
+========================================
+
+# mycorrhiza
+
+- a [[system]].
+  - [[symbiotic]] association between a [[fungus]] and a [[plant]].
+- a [[project]].
+  - [[wiki]]
+  - [[bouncepaw]]
+  - #github https://github.com/bouncepaw/mycorrhiza
+  - #git https://git.sr.ht/~bouncepaw/mycorrhiza
+  - #meta https://mycorrhiza.wiki/
+  - #metta TBD :)
+  - #go [[git]]
+
+
+
+========================================
+FILE: nodos.md
+========================================
+
+
+- [[en]] [[nodes]]
+
+
+========================================
+FILE: noocene.md
+========================================
+
+# noocene
+
+- a [[project]]
+  - by [[izzy swart]]
+  - [[go]] noocene.com
+  - [[git]] https://github.com/noocene
+  - [[pull]] [[vessels]] [[welkin]]
+
+
+
+
+
+========================================
+FILE: notsof.md
+========================================
+
+# Notsof
+
+- a [[book]]
+    - [[pull]] [[notes on the synthesis of form]]
+    - [[hypothesis]] https://anagora.org/go/notes-on-the-synthesis-of-form/hypothesis
+    - [[go]] [[hypothesis]]
+    - [[systems]], [[models]]
+
+See annotations/highlights in [[hypothesis]] above for inline commentary.
+
+## Introduction
+## Part One
+### Goodness of Fit
+
+- The ultimate [[object of design]] is [[form]].
+- [[form]] + [[context]] == [[ensemble]]
+- It is peculiar how much of the comments on [[ensembles]] apply to [[systems]] in general. This book so far often reads like [[christopher alexander]] has independently discovered principles in use in [[computer science]]; or, of course, perhaps [[computer science]] is just one possible take on the nature of [[complex systems]].
+  - I am curious to know if people in the reading group with different backgrounds to mine, but whose primary activity is also not [[architecture]], get similar impressions w.r.t. their disciplines.
+- The [[rightness of form]] depends on the degree to which a form fits an [[ensemble]] .
+- Ensembles can be decomposed into many (nested, overlapped) [[form-context boundaries]].
+  - But in any given analysis the boundary should probably be kept constant.
+- [[p19]] "The form is a part of the world over which we have control, and which we decide to shape while leaving the rest of the world as it is. The context is that part of the world which puts [[demands]] on this form; anything in the world that makes demands of the form is context. [[Fitness]] is a [[relation]] of [[mutual acceptability]] between these two. In a problem of design we want to satisfy the mutual demands which the two make on one another. We want to put the context and the form into [[effortless contact]] or [[frictionless coexistence]]."
+- [[p20]] interesting/surprising use of [[impossible]].
+- [[p21]] negative perception of fit, in the sense that we notice [[misfit]] and see its absence as [[fit]].
+- [[p24]] achieving good fit via neutralizing misfits
+  - [[simonpjw]] comment about misfits as beautiful
+- [[p25]] an exhaustive description of requirements for good fit probably includes the universe. This problem only seems tractable usually because of shared [[context]].
+- [[p27]] a procedure based on listing misfits "most likely to occur". See comment.
+
+### The Source of Good Fit
+
+- [[p32]] Who is [[macbirdy]]? I like their reading.
+- [[p33]] A lot of this chapter feels a bit problematic, outdated in its description of "unselfconscious cultures".
+- [[37]] [[macbirdy]] on a roll
+- [[meta]] my reading is turning more critical/nitpicky as I go through this chapter.
+
+### Meeting with the group
+- Andreas said that it was sometimes hard to remember 'design' meant architectural as the ties to graphic design were so solid
+- [[armengol]] primes and [[factoring]]
+
+### The Unselfconscious Process
+- I still find this 'unselfconscious' characterization problematic, but I'll let it go -- if I don't I won't get the point, probably.
+- I liked the [[slovakian shawls]] example.
+  - Recognizing and curbing bad mutations != ability to introduce good mutations.
+
+### The Selfconscious Process
+- [[samoa]]
+  - [[competition]] -> [[market dynamics]] -> [[specialization]] and development of [[individuality]]
+- local [[mutations]], [[reputation]]
+  - parallels with the development of [[authorship]] in art?
+- [[p62]] category trees
+  - We invent theories to alleviate the burden of freedom from tradition.
+
+## Part Two
+### The Program
+- [[set theory]]
+  - [[proper-subset]]
+- decomposing [[misfits]] ~ [[decomposing problems]]
+- thesis: for every problem there is one decomposition which is "specially proper" to it
+  - we call this the [[program]] for the problem G(M, I) where
+    - G = graph, [[topological 1-complex]]
+    - M = set of misfits, nodes
+    - L = set of interactions, links, edges
+
+### The Realization of the Program
+- Two phases:
+  - analysis, where the right design [[program]] is found
+    - a tree of sets of requirements / the previous graph
+  - synthesis, where the right [[form]] is derived from the program
+    - a tree of [[diagrams]]
+- examples of [[diagrams]]
+  - [[le corbusier]]'s [[ville radieuse]] is a diagram stemming from two requirements: high density and equal/max access to sunlight and air
+  - a [[sphere]], for the requirement to enclose a maximum volume within a surface
+  - engineer sketches, [[kekulé]]'s representation of benzene
+  - in general they:
+    - summarize  aspects of physical structure: a [[form diagram]]
+    - summarize functional properties or constraints: a [[requirement diagram]]
+    - just one or just the other isn't very useful; a good ("constructive") diagram has elements of both.
+- two ways to describe [[form]]:
+  - [[formal]], what it "is"
+  - [[functional]], what it "does"
+- a unified description is the abstract equivalent of a constructive diagram
+  - a constructive diagram can often *precede* the knowledge which explains its shape
+  - [[aside]]
+    - [[visual cortex]], [[eric weinstein]]
+- "the program is a hierarchy of the most significant subsets of M"
+  - this is looking more and more like a [[graph partitioning]] problem
+
+### Definitions
+- performance standards are based on scales that estimate fit/misfit in certain domains. quantifiable; miss the [[qualitative]].
+- we model problems with fit/misfit as booleans; although they might actually represent quantitative continuous variables plus a threshold, or qualitative opinions by people explicitly expressed
+  - fit = 0
+  - misfit = 1
+  - "Let us remind ourselves of the fundamental principle. Any state of affairs in the ensemble which derives from the interaction between form and context, and causes stress in the ensemble, is  a misfit."
+- [[misfit]] is left as a primitive notion (undefined)
+- [[domain]] is the totaility of possible forms within the cognitive reach of the designer
+- [[probabilities]] enter the stage! Finally. They seem to make sense in this context.
+  - as usual, when probabilities are independent all's nice and well.
+  - [[pearson correlation coefficient]] 
+  - some correlations between probabilities are intrinsic, some are circumstantial
+  - we call correlations [[causal]] when we understand the [rules](rules) that account for it; like e.g. thermodynamics as they affect materials
+- p111 [[correlation matrix]]
+  - helps us define L and thus settle on the G(M, L)
+- three formal properties of G(M, L)
+  - L describes all the interactions between variables there is. Because L is the set of two-variable correlations, M must be chosen so it's free from n-variable correlations with n > 2.
+    - superordinate concepts like "economics" and "acoustics" tend to be problematic here, and they should be seen as intermediate steps -- must be broken down
+  - the two-variable correlations must be small for any pair.
+  - p(xi = 0) should be the same for all i (?)
+    - but in the next sentence Alexander moves to "roughly the same in significance", which is both distinct than the previous and more reasonable IMHO.
+   
+### Solution
+- the tension between form-making (integration) and analysis (fragmentation) is resolved by "finding knots": problems are not homogeneous, they actually have some structure, so there are right ways to tackle them.
+  - reminds me of [[computational complexity]]
+- p124 well decomposed sets will tend to be densely connected internally but have few or no links (the latter usually being not achievable) between sets
+- "It is the culmination of the designer's task to make every diagram both a pattern and a unit. As a unit it will fit into the hierarchy of larger components that fall above it; as a [[pattern]] it will specify the hierarchy of  smaller com­ponents which it itself is made of."
+
+### Epilogue
+- "My main task has been to show that there is a deep and important underlying structural correspondence between the [[pattern]] of a problem and the process of designing a  physical [[form]] which answers that problem."
+
+
+========================================
+FILE: object of design.md
+========================================
+
+# object of design
+
+
+
+
+========================================
+FILE: open home.md
+========================================
+
+# Open Home
+
+- [[go]] [[git]]
+- https://twitter.com/sn_fk_n/status/1365386588436520968
+- Viewable to members of the [[fedstoa]] only for now as it undergoes a security review.
+  - [[git]] gitlab.com/flancian/open-home
+
+
+
+
+========================================
+FILE: openai.md
+========================================
+
+# OpenAI
+- Perhaps they could be interested in [[Go Links]] and the internet as a social knowledge graph?
+- https://twitter.com/Austen/status/1285012248469975040/photo/1
+
+
+
+
+========================================
+FILE: patterning.md
+========================================
+
+# patterning
+
+- a [[book club]]
+  - [[go]] https://lorand.earth/patterning/
+  - [[pull]] [[reading alexander]] [[christopher-alexander-reading-group]]
+  - [[git]] https://github.com/JonathanLorand/patterning
+  - [[stoa]] [[git]]
+  - [[pull]] [[notes on the synthesis of form]] [[notsof]]
+  - [[pull]] [[a pattern language]] [[apl]]
+  - [[pull]] [[the timeless way of building]] [[ttwob]]
+  - [[initial meeting]] in late [[february 2020]]
+  - [[personal]] and [[group]] note taking
+    - using [[hypothes.is]]
+    - using [[etherpad]]
+    - [[git stoa]]
+  - [[dropbox]] https://www.dropbox.com/sh/5rf0aq0hky456nz/AAAZi2LtJBWxHr7t-pFmuk-Pa?dl=0
+  
+ ## [[2021-08-01]]
+ - [[lorand]]
+   - tension between writing something understandable for everyone and going deep
+   - thing with the lightbulbs ended up attracting a lot of attention
+     - aside
+       - [[flancian]] it feels like a high dimensional celullar automata
+     - [[systems theory]], kept wondering about whether people knew about it
+   - the other "leg" is chapter 15, using feelings.
+   - ultimately would love to have some text that has a couple of the ideas that were interesting, drilling down on those.
+- [[simon]] 
+  - interaction between the environment and people
+  - there is something in the environment, in the object themselves, which encodes ways of behaviour
+  - [[ezra klein podcast]] and the extended mind
+  - you can divorce the form/pattern, reuse it in different ways
+  - a pattern language is a collection of forms
+  - extended mind -> a way of getting around the 'problem' of feeling
+  - in architecture we're always looking at plans
+    - you can take the form of a plan, take it into a different context and use it in a different way
+  - [[lorand]] love the list of paradoxes
+    - +1
+- when you went back to the toy model, did you understand it better?
+  - got incremental understanding
+  - didn't go all the way into convincing myself with the actual mathematical proof
+- [[flancian]] [[celullar automata]], [[game of life]]
+- [[lorand]] [[entropy and diversity]]
+- [[homeostasis]]
+  - [[flancian]] key word
+    - a failing proposition :)
+  - aided by [[modular approach]]
+  - [[simon]] top down and bottom up approaches, which seem to map to selfconscious and unselfconscious in [[notsof]]
+- [[simon]] often work with planning laws, which interact with data variables (traffic, rate of light, etc.). 
+  - there is also a decisive factor: the qualities you want in the building you are trying to build.
+  - [[flancian]] how do you think about the time variable in architecture? aging in buildings, entropy :)
+  - you begin a project with a long list of requirements that you have to meet -- but those are day one. unclear how they will evolve over the years.
+- [[modularity aids upgradability]] in information theory
+  - are building upgrades modular?
+  - [[simon]] 60s-70s: yes. but that failed :) see capsule hotel, which remained unchanged because people liked it how it was.
+  - but often it's the older building stock that is easiest to upgrade -- you can tear down walls and build new walls easily.
+  - are there typical reasons that projects fail?
+    - bad context: buildings placed in the wrong place/without the right support
+    - buildings that are built with a very specific use, e.g. a fashion center when the fashion industry is moving away
+    - hard to adapt office to residential and residential to office
+  - are there any projects that are designed to have a short timespan, or need continuous updating?
+    - classic project by [[alejandro aravena]]: https://www.archdaily.com/797779/half-a-house-builds-a-whole-community-elementals-controversial-social-housing 
+    - it's hard to know the needs of the future, so he built half a house and left the other half up to the user
+    - [[japanese]] architecture doesn't value longevity the same way
+- [[requirements elicitation]]
+- Q: would patterns of pattern connectivity be interesting?
+  - seems like something to keep in mind but it would quickly get too abstract?
+  - [[simon]] reminds me of the diagrams at the end of [[notsof]]
+
+ ## [[2021-07-11]]
+ - [[armengol]] [[lorand]] [[simon]] [[flancian]]
+	 - [[flancian]] proposal: meet a few more times but perhaps more spaced out?
+	 - [[simon]] sounds good. july works for me.
+	 - [[lorand]] summer sounds more certain than fall; unclear what commitments will be like in fall.
+	 - [[armengol]] uncertainty about august.
+		 - interested in summarizing the experience, some meta.
+	 - could explore:
+		 - writing something together/individually
+
+
+========================================
+FILE: paul bricman.md
+========================================
+
+- a [[person]]
+	- [[romanian]] [[netherlands]]
+	- [[machine learning]] [[cognitive enhancement]]
+	- [[go]] https://paulbricman.com/
+	- [[git]] https://github.com/paulbricman
+	- [[psionica]]
+	- [[beyond knowledge graphs]]
+  - #pull [[Straumli AI]] made me think of the [[Straumli Realm]].
+
+
+
+========================================
+FILE: photoprism.md
+========================================
+
+- a [[google photos]] [[alternative]]
+	- [[go]] [[git]]
+	- [[git]] https://github.com/photoprism/photoprism
+
+
+========================================
+FILE: pinafore.md
+========================================
+
+# Pinafore
+
+- My [[mastodon]] client of choice as of [[2021-01-22]].
+  - Better for writing [[threads]] than the default [[social.coop]] client.
+  - [[multi instance]].
+- [[go]] pinafore.social
+- [[git]] [[github]]
+  - [[github]] https://github.com/nolanlawson/pinafore
+  - [[js]] [[yarn]]
+  - runs on [[docker]]
+  - [[do]] contribute?
+    - better linkify
+    - [[wikilinks everywher
+    - e]]
+- [[shortcuts]] https://pinafore.social/statuses/105601294254332553
+- [[bmann]] https://talk.fission.codes/t/pinafore-a-svelte-pwa-client-for-mastodon/1417
+
+
+
+
+
+========================================
+FILE: pleco.md
+========================================
+
+# pleco
+
+- an [[app]]
+  - for [[beaker browser]]
+  - by [[benjamin herman]]
+  - [[git]] https://github.com/metanomial/pleco
+  - [[go]] [[git]]
+
+https://ctznry.com/ben@ctzn.one/ctzn.network/comment/ff080bca1bc8d4d0
+
+
+
+
+========================================
+FILE: pleroma.md
+========================================
+
+# Pleroma
+
+- A [[social platform]]
+  - [[go]] https://pleroma.social
+    - Uses [[activitypub]] like [[mastodon]].
+    - Considered [[lightweight]] in comparison to [[mastodon]].
+  - [[github]] https://github.com/Hostdon/pleroma
+  - [[git]] https://git.pleroma.social/pleroma/pleroma
+  - Written in [[elixir]].
+- A [[concept]]
+  - [[wp]] https://en.wikipedia.org/wiki/Pleroma
+  - "the totality of divine powers" in [[gnosticism]]
+
+
+
+
+
+========================================
+FILE: pr.md
+========================================
+
+# PR
+
+- A [[pull request]]. 
+  - A flow in which one person requests that a change present in a branch of a [[git]] repository is incorporated into another [[branch]], usually the [[main]] of some [[repository]]. 
+  - The usual way to contribute meaningful changes to projects in [[modern day open source]].
+  - A [[diff]].
+- A concept in the [[gitlab]]/[[github]] layer, not core to [[git]] proper. It usually involves a [[review flow]].
+
+
+
+
+========================================
+FILE: pratyush.md
+========================================
+
+- a [[person]].
+	- [[twitter]] https://twitter.com/pratyvsh
+	- [[git]] https://github.com/prathyvsh
+	- [[category theory]] [[computation]]
+	- [[push]] [[prabros]]
+		- [[prabrothers]]
+		- https://twitter.com/prathyvsh/status/1416517073572974599
+		- https://twitter.com/prathyvsh/status/1416521418200780800
+		- https://twitter.com/prathyvsh/status/1416522932294139904
+	- [[metathread]] https://twitter.com/prathyvsh/status/1288176143221350400 
+	- [[side a]] [[side b]] https://twitter.com/prathyvsh/status/1416521418200780800
+
+
+========================================
+FILE: proletarian.md
+========================================
+
+# Proletarian
+
+- One who has to [[work]] for [[basic sustenance]].
+
+
+
+
+
+========================================
+FILE: promnesia.md
+========================================
+
+# Promnesia
+
+- A [[tool]]
+  - or perhaps rather a [[collection]] of [[tools]]
+  - [[by]] [[karlicoss]]
+  - [[open source]]
+    - [[git]] https://github.com/karlicoss/promnesia
+    - [[firefox]] https://addons.mozilla.org/en-US/firefox/addon/promnesia/
+      - [[go]] [[firefox]]
+    - [[backend]] `pip3 install --user promnesia bs4 lxml mistletoe logzero`
+    - see also [[promnesia howto]]
+  - [[beepb00p]] https://beepb00p.xyz/promnesia.html#what_i_want
+    - nice [[exobrain]].
+
+
+
+
+========================================
+FILE: proper subset.md
+========================================
+
+# proper subset
+
+- S1 is a proper subset of S2 [[iif]] S2 has some items which aren't in S1. That is, they are not equal.
+
+
+
+========================================
+FILE: push an existing repository to a new remote.md
+========================================
+
+# push an existing repository to a new remote
+
+- first [[commit]]
+- then:
+
+```
+git remote add origin git@example.org:username/repo.git
+git branch -M main
+git push -u origin main
+```
+
+
+
+========================================
+FILE: rdflib.md
+========================================
+
+# rdflib
+
+- [[go]] [[git]]
+  - [[git]] https://github.com/RDFLib/rdflib
+
+
+
+
+========================================
+FILE: reading alexander.md
+========================================
+
+# Reading Alexander
+
+- a [[book club]]
+  - [[pull]] [[patterning]]
+
+## [[2021-05-26]]
+- I read what we agreed to read :)
+	- [[patterns]]
+	- [[pattern chosen]]
+- proposal: design a space following the example in the introductory material? 10-20 patterns combined.
+	- [[xxxv]] for example
+	- [[xxxviii]] for [[procedure]]
+	- [[code]] a generator?
+		- fit between patterns seems represented by recommended patterns at higher and lower level?
+	- [[armengol]] some problems perhaps
+		- we need to imagine a need for building something? what would be the context for the exercise?
+- [[andreas]]
+	- would probably recommend people just go to [[a pattern language]] directly, it seems to be self-contained
+	- did something with [[a pattern language]] ~1y ago
+	- it just seems like previous reading wouldn't help learning how to write your own patterns?
+		- [[jonathan]] what would you recommend?
+		- the ideological component sometimes doesn't resonate; the patterns themselves, which can be used and changed regardless of ideology, seem more generally useful.
+	- [[simon]] this is framed as one big project (the three books). what's interesting: there is some goal of trying to provide a set of tools to shape one's environment.
+		- [[notsof]] could almost be computed by a machine
+		- whereas [[apl]] is very much grounded
+			- [[abstract]] -> [[concrete]]
+		- topic: what is [[timeless]] and [[beautiful]]. how the environment shapes us as much as we shape the environment.
+		- the weakest patterns are the strongly [[utilitarian]]. the stronger ones are "spiritual"
+		- some contradictions between patterns
+			- he loves dense cities and lively areas
+			- but he wants height limits and only building on 50% of the area
+		- units per building
+		- in a contemporary context a lot of the patterns are very difficult to achieve
+		- aside: would be interesting to model fit/misfit between patterns even as we swap in/out some of them
+	- pattern: [[filtered light]]
+		- mentions how the perception of light gets softened if it's filtered; less high contrast, which is a nice quality. for living spaces softness is nice.
+		- film makers think it makes objects more lively: e.g. leaves casting moving shadows.
+		- third reason: speculative. stimulates us biologically (?)
+			- could be socialized aesthetics instead.
+		- when planning windows, this pattern is recommended.
+- [[armengol]]
+	- pattern: [[window place]]
+		- thought about this pattern within his home
+		- previous place had an obviously amazing view -- you could see the [[sagrada familia]]
+		- [[zen view]] is mentioned as related to this pattern, though, and it relates with something interesting that happened in the old place. the view was [[normalized]]. it became part of the background; like alexander says.
+		- now have to go to a specific place to look at a view now.
+	- [[q]] when trying to differentiate between the list of patterns 
+- [[jonathan]]
+	- [[four stories limit]]
+		- ideology aside: main thing that bothered me in general. trying to justify things as [[natural]].
+		- "want to find a pattern that looks ridiculous"
+		- in zurich: like [[hardau]] towers 
+		- some justification for this pattern has to do with mental health issues
+		- people who live in high rises are less likely to go out into the world
+			- [[sky bridges]]
+		- feeling connected to the city life
+		- [[andreas]] it seems very opinionated, it depends on one's preferences. you might not care about the misfits and have fits with your lifestyle.
+		- [[simon]] four floors doesn't seem high density enough for city life. attitude towards skyrises changes a lot across cultures. singapore for example has a very different disposition towards them.
+			- most sustainable density is about six floors.
+			- the most antisocial aspect of high rises is to have parking-lot-to-living-floor.
+			- isolation in high rises is a big problem though.
+		- [[andreas]] there is a huge grey area between four floors and high rises
+			- zurich proposed having public rooftops and bike lanes between them
+- [[simon]]
+	- [[bus stop]]
+		- liked: both describing a set of objects and activity/life that emerges around those objects
+		- "if the knit together" the system is a good one
+		- view things like traffic lights as items of public living
+- [[alice]]
+	- [[interior windows]]
+	- [[pedestrian street]]
+		- social glue in society
+		- streets that are "too wide" are antisocial -- but of course nowadays with covid-19 that might be outdated
+- [[eduardo]]
+	- [[independent regions]]
+
+## [[2021-05-12]]
+- [[ttwob]]
+- [[lorand]]
+	- found himself reading in a less analytical way
+	- [[armengol]]
+		- the structure itself seems to encourage this
+		- "I need to read it fast" yields a different kind of reading too, perhaps
+	- [[lorand]] some pieces seem to be a bit rough. but interesting questions
+		- the observation that people feel calm in nature -> homogeneity in aesthetics
+		- ad hoc/rushed at the end: processes for using patterns for differentiation of space. differentiation vs accumulation
+		- some vagueness
+	- a bit tragic perhaps: towards the end, neighbors working together to make their houses beautiful. seemed a bit utopian in a modernist sense.
+- a [[pattern]] has a [[context]], a [[problem]] and a [[solution]] that resolves the set of conflicting forces.
+- embodiment as crucial vs the software patterns
+- [[kowloon walled city]]
+- [[tokyo 1960]]
+- [[wabi sabi]]
+- [[lorand]]
+	- 
+
+## [[april]]
+- [[notsof]]
+- [[ttwob]]
+  
+## [[2021-03-17]]
+- [[ttwob]]
+
+## [[2021-02-28]]
+- [[participants]]
+  - [[jonathan]]
+  - [[alice]]
+    - [[architecture]]!
+  - [[andreas]]
+    - [[mtr]] [[graphic design]]
+    - [[urban spaces]]
+  - [[simon]]
+    - [[architecture]]!
+    - [[netherlands]]
+  - [[ekin]]
+    - [[mtr]] [[design]] [[visual arts]]
+    - interested in [[mapping]]!
+  - [[daniel]]
+    - [[graphic design]], [[artistic practice]]
+    - designed [[physical spaces]]
+    - interested in translation between disciplines
+  - [[eduardo]]
+    - [[note taking]] ok?
+      - yes for now :)
+    - background: comp sci + linguistics
+    - cooperative/group projects, mapping, modelling and abstraction, translation
+  - [[katherine]]
+    - [[artist]] in [[london]]
+
+
+
+
+========================================
+FILE: red alone.md
+========================================
+
+- #push [[red gardland]]
+  - an [[album]].
+    - One of my favorites.
+    - #go https://music.youtube.com/playlist?list=OLAK5uy_nMEz6oM8v_jTI0qq9u8ZCY5L8DJU7aLCE
+
+
+
+========================================
+FILE: refusing to merge unrelated histories.md
+========================================
+
+- an [[error]].
+  - in [[git]]
+  - [[fatal]]
+
+I get this a lot when trying to merge repositories with different histories -- which of course shouldn't happen often, but does happen to me when I'm trying to [[bootstrap]] a new repository.
+
+Case in point: writing the README first when creating the repository in [[gitlab]] or [[github]] makes sense to me, as it's checking a checkbox and editing. And uploading a set of bootstrapping files then makes sense as a second step to me -- but that is ideally done right at the place files live, and once there it's easy to just say `git init`. But then if you want to merge the two you get into problems as [[git]] doesn't merge unrelated histories by default.
+
+- #go https://stackoverflow.com/questions/39761024/refusing-to-merge-unrelated-histories-failure-while-pulling-to-recovered-repos/39783462#39783462
+
+This [[stack overflow]] answer contains the flag you need: `--allow-unrelated-histories`. I guess [[git]] doesn't include it in the error message to prevent people from just tacking it on without knowing what they are doing (just to make the error go away) and having a mess as a result. It only makes sense if not surprising: that is, if you are trying to merge two unrelated repositories.
+
+```
+flancian@paramita:~/.local/share/chezmoi$ git pull origin main --allow-unrelated-histories
+From gitlab.com:flancian/flancian
+ * branch            main       -> FETCH_HEAD
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Merge made by the 'recursive' strategy.
+ README.md                 | 35 +++++++++++++++++++++++++++++++++++
+ social/mastodon/README.md |  1 +
+ social/twitter/README.md  |  1 +
+ social/twitter/apikey.asc | 21 +++++++++++++++++++++
+ 4 files changed, 58 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 social/mastodon/README.md
+ create mode 100644 social/twitter/README.md
+ create mode 100644 social/twitter/apikey.asc
+
+flancian@paramita:~/.local/share/chezmoi$ git push --set-upstream origin main
+Enumerating objects: 21, done.
+Counting objects: 100% (21/21), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (18/18), done.
+Writing objects: 100% (20/20), 15.27 KiB | 7.64 MiB/s, done.
+Total 20 (delta 2), reused 0 (delta 0), pack-reused 0
+To gitlab.com:flancian/flancian.git
+   a0c4798..230c24d  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+```
+
+
+
+========================================
+FILE: removing google as a spof.md
+========================================
+
+# Removing Google as a Spof
+
+- removing [[google]] as a [[single point of failure]]
+- [[go]] https://jakewharton.com/removing-google-as-a-single-point-of-failure/
+
+
+
+
+
+========================================
+FILE: restart pipewire.md
+========================================
+
+- a [[command]].
+  - This has worked around all issues I've hit with [[pipewire so far]]; as of [[2022-06]] I probably use it about once a month.
+  - `systemctl --user restart pipewire pipewire-pulse`
+
+
+
+========================================
+FILE: riccardo ferretti.md
+========================================
+
+# Riccardo Ferretti
+
+- a [[person]]
+- [[github]] https://github.com/riccardoferretti
+- [[foam]] [[project lead]]
+
+
+
+
+
+
+
+========================================
+FILE: saer tesis.md
+========================================
+
+- #go https://docs.google.com/document/u/1/d/1qYDG6K8MV-2XlUAnB5LARMu3PgNF_3T4mPOrdEOUrbY/edit?usp=sharing
+
+
+
+========================================
+FILE: screensharing.md
+========================================
+
+- In [[wayland]] I had to do this to make it work in [[sila]]:
+  - `XDG_CURRENT_DESKTOP="KDE" /usr/libexec/xdg-desktop-portal-wlr --replace &`
+    - unsure if the XDG bit does anything, I copied/pasted that from an invocation to non-wlr portal which I was using to fix filepicker issues but was not sufficient to make screensharing to work.
+
+
+
+========================================
+FILE: searx.md
+========================================
+
+- a [[search engine]]
+	- [[open source]] [[distributed]]
+	- [[project]] https://searx.me
+	- [[git]] https://github.com/searx/searx
+	- [[go]] https://searx.bar/
+		- this is just one of many instances
+
+
+========================================
+FILE: simulate me.md
+========================================
+
+- #pull [[flancian]]
+- #go [[flancian/git]]
+
+
+
+========================================
+FILE: site reliability engineer.md
+========================================
+
+# Site Reliability Engineer
+
+- [[pull]] [[site reliability engineering]]
+- My [[job]].
+- [[see also]] [[devops]]
+
+
+
+
+
+========================================
+FILE: site reliability engineering.md
+========================================
+
+# Site Reliability Engineering
+
+- [[go]] https://en.wikipedia.org/wiki/Site_reliability_engineering
+  - What I do for a living; I'm an [[sre]].
+  - An SRE focuses on making complex systems reliable and scalable (to meet an [[slo]]).
+  - An SRE is usually proficient in incident response and troubleshooting of distributed systems.
+- [[vijay shankar v]] saw the discipline as related to the [[edge of chaos]]: https://twitter.com/vijayshankarv/status/1347667088593268738
+
+
+
+
+
+========================================
+FILE: sje.md
+========================================
+
+- #pull [[samuel klein]] [[jerry michalski]] [[eduardo ivanec]]
+
+
+========================================
+FILE: snapshot.md
+========================================
+
+# snapshot
+
+- an explicit representation of a point in time
+- a [[tool]].
+  - capturing and annotating [[screenshots]] to begin with.
+  - [[pull]] [[project snapshot]]
+    - now actually exists, although in very lightweight manner
+  - [[git]] https://gitlab.com/flancian
+    - actually just uses [[tabfs]] for the interesting part, that of interacting with your browser
+    - [[go]] [[git]]
+  - https://twitter.com/flancian/status/1379795795973640197
+
+
+
+========================================
+FILE: snapshots.md
+========================================
+
+# snapshots
+
+- a [[repository]].
+  - with my [[browser history]] as extracted from browsers at a point in time with [[tabfs]]
+  - and a sequence of annotated [[screenshots]]
+    - all in the [[Agora of Flancia]] by definition.
+  - #git https://github.com/flancian/snapshots
+  - #pull [[chezmoi]]
+  - #go [[git]]
+- a [[list]].
+  - of items implementing the #snapshot [[pattern]]
+
+
+
+
+
+========================================
+FILE: solid.md
+========================================
+
+# Solid
+
+- a [[project]].
+  - [[goal]] [[web]] [[decentralization]] 
+  - by [[tim berners lee]]
+  - [[go]] https://solidproject.org/
+  - [[wikipedia]] https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)
+- a [[javascript library]]
+  - [[git]] https://github.com/ryansolid/solid
+
+
+
+
+========================================
+FILE: spritzle.md
+========================================
+
+# Spritzle
+
+- a [[bittorrent]] [[client]]
+  - [[simple]] [[rest]]
+  - by [[andrew resch]]
+- [[go]] https://github.com/spritzle/spritzle
+- [[git]] https://github.com/spritzle/spritzle
+- It has good potential for [[agora integration]].
+
+
+
+
+
+
+========================================
+FILE: sqlite code of ethics.md
+========================================
+
+- [[sqlite]] [[code of ethics]]:
+  - #go https://www3.sqlite.org/codeofethics.html
+
+
+
+========================================
+FILE: sqlite.md
+========================================
+
+- a [[service]].
+  - [[database]].
+  - #go https://sqlite.org/codeofethics.html
+  - [[code of ethics]] https://sqlite.org/codeofethics.html
+    - #pull [[benedictine rule]]
+
+
+
+========================================
+FILE: sre.md
+========================================
+
+# SRE
+
+- [[pull]] [[site reliability engineering]] [[site reliability engineer]]
+
+
+
+
+
+========================================
+FILE: standards positions.md
+========================================
+
+- a [[list]]
+	- [[mozilla]]
+	    - [[go]] https://mozilla.github.io/standards-positions/
+		- [[git]] https://github.com/mozilla/standards-positions
+
+
+========================================
+FILE: state of higher order.md
+========================================
+
+- can usually be achieved starting from a state of ever increasing [[entropy]] by the application of [[work]].
+
+
+
+========================================
+FILE: straumli ai.md
+========================================
+
+- #go https://straumli.ai/
+
+
+
+========================================
+FILE: sundar pichai.md
+========================================
+
+- a [[person]].
+	- [[indian]] 
+	- [[ceo]] of [[google]].
+	- [[pull]] [[google]]
+
+
+========================================
+FILE: tabfs.md
+========================================
+
+# Tabfs
+
+- a [[tool]]
+  - a [[fuse]] [[filesystem]]
+  - Lets you mount your browser tabs (!).
+  - [[by]] [[omar rizwan]]
+  - [[site]] https://omar.website/tabfs/
+    - [[go]] [[site]]
+  - [[git]] https://github.com/osnr/TabFS
+    - [[bugs]] https://github.com/osnr/TabFS/issues
+    - [[bug]] https://omar.website/tabfs/#3-ready
+
+
+
+
+
+========================================
+FILE: tech worker.md
+========================================
+
+- a [[class]].
+	- #push [[flancia rpg]]
+		- I'm a [[tech worker]] from [[argentina]] living in [[switzerland]].
+			- I work for [[google]] as an [[sre]].
+			- I am [[privileged]] because of it.
+			- Flancia started as a way to think about my [[privilege]] and try to use it for [[good]].
+
+
+========================================
+FILE: telling stories.md
+========================================
+
+I learnt something about what it takes to tell a [[story]] yesterday evening as I was sitting in a circle with old and new friends, although I only realized it twenty hours later.
+
+A man named [[Jhanu]] was trying to narrate a past event and he kept getting interrupted. Attention from the group kept shifting, either purposefully (as a jest) or due to the sheer chaos that tends to arise in any human group of a certain size (in particular when alcohol or other intoxicating drugs are involved); but he kept his focus (or regained it when it was lost), did his best, and was able to tell his tale to the end.
+
+In the moment I didn't think much of it (although I was rooting for him), but now in retrospect it strikes me as a hard task of uncertain payoff; and indeed, from this group of ten, only he told a tale. With a bit of [[esprit de l'escalier]] (sp?) I think now of the tales I could have told, but didn't; and the more uncertain tales that I will never know that lied in others.
+
+If I had to choose one tale to tell, I'd choose two instead, and let you [[take your pick]].
+
+
+
+========================================
+FILE: the architecture of markets.md
+========================================
+
+# The Architecture of Markets
+
+- [[architecture]] of [[markets]]
+- [[book]]
+  - [[by]] [[neil fligstein]]
+  - [[2001]]
+
+
+
+
+
+========================================
+FILE: the architecture of open source applications.md
+========================================
+
+# the architecture of open source applications
+
+- the [[architecture]] of [[open source]] [[applications]]
+- [[pull]] [[aosabook]]
+- [[go]] https://aosabook.org/en/index.html
+- [[twitter]] twitter.com/aosabook
+
+
+
+
+
+========================================
+FILE: the interlace.md
+========================================
+
+- a [[project]]
+	- by [[metasj]]
+	- [[git]] https://github.com/the-interlace/
+		- [[go]] [[git]] 
+	- [[notes]] https://github.com/the-interlace/notes
+	- [[chat]] https://interlace.zulipchat.com/#
+	- [[pull]] [[interlay]]
+
+
+========================================
+FILE: the on-line encyclopedia of integer sequences.md
+========================================
+
+- a [[site]].
+  - #go https://oeis.org
+  - e.g.
+    - [[mersenne numbers]] https://oeis.org/A000225
+    - [[mersenne primes]] https://oeis.org/A001348
+    - [[hex numbers]] https://oeis.org/search?q=1%2C7%2C19%2C37%2C61%2C91
+    - [[hexagonal numbers]] https://oeis.org/A000384
+
+
+
+========================================
+FILE: the time-block planner.md
+========================================
+
+- by [[cal newport]]
+
+
+========================================
+FILE: thread viewer.md
+========================================
+
+- an [[app]]
+	- [[doc]] http://this.how/threadviewer/
+	- by [[dave winer]]
+
+
+========================================
+FILE: three weeks in sri lanka.md
+========================================
+
+- #push [[trip to x]]
+  - an [[itinerary]].
+  - [[colombo]] [[sigiriya]] [[polonnaruwa]] [[dambulla]] [[kandy]] [[nuwara eliya]] [[horton plains]] [[ella]] [[yala]] [[mirissa]] [[galle]] [[unawatuna]] [[bentota]] [[colombo]]
+
+
+
+========================================
+FILE: tiddlywiki.md
+========================================
+
+# tiddlywiki
+
+- a [[wiki]]
+  - [[single file]]
+  - one of the OGs in the [[tools for thought]] space.
+  - by [[jeremy ruston]]
+  - [[go]] https://tiddlywiki.com
+  - [[git]] https://github.com/Jermolene/TiddlyWiki5
+    - > Welcome to TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation.
+    - [[gitter]] https://gitter.im/TiddlyWiki/public
+    - [[discord]] https://discord.gg/HFFZVQ8
+  - https://twitter.com/flancian/status/1454464250555023368
+  - [[node server]]
+  - [[tiddlywiki markdown]]
+  - [[pipe alises]] == [[pipe links]]
+    - [[foo|bar]]
+      - https://twitter.com/TiddlyWiki/status/1483764445063139328
+
+
+
+========================================
+FILE: tindallgrams.md
+========================================
+
+- [[memorandums]]
+  - by [[Bill Tindall]]
+  - #go https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html
+
+
+
+========================================
+FILE: tools for thought interchange.md
+========================================
+
+- an [[event]]
+	- [[twitter]] #toolsforthought
+	- [[pull]] [[tools for thought]]
+		- also known as [[tft]]
+	- [[session 1]] https://lu.ma/ck0cke0x
+		- in [[webinar mode]]
+	- [[git]] https://github.com/TFTInterchange 
+	
+https://twitter.com/flancian/status/1397951325875412993
+https://twitter.com/bmann/status/1409906529629708292
+
+
+========================================
+FILE: tooty.md
+========================================
+
+- a [[mastodon client]]
+	- written in [[elm]]
+	- [[go]] https://n1k0.github.io/tooty/
+	- [[git]] https://github.com/n1k0/tooty
+
+
+========================================
+FILE: track.md
+========================================
+
+
+- a [[tool]]
+  - by [[armengol]]
+  - [[git]] https://github.com/danielarmengolaltayo/track
+
+
+========================================
+FILE: treedoc.md
+========================================
+
+# treedoc
+
+- an [[abstraction]] for [[tree-structured file formats]]
+  - [[go]] [[git]]
+  - [[git]] https://github.com/tommyod/treedoc
+    - [[json]]
+    - [[yaml]]
+    - [[xml]]
+- distinct from [[tree notation]]
+
+
+
+
+
+========================================
+FILE: tridactyl.md
+========================================
+
+# tridactyl
+
+- a [[web extension]]
+    - [[go]] [[git]]
+    - [[git]] https://github.com/tridactyl/tridactyl
+
+
+
+
+========================================
+FILE: trip to japan.md
+========================================
+
+- [[October 2023]]!
+  - [[23]]: We arrived in [[Tokyo]] as the sun was setting after a long but pleasant journey; we had a short layover in [[Hong Kong]]. We stayed in [[Shinjuku]], had sushi around midnight in a place that closes at 5am (!) and is also good.
+  - [[24]]: Shibuya, then Ginza. Had curry in [[Shinjuku]].
+  - [[25]]: Asakusa, Akihabara, then went up to a very tall building. Had sub-par ramen in Asakusa as our first choice was full.
+  - [[26]]: Took the train to Hakone. We stayed in a beautiful old school hotel, [[Fujiya]]. We went to the [[Onsen]] both days.
+  - [[27]]: Took the bus to the lake and walked alongside it. We visited a [[Shinto]] shrine and had dinner next to the train station.
+  - [[28]]: Travelled to Kyoto in the [[Shinkansen]]. We went to the park at night. Had conveyor belt sushi.
+  - [[29]]: Went to the Shinto shrine up at the top of a local mountain. Had [[Okonomiyaki]].
+  - [[30]]: Bought tea, visited the gardens of the emperor's palace. Then wandered in a relatively dead neighborhood. Then went to a Buddhist temple that was opened by night and visited its bamboo grove.
+  - [[31]]: Museum day -- visited three museums in Kyoto. Then took the metro to Osaka. Had [[Takoyaki]], then ended the day (night) in a very packed (due to Halloween) [[Dotonbori]].
+- [[November 2023]]!
+  - [[1]]: Walked in Osaka. Had a very nice pastry. Then an interesting experience in a grilling place.
+  - [[2]]: Took the [[Shinkansen]] to Tokyo. Went to [[Mori Museum]] and the [[Google]] office in [[Roppongi]].
+  - [[3]]: Tokyo museum day on culture day (so they were all free). Went to the national museum(s) in [[Ueno]]. [[Ueno park]] with its beautiful lotus-filled lake.
+  - [[4]]: Last day in Tokyo and Japan. [[Meguro]], then [[Hajuku]] (check spelling?). Had vegetarian ramen and gyoza.
+  - [[5]]: Woke up early for our flight to [[Colombo]].
+
+
+
+========================================
+FILE: trustlamp.md
+========================================
+
+# Trustlamp
+
+- [[project]] 
+  - [[by]] [[sandro hawke]]
+- [[bugs]] https://github.com/sandhawke/trustlamp/issues
+- [[git]] https://github.com/sandhawke/trustlamp
+- [[go]] [[git]]
+
+
+
+
+
+========================================
+FILE: tuesday.md
+========================================
+
+# Tuesday
+
+- A [[day]] of the [[week]].
+- [[pull]] [[tuesdays]]
+- On Tuesdays I [[work]] for [[google]].
+
+
+
+
+
+========================================
+FILE: twitter analytics.md
+========================================
+
+# twitter analytics
+
+
+
+
+========================================
+FILE: twitter bridge.md
+========================================
+
+- [[git]] https://gitlab.com/fedstoa/twitter-bridge
+	- [[go]] [[git]]
+
+
+========================================
+FILE: unigraph.md
+========================================
+
+
+- a [[tool]]
+	- [[graph database]] [[knowledge engine]]
+	- by [[sophia xu]]
+	- [[git]] https://github.com/unigraph-dev/unigraph-dev
+		- [[go]] [[git]]
+		- [[typescript]]
+
+
+========================================
+FILE: vault.md
+========================================
+
+
+- How to back up your [[obsidian]] vault to
+	- [[git]]: https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+		- [[go]] [[git]]
+	- then install the [[obsidian git]] extension, enable it (once out of the user extensions search dialog) and go to its settings to enable auto-backup every minute.
+
+
+========================================
+FILE: vijay shankar v.md
+========================================
+
+# Vijay Shankar V
+
+- A [[person]].
+- [[twitter]] twitter.com/vijayshankarv
+  - "[[Curious]] about a bunch of things. Ignorant about a lot of things. On twitter to [[learn]] from other curious folks."
+- Interested in [[sre]]: https://twitter.com/vijayshankarv/status/1347658306958094336
+  - Told me about [[edge of chaos]].
+
+
+
+
+
+========================================
+FILE: visual cortex.md
+========================================
+
+# visual cortex
+
+- https://twitter.com/flancian/status/1421530344621318144
+
+
+
+
+
+========================================
+FILE: wayland.md
+========================================
+
+# wayland
+
+- a [[protocol]]
+  - [[git]] https://github.com/wayland-project/wayland
+    - [[go]] [[git]]
+
+
+
+
+========================================
+FILE: web ext.md
+========================================
+
+- a [[cli]]
+	- to [[build]], [[run]], [[test]] [[web extensions]]
+	- [[git]] https://github.com/mozilla/web-ext
+		- [[go]] [[git]]
+
+
+========================================
+FILE: welkin core.md
+========================================
+
+# welkin core
+
+- part of [[welkin]]
+- https://social.coop/web/statuses/105991635577670532
+
+
+
+
+
+========================================
+FILE: welkin.md
+========================================
+
+# welkin
+
+- a [[programming language]]
+  - [[pull]] [[welkin core]]
+  - https://social.coop/web/statuses/105991618587620996
+  - [[go]]] [[git]]
+  - [[git]] https://github.com/noocene/welkin-core
+
+
+
+
+
+========================================
+FILE: work-work.md
+========================================
+
+- I sometimes say [[work work]] or [[work-work]] to refer to my [[day job]], which as of the time of writing (2024-11) is as a [[Site Reliability Engineer]] at [[Google]]
+
+
+========================================
+FILE: work.md
+========================================
+
+# Work
+- an [[action]].
+	- [[What we do for a living]].
+		- #pull [[job]]
+		- I am an [[sre]] at [[Google]].
+	- I've worked [[full time]] for the last 10 years or so. As of [[2021-01-10]] I'm moving to [[80% time]] as an experiment.
+		- I'm taking [[wednesdays]] off.
+		- Update, [[2022]]: I try to take > 50% of all [[wednesdays]] off, usually I find it hard to keep up with work while taking all of them.
+		- I do it using always just [[vacation time]] or [[occ time]].
+		- I don't take many long holidays so all in all it is unclear whether this is a deviation from [[full time]]; it depends on your definition.
+
+
+========================================
+FILE: wptools.md
+========================================
+
+# Wptools
+
+- [[go]] [[git]]
+- [[git]] https://github.com/siznax/wptools
+
+
+
+
+
+========================================
+FILE: x l.md
+========================================
+
+- a [[person]].
+	- [[googler]]
+
+
+========================================
+FILE: yt-dlp.md
+========================================
+
+# yt-dlp
+
+- a [[tool]]
+  - an up to date [[fork]] of [[youtube downloader]]
+  - [[git]] https://github.com/yt-dlp/yt-dlp
+    - [[go]] [[git]]
+    - `python3 -m pip install -U yt-dlp`
+
+
+

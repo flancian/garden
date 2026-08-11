@@ -1,0 +1,1821 @@
+
+
+========================================
+FILE: 17.md
+========================================
+
+- a [[number]].
+  - #pull [[maitreya]]
+- a [[document]].
+  - #go https://docs.google.com/document/d/1kM6ZjIhqVgobJNAUldqqvGABs9pNovQ8vRGpa9ij120/edit?tab=t.0
+
+
+
+========================================
+FILE: 476.md
+========================================
+
+- One [[Maitreya]] and four [[Avalokiteshvara]] :)
+
+
+
+========================================
+FILE: 8bitdo retro keyboard.md
+========================================
+
+- I like it a lot, although updating firmware (for solving bluetooth connectivity issues, thankfully relatively optional as it has other connectivity options) is a bit of a mess.
+  - #go https://ladis.cloud/blog/posts/firmware-update-8bitdo.html
+    - Got me a firmware file, but unfortunately [[fwupdmgr]] doesn't really support the keyboard.
+    - Device Type is 61 FWIW.
+
+
+========================================
+FILE: Avalokiteshvara somos nosotros.md
+========================================
+
+Y [[Maitreya]] serán nuestros hijos, nuestros [[amigos]]!
+
+
+
+========================================
+FILE: BLDGBLOG.md
+========================================
+
+- a [[blog]].
+  - #architecture
+  - #go https://www.bldgblog.com/
+  
+
+
+========================================
+FILE: Burn Kindly.md
+========================================
+
+- [[I will do what I can if I have to]]!
+
+
+
+========================================
+FILE: Burup Maitreyas.md
+========================================
+
+- [[391]] = [[17]] * [[23]]
+  - I did this calculation today and I found it pleasing.
+  - In this context Burup made me think of [[beaucoup]], which is a word my grandmother used
+  - #push [[Burup]]
+    - [[Tara]] Burup]]
+    - [[Taraburup]]
+
+
+
+========================================
+FILE: Dharma gates.md
+========================================
+
+- [[dharma]] gates
+	- [[bodhisattva vow]]
+-
+
+
+========================================
+FILE: Gracias a Buda.md
+========================================
+
+- Gracias, Buda.
+  - Gracias por encontrar el [[Dharma]].
+  - Gracias por compartirlo.
+  - Gracias por enseñarle al universo tu [[naturaleza]].
+  - Gracias por las [[4 nobles verdades]].
+  - Gracias por los [[8 aspectos del camino]].
+    - Que son [[7]], son [[10]], son [[17]], son [[37]], son infinitos.
+
+
+
+========================================
+FILE: I will do what I can if I have to.md
+========================================
+
+- For the benefit of all being, hopefully
+  - Meaning [[truly]] with hope
+
+
+
+========================================
+FILE: Ksitigarbha.md
+========================================
+
+- #go https://en.wikipedia.org/wiki/K%E1%B9%A3itigarbha
+- #pull [[Jizo]] in [[Japanese]].
+
+
+
+========================================
+FILE: Las Jaras.md
+========================================
+
+Llevo en mi carcaj
+
+Tres jaras
+
+Las jaras,
+    qué jaras?
+
+Las de [[Avalokiteshvara]]!
+
+--
+
+[[Las Jaras]], que jaras?
+
+- Las tiradas con [[recta intención]].
+  - Las de [[Avalokiteshvara]]
+  - Las de [[Tara]]
+  - Las de [[Maitreya]]!
+
+(Las de [[Lady Burup]] :))
+
+--
+
+O what if we could be
+[[Straight as an arrow]]
+
+Like an arrow
+ever bending
+
+--
+
+Como una jara
+doblando
+
+--
+
+Als einer Pfeil
+immer wenden (oder drehen?)
+
+
+
+========================================
+FILE: Maitreya.md
+========================================
+
+- #push [[Maitreya AI]]
+  - Please take no offense in the following; I identify as a [[Buddhist]] and I did this with good intentions :)
+    - It is an [[experiment]] that I hope we can improve on.
+    - #go https://chat.openai.com/g/g-mQEYv3PwC-maitreya
+
+
+
+========================================
+FILE: Manjushri.md
+========================================
+
+- a [[Bodhisatta]].
+
+--
+
+Manjushri says: I will [[cut you, ignorance].
+
+
+========================================
+FILE: Media Infra Summit.md
+========================================
+
+- an [[event]].
+  - [[April 2023]]
+
+
+
+========================================
+FILE: Midi.md
+========================================
+
+- I've been working on a midi related project for some months and I think it's about to come to fruition :)
+  - `playmidi 2024-12-29T19:44:43+01:00-trim.mid 2024-08-27T00:00:52+02:00-trim.mid`
+
+
+
+========================================
+FILE: Open Letter to Jigme Rinpoche.md
+========================================
+
+- a [[letter]].
+    - I wrote on [[2024-09-05]] in the [[Agora of Flancia]] just before the the cycle of lectures by [[Jigme Rinpoche]] came to an end.
+    - #go https://docs.google.com/document/d/1OsfIa7voIXEh8PevwXM7MuM1gRwWhervBpfzPvak2jM/edit
+      - Is the Google document I printed.
+
+Dear [[Lama Jigme Rinpoche]],
+
+Thank you for your teaching and the light of your consciousness which you kindly share, for the [[Dharma]] as you communicated it to me and others live and in your books, and for your patience as you read this letter. Please take only the time you can afford to read this, I understand if you are busy.
+
+My name is Eduardo Ivanec and I am a householder who has been trying to follow the Bodhisattva path for some years. By trade I am a Site Reliability Engineer, meaning I like and do well with computers, but I am also a writer in my free time. I am originally from Argentina, and have been living and working in Switzerland for ten years, and practicing Buddhism with a daily meditation practice for nearly five. The cycle of talks graciously hosted by [[Dhagpo Männedorf]] was the first opportunity I took to attend a Dharma event locally, and the first time I attended any event linked to your tradition. I very much appreciated receiving your teachings and will try to use what I have learned for the benefit of all beings.
+
+As some of my fellow practitioners could have noticed, I was unable to recite the mantras of your tradition due to lack of familiarity, although I am happy to report I have been doing a form of [[Chenrezig]] practice for years without calling it as such, usually chanting the name of [[Avalokiteshvara]] and trying to visualize and embody their boundless compassion. I did only half knowing it might be standard practice with my day to day practice generally guided by the Nikayas, the Dalai Lama and others teaching within Theravada and Mahayana. Before and after I listened to your lovely voices, if I understand correctly vowing to raise Bodhicitta, practice the Brahmaviharas and embody Chenrezig, I recited some from my tradition. I intend to translate your verses and study them. During my practice, I usually invoke the names and qualities of [[Avalokiteshvara]], [[Tara]] and [[Maitreya]].
+
+I have been reading your book and researching the [[Karma Kagyu]] school and the [[Karmapa]]. I find it inspiring how the Karmapa is engaged in vegetarianism and environmentalism. I am interested also in learning more about the efforts of [[Shamar Rinpoche]] in the field of [[Buddhism and democracy]], which is one of my greatest interests.
+
+I have some questions that arose during the cycle of talks and I wanted to take the opportunity to ask, only if you or someone in your organization have the time to entertain them (no problem if not, of course):
+
+- During the Dharma talks, you gave the example of visiting a market to notice the suffering of living beings and practice compassion. When doing so, how can one maximize the chances of practicing skilfull/right action, given there are many possible ways to try to help, and the world is so complex and inter-dependent? For example one could try to free all animals in the market; or convince the traders to seek other professions; or go home and join organizations for the welfare of animals, then dedicate a significant part of one's efforts to them. How can one try to make the right choice, when there are so many options and a matching opportunity cost?
+- Do you know the work of Monk Taixu (1890-1947), in particular as it relates to the forming of great groups of Bodhisattavas to try to improve the world in a coordinated way and achieve a Pure Land in the Human Realm?
+- Are there any communities for Bodhisattvas that you could recommend interested practitioners join, in particular maybe online in nature? I ask this because I believe in the potential of the internet to maximize the benefit of Buddhist practice on a global scale, and if such a platform does not yet exist I could contribute some of my effort to try to build one.
+
+Thank you again for your teaching and your direction.
+
+May you be happy! May you be free from suffering! May you continue to shine for the benefit of beings!
+
+
+
+========================================
+FILE: Pañcasikha.md
+========================================
+
+- a [[Gandarvha]].
+  - Speaks beautifully in [[sutta 21]] of the [[Digha Nikaya]].
+  - Friend of the [[Buddha]] and [[Sakka]].
+  - #go https://suttacentral.net/dn21/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin
+
+
+========================================
+FILE: Sakka.md
+========================================
+
+- #pull [[]]
+
+
+========================================
+FILE: Straight as an arrow.md
+========================================
+
+- a [[poem]].
+  - (thank you reading my friend!)
+  
+[[We will be]] straight,
+  straight,
+  [[straight]] like an arrow!
+
+⸎
+
+many arrows true, 
+   ever bending
+
+⸎
+
+like a [[rainbow]], 
+     folding
+
+as [[Maitreya]], 
+     glowing!
+
+
+
+========================================
+FILE: The flower in the lotus.md
+========================================
+
+- #pull [[dharma]]
+
+
+
+========================================
+FILE: Tschenresi Sadhana.md
+========================================
+
+- a [[book]].
+  - Or booklet?
+  - I got in [[Dhagpo Männedorf]].
+  - It is in what looks like [[Devanagari]] and [[German]], so I'll take it as an opportunity to learn at least the latter :)
+
+--
+
+1. Das Gebet an die Meister der Mahamudra Linie
+
+The X (to?) the master of the Mahamudra line
+
+Maybe Gebet is offering? Checking. Ah no, it's [[prayer]]. Well, I don't normally think I pray, but I do recitate mantras to Tara, Avalokiteshvara and [[Maitreya]], so I guess it's a matter of interpretation.
+
+--
+
+Wow, this got real. The next two pages have 6-7 sentences each, and three illustrations overall.
+
+2. Allgegenwärtiger, grosser Dordje Tschang, denken an uns,
+  Tilopa "Reine Weisheit", denke an uns,
+  Naropa "Verwirklichung von Gewahrsein", denke an uns,
+  Marpa "Verstandnis der Lehre" (...)
+
+There's eight more pages of this (!). It turns out this is the part that is all about the lineage of teaching. I was surprised at first that it didn't start with the Buddha, but then I realized this is the preliminaries.
+
+--
+
+
+
+========================================
+FILE: Vajradhara.md
+========================================
+
+- a [[Buddha]].
+  - The primordial Buddha/[[Dharmakaya]] for many Mayahana traditions, like those from Tibet.
+  - Replaced (or complements?) [[Samantabhadra]].
+  - Linked to [[Vajrasattva]].
+  - I think I associated them with [[79]]? But I need to check, it's not solidified yet.
+
+
+
+========================================
+FILE: Vajrapani.md
+========================================
+
+- a [[bodhisattva]].
+  - meaning "[[vajra]] in their hand"
+  - [[friend]]
+
+
+
+========================================
+FILE: We will be.md
+========================================
+
+- #pull [[we]] [[will]] [[be]]
+
+
+
+========================================
+FILE: White Lotus.md
+========================================
+
+- a [[movement]].
+  - https://en.wikipedia.org/wiki/White_Lotus
+    - > If this interpretation is correct, the steady rise in the number of White Lotus rebellions in imperial histories during the Ming and Qing does not necessarily reflect the increasing strength of a unified organization. Instead, this trend reflects a growing concern by imperial bureaucrats with any form of Buddhism practiced outside of the sanctioned frameworks of the monasteries.
+  - #pull [[Maitreya]]
+
+
+
+========================================
+FILE: aix en provence.md
+========================================
+
+- a [[city]].
+  - in southern [[france]]
+  - near [[marseille]]
+  - once part of [[barcelona]]/[[aragón]]
+
+
+
+========================================
+FILE: arahants.md
+========================================
+
+# arahants
+
+- [[buddha]]
+- [[daniel m ingram]]
+
+
+
+
+========================================
+FILE: asana.md
+========================================
+
+- a [[yoga]] [[pose]].
+
+
+========================================
+FILE: asanas.md
+========================================
+
+- a [[list]].
+	- #pull [[asana]]
+	- #pull https://en.wikipedia.org/wiki/List_of_asanas
+	- #pull [[sun salutation]] == [[surya namaskar]]
+	- [[mountain]]
+	- [[warrior]] == [[warrior 1]] == [[virabhadrasana]]
+	- [[warrior 2]]
+	- [[warrior 3]]
+	- [[peaceful warrior]]
+	- [[child's pose]] == [[balasana]]
+	- [[extended child's pose]]
+	- [[cat]]
+	- [[cow]]
+	- [[tabletop]]
+	- [[downward facing dog]] == [[downward dog]]
+	- [[upward facing dog]] == [[urdhva mukha shvanasana]]
+	- [[cobra]] == [[bhujangasana]]
+	- [[pigeon]]
+	- [[marichi's pose]]
+	- [[bridge]]
+	- [[triangle]] == [[trikonasana]]
+	- [[forward fold]] == [[uttanasana]]
+	- [[triangle]]
+	- [[hero]]
+	- [[plank]]
+	- [[side plank]] == [[vasishtasana]]
+	- [[chair pose]] == [[utkatasana]]
+	- [[eagle]]
+	- [[boat]]
+	- [[cobbler's pose]]
+	- [[staff]] == [[dandasana]]
+	- [[mountain pose]] == [[tadasana]]
+	- [[tree pose]] == [[vrikshasana]]
+	- #push [[meditation]]
+		- [[half lotus]]
+		- [[lotus]] == [[padmasana]]
+		- [[siddhasana]]
+		- [[easy pose]] == [[sukhasana]]
+		- [[corpse]] == [[shavasana]]
+		- [[muktasana]]
+
+
+========================================
+FILE: avalokiteshvara.md
+========================================
+
+# Avalokiteshvara
+
+- A [[person]].
+  - [[bodhisattva]] of [[compassion]].
+  - #pull [[avalokitesvara]]
+  - I struggle to remember this name. Avalo - kitesh - vara
+    - Update (2022): I don't anymore.
+  - #go https://en.wikipedia.org/wiki/Avalokite%C5%9Bvara
+    - "This bodhisattva is variably depicted, described and portrayed in different cultures as either [[male]] or [[female]]."
+- A [[game]].
+  - Two or more people meet, then they say:
+    - Avalo.
+    - Avalo.
+    - Avalo.
+    - (A pause).
+    - Avalokiteshvara!
+  - The fun comes from synchronizing while saying the first three words, and then choosing to synchronize or not on the saying of the name. For beginner players remembering the full name might prove difficult (it was for me at first).
+  - I like it as a game because [[Avalokiteshvara]] reminds me of a lot of things I deeply care about, and I find their name beautiful.
+- #push [[16]] syllables
+  - #push [[9]]
+    - Avalo, avalo, avalo!
+  - #push [[7]]
+    - Avalokiteshvara!
+
+                     -
+
+
+
+========================================
+FILE: avalokitesvara.md
+========================================
+
+- a [[person]].
+  - [[bodhisattva]]
+  - #pull [[avalokiteshvara]] [[avalokitasvara]]
+  - https://en.wikipedia.org/wiki/Avalokite%C5%9Bvara
+  - ![image.png](./assets/image_1651936625981_0.png)
+
+
+
+========================================
+FILE: big self.md
+========================================
+
+- #pull [[self]]
+	- and [[others]]
+	- #pull [[metta]]
+
+
+========================================
+FILE: black kallax.md
+========================================
+
+- We have a [[white kallax]]. What would a [[kallax]] of a [[different color]] look like?
+	- What about [[black]]?
+	- What about [[ultraviolet]]?
+	- What about [[caramel]]?
+
+
+========================================
+FILE: bodhisattvas.md
+========================================
+
+- a [[list]].
+	- [[gautama buddha]] (IIUC before becoming a "fully fledged" [[buddha]])
+	- [[shantideva]]
+	- [[avalokiteshvara]]
+	- [[samantabhadra]]
+	- [[manjushri]]
+	- [[vajrapani]]
+	- [[ksitigarbha]]
+	- [[akashagarbha]]
+	-
+
+
+========================================
+FILE: braided.md
+========================================
+
+- #pull [[braids]]
+
+
+
+========================================
+FILE: break glass.md
+========================================
+
+- a [[meditation]]
+	- by [[sam harris]]
+	- [[go]] https://dynamic.wakingup.com/course/C3D54C?source=content%20share&share_id=C7042CF1
+	
+	https://twitter.com/flancian/status/1399023711471259653
+
+
+========================================
+FILE: breath is the palace of buddha.md
+========================================
+
+- #pull [[breath]] is the palace of the [[buddha]]
+	- this is, IIRC, from a book I have of the [[middle length discourses]] == [[nikaya]]
+
+
+========================================
+FILE: breathing.md
+========================================
+
+
+
+
+========================================
+FILE: buddha.md
+========================================
+
+- A [[person]].
+	- Buddha [[Shakyamuni]] ~ [[Gautama]] lived in the 5th century BCE:
+    - [[philosopher]] [[bodhisattva]] [[arahant]] 
+    - #born [[lumbini]] [[nepal]]
+      - https://goo.gl/maps/6Uk2vXKVgdc9n5Kb6
+    - #awakened [[bodh gaya]] [[india]]
+      - https://goo.gl/maps/HT6fQvSNpeCtiGkf7
+  - [[Maitreya]] is the Buddha of the future (and the present).
+  - [[Avalokiteshvara]], Bodhisattava of Compassion.
+- #push [[buddhism]]
+  - I consider myself a [[buddhist]].
+    - Mostly [[rational]], but I think it's rational to be [[irrational]] some of the time (an example of a [[hedge]] maybe).
+  - I try to follow the [[eightfold path]].
+  - I try to practice as a [[bodhisattva]].
+  - I believe in [[buddha nature]] as something common to all [[conscious beings]].
+- [[meta]]
+  - Ha, I can't believe I hadn't noded Gautama until [[2020-12-11]].
+  - As of [[2021-11-20]] this was still clearly a stub.
+  - As of [[2021]] I was not sure about my thoughts on many earlier and later [[buddhas]], but I wanted to learn more about them.
+
+
+
+
+========================================
+FILE: buddhism.md
+========================================
+
+# Buddhism
+
+
+
+
+========================================
+FILE: buddhist.md
+========================================
+
+- I consider myself a [[buddhist]].
+  - The [[buddhas]] and [[bodhisattvas]] get a lot right.
+  - #pull [[secular buddhist]]
+  - #pull [[om mani padme hum]]
+  - #pull [[gate gate paragate parasamgate bodhi svaha]]
+  - https://twitter.com/flancian/status/1353368200080220162
+  - Update (2022): I have read Buddhist scripture and commentary and my opinion of Buddha and his many followers only improved. Buddhist is really a good set of memes overall. It can be patched -- like anything can. But it's the best base I know of.
+    - I did grow up in a Catholic country so I carry many [[Christian memes]] for sure. Many are good as well.
+
+
+
+========================================
+FILE: build maitreya.md
+========================================
+
+- #push [[open letter to maitreya]]
+  - #pull [[build bridges]]
+
+
+
+========================================
+FILE: candles.md
+========================================
+
+- a [[micro poem]]:
+	- i am a [[candle]]
+	- i wish i were a [[spaceship]]!
+
+
+========================================
+FILE: caramel.md
+========================================
+
+- The [[color]] of [[buddhism]], at least [[in my mind]].
+
+
+========================================
+FILE: chores.md
+========================================
+
+# chores
+
+- Things that are [[maintenance]] and can't be automated. 
+- Pushing entropy back; [[cleaning]], although cleaning can be fun.
+
+
+
+
+========================================
+FILE: christianism.md
+========================================
+
+# christianism
+
+
+
+
+========================================
+FILE: control.md
+========================================
+
+# Control
+
+- The flip side of an [[experiment]].
+- An instrument of [[power]].
+
+
+
+
+
+========================================
+FILE: counting practice.md
+========================================
+
+- My [[counting practice]] is quite idiosyncratic, but I like it that way.
+  - I count up as I am mindful of my breath in a personal variation of [[box breathing]] which includes visualization and optionally involves [[factoring]] numbers as I tour a loose/abstract [[mind palace]].
+  - #pull [[braids]]
+
+
+
+========================================
+FILE: crystal castles.md
+========================================
+
+- a [[band]].
+  - [[alice glass]] [[ethan kath]]
+  - disintegrated with allegations of abuse ([[ethan kath]] being the abusing party).
+
+
+
+========================================
+FILE: daniel ingram.md
+========================================
+
+# daniel ingram
+- a [[person]].
+	- [[arahant]].
+	- #pull [[mctb]]
+	- [[friend]]? I would hope
+
+
+========================================
+FILE: deconstructing yourself.md
+========================================
+
+# Deconstructing Yourself
+
+- A [[podcast]] by [[michael-taft]].
+- Episodes I've listened to:
+  - [[chandra easton]]
+  - [[meaningness]]
+  - [[shinzen young]] 
+  - [[dan brown]]
+  - [[jud brewer]]
+
+
+
+
+========================================
+FILE: dementia.md
+========================================
+
+- Could be seen as an [[info hazard]] I believe, in the sense that learning more about the nature of dementia as it seems to "curse" some humans and animals can be deeply affecting.
+  - Then again, this is true for many cases of [[suffering]].
+  - I believe discussing the nature of suffering can be beneficial, and it is aligned with the [[Dharma]], so here I will try to take down some hopefully constructive notes on the nature of this particular kind of suffering.
+ 
+First of all, rest assured: I believe [[technology]] will unlock great improvements for us who might be affected by dementia in the future. For an example of what I believe we can do to help those suffering from the condition, see [[Eugnosia]].
+
+
+========================================
+FILE: dharma.md
+========================================
+
+- The [[path]] we try to follow.
+  - [[go]] https://en.wikipedia.org/wiki/Dharma
+  - "The right way of living".
+  - I sometimes consider myself a [[secular buddhist]].
+    - Update (2022): I'm a [[buddhist]].
+
+
+
+========================================
+FILE: dos gardenias.md
+========================================
+
+- a [[song]].
+  - #pull [[buena vista social club]]
+
+
+
+========================================
+FILE: dos maitreyas.md
+========================================
+
+- #pull [[tres maitreyas]]
+
+
+
+========================================
+FILE: dyokomizo.md
+========================================
+
+# Dyokomizo
+
+- a [[person]].
+  - [[zen]] practitioner. [[programmer]]/tech worker. [[brazilian]].
+  - [[twitter]] https://twitter.com/dyokomizo
+    - Self describes as "human being, most of the time"
+  - [[medium]] https://medium.com/@dyokomizo 
+  - [[review]] https://www.reddit.com/r/BlackSwanDAO/comments/iisf5o/initial_draft_of_new_governance_documents/
+  - [[meditation]] https://docs.google.com/document/d/1ptGnu-hbEFOXKCrYlL1hsaG12CJfl2yGHyy0GtOvWfc/edit
+      - guided meditations of __Tara__Brach: https://www.tarabrach.com/guided-meditations/ 
+  - Told me about [[implementation intention]] 
+  - [[blag]] https://github.com/dyokomizo/blag/issues
+  - [[doc]] https://flancia.org/go/dyokomizo-flancian
+  - One of [[explorer]] [[achiever]]
+  - https://twitter.com/dyokomizo/status/1312084291443097601
+  - https://twitter.com/dyokomizo/status/1304416612968169472
+
+
+
+
+========================================
+FILE: eightfold path.md
+========================================
+
+# eightfold path
+
+- #push [[8]]
+  - #pull [[buddha]] [[dharma]] [[sangha]]
+
+
+
+
+========================================
+FILE: experiment.md
+========================================
+
+# Experiment
+
+- A cornerstone of [[science]].
+- A procedure to know the [[world]] as it is and perhaps as it could be.
+- Nodes linking here might be worth taking a look if you're looking for experiments to reproduce or undertake.
+
+
+
+
+
+========================================
+FILE: explorer.md
+========================================
+
+# Explorer
+
+
+
+
+========================================
+FILE: female.md
+========================================
+
+# Female
+
+- Female was born the particular [[person]] who I love the most.
+
+
+
+
+
+========================================
+FILE: fever.md
+========================================
+
+- [[2023-06-07]]
+
+I have a fever and that got me thinking.
+
+About the immune system, and how the body (our genome and gut flora and other symbionts) regulates our temperature to react to infections and other invasive entities; or while reacting to those.
+
+About how pur bodies are able to raise their temperature considerably above their environment (what's the yearly average? probably 20 degrees or so in temperate latitudes?), and produce waste heat from movement and thought most of the time, but can somehow continue to work (for some time) in warmer environments. The almost-magic of [[homeostasis]] and [[autopoiesis]].
+
+Could some process compute while cooling down the environment? Under which conditions would that be possible? Human bodies and brains continue to work in very hot climates, but only barely. It seems like it should be impossible to keep a region of matter cooler than its environment except via a continuous ingestion of material or energy from outside the system.
+
+
+
+========================================
+FILE: fictions that soothe.md
+========================================
+
+- a [[list]].
+  - I mean [[fiction]] in the loose sense, meaning occasionally also things that started as stories and then became reality -- so take this more generally as a [[list of ideas]].
+  - [[dust universe]]
+    - I find this comforting, in particular in combination with the [[Dharma]].
+  - [[pak protector]]
+  - [[mathematical universe]]
+    - As per [[Max Tegmark]] and friends.
+
+
+========================================
+FILE: foolishowl.md
+========================================
+
+- a [[person]].
+  - #go https://social.coop/@foolishowl
+  - in [[social coop]]
+  - [[sysadmin]]:
+    - https://social.coop/@foolishowl/112973647386356400
+
+
+========================================
+FILE: fuck it.md
+========================================
+
+- #pull [[fuck the pain away]]
+
+
+
+========================================
+FILE: gate gate paragate parasamgate bodhi svaha.md
+========================================
+
+# gate gate paragate parasamgate bodhi svaha
+
+- A [[mantra]].
+  - I think this often.
+  - I identify it with [[Maitreya]], although it is most closely linked in scriptures ([[Heart Sutra]]) to [[Avalokiteshvara]].
+    - [[17]] syllables.
+  - Sometimes I say it while lighting a candle. I think it makes sense, although I try to remember it is best not to become attached to [[ritual]].
+    - gone ~ [[gate]]
+    - gone beyond to the other shore ~ [[paragate]]
+    - completely gone to the further shore ~ [[parasamgate]]
+    - awakening ~ [[bodhi]]
+    - svaha ~ (interjection)
+
+
+
+========================================
+FILE: handlerug.md
+========================================
+
+- a [[person]].
+  - [[friend]].
+  - [[bouncepaw]] introduced us.
+  - [[golang]] [[hare]] [[ragamuffin]]
+
+
+
+========================================
+FILE: happy.md
+========================================
+
+- #push [[metta]]
+  - May you be [[happy]]!
+  - #pull [[free from suffering]]
+
+
+
+========================================
+FILE: human rights.md
+========================================
+
+- [[rights]]
+	- Presumably the most important thing in the universe.
+	- I believe [[human rights]] should be the same of all [[conscious beings]].
+
+
+
+
+========================================
+FILE: info hazard.md
+========================================
+
+- **DO NOT READ this node if you don't want to be exposed to [[info hazards]].**
+- #pull [[infohazard]] [[information hazard]]
+- #pull [[wp/info hazard]]
+
+
+
+========================================
+FILE: info healers.md
+========================================
+
+- a [[list]].
+  - [[dust theory]]
+  - [[buddhism]]
+
+
+
+========================================
+FILE: ios.md
+========================================
+
+# ios
+
+
+
+
+========================================
+FILE: jigme.md
+========================================
+
+- a [[friend]], [[teacher]]
+
+
+========================================
+FILE: kasina.md
+========================================
+
+- #pull [[meditation]]
+- #pull [[daniel ingram]]
+
+
+========================================
+FILE: kept.md
+========================================
+
+- a [[track]].
+  - by [[crystal castles]]
+  - #go https://vimeo.com/206152466
+
+
+
+========================================
+FILE: las jaras, qué jaras.md
+========================================
+
+- las de [[maitreya]] 
+- y [[avalokiteshara]]
+- las de [[tara]]
+
+
+
+========================================
+FILE: laundry.md
+========================================
+
+- #push [[chores]]
+  - Do [[laundry]], [[vacuum]], once in a while clean the [[filters]],
+  - Try to see it as a [[meditation]].
+
+
+
+========================================
+FILE: list of ideas.md
+========================================
+
+- 
+
+
+========================================
+FILE: logseq/bak/agua/2023-07-27T21_44_43.172Z.Desktop.md
+========================================
+
+Agua!
+Agua para los sedientos
+Flan para los hambrientos
+Gloria para la luz de la consciencia
+Salven los oprimidos!
+
+=> [[Las Jaras]]
+
+
+
+========================================
+FILE: logseq/bak/bodhisattvas/2023-03-12T22_02_37.014Z.Desktop.md
+========================================
+
+- [[Gautama]] [[Avalokiteshvara]] [[Maitreya]]
+
+
+
+========================================
+FILE: logseq/bak/burn kindly/2023-07-27T21_44_34.253Z.Desktop.md
+========================================
+
+- #pull [[metta]] [[kasina]] [[meditation]]
+
+
+========================================
+FILE: logseq/bak/las jaras/2023-03-12T22_02_37.083Z.Desktop.md
+========================================
+
+Tengo en mis carcaj
+Tres jaras
+Qué jaras?
+Las de [[Avalokiteshvara]]!
+
+=> [[Straight as an arrow]]
+
+
+
+========================================
+FILE: logseq/bak/meditation/2023-07-27T21_44_40.319Z.Desktop.md
+========================================
+
+- an [[activity]].
+	- [[awareness]] [[practice]]
+	- I finally gave meditation a try back in [[2018]] or so because of [[sam harris]].
+		- It essentially changed my life, as did [[yoga]] later.
+		- Flancia, I believe, would not be possible for me without meditation.
+	- #pull [[meditation practice]] [[meditation for programmers]]
+	- #pull [[buddhism]] [[hinduism]] [[christianism]] [[mysticism]] [[religion]]
+	- To [[focus]] (or "bootstrap"), I often make use of [[counting practice]].
+
+
+
+========================================
+FILE: logseq/bak/tres maitreyas/2023-03-12T22_02_37.200Z.Desktop.md
+========================================
+
+Hace tiempo que quiero escribir sobre [[tres Maitreyas]] en los que vengo pensando, en el sentido de tres manifestaciones posibles de [[Maitreya]] en este [[kalpa]].
+
+Estos Maitreyas describen futuros posibles.
+
+## Avalokiteshvara-Maitreya 
+
+## Taixu-Maitreya
+
+## Burup-Maitreya
+
+
+
+========================================
+FILE: love kindly.md
+========================================
+
+- #pull [[burn kindly]]
+
+
+
+========================================
+FILE: lower back pain.md
+========================================
+
+# Lower Back Pain
+
+- I suffer from some degree of lower back pain chronically.
+- Evolution really does close to the minimum possible; we needed to walk upright and it "patched us up" just enough, but not nearly enough to live pain free to old age.
+- [[yoga]] helps.
+
+
+
+
+
+========================================
+FILE: male.md
+========================================
+
+# Male
+
+- I was born male.
+
+
+
+
+========================================
+FILE: manipadme.md
+========================================
+
+- [[The flower in the lotus]].
+
+
+
+========================================
+FILE: martin luther king.md
+========================================
+
+# Martin Luther King
+- Interesting character.
+
+
+
+========================================
+FILE: mathematical models.md
+========================================
+
+- perhaps we are all mathematical models, or so I understand it could be after reading [[max tegmark]] and [[david deutsch]] and the [[buddha]].
+
+
+========================================
+FILE: maybe also.md
+========================================
+
+- coming from [[gone]], one for the [[non strictly monastic]] life:
+
+[[Love]]
+Burn kindly!
+
+If you have to burn,
+   [[burn kindly]]!
+
+
+
+========================================
+FILE: meaningness.md
+========================================
+
+# Meaningness
+- A [[person]] on [[twitter]]: https://twitter.com/Meaningness.
+- I keep running into his writing.
+- Lots of people have recommended his writing to me, need to set aside some time to read him.
+- More into [[buddhism]] than I thought. Interesting. Like: way more.
+    - https://approachingaro.org/about-the-author
+    - https://vividness.live/about-david-chapman/
+- https://meaningness.com/
+- [[AbstractFairy]]'s recommendations:
+    - https://twitter.com/AbstractFairy/status/1305110995656900609
+    - [meaningness.com/preview-eternalism-and-nihilism](https://t.co/KDHGXTHKjv?amp=1)
+
+[https://meaningness.com/all-dimensions-schematic-overview](https://t.co/H9MWnvqGfv?amp=1)
+
+
+
+
+========================================
+FILE: meditation practice.md
+========================================
+
+# meditation practice
+
+- a [[post]].
+  - I try to keep a [[meditation]] [[practice]].
+  - [[previously]] https://flancia.org/mine/my-meditation-practice/
+    - I've been meditating for about three years now -- going by the post above, which dates from two years ago and says "I've been meditating for about a year now, and for four months seriously.". This is an update as of [[2021-11]].
+
+I feel off the wagon at some point during 2020; it was a very hectic year at work (because of scaling of the product we support needed due to the pandemic) and at some point I convinced myself I didn't have time for it. In retrospect not a great move -- as it would have been obvious had I stopped and thought about it for a minute :)
+
+Since then, I've managed to get back to a regular practice. This amounts to meditating daily, at least ten minutes almost daily, and recently with a target of at least twenty minutes.
+
+
+========================================
+FILE: meditation.md
+========================================
+
+- an [[activity]].
+	- [[practice]]
+	- I finally gave meditation a try back in [[2018]] or so because of [[sam harris]].
+		- It essentially changed my life, as did [[yoga]] later.
+		- Flancia, I believe, would not have been possible without meditation.
+	- #pull [[meditation practice]] [[meditation for programmers]]
+	- #pull [[buddhism]] [[hinduism]] [[christianism]] [[mysticism]] [[religion]]
+	- To [[focus]] (or "bootstrap"), I often make use of [[counting practice]].
+    - For more on this, and applications as a method of [[loci]], see [[Flancia pattern language]].
+  - [[samatha]] [[vipassana]] [[metta]] [[kasina]] 
+
+
+
+========================================
+FILE: medito.md
+========================================
+
+# Medito
+
+- an [[app]].
+  - [[meditation]] [[free]] [[open source]]
+  - [[twitter]] https://twitter.com/meditoHQ.
+  - [[go]] https://meditofoundation.org/medito-app
+    - [[android]] https://play.google.com/store/apps/details?id=meditofoundation.medito
+    - [[ios]] https://apps.apple.com/us/app/medito/id1500780518?ls=1
+- a [[foundation]].
+  - [[non profit]]
+  - [[go]] https://meditofoundation.org
+  - [[steven york]] [[?]]
+  - [[blog]] https://meditofoundation.org/blog/blog-guidelines
+
+
+
+
+========================================
+FILE: metta.md
+========================================
+
+- #pull [[loving kindness]]
+- [[burn kindly]]
+
+
+========================================
+FILE: mettā.md
+========================================
+
+- #pull [[metta]]
+
+
+========================================
+FILE: mexico city.md
+========================================
+
+- #go https://mynoise.net/NoiseMachines/mexicoCityAmbienceGenerator.php
+
+
+
+========================================
+FILE: mimesis.md
+========================================
+
+- [[auerbach]] https://en.wikipedia.org/wiki/Mimesis:_The_Representation_of_Reality_in_Western_Literature
+
+
+========================================
+FILE: nccr survey.md
+========================================
+
+- #go https://nccr-onthemove.ch/research/migration-mobility-survey/
+- #pull [[nccr]]
+
+
+
+========================================
+FILE: nccr.md
+========================================
+
+- #pull [[national centers of competence in research]]
+	- #go https://nccr-onthemove.ch/wp_live14/wp-content/uploads/2020/11/nccrotm-Migration-Mobility-Survey-2020.pdf
+
+
+========================================
+FILE: one green, one red.md
+========================================
+
+- #pull [[las jaras]]
+
+
+
+========================================
+FILE: one maitreya.md
+========================================
+
+- #pull [[two maitreyas]] [[three maitreyas]]
+- #pull [[un maitreya]]
+
+
+
+========================================
+FILE: open letter to maitreya.md
+========================================
+
+- an [[open letter]].
+
+Glory be to the light of consciousness!
+
+Thank you, multiverse, for the [[light of consciousness]] -- the [[thing that somehow is]], our [[shared awareness]], [[Body]] and [[Bodhi]].
+
+--
+
+Thank you, [[Buddha Gautama]], for existing in our past and for turning the wheel of [[Dharma]] in this [[Kalpa]]. Thank you for the [[Four Noble Truths]], the [[Eighfold Path]] which on closer inspection has ten aspects, and for the concept of [[Bodhisattva]] and [[Bodhicitta]] as preserved through time!
+
+Thank you, [[Maitreya]], for existing in a future -- which our present seems to tend to become.
+
+--
+
+This is, if anything, my thesis: maybe [[we]] are, or will be, Maitreya -- if only we awake to this fact.
+
+([[We]] meaning [[you and me]] if you are willing to read these words and identify with some of them.)
+
+--
+
+
+
+========================================
+FILE: oṃ tāre tu tāre ture soha.md
+========================================
+
+- a [[mantra]].
+  - #pull [[tara]]
+
+
+
+========================================
+FILE: path.md
+========================================
+
+# path
+
+- all paths fork in the [[multiverse]].
+  - to get a fork, find a morphism from path to path and traverse it.
+  - I personally try to follow the path of the [[buddhas]]: the [[middle way]] that can be found in most [[forks]].
+- I take refuge in the [[dharma]]. 
+  - I take refuge in the [[buddha]].
+    - I take refuge in a [[sangha]].
+
+
+
+========================================
+FILE: practice.md
+========================================
+
+- whatever you practice, you get better at. 
+	- if you are into [[systems]] you can unlock higher gains.
+
+
+========================================
+FILE: pranayama.md
+========================================
+
+- a [[technique]].
+	- [[meditation]] [[breathing]]
+	- [[bruno winck]] recommended it and shared his routine: https://twitter.com/brunowinck/status/1521946831382589442
+	- [[nadi shodhana]]
+		- [[vishnu mudra]]
+		- switch nostril then [[exchale]] and [[inhale]] through that nostril
+	-
+	-
+
+
+========================================
+FILE: rafael subirachs.md
+========================================
+
+- a [[person]].
+  - #push [[els segadors]] 
+    - #go https://www.youtube.com/watch?v=p4Pw0pQ5EpI
+      - old version?
+
+
+
+========================================
+FILE: samatha.md
+========================================
+
+- #pull [[tranquility]] [[mind calmness]] [[concentration]]
+
+
+========================================
+FILE: sangha.md
+========================================
+
+# sangha
+
+- I [[take refuge]]:
+  - I take refuge in the [[Dharma]]!
+  - I take refuge in the [[Buddha]]!
+  - I take refuge in the [[Sangha]]!
+- The Agora is my [[sangha]].
+  - You, my friend, are part of my Sangha.
+
+
+
+========================================
+FILE: satyagraha.md
+========================================
+
+# Satyagraha
+
+- [[go]] https://en.wikipedia.org/wiki/Satyagraha
+  - "holding onto truth, or truth force, is a particular form of nonviolent resistance or civil resistance."
+- [[mahatma gandhi]], [[martin luther king]], [[james bevel]], [[nelson mandela]] were practitioners or influenced by it.
+- See also: [[dharma]].
+
+
+
+
+========================================
+FILE: secular buddhism.md
+========================================
+
+# Secular Buddhism
+
+- In short, a synthesis of [[buddhism]] and [[naturalism]].
+- I consider myself a [[secular buddhist]].
+- Confirmed spottings:
+  - [[stephen batchelor]]
+- Likely examples:
+  - [[buddhist geeks]] (I think)
+  - [[jud-brewer]]
+  - [[shinzen young]]
+  - [[michael-taft]]
+  - [[sam harris]] (might disagree)
+
+
+
+
+
+========================================
+FILE: secular buddhist.md
+========================================
+
+# Secular Buddhist
+
+- One that practices [[secular buddhism]].
+
+
+
+
+========================================
+FILE: self.md
+========================================
+
+# Self
+
+- See also: [[flancian]].
+- The self is constructed and can be deconstructed.
+- According to [[buddhism]], the self is in some ways an illusion; it is [[empty]].
+  - Losing your self (e.g. experiencing nothingness, cessation; even temporarily) can set you free from some of the trappings of being; it makes it evident that the [[default mode]] of being is just that.
+- [[twitter]] [[go]] https://twitter.com/flancian/status/1342892430669066240
+
+
+
+
+
+========================================
+FILE: senegal town.md
+========================================
+
+- #go https://mynoise.net/NoiseMachines/senegalUrbanLifeAmbienceGenerator.php
+
+
+
+========================================
+FILE: seven maitreyas.md
+========================================
+
+- #pull [[maitreya]]
+  - [[119]] = #17 * #7
+
+
+
+========================================
+FILE: shambhala buddhism.md
+========================================
+
+# shambhala buddhism
+
+- a [[teaching]]
+  - [[subset]]/[[superset]] of [[buddhism]]
+    - I should [[write]] about this
+  - [[wp]]] https://en.wikipedia.org/wiki/Shambhala_Buddhism
+    - Since 2018, multiple reports of clergy sexual misconduct and power abuse by the Sakyong and some Shambhala leadership[2][3][4] have led to an institutional crisis
+  - [[chögyam trungpa]] [[sakyon mipham]]
+    - I [[like]] it; might optimally represent me in some ways ([[research]], might only be a significant subset)... although the power abuse and sexual misconduct accusations are very worrying. 
+    - read [[cutting through spiritual materialism]]
+    - will read [[the sacred path of the warrior]]
+    - will read [[reports of misconduct]]
+  - [[naropa university]]
+
+
+
+
+========================================
+FILE: social coding foundations.md
+========================================
+
+- a [movement]]
+  - #pull [[humanetech]]
+  - #doc https://pad.public.cat/8yNgnlxmSsGYk3TfIau46A?view#
+  - #go https://coding.social/
+  - #chat https://matrix.to/#/#socialcoding-foundations:matrix.org
+
+
+
+========================================
+FILE: st benedict rule for monasteries.md
+========================================
+
+# St Benedict Rule for Monasteries
+
+- [[go]] https://www.gutenberg.org/files/50040/50040-h/50040-h.html
+- As seen on [[hn]].
+- [[meditation]] [[discernment]]
+
+
+
+
+
+========================================
+FILE: sucederá.md
+========================================
+
+Sucederá, [[Burup]]. Sucederá.
+
+Lo que vimos que pasaría pasará.
+
+
+
+========================================
+FILE: svaha.md
+========================================
+
+- #pull [[gate gate paragate parasamgate bodhi svaha]]
+
+
+========================================
+FILE: take your pick.md
+========================================
+
+- [[Las Jaras]]
+- [[I saw Moloch]]
+
+
+
+========================================
+FILE: tara.md
+========================================
+
+- a [[person]].
+  - [[friend]] [[bodhisattva]]
+  - #wp https://en.wikipedia.org/wiki/Tara_(Buddhism)
+  - [[om tare tuttare ture svaha]] ~ [[oṃ tāre tuttāre ture svāhā]] ~ [[oṃ tāre tu tāre ture soha]]
+    - [[Oṃ O Tārā, I pray O Tārā, O Swift One, So Be It!]] ~ "Om, O Tara, I talk to you Tara, O Swift one, so be it"
+  - #pull [[Ārya Tārā]] [[Jetsun Dölma]]
+
+
+
+========================================
+FILE: tare tuttare tare tuttare.md
+========================================
+
+- #pull [[tare tuttare]]
+
+
+
+========================================
+FILE: tare tuttare.md
+========================================
+
+- Oh [[Tara]]:
+  - Tare tuttare ture,
+  - Tuttare tuttare ture!
+  - Avalokiteshvara! Maitreya
+
+
+
+========================================
+FILE: telekommunism.md
+========================================
+
+# Telekommunism
+
+https://twitter.com/flancian/status/1312855201695641600
+
+
+========================================
+FILE: transcript.md
+========================================
+
+- [[flancia meet]] [[2022-05-21]]
+	- me says:ahoy! 
+	  me says:I don't think you are there, right? 
+	  20:10
+	  The One
+	  The One says:ayoooooooo 
+	  The One says:WHATTTTT 
+	  20:10
+	  me says:I can't hear you 
+	  20:10
+	  The One
+	  The One says:ehehehehh 
+	  20:10
+	  me says:[[meditation]] 
+	  me says:[[blip blip]] 
+	  me says:[[mondegreen]] 
+	  me says:
+	  https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php
+	   
+	  20:16
+	  The One
+	  The One says:
+	  https://github.com/mnenoff/flancia01
+	   
+	  The One says:
+	  https://docs.google.com/spreadsheets/d/1fv1rfQUUXkt_0zLjPWNrrTB30GMFjwZIqzcmPPJASC8/edit?usp=sharing
+	   
+	  20:55
+	  me says:martin: would you like your username to be mnenoff? 
+	  me says:or something else? 
+	  21:22
+	  The One
+	  The One says:The One 
+	  21:23
+	  me says:theone, the_one, the-one? 
+	  21:23
+	  The One
+	  The One says:The_One or the_one 
+	  21:24
+	  me says:[[agora editor]] == I use 
+	  logseq.com
+	   
+	  me says:
+	  whatever.md
+	   
+	  me says:[[markdown]] 
+	  me says:*italics* 
+	  me says:**strong** 
+	  me says:
+	  https://anagora.org/intro
+	   
+	  21:31
+	  The One
+	  The One says:
+	  http://zeroprecedent.com/lore/flipside.html
+	   
+	  21:35
+	  me says:
+	  anagora.org/flanbook
+	   
+	  me says:
+	  anagora.org/go/move
+	   
+	  me says:
+	  anagora.org/go-links
+
+
+========================================
+FILE: tres maitreyas.md
+========================================
+
+- #push [[51]]
+  - [[3]] [[17]]
+- a [[song]].
+  - by [[Buenos Aires Social Club]].
+  - #pull [[dos gardenias]] by [[Buena Vista Social Club]] but they [[tres maitreyas]] instead.
+
+
+
+========================================
+FILE: two maitreyas.md
+========================================
+
+- [[2]] [[17]] ~ [[fork]] [[maitreya]]
+  - #pull [[dos maitreyas]] [[tres maitreyas]]
+
+
+
+========================================
+FILE: un maitreya.md
+========================================
+
+- #pull [[dos maitreyas]] [[tres maitreyas]]
+- #pull [[maitreya]]
+
+
+
+========================================
+FILE: variations.md
+========================================
+
+- a [[song]], or a [[poem]], however you want to think about it :)
+
+## 7, 8 
+
+Tare tuttare ture!
+Tuttare tuttare ture
+
+## 8, 9 make 25
+Avalokiteshvara maitre
+Avalokiteshvara Maitre... ya!
+
+## 7, 8 make 40
+
+(Avalokiteshvara!
+Sos Avalokiteshvara!)
+
+## Make a power of two, or three, or n 
+
+Las Jaras, qué jaras?
+Las de Avalokiteshvara!
+Las de Tara
+Las de [[Maitreya]]
+
+
+========================================
+FILE: virabhadra.md
+========================================
+
+- a [[form]] of [[shiva]].
+	- https://en.wikipedia.org/wiki/Virabhadra
+
+
+========================================
+FILE: virabhadrasana.md
+========================================
+
+- pose of [[virabhadra]]
+
+
+========================================
+FILE: visible mantra.md
+========================================
+
+- a [[site]].
+  - #go http://www.visiblemantra.org/
+  - [[buddhism]] [[mantras]]
+  - reminded me of my good old favorite, [[omniglot]]
+
+
+
+========================================
+FILE: waking up virtual retreat.md
+========================================
+
+- a [[retreat]].
+  - [[meditation]].
+  - [[2022-11-05]].
+  - You can use this link to join: https://dynamic.wakingup.com/retreat/RE05D69?source=content%20share&share_id=B327AA3D
+  - [[questions]]
+    - some ideas for the Q&A session? unsure, explore.
+      - 1. [[cannabis]] and meditation?
+        - did [[gautama]] buddha consume cannabis or other psychoactive substances while living in the forest? did they influence him or those around him?
+      - 2. meditation and [[revolution]]?
+        - 
+        - 3. what if a group of explicit bodhisattvas agreed on a coordination platform and then tried to use it to improve the world using the technology available to us in the 21st century?
+      - 3. loving kindness as a practice and its potential to shape the 21st century.
+      - 4. what is your opinion on [[yoga]] as it relates to and enhances the path, and as a way for groups to practice coordination and cooperation?
+
+
+
+========================================
+FILE: waking up.md
+========================================
+
+# waking up
+
+- an [[app]]
+  - my favorite for [[meditation]] in the paid category
+  - by [[sam harris]]
+  - [[go]] https://wakingup.com
+
+
+
+
+========================================
+FILE: weeknight.md
+========================================
+
+- #pull every [[weekday]] comes with a weeknight, until for about half of us it doesn't
+
+
+========================================
+FILE: yoga.md
+========================================
+
+# Yoga
+
+- I'm a fan of yoga.
+  - You can think of yoga as the study of healthy movement.
+  - You can also think of yoga as a [[graph]] of asanas (healthy body postures), with edges being constructive transitions between them; a yoga session is a particular tour through this graph.
+- Yoga has been great for my [[lower back pain]].
+- I like [[yoga with adriene]]. 
+  - If you'd like to try it out, [[try yoga]] or see below.
+- [[go]] https://www.youtube.com/watch?v=KWBfQjuwp4E&list=PLui6Eyny-UzzFFfpiil94CUrWKVMaqmkm
+- [[flow]] https://www.youtube.com/watch?v=hmUAQIxZwXw&list=PLui6Eyny-UzzJ4NSTesh4xRWg4ZWNz5s4&index=13
+- [[space]] https://www.youtube.com/watch?v=PVJtNPVq26Q&list=PLui6Eyny-UzzJ4NSTesh4xRWg4ZWNz5s4&index=19
+
+
+
+
+
+
+========================================
+FILE: yogi.md
+========================================
+
+# Yogi
+
+- A [[yoga]] [[expert]].
+
+
+
+
+
+========================================
+FILE: zazen.md
+========================================
+
+# Zazen
+
+- [[zen]] [[meditation]].
+  - In some schools, 'just sitting'.
+- [[go]] https://boonvilleodz.wordpress.com/wayofzazen/
+  - [[quote]] [[buddha]] was enlighteneed on the [[eight of december]]
+  - https://twitter.com/kyosaku_jon/status/1355495748469731328
+- https://twitter.com/flancian/status/1355499726741909505
+
+
+
+
+
+========================================
+FILE: ፨.md
+========================================
+
+- a.k.a. https://symbl.cc/en/1368/ or [[ethiopic paragraph separator]]
+
