@@ -30,7 +30,7 @@ Pan (o Flan...) para los hambrientos
 
 Fuego para los que tienen frío
 
-Techo para los que no tienen casa (o los desamparados...)
+Techo para los que no tienen casa (o están desamparados...)
 
 Paz para los oprimidos 
 
@@ -42,7 +42,7 @@ Flancia para los que leen
 
 [[Ágora]] para los que escriben
 
-Libertad para los seres sintientes:
+Libertad para los seres sintientes
 
 ¡Libertad, libertad, libertad!
 
