@@ -100,8 +100,8 @@ tal saeta certera
 silbando hacia el corazón de Moloch
 
 Ay! Quién fuera
-Una jara, dos jaras
-bailando hacia el corazón de Moloch
+Dos jaras, tres jaras
+girando hacia el corazón de Moloch
 
 Las jaras, qué jaras?
 Las de Avalokiteshvara,
