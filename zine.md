@@ -34,13 +34,15 @@ Techo para los que no tienen casa (o los desamparados...)
 
 Paz para los oprimidos 
 
+Salud para los enfermos
+
 Luz para los que ven
 
 Flancia para los que leen
 
 [[Agora]] para los que escriben
 
-Libertad para los seres sintientes
+Libertad para los seres sintientes:
 
 ¡Libertad, libertad, libertad!
 
