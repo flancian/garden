@@ -19,9 +19,9 @@ Gloria a las maravillas del universo
 
 ¡Salve, salve, salve!
 Salve la luz de la consciencia
+```
 
-Y:
-
+```
 ¡Agua, agua, agua!
 
 Agua para los sedientos
@@ -36,9 +36,9 @@ Paz para los oprimidos
 
 Luz para los que ven
 
-Ágora para los que escriben
-
 Flancia para los que leen
+
+[[Agora]] para los que escriben
 
 Libertad para los seres sintientes
 
