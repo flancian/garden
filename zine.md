@@ -100,7 +100,7 @@ tal saeta certera
 silbando hacia el corazón de Moloch
 
 Ay! Quién fuera
-Dos jaras, tres jaras
+Tal jara, tres jaras
 girando hacia el corazón de Moloch
 
 Las jaras, qué jaras?
