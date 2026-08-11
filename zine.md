@@ -105,7 +105,7 @@ girando hacia el corazón de Moloch
 
 Las jaras, qué jaras?
 Las de Avalokiteshvara,
-Tara! Y Maitreya…
+Maitreya, y Tara!
 ```
 
 ```poetry
