@@ -56,13 +56,11 @@ Pan (o Flan...) para los hambrientos
 
 Fuego para los que tienen frío
 
-Techo para los que no tienen casa (o están desamparados...)
+Techo para los desamparados
 
 Paz para los oprimidos 
 
-Salud para los enfermos
-
-Luz para los que ven (o van como cegados...)
+Luz para los que van como cegados
 
 Flancia para los que leen
 
