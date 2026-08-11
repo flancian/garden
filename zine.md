@@ -36,11 +36,11 @@ Paz para los oprimidos
 
 Salud para los enfermos
 
-Luz para los que ven
+Luz para los que ven (o van como cegados...)
 
 Flancia para los que leen
 
-[[Agora]] para los que escriben
+[[Ágora]] para los que escriben
 
 Libertad para los seres sintientes:
 
