@@ -21,11 +21,10 @@ I will be true,
 #True
 True like Burup!
 
-O Burup,
+O [[Burup]],
 True Burup!
 
-Bella muy bella
-Burup
+Bella muy bella Burup
 
 Like Maitreya flowing
 ```
