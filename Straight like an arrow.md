@@ -12,7 +12,6 @@ ever bending
 Like an arrow true
 oscillating
 
-Like a rainbow folding
-
+Like a Rainbow folding
 Like Maitreya flowing
 ```
