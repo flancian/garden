@@ -13,6 +13,7 @@ Like an arrow true
 oscillating
 
 Like a Rainbow folding
+as Maitreya flowing
 
 I will be true,
 [[true]],
@@ -25,6 +26,4 @@ True Burup!)
 Like an arrow straight
 ever bending
 
-
-Like Maitreya flowing
-```
+``
