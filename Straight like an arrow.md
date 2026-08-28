@@ -1,13 +1,12 @@
 - a [[poem]].
-    - Thank you for reading!
 
 ```poetry
 I will be straight, 
-straight, 
-[straight]]
+[[straight]], 
+#Straight
 Straight like an arrow!
 
-Like an arrow
+Like an arrow true
 ever bending
 
 Like an arrow true
