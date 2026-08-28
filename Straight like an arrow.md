@@ -13,23 +13,19 @@ Like an arrow true
 oscillating
 
 Like a Rainbow folding
-as Maitreya flowing
 ```
 
 ```poetry
 I will be true,
 [[true]],
 #True
-
-Like Burup
+True like Burup!
 
 O Burup,
 True Burup!
 
+Bella muy bella
+Burup
 
-Bella my bella Burup
-Bella muy bella Burup
-
-Like an arrow straight
-ever bending
-``
+Like Maitreya flowing
+```
