@@ -13,5 +13,18 @@ Like an arrow true
 oscillating
 
 Like a Rainbow folding
+
+I will be true,
+[[true]],
+#True
+True like Burup
+
+(O Burup,
+True Burup!)
+
+Like an arrow straight
+ever bending
+
+
 Like Maitreya flowing
 ```
