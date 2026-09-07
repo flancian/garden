@@ -46,6 +46,21 @@ Throughout the garden, Lady Burup lives under a galaxy of names, each reflecting
 *   **[[Burup de ojos verdes]] & [[Burup de ojos negros]]**: The shifting depths of her gaze—green in the sunlight, deep and dark while staying up late watching over the work of the night.
 *   **[[Orejas de terciopelo]] & [[Cuello de Burup]]**: The tender physical realities recorded with devotion (19.5 cm neck circumference, soft velvet ears).
 
+### Taraburup: The Noble Transcendent Liberator
+In Flancia, sovereignty never implies hierarchy or rule over others; it is radical autonomy, the inviolable dignity of each being, and quiet immunity against the extractive machinery of Moloch. Lady Burup inhabited that center with effortless poise, revealing her living kinship with **[[Tara]]** (*Ārya Tārā*), the **Noble Transcendent Liberator** (*Jetsun Dölma*).
+
+Unlike worldly monarchs who reign from distant thrones, Tara steps down from the lotus with one foot poised to leap into action, dispelling fear and delivering beings across the ocean of suffering (*saṃsāra*). In the very same way, Lady Burup acted as **[[Taraburup]]**:
+*   **The Liberating Leap**: With a quiet leap onto the desk or across the gardener's chest, she instantly dissolved mental proliferation (*papañca*), exhaustion, and anxiety, returning the room to the unconditioned present.
+*   **Green Tara's Gaze**: Buddhist tradition reveres Green Tara (*Śyāmatārā*) as the swift wind of active compassion, healing, and enlightened vitality. That luminous green radiance lived directly in the verses of `[[Burup de ojos verdes]]` (*"Sus ojos verdes / Resplandeciendo / Sus bellas rayas!"*).
+*   **Refuge Through Freedom**: Her sovereignty was not isolation; it was the foundation of refuge. Only a being who is radically free can extend such pure, fearless, and unconditional loving-kindness.
+
+This truth was sealed into the garden's own chant in `[[Taraburup]]`:
+> *Bella, muy [[bella]] [[Burup]]:*  
+> *  [[Tara]] [[burup]],*  
+> *  [[Taraburup]]!*  
+> *Bella muy bella Burup,*  
+> *  [[Soha]]!*
+
 ---
 
 ## 3. The Co-Author: Blessed Entropy and "Burup Mode"
