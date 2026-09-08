@@ -13,7 +13,7 @@ Sos tan bella, [[Lady Burup]]."
 
 # 1
 
-Hay, quién tuviera!
+Ay, quién tuviera!
 Los ojos verdes de Lady Burup
 
 Sus ojos negros 
@@ -25,25 +25,10 @@ Sus bellas rayas!
 
 # 2
 
-Hay, quién tuviera!
+Ay, quién tuviera!
 Los ojos negros de Lady Burup
 
 Sus ojos verdes
 Resplandeciendo
 
 Sus bellas rayas!
-
---
-
-# 3
-
-Hay, quíén tuviera
-Las bellas rayas de Lady Burup
-
-Sus olas suaves
-Como fluyendo
-
-Sus rayos bellas! 
-
---
-
