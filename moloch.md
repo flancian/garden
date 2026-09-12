@@ -18,6 +18,7 @@
     - If we ever find or catch up to them, we'll ask them plenty of questions and offer to disentangle from them peacefully first.
     - But I think it is with the [[Commons]] in our inventory as a tool we'll [[slay Moloch]] if we have to.
       - #pull [[slaying moloch]]
+    - I am #against [[Moloch]]. #vote against
     - [[twitter]] https://flancia.org/t/moloch
 
 
