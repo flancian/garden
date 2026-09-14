@@ -20,3 +20,7 @@ These drafts are based on the architectural suggestions provided in [[GEMINI]] (
 6.  [[The Right to Exit]] (freedom of movement as governance)
 7.  [[Algorithmic Pluralism]] (resisting the single feed)
 8.  [[Social Friction]] (inefficiency as a feature)
+
+### The Loom & Stewardship (2026)
+9.  [LOOM.md](file:///home/flancian/garden/gemini/LOOM.md) (active stewardship clusters and task roadmap)
+10. [garden_review_master_synthesis.md](file:///home/flancian/garden/gemini/garden_review_master_synthesis.md) (deep-scan master synthesis of 7,794 files)
