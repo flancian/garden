@@ -94,6 +94,7 @@ graph TD
 ---
 
 ## 🔗 Related Reference Documents
+- **[Browser Tab Archaeology](file:///home/flancian/garden/gemini/tabs-archaeology.md)** *(Longitudinal excavation of 28,358 tabs validating the 5 clusters)*
 - **[Master Synthesis Report](file:///home/flancian/garden/gemini/garden_review_master_synthesis.md)**
 - **[Agora Garden Stewardship Dashboard](file:///home/flancian/garden/gemini/garden_review_dashboard.md)**
 - **[Agora Handoff & 10 Themes](file:///home/flancian/garden/gemini/HANDOFF.md)**
