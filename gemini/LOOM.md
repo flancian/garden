@@ -99,3 +99,4 @@ graph TD
 - **[Agora Handoff & 10 Themes](file:///home/flancian/garden/gemini/HANDOFF.md)**
 - **[Structural Analysis Report](file:///home/flancian/garden/gemini/structure_report.md)**
 - **[Open TODOs Report](file:///home/flancian/garden/gemini/todos_report.md)**
+- **[Browser Tab Archaeology (Excavation & Anchors)](file:///home/flancian/garden/gemini/tabs-archaeology.md)**
