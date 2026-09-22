@@ -101,3 +101,4 @@ graph TD
 - **[Structural Analysis Report](file:///home/flancian/garden/gemini/structure_report.md)**
 - **[Open TODOs Report](file:///home/flancian/garden/gemini/todos_report.md)**
 - **[Browser Tab Archaeology (Excavation & Anchors)](file:///home/flancian/garden/gemini/tabs-archaeology.md)**
+- **[Live Browser Tab Triage & Tending Review](file:///home/flancian/garden/gemini/tabs-triage.md)**
