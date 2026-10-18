@@ -73,14 +73,14 @@ def sieve_primes(n):
     return [i for i, is_p in enumerate(sieve) if is_p]
 
 
-def format_primes(primes, limit_each=20):
-    """Formats a list of primes with wikilinks using head-and-tail if long."""
+def format_primes(primes, limit=1000):
+    """Formats a list of primes with wikilinks without ellipsis."""
     total = len(primes)
-    if total <= limit_each * 2:
-        return ", ".join(f"[[{p}]]" for p in primes)
-    head = ", ".join(f"[[{p}]]" for p in primes[:limit_each])
-    tail = ", ".join(f"[[{p}]]" for p in primes[-limit_each:])
-    return f"{head}, ... {tail} ({total} total)"
+    if total <= limit:
+        return ", ".join(f"[[{p}]]" for p in primes) + f" ({total} total)"
+    else:
+        shown = ", ".join(f"[[{p}]]" for p in primes[:limit])
+        return f"{shown} (first {limit} of {total} total)"
 
 
 def print_prime_neighborhood(n, is_p, primes):
@@ -118,26 +118,26 @@ def print_prime_neighborhood(n, is_p, primes):
         if n == 2:
             relations.append("the only even prime")
         if prev_p and n - prev_p == 2:
-            relations.append(f"twin prime with [[{prev_p}]]")
+            relations.append(f"[twin prime](https://en.wikipedia.org/wiki/Twin_prime) with [[{prev_p}]]")
         if next_p - n == 2:
-            relations.append(f"twin prime with [[{next_p}]]")
+            relations.append(f"[twin prime](https://en.wikipedia.org/wiki/Twin_prime) with [[{next_p}]]")
         if prev_p and n - prev_p == 4:
-            relations.append(f"cousin prime with [[{prev_p}]]")
+            relations.append(f"[cousin prime](https://en.wikipedia.org/wiki/Cousin_prime) with [[{prev_p}]]")
         if next_p - n == 4:
-            relations.append(f"cousin prime with [[{next_p}]]")
+            relations.append(f"[cousin prime](https://en.wikipedia.org/wiki/Cousin_prime) with [[{next_p}]]")
         if prev_p and n - prev_p == 6:
-            relations.append(f"sexy prime with [[{prev_p}]]")
+            relations.append(f"[sexy prime](https://en.wikipedia.org/wiki/Sexy_prime) with [[{prev_p}]]")
         if next_p - n == 6:
-            relations.append(f"sexy prime with [[{next_p}]]")
+            relations.append(f"[sexy prime](https://en.wikipedia.org/wiki/Sexy_prime) with [[{next_p}]]")
         if relations:
             click.echo(f"  Special relations: {', '.join(relations)}.")
 
         left_str = ", ".join(f"[[{p}]]" for p in prev_primes)
         right_str = ", ".join(f"[[{p}]]" for p in next_primes[:3])
         if left_str:
-            click.echo(f"  Local context: ... {left_str} < *[[{n}]]* < {right_str} ...")
+            click.echo(f"  Local context: {left_str} < **[[{n}]]** < {right_str}")
         else:
-            click.echo(f"  Local context: *[[{n}]]* < {right_str} ...")
+            click.echo(f"  Local context: **[[{n}]]** < {right_str}")
     else:
         prev_p = primes[-1] if primes else None
         if prev_p is None:
@@ -159,10 +159,15 @@ def print_prime_neighborhood(n, is_p, primes):
         click.echo(f"  Nearest following prime: [[{next_p}]] (distance +{next_p - n})")
         if prev_p:
             gap = next_p - prev_p
-            click.echo(f"  Prime gap containing [[{n}]]: {gap} (interval `[[{prev_p}]]` to `[[{next_p}]]`)")
+            click.echo(f"  Prime gap containing **[[{n}]]**: {gap} (interval `[[{prev_p}]]` to `[[{next_p}]]`)")
+            if gap == 2:
+                click.echo(f"  Special: lies between [twin primes](https://en.wikipedia.org/wiki/Twin_prime) [[{prev_p}]] and [[{next_p}]].")
             left_str = ", ".join(f"[[{p}]]" for p in prev_primes)
             right_str = ", ".join(f"[[{p}]]" for p in next_primes[:3])
-            click.echo(f"  Local context: ... {left_str} < [[{n}]] < {right_str} ...")
+            if left_str:
+                click.echo(f"  Local context: {left_str} < **[[{n}]]** < {right_str}")
+            else:
+                click.echo(f"  Local context: **[[{n}]]** < {right_str}")
 
 
 class AgoraCmd(click.Command):
