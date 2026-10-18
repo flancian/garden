@@ -216,9 +216,15 @@ def prime(n):
             divs_str = ", ".join(f"[[{d}]]" for d in divs)
             click.echo(f"\nProper divisors: {divs_str}")
 
-    primes = sieve_primes(n)
+    MAX_FULL_SIEVE = 2_000_000
+    primes = sieve_primes(n) if n <= MAX_FULL_SIEVE else []
+
+    print_prime_neighborhood(n, is_p, primes)
+
     if primes:
         click.echo(f"\nPrimes up to {n}: {format_primes(primes)}.")
+    elif n > MAX_FULL_SIEVE:
+        click.echo(f"\n(Primes up to {n} omitted to conserve memory).")
 
 
 if __name__ == '__main__':
