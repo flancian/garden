@@ -204,9 +204,9 @@ def prime(n):
     is_p = (len(factors) == 1)
 
     if is_p:
-        click.echo(f"[[{n}]] is *prime*.")
+        click.echo(f"**[[{n}]]** is *prime*.")
     else:
-        click.echo(f"[[{n}]] is *not prime* (composite). Want proof? :)")
+        click.echo(f"**[[{n}]]** is *not prime* (composite). Want proof? :)")
         factor_links = " * ".join(f"[[{f}]]" for f in factors)
         click.echo(f"\nFull prime factorization: {factor_links}")
 
