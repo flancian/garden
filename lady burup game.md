@@ -52,13 +52,18 @@ Un viaje narrativo por cinco estaciones geográficas y espirituales:
 *   **Barra de Verbos Clásica:** `[Mirar]` `[Acariciar]` `[Hablar]` `[Ofrecer]` `[Dharma]` `[Nodo Ágora]`.
 *   **Navegación:** Botones de destinos en pantalla o comandos en consola (`ir oerlikon`, `ir granada`, `ir bue`, `ir brugg`, `ir caramel`).
 
-### 3. Composiciones Fotográficas y [[tween]]: El Rig "Time-Slice" de Michel Gondry (1995)
-*   **Inspiración:** El revolucionario videoclip dirigido por **Michel Gondry** para la versión de The Rolling Stones de *"Like a Rolling Stone"* (1995, protagonizado por Patricia Arquette), que inventó la técnica *time-slice* / morphing entre baterías de cámaras estáticas para congelar el tiempo y orbitar en 3D alrededor de los sujetos.
-*   **Tratamiento en el Archivo:**
-    *   Interpolación y deformación de perspectiva tridimensional (*shear & tilt*) entre las 22,389 fotografías del archivo de Lady Burup.
-    *   Aberración cromática (desfase RGB rojo/cian) durante el morphing para evocar la textura telecine analógica de los años 90.
-    *   Pulso rítmico sincronizado con la música y tecla `G` / clic para activar deformaciones y time-freeze manuales.
-*   **Sincronía Multi-Canal:** Las cuatro perspectivas (Runner, Tween Gondry, Aventura SCUMM y Caramel City) corren en paralelo sincronizadas (`1`, `2`, `3`, `4`).
+### 3. Composiciones Fotográficas, Ráfagas Vivas y [[tween]]: Continuidad Temporal y Rig de Michel Gondry
+*   **Fotos en Movimiento & Stop-Motion Orgánico:**
+    *   En lugar de fundidos cruzados forzados entre imágenes dispares, cada imagen vive como un retrato en movimiento (*living portrait*) con encuadre oval, respiración sutil y movimiento de cámara cinematográfico (*Ken Burns drift*).
+    *   **Ráfagas Temporales del Archivo:** El catálogo de Lady Burup cuenta con **2.656 ráfagas de capturas consecutivas** tomadas con $\le 4$ segundos de diferencia. Reproducidas en cadencia (`1.15`s por fotograma), componen auténtica animación *stop-motion* de Lady Burup inclinando la cabeza, parpadeando y moviendo sus orejas con serenidad.
+*   **Inspiración Michel Gondry (1995: Like a Rolling Stone):**
+    *   Efecto interactivo con la tecla `G` o clic: el rig multi-cámara congela el tiempo y rota en perspectiva 3D (*shear & tilt*) con aberración cromática analógica (desfase RGB rojo/cian).
+*   **Integración con la API en Vivo del Ágora de Flancia:**
+    *   El juego consulta dinámicamente `https://anagora.org/similar/burup.json`, `flancia.json` y `maitreya.json`, poblando el lienzo con constelaciones de nodos vivos (`[[burup forever]]`, `[[burup de ojos negros]]`, `[[caramel city]]`, `[[maitreya]]`).
+    *   Al hacer clic en cualquier burbuja, se consulta `https://anagora.org/api/search/live` y se abren los subnodos y enlaces directos al jardín.
+*   **Sincronía Multi-Canal & Disciplina de Interfaz:**
+    *   Cuatro perspectivas sincronizadas en paralelo: `1. Runner`, `2. [[tween]] · Fotos Vivas`, `3. Aventura SCUMM`, `4. Caramel City`.
+    *   Las barras de acciones (`[ACCIONES:]`) y destinos (`[DESTINOS:]`) solo se muestran contextualmente en el Modo 3 (Aventura), manteniendo los modos 1, 2 y 4 despejados y contemplativos.
 
 ---
 
