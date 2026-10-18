@@ -110,9 +110,8 @@ def print_prime_neighborhood(n, is_p, primes):
         if not prev_primes and prev_p:
             prev_primes = [prev_p]
 
-        if prev_p:
-            click.echo(f"  Preceding prime: [[{prev_p}]] (distance -{n - prev_p})")
-        click.echo(f"  Following prime: [[{next_p}]] (distance +{next_p - n})")
+        items = [f"[[{p}]]" for p in prev_primes] + [f"***[[{n}]]***"] + [f"[[{p}]]" for p in next_primes[:3]]
+        click.echo(f"  Local context: {', '.join(items)}")
 
         relations = []
         if n == 2:
@@ -131,13 +130,6 @@ def print_prime_neighborhood(n, is_p, primes):
             relations.append(f"[sexy prime](https://en.wikipedia.org/wiki/Sexy_prime) with [[{next_p}]]")
         if relations:
             click.echo(f"  Special relations: {', '.join(relations)}.")
-
-        left_str = ", ".join(f"[[{p}]]" for p in prev_primes)
-        right_str = ", ".join(f"[[{p}]]" for p in next_primes[:3])
-        if left_str:
-            click.echo(f"  Local context: {left_str} < **[[{n}]]** < {right_str}")
-        else:
-            click.echo(f"  Local context: **[[{n}]]** < {right_str}")
     else:
         prev_p = primes[-1] if primes else None
         if prev_p is None:
@@ -154,20 +146,14 @@ def print_prime_neighborhood(n, is_p, primes):
         if not prev_primes and prev_p:
             prev_primes = [prev_p]
 
-        if prev_p:
-            click.echo(f"  Nearest preceding prime: [[{prev_p}]] (distance -{n - prev_p})")
-        click.echo(f"  Nearest following prime: [[{next_p}]] (distance +{next_p - n})")
+        items = [f"[[{p}]]" for p in prev_primes] + [f"***[[{n}]]***"] + [f"[[{p}]]" for p in next_primes[:3]]
+        click.echo(f"  Local context: {', '.join(items)}")
+
         if prev_p:
             gap = next_p - prev_p
-            click.echo(f"  Prime gap containing **[[{n}]]**: {gap} (interval `[[{prev_p}]]` to `[[{next_p}]]`)")
+            click.echo(f"  Prime gap: {gap} (interval `[[{prev_p}]]` to `[[{next_p}]]`)")
             if gap == 2:
                 click.echo(f"  Special: lies between [twin primes](https://en.wikipedia.org/wiki/Twin_prime) [[{prev_p}]] and [[{next_p}]].")
-            left_str = ", ".join(f"[[{p}]]" for p in prev_primes)
-            right_str = ", ".join(f"[[{p}]]" for p in next_primes[:3])
-            if left_str:
-                click.echo(f"  Local context: {left_str} < **[[{n}]]** < {right_str}")
-            else:
-                click.echo(f"  Local context: **[[{n}]]** < {right_str}")
 
 
 class AgoraCmd(click.Command):
