@@ -92,7 +92,6 @@ def print_prime_neighborhood(n, is_p, primes):
             next_primes.append(k)
         k += 1
 
-    click.echo("\nPrime neighborhood:")
     if is_p:
         prev_p = primes[-2] if (primes and len(primes) >= 2) else None
         if prev_p is None:
@@ -111,7 +110,7 @@ def print_prime_neighborhood(n, is_p, primes):
             prev_primes = [prev_p]
 
         items = [f"[[{p}]]" for p in prev_primes] + [f"***[[{n}]]***"] + [f"[[{p}]]" for p in next_primes[:3]]
-        click.echo(f"  Local context: {', '.join(items)}")
+        click.echo(f"\nPrime neighborhood: {', '.join(items)}")
 
         relations = []
         if n == 2:
@@ -129,7 +128,7 @@ def print_prime_neighborhood(n, is_p, primes):
         if next_p - n == 6:
             relations.append(f"[sexy prime](https://en.wikipedia.org/wiki/Sexy_prime) with [[{next_p}]]")
         if relations:
-            click.echo(f"  Special relations: {', '.join(relations)}.")
+            click.echo(f"Special relations: {', '.join(relations)}.")
     else:
         prev_p = primes[-1] if primes else None
         if prev_p is None:
@@ -147,13 +146,13 @@ def print_prime_neighborhood(n, is_p, primes):
             prev_primes = [prev_p]
 
         items = [f"[[{p}]]" for p in prev_primes] + [f"***[[{n}]]***"] + [f"[[{p}]]" for p in next_primes[:3]]
-        click.echo(f"  Local context: {', '.join(items)}")
+        click.echo(f"\nPrime neighborhood: {', '.join(items)}")
 
         if prev_p:
             gap = next_p - prev_p
-            click.echo(f"  Prime gap: {gap} (interval `[[{prev_p}]]` to `[[{next_p}]]`)")
+            click.echo(f"Prime gap: {gap} (interval [[{prev_p}]] to [[{next_p}]])")
             if gap == 2:
-                click.echo(f"  Special: lies between [twin primes](https://en.wikipedia.org/wiki/Twin_prime) [[{prev_p}]] and [[{next_p}]].")
+                click.echo(f"Special: lies between [twin primes](https://en.wikipedia.org/wiki/Twin_prime) [[{prev_p}]] and [[{next_p}]].")
 
 
 class AgoraCmd(click.Command):
@@ -192,20 +191,13 @@ def prime(n):
     if is_p:
         click.echo(f"**[[{n}]]** is *prime*.")
     else:
-        click.echo(f"**[[{n}]]** is *not prime* (composite). Want proof? :)")
         factor_links = " * ".join(f"[[{f}]]" for f in factors)
-        click.echo(f"\nFull prime factorization: {factor_links}")
+        click.echo(f"**[[{n}]]** is *not prime* (composite): {factor_links}")
 
         pairs = get_factor_pairs(n)
-        if pairs:
-            click.echo("\nFactor pairs:")
-            for a, b in pairs:
-                click.echo(f"  [[{n}]] = [[{a}]] * [[{b}]]")
-
-        divs = get_proper_divisors(n)
-        if divs:
-            divs_str = ", ".join(f"[[{d}]]" for d in divs)
-            click.echo(f"\nProper divisors: {divs_str}")
+        if len(pairs) > 1:
+            pair_strs = [f"[[{a}]] * [[{b}]]" for a, b in pairs]
+            click.echo(f"Factor pairs: {', '.join(pair_strs)}")
 
     MAX_FULL_SIEVE = 2_000_000
     primes = sieve_primes(n) if n <= MAX_FULL_SIEVE else []
