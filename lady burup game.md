@@ -22,23 +22,43 @@ Puedes interactuar con el juego directamente aquí o abrirlo en pantalla complet
 
 El diseño del juego entrelaza tres dimensiones esenciales desarrolladas en el codex de Flancia:
 
-### 1. El Runner de Plataformas: La Huida y la Victoria sobre Moloch
+### 1. El Runner de Plataformas: La Huida, las Compuertas y la Periferia Compasiva
 *   **Inspiración:** La mítica apertura cinematográfica de *Prince of Persia II: The Shadow and the Flame*, donde el héroe escapa por los tejados de la ciudad vieja perseguido por la guardia del sultán y sombras.
-*   **Fase 1 (La Huida):** El Personaje y Lady Burup corren saltando chimeneas, antenas y tejados crepusculares, esquivando a los agentes de Moloch (sombras burocráticas, ojos de reloj, demandas de prisa y extracción).
-*   **Fase 2 (El Salto que Libera):** Al alcanzar tres flores de loto de [[Tara]], presionar la tecla `D` (Dharma) o declarar en la consola *"algún día venceremos a Moloch"*, ocurre la gran inversión: Burup salta hacia el cielo irradiando luz dorada, El Personaje gira con los brazos abiertos y ¡ahora perseguimos a Moloch! Al tocarlos, los agentes extractivos se disuelven en pétalos de flores, mariposas y libros abiertos.
+*   **El Personaje (Acción y Evasión):**
+    *   Corre por los tejados, esquivando y combatiendo a los agentes burocráticos de Moloch.
+    *   **Compuertas que se cierran:** Pesadas puertas de seguridad de Moloch que caen rápidamente; El Personaje debe agacharse y deslizarse (`⬇️ Deslizar` / `S` / `Flecha Abajo`) para cruzar antes de que se sellen.
+    *   **Ventanas y claraboyas:** Saltos entre edificios que atraviesan ventanas de cristal crepusculares (`⬆️ Saltar` / `Espacio` / `W`), estallando en esquirlas cristalinas luminosas.
+*   **Lady Burup en la Periferia Inteligente y Elevada:**
+    *   Burup no corre en el peligroso suelo ni queda atrapada en las puertas: toma un camino elevado sobre cables de telégrafo, cornisas y arcos de neón.
+    *   **Bypass compasivo:** Al detectar una compuerta que amenaza con cerrarse sobre El Personaje, Burup pisa el interruptor elevado en el cable, arrojando un destello de luz dorada que *traba la puerta abierta* y salva la carrera.
+    *   Si El Personaje tropieza, Burup interviene sin penalización fatal, encarnando el principio del *Software Cortés* y *Maitreya*.
+*   **Hasta... El Salto que Libera:**
+    *   Al alcanzar los 500 metros, los tejados se acaban en el precipicio abismal de la ciudad. Las puertas de Moloch se sellan atrás; no hay suelo por delante.
+    *   Burup corre hacia la punta de la antena más alta, mira hacia atrás con ojos verde esmeralda, escribe *"iuuuuuuu"* en el aire y salta hacia el vacío estelar.
+    *   El Personaje salta tras ella: la gravedad se transfigura en ascensión, el cielo estalla en un amanecer dorado y los agentes de Moloch se disuelven en pétalos de loto, mariposas y libros abiertos del Ágora.
 
-### 2. Aventura Conversacional estilo SCUMM
-*   **Atmósfera:** El balcón de Brugg con vista hacia el horizonte nocturno de la ciudad y las luces de Caramel City.
+### 2. Aventura Conversacional estilo SCUMM: De Brugg a Oerlikon y los Lugares Soñados
+Un viaje narrativo por cinco estaciones geográficas y espirituales:
+1.  **🚉 Brugg (2020) — El Andén y la Llegada:**  
+    El andén brumoso de la estación suiza un 7 de noviembre de 2020. El transportín azul donde Ocell llegó desde Granada, tímida pero serena, el primer cuenco de agua y el inicio del vínculo.
+2.  **🏠 Oerlikon (Zürich) — El Templo y el Hogar:**  
+    El estudio de Oerlikon al atardecer: el gran piano de cola donde nacieron las 42 Variaciones en Fa# Mayor, el escritorio con el script `executable_burup` deshabilitando el teclado para que duerma tibia en la laptop, la pantalla con videos de 3blue1brown y el té de hierbas de Maitri.
+3.  **🏰 Granada Libre — El Albaicín y la Alhambra Soberana:**  
+    *Lugares que Burup ya no visitó físicamente en vida, pero que visita ahora en el Ágora:* Las terrazas encaladas del Albaicín con vista a la Alhambra iluminada bajo la luna andaluza, macetas de jazmín y azahar, paseando libremente como un verdadero pájaro (*Ocell*).
+4.  **🌿 Buenos Aires — San Telmo y Jacarandás:**  
+    Las raíces de Flancia: balcones con rejas de hierro forjado en San Telmo, adoquines, flores lilas de jacarandá cayendo con la brisa, el mate caliente y un tango lejano en Fa# Mayor.
+5.  **🌌 Caramel City & El Ágora Cósmica:**  
+    La metrópolis cuántica de luz: islas de loto de Tara, puentes de constelaciones donde Taraburup corre ingrávida, libre de dolor y peso.
 *   **Barra de Verbos Clásica:** `[Mirar]` `[Acariciar]` `[Hablar]` `[Ofrecer]` `[Dharma]` `[Nodo Ágora]`.
-*   **Objetos del Lore:**
-    *   `[💻 Warm Laptop]`: El portátil tibio (`executable_burup`) donde Burup duerme, aportando entropía bendita al código.
-    *   `[🍵 Té de Maitri]`: Calma la mente frente a la prisa del mundo.
-    *   `[🎹 Melodía Burup]`: Las 42 variaciones para piano de cola en Fa# Mayor.
-    *   `[🌸 Flor de Loto]`: Presencia pura de Tara.
+*   **Navegación:** Botones de destinos en pantalla o comandos en consola (`ir oerlikon`, `ir granada`, `ir bue`, `ir brugg`, `ir caramel`).
 
-### 3. Composiciones Fotográficas y [[tween]] ("Like a Rolling Stone")
-*   **Morph Continuo:** Transiciones suaves entre las 22,389 fotografías del archivo soberano de Lady Burup mediante algoritmos de interpolación (easing sinusoidal, rotación y zoom respiratorio).
-*   **Efecto "Like a Rolling Stone":** Al estilo del video interactivo de Bob Dylan, las cuatro perspectivas (Runner, Tween, Aventura y Caramel City) transcurren simultáneamente en canales sincronizados, permitiendo saltar con las teclas `1`, `2`, `3` y `4` sin cortar la música ni la narrativa.
+### 3. Composiciones Fotográficas y [[tween]]: El Rig "Time-Slice" de Michel Gondry (1995)
+*   **Inspiración:** El revolucionario videoclip dirigido por **Michel Gondry** para la versión de The Rolling Stones de *"Like a Rolling Stone"* (1995, protagonizado por Patricia Arquette), que inventó la técnica *time-slice* / morphing entre baterías de cámaras estáticas para congelar el tiempo y orbitar en 3D alrededor de los sujetos.
+*   **Tratamiento en el Archivo:**
+    *   Interpolación y deformación de perspectiva tridimensional (*shear & tilt*) entre las 22,389 fotografías del archivo de Lady Burup.
+    *   Aberración cromática (desfase RGB rojo/cian) durante el morphing para evocar la textura telecine analógica de los años 90.
+    *   Pulso rítmico sincronizado con la música y tecla `G` / clic para activar deformaciones y time-freeze manuales.
+*   **Sincronía Multi-Canal:** Las cuatro perspectivas (Runner, Tween Gondry, Aventura SCUMM y Caramel City) corren en paralelo sincronizadas (`1`, `2`, `3`, `4`).
 
 ---
 
@@ -46,17 +66,21 @@ El diseño del juego entrelaza tres dimensiones esenciales desarrolladas en el c
 
 En la parte inferior de la pantalla, una consola terminal (`burup@agora:~$`) permite la co-creación en tiempo real:
 
+*   **Navegación:** `ir <lugar>` (`ir oerlikon`, `ir granada`, `ir bue`, `ir brugg`, `ir caramel`).
+*   **Acciones:** `saltar`, `deslizar`, `acariciar`, `dharma`, `gondry`.
 *   **Generación de Controles:** El comando `boton <texto>` añade instantáneamente una píldora de acción interactiva a la barra de herramientas del usuario.
 *   **Generación de Nodos:** El comando `nodo <concepto>` lanza una burbuja flotante del Ágora (`[[Concepto]]`) al lienzo.
-*   **Poesía & Afecto:** Reconoce comandos naturales como `acariciar`, `saltar`, `amor`, `flores` y `iuuuuuuu`.
+*   **Poesía & Afecto:** Reconoce comandos naturales como `amor`, `flores` y el mantra `"algún día venceremos a Moloch / iuuuuuuu"`.
 
 ---
 
 ## 🔗 Enlaces Relacionados
 *   [[Lady Burup]]
+*   [[Ocell]]
 *   [[Ágora de Flancia]]
 *   [[Moloch]]
 *   [[Prince of Persia]]
 *   [[SCUMM]]
 *   [[tween]]
 *   [[Variaciones Burup]]
+*   [[Michel Gondry]]
