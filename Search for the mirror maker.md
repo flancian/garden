@@ -2,4 +2,4 @@ It started with the trip to Ikea where we got a glass display case for a seeming
 
 These things having been considered we dutifully repacked it and brought it down to the nice Kellar that all Swiss apartments offer to their inhabitants, including renters like us, with the promise of returning it eventually giving way to the resignation that it would need to be given away or recycled privately, its heft requiring a van and serious intentions and interests to persuade at least two people to risk back pain and a possibly loaded bow.
 
-Upon further reflection this resulting in one of the weirdest TODOs in my note taking system, the indefinite article given way to the definite because of writing it down some after having the idea: search for the mirror maker.
+This eventually resulting in one of the weirdest TODOs in my note taking system: search for a mirror makes, the indefinite article giving way finally to the definite because of writing it down some after having the idea: search for the mirror maker.
