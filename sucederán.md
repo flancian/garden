@@ -1,3 +1,4 @@
-Lo que prometimos
+Lo que prometimos:
+
 Sucederá, [[sucederá]]...
 
