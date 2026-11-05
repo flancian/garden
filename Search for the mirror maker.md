@@ -5,3 +5,7 @@ These things having been considered we dutifully repacked it and brought it down
 This eventually resulting in one of the most surprising TODOs in my note taking system: [[search for a mirror maker]], the indefinite article giving way to the definite on repeated recalling due to procrastination or, you could say, right prioritization of such a niche task in the grander scheme of things. 
 
 But have you tried it?
+
+--
+
+I did and I found that Primo Levi wrote something called [[The Mirror Maker]] and I closed the tab before learning anything else about this work to reflect.
