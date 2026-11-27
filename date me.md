@@ -7,15 +7,16 @@
 ---
 
 ## Who I am
-- I am [[flancian]] — born in [[Argentina]], living in [[Zürich]], [[Switzerland]].
+- I am **Eduardo** (or **Flan** for short; [[flancian]] here in the [[Agora]]) — born in [[Argentina]], living in [[Zürich]], [[Switzerland]].
 - By day, a [[site reliability engineer]] (and active in the [[employee representation group]]).
-- By night (like tonight, writing from [[Bitwäscherei]]), an [[amateur utopian]], [[open source]] maintainer, [[SGMK]] / [[mechatronic art]] tinkerer, [[piano]] / [[MIDI]] explorer, [[meditation]] practitioner, and [[cat]] person.
+- By night (often tinkering at [[Bitwäscherei]]), an [[amateur utopian]], [[open source]] maintainer, [[SGMK]] / [[mechatronic art]] tinkerer, [[piano]] / [[MIDI]] explorer, [[meditation]] practitioner, and [[cat]] person.
 - I build the [[Agora of Flancia]] (a [[free knowledge commons]]) and try to practice [[loving kindness]] ([[metta]]), [[open ethics]], and [[protopian thinking]] — [[for the benefit of all beings]].
 
-## Logistics (TODO: fill in before publishing)
+## Logistics
 - **Age / Pronouns:** `[TODO]`
-- **Looking for:** `[TODO]`
-- **Relationship style:** `[TODO]`
+- **Looking for:** Romantically interested in women (~30–50); also very open to *a priori* platonic relationships with a wide variety of people.
+- **Relationship style:** Historically serially monogamous, interested in [[poly]] / open to figuring it out thoughtfully together.
+- **Kids:** No kids, and don't want kids.
 - **Location:** [[Zürich]] (and occasionally traveling).
 - **Photos:** `[TODO]`
 
